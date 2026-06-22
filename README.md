@@ -1,7 +1,7 @@
 # Orchestration DB
 
 An open, queryable database of orchestral instrumentation for the classical
-repertoire — an open-source counterpart to *Daniels' Orchestral Music*. The
+repertoire. The
 shorthand looks like:
 
 ```
