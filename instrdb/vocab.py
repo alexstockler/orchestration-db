@@ -54,6 +54,9 @@ ABBREV = {
     "soprano_sax": "ssx", "alto_sax": "asx", "tenor_sax": "tsx",
     "baritone_sax": "barsx",
     "violin": "vln", "viola": "vla", "cello": "vlc", "double_bass": "db",
+    # historical / rare instruments that appear in 19th-century scores
+    "serpent": "serpent", "ophicleide": "ophicleide", "posthorn": "posthorn",
+    "contrabass_tuba": "cbtba",
 }
 
 # Reverse map for the parser. Built only from non-empty abbreviations.
@@ -64,7 +67,8 @@ KEY_BY_ABBREV = {v: k for k, v in ABBREV.items() if v}
 KEYBOARD_KEYS = {"piano", "celesta", "harpsichord", "organ", "harmonium",
                  "synthesizer"}
 EXTRA_KEYS = {"guitar", "electric_guitar", "bass_guitar", "mandolin", "banjo",
-              "accordion", "cimbalom"}
+              "accordion", "cimbalom", "serpent", "ophicleide", "posthorn",
+              "contrabass_tuba"}
 
 
 def abbrev(key: str) -> str:
