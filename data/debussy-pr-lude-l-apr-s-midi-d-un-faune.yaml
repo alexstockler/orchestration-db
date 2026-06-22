@@ -1,0 +1,29 @@
+id: debussy-pr-lude-l-apr-s-midi-d-un-faune
+work:
+  composer: Debussy, Claude
+  title: Prélude à l’après-midi d’un faune
+  ids:
+    imslp: Prélude à l'après-midi d'un faune, CD 87 (Debussy, Claude)
+  year: 1891
+formula: 3 3[1.2.Eh] 2 2 4000 2hp str
+instrumentation:
+  flute: 3
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  percussion:
+    instruments:
+    - crotales
+  harp: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pr%C3%A9lude_%C3%A0_l%27apr%C3%A8s-midi_d%27un_faune%2C_CD_87_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: 3, 2+1, 2, 2 - 4, 0, 0, 0, prc, strs :3 flutes, 2 oboes,
+    English horn, 2 clarinets, 2 bassoons, 4 horns, 2 harps, crotales, strings'
+duration_minutes: 10

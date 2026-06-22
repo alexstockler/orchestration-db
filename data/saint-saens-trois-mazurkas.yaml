@@ -1,0 +1,16 @@
+id: saint-saens-trois-mazurkas
+work:
+  composer: Saint-Saëns, Camille
+  title: Trois Mazurkas
+  ids:
+    imslp: 3 Mazurkas, Opp.21, 24, 66 (Saint-Saëns, Camille)
+  year: 1862
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Mazurkas%2C_Opp.21%2C_24%2C_66_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,15 @@
+id: wagner-der-ring-des-nibelungen
+work:
+  composer: Wagner, Richard
+  title: Der Ring des Nibelungen
+  ids:
+    imslp: Der Ring des Nibelungen, WWV 86 (Wagner, Richard)
+  year: 1848
+formula: ''
+instrumentation:
+  additional_raw: voices with chorus and orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Ring_des_Nibelungen%2C_WWV_86_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: voices with chorus and orchestra'

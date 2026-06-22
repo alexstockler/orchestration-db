@@ -1,0 +1,16 @@
+id: mendelssohn-string-quartet-no-1
+work:
+  composer: Mendelssohn, Felix
+  title: String Quartet No.1
+  ids:
+    imslp: String Quartet No.1, Op.12 (Mendelssohn, Felix)
+  year: 1829
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.1%2C_Op.12_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 23

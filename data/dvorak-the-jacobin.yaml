@@ -1,0 +1,74 @@
+id: dvorak-the-jacobin
+work:
+  composer: Dvořák, Antonín
+  title: The Jacobin
+  ids:
+    imslp: Jakobín, Op.84 (Dvořák, Antonín)
+  year: 1887
+formula: 7[pic.pic.pic.4.5.pic.pic] 3[1.2.Eh] 3 3[1.2.cbn] 4441 tmp org hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - instrument: piccolo
+  - instrument: piccolo
+  - {}
+  - {}
+  - instrument: piccolo
+  - instrument: piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 3
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 4
+  trombone: 4
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - bass drum
+    - cymbals
+  keyboards:
+  - instrument: organ
+  harp: 1
+  strings: str
+  soloists:
+  - Count Vilém of Harasov (bass)
+  - Bohuš
+  - his son (baritone)
+  - Julie
+  - Bohuš's wife (soprano)
+  - Benda
+  - the schoolmaster and choirmaster (tenor)
+  - Terinka
+  - his daughter (soprano)
+  - Jiří
+  - a young gamekeeper (tenor)
+  - Filip
+  - the Count's Burgrave [chief-of-staff] (bass)
+  - Adolf
+  - the Count's nephew (baritone)
+  - Lotinka
+  - the keeper of the keys at the castle (contralto) Mixed Chorus (SATB)
+  - Children Chorus (SSAA)
+  additional_raw: strings Small Orchestra Behind Stage
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jakob%C3%ADn%2C_Op.84_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Count Vilém of Harasov (bass), Bohuš, his son (baritone),
+    Julie, Bohuš''s wife (soprano), Benda, the schoolmaster and choirmaster (tenor),
+    Terinka, his daughter (soprano), Jiří, a young gamekeeper (tenor), Filip, the
+    Count''s Burgrave [chief-of-staff] (bass), Adolf, the Count''s nephew (baritone),
+    Lotinka, the keeper of the keys at the castle (contralto) Mixed Chorus (SATB),
+    Children Chorus (SSAA), Orchestra :3 piccolos, 2 flutes, 2 oboes, English horn,
+    3 clarinets, 2 bassoons, contrabassoon, 4 horns, 2 trumpets, 3 trombones, tuba,
+    timpani, triangle, bass drum, cymbals, organ, harp, strings Small Orchestra Behind
+    Stage :2 piccolos, 2 trumpets, trombone, triangle, cymbals, bass drum, strings'
+duration_minutes: 155

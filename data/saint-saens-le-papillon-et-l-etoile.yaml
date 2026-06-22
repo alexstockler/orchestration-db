@@ -1,0 +1,15 @@
+id: saint-saens-le-papillon-et-l-etoile
+work:
+  composer: Saint-Saëns, Camille
+  title: Le papillon et l'étoile
+  ids:
+    imslp: Le papillon et l'étoile (Saint-Saëns, Camille)
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_papillon_et_l%27%C3%A9toile_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

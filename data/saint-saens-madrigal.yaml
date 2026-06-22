@@ -1,0 +1,18 @@
+id: saint-saens-madrigal
+work:
+  composer: Saint-Saëns, Camille
+  title: Madrigal
+  ids:
+    imslp: Madrigal (Saint-Saëns, Camille)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - tenor
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Madrigal_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, male chorus (TTBB), piano'

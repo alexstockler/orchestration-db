@@ -1,0 +1,18 @@
+id: sibelius-humoresques-nos-3-6
+work:
+  composer: Sibelius, Jean
+  title: Humoresques (Nos.3-6)
+  ids:
+    imslp: 4 Humoresques for Violin and Orchestra, Op.89 (Sibelius, Jean)
+  year: 1917
+formula: 2022 0000 str
+instrumentation:
+  flute: 2
+  clarinet: 2
+  bassoon: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Humoresques_for_Violin_and_Orchestra%2C_Op.89_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 clarinets, 2 bassoons, strings'

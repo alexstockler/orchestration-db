@@ -1,0 +1,16 @@
+id: schumann-4-klavierst-cke
+work:
+  composer: Schumann, Robert
+  title: 4 Klavierstücke
+  ids:
+    imslp: 4 Klavierstücke, Op.32 (Schumann, Robert)
+  year: 1835
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Klavierst%C3%BCcke%2C_Op.32_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,16 @@
+id: debussy-six-pigraphes-antiques
+work:
+  composer: Debussy, Claude
+  title: Six épigraphes antiques
+  ids:
+    imslp: 6 Épigraphes antiques, CD 139 (Debussy, Claude)
+  year: 1914
+formula: ''
+instrumentation:
+  additional_raw: piano 4-hands
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_%C3%89pigraphes_antiques%2C_CD_139_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'
+duration_minutes: 15

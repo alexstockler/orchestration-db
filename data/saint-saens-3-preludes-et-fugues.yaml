@@ -1,0 +1,16 @@
+id: saint-saens-3-preludes-et-fugues
+work:
+  composer: Saint-Saëns, Camille
+  title: 3 Préludes et Fugues
+  ids:
+    imslp: 3 Preludes and Fugues, Op.99 (Saint-Saëns, Camille)
+  year: 1894
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Preludes_and_Fugues%2C_Op.99_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

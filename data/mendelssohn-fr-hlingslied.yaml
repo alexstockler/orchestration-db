@@ -1,0 +1,18 @@
+id: mendelssohn-fr-hlingslied
+work:
+  composer: Mendelssohn, Felix
+  title: Frühlingslied
+  ids:
+    imslp: Frühlingslied, MWV I 1 (Mendelssohn, Felix)
+  year: 1824
+formula: 1010 1000
+instrumentation:
+  flute: 1
+  clarinet: 1
+  horn: 1
+  additional_raw: voice | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fr%C3%BChlingslied%2C_MWV_I_1_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, flute, clarinet, horn, cello'

@@ -1,0 +1,15 @@
+id: bruckner-die-geburt
+work:
+  composer: Bruckner, Anton
+  title: Die Geburt
+  ids:
+    imslp: Die Geburt, WAB 69 (Bruckner, Anton)
+  year: 1852
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Geburt%2C_WAB_69_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

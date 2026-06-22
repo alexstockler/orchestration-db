@@ -1,0 +1,16 @@
+id: saint-saens-duettino
+work:
+  composer: Saint-Saëns, Camille
+  title: Duettino
+  ids:
+    imslp: Duettino, Op.11 (Saint-Saëns, Camille)
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Duettino%2C_Op.11_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4 hands'

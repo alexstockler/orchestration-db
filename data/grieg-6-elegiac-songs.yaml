@@ -1,0 +1,16 @@
+id: grieg-6-elegiac-songs
+work:
+  composer: Grieg, Edvard
+  title: 6 Elegiac Songs
+  ids:
+    imslp: 6 Elegiac Songs, Op.59 (Grieg, Edvard)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: Voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Elegiac_Songs%2C_Op.59_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

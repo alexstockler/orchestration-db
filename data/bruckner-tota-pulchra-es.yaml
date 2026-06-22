@@ -1,0 +1,20 @@
+id: bruckner-tota-pulchra-es
+work:
+  composer: Bruckner, Anton
+  title: Tota pulchra es
+  ids:
+    imslp: Tota pulchra es, WAB 46 (Bruckner, Anton)
+  year: 1878
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - tenor
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tota_pulchra_es%2C_WAB_46_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, mixed chorus (SATB), organ'
+duration_minutes: 5

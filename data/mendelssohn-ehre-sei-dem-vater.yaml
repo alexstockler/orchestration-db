@@ -1,0 +1,14 @@
+id: mendelssohn-ehre-sei-dem-vater
+work:
+  composer: Mendelssohn, Felix
+  title: Ehre sei dem Vater
+  ids:
+    imslp: Ehre sei dem Vater, MWV B 48 (Mendelssohn, Felix)
+formula: ''
+instrumentation:
+  chorus_raw: 2 mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ehre_sei_dem_Vater%2C_MWV_B_48_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 mixed chorus (SSAATTBB)'

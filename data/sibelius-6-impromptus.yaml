@@ -1,0 +1,16 @@
+id: sibelius-6-impromptus
+work:
+  composer: Sibelius, Jean
+  title: 6 Impromptus
+  ids:
+    imslp: 6 Impromptus, Op.5 (Sibelius, Jean)
+  year: 1893
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Impromptus%2C_Op.5_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

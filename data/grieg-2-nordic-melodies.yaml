@@ -1,0 +1,16 @@
+id: grieg-2-nordic-melodies
+work:
+  composer: Grieg, Edvard
+  title: 2 Nordic Melodies
+  ids:
+    imslp: 2 Nordic Melodies, Op.63 (Grieg, Edvard)
+  year: 1895
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Nordic_Melodies%2C_Op.63_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: string orchestra'
+duration_minutes: 11

@@ -1,0 +1,17 @@
+id: rimsky-korsakov-serenade
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: Serenade
+  ids:
+    imslp: Serenade, Op.37 (Rimsky-Korsakov, Nikolay)
+  year: 1893
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Serenade%2C_Op.37_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'

@@ -1,0 +1,16 @@
+id: debussy-le-roi-lear
+work:
+  composer: Debussy, Claude
+  title: Le roi Lear
+  ids:
+    imslp: Le roi Lear, CD 116 (Debussy, Claude)
+  year: 1904
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_roi_Lear%2C_CD_116_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (sketches only)'

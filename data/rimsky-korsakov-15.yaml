@@ -1,0 +1,16 @@
+id: rimsky-korsakov-15
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: 15 Русских народных песен
+  ids:
+    imslp: 15 Russian Folksongs, Op.19 (Rimsky-Korsakov, Nikolay)
+  year: 1879
+formula: ''
+instrumentation:
+  additional_raw: variously women's chorus or mixed chorus (poss, male chorus also?)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/15_Russian_Folksongs%2C_Op.19_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: variously women''s chorus or mixed chorus (poss. male chorus
+    also?)'

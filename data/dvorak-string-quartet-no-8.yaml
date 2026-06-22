@@ -1,0 +1,16 @@
+id: dvorak-string-quartet-no-8
+work:
+  composer: Dvořák, Antonín
+  title: String Quartet No.8
+  ids:
+    imslp: String Quartet No.8, Op.80 (Dvořák, Antonín)
+  year: 1876
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.8%2C_Op.80_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 30

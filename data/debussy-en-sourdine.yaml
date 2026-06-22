@@ -1,0 +1,17 @@
+id: debussy-en-sourdine
+work:
+  composer: Debussy, Claude
+  title: En sourdine
+  ids:
+    imslp: En sourdine, CD 42 (Debussy, Claude)
+  year: 1882
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/En_sourdine%2C_CD_42_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

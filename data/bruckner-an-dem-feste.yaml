@@ -1,0 +1,15 @@
+id: bruckner-an-dem-feste
+work:
+  composer: Bruckner, Anton
+  title: An dem Feste
+  ids:
+    imslp: An dem Feste, WAB 59a (Bruckner, Anton)
+  year: 1843
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_dem_Feste%2C_WAB_59a_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

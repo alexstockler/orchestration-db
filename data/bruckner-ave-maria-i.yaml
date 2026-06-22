@@ -1,0 +1,22 @@
+id: bruckner-ave-maria-i
+work:
+  composer: Bruckner, Anton
+  title: Ave Maria (I)
+  ids:
+    imslp: Ave Maria, WAB 5 (Bruckner, Anton)
+  year: 1856
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - soprano
+  - alto
+  chorus_raw: mixed chorus
+  additional_raw: cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_Maria%2C_WAB_5_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, mixed chorus (SATB), cello, organ'
+duration_minutes: 3

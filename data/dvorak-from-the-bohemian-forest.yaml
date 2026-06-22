@@ -1,0 +1,18 @@
+id: dvorak-from-the-bohemian-forest
+work:
+  composer: Dvořák, Antonín
+  title: From the Bohemian Forest
+  ids:
+    imslp: From the Bohemian Forest, Op.68 (Dvořák, Antonín)
+  year: 1883
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/From_the_Bohemian_Forest%2C_Op.68_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4 hands'
+duration_minutes: 30

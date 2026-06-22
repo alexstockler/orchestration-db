@@ -1,0 +1,16 @@
+id: grieg-6-songs
+work:
+  composer: Grieg, Edvard
+  title: 6 Songs
+  ids:
+    imslp: 6 Songs, Op.4 (Grieg, Edvard)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Songs%2C_Op.4_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

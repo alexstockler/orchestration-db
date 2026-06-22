@@ -1,0 +1,16 @@
+id: grieg-album-leaf
+work:
+  composer: Grieg, Edvard
+  title: Album Leaf
+  ids:
+    imslp: Albumblad, EG 109 (Grieg, Edvard)
+  year: 1878
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Albumblad%2C_EG_109_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

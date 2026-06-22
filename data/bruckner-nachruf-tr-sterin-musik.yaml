@@ -1,0 +1,17 @@
+id: bruckner-nachruf-tr-sterin-musik
+work:
+  composer: Bruckner, Anton
+  title: Nachruf ; Trösterin Musik
+  ids:
+    imslp: Nachruf, WAB 81a (Bruckner, Anton)
+  year: 1877
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nachruf%2C_WAB_81a_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB), organ'

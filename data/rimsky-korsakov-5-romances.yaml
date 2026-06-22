@@ -1,0 +1,17 @@
+id: rimsky-korsakov-5-romances
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: 5 Romances
+  ids:
+    imslp: 5 Romances, Op.51 (Rimsky-Korsakov, Nikolay)
+  year: 1897
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Romances%2C_Op.51_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

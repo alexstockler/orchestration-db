@@ -1,0 +1,41 @@
+id: debussy-pell-as-et-m-lisande
+work:
+  composer: Debussy, Claude
+  title: Pelléas et Mélisande
+  ids:
+    imslp: Pelléas et Mélisande, CD 93 (Debussy, Claude)
+  year: 1893
+formula: 3[1.2.3/pic] 3[1.2.Eh] 2 3 4331 tmp 2hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 3
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - glockenspiel
+    - bell
+  harp: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pell%C3%A9as_et_M%C3%A9lisande%2C_CD_93_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 2 oboes, English horn, 2 clarinets,
+    3 bassoons, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, triangle, cymbals,
+    glockenspiel, bell, 2 harps, strings'
+duration_minutes: 180

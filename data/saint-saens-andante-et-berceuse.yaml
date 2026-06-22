@@ -1,0 +1,16 @@
+id: saint-saens-andante-et-berceuse
+work:
+  composer: Saint-Saëns, Camille
+  title: Andante et berceuse
+  ids:
+    imslp: Andante et berceuse (Saint-Saëns, Camille)
+  year: 1841
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_et_berceuse_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,14 @@
+id: grieg-4-songs-for-male-voices
+work:
+  composer: Grieg, Edvard
+  title: 4 Songs for Male Voices
+  ids:
+    imslp: 4 Songs for Male Voices, EG 160 (Grieg, Edvard)
+formula: ''
+instrumentation:
+  additional_raw: '|Tags=songs | mch | no'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Songs_for_Male_Voices%2C_EG_160_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: |Tags=songs ; mch ; no'

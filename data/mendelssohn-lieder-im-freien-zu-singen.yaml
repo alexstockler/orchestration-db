@@ -1,0 +1,16 @@
+id: mendelssohn-lieder-im-freien-zu-singen
+work:
+  composer: Mendelssohn, Felix
+  title: Lieder im Freien zu singen
+  ids:
+    imslp: 6 Lieder, Op.41 (Mendelssohn, Felix)
+  year: 1834
+formula: ''
+instrumentation:
+  additional_raw: 4 voices (or mixed chorus) (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Lieder%2C_Op.41_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (or mixed chorus) (SATB)'
+duration_minutes: 13

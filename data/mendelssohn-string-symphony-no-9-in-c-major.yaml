@@ -1,0 +1,16 @@
+id: mendelssohn-string-symphony-no-9-in-c-major
+work:
+  composer: Mendelssohn, Felix
+  title: String Symphony No.9 in C major
+  ids:
+    imslp: String Symphony No.9 in C major, MWV N 9 (Mendelssohn, Felix)
+  year: 1823
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Symphony_No.9_in_C_major%2C_MWV_N_9_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'
+duration_minutes: 30

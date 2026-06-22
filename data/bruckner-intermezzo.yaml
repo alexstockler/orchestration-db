@@ -1,0 +1,15 @@
+id: bruckner-intermezzo
+work:
+  composer: Bruckner, Anton
+  title: Intermezzo
+  ids:
+    imslp: Intermezzo, WAB 113 (Bruckner, Anton)
+  year: 1879
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | 2 violas | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Intermezzo%2C_WAB_113_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, 2 violas, cello'

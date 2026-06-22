@@ -1,0 +1,35 @@
+id: sibelius-trois-pi-ces-pour-orchestre
+work:
+  composer: Sibelius, Jean
+  title: Trois pièces pour orchestre
+  ids:
+    imslp: 3 Pièces pour Orchestre, Op.96 (Sibelius, Jean)
+  year: 1919
+formula: 6466 10[1.2.3.4.5.6.7.8.9.10] 4 6 0 tmp str
+instrumentation:
+  flute: 6
+  oboe: 4
+  clarinet: 6
+  bassoon: 6
+  horn: 10
+  trumpet: 4
+  trombone: 6
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  additional_raw: No.1. | strings No.2. | strings No.3. | drum
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Pi%C3%A8ces_pour_Orchestre%2C_Op.96_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: No.1. :2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns,
+    2 trumpets, 3 trombones, timpani, triangle, strings No.2. :soprano, alto (ad lib.),
+    2 flutes, 2 clarinets, 2 bassoons, 2 horns, timpani, strings No.3. :2 flutes,
+    2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, drum,
+    strings'
+duration_minutes: 14

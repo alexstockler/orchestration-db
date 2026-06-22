@@ -1,0 +1,32 @@
+id: bruckner-mazzuchelli-marsch
+work:
+  composer: Bruckner, Anton
+  title: Mazzuchelli Marsch
+  ids:
+    imslp: Apollo-Marsch, WAB 115 (Bruckner, Anton)
+  year: 1862
+formula: 2[pic.2] 0 2[Ebcl.2] 1 4230 str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  bassoon: 1
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    instruments:
+    - bass drum
+    - cymbals
+  strings: str
+  additional_raw: 'unknown doubling in trombone: bombardon'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Apollo-Marsch%2C_WAB_115_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: piccolo, flute, E clarinet, clarinet (B), bassoon,
+    4 horns (F), 2 trumpets (B), 3 trombones (3rd also bombardon), bass drum, cymbals,
+    strings'

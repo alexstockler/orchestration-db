@@ -1,0 +1,17 @@
+id: saint-saens-antigone-tragedie-de-sophocle
+work:
+  composer: Saint-Saëns, Camille
+  title: Antigone – Tragédie de Sophocle
+  ids:
+    imslp: Antigone (Saint-Saëns, Camille)
+  year: 1893
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Antigone_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

@@ -1,0 +1,17 @@
+id: debussy-2-romances
+work:
+  composer: Debussy, Claude
+  title: 2 Romances
+  ids:
+    imslp: 2 Romances, CD 65-66 (Debussy, Claude)
+  year: 1885
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Romances%2C_CD_65-66_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

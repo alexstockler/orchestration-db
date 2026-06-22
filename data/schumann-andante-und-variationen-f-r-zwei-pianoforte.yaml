@@ -1,0 +1,21 @@
+id: schumann-andante-und-variationen-f-r-zwei-pianoforte
+work:
+  composer: Schumann, Robert
+  title: Andante und Variationen für zwei pianoforte
+  ids:
+    imslp: Andante und Variationen, Op.46 (Schumann, Robert)
+  year: 1843
+formula: 0000 1000 pf pf pf pf
+instrumentation:
+  horn: 1
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  - instrument: piano
+  - instrument: piano
+  additional_raw: 2 cellos
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_und_Variationen%2C_Op.46_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: horn, 2 cellos, 2 pianos, 2 pianos'

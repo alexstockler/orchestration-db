@@ -1,0 +1,19 @@
+id: dvorak-in-folk-tone
+work:
+  composer: Dvořák, Antonín
+  title: In Folk Tone
+  ids:
+    imslp: In Folk Tone, Op.73 (Dvořák, Antonín)
+  year: 1886
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_Folk_Tone%2C_Op.73_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 11

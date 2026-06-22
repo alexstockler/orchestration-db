@@ -1,0 +1,18 @@
+id: bruckner-os-justi
+work:
+  composer: Bruckner, Anton
+  title: Os justi
+  ids:
+    imslp: Inveni David, WAB 20 (Bruckner, Anton)
+  year: 1879
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Inveni_David%2C_WAB_20_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SSAATTBB), organ (Inveni David)'
+duration_minutes: 6

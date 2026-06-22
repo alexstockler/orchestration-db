@@ -1,0 +1,15 @@
+id: sibelius-romance
+work:
+  composer: Sibelius, Jean
+  title: Romance
+  ids:
+    imslp: Romance, Op.42 (Sibelius, Jean)
+  year: 1904
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romance%2C_Op.42_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Strings'

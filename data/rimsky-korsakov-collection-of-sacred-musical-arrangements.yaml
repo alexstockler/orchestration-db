@@ -1,0 +1,15 @@
+id: rimsky-korsakov-collection-of-sacred-musical-arrangements
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: Collection of Sacred Musical Arrangements
+  ids:
+    imslp: Sacred Musical Arrangements, Op.22b (Rimsky-Korsakov, Nikolay)
+  year: 1885
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sacred_Musical_Arrangements%2C_Op.22b_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus'

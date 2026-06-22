@@ -1,0 +1,32 @@
+id: sibelius-tanz-intermezzo-dance-intermezzo
+work:
+  composer: Sibelius, Jean
+  title: Tanz-Intermezzo ; Dance Intermezzo
+  ids:
+    imslp: Dance Intermezzo, Op.45 No.2 (Sibelius, Jean)
+  year: 1904
+formula: 2121 4 2[cnt.cnt] 1 0 tmp hp str
+instrumentation:
+  flute: 2
+  oboe: 1
+  clarinet: 2
+  bassoon: 1
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - tambourine
+    - castanets
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dance_Intermezzo%2C_Op.45_No.2_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, oboe, 2 clarinets, bassoon, 4 horns, 2 cornets,
+    timpani, tambourine, castanets, harp, strings, trombone (replaces 4th Horn or
+    bassoon)'

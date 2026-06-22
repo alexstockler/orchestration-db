@@ -1,0 +1,21 @@
+id: wagner-siegfried-idyll
+work:
+  composer: Wagner, Richard
+  title: Siegfried Idyll
+  ids:
+    imslp: Siegfried-Idyll, WWV 103 (Wagner, Richard)
+  year: 1870
+formula: 1121 2100 str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 2
+  bassoon: 1
+  horn: 2
+  trumpet: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Siegfried-Idyll%2C_WWV_103_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, 2 clarinets, bassoon, 2 horns, trumpet, strings'

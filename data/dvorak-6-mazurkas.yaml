@@ -1,0 +1,17 @@
+id: dvorak-6-mazurkas
+work:
+  composer: Dvořák, Antonín
+  title: 6 Mazurkas
+  ids:
+    imslp: 6 Mazurkas, Op.56 (Dvořák, Antonín)
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Mazurkas%2C_Op.56_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 21

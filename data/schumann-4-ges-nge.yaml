@@ -1,0 +1,15 @@
+id: schumann-4-ges-nge
+work:
+  composer: Schumann, Robert
+  title: 4 Gesänge
+  ids:
+    imslp: 4 Gesänge, Op.59 (Schumann, Robert)
+  year: 1846
+formula: ''
+instrumentation:
+  chorus_raw: satb choir
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Ges%C3%A4nge%2C_Op.59_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB choir'

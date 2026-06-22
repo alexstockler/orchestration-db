@@ -1,0 +1,17 @@
+id: schumann-zwolf-gedichte
+work:
+  composer: Schumann, Robert
+  title: Zwolf Gedichte
+  ids:
+    imslp: 12 Gedichte, Op.35 (Schumann, Robert)
+  year: 1840
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Gedichte%2C_Op.35_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

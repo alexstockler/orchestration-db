@@ -1,0 +1,22 @@
+id: bruckner-trauungslied
+work:
+  composer: Bruckner, Anton
+  title: Trauungslied
+  ids:
+    imslp: Trauungslied, WAB 49 (Bruckner, Anton)
+  year: 1865
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - tenors
+  chorus_raw: male chorus
+  additional_raw: 2 basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trauungslied%2C_WAB_49_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 tenors, 2 basses, male chorus (TTBB), organ (but see
+    below, Comments)'
+duration_minutes: 3

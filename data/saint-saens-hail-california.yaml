@@ -1,0 +1,75 @@
+id: saint-saens-hail-california
+work:
+  composer: Saint-Saëns, Camille
+  title: Hail! California
+  ids:
+    imslp: Hail! California (Saint-Saëns, Camille)
+  year: 1915
+formula: 6[1.2.3/pic.pic.5.6] 4 5[1.2.Ebcl.Ebcl.bcl] 5[1.2.cbn.4.5] 8 12[1.2.3.4.5.6.cnt.cnt.cnt.cnt.cnt.cnt]
+  8 2 tmp cel
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 4
+  clarinet:
+  - {}
+  - {}
+  - instrument: eflat_clarinet
+  - instrument: eflat_clarinet
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  - {}
+  - {}
+  horn: 8
+  trumpet:
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 8
+  tuba: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - bass drum
+    - castanets
+    - triangle
+    - snare drum
+    - tenor horns
+  keyboards:
+  - instrument: celesta
+  soloists:
+  - baritones
+  additional_raw: strings Organ | Wind Band | contrabass sarrusophone | 2 soli clarinets
+    | 12 section clarinets (3 parts) | 4 saxophones (soprano, alto, tenor, baritone)
+    | contrabass tuba
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hail%21_California_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra :3 flutes (3rd also piccolo), 2 oboes, 2 clarinets,
+    2 bassoons, contrabassoon :4 horns, 4 trumpets, 4 trombones :timpani, cymbals,
+    bass drum, castanets, triangle, snare drum :celesta, strings Organ, Wind Band
+    :piccolo, 2 flutes, 2 oboes, 2 bassoons, contrabass sarrusophone :2 piccolo clarinets,
+    2 soli clarinets, 12 section clarinets (3 parts), bass clarinet :4 saxophones
+    (soprano, alto, tenor, baritone) :4 horns, 2 trumpets, 6 cornets (2 parts), 4
+    trombones, 2 tenor horns, 2 baritones :2 tubas, contrabass tuba, bass drum, cymbals,
+    snare drum, triangle'

@@ -1,0 +1,17 @@
+id: bruckner-herz-jesu-lied
+work:
+  composer: Bruckner, Anton
+  title: Herz Jesu-Lied
+  ids:
+    imslp: Herz-Jesu-Lied, WAB 144 (Bruckner, Anton)
+  year: 1845
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Herz-Jesu-Lied%2C_WAB_144_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), organ'

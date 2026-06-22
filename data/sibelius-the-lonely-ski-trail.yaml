@@ -1,0 +1,15 @@
+id: sibelius-the-lonely-ski-trail
+work:
+  composer: Sibelius, Jean
+  title: The Lonely Ski Trail
+  ids:
+    imslp: The Lonely Ski Trail (Sibelius, Jean)
+  year: 1925
+formula: ''
+instrumentation:
+  additional_raw: Narrator and Piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Lonely_Ski_Trail_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Narrator and Piano'

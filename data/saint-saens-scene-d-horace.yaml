@@ -1,0 +1,17 @@
+id: saint-saens-scene-d-horace
+work:
+  composer: Saint-Saëns, Camille
+  title: Scène d'Horace
+  ids:
+    imslp: Scène d'Horace, Op.10 (Saint-Saëns, Camille)
+  year: 1860
+formula: ''
+instrumentation:
+  soloists:
+  - 2 voices
+  - 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sc%C3%A8ne_d%27Horace%2C_Op.10_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, orchestra'

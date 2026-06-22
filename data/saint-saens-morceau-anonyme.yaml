@@ -1,0 +1,16 @@
+id: saint-saens-morceau-anonyme
+work:
+  composer: Saint-Saëns, Camille
+  title: Morceau anonyme
+  ids:
+    imslp: Morceau anonyme (Saint-Saëns, Camille)
+  year: 1905
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Morceau_anonyme_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

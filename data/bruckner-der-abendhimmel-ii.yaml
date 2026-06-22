@@ -1,0 +1,16 @@
+id: bruckner-der-abendhimmel-ii
+work:
+  composer: Bruckner, Anton
+  title: Der Abendhimmel (II)
+  ids:
+    imslp: Der Abendhimmel, WAB 56 (Bruckner, Anton)
+  year: 1866
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Abendhimmel%2C_WAB_56_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'
+duration_minutes: 3

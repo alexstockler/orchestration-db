@@ -1,0 +1,16 @@
+id: schumann-allegro
+work:
+  composer: Schumann, Robert
+  title: Allegro
+  ids:
+    imslp: Allegro, Op.8 (Schumann, Robert)
+  year: 1831
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegro%2C_Op.8_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

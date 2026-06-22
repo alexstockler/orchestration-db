@@ -1,0 +1,19 @@
+id: saint-saens-la-nuit
+work:
+  composer: Saint-Saëns, Camille
+  title: La nuit
+  ids:
+    imslp: La nuit, Op.114 (Saint-Saëns, Camille)
+  year: 1900
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: women's chorus (SSAA) and Orchestra (2 flutes, 2 oboes, 2 clarinets,
+    2 bassoons, 4 horns, harp, strings)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_nuit%2C_Op.114_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Soprano, women''s chorus (SSAA) and Orchestra (2 flutes,
+    2 oboes, 2 clarinets, 2 bassoons, 4 horns, harp, strings)'

@@ -1,0 +1,17 @@
+id: debussy-fragment-for-piano
+work:
+  composer: Debussy, Claude
+  title: Fragment for piano
+  ids:
+    imslp: Fragment for Piano (Debussy, Claude)
+  year: 1905
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fragment_for_Piano_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

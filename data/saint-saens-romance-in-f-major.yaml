@@ -1,0 +1,20 @@
+id: saint-saens-romance-in-f-major
+work:
+  composer: Saint-Saëns, Camille
+  title: Romance in F major
+  ids:
+    imslp: Romance, Op.36 (Saint-Saëns, Camille)
+  year: 1874
+formula: 2121 0000 str
+instrumentation:
+  flute: 2
+  oboe: 1
+  clarinet: 2
+  bassoon: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romance%2C_Op.36_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, oboe, 2 clarinets, bassoon, strings'
+duration_minutes: 4

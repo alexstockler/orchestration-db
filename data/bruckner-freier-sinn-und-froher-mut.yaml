@@ -1,0 +1,15 @@
+id: bruckner-freier-sinn-und-froher-mut
+work:
+  composer: Bruckner, Anton
+  title: Freier Sinn und froher Mut
+  ids:
+    imslp: Freier Sinn und froher Mut, WAB 147 (Bruckner, Anton)
+  year: 1874
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Freier_Sinn_und_froher_Mut%2C_WAB_147_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

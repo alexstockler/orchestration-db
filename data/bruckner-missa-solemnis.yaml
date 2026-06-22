@@ -1,0 +1,33 @@
+id: bruckner-missa-solemnis
+work:
+  composer: Bruckner, Anton
+  title: Missa solemnis
+  ids:
+    imslp: Missa solemnis, WAB 29 (Bruckner, Anton)
+  year: 1854
+formula: 0202 2230 tmp org str
+instrumentation:
+  oboe: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: organ
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  - mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Missa_solemnis%2C_WAB_29_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, alto, tenor, bass; mixed chorus (SATB),
+    Orchestra: 2 oboes, 2 bassoons, 2 horns, 2 trumpets, 3 trombones, timpani, organ,
+    strings'
+duration_minutes: 31

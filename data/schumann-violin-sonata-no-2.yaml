@@ -1,0 +1,17 @@
+id: schumann-violin-sonata-no-2
+work:
+  composer: Schumann, Robert
+  title: Violin Sonata No.2
+  ids:
+    imslp: Violin Sonata No.2, Op.121 (Schumann, Robert)
+  year: 1851
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_No.2%2C_Op.121_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

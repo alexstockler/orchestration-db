@@ -1,0 +1,17 @@
+id: saint-saens-priere
+work:
+  composer: Saint-Saëns, Camille
+  title: Prière
+  ids:
+    imslp: Prière, Op.158 (Saint-Saëns, Camille)
+  year: 1919
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  additional_raw: cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pri%C3%A8re%2C_Op.158_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, organ'

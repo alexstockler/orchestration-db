@@ -1,0 +1,16 @@
+id: mendelssohn-andante-in-f-major-mwv-w-46
+work:
+  composer: Mendelssohn, Felix
+  title: Andante in F major, MWV W 46
+  ids:
+    imslp: Andante in F major, MWV W 46 (Mendelssohn, Felix)
+  year: 1844
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_in_F_major%2C_MWV_W_46_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

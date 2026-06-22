@@ -1,0 +1,32 @@
+id: bruckner-festkantate
+work:
+  composer: Bruckner, Anton
+  title: Festkantate
+  ids:
+    imslp: Festkantate, WAB 16 (Bruckner, Anton)
+  year: 1862
+formula: 2242 4331 tmp
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 4
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  soloists:
+  - bass (solo)
+  - 2 tenors
+  - 2 basses (quartet)
+  - male chorus (TTBB)
+  - Wind
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Festkantate%2C_WAB_16_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: bass (solo); 2 tenors, 2 basses (quartet); male
+    chorus (TTBB), Wind Orchestra: 2 flutes, 2 oboes, 4 clarinets (2 in A, 2 in D),
+    2 bassoons, 4 horns (F), 3 trumpets (2 in C, 1 in D), 3 trombones, tuba, timpani'

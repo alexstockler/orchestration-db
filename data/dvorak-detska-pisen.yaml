@@ -1,0 +1,17 @@
+id: dvorak-detska-pisen
+work:
+  composer: Dvořák, Antonín
+  title: Dětská píseň
+  ids:
+    imslp: Detská písen, B.113 (Dvořák, Antonín)
+  year: 1880
+formula: ''
+instrumentation:
+  soloists:
+  - 2 voices
+  - 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Detsk%C3%A1_p%C3%ADsen%2C_B.113_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices (SS)'

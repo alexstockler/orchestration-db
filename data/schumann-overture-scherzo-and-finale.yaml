@@ -1,0 +1,25 @@
+id: schumann-overture-scherzo-and-finale
+work:
+  composer: Schumann, Robert
+  title: Overture, Scherzo and Finale
+  ids:
+    imslp: Overture, Scherzo and Finale, Op.52 (Schumann, Robert)
+  year: 1841
+formula: 2222 2230 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Overture%2C_Scherzo_and_Finale%2C_Op.52_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2
+    trumpets, 3 trombones (ad lib.), timpani, strings'

@@ -1,0 +1,26 @@
+id: sibelius-pell-as-et-m-lisande
+work:
+  composer: Sibelius, Jean
+  title: Pelléas et Mélisande
+  ids:
+    imslp: Pelléas et Mélisande, suite, Op.46 (Sibelius, Jean)
+  year: 1904
+formula: 1122 2000 tmp str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - triangle
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pell%C3%A9as_et_M%C3%A9lisande%2C_suite%2C_Op.46_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: flute (also piccolo), oboe (also English horn), 2 clarinets,
+    2 bassoons, 2 horns, timpani, bass drum, triangle, strings'

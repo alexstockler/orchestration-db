@@ -1,0 +1,26 @@
+id: mendelssohn-kirchenmusik
+work:
+  composer: Mendelssohn, Felix
+  title: Kirchenmusik
+  ids:
+    imslp: Kirchenmusik, Op.23 (Mendelssohn, Felix)
+  year: 1830
+formula: 0022 0000 org org
+instrumentation:
+  clarinet: 2
+  bassoon: 2
+  keyboards:
+  - instrument: organ
+  - instrument: organ
+  soloists:
+  - tenor
+  chorus_raw: mixed chorus
+  additional_raw: 1 | 2 | soli | cellos | basses | continuo | 3
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kirchenmusik%2C_Op.23_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: 1. tenor, mixed chorus (4-part), organ, 2. soli, mixed
+    chorus (8-part), 2 clarinets, 2 bassoons, organ, cellos, basses, continuo, 3.
+    mixed chorus (8-part)'
+duration_minutes: 26

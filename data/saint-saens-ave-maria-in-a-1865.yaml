@@ -1,0 +1,18 @@
+id: saint-saens-ave-maria-in-a-1865
+work:
+  composer: Saint-Saëns, Camille
+  title: Ave Maria in A (1865)
+  ids:
+    imslp: Ave Maria in A major, ICS 19 (Saint-Saëns, Camille)
+  year: 1865
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_Maria_in_A_major%2C_ICS_19_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), organ'

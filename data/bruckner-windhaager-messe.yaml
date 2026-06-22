@@ -1,0 +1,20 @@
+id: bruckner-windhaager-messe
+work:
+  composer: Bruckner, Anton
+  title: Windhaager Messe
+  ids:
+    imslp: Windhaager Messe, WAB 25 (Bruckner, Anton)
+  year: 1842
+formula: 0000 2000 org
+instrumentation:
+  horn: 2
+  keyboards:
+  - instrument: organ
+  soloists:
+  - alto
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Windhaager_Messe%2C_WAB_25_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, 2 horns, organ'
+duration_minutes: 12

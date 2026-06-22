@@ -1,0 +1,18 @@
+id: saint-saens-cinq-poemes-de-ronsard
+work:
+  composer: Saint-Saëns, Camille
+  title: Cinq poèmes de Ronsard
+  ids:
+    imslp: 5 Poèmes de Ronsard (Saint-Saëns, Camille)
+  year: 1907
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Po%C3%A8mes_de_Ronsard_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

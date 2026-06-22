@@ -1,0 +1,17 @@
+id: saint-saens-chanson-napolitaine
+work:
+  composer: Saint-Saëns, Camille
+  title: Chanson napolitaine
+  ids:
+    imslp: Chanson napolitaine (Saint-Saëns, Camille)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chanson_napolitaine_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

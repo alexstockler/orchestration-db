@@ -1,0 +1,18 @@
+id: saint-saens-serenade
+work:
+  composer: Saint-Saëns, Camille
+  title: Sérénade
+  ids:
+    imslp: Sérénade, Op.15 (Saint-Saëns, Camille)
+  year: 1865
+formula: pf org
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: organ
+  additional_raw: violin | viola (or cello)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/S%C3%A9r%C3%A9nade%2C_Op.15_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola (or cello), piano, organ'

@@ -1,0 +1,17 @@
+id: debussy-trois-m-lodies
+work:
+  composer: Debussy, Claude
+  title: Trois mélodies
+  ids:
+    imslp: 3 Mélodies de Verlaine, CD 85 (Debussy, Claude)
+  year: 1891
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_M%C3%A9lodies_de_Verlaine%2C_CD_85_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

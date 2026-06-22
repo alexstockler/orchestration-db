@@ -1,0 +1,17 @@
+id: debussy-hommage-haydn
+work:
+  composer: Debussy, Claude
+  title: Hommage à Haydn
+  ids:
+    imslp: Hommage à Haydn, CD 123 (Debussy, Claude)
+  year: 1909
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hommage_%C3%A0_Haydn%2C_CD_123_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 3

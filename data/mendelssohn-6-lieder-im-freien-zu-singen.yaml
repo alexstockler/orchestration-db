@@ -1,0 +1,15 @@
+id: mendelssohn-6-lieder-im-freien-zu-singen
+work:
+  composer: Mendelssohn, Felix
+  title: 6 Lieder im Freien zu singen
+  ids:
+    imslp: 6 Lieder, Op.48 (Mendelssohn, Felix)
+  year: 1839
+formula: ''
+instrumentation:
+  additional_raw: 4 voices (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Lieder%2C_Op.48_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (SATB)'

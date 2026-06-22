@@ -1,0 +1,20 @@
+id: sibelius-die-okeaniden-aallottaret-the-oceanides
+work:
+  composer: Sibelius, Jean
+  title: Die Okeaniden ; Aallottaret ; The Oceanides
+  ids:
+    imslp: The Oceanides, Op.73 (Sibelius, Jean)
+  year: 1914
+formula: 2hp str
+instrumentation:
+  harp: 2
+  strings: str
+  additional_raw: stahlstäbe")
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Oceanides%2C_Op.73_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets,,
+    bass clarinet, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones, timpani
+    (2 players), triangle, bells ("stahlstäbe"), 2 harps, strings'
+duration_minutes: 12

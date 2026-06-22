@@ -1,0 +1,17 @@
+id: wagner-piano-sonata-in-b-flat-major
+work:
+  composer: Wagner, Richard
+  title: Piano Sonata in B-flat major
+  ids:
+    imslp: Piano Sonata in B-flat major, WWV 21 (Wagner, Richard)
+  year: 1831
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_in_B-flat_major%2C_WWV_21_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 22

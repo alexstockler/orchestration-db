@@ -1,0 +1,23 @@
+id: bruckner-mass-no-2
+work:
+  composer: Bruckner, Anton
+  title: Mass No.2
+  ids:
+    imslp: Mass No.2 in E minor, WAB 27 (Bruckner, Anton)
+  year: 1866
+formula: 0022 4230
+instrumentation:
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  chorus_raw: mixed chorus
+  additional_raw: Ensemble 2 oboes
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mass_No.2_in_E_minor%2C_WAB_27_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed Chorus (SSAATTBB), Ensemble 2 oboes, 2 clarinets,
+    2 bassoons, 4 horns, 2 trumpets, 3 trombones'
+duration_minutes: 45

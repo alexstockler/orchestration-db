@@ -1,0 +1,25 @@
+id: bruckner-symphony-no-5-in-b-flat-major-phantastische
+work:
+  composer: Bruckner, Anton
+  title: Symphony No.5 in B-flat major 'Phantastische'
+  ids:
+    imslp: Symphony No.5 in B-flat major, WAB 105 (Bruckner, Anton)
+  year: 1876
+formula: 2222 4000 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: 3 trumpets 3 trombones | tuba*
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.5_in_B-flat_major%2C_WAB_105_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 3
+    trumpets 3 trombones, tuba*, timpani, strings'
+duration_minutes: 75

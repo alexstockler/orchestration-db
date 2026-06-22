@@ -1,0 +1,15 @@
+id: sibelius-impromptu-op-19
+work:
+  composer: Sibelius, Jean
+  title: Impromptu, Op.19
+  ids:
+    imslp: Impromptu, Op.19 (Sibelius, Jean)
+  year: 1902
+formula: ''
+instrumentation:
+  additional_raw: Female Chorus (SSA) and Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Impromptu%2C_Op.19_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Female Chorus (SSA) and Orchestra'

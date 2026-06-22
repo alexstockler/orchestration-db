@@ -1,0 +1,28 @@
+id: dvorak-czech-suite
+work:
+  composer: Dvořák, Antonín
+  title: Czech Suite
+  ids:
+    imslp: Czech Suite, Op.39 (Dvořák, Antonín)
+  year: 1879
+formula: 2 3[1.2.Eh] 2 2 2200 tmp str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Czech_Suite%2C_Op.39_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, English horn, 2 clarinets, 2 bassoons,
+    2 horns, 2 trumpets, timpani, strings'
+duration_minutes: 23

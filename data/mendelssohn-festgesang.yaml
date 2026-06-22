@@ -1,0 +1,24 @@
+id: mendelssohn-festgesang
+work:
+  composer: Mendelssohn, Felix
+  title: Festgesang
+  ids:
+    imslp: Festgesang zum Gutenbergfest, WoO 9 (Mendelssohn, Felix)
+  year: 1840
+formula: 0000 0660 tmp ophicleide
+instrumentation:
+  trumpet: 6
+  trombone: 6
+  percussion:
+    timpani: 1
+  extras:
+  - instrument: ophicleide
+  additional_raw: '''Voices: male chorus (TTBB) | Brass Choir I: 4 horns | Brass Choir
+    II: 2 horns'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Festgesang_zum_Gutenbergfest%2C_WoO_9_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: ''Voices: male chorus (TTBB), Brass Choir I: 4 horns, 4
+    trumpets, 3 trombones, ophicleide, timpani, Brass Choir II: 2 horns, 2 trumpets,
+    3 trombones, timpani'

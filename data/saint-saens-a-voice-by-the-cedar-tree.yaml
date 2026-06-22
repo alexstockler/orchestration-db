@@ -1,0 +1,18 @@
+id: saint-saens-a-voice-by-the-cedar-tree
+work:
+  composer: Saint-Saëns, Camille
+  title: A voice by the cedar tree
+  ids:
+    imslp: A Voice by the Cedar Tree (Saint-Saëns, Camille)
+  year: 1871
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_Voice_by_the_Cedar_Tree_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

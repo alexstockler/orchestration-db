@@ -1,0 +1,25 @@
+id: saint-saens-introduction-et-rondo-capriccioso
+work:
+  composer: Saint-Saëns, Camille
+  title: Introduction et rondo capriccioso
+  ids:
+    imslp: Introduction et rondo capriccioso, Op.28 (Saint-Saëns, Camille)
+  year: 1863
+formula: 2222 2200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Introduction_et_rondo_capriccioso%2C_Op.28_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2
+    trumpets, timpani, strings'
+duration_minutes: 10

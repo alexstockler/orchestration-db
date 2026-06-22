@@ -1,0 +1,15 @@
+id: sibelius-2-pieces-for-violin-and-piano
+work:
+  composer: Sibelius, Jean
+  title: 2 Pieces for Violin and Piano
+  ids:
+    imslp: 2 Pieces for Violin and Piano, Op.2 (Sibelius, Jean)
+  year: 1888
+formula: ''
+instrumentation:
+  additional_raw: Violin and Piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Pieces_for_Violin_and_Piano%2C_Op.2_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin and Piano'

@@ -1,0 +1,18 @@
+id: debussy-lindaraja
+work:
+  composer: Debussy, Claude
+  title: Lindaraja
+  ids:
+    imslp: Lindaraja, CD 103 (Debussy, Claude)
+  year: 1901
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lindaraja%2C_CD_103_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 pianos'
+duration_minutes: 5

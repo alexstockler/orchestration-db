@@ -1,0 +1,17 @@
+id: debussy-estampes
+work:
+  composer: Debussy, Claude
+  title: Estampes
+  ids:
+    imslp: Estampes, CD 108 (Debussy, Claude)
+  year: 1903
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Estampes%2C_CD_108_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 15

@@ -1,0 +1,17 @@
+id: debussy-chanson-espagnole
+work:
+  composer: Debussy, Claude
+  title: Chanson espagnole
+  ids:
+    imslp: Chanson espagnole, CD 49 (Debussy, Claude)
+  year: 1883
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chanson_espagnole%2C_CD_49_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, piano'

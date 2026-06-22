@@ -1,0 +1,17 @@
+id: saint-saens-angelus
+work:
+  composer: Saint-Saëns, Camille
+  title: Angélus
+  ids:
+    imslp: Angélus (Saint-Saëns, Camille)
+  year: 1918
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: orchestra (bell (A), harp, strings)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ang%C3%A9lus_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, orchestra (bell (A), harp, strings)'

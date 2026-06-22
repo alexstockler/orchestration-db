@@ -1,0 +1,24 @@
+id: saint-saens-hymne-a-victor-hugo
+work:
+  composer: Saint-Saëns, Camille
+  title: Hymne à Victor Hugo
+  ids:
+    imslp: Hymne à Victor Hugo, Op.69 (Saint-Saëns, Camille)
+  year: 1881
+formula: 2222 0000
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  additional_raw: orchestra (piccolo | contrabassoon (or sarrusophone) ad lib., 4
+    horns, 2 cornets, 2 trumpets, 3 trombones, tuba, timpani, triangle, cymbals, bass
+    drum, harps, strings) | with mixed chorus ad lib.
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymne_%C3%A0_Victor_Hugo%2C_Op.69_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra (piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons,
+    contrabassoon (or sarrusophone) ad lib., 4 horns, 2 cornets, 2 trumpets, 3 trombones,
+    tuba, timpani, triangle, cymbals, bass drum, harps, strings), with mixed chorus
+    ad lib.'

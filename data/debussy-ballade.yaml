@@ -1,0 +1,17 @@
+id: debussy-ballade
+work:
+  composer: Debussy, Claude
+  title: Ballade
+  ids:
+    imslp: Ballade, CD 78 (Debussy, Claude)
+  year: 1890
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ballade%2C_CD_78_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 7

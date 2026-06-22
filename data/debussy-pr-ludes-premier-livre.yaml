@@ -1,0 +1,16 @@
+id: debussy-pr-ludes-premier-livre
+work:
+  composer: Debussy, Claude
+  title: Préludes, Premier Livre
+  ids:
+    imslp: Préludes, Livre 1, CD 125 (Debussy, Claude)
+  year: 1909
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pr%C3%A9ludes%2C_Livre_1%2C_CD_125_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

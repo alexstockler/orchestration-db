@@ -1,0 +1,18 @@
+id: saint-saens-le-lever-de-la-lune
+work:
+  composer: Saint-Saëns, Camille
+  title: Le lever de la lune
+  ids:
+    imslp: Le lever de la lune (Saint-Saëns, Camille)
+  year: 1855
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_lever_de_la_lune_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

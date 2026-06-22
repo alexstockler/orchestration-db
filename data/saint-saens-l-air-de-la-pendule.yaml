@@ -1,0 +1,17 @@
+id: saint-saens-l-air-de-la-pendule
+work:
+  composer: Saint-Saëns, Camille
+  title: L'air de la pendule
+  ids:
+    imslp: L'air de la pendule (Saint-Saëns, Camille)
+  year: 1918
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27air_de_la_pendule_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

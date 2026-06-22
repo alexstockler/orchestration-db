@@ -1,0 +1,17 @@
+id: bruckner-2-asperges-me
+work:
+  composer: Bruckner, Anton
+  title: 2 Asperges me
+  ids:
+    imslp: 2 Asperges me, WAB 3 (Bruckner, Anton)
+  year: 1843
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Asperges_me%2C_WAB_3_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), organ'

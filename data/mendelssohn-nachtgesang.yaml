@@ -1,0 +1,16 @@
+id: mendelssohn-nachtgesang
+work:
+  composer: Mendelssohn, Felix
+  title: Nachtgesang
+  ids:
+    imslp: Nachtgesang, WoO 21 (Mendelssohn, Felix)
+  year: 1840
+formula: ''
+instrumentation:
+  additional_raw: TTBB choir
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nachtgesang%2C_WoO_21_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: TTBB choir'
+duration_minutes: 4

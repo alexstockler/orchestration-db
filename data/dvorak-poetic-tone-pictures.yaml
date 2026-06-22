@@ -1,0 +1,17 @@
+id: dvorak-poetic-tone-pictures
+work:
+  composer: Dvořák, Antonín
+  title: Poetic Tone Pictures
+  ids:
+    imslp: Poetic Tone Pictures, Op.85 (Dvořák, Antonín)
+  year: 1889
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Poetic_Tone_Pictures%2C_Op.85_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 53

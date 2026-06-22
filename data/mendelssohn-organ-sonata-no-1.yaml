@@ -1,0 +1,17 @@
+id: mendelssohn-organ-sonata-no-1
+work:
+  composer: Mendelssohn, Felix
+  title: Organ Sonata No.1
+  ids:
+    imslp: Organ Sonata No.1, MWV W 56 (Mendelssohn, Felix)
+  year: 1845
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Organ_Sonata_No.1%2C_MWV_W_56_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 16

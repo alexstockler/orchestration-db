@@ -1,0 +1,26 @@
+id: schumann-neujahrslied
+work:
+  composer: Schumann, Robert
+  title: Neujahrslied
+  ids:
+    imslp: Neujahrslied, Op.144 (Schumann, Robert)
+  year: 1849
+formula: 1111 2140 tmp str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 2
+  trumpet: 1
+  trombone: 4
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Neujahrslied%2C_Op.144_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: flutes, oboes, clarinets (B), bassoons, 2 (valve) horns
+    (E), trumpets, 4 trombones, timpani, strings'
+duration_minutes: 1519

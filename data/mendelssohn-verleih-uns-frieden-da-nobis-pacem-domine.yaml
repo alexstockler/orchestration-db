@@ -1,0 +1,21 @@
+id: mendelssohn-verleih-uns-frieden-da-nobis-pacem-domine
+work:
+  composer: Mendelssohn, Felix
+  title: „Verleih uns Frieden“ / „Da nobis pacem, Domine“
+  ids:
+    imslp: Verleih uns Frieden gnädiglich, WoO 5 (Mendelssohn, Felix)
+  year: 1831
+formula: 2022 0000 org str
+instrumentation:
+  flute: 2
+  clarinet: 2
+  bassoon: 2
+  keyboards:
+  - instrument: organ
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Verleih_uns_Frieden_gn%C3%A4diglich%2C_WoO_5_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 clarinets, 2 bassoons, organ, strings'
+duration_minutes: 5

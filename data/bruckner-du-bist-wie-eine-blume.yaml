@@ -1,0 +1,15 @@
+id: bruckner-du-bist-wie-eine-blume
+work:
+  composer: Bruckner, Anton
+  title: Du bist wie eine Blume
+  ids:
+    imslp: Du bist wie eine Blume, WAB 64 (Bruckner, Anton)
+  year: 1861
+formula: ''
+instrumentation:
+  additional_raw: 4 voices (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Du_bist_wie_eine_Blume%2C_WAB_64_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (SATB)'

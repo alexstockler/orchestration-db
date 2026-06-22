@@ -1,0 +1,17 @@
+id: saint-saens-demande-a-l-oiseau
+work:
+  composer: Saint-Saëns, Camille
+  title: Demande à l'oiseau
+  ids:
+    imslp: Demande à l'oiseau (Saint-Saëns, Camille)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Demande_%C3%A0_l%27oiseau_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

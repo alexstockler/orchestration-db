@@ -1,0 +1,18 @@
+id: mendelssohn-salve-regina
+work:
+  composer: Mendelssohn, Felix
+  title: Salve Regina
+  ids:
+    imslp: Salve Regina, MWV C 2 (Mendelssohn, Felix)
+  year: 1824
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Salve_Regina%2C_MWV_C_2_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, strings'
+duration_minutes: 8

@@ -1,0 +1,16 @@
+id: debussy-deux-arabesques
+work:
+  composer: Debussy, Claude
+  title: Deux Arabesques
+  ids:
+    imslp: 2 Arabesques, CD 74 (Debussy, Claude)
+  year: 1890
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Arabesques%2C_CD_74_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

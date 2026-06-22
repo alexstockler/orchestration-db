@@ -1,0 +1,15 @@
+id: mendelssohn-4-lieder
+work:
+  composer: Mendelssohn, Felix
+  title: 4 Lieder
+  ids:
+    imslp: 4 Lieder, Op.76 (Mendelssohn, Felix)
+  year: 1837
+formula: ''
+instrumentation:
+  additional_raw: TTBB
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Lieder%2C_Op.76_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: TTBB'

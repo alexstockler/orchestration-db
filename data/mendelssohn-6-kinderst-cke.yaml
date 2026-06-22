@@ -1,0 +1,17 @@
+id: mendelssohn-6-kinderst-cke
+work:
+  composer: Mendelssohn, Felix
+  title: 6 Kinderstücke
+  ids:
+    imslp: 6 Kinderstücke, Op.72 (Mendelssohn, Felix)
+  year: 1842
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Kinderst%C3%BCcke%2C_Op.72_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 8

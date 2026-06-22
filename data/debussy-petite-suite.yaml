@@ -1,0 +1,15 @@
+id: debussy-petite-suite
+work:
+  composer: Debussy, Claude
+  title: Petite Suite
+  ids:
+    imslp: Petite suite, CD 71 (Debussy, Claude)
+  year: 1886
+formula: ''
+instrumentation:
+  additional_raw: piano 4-hands
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Petite_suite%2C_CD_71_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'

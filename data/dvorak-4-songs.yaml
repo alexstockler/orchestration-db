@@ -1,0 +1,19 @@
+id: dvorak-4-songs
+work:
+  composer: Dvořák, Antonín
+  title: 4 Songs
+  ids:
+    imslp: 4 Lieder, Op.82 (Dvořák, Antonín)
+  year: 1888
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Lieder%2C_Op.82_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 9

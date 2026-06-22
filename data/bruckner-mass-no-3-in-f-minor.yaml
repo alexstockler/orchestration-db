@@ -1,0 +1,34 @@
+id: bruckner-mass-no-3-in-f-minor
+work:
+  composer: Bruckner, Anton
+  title: Mass No.3 in F minor
+  ids:
+    imslp: Mass No.3 in F minor, WAB 28 (Bruckner, Anton)
+  year: 1868
+formula: 2222 4230 tmp org str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: organ
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  - mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mass_No.3_in_F_minor%2C_WAB_28_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, alto, tenor, bass; mixed chorus (SATB),
+    Orchestra: 2 flutes, 2 oboes, 2 clarinets (B/A), 2 bassoons, 4 horns (F/B basso),
+    2 trumpets (C), 3 trombones, timpani, organ (ad lib), strings'

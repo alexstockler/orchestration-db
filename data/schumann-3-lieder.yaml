@@ -1,0 +1,15 @@
+id: schumann-3-lieder
+work:
+  composer: Schumann, Robert
+  title: 3 Lieder
+  ids:
+    imslp: 3 Lieder, Op.62 (Schumann, Robert)
+  year: 1847
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Lieder%2C_Op.62_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

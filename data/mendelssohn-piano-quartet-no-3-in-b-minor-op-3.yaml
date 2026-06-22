@@ -1,0 +1,18 @@
+id: mendelssohn-piano-quartet-no-3-in-b-minor-op-3
+work:
+  composer: Mendelssohn, Felix
+  title: Piano Quartet No.3 in B minor, Op.3
+  ids:
+    imslp: Piano Quartet No.3, Op.3 (Mendelssohn, Felix)
+  year: 1824
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: Violin | Viola | Cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quartet_No.3%2C_Op.3_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano, Violin, Viola, Cello'
+duration_minutes: 33

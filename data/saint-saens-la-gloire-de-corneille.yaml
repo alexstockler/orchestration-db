@@ -1,0 +1,15 @@
+id: saint-saens-la-gloire-de-corneille
+work:
+  composer: Saint-Saëns, Camille
+  title: La gloire de Corneille
+  ids:
+    imslp: La gloire de Corneille, Op.126 (Saint-Saëns, Camille)
+  year: 1906
+formula: ''
+instrumentation:
+  additional_raw: Soli | chorus and orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_gloire_de_Corneille%2C_Op.126_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Soli, chorus and orchestra'

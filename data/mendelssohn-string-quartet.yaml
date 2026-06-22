@@ -1,0 +1,16 @@
+id: mendelssohn-string-quartet
+work:
+  composer: Mendelssohn, Felix
+  title: String Quartet
+  ids:
+    imslp: String Quartet, MWV R 18 (Mendelssohn, Felix)
+  year: 1823
+formula: ''
+instrumentation:
+  additional_raw: 2 violin | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet%2C_MWV_R_18_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violin, viola, cello'
+duration_minutes: 25

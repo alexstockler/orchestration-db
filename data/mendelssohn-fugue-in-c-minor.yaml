@@ -1,0 +1,16 @@
+id: mendelssohn-fugue-in-c-minor
+work:
+  composer: Mendelssohn, Felix
+  title: Fugue in C minor
+  ids:
+    imslp: Fugue in C minor, MWV W 18 (Mendelssohn, Felix)
+  year: 1834
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_C_minor%2C_MWV_W_18_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

@@ -1,0 +1,17 @@
+id: mendelssohn-sieben-charakterst-cke
+work:
+  composer: Mendelssohn, Felix
+  title: Sieben Charakterstücke
+  ids:
+    imslp: 7 Charakterstücke, Op.7 (Mendelssohn, Felix)
+  year: 1824
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Charakterst%C3%BCcke%2C_Op.7_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 26

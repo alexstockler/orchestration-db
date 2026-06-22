@@ -1,0 +1,15 @@
+id: grieg-2-songs-after-j-rgen-moe
+work:
+  composer: Grieg, Edvard
+  title: 2 Songs after Jørgen Moe
+  ids:
+    imslp: 2 Songs after Jørgen Moe, EG 162 (Grieg, Edvard)
+  year: 1867
+formula: ''
+instrumentation:
+  additional_raw: male choir
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Songs_after_J%C3%B8rgen_Moe%2C_EG_162_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: male choir'

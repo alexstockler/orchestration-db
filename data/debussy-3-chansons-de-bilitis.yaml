@@ -1,0 +1,17 @@
+id: debussy-3-chansons-de-bilitis
+work:
+  composer: Debussy, Claude
+  title: 3 Chansons de Bilitis
+  ids:
+    imslp: 3 Chansons de Bilitis, CD 97 (Debussy, Claude)
+  year: 1897
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Chansons_de_Bilitis%2C_CD_97_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

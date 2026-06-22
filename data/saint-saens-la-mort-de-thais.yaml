@@ -1,0 +1,17 @@
+id: saint-saens-la-mort-de-thais
+work:
+  composer: Saint-Saëns, Camille
+  title: La mort de Thaïs
+  ids:
+    imslp: La mort de Thaïs (Saint-Saëns, Camille)
+  year: 1895
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_mort_de_Tha%C3%AFs_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 9

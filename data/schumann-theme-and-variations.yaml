@@ -1,0 +1,17 @@
+id: schumann-theme-and-variations
+work:
+  composer: Schumann, Robert
+  title: Theme and Variations
+  ids:
+    imslp: Theme and Variations, WoO 24 (Schumann, Robert)
+  year: 1854
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Theme_and_Variations%2C_WoO_24_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 11

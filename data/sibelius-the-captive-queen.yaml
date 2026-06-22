@@ -1,0 +1,33 @@
+id: sibelius-the-captive-queen
+work:
+  composer: Sibelius, Jean
+  title: The Captive Queen
+  ids:
+    imslp: The Captive Queen, Op.48 (Sibelius, Jean)
+  year: 1906
+formula: 2[1.2/pic] 2 2[1.bcl] 1 4230 tmp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet:
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 1
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - triangle
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Captive_Queen%2C_Op.48_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes, clarinet, bass clarinet,
+    bassoon, 4 horns, 2 trumpets, 3 trombones, timpani, bass drum, triangle, strings'

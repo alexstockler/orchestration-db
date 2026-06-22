@@ -1,0 +1,18 @@
+id: mendelssohn-te-deum-a-8
+work:
+  composer: Mendelssohn, Felix
+  title: Te Deum a 8
+  ids:
+    imslp: Te Deum in D major, MWV B 15 (Mendelssohn, Felix)
+  year: 1826
+formula: ''
+instrumentation:
+  additional_raw: 8 voices in 2 mixed choruses (SATB/SATB) | continuo (keyboard, string
+    basses)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Te_Deum_in_D_major%2C_MWV_B_15_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: 8 voices in 2 mixed choruses (SATB/SATB), continuo (keyboard,
+    string basses)'
+duration_minutes: 35

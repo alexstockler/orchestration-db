@@ -1,0 +1,17 @@
+id: saint-saens-le-printemps
+work:
+  composer: Saint-Saëns, Camille
+  title: Le printemps
+  ids:
+    imslp: Le printemps, Op.165 (Saint-Saëns, Camille)
+  year: 1921
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 2 equal voices (chorus)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_printemps%2C_Op.165_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 equal voices (chorus), piano'

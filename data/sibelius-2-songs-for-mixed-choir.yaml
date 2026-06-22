@@ -1,0 +1,15 @@
+id: sibelius-2-songs-for-mixed-choir
+work:
+  composer: Sibelius, Jean
+  title: 2 Songs for Mixed Choir
+  ids:
+    imslp: 2 Songs for Mixed Choir, Op.65 (Sibelius, Jean)
+  year: 1911
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Songs_for_Mixed_Choir%2C_Op.65_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Chorus'

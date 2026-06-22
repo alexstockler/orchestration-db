@@ -1,0 +1,17 @@
+id: dvorak-2-piano-pieces
+work:
+  composer: Dvořák, Antonín
+  title: 2 Piano Pieces
+  ids:
+    imslp: 2 Pieces, B.188 (Dvořák, Antonín)
+  year: 1894
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Pieces%2C_B.188_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 6

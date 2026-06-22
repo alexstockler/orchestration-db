@@ -1,0 +1,28 @@
+id: bruckner-das-hohe-lied
+work:
+  composer: Bruckner, Anton
+  title: Das hohe Lied
+  ids:
+    imslp: Das hohe Lied, WAB 74 (Bruckner, Anton)
+  year: 1876
+formula: 0000 4030
+instrumentation:
+  horn: 4
+  trombone: 3
+  soloists:
+  - ':'
+  - 'Voices: 2 tenors'
+  - baritone
+  - 2 male choruses (TTBB, TTBB)
+  - ':'
+  - 'Voices: 2 tenors'
+  - baritone
+  - 2 male choruses (TTBB, TTBB)
+  additional_raw: tuba + strings
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_hohe_Lied%2C_WAB_74_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: :, Voices: 2 tenors, baritone; 2 male choruses (TTBB, TTBB),
+    :, Voices: 2 tenors, baritone; 2 male choruses (TTBB, TTBB), Orchestra: 4 horns
+    (F), 3 trombones, tuba + strings'

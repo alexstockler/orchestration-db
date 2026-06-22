@@ -1,0 +1,15 @@
+id: sibelius-the-roaring-of-a-wave
+work:
+  composer: Sibelius, Jean
+  title: The Roaring of a Wave
+  ids:
+    imslp: The Roaring of a Wave (Sibelius, Jean)
+  year: 1918
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Roaring_of_a_Wave_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Male chorus'

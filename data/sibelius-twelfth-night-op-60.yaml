@@ -1,0 +1,15 @@
+id: sibelius-twelfth-night-op-60
+work:
+  composer: Sibelius, Jean
+  title: Twelfth Night, Op.60
+  ids:
+    imslp: Twelfth Night, Op.60 (Sibelius, Jean)
+  year: 1909
+formula: ''
+instrumentation:
+  additional_raw: Voice and Piano/Guitar
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Twelfth_Night%2C_Op.60_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano/Guitar'

@@ -1,0 +1,18 @@
+id: saint-saens-caprice-heroique
+work:
+  composer: Saint-Saëns, Camille
+  title: Caprice héroïque
+  ids:
+    imslp: Caprice héroïque, Op.106 (Saint-Saëns, Camille)
+  year: 1898
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Caprice_h%C3%A9ro%C3%AFque%2C_Op.106_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Pianos'
+duration_minutes: 10

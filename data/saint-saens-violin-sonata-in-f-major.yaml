@@ -1,0 +1,18 @@
+id: saint-saens-violin-sonata-in-f-major
+work:
+  composer: Saint-Saëns, Camille
+  title: Violin Sonata in F major
+  ids:
+    imslp: Violin Sonata in F major (Saint-Saëns, Camille)
+  year: 1850
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_in_F_major_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 5

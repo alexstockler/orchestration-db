@@ -1,0 +1,15 @@
+id: bruckner-psalm-69
+work:
+  composer: Bruckner, Anton
+  title: Psalm 69
+  ids:
+    imslp: Domine, ad adjuvandum me festina, WAB 136 (Bruckner, Anton)
+  year: 1835
+formula: ''
+instrumentation:
+  additional_raw: mixed chorus (SATB)?
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Domine%2C_ad_adjuvandum_me_festina%2C_WAB_136_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)?'

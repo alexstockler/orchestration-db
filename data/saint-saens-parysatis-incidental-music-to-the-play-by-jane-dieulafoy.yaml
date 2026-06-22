@@ -1,0 +1,19 @@
+id: saint-saens-parysatis-incidental-music-to-the-play-by-jane-dieulafoy
+work:
+  composer: Saint-Saëns, Camille
+  title: Parysatis (incidental music to the play by Jane Dieulafoy)
+  ids:
+    imslp: Parysatis (Saint-Saëns, Camille)
+  year: 1901
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  - baritone
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Parysatis_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, baritone, mixed chorus (SATB), orchestra'

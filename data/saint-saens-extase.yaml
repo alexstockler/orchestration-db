@@ -1,0 +1,16 @@
+id: saint-saens-extase
+work:
+  composer: Saint-Saëns, Camille
+  title: Extase
+  ids:
+    imslp: Extase (Saint-Saëns, Camille)
+  year: 1860
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Extase_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, orchestra'

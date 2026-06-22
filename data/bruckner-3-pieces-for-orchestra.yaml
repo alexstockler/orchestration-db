@@ -1,0 +1,20 @@
+id: bruckner-3-pieces-for-orchestra
+work:
+  composer: Bruckner, Anton
+  title: 3 Pieces for Orchestra
+  ids:
+    imslp: 3 Pieces for Orchestra, WAB 97 (Bruckner, Anton)
+  year: 1862
+formula: 2220 0200
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  trumpet: 2
+  additional_raw: 2 bassoons + 2 horns | trombone + timpani + strings
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Pieces_for_Orchestra%2C_WAB_97_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons +
+    2 horns, 2 trumpets, trombone + timpani + strings'

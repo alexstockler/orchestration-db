@@ -1,0 +1,15 @@
+id: sibelius-2-songs-op-35
+work:
+  composer: Sibelius, Jean
+  title: 2 Songs, Op.35
+  ids:
+    imslp: 2 Songs, Op.35 (Sibelius, Jean)
+  year: 1907
+formula: ''
+instrumentation:
+  additional_raw: Voice and Piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Songs%2C_Op.35_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

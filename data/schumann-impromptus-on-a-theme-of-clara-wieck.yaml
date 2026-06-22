@@ -1,0 +1,16 @@
+id: schumann-impromptus-on-a-theme-of-clara-wieck
+work:
+  composer: Schumann, Robert
+  title: Impromptus on a Theme of Clara Wieck
+  ids:
+    imslp: Impromptus, Op.5 (Schumann, Robert)
+  year: 1833
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Impromptus%2C_Op.5_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

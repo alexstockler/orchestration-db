@@ -1,0 +1,16 @@
+id: schumann-sch-n-hedwig-op-106
+work:
+  composer: Schumann, Robert
+  title: Schön Hedwig, Op.106
+  ids:
+    imslp: Schön Hedwig, Op.106 (Schumann, Robert)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: speaker
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sch%C3%B6n_Hedwig%2C_Op.106_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: speaker, piano'

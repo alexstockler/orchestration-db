@@ -1,0 +1,16 @@
+id: bruckner-2-wahlspr-che
+work:
+  composer: Bruckner, Anton
+  title: 2 Wahlsprüche
+  ids:
+    imslp: 2 Wahlsprüche, WAB 95 (Bruckner, Anton)
+  year: 1868
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: No.1 | No.2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Wahlspr%C3%BCche%2C_WAB_95_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: No.1: mixed chorus (SATB), No.2: chorus (TTBB)'

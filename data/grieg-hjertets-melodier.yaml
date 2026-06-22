@@ -1,0 +1,17 @@
+id: grieg-hjertets-melodier
+work:
+  composer: Grieg, Edvard
+  title: Hjertets Melodier
+  ids:
+    imslp: Melodies of the Heart, Op.5 (Grieg, Edvard)
+  year: 1864
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Melodies_of_the_Heart%2C_Op.5_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

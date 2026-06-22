@@ -1,0 +1,58 @@
+id: wagner-der-fliegende-holl-nder
+work:
+  composer: Wagner, Richard
+  title: Der fliegende Holländer
+  ids:
+    imslp: Der fliegende Holländer, WWV 63 (Wagner, Richard)
+  year: 1840
+formula: 6[pic.2.3.pic.pic.pic] 2[1.2/Eh] 2 2 10[1.2.3.4.5.6.7.8.9.10] 2 3 1 tmp hp
+  str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  - instrument: piccolo
+  - instrument: piccolo
+  - instrument: piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 10
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - tam tam
+    - wind machine
+  harp: 1
+  strings: str
+  soloists:
+  - The Dutchman (bass-baritone)
+  - Senta
+  - Daland's daughter (soprano)
+  - Daland
+  - a Norwegian sea captain (bass)
+  - Erik
+  - a huntsman (tenor)
+  - Mary
+  - Senta's nurse (alto)
+  - Daland's steersman (tenor)
+  - Mixed Chorus (SATB) :Norwegian sailors
+  - the Dutchman's crew
+  - young women
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_fliegende_Holl%C3%A4nder%2C_WWV_63_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :The Dutchman (bass-baritone), Senta, Daland''s daughter
+    (soprano), Daland, a Norwegian sea captain (bass), Erik, a huntsman (tenor), Mary,
+    Senta''s nurse (alto), Daland''s steersman (tenor), Mixed Chorus (SATB) :Norwegian
+    sailors, the Dutchman''s crew, young women Orchestra :Piccolo, 2 flutes, 2 oboes
+    (2nd also English horn), 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones,
+    tuba, timpani, harp, strings '' :3 piccolos, 6 horns, tam tam, wind machine'

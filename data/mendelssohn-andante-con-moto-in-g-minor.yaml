@@ -1,0 +1,17 @@
+id: mendelssohn-andante-con-moto-in-g-minor
+work:
+  composer: Mendelssohn, Felix
+  title: Andante con moto in G minor
+  ids:
+    imslp: Andante con moto in G minor, MWV W 15 (Mendelssohn, Felix)
+  year: 1833
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_con_moto_in_G_minor%2C_MWV_W_15_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 2

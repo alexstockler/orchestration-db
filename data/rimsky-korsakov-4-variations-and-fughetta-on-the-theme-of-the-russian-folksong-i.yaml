@@ -1,0 +1,18 @@
+id: rimsky-korsakov-4-variations-and-fughetta-on-the-theme-of-the-russian-folksong-i
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: 4 Variations and Fughetta (on the theme of the Russian folksong 'I am Tired
+    of the Nights')
+  ids:
+    imslp: 4 Variations and Fughetta, Op.14 (Rimsky-Korsakov, Nikolay)
+  year: 1875
+formula: harm
+instrumentation:
+  keyboards:
+  - instrument: harmonium
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Variations_and_Fughetta%2C_Op.14_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SSAA), harmonium (or piano)'

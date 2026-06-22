@@ -1,0 +1,17 @@
+id: debussy-aimons-nous-et-dormons
+work:
+  composer: Debussy, Claude
+  title: Aimons-nous et dormons
+  ids:
+    imslp: Aimons-nous et dormons, CD 7 (Debussy, Claude)
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aimons-nous_et_dormons%2C_CD_7_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

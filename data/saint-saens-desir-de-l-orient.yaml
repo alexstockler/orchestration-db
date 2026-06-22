@@ -1,0 +1,18 @@
+id: saint-saens-desir-de-l-orient
+work:
+  composer: Saint-Saëns, Camille
+  title: Désir de l'orient
+  ids:
+    imslp: Désir de l'orient (Saint-Saëns, Camille)
+  year: 1871
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/D%C3%A9sir_de_l%27orient_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

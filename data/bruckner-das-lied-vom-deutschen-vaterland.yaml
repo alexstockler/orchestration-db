@@ -1,0 +1,15 @@
+id: bruckner-das-lied-vom-deutschen-vaterland
+work:
+  composer: Bruckner, Anton
+  title: Das Lied vom deutschen Vaterland
+  ids:
+    imslp: Das Lied vom deutschen Vaterland, WAB 78 (Bruckner, Anton)
+  year: 1845
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Lied_vom_deutschen_Vaterland%2C_WAB_78_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: male chorus (TTBB)'

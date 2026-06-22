@@ -1,0 +1,16 @@
+id: debussy-l-gie
+work:
+  composer: Debussy, Claude
+  title: Élégie
+  ids:
+    imslp: Élégie, CD 146 (Debussy, Claude)
+  year: 1915
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%89l%C3%A9gie%2C_CD_146_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

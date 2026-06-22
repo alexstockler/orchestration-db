@@ -1,0 +1,50 @@
+id: debussy-le-martyre-de-saint-s-bastien
+work:
+  composer: Debussy, Claude
+  title: Le martyre de Saint Sébastien
+  ids:
+    imslp: Le martyre de saint Sébastien, CD 130 (Debussy, Claude)
+  year: 1910
+formula: 4[pic.pic.3.4] 3[1.2.Eh] 4[1.2.3.bcl] 4[1.2.3.cbn] 6431 tmp cel 3hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 6
+  trumpet: 4
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - bass drum
+    - tam-tam
+  keyboards:
+  - instrument: celesta
+  harp: 3
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_martyre_de_saint_S%C3%A9bastien%2C_CD_130_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo Voices (soprano, 2 altos), Mixed Chorus, Orchestra
+    :2 piccolos, 2 flutes, 2 oboes, English horn, 3 clarinets, ::bass clarinet, 3
+    bassoons, contrabassoon :6 horns, 4 trumpets, 3 trombones, tuba, timpani, cymbals,
+    bass drum, tam-tam,, celesta, 3 harps, strings'

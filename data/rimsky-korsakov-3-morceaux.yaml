@@ -1,0 +1,16 @@
+id: rimsky-korsakov-3-morceaux
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: 3 Morceaux
+  ids:
+    imslp: 3 Morceaux, Op.15 (Rimsky-Korsakov, Nikolay)
+  year: 1875
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Morceaux%2C_Op.15_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

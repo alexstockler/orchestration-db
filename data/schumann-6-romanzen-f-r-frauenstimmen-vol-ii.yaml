@@ -1,0 +1,14 @@
+id: schumann-6-romanzen-f-r-frauenstimmen-vol-ii
+work:
+  composer: Schumann, Robert
+  title: 6 Romanzen für Frauenstimmen Vol.II
+  ids:
+    imslp: 6 Romanzen für Frauenstimmen Vol.II, Op.91 (Schumann, Robert)
+formula: ''
+instrumentation:
+  additional_raw: female choir | piano ad lib.
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Romanzen_f%C3%BCr_Frauenstimmen_Vol.II%2C_Op.91_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: female choir, piano ad lib.'

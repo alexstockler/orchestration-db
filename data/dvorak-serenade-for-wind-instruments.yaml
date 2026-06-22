@@ -1,0 +1,24 @@
+id: dvorak-serenade-for-wind-instruments
+work:
+  composer: Dvořák, Antonín
+  title: Serenade for Wind Instruments
+  ids:
+    imslp: Serenade for Wind Instruments, Op.44 (Dvořák, Antonín)
+  year: 1878
+formula: 0 2 2 3[1.2.cbn] 3000
+instrumentation:
+  oboe: 2
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 3
+  additional_raw: cello | double bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Serenade_for_Wind_Instruments%2C_Op.44_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 clarinets, 2 bassoons, contrabassoon, 3 horns,
+    cello, double bass'
+duration_minutes: 25

@@ -1,0 +1,16 @@
+id: schumann-6-concert-etudes-after-paganini-caprices-op-10
+work:
+  composer: Schumann, Robert
+  title: 6 Concert Etudes after Paganini Caprices Op.10
+  ids:
+    imslp: 6 Concert Etudes after Paganini Caprices, Op.10 (Schumann, Robert)
+  year: 1833
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Concert_Etudes_after_Paganini_Caprices%2C_Op.10_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

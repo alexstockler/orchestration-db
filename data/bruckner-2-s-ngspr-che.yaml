@@ -1,0 +1,15 @@
+id: bruckner-2-s-ngspr-che
+work:
+  composer: Bruckner, Anton
+  title: 2 Sängsprüche
+  ids:
+    imslp: 2 Sängsprüche, WAB 83 (Bruckner, Anton)
+  year: 1851
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_S%C3%A4ngspr%C3%BCche%2C_WAB_83_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

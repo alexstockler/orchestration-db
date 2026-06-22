@@ -1,0 +1,15 @@
+id: schumann-string-quartet-no-1
+work:
+  composer: Schumann, Robert
+  title: String Quartet No.1
+  ids:
+    imslp: String Quartet No.1, Op.41 No.1 (Schumann, Robert)
+  year: 1842
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.1%2C_Op.41_No.1_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

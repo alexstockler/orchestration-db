@@ -1,0 +1,18 @@
+id: dvorak-piano-trio-no-3
+work:
+  composer: Dvořák, Antonín
+  title: Piano Trio No.3
+  ids:
+    imslp: Piano Trio No.3, Op.65 (Dvořák, Antonín)
+  year: 1883
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio_No.3%2C_Op.65_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'
+duration_minutes: 39

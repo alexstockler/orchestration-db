@@ -1,0 +1,15 @@
+id: schumann-romanzen-und-balladen
+work:
+  composer: Schumann, Robert
+  title: Romanzen und Balladen
+  ids:
+    imslp: Romanzen und Balladen, Op.67 (Schumann, Robert)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: (No.1 includes T solo)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romanzen_und_Balladen%2C_Op.67_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), (No.1 includes T solo)'

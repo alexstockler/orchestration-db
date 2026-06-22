@@ -1,0 +1,16 @@
+id: wagner-eine-sonate-f-r-das-album-von-frau-m-w
+work:
+  composer: Wagner, Richard
+  title: Eine Sonate für das Album von Frau M.W.
+  ids:
+    imslp: Eine Sonate für das Album von Frau M.W., WWV 85 (Wagner, Richard)
+  year: 1853
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Eine_Sonate_f%C3%BCr_das_Album_von_Frau_M.W.%2C_WWV_85_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

@@ -1,0 +1,15 @@
+id: sibelius-6-partsongs-op-18
+work:
+  composer: Sibelius, Jean
+  title: 6 Partsongs, Op.18
+  ids:
+    imslp: 6 Partsongs, Op.18 (Sibelius, Jean)
+  year: 1893
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Partsongs%2C_Op.18_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Male Chorus'

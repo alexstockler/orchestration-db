@@ -1,0 +1,17 @@
+id: rimsky-korsakov-2-romnances
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: 2 Romnances
+  ids:
+    imslp: 2 Romances, Op.25 (Rimsky-Korsakov, Nikolay)
+  year: 1870
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Romances%2C_Op.25_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,16 @@
+id: dvorak-echo-of-songs
+work:
+  composer: Dvořák, Antonín
+  title: Echo of Songs
+  ids:
+    imslp: Echo of Songs, B.152 (Dvořák, Antonín)
+  year: 1887
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Echo_of_Songs%2C_B.152_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 36

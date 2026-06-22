@@ -1,0 +1,18 @@
+id: mendelssohn-recitativo-in-d-minor-for-piano-and-orchestra
+work:
+  composer: Mendelssohn, Felix
+  title: Recitativo in D minor for Piano and Orchestra
+  ids:
+    imslp: Recitativo in D minor for Piano and Orchestra, MWV O 1 (Mendelssohn, Felix)
+  year: 1820
+formula: pf str
+instrumentation:
+  keyboards:
+  - instrument: piano
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Recitativo_in_D_minor_for_Piano_and_Orchestra%2C_MWV_O_1_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: piano, strings'
+duration_minutes: 50

@@ -1,0 +1,16 @@
+id: wagner-l-attente-wwv-55
+work:
+  composer: Wagner, Richard
+  title: L'attente, WWV 55
+  ids:
+    imslp: L'attente, WWV 55 (Wagner, Richard)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27attente%2C_WWV_55_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

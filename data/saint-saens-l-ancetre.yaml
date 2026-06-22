@@ -1,0 +1,18 @@
+id: saint-saens-l-ancetre
+work:
+  composer: Saint-Saëns, Camille
+  title: L'ancêtre
+  ids:
+    imslp: L'ancêtre (Saint-Saëns, Camille)
+  year: 1905
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27anc%C3%AAtre_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, Chorus, Orchestra (3 flutes, 2 oboes, English
+    horn, 2 clarinets, bass clarinet, 2 bassoons, 4 horns, 3 trumpets, 3 trombones,
+    tuba, timpani, bass drum, cymbals, triangles, 2 harps, celesta, strings)'

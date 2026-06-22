@@ -1,0 +1,45 @@
+id: wagner-gro-er-festmarsch
+work:
+  composer: Wagner, Richard
+  title: Großer Festmarsch
+  ids:
+    imslp: Großer Festmarsch, WWV 110 (Wagner, Richard)
+  year: 1876
+formula: 4[pic.2.3.4] 3 3 4[1.2.3.cbn] 4 4[1.2.3.btpt] 3 1 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  - {}
+  oboe: 3
+  clarinet: 3
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_trumpet
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - snare drum
+    - bass drum
+    - tam tam
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gro%C3%9Fer_Festmarsch%2C_WWV_110_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 3 flutes, 3 oboes, 3 clarinets, 3 bassoons, contrabassoon,
+    4 horns, 3 trumpets, bass trumpet, 3 trombones, tuba, timpani, triangle, cymbals,
+    snare drum, bass drum, tam tam, strings'

@@ -1,0 +1,18 @@
+id: saint-saens-bassoon-sonata
+work:
+  composer: Saint-Saëns, Camille
+  title: Bassoon Sonata
+  ids:
+    imslp: Bassoon Sonata, Op.168 (Saint-Saëns, Camille)
+  year: 1921
+formula: 0001 0000 pf
+instrumentation:
+  bassoon: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bassoon_Sonata%2C_Op.168_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: bassoon, piano'
+duration_minutes: 13

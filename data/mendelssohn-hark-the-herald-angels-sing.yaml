@@ -1,0 +1,17 @@
+id: mendelssohn-hark-the-herald-angels-sing
+work:
+  composer: Mendelssohn, Felix
+  title: Hark! The Herald Angels Sing
+  ids:
+    imslp: Hark, the Herald Angels Sing (Mendelssohn, Felix)
+  year: 1855
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hark%2C_the_Herald_Angels_Sing_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), organ'

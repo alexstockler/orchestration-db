@@ -1,0 +1,17 @@
+id: sibelius-6-songs
+work:
+  composer: Sibelius, Jean
+  title: 6 Songs
+  ids:
+    imslp: 6 Songs, Op.36 (Sibelius, Jean)
+  year: 1899
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Songs%2C_Op.36_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

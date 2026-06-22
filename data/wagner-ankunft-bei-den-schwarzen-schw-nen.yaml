@@ -1,0 +1,16 @@
+id: wagner-ankunft-bei-den-schwarzen-schw-nen
+work:
+  composer: Wagner, Richard
+  title: Ankunft bei den schwarzen Schwänen
+  ids:
+    imslp: Ankunft bei den schwarzen Schwänen, WWV 95 (Wagner, Richard)
+  year: 1861
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ankunft_bei_den_schwarzen_Schw%C3%A4nen%2C_WWV_95_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

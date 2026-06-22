@@ -1,0 +1,17 @@
+id: bruckner-stille-betrachtung-an-einem-herbstabend
+work:
+  composer: Bruckner, Anton
+  title: Stille Betrachtung an einem Herbstabend
+  ids:
+    imslp: Stille Betrachtung an einem Herbstabend, WAB 123 (Bruckner, Anton)
+  year: 1863
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Stille_Betrachtung_an_einem_Herbstabend%2C_WAB_123_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 4

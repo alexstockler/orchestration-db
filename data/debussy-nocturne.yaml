@@ -1,0 +1,16 @@
+id: debussy-nocturne
+work:
+  composer: Debussy, Claude
+  title: Nocturne
+  ids:
+    imslp: Nocturne, CD 89 (Debussy, Claude)
+  year: 1892
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nocturne%2C_CD_89_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

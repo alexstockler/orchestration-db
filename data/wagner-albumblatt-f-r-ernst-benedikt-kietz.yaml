@@ -1,0 +1,16 @@
+id: wagner-albumblatt-f-r-ernst-benedikt-kietz
+work:
+  composer: Wagner, Richard
+  title: Albumblatt für Ernst Benedikt Kietz
+  ids:
+    imslp: Albumblatt für Ernst Benedikt Kietz, WWV 64 (Wagner, Richard)
+  year: 1840
+formula: ''
+instrumentation:
+  additional_raw: Piano Solo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Albumblatt_f%C3%BCr_Ernst_Benedikt_Kietz%2C_WWV_64_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano Solo'
+duration_minutes: 2

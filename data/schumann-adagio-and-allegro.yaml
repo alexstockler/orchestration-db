@@ -1,0 +1,17 @@
+id: schumann-adagio-and-allegro
+work:
+  composer: Schumann, Robert
+  title: Adagio and Allegro
+  ids:
+    imslp: Adagio and Allegro, Op.70 (Schumann, Robert)
+  year: 1849
+formula: 0000 1000 pf
+instrumentation:
+  horn: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adagio_and_Allegro%2C_Op.70_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: horn (or cello or violin), piano'

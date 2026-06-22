@@ -1,0 +1,17 @@
+id: dvorak-8-preludes-and-fugues
+work:
+  composer: Dvořák, Antonín
+  title: 8 Preludes and Fugues
+  ids:
+    imslp: 8 Preludes and Fugues, B.302 (Dvořák, Antonín)
+  year: 1859
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Preludes_and_Fugues%2C_B.302_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 19

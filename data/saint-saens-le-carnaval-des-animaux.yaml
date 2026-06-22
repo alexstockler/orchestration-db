@@ -1,0 +1,23 @@
+id: saint-saens-le-carnaval-des-animaux
+work:
+  composer: Saint-Saëns, Camille
+  title: Le carnaval des animaux
+  ids:
+    imslp: Le carnaval des animaux (Saint-Saëns, Camille)
+  year: 1886
+formula: 1010 0000 str
+instrumentation:
+  flute: 1
+  clarinet: 1
+  percussion:
+    instruments:
+    - xylophone
+  strings: str
+  additional_raw: glass harmonica*
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_carnaval_des_animaux_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: flute (also piccolo), clarinet, glass harmonica*, xylophone,
+    strings'
+duration_minutes: 20

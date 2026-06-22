@@ -1,0 +1,33 @@
+id: wagner-die-hochzeit
+work:
+  composer: Wagner, Richard
+  title: Die Hochzeit
+  ids:
+    imslp: Die Hochzeit, WWV 31 (Wagner, Richard)
+  year: 1832
+formula: 2222 4200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - Ada (soprano)
+  - Lora (soprano)
+  - Arindal (tenor)
+  - Harald (tenor)
+  - Admund (tenor)
+  - Cadolt (bass)
+  - Hadmar (bass) Mixed Chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Hochzeit%2C_WWV_31_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Ada (soprano), Lora (soprano), Arindal (tenor), Harald
+    (tenor), Admund (tenor), Cadolt (bass), Hadmar (bass) Mixed Chorus (SATB), Orchestra
+    :2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, timpani, strings'

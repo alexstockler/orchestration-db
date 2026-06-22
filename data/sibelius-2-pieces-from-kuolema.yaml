@@ -1,0 +1,19 @@
+id: sibelius-2-pieces-from-kuolema
+work:
+  composer: Sibelius, Jean
+  title: 2 Pieces from Kuolema
+  ids:
+    imslp: 2 Pieces from Kuolema, Op.44 (Sibelius, Jean)
+  year: 1903
+formula: 1010 2000 str
+instrumentation:
+  flute: 1
+  clarinet: 1
+  horn: 2
+  strings: str
+  additional_raw: timpano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Pieces_from_Kuolema%2C_Op.44_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, clarinet, 2 horns, timpano, strings'

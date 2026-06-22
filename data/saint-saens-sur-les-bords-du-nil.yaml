@@ -1,0 +1,16 @@
+id: saint-saens-sur-les-bords-du-nil
+work:
+  composer: Saint-Saëns, Camille
+  title: Sur les bords du Nil
+  ids:
+    imslp: Sur les bords du Nil, Op.125 (Saint-Saëns, Camille)
+  year: 1908
+formula: ''
+instrumentation:
+  additional_raw: wind band
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sur_les_bords_du_Nil%2C_Op.125_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: wind band'
+duration_minutes: 4

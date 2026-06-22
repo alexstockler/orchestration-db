@@ -1,0 +1,15 @@
+id: saint-saens-si-je-l-osais
+work:
+  composer: Saint-Saëns, Camille
+  title: Si je l'osais
+  ids:
+    imslp: Si je l'osais (Saint-Saëns, Camille)
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Si_je_l%27osais_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

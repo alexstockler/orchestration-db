@@ -1,0 +1,41 @@
+id: saint-saens-javotte
+work:
+  composer: Saint-Saëns, Camille
+  title: Javotte
+  ids:
+    imslp: Javotte (Saint-Saëns, Camille)
+  year: 1896
+formula: 3[pic.2.3] 2 2 2 4 4[cnt.cnt.cnt.cnt] 3 1 tmp hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - bass drum
+    - side drum
+    - bell
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Javotte_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4
+    horns, 4 cornets, 3 trombones, tuba, timpani, triangle, cymbals, bass drum, side
+    drum, bell, harps, strings'

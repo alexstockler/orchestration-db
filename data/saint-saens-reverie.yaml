@@ -1,0 +1,16 @@
+id: saint-saens-reverie
+work:
+  composer: Saint-Saëns, Camille
+  title: Rêverie
+  ids:
+    imslp: Rêverie (Saint-Saëns, Camille)
+  year: 1851
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/R%C3%AAverie_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, orchestra'

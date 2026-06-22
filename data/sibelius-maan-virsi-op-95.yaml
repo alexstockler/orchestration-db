@@ -1,0 +1,15 @@
+id: sibelius-maan-virsi-op-95
+work:
+  composer: Sibelius, Jean
+  title: Maan virsi, Op.95
+  ids:
+    imslp: Maan virsi, Op.95 (Sibelius, Jean)
+  year: 1920
+formula: ''
+instrumentation:
+  additional_raw: Chorus and Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Maan_virsi%2C_Op.95_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Chorus and Orchestra'

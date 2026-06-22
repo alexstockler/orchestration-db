@@ -1,0 +1,29 @@
+id: mendelssohn-christus
+work:
+  composer: Mendelssohn, Felix
+  title: Christus
+  ids:
+    imslp: Christus, Op.97 (Mendelssohn, Felix)
+  year: 1847
+formula: 2222 2230 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: STBB soli | SATTBB chorus / 2 | 2 | 2 | 2 - 2 | 2 | 3 | 0 | timp
+    | strs
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Christus%2C_Op.97_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: STBB soli, SATTBB chorus / 2, 2, 2, 2 - 2, 2, 3, 0, timp,
+    strs :2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets, 3 trombones,
+    timpani, strings'
+duration_minutes: 18

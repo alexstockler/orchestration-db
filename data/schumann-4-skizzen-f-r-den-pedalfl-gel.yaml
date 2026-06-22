@@ -1,0 +1,14 @@
+id: schumann-4-skizzen-f-r-den-pedalfl-gel
+work:
+  composer: Schumann, Robert
+  title: 4 Skizzen für den Pedalflügel
+  ids:
+    imslp: 4 Skizzen für den Pedalflügel, Op.58 (Schumann, Robert)
+formula: ''
+instrumentation:
+  additional_raw: pedal piano (or organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Skizzen_f%C3%BCr_den_Pedalfl%C3%BCgel%2C_Op.58_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: pedal piano (or organ)'

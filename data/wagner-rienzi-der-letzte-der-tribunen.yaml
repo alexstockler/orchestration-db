@@ -1,0 +1,67 @@
+id: wagner-rienzi-der-letzte-der-tribunen
+work:
+  composer: Wagner, Richard
+  title: Rienzi, der Letzte der Tribunen
+  ids:
+    imslp: Rienzi, WWV 49 (Wagner, Richard)
+  year: 1840
+formula: 3[pic.2.3] 2 2 2 4430 tmp
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 4
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - triangle
+    - cymbals
+    - snare drum
+  soloists:
+  - Cola Rienzi
+  - Roman Tribune (tenor)
+  - Irene
+  - Rienzi's sister (soprano)
+  - Steffano Colonna
+  - a nobleman (bass)
+  - Adriano
+  - Rienzi's son (soprano)
+  - Paolo Orsini
+  - another patrician (bass)
+  - Raimondo
+  - Papal Legate (bass)
+  - Baroncelli
+  - Roman citizen (tenor)
+  - Cecco del Vecchio
+  - Roman citizen (bass)
+  - The Messenger of Peace (soprano) Mixed Chorus (SATB) :Ambassadors
+  - Nobles
+  - Priests
+  - Monks
+  - Soldiers
+  - Messengers
+  - Populace
+  additional_raw: (contrabassoon*) | serpent* (tuba) | tom-tom | strings :*Possible
+    to also use a contrabassoon in this opera to replace the Serpent and Tuba parts
+    if those instruments are not available.
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rienzi%2C_WWV_49_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Cola Rienzi, Roman Tribune (tenor), Irene, Rienzi''s
+    sister (soprano), Steffano Colonna, a nobleman (bass), Adriano, Rienzi''s son
+    (soprano), Paolo Orsini, another patrician (bass), Raimondo, Papal Legate (bass),
+    Baroncelli, Roman citizen (tenor), Cecco del Vecchio, Roman citizen (bass), The
+    Messenger of Peace (soprano) Mixed Chorus (SATB) :Ambassadors, Nobles, Priests,
+    Monks, Soldiers, Messengers, Populace Orchestra :piccolo, 2 flutes, 2 oboes, 2
+    clarinets, 2 bassoons, (contrabassoon*), 4 horns, 4 trumpets, 3 trombones, serpent*
+    (tuba), timpani, bass drum, triangle, cymbals, snare drum, tom-tom, strings :*Possible
+    to also use a contrabassoon in this opera to replace the Serpent and Tuba parts
+    if those instruments are not available.'

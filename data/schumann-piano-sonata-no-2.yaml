@@ -1,0 +1,16 @@
+id: schumann-piano-sonata-no-2
+work:
+  composer: Schumann, Robert
+  title: Piano Sonata No.2
+  ids:
+    imslp: Piano Sonata No.2, Op.22 (Schumann, Robert)
+  year: 1833
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.2%2C_Op.22_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,14 @@
+id: grieg-bergliot
+work:
+  composer: Grieg, Edvard
+  title: Bergliot
+  ids:
+    imslp: Bergliot, Op.42 (Grieg, Edvard)
+formula: ''
+instrumentation:
+  additional_raw: speaker | orchestra (or piano reduction)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bergliot%2C_Op.42_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: speaker, orchestra (or piano reduction)'

@@ -1,0 +1,36 @@
+id: dvorak-symphony-no-4
+work:
+  composer: Dvořák, Antonín
+  title: Symphony No.4
+  ids:
+    imslp: Symphony No.4, Op.13 (Dvořák, Antonín)
+  year: 1874
+formula: 2[1/pic.2/pic] 2 2 2 4230 tmp hp str
+instrumentation:
+  flute:
+  - doublings:
+    - piccolo
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - bass drum
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.4%2C_Op.13_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (1st and 2nd also piccolo), 2 oboes, 2 clarinets,
+    2 bassoons, 4 horns, 2 trumpets, 3 trombones,, timpani, triangle, cymbals, bass
+    drum,, harp, strings'
+duration_minutes: 40

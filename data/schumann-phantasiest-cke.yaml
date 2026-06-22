@@ -1,0 +1,17 @@
+id: schumann-phantasiest-cke
+work:
+  composer: Schumann, Robert
+  title: Phantasiestücke
+  ids:
+    imslp: Phantasiestücke, Op.88 (Schumann, Robert)
+  year: 1842
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Phantasiest%C3%BCcke%2C_Op.88_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'

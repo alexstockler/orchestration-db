@@ -1,0 +1,34 @@
+id: mendelssohn-trauermarsch
+work:
+  composer: Mendelssohn, Felix
+  title: Trauermarsch
+  ids:
+    imslp: Trauermarsch, Op.103 (Mendelssohn, Felix)
+  year: 1836
+formula: 1 2 6[1.2.3.4.bhn.bhn] 3[1.2.cbn] 4230
+instrumentation:
+  flute: 1
+  oboe: 2
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: basset_horn
+  - instrument: basset_horn
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  additional_raw: ophïcleide
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trauermarsch%2C_Op.103_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, 2 oboes, 2 clarinets (F), 2 clarinets (C), 2 basset
+    horns, 2 bassoons, contrabassoon, 4 horns (E, C), 2 trumpets (C), 3 trombones,
+    ophïcleide'
+duration_minutes: 10

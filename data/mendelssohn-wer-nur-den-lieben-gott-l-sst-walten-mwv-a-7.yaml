@@ -1,0 +1,16 @@
+id: mendelssohn-wer-nur-den-lieben-gott-l-sst-walten-mwv-a-7
+work:
+  composer: Mendelssohn, Felix
+  title: Wer nur den lieben Gott lässt walten, MWV A 7
+  ids:
+    imslp: Wer nur den lieben Gott lässt walten, MWV A 7 (Mendelssohn, Felix)
+  year: 1829
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Wer_nur_den_lieben_Gott_l%C3%A4sst_walten%2C_MWV_A_7_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: chorus, orchestra'

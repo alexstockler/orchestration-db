@@ -1,0 +1,42 @@
+id: grieg-peer-gynt
+work:
+  composer: Grieg, Edvard
+  title: Peer Gynt
+  ids:
+    imslp: Peer Gynt, Op.23 (Grieg, Edvard)
+  year: 1874
+formula: 3[pic.2.3] 2 2 2 4231 tmp hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - bass drum
+    - triangle
+  harp: 1
+  strings: str
+  soloists:
+  - Peer Gynt (tenor)
+  - Solveig (soprano)
+  - 'Anitra (mezzo-soprano) :Chorus :'
+  additional_raw: hardanger fiddle (ad lib.)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Peer_Gynt%2C_Op.23_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: :Cast ::Peer Gynt (tenor), Solveig (soprano), Anitra (mezzo-soprano)
+    :Chorus :Orchestra ::piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns,
+    2 trumpets, 3 trombones, tuba, timpani, cymbals, bass drum, triangle, harp, hardanger
+    fiddle (ad lib.), strings'
+duration_minutes: 60

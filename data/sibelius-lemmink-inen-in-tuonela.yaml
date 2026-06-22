@@ -1,0 +1,35 @@
+id: sibelius-lemmink-inen-in-tuonela
+work:
+  composer: Sibelius, Jean
+  title: Lemminkäinen in Tuonela
+  ids:
+    imslp: Lemminkäinen in Tuonela, Op.22 No.3 (Sibelius, Jean)
+  year: 1893
+formula: 2 2[1.Eh] 2[1.bcl] 2 4330 tmp str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - snare drum
+    - cymbals
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lemmink%C3%A4inen_in_Tuonela%2C_Op.22_No.3_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra :2 Flutes, Oboe, English Horn, Clarinet, Bass
+    Clarinet, 2 Bassoons,, 4 Horns, 3 Trumpets, 3 Trombones,, Timpani, Bass Drum,
+    Snare Drum, Cymbals, Strings'
+duration_minutes: 15

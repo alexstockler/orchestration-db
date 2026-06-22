@@ -1,0 +1,17 @@
+id: saint-saens-berceuse
+work:
+  composer: Saint-Saëns, Camille
+  title: Berceuse
+  ids:
+    imslp: Berceuse, Op.38 (Saint-Saëns, Camille)
+  year: 1871
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: Violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Berceuse%2C_Op.38_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin, piano'

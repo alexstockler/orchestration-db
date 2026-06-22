@@ -1,0 +1,15 @@
+id: sibelius-4-pieces-for-violin-or-cello-and-piano
+work:
+  composer: Sibelius, Jean
+  title: 4 Pieces for Violin or Cello and Piano
+  ids:
+    imslp: 4 Pieces for Violin and Piano, Op.78 (Sibelius, Jean)
+  year: 1915
+formula: ''
+instrumentation:
+  additional_raw: Violin (Cello) and Piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Pieces_for_Violin_and_Piano%2C_Op.78_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin (Cello) and Piano'

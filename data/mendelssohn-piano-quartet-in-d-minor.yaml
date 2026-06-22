@@ -1,0 +1,17 @@
+id: mendelssohn-piano-quartet-in-d-minor
+work:
+  composer: Mendelssohn, Felix
+  title: Piano Quartet in D minor
+  ids:
+    imslp: Piano Quartet in D minor, MWV Q 10 (Mendelssohn, Felix)
+  year: 1821
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quartet_in_D_minor%2C_MWV_Q_10_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: piano, violin, viola, cello'

@@ -1,0 +1,19 @@
+id: dvorak-4-songs-on-serbian-folk-poems
+work:
+  composer: Dvořák, Antonín
+  title: 4 Songs on Serbian Folk Poems
+  ids:
+    imslp: 4 Songs on Serbian Folk Poems, Op.6 (Dvořák, Antonín)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Songs_on_Serbian_Folk_Poems%2C_Op.6_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'
+duration_minutes: 9

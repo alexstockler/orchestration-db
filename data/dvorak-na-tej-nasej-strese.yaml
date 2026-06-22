@@ -1,0 +1,19 @@
+id: dvorak-na-tej-nasej-strese
+work:
+  composer: Dvořák, Antonín
+  title: Na tej našej střeše
+  ids:
+    imslp: Na tej našej střeše, B.118 (Dvořák, Antonín)
+  year: 1881
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - alto
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Na_tej_na%C5%A1ej_st%C5%99e%C5%A1e%2C_B.118_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, piano'

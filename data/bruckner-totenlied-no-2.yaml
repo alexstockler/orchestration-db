@@ -1,0 +1,15 @@
+id: bruckner-totenlied-no-2
+work:
+  composer: Bruckner, Anton
+  title: Totenlied No.2
+  ids:
+    imslp: Totenlied No.2, WAB 47/2 (Bruckner, Anton)
+  year: 1852
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Totenlied_No.2%2C_WAB_47/2_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

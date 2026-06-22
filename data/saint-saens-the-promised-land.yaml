@@ -1,0 +1,17 @@
+id: saint-saens-the-promised-land
+work:
+  composer: Saint-Saëns, Camille
+  title: The Promised Land
+  ids:
+    imslp: The Promised Land, Op.140 (Saint-Saëns, Camille)
+  year: 1913
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Promised_Land%2C_Op.140_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices, chorus, orchestra'

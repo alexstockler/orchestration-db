@@ -1,0 +1,16 @@
+id: bruckner-3-themes-for-an-organ-improvisation
+work:
+  composer: Bruckner, Anton
+  title: 3 Themes for an Organ Improvisation
+  ids:
+    imslp: 3 Themes for an Organ Improvisation, WAB 241 (Bruckner, Anton)
+  year: 1884
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Themes_for_an_Organ_Improvisation%2C_WAB_241_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

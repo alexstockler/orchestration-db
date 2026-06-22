@@ -1,0 +1,63 @@
+id: dvorak-rusalka
+work:
+  composer: Dvořák, Antonín
+  title: Rusalka
+  ids:
+    imslp: Rusalka, Op.114 (Dvořák, Antonín)
+  year: 1900
+formula: 3[pic.2.3] 3[1.2.Eh] 3[1.2.bcl] 2 4331 tmp harm hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - tam-tam
+    - triangle
+  keyboards:
+  - instrument: harmonium
+  harp: 1
+  strings: str
+  soloists:
+  - Rusalka (soprano)
+  - The Prince (tenor)
+  - Vodník (bass)
+  - The Foreign Princess (soprano)
+  - Ježibaba (mezzo-soprano)
+  - First wood sprite (soprano)
+  - Second wood sprite (soprano)
+  - Third wood sprite (alto)
+  - Gamekeeper (tenor)
+  - Kitchen Boy (soprano)
+  - Hunter (baritone) Mixed Chorus (SATB) :Wood nymphs
+  - guests at the castle
+  - entourage of the Prince
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rusalka%2C_Op.114_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Rusalka (soprano), The Prince (tenor), Vodník (bass),
+    The Foreign Princess (soprano), Ježibaba (mezzo-soprano), First wood sprite (soprano),
+    Second wood sprite (soprano), Third wood sprite (alto), Gamekeeper (tenor), Kitchen
+    Boy (soprano), Hunter (baritone) Mixed Chorus (SATB) :Wood nymphs, guests at the
+    castle, entourage of the Prince Orchestra :piccolo, 2 flutes, 2 oboes, English
+    horn, 2 clarinets, bass clarinet, 2 bassoons, 4 horns, 3 trumpets, 3 trombones,
+    tuba, timpani, bass drum, cymbals, tam-tam, triangle, harmonium, harp, strings'
+duration_minutes: 160

@@ -1,0 +1,50 @@
+id: debussy-la-mer
+work:
+  composer: Debussy, Claude
+  title: La mer
+  ids:
+    imslp: La mer, CD 111 (Debussy, Claude)
+  year: 1903
+formula: 3[1.2.pic] 3[1.2.Eh] 2 4[1.2.3.cbn] 4 5[1.2.3.cnt.cnt] 3 1 tmp 2hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - instrument: piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - tam-tam
+    - triangle
+    - glockenspiel
+  harp: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_mer%2C_CD_111_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, piccolo, 2 oboes, English horn, 2 clarinets,
+    3 bassoons, contrabassoon, 4 horns, 3 trumpets, 2 cornets, 3 trombones, tuba,
+    timpani, bass drum, cymbals, tam-tam, triangle, glockenspiel, 2 harps, strings'
+duration_minutes: 24

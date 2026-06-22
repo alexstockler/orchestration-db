@@ -1,0 +1,22 @@
+id: mendelssohn-o-haupt-voll-blut-und-wunden
+work:
+  composer: Mendelssohn, Felix
+  title: O Haupt voll Blut und Wunden
+  ids:
+    imslp: O Haupt voll Blut und Wunden (Mendelssohn, Felix)
+  year: 1830
+formula: 2222 2000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+  additional_raw: Choir of 4 voices | Bass solo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_Haupt_voll_Blut_und_Wunden_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: Choir of 4 voices, Bass solo, 2 Flutes, 2 Oboes, 2 Clarinets,
+    2 Bassoons, 2 Horns, Strings'

@@ -1,0 +1,17 @@
+id: dvorak-moderato-in-a-major
+work:
+  composer: Dvořák, Antonín
+  title: Moderato in A major
+  ids:
+    imslp: Moderato in A major, B.116 (Dvořák, Antonín)
+  year: 1881
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Moderato_in_A_major%2C_B.116_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 3

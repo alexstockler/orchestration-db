@@ -1,0 +1,15 @@
+id: rimsky-korsakov-the-snow-maiden-suite
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: The Snow Maiden (suite)
+  ids:
+    imslp: The Snow Maiden (suite) (Rimsky-Korsakov, Nikolay)
+  year: 1895
+formula: ''
+instrumentation:
+  additional_raw: orchestra with optional chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Snow_Maiden_%28suite%29_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra with optional chorus'

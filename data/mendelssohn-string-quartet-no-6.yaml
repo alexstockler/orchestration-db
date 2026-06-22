@@ -1,0 +1,16 @@
+id: mendelssohn-string-quartet-no-6
+work:
+  composer: Mendelssohn, Felix
+  title: String Quartet No.6
+  ids:
+    imslp: String Quartet No.6, Op.80 (Mendelssohn, Felix)
+  year: 1847
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.6%2C_Op.80_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 26

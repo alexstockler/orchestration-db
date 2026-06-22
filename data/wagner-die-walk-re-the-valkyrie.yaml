@@ -1,0 +1,79 @@
+id: wagner-die-walk-re-the-valkyrie
+work:
+  composer: Wagner, Richard
+  title: Die Walküre ; The Valkyrie
+  ids:
+    imslp: Die Walküre, WWV 86B (Wagner, Richard)
+  year: 1856
+formula: 4[pic.2.3/pic.4] 4[1.2.3.Eh] 4[1.2.3.bcl] 0 8 4[1.2.3.btpt] 4[1.2.btbn.cbtbn]
+  0 tmp 6hp
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - doublings:
+    - piccolo
+  - {}
+  oboe:
+  - {}
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  horn: 8
+  trumpet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_trumpet
+  trombone:
+  - {}
+  - {}
+  - instrument: bass_trombone
+  - instrument: contrabass_trombone
+  percussion:
+    timpani: 2
+    instruments:
+    - snare drum
+    - triangle
+    - cymbals
+    - tam-tam
+    - glockenspiel
+  harp: 6
+  soloists:
+  - 'Humans ::Siegmund: tenor'
+  - 'Sieglinde: soprano'
+  - 'Hunding: bass :God ::Wotan: bass-baritone :Goddess ::Fricka: mezzo-soprano :Valkyries
+    ::Brünnhilde: soprano'
+  - 'Gerhilde: soprano'
+  - 'Ortlinde: soprano'
+  - 'Waltraute: mezzo-soprano'
+  - 'Schwerleite: contralto'
+  - 'Helmwige: soprano'
+  - 'Siegrune: mezzo-soprano'
+  - 'Grimgerde: mezzo-soprano'
+  - 'Roßweiße: mezzo-soprano :Mixed Chorus (SATB) :'
+  additional_raw: 3 bassoons* | 2 Wagner tubas (F)) | contrabass tuba | 16 violin
+    I | 16 violin II | 12 viola | 12 cellos | 8 basses *3rd bassoon can alternate
+    on contrabassoon if needed for required low A passages | found in regular 3rd
+    bassoon part
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Walk%C3%BCre%2C_WWV_86B_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Humans ::Siegmund: tenor, Sieglinde: soprano, Hunding:
+    bass :God ::Wotan: bass-baritone :Goddess ::Fricka: mezzo-soprano :Valkyries ::Brünnhilde:
+    soprano, Gerhilde: soprano, Ortlinde: soprano, Waltraute: mezzo-soprano, Schwerleite:
+    contralto, Helmwige: soprano, Siegrune: mezzo-soprano, Grimgerde: mezzo-soprano,
+    Roßweiße: mezzo-soprano :Mixed Chorus (SATB) :Orchestra ::piccolo, 3 flutes (3rd
+    doubles piccolo), 3 oboes, English Horn (doubles oboe) :::3 clarinets, bass clarinet,
+    3 bassoons* ::8 horns (2 also Wagner tubas in F, 2 in B), 2 Wagner tubas (F)),
+    3 trumpets, bass trumpet :::2 tenor trombones, bass trombone, contrabass trombone,
+    contrabass tuba ::2 timpani, snare drum, triangle, cymbals, tam-tam, glockenspiel
+    ::6 harps, 16 violin I, 16 violin II, 12 viola, 12 cellos, 8 basses *3rd bassoon
+    can alternate on contrabassoon if needed for required low A passages, found in
+    regular 3rd bassoon part'

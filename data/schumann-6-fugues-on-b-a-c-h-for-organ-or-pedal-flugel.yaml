@@ -1,0 +1,16 @@
+id: schumann-6-fugues-on-b-a-c-h-for-organ-or-pedal-flugel
+work:
+  composer: Schumann, Robert
+  title: 6 Fugues on B.A.C.H. for organ or pedal-flugel
+  ids:
+    imslp: 6 Fugues on B.A.C.H., Op.60 (Schumann, Robert)
+  year: 1845
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Fugues_on_B.A.C.H.%2C_Op.60_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: organ (or pedal piano)'

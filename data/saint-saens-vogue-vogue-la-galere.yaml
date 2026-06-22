@@ -1,0 +1,19 @@
+id: saint-saens-vogue-vogue-la-galere
+work:
+  composer: Saint-Saëns, Camille
+  title: Vogue, vogue la galère
+  ids:
+    imslp: Vogue, vogue la galère (Saint-Saëns, Camille)
+  year: 1877
+formula: pf harm
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: harmonium
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vogue%2C_vogue_la_gal%C3%A8re_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano, harmonium (ad lib.)'

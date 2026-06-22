@@ -1,0 +1,21 @@
+id: saint-saens-allegro-appassionato
+work:
+  composer: Saint-Saëns, Camille
+  title: Allegro Appassionato
+  ids:
+    imslp: Allegro appassionato, Op.43 (Saint-Saëns, Camille)
+  year: 1873
+formula: 2222 2000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegro_appassionato%2C_Op.43_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, strings'
+duration_minutes: 5

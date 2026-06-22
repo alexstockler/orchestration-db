@@ -1,0 +1,19 @@
+id: debussy-diane-au-bois
+work:
+  composer: Debussy, Claude
+  title: Diane au bois
+  ids:
+    imslp: Diane au bois, CD 48 (Debussy, Claude)
+  year: 1883
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - tenor
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Diane_au_bois%2C_CD_48_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, piano'

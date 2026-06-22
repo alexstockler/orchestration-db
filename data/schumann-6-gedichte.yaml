@@ -1,0 +1,17 @@
+id: schumann-6-gedichte
+work:
+  composer: Schumann, Robert
+  title: 6 Gedichte
+  ids:
+    imslp: 6 Gedichte, Op.36 (Schumann, Robert)
+  year: 1840
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Gedichte%2C_Op.36_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

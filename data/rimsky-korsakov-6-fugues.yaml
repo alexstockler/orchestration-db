@@ -1,0 +1,16 @@
+id: rimsky-korsakov-6-fugues
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: 6 Fugues
+  ids:
+    imslp: 6 Fugues, Op.17 (Rimsky-Korsakov, Nikolay)
+  year: 1875
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Fugues%2C_Op.17_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

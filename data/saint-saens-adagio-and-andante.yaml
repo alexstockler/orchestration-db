@@ -1,0 +1,17 @@
+id: saint-saens-adagio-and-andante
+work:
+  composer: Saint-Saëns, Camille
+  title: Adagio and Andante
+  ids:
+    imslp: Adagio and Andante (Saint-Saëns, Camille)
+  year: 1853
+formula: 0000 1000 org
+instrumentation:
+  horn: 1
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adagio_and_Andante_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: horn, organ'

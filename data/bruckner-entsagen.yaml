@@ -1,0 +1,20 @@
+id: bruckner-entsagen
+work:
+  composer: Bruckner, Anton
+  title: Entsagen
+  ids:
+    imslp: Entsagen, WAB 14 (Bruckner, Anton)
+  year: 1851
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - soprano
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Entsagen%2C_WAB_14_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), mixed chorus (SATB), organ (or piano)'
+duration_minutes: 5

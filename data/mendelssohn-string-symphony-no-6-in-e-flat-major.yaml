@@ -1,0 +1,16 @@
+id: mendelssohn-string-symphony-no-6-in-e-flat-major
+work:
+  composer: Mendelssohn, Felix
+  title: String Symphony No.6 in E-flat major
+  ids:
+    imslp: String Symphony No.6 in E-flat major, MWV N 6 (Mendelssohn, Felix)
+  year: 1821
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Symphony_No.6_in_E-flat_major%2C_MWV_N_6_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'
+duration_minutes: 12

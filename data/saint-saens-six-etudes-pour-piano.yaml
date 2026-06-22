@@ -1,0 +1,16 @@
+id: saint-saens-six-etudes-pour-piano
+work:
+  composer: Saint-Saëns, Camille
+  title: Six Etudes pour piano
+  ids:
+    imslp: 6 Études, Op.52 (Saint-Saëns, Camille)
+  year: 1877
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_%C3%89tudes%2C_Op.52_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

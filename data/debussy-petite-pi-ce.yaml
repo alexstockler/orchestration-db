@@ -1,0 +1,17 @@
+id: debussy-petite-pi-ce
+work:
+  composer: Debussy, Claude
+  title: Petite pièce
+  ids:
+    imslp: Petite pièce, CD 127 (Debussy, Claude)
+  year: 1910
+formula: 0010 0000 pf
+instrumentation:
+  clarinet: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Petite_pi%C3%A8ce%2C_CD_127_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, piano'

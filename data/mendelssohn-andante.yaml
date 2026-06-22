@@ -1,0 +1,17 @@
+id: mendelssohn-andante
+work:
+  composer: Mendelssohn, Felix
+  title: Andante
+  ids:
+    imslp: Andante in D major, MWV W 6 (Mendelssohn, Felix)
+  year: 1823
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_in_D_major%2C_MWV_W_6_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: Organ'
+duration_minutes: 4

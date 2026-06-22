@@ -1,0 +1,16 @@
+id: schumann-toccata
+work:
+  composer: Schumann, Robert
+  title: Toccata
+  ids:
+    imslp: Toccata, Op.7 (Schumann, Robert)
+  year: 1829
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Toccata%2C_Op.7_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

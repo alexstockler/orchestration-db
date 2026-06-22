@@ -1,0 +1,16 @@
+id: sibelius-6-finnish-folksongs
+work:
+  composer: Sibelius, Jean
+  title: 6 Finnish Folksongs
+  ids:
+    imslp: 6 Finnish Folksongs (Sibelius, Jean)
+  year: 1902
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Finnish_Folksongs_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

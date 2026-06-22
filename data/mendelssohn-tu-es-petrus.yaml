@@ -1,0 +1,26 @@
+id: mendelssohn-tu-es-petrus
+work:
+  composer: Mendelssohn, Felix
+  title: Tu es Petrus
+  ids:
+    imslp: Tu es Petrus, Op.111 (Mendelssohn, Felix)
+  year: 1827
+formula: 2200 2230 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - mixed chorus (SSATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tu_es_Petrus%2C_Op.111_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: mixed chorus (SSATB), Orchestra: 2 flutes, 2 oboes,
+    2 horns (D), 2 trumpets (D), 3 trombones, timpani, strings'
+duration_minutes: 7

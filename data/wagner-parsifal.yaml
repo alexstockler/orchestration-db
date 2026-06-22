@@ -1,0 +1,61 @@
+id: wagner-parsifal
+work:
+  composer: Wagner, Richard
+  title: Parsifal
+  ids:
+    imslp: Parsifal, WWV 111 (Wagner, Richard)
+  year: 1857
+formula: 3 4[1.2.3.Eh] 4[1.2.3.bcl] 4[1.2.3.cbn] 4571 tmp 2hp
+instrumentation:
+  flute: 3
+  oboe:
+  - {}
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 5
+  trombone: 7
+  tuba: 1
+  percussion:
+    timpani: 2
+    instruments:
+    - tenor drum
+    - bells
+    - thunder machine
+  harp: 2
+  soloists:
+  - bass
+  - alto
+  - tenors
+  additional_raw: 'Parsifal: tenor | Kundry: soprano or mezzo-soprano | Gurnemanz
+    | a veteran Knight of the Grail: bass | Amfortas | ruler of the Grail kingdom:
+    baritone | Klingsor | a magician: bass-baritone | Titurel | Amfortas'' father:
+    bass | Two Grail Knights: tenor | Four Esquires: soprano | Six Flower-maidens:
+    three sopranos | three contraltos or six sopranos Mixed Chorus (SATB) | Knights
+    of the Grail | Boys | Flower-Baidens Orchestra | strings Onstage Instruments |
+    church bells'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Parsifal%2C_WWV_111_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Parsifal: tenor, Kundry: soprano or mezzo-soprano,
+    Gurnemanz, a veteran Knight of the Grail: bass, Amfortas, ruler of the Grail kingdom:
+    baritone, Klingsor, a magician: bass-baritone, Titurel, Amfortas'' father: bass,
+    Two Grail Knights: tenor, bass, Four Esquires: soprano, alto, two tenors, Six
+    Flower-maidens: three sopranos, three contraltos or six sopranos Mixed Chorus
+    (SATB) :Knights of the Grail, Boys, Flower-Baidens Orchestra, :3 flutes, 3 oboes,
+    English horn, 3 clarinets ::bass clarinet, 3 bassoons, contrabassoon :4 horns,
+    3 trumpets, 3 trombones, tuba :2 timpani (2 on each pair), tenor drum, bells,
+    2 harps, strings Onstage Instruments :2 trumpets (F), 4 trombones, church bells,
+    thunder machine'

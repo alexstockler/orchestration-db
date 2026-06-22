@@ -1,0 +1,15 @@
+id: sibelius-not-with-lamentation
+work:
+  composer: Sibelius, Jean
+  title: Not with lamentation
+  ids:
+    imslp: Not with lamentation (Sibelius, Jean)
+  year: 1905
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Not_with_lamentation_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Chorus'

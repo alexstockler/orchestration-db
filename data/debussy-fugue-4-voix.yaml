@@ -1,0 +1,15 @@
+id: debussy-fugue-4-voix
+work:
+  composer: Debussy, Claude
+  title: Fugue à 4 voix
+  ids:
+    imslp: Fugue à 4 voix (Debussy, Claude)
+  year: 1884
+formula: ''
+instrumentation:
+  additional_raw: 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_%C3%A0_4_voix_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices'

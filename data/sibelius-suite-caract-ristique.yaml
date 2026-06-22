@@ -1,0 +1,16 @@
+id: sibelius-suite-caract-ristique
+work:
+  composer: Sibelius, Jean
+  title: Suite caractéristique
+  ids:
+    imslp: Suite caractéristique, Op.100 (Sibelius, Jean)
+  year: 1922
+formula: hp str
+instrumentation:
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_caract%C3%A9ristique%2C_Op.100_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: strings, harp'

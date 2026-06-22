@@ -1,0 +1,18 @@
+id: debussy-clair-de-lune-song-1st-setting
+work:
+  composer: Debussy, Claude
+  title: Clair de lune (song, 1st setting)
+  ids:
+    imslp: Votre âme est un paysage choisi, CD 45 (Debussy, Claude)
+  year: 1882
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Votre_%C3%A2me_est_un_paysage_choisi%2C_CD_45_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 3

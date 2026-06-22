@@ -1,0 +1,18 @@
+id: bruckner-vaterlandslied
+work:
+  composer: Bruckner, Anton
+  title: Vaterlandslied
+  ids:
+    imslp: Vaterlandslied, WAB 92 (Bruckner, Anton)
+  year: 1866
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  - baritone
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vaterlandslied%2C_WAB_92_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, baritone, male chorus (TTBB)'

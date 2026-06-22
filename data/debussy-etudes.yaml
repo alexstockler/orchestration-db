@@ -1,0 +1,16 @@
+id: debussy-etudes
+work:
+  composer: Debussy, Claude
+  title: Etudes
+  ids:
+    imslp: Etudes, CD 143 (Debussy, Claude)
+  year: 1915
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Etudes%2C_CD_143_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

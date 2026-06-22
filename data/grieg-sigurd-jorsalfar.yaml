@@ -1,0 +1,16 @@
+id: grieg-sigurd-jorsalfar
+work:
+  composer: Grieg, Edvard
+  title: Sigurd Jorsalfar
+  ids:
+    imslp: Sigurd Jorsalfar (incidental music), Op.22 (Grieg, Edvard)
+  year: 1872
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+  additional_raw: tenor or baritone | orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sigurd_Jorsalfar_%28incidental_music%29%2C_Op.22_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor or baritone, male chorus (TTBB), orchestra'

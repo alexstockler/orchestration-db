@@ -1,0 +1,14 @@
+id: grieg-flagsong
+work:
+  composer: Grieg, Edvard
+  title: Flagsong
+  ids:
+    imslp: Flagsong, EG 172 (Grieg, Edvard)
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flagsong%2C_EG_172_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

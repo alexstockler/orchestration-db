@@ -1,0 +1,16 @@
+id: bruckner-inveni-david-i
+work:
+  composer: Bruckner, Anton
+  title: Inveni David (I)
+  ids:
+    imslp: Inveni David, WAB 19 (Bruckner, Anton)
+  year: 1868
+formula: 0000 0040
+instrumentation:
+  trombone: 4
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Inveni_David%2C_WAB_19_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: male chorus (TTBB), 4 trombones'

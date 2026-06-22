@@ -1,0 +1,21 @@
+id: mendelssohn-jube-domine
+work:
+  composer: Mendelssohn, Felix
+  title: Jube Domine
+  ids:
+    imslp: Jube Domine, MWV B 10 (Mendelssohn, Felix)
+  year: 1822
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jube_Domine%2C_MWV_B_10_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass; mixed chorus (SATB/SATB)'
+duration_minutes: 5

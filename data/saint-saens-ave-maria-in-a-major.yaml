@@ -1,0 +1,18 @@
+id: saint-saens-ave-maria-in-a-major
+work:
+  composer: Saint-Saëns, Camille
+  title: Ave Maria in A major
+  ids:
+    imslp: Ave Maria in A major, ICS 18 (Saint-Saëns, Camille)
+  year: 1860
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_Maria_in_A_major%2C_ICS_18_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SSAA), organ'
+duration_minutes: 3

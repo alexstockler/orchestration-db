@@ -1,0 +1,16 @@
+id: bruckner-am-grabe
+work:
+  composer: Bruckner, Anton
+  title: Am Grabe
+  ids:
+    imslp: Am Grabe, WAB 2 (Bruckner, Anton)
+  year: 1861
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Am_Grabe%2C_WAB_2_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'
+duration_minutes: 2

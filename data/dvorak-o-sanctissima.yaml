@@ -1,0 +1,18 @@
+id: dvorak-o-sanctissima
+work:
+  composer: Dvořák, Antonín
+  title: O sanctissima
+  ids:
+    imslp: O sanctissima, Op.19a (Dvořák, Antonín)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - alto
+  - baritone
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_sanctissima%2C_Op.19a_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, baritone, organ'

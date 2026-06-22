@@ -1,0 +1,16 @@
+id: mendelssohn-the-garland-by-celia-s-arbour-all-the-night
+work:
+  composer: Mendelssohn, Felix
+  title: The Garland ("By Celia's Arbour All the Night")
+  ids:
+    imslp: The Garland, WoO 7 (Mendelssohn, Felix)
+  year: 1829
+formula: ''
+instrumentation:
+  additional_raw: voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Garland%2C_WoO_7_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: voice and piano'
+duration_minutes: 3

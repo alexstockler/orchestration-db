@@ -1,0 +1,67 @@
+id: wagner-g-tterd-mmerung
+work:
+  composer: Wagner, Richard
+  title: Götterdämmerung
+  ids:
+    imslp: Götterdämmerung, WWV 86D (Wagner, Richard)
+  year: 1848
+formula: 4[pic.2.3/pic.4] 4[1.2.3.Eh] 4[1.2.3.bcl] 0 10[1.2.3.4.5.6.7.8.9.10] 4[1.2.3.btpt]
+  4[1.2.3.cbtbn] 1 tmp 6hp
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - doublings:
+    - piccolo
+  - {}
+  oboe:
+  - {}
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  horn: 10
+  trumpet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_trumpet
+  trombone:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabass_trombone
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - glockenspiel
+  harp: 6
+  additional_raw: 'Siegfried: tenor | Brünnhilde (soprano) | Gunther (baritone) |
+    Gutrune (soprano) | Hagen (bass) | Alberich (baritone) | Waltraute (mezzo-soprano)
+    | First Norn (alto) | Second Norn (mezzo-soprano) | Third Norn (soprano) | Woglinde
+    (soprano) | Wellgunde (soprano or mezzo) | Flosshilde (mezzo-soprano) Chorus |
+    Vassals (tenors and basses) | Ladies (sopranos) '' | 3 bassoons* | snare drum
+    triangle | tamtam | strings (16, 16, 12, 12, 8) '' | 3 stierhorns *3rd bassoon
+    can alternate on contrabassoon if needed for required low A passages | found in
+    the regular 3rd bassoon part'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/G%C3%B6tterd%C3%A4mmerung%2C_WWV_86D_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Siegfried: tenor, Brünnhilde (soprano), Gunther (baritone),
+    Gutrune (soprano), Hagen (bass), Alberich (baritone), Waltraute (mezzo-soprano),
+    First Norn (alto), Second Norn (mezzo-soprano), Third Norn (soprano), Woglinde
+    (soprano), Wellgunde (soprano or mezzo), Flosshilde (mezzo-soprano) Chorus :Vassals
+    (tenors and basses), Ladies (sopranos) '' :piccolo, 3 flutes (3rd also piccolo),
+    3 oboes, English horn (also oboe) ::3 clarinets, bass clarinet, 3 bassoons* :8
+    horns (4-8 also Wagner Tubas), 3 trumpets, bass trumpet, ::3 trombones, contrabass
+    trombone (also bass trombone), tuba :timpani, snare drum triangle, cymbals, tamtam,
+    glockenspiel,, 6 harps, strings (16, 16, 12, 12, 8) '' :2 horns, 3 stierhorns
+    *3rd bassoon can alternate on contrabassoon if needed for required low A passages,
+    found in the regular 3rd bassoon part'

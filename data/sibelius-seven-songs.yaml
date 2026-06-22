@@ -1,0 +1,15 @@
+id: sibelius-seven-songs
+work:
+  composer: Sibelius, Jean
+  title: Seven Songs
+  ids:
+    imslp: 7 Songs, Op.17 (Sibelius, Jean)
+  year: 1891
+formula: ''
+instrumentation:
+  additional_raw: Voice and Piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Songs%2C_Op.17_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

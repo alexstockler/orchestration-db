@@ -1,0 +1,15 @@
+id: bruckner-christus-factus-est-iii
+work:
+  composer: Bruckner, Anton
+  title: Christus factus est (III)
+  ids:
+    imslp: Christus factus est, WAB 11 (Bruckner, Anton)
+  year: 1884
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Christus_factus_est%2C_WAB_11_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

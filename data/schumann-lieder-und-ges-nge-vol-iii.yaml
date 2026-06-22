@@ -1,0 +1,17 @@
+id: schumann-lieder-und-ges-nge-vol-iii
+work:
+  composer: Schumann, Robert
+  title: Lieder und Gesänge, Vol.III
+  ids:
+    imslp: Lieder und Gesänge, Vol.III, Op.77 (Schumann, Robert)
+  year: 1841
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lieder_und_Ges%C3%A4nge%2C_Vol.III%2C_Op.77_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

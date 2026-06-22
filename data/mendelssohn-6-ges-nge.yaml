@@ -1,0 +1,17 @@
+id: mendelssohn-6-ges-nge
+work:
+  composer: Mendelssohn, Felix
+  title: 6 Gesänge
+  ids:
+    imslp: 6 Gesänge, Op.34 (Mendelssohn, Felix)
+  year: 1834
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Ges%C3%A4nge%2C_Op.34_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

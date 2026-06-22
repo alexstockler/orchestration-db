@@ -1,0 +1,15 @@
+id: grieg-17-chorals-and-fugues-for-organ
+work:
+  composer: Grieg, Edvard
+  title: 17 Chorals and Fugues for Organ
+  ids:
+    imslp: 17 Chorals and Fugues for Organ, EG 185 (Grieg, Edvard)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/17_Chorals_and_Fugues_for_Organ%2C_EG_185_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

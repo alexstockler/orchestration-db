@@ -1,0 +1,17 @@
+id: mendelssohn-weihnachtslied
+work:
+  composer: Mendelssohn, Felix
+  title: Weihnachtslied
+  ids:
+    imslp: Weihnachtslied, MWV K 74 (Mendelssohn, Felix)
+  year: 1832
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Weihnachtslied%2C_MWV_K_74_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

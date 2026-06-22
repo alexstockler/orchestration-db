@@ -1,0 +1,16 @@
+id: debussy-d-un-cahier-d-esquisses
+work:
+  composer: Debussy, Claude
+  title: D'un Cahier d'Esquisses
+  ids:
+    imslp: D'un cahier d'esquisses, CD 112 (Debussy, Claude)
+  year: 1904
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/D%27un_cahier_d%27esquisses%2C_CD_112_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

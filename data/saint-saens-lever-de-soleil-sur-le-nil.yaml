@@ -1,0 +1,16 @@
+id: saint-saens-lever-de-soleil-sur-le-nil
+work:
+  composer: Saint-Saëns, Camille
+  title: Lever de soleil sur le Nil
+  ids:
+    imslp: Lever de soleil sur le Nil (Saint-Saëns, Camille)
+  year: 1898
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lever_de_soleil_sur_le_Nil_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, orchestra'

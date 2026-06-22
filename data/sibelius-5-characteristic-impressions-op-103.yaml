@@ -1,0 +1,16 @@
+id: sibelius-5-characteristic-impressions-op-103
+work:
+  composer: Sibelius, Jean
+  title: 5 Characteristic Impressions, Op.103
+  ids:
+    imslp: 5 Characteristic Impressions, Op.103 (Sibelius, Jean)
+  year: 1923
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Characteristic_Impressions%2C_Op.103_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: 1 piano'

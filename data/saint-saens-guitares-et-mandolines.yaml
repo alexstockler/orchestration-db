@@ -1,0 +1,18 @@
+id: saint-saens-guitares-et-mandolines
+work:
+  composer: Saint-Saëns, Camille
+  title: Guitares et mandolines
+  ids:
+    imslp: Guitares et mandolines (Saint-Saëns, Camille)
+  year: 1890
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Guitares_et_mandolines_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

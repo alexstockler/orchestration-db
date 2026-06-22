@@ -1,0 +1,20 @@
+id: dvorak-moravian-duets
+work:
+  composer: Dvořák, Antonín
+  title: Moravian Duets
+  ids:
+    imslp: Moravské dvojzpěvy, B.60, 62 (Dvořák, Antonín)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - alto
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Moravsk%C3%A9_dvojzp%C4%9Bvy%2C_B.60%2C_62_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, piano'
+duration_minutes: 34

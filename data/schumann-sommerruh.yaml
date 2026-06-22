@@ -1,0 +1,17 @@
+id: schumann-sommerruh
+work:
+  composer: Schumann, Robert
+  title: Sommerruh
+  ids:
+    imslp: Sommerruh, H/K WoO 9 (Schumann, Robert)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sommerruh%2C_H/K_WoO_9_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, piano'

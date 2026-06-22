@@ -1,0 +1,38 @@
+id: mendelssohn-die-erste-walpurgisnacht
+work:
+  composer: Mendelssohn, Felix
+  title: Die erste Walpurgisnacht
+  ids:
+    imslp: Die erste Walpurgisnacht, Op.60 (Mendelssohn, Felix)
+  year: 1830
+formula: 3[pic.2.3] 2 2 2 2230 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+  strings: str
+  soloists:
+  - alto
+  - tenor
+  - baritone
+  - bass :Mixed Chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_erste_Walpurgisnacht%2C_Op.60_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Voices ::alto, tenor, baritone,
+    bass :Mixed Chorus (SATB), Orchestra ::piccolo, 2 flutes, 2 oboes, 2 clarinets
+    (A/C/B), 2 bassoons, 2 horns (C/F/E/D), 2 trumpets (D/E/C), 3 trombones, timpani,
+    bass drum, strings'
+duration_minutes: 35

@@ -1,0 +1,16 @@
+id: grieg-olav-trygvason
+work:
+  composer: Grieg, Edvard
+  title: Olav Trygvason
+  ids:
+    imslp: Olav Trygvason, Op.50 (Grieg, Edvard)
+  year: 1873
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: voices | orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Olav_Trygvason%2C_Op.50_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

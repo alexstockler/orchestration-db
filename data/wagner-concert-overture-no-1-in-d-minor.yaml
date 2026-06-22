@@ -1,0 +1,24 @@
+id: wagner-concert-overture-no-1-in-d-minor
+work:
+  composer: Wagner, Richard
+  title: Concert Overture No.1 in D minor
+  ids:
+    imslp: Concert Overture No.1 in D minor, WWV 20 (Wagner, Richard)
+  year: 1831
+formula: 2222 4200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concert_Overture_No.1_in_D_minor%2C_WWV_20_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2
+    trumpets, timpani, strings'

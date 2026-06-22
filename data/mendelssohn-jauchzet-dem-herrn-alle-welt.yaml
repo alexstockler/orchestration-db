@@ -1,0 +1,16 @@
+id: mendelssohn-jauchzet-dem-herrn-alle-welt
+work:
+  composer: Mendelssohn, Felix
+  title: Jauchzet dem Herrn, alle Welt
+  ids:
+    imslp: Jauchzet dem Herrn, alle Welt, WoO 28 (Mendelssohn, Felix)
+  year: 1843
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jauchzet_dem_Herrn%2C_alle_Welt%2C_WoO_28_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed chorus (SSAATTBB)'
+duration_minutes: 4

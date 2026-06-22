@@ -1,0 +1,15 @@
+id: sibelius-till-th-r-se-hahl
+work:
+  composer: Sibelius, Jean
+  title: Till Thérèse Hahl
+  ids:
+    imslp: Till Thérèse Hahl (Sibelius, Jean)
+  year: 1902
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Till_Th%C3%A9r%C3%A8se_Hahl_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Chorus'

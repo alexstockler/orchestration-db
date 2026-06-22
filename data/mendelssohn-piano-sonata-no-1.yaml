@@ -1,0 +1,17 @@
+id: mendelssohn-piano-sonata-no-1
+work:
+  composer: Mendelssohn, Felix
+  title: Piano Sonata No.1
+  ids:
+    imslp: Piano Sonata No.1, Op.6 (Mendelssohn, Felix)
+  year: 1826
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.1%2C_Op.6_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 26

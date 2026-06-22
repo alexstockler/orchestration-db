@@ -1,0 +1,45 @@
+id: saint-saens-la-lyre-et-la-harpe
+work:
+  composer: Saint-Saëns, Camille
+  title: La lyre et la harpe
+  ids:
+    imslp: La lyre et la harpe, Op.57 (Saint-Saëns, Camille)
+  year: 1879
+formula: 3[pic.2.3] 2 2 4[1.2.cbn.cbn] 4 4[1.2.cnt.cnt] 3 1 tmp org 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  - instrument: contrabassoon
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - triangle
+  keyboards:
+  - instrument: organ
+  harp: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_lyre_et_la_harpe%2C_Op.57_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo (also 3rd flute), 2 flutes, 2 oboes, 2 clarinets,
+    2 bassoons, 2 contrabassoons, 4 horns, 2 trumpets, 2 cornets, 3 trombones, tuba,
+    timpani, bass drum, cymbals, triangle, organ, 2 harps, strings'

@@ -1,0 +1,17 @@
+id: mendelssohn-2-songs-op-112
+work:
+  composer: Mendelssohn, Felix
+  title: 2 Songs, Op.112
+  ids:
+    imslp: 2 Geistliche Lieder, Op.112 (Mendelssohn, Felix)
+  year: 1835
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Geistliche_Lieder%2C_Op.112_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

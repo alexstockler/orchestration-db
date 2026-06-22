@@ -1,0 +1,16 @@
+id: saint-saens-benediction-nuptiale
+work:
+  composer: Saint-Saëns, Camille
+  title: Bénédiction Nuptiale
+  ids:
+    imslp: Bénédiction nuptiale, Op.9 (Saint-Saëns, Camille)
+  year: 1859
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/B%C3%A9n%C3%A9diction_nuptiale%2C_Op.9_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Organ'

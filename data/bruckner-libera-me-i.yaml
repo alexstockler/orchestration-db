@@ -1,0 +1,17 @@
+id: bruckner-libera-me-i
+work:
+  composer: Bruckner, Anton
+  title: Libera me (I)
+  ids:
+    imslp: Libera me, WAB 21 (Bruckner, Anton)
+  year: 1843
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Libera_me%2C_WAB_21_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), organ'

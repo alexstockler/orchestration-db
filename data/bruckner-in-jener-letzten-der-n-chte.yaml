@@ -1,0 +1,18 @@
+id: bruckner-in-jener-letzten-der-n-chte
+work:
+  composer: Bruckner, Anton
+  title: In jener letzten der Nächte
+  ids:
+    imslp: In jener letzten der Nächte, WAB 17 (Bruckner, Anton)
+  year: 1848
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_jener_letzten_der_N%C3%A4chte%2C_WAB_17_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, organ'
+duration_minutes: 1

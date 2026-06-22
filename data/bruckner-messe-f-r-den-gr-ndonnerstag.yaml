@@ -1,0 +1,16 @@
+id: bruckner-messe-f-r-den-gr-ndonnerstag
+work:
+  composer: Bruckner, Anton
+  title: Messe für den Gründonnerstag
+  ids:
+    imslp: Kyrie und Gloria, WAB 227 (Bruckner, Anton)
+  year: 1844
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kyrie_und_Gloria%2C_WAB_227_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 10

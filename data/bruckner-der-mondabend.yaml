@@ -1,0 +1,17 @@
+id: bruckner-der-mondabend
+work:
+  composer: Bruckner, Anton
+  title: Der Mondabend
+  ids:
+    imslp: Der Mondabend, WAB 200 (Bruckner, Anton)
+  year: 1850
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Mondabend%2C_WAB_200_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

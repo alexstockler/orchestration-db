@@ -1,0 +1,15 @@
+id: grieg-string-quartet-no-2
+work:
+  composer: Grieg, Edvard
+  title: String Quartet No.2
+  ids:
+    imslp: String Quartet No.2, EG 117 (Grieg, Edvard)
+  year: 1891
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.2%2C_EG_117_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

@@ -1,0 +1,16 @@
+id: rimsky-korsakov-4-morceaux
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: 4 Morceaux
+  ids:
+    imslp: 4 Morceaux, Op.11 (Rimsky-Korsakov, Nikolay)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Morceaux%2C_Op.11_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

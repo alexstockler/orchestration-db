@@ -1,0 +1,17 @@
+id: grieg-tolv-melodier
+work:
+  composer: Grieg, Edvard
+  title: Tolv melodier
+  ids:
+    imslp: 12 Songs, Op.33 (Grieg, Edvard)
+  year: 1873
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Songs%2C_Op.33_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

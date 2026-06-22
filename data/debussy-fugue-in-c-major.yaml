@@ -1,0 +1,16 @@
+id: debussy-fugue-in-c-major
+work:
+  composer: Debussy, Claude
+  title: Fugue in C Major
+  ids:
+    imslp: Fugue in C major (Debussy, Claude)
+  year: 1882
+formula: ''
+instrumentation:
+  additional_raw: 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_C_major_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices'
+duration_minutes: 6

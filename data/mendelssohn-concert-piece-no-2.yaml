@@ -1,0 +1,20 @@
+id: mendelssohn-concert-piece-no-2
+work:
+  composer: Mendelssohn, Felix
+  title: Concert Piece No.2
+  ids:
+    imslp: Konzertstück No.2, Op.114 (Mendelssohn, Felix)
+  year: 1833
+formula: 0 0 2[1.bhn] 0 0000 pf
+instrumentation:
+  clarinet:
+  - {}
+  - instrument: basset_horn
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Konzertst%C3%BCck_No.2%2C_Op.114_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, basset horn, piano'
+duration_minutes: 9

@@ -1,0 +1,18 @@
+id: mendelssohn-te-deum
+work:
+  composer: Mendelssohn, Felix
+  title: Te Deum
+  ids:
+    imslp: Te Deum, WoO 29 (Mendelssohn, Felix)
+  year: 1832
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: satb choir
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Te_Deum%2C_WoO_29_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB choir, organ'
+duration_minutes: 9

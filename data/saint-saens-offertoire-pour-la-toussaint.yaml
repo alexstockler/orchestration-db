@@ -1,0 +1,17 @@
+id: saint-saens-offertoire-pour-la-toussaint
+work:
+  composer: Saint-Saëns, Camille
+  title: Offertoire pour la Toussaint
+  ids:
+    imslp: Offertoire pour la Toussaint (Saint-Saëns, Camille)
+  year: 1904
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Offertoire_pour_la_Toussaint_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SSTB), organ'

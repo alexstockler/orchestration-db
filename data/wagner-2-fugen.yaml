@@ -1,0 +1,15 @@
+id: wagner-2-fugen
+work:
+  composer: Wagner, Richard
+  title: 2 Fugen
+  ids:
+    imslp: 2 Fugen, WWV 19 (Wagner, Richard)
+  year: 1831
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Fugen%2C_WWV_19_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

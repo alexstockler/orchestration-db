@@ -1,0 +1,26 @@
+id: mendelssohn-antigone
+work:
+  composer: Mendelssohn, Felix
+  title: Antigone
+  ids:
+    imslp: Antigone, Op.55 (Mendelssohn, Felix)
+  year: 1841
+formula: 2222 2230 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Antigone%2C_Op.55_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2
+    trumpets, 3 trombones, timpani, strings'
+duration_minutes: 55

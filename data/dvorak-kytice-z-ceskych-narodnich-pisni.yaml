@@ -1,0 +1,16 @@
+id: dvorak-kytice-z-ceskych-narodnich-pisni
+work:
+  composer: Dvořák, Antonín
+  title: Kytice z ceských narodnich písní
+  ids:
+    imslp: Kytice z českých národních písní, B.72 (Dvořák, Antonín)
+  year: 1877
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kytice_z_%C4%8Desk%C3%BDch_n%C3%A1rodn%C3%ADch_p%C3%ADsn%C3%AD%2C_B.72_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'
+duration_minutes: 9

@@ -1,0 +1,16 @@
+id: saint-saens-souvenirs-de-fredegonde
+work:
+  composer: Saint-Saëns, Camille
+  title: Souvenirs de Frédégonde
+  ids:
+    imslp: Souvenirs de Frédégonde (Saint-Saëns, Camille)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Souvenirs_de_Fr%C3%A9d%C3%A9gonde_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'

@@ -1,0 +1,17 @@
+id: mendelssohn-scherzo-a-capriccio-compos-pour-l-album-des-pianistes
+work:
+  composer: Mendelssohn, Felix
+  title: Scherzo a Capriccio, composé pour L’Album des Pianistes.
+  ids:
+    imslp: Scherzo à capriccio, WoO 3 (Mendelssohn, Felix)
+  year: 1835
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scherzo_%C3%A0_capriccio%2C_WoO_3_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 6

@@ -1,0 +1,48 @@
+id: mendelssohn-overture-f-r-harmoniemusik
+work:
+  composer: Mendelssohn, Felix
+  title: Overture für Harmoniemusik
+  ids:
+    imslp: Overture in C major, Op.24 (Mendelssohn, Felix)
+  year: 1826
+formula: 3[1.pic.3] 4 8[1.2.Ebcl.Ebcl.5.6.bhn.bhn] 5[1.2.3.4.cbn] 6330
+instrumentation:
+  flute:
+  - {}
+  - instrument: piccolo
+  - {}
+  oboe: 4
+  clarinet:
+  - {}
+  - {}
+  - instrument: eflat_clarinet
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - instrument: basset_horn
+  - instrument: basset_horn
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 6
+  trumpet: 3
+  trombone: 3
+  percussion:
+    instruments:
+    - triangle
+    - military drum
+    - cymbals
+    - bass drum
+  additional_raw: english bass horn | english bass horn
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Overture_in_C_major%2C_Op.24_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, trumpet,
+    english bass horn, piccolo, flute, 2 oboes, 2 piccolo clarinets, 2 clarinets,,
+    2 basset horns, 2 bassoons, contrabassoon,, 4 horns, 2 trumpets, 3 trombones,
+    english bass horn,, triangle, military drum, cymbals, bass drum'
+duration_minutes: 10

@@ -1,0 +1,15 @@
+id: sibelius-two-marches
+work:
+  composer: Sibelius, Jean
+  title: Two Marches
+  ids:
+    imslp: 2 Marches, Op.91 (Sibelius, Jean)
+  year: 1917
+formula: ''
+instrumentation:
+  additional_raw: Male Chorus and Piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Marches%2C_Op.91_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Male Chorus and Piano'

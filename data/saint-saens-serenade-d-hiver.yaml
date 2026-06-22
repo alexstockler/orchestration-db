@@ -1,0 +1,15 @@
+id: saint-saens-serenade-d-hiver
+work:
+  composer: Saint-Saëns, Camille
+  title: Sérénade d'hiver
+  ids:
+    imslp: Sérénade d'hiver (Saint-Saëns, Camille)
+  year: 1867
+formula: ''
+instrumentation:
+  chorus_raw: ttbb
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/S%C3%A9r%C3%A9nade_d%27hiver_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: TTBB'

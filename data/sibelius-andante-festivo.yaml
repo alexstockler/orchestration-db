@@ -1,0 +1,17 @@
+id: sibelius-andante-festivo
+work:
+  composer: Sibelius, Jean
+  title: Andante festivo
+  ids:
+    imslp: Andante festivo (Sibelius, Jean)
+  year: 1922
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_festivo_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello; strings'
+duration_minutes: 5

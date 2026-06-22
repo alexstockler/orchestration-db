@@ -1,0 +1,17 @@
+id: mendelssohn-andante-cantabile-e-presto-agitato
+work:
+  composer: Mendelssohn, Felix
+  title: Andante cantabile e Presto agitato
+  ids:
+    imslp: Andante cantabile e Presto agitato, WoO 6 (Mendelssohn, Felix)
+  year: 1838
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_cantabile_e_Presto_agitato%2C_WoO_6_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 8

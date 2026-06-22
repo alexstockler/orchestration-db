@@ -1,0 +1,17 @@
+id: debussy-les-soirs-illumin-s-par-l-ardeur-du-charbon
+work:
+  composer: Debussy, Claude
+  title: Les soirs illuminés par l'ardeur du charbon
+  ids:
+    imslp: Les soirs illuminés par l'ardeur du charbon, CD 150 (Debussy, Claude)
+  year: 1917
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_soirs_illumin%C3%A9s_par_l%27ardeur_du_charbon%2C_CD_150_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 3

@@ -1,0 +1,29 @@
+id: wagner-eine-faust-ouvert-re
+work:
+  composer: Wagner, Richard
+  title: Eine Faust-Ouvertüre
+  ids:
+    imslp: Eine Faust-Ouvertüre, WWV 59 (Wagner, Richard)
+  year: 1839
+formula: 3[pic.2.3] 2 2 3 4231 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 3
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Eine_Faust-Ouvert%C3%BCre%2C_WWV_59_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 2 clarinets, 3 bassoons, 4
+    horns, 2 trumpets, 3 trombones, tuba, timpani, strings'

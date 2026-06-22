@@ -1,0 +1,17 @@
+id: mendelssohn-rondo-capriccioso
+work:
+  composer: Mendelssohn, Felix
+  title: Rondo capriccioso
+  ids:
+    imslp: Rondo capriccioso, Op.14 (Mendelssohn, Felix)
+  year: 1828
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rondo_capriccioso%2C_Op.14_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 7

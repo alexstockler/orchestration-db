@@ -1,0 +1,16 @@
+id: dvorak-string-quintet-no-1
+work:
+  composer: Dvořák, Antonín
+  title: String Quintet No.1
+  ids:
+    imslp: String Quintet No.1, Op.1 (Dvořák, Antonín)
+  year: 1861
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | 2 violas | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quintet_No.1%2C_Op.1_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, 2 violas, cello'
+duration_minutes: 26

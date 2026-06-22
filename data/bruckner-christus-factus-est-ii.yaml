@@ -1,0 +1,19 @@
+id: bruckner-christus-factus-est-ii
+work:
+  composer: Bruckner, Anton
+  title: Christus factus est (II)
+  ids:
+    imslp: Christus factus est, WAB 10 (Bruckner, Anton)
+  year: 1873
+formula: 0000 0030
+instrumentation:
+  trombone: 3
+  chorus_raw: mixed chorus
+  additional_raw: '2 violins (or string quintet: 2 violins, viola, cello, bass) [ad
+    lib]'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Christus_factus_est%2C_WAB_10_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: mixed chorus (SSAATTBB), 3 trombones, 2 violins
+    (or string quintet: 2 violins, viola, cello, bass) [ad lib]'

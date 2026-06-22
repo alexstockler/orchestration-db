@@ -1,0 +1,25 @@
+id: mendelssohn-infelice
+work:
+  composer: Mendelssohn, Felix
+  title: Infelice
+  ids:
+    imslp: Infelice, Op.94 (Mendelssohn, Felix)
+  year: 1843
+formula: 2222 2200 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  strings: str
+  soloists:
+  - soprano
+  additional_raw: Orchestra —
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Infelice%2C_Op.94_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice: Soprano, Orchestra — :2 flutes, 2 oboes, 2 clarinets,
+    2 bassoons, 2 horns, 2 trumpets, strings'

@@ -1,0 +1,16 @@
+id: sibelius-kyllikki
+work:
+  composer: Sibelius, Jean
+  title: Kyllikki
+  ids:
+    imslp: Kyllikki, Op.41 (Sibelius, Jean)
+  year: 1904
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kyllikki%2C_Op.41_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,20 @@
+id: dvorak-moravske-dvojzpevy
+work:
+  composer: Dvořák, Antonín
+  title: Moravské dvojzpěvy
+  ids:
+    imslp: Moravské dvojzpěvy, B.50 (Dvořák, Antonín)
+  year: 1875
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - tenor
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Moravsk%C3%A9_dvojzp%C4%9Bvy%2C_B.50_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, piano'
+duration_minutes: 13

@@ -1,0 +1,16 @@
+id: bruckner-postlude-in-d-minor
+work:
+  composer: Bruckner, Anton
+  title: Postlude in D minor
+  ids:
+    imslp: Postlude in D minor, WAB 126/1 (Bruckner, Anton)
+  year: 1852
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Postlude_in_D_minor%2C_WAB_126/1_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

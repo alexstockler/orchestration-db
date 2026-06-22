@@ -1,0 +1,15 @@
+id: sibelius-vier-st-cke-f-r-violine-und-klavier
+work:
+  composer: Sibelius, Jean
+  title: Vier Stücke für Violine und Klavier
+  ids:
+    imslp: 4 Pieces for Violin and Piano, Op.115 (Sibelius, Jean)
+  year: 1929
+formula: ''
+instrumentation:
+  additional_raw: Violin and Piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Pieces_for_Violin_and_Piano%2C_Op.115_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin and Piano'

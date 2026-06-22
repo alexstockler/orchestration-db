@@ -1,0 +1,18 @@
+id: saint-saens-s-il-est-un-charmant-gazon
+work:
+  composer: Saint-Saëns, Camille
+  title: S'il est un charmant gazon
+  ids:
+    imslp: S'il est un charmant gazon (Saint-Saëns, Camille)
+  year: 1860
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/S%27il_est_un_charmant_gazon_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

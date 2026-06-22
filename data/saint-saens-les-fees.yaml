@@ -1,0 +1,16 @@
+id: saint-saens-les-fees
+work:
+  composer: Saint-Saëns, Camille
+  title: Les fées
+  ids:
+    imslp: Les fées (Saint-Saëns, Camille)
+  year: 1892
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_f%C3%A9es_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, orchestra'

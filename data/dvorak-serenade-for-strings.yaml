@@ -1,0 +1,16 @@
+id: dvorak-serenade-for-strings
+work:
+  composer: Dvořák, Antonín
+  title: Serenade for Strings
+  ids:
+    imslp: Serenade for Strings, Op.22 (Dvořák, Antonín)
+  year: 1875
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Serenade_for_Strings%2C_Op.22_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'
+duration_minutes: 28

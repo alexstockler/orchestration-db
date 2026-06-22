@@ -1,0 +1,17 @@
+id: saint-saens-le-chant-de-ceux-qui-s-en-vont-sur-la-mer
+work:
+  composer: Saint-Saëns, Camille
+  title: Le chant de ceux qui s'en vont sur la mer
+  ids:
+    imslp: Le chant de ceux qui s'en vont sur la mer (Saint-Saëns, Camille)
+  year: 1868
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_chant_de_ceux_qui_s%27en_vont_sur_la_mer_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'
+duration_minutes: 3

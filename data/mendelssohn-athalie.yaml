@@ -1,0 +1,31 @@
+id: mendelssohn-athalie
+work:
+  composer: Mendelssohn, Felix
+  title: Athalie
+  ids:
+    imslp: Athalie, Op.74 (Mendelssohn, Felix)
+  year: 1845
+formula: 2222 2530 tmp hp ophicleide str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 5
+  trombone: 3
+  percussion:
+    timpani: 1
+  harp: 1
+  extras:
+  - instrument: ophicleide
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Athalie%2C_Op.74_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: Spoken Roles (Joad, Josabeth, Sulamith), Vocal soli (3
+    sopranos, 2 altos), Double Mixed Chorus (SATB, SATB), Orchestra :2 flutes, 2 oboes,
+    2 clarinets, 2 bassoons, 2 horns, 5 trumpets (3 on stage), 3 trombones, ophicleide,
+    timpani, harp, strings'
+duration_minutes: 60

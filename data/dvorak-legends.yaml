@@ -1,0 +1,32 @@
+id: dvorak-legends
+work:
+  composer: Dvořák, Antonín
+  title: Legends
+  ids:
+    imslp: Legends, Op.59 (Dvořák, Antonín)
+  year: 1881
+formula: 2222 4200 tmp pf pf hp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  harp: 1
+  strings: str
+  additional_raw: B.117 | B.122
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Legends%2C_Op.59_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: B.117: piano 4 hands, B.122: 2 flutes, 2 oboes, 2 clarinets,
+    2 bassoons, 4 horns, 2 trumpets, timpani, triangle, harp, strings'
+duration_minutes: 41

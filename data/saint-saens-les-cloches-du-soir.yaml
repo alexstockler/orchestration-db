@@ -1,0 +1,16 @@
+id: saint-saens-les-cloches-du-soir
+work:
+  composer: Saint-Saëns, Camille
+  title: Les cloches du soir
+  ids:
+    imslp: Les cloches du soir, Op.85 (Saint-Saëns, Camille)
+  year: 1889
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_cloches_du_soir%2C_Op.85_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

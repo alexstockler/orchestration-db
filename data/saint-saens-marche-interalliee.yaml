@@ -1,0 +1,16 @@
+id: saint-saens-marche-interalliee
+work:
+  composer: Saint-Saëns, Camille
+  title: Marche interalliée
+  ids:
+    imslp: Marche interalliée, Op.155 (Saint-Saëns, Camille)
+  year: 1918
+formula: ''
+instrumentation:
+  additional_raw: military band
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marche_interalli%C3%A9e%2C_Op.155_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: military band'
+duration_minutes: 5

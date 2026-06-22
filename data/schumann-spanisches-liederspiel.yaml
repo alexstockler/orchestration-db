@@ -1,0 +1,16 @@
+id: schumann-spanisches-liederspiel
+work:
+  composer: Schumann, Robert
+  title: Spanisches Liederspiel
+  ids:
+    imslp: Spanisches Liederspiel, Op.74 (Schumann, Robert)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 1-4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Spanisches_Liederspiel%2C_Op.74_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: 1-4 voices, piano'

@@ -1,0 +1,17 @@
+id: grieg-you-often-stare
+work:
+  composer: Grieg, Edvard
+  title: You Often Stare
+  ids:
+    imslp: Du retter tidt dit øjepar, EG 148 (Grieg, Edvard)
+  year: 1889
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Du_retter_tidt_dit_%C3%B8jepar%2C_EG_148_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

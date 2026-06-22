@@ -1,0 +1,17 @@
+id: saint-saens-aux-conquerants-de-l-air
+work:
+  composer: Saint-Saëns, Camille
+  title: Aux conquérants de l'air
+  ids:
+    imslp: Aux conquérants de l'air, Op.164 (Saint-Saëns, Camille)
+  year: 1921
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 2 equal voices (chorus)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aux_conqu%C3%A9rants_de_l%27air%2C_Op.164_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 equal voices (chorus), piano'

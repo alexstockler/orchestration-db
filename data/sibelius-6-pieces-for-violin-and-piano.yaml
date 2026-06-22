@@ -1,0 +1,17 @@
+id: sibelius-6-pieces-for-violin-and-piano
+work:
+  composer: Sibelius, Jean
+  title: 6 Pieces for Violin and Piano
+  ids:
+    imslp: 6 Pieces for Violin and Piano, Op.79 (Sibelius, Jean)
+  year: 1915
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Pieces_for_Violin_and_Piano%2C_Op.79_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

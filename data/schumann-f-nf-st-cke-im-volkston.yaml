@@ -1,0 +1,17 @@
+id: schumann-f-nf-st-cke-im-volkston
+work:
+  composer: Schumann, Robert
+  title: Fünf Stücke im Volkston
+  ids:
+    imslp: 5 Stücke im Volkston, Op.102 (Schumann, Robert)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: cello (or violin)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_St%C3%BCcke_im_Volkston%2C_Op.102_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: cello (or violin), piano'

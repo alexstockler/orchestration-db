@@ -1,0 +1,17 @@
+id: dvorak-capriccio
+work:
+  composer: Dvořák, Antonín
+  title: Capriccio
+  ids:
+    imslp: Capriccio, B.81 (Dvořák, Antonín)
+  year: 1878
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Capriccio%2C_B.81_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

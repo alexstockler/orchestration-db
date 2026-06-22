@@ -1,0 +1,40 @@
+id: saint-saens-phaeton
+work:
+  composer: Saint-Saëns, Camille
+  title: Phaeton
+  ids:
+    imslp: Phaéton, Op.39 (Saint-Saëns, Camille)
+  year: 1873
+formula: 3[pic.2.3] 2 2 3[1.2.cbn] 4231 tmp 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 4
+    instruments:
+    - cymbals
+    - bass drum
+    - tam-tam
+  harp: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pha%C3%A9ton%2C_Op.39_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes (both also piccolos), 2 oboes, 2 clarinets,
+    2 bassoons, contrabassoon (ad lib.), 4 horns (2 natural, 2 chromatic), 2 trumpets,
+    3 trombones, tuba, 4 timpani (3 players), cymbals, bass drum, tam-tam, 2 harps,
+    strings'
+duration_minutes: 10

@@ -1,0 +1,20 @@
+id: saint-saens-caprice-sur-des-airs-danois-et-russes
+work:
+  composer: Saint-Saëns, Camille
+  title: Caprice sur des airs danois et russes
+  ids:
+    imslp: Caprice sur des airs danois et russes, Op.79 (Saint-Saëns, Camille)
+  year: 1887
+formula: 1110 0000 pf
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Caprice_sur_des_airs_danois_et_russes%2C_Op.79_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Flute, oboe, clarinet, piano'
+duration_minutes: 11

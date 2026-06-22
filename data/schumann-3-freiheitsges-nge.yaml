@@ -1,0 +1,29 @@
+id: schumann-3-freiheitsges-nge
+work:
+  composer: Schumann, Robert
+  title: 3 Freiheitsgesänge
+  ids:
+    imslp: 3 Freiheitsgesänge, WoO 13-15 (Schumann, Robert)
+  year: 1848
+formula: 2[pic.2] 2 4 2 4430 tmp serpent
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 2
+  clarinet: 4
+  bassoon: 2
+  horn: 4
+  trumpet: 4
+  trombone: 3
+  percussion:
+    timpani: 1
+  extras:
+  - instrument: serpent
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Freiheitsges%C3%A4nge%2C_WoO_13-15_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, flute, 2 oboes, 4 clarinets, 2 bassoons, 4 horns,
+    4 trumpets, 3 trombones, serpent, timpani'
+duration_minutes: 6

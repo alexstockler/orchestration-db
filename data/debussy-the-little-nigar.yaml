@@ -1,0 +1,17 @@
+id: debussy-the-little-nigar
+work:
+  composer: Debussy, Claude
+  title: The Little Nigar
+  ids:
+    imslp: The Little Nigar, CD 122 (Debussy, Claude)
+  year: 1909
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Little_Nigar%2C_CD_122_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 2

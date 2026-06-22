@@ -1,0 +1,28 @@
+id: dvorak-polka-for-prague-students
+work:
+  composer: Dvořák, Antonín
+  title: Polka for Prague Students
+  ids:
+    imslp: Polka for Prague Students, B.114 (Dvořák, Antonín)
+  year: 1880
+formula: 2[pic.2] 0 2 0 4210 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  clarinet: 2
+  horn: 4
+  trumpet: 2
+  trombone: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Polka_for_Prague_Students%2C_B.114_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, flute, 2 clarinets, 4 horns, 2 trumpets, trombone,
+    timpani, triangle, strings'
+duration_minutes: 3

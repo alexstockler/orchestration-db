@@ -1,0 +1,15 @@
+id: saint-saens-fantaisie-for-harp
+work:
+  composer: Saint-Saëns, Camille
+  title: Fantaisie for Harp
+  ids:
+    imslp: Fantaisie for Harp, Op.95 (Saint-Saëns, Camille)
+  year: 1893
+formula: hp
+instrumentation:
+  harp: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantaisie_for_Harp%2C_Op.95_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: harp'

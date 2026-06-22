@@ -1,0 +1,14 @@
+id: grieg-wind-from-west
+work:
+  composer: Grieg, Edvard
+  title: Wind from West
+  ids:
+    imslp: Wind from the West, EG 174 (Grieg, Edvard)
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Wind_from_the_West%2C_EG_174_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus'

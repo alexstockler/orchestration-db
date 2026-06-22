@@ -1,0 +1,18 @@
+id: saint-saens-piano-trio-in-f-major
+work:
+  composer: Saint-Saëns, Camille
+  title: Piano Trio in F major
+  ids:
+    imslp: Piano Trio No.1, Op.18 (Saint-Saëns, Camille)
+  year: 1864
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio_No.1%2C_Op.18_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'
+duration_minutes: 28

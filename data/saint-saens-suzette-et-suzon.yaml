@@ -1,0 +1,18 @@
+id: saint-saens-suzette-et-suzon
+work:
+  composer: Saint-Saëns, Camille
+  title: Suzette et Suzon
+  ids:
+    imslp: Suzette et Suzon (Saint-Saëns, Camille)
+  year: 1888
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suzette_et_Suzon_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

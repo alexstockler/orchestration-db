@@ -1,0 +1,16 @@
+id: mendelssohn-organ-sonata-no-4-mwv-w-59
+work:
+  composer: Mendelssohn, Felix
+  title: Organ Sonata No.4, MWV W 59
+  ids:
+    imslp: Organ Sonata No.4, MWV W 59 (Mendelssohn, Felix)
+  year: 1845
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Organ_Sonata_No.4%2C_MWV_W_59_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

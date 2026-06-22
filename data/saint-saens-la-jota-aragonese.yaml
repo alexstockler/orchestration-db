@@ -1,0 +1,39 @@
+id: saint-saens-la-jota-aragonese
+work:
+  composer: Saint-Saëns, Camille
+  title: La Jota aragonese
+  ids:
+    imslp: Jota aragonese, Op.64 (Saint-Saëns, Camille)
+  year: 1880
+formula: 3[pic.2.3] 2 2 2 4 4[1.2.cnt.cnt] 3 0 tmp hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - castanets
+    - tambourine
+    - cymbals
+    - bass drum
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jota_aragonese%2C_Op.64_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4
+    horns, 2 trumpets, 2 cornets, 3 trombones, timpani, castanets, tambourine, cymbals,
+    bass drum, harp, strings'

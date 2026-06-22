@@ -1,0 +1,21 @@
+id: saint-saens-pie-jesu
+work:
+  composer: Saint-Saëns, Camille
+  title: Pie Jesu
+  ids:
+    imslp: Pie Jesu (Saint-Saëns, Camille)
+  year: 1885
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  soloists:
+  - bass
+  - tenor
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pie_Jesu_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, piano; tenor, mixed chorus (SATB, ad lib.), piano'

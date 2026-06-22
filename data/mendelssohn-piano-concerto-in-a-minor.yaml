@@ -1,0 +1,18 @@
+id: mendelssohn-piano-concerto-in-a-minor
+work:
+  composer: Mendelssohn, Felix
+  title: Piano Concerto in A minor
+  ids:
+    imslp: Piano Concerto in A minor, MWV O 2 (Mendelssohn, Felix)
+  year: 1821
+formula: pf str
+instrumentation:
+  keyboards:
+  - instrument: piano
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Concerto_in_A_minor%2C_MWV_O_2_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: piano, strings'
+duration_minutes: 34

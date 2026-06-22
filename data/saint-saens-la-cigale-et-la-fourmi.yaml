@@ -1,0 +1,18 @@
+id: saint-saens-la-cigale-et-la-fourmi
+work:
+  composer: Saint-Saëns, Camille
+  title: La cigale et la fourmi
+  ids:
+    imslp: La cigale et la fourmi (Saint-Saëns, Camille)
+  year: 1958
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_cigale_et_la_fourmi_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'

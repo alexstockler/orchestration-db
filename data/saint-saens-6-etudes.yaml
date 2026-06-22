@@ -1,0 +1,16 @@
+id: saint-saens-6-etudes
+work:
+  composer: Saint-Saëns, Camille
+  title: 6 Etudes
+  ids:
+    imslp: 6 Études, Op.111 (Saint-Saëns, Camille)
+  year: 1892
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_%C3%89tudes%2C_Op.111_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

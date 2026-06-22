@@ -1,0 +1,15 @@
+id: debussy-berceuse-pour-la-trag-die-de-la-mort
+work:
+  composer: Debussy, Claude
+  title: Berceuse pour 'La Tragédie de la Mort'
+  ids:
+    imslp: Berceuse pour 'La tragédie de la mort', CD 100 (Debussy, Claude)
+  year: 1899
+formula: ''
+instrumentation:
+  additional_raw: voice (unaccompanied)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Berceuse_pour_%27La_trag%C3%A9die_de_la_mort%27%2C_CD_100_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (unaccompanied)'

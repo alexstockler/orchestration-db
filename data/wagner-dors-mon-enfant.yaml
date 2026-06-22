@@ -1,0 +1,16 @@
+id: wagner-dors-mon-enfant
+work:
+  composer: Wagner, Richard
+  title: Dors, mon enfant
+  ids:
+    imslp: Dors, mon enfant, WWV 53 (Wagner, Richard)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dors%2C_mon_enfant%2C_WWV_53_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

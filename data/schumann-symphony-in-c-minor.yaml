@@ -1,0 +1,15 @@
+id: schumann-symphony-in-c-minor
+work:
+  composer: Schumann, Robert
+  title: Symphony in C minor
+  ids:
+    imslp: Symphony in C minor, RSW:Anh:A6 (Schumann, Robert)
+  year: 1840
+formula: ''
+instrumentation:
+  additional_raw: orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_in_C_minor%2C_RSW%3AAnh%3AA6_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

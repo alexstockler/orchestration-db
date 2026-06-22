@@ -1,0 +1,16 @@
+id: mendelssohn-string-quartet-no-5
+work:
+  composer: Mendelssohn, Felix
+  title: String Quartet No.5
+  ids:
+    imslp: String Quartet No.5, Op.44 No.3 (Mendelssohn, Felix)
+  year: 1838
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.5%2C_Op.44_No.3_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 35

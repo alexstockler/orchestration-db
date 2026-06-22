@@ -1,0 +1,17 @@
+id: saint-saens-le-timbre-d-argent
+work:
+  composer: Saint-Saëns, Camille
+  title: Le timbre d'argent
+  ids:
+    imslp: Le timbre d'argent (Saint-Saëns, Camille)
+  year: 1864
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  additional_raw: chorus and orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_timbre_d%27argent_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus and orchestra'

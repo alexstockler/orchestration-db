@@ -1,0 +1,64 @@
+id: wagner-die-feen
+work:
+  composer: Wagner, Richard
+  title: Die Feen
+  ids:
+    imslp: Die Feen, WWV 32 (Wagner, Richard)
+  year: 1833
+formula: 2[1.2/pic] 2 2 2 4230 tmp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - triangle
+    - cymbals
+    - snare drum
+  strings: str
+  soloists:
+  - 'The Fairy King: bass'
+  - Ada
+  - 'a fairy: soprano'
+  - Zemina
+  - 'a fairy: soprano'
+  - Farzana
+  - 'a fairy: soprano'
+  - Arindal
+  - 'King of Tramond: tenor'
+  - Lora
+  - 'Arindal''s sister: soprano'
+  - Morald
+  - 'Arindal''s betrothed: baritone'
+  - Gunther
+  - 'a courtier from Tramond: tenor'
+  - Gernot
+  - 'Arindal''s friend: bass'
+  - Drolla
+  - 'Lora''s friend: soprano'
+  - Harald
+  - 'General of Groma the magician: bass'
+  - 'A messenger: tenor'
+  - 'Voice of Groma the Magician: bass'
+  additional_raw: tom-tom
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Feen%2C_WWV_32_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :The Fairy King: bass, Ada, a fairy: soprano, Zemina,
+    a fairy: soprano, Farzana, a fairy: soprano, Arindal, King of Tramond: tenor,
+    Lora, Arindal''s sister: soprano, Morald, Arindal''s betrothed: baritone, Gunther,
+    a courtier from Tramond: tenor, Gernot, Arindal''s friend: bass, Drolla, Lora''s
+    friend: soprano, Harald, General of Groma the magician: bass, A messenger: tenor,
+    Voice of Groma the Magician: bass Orchestra :2 flutes (2nd also piccolo), 2 oboes,
+    2 clarinets, 2 bassoons :4 horns, 2 trumpets, 3 trombones :timpani, bass drum,
+    triangle, cymbals, snare drum, tom-tom, strings'

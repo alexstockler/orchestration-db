@@ -1,0 +1,16 @@
+id: sibelius-3-sonatinas-op-67
+work:
+  composer: Sibelius, Jean
+  title: 3 Sonatinas, Op.67
+  ids:
+    imslp: 3 Sonatinas, Op.67 (Sibelius, Jean)
+  year: 1912
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Sonatinas%2C_Op.67_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

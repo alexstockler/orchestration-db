@@ -1,0 +1,18 @@
+id: dvorak-piano-quartet-no-2
+work:
+  composer: Dvořák, Antonín
+  title: Piano Quartet No.2
+  ids:
+    imslp: Piano Quartet No.2, Op.87 (Dvořák, Antonín)
+  year: 1889
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quartet_No.2%2C_Op.87_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola, cello, piano'
+duration_minutes: 35

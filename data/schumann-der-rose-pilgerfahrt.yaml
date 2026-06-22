@@ -1,0 +1,25 @@
+id: schumann-der-rose-pilgerfahrt
+work:
+  composer: Schumann, Robert
+  title: Der Rose Pilgerfahrt
+  ids:
+    imslp: Der Rose Pilgerfahrt, Op.112 (Schumann, Robert)
+  year: 1851
+formula: 1111 0030 tmp str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: natural and valved horns | valved trumpets
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Rose_Pilgerfahrt%2C_Op.112_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: Flutes, oboes, clarinets, bassoons, natural and valved
+    horns, valved trumpets, 3 trombones, timpani, strings'
+duration_minutes: 62

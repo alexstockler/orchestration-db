@@ -1,0 +1,17 @@
+id: saint-saens-le-bonheur-est-chose-legere
+work:
+  composer: Saint-Saëns, Camille
+  title: Le bonheur est chose légère
+  ids:
+    imslp: Le bonheur est chose légère (Saint-Saëns, Camille)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_bonheur_est_chose_l%C3%A9g%C3%A8re_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'

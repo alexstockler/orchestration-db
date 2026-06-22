@@ -1,0 +1,17 @@
+id: schumann-5-lieder-und-ges-nge-op-127
+work:
+  composer: Schumann, Robert
+  title: 5 Lieder und Gesänge, Op.127
+  ids:
+    imslp: 5 Lieder und Gesänge, Op.127 (Schumann, Robert)
+  year: 1850
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Lieder_und_Ges%C3%A4nge%2C_Op.127_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

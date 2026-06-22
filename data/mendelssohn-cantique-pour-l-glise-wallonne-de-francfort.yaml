@@ -1,0 +1,14 @@
+id: mendelssohn-cantique-pour-l-glise-wallonne-de-francfort
+work:
+  composer: Mendelssohn, Felix
+  title: Cantique pour l’église Wallonne de Francfort
+  ids:
+    imslp: Cantique pour l’église Wallonne de Francfort, MWV B 56 (Mendelssohn, Felix)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cantique_pour_l%E2%80%99%C3%A9glise_Wallonne_de_Francfort%2C_MWV_B_56_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus'

@@ -1,0 +1,23 @@
+id: saint-saens-les-barbares
+work:
+  composer: Saint-Saëns, Camille
+  title: Les barbares
+  ids:
+    imslp: Les barbares (Saint-Saëns, Camille)
+formula: 0000 0240 tmp+1
+instrumentation:
+  trumpet: 2
+  trombone: 4
+  percussion:
+    timpani: 1
+    players: 1
+  additional_raw: 2 Soprano Saxhorns | 2 Alto Saxhorns
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_barbares_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 Flutes (3rd also Piccolo), 2 Oboes, English Horn, 2 Clarinets,
+    Bass Clarinet, 2 Bassoons, Contrabassoon, 4 Horns, 4 Trumpets, 3 Trombones, Tuba,
+    Timpani, Percussion (Bass Drum, Cymbals, Triangle, Cliquettes (Board Clappers)),
+    Harp, Strings, , Offstage Orchestra: 2 Trumpets, 4 Trombones, 2 Soprano Saxhorns,
+    2 Alto Saxhorns, Timpani, Percussion (Bass Drum, Cymbals)'

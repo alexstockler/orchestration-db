@@ -1,0 +1,15 @@
+id: schumann-ritornelle-in-canonischen-weisen
+work:
+  composer: Schumann, Robert
+  title: Ritornelle in canonischen Weisen
+  ids:
+    imslp: Ritornelle in canonischen Weisen, Op.65 (Schumann, Robert)
+  year: 1847
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ritornelle_in_canonischen_Weisen%2C_Op.65_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: Male chorus (various combinations)'

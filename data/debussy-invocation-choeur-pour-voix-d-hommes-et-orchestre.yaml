@@ -1,0 +1,27 @@
+id: debussy-invocation-choeur-pour-voix-d-hommes-et-orchestre
+work:
+  composer: Debussy, Claude
+  title: 'Invocation: Choeur pour voix d''hommes et orchestre'
+  ids:
+    imslp: Invocation, CD 51 (Debussy, Claude)
+  year: 1883
+formula: 3[pic.2.3] 2 2 2 4230 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  harp: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Invocation%2C_CD_51_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2
+    horns, 2 horns, 2 trumpets, 3 trombones, 2 harps, strings'

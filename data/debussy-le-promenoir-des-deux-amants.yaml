@@ -1,0 +1,17 @@
+id: debussy-le-promenoir-des-deux-amants
+work:
+  composer: Debussy, Claude
+  title: Le Promenoir des deux Amants
+  ids:
+    imslp: Le promenoir des deux amants, CD 129 (Debussy, Claude)
+  year: 1904
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_promenoir_des_deux_amants%2C_CD_129_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

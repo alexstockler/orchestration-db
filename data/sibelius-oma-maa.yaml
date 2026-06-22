@@ -1,0 +1,16 @@
+id: sibelius-oma-maa
+work:
+  composer: Sibelius, Jean
+  title: Oma maa
+  ids:
+    imslp: Oma maa, Op.92 (Sibelius, Jean)
+  year: 1918
+formula: ''
+instrumentation:
+  additional_raw: Chorus and Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oma_maa%2C_Op.92_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Chorus and Orchestra'
+duration_minutes: 14

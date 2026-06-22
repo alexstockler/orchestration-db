@@ -1,0 +1,18 @@
+id: bruckner-ecce-sacerdos
+work:
+  composer: Bruckner, Anton
+  title: Ecce sacerdos
+  ids:
+    imslp: Ecce sacerdos magnus, WAB 13 (Bruckner, Anton)
+  year: 1885
+formula: 0000 0030 org
+instrumentation:
+  trombone: 3
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ecce_sacerdos_magnus%2C_WAB_13_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SSAATTBB), 3 trombones, organ'

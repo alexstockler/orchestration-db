@@ -1,0 +1,70 @@
+id: wagner-siegfried
+work:
+  composer: Wagner, Richard
+  title: Siegfried
+  ids:
+    imslp: Siegfried, WWV 86C (Wagner, Richard)
+  year: 1871
+formula: 4[pic.2.3/pic.4] 4[1.2.3.Eh] 4[1.2.3.bcl] 0 8 4[1.2.3.btpt] 4[1.2.3.cbtbn]
+  0 tmp 6hp
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - doublings:
+    - piccolo
+  - {}
+  oboe:
+  - {}
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  horn: 8
+  trumpet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_trumpet
+  trombone:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabass_trombone
+  percussion:
+    timpani: 2
+    instruments:
+    - triangle
+    - cymbals
+    - tam-tam
+    - glockenspiel
+  harp: 6
+  soloists:
+  - Siegfried (tenor)
+  - Mime (tenor)
+  - The Wanderer (bass)
+  - Alberich (bass)
+  - Fafner (bass)
+  - Erda (alto)
+  - Brünnhilde (soprano)
+  - Forest Bird (soprano)
+  additional_raw: 3 bassoons* | contrabass tuba | strings (16, 16, 12, 12, 8) *3rd
+    bassoon can alternate on contrabassoon if needed for required low A passages |
+    found in the regular 3rd bassoon part
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Siegfried%2C_WWV_86C_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Siegfried (tenor), Mime (tenor), The Wanderer (bass),
+    Alberich (bass), Fafner (bass), Erda (alto), Brünnhilde (soprano), Forest Bird
+    (soprano) Orchestra :piccolo (also flute), 3 flutes (3rd also piccolo), 3 oboes,
+    English horn (also oboe) ::3 clarinets, bass clarinet (also clarinet), 3 bassoons*
+    :8 horns (4 also Wagner Tubas, 2 in F; 2 in B), 3 trumpets, bass trumpet, ::3
+    trombones, contrabass trombone, contrabass tuba :2 timpani, triangle, cymbals,
+    tam-tam, glockenspiel, 6 harps, strings (16, 16, 12, 12, 8) *3rd bassoon can alternate
+    on contrabassoon if needed for required low A passages, found in the regular 3rd
+    bassoon part'

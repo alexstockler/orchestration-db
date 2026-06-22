@@ -1,0 +1,36 @@
+id: mendelssohn-musik-zu-ein-sommernachtstraum
+work:
+  composer: Mendelssohn, Felix
+  title: Musik zu Ein Sommernachtstraum
+  ids:
+    imslp: A Midsummer Night's Dream, incidental music, Op.61 (Mendelssohn, Felix)
+  year: 1842
+formula: 2222 2330 tmp ophicleide str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 3
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+  extras:
+  - instrument: ophicleide
+  strings: str
+  soloists:
+  - First Fairy (soprano)
+  - Second Fairy (soprano) Female Chorus :SSAA (No.3)
+  - SA (Finale)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_Midsummer_Night%27s_Dream%2C_incidental_music%2C_Op.61_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo Voices :First Fairy (soprano), Second Fairy (soprano)
+    Female Chorus :SSAA (No.3), SA (Finale) Orchestra :2 flutes, 2 oboes, 2 clarinets,
+    2 bassoons, 2 horns, 3 trumpets, 3 trombones, ophicleide, timpani, triangle, cymbals,
+    strings'

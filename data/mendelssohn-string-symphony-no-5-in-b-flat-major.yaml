@@ -1,0 +1,16 @@
+id: mendelssohn-string-symphony-no-5-in-b-flat-major
+work:
+  composer: Mendelssohn, Felix
+  title: String Symphony No.5 in B-flat major
+  ids:
+    imslp: String Symphony No.5 in B-flat major, MWV N 5 (Mendelssohn, Felix)
+  year: 1821
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Symphony_No.5_in_B-flat_major%2C_MWV_N_5_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'
+duration_minutes: 11

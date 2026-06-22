@@ -1,0 +1,17 @@
+id: debussy-mandoline
+work:
+  composer: Debussy, Claude
+  title: Mandoline
+  ids:
+    imslp: Mandoline, CD 43 (Debussy, Claude)
+  year: 1882
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mandoline%2C_CD_43_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

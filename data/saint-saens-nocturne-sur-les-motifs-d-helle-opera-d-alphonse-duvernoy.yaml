@@ -1,0 +1,17 @@
+id: saint-saens-nocturne-sur-les-motifs-d-helle-opera-d-alphonse-duvernoy
+work:
+  composer: Saint-Saëns, Camille
+  title: Nocturne sur les motifs d'Hellé, opéra d'Alphonse Duvernoy
+  ids:
+    imslp: Nocturne sur les motifs d'Hellé (Saint-Saëns, Camille)
+  year: 1897
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: or violin and piano (published concurrently)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nocturne_sur_les_motifs_d%27Hell%C3%A9_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: piano, or violin and piano (published concurrently)'

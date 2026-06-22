@@ -1,0 +1,22 @@
+id: mendelssohn-nicht-unserm-namen-herr
+work:
+  composer: Mendelssohn, Felix
+  title: Nicht unserm Namen, Herr
+  ids:
+    imslp: Nicht unserm Namen, Herr, Op.31 (Mendelssohn, Felix)
+  year: 1830
+formula: 2202 0000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  bassoon: 2
+  strings: str
+  additional_raw: STBar soli | SSAATTBB chorus | 2 clarinets in B | 2 horns in E |
+    C and B basso
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nicht_unserm_Namen%2C_Herr%2C_Op.31_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: STBar soli, SSAATTBB chorus, 2 flutes, 2 oboes, 2 clarinets
+    in B, 2 bassoons, 2 horns in E, C and B basso, strings'
+duration_minutes: 17

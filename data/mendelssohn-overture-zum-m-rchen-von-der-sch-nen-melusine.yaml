@@ -1,0 +1,25 @@
+id: mendelssohn-overture-zum-m-rchen-von-der-sch-nen-melusine
+work:
+  composer: Mendelssohn, Felix
+  title: Overture zum Märchen von der schönen Melusine
+  ids:
+    imslp: Märchen von der schönen Melusine, Op.32 (Mendelssohn, Felix)
+  year: 1833
+formula: 2222 2200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/M%C3%A4rchen_von_der_sch%C3%B6nen_Melusine%2C_Op.32_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2
+    trumpets, timpani, strings'
+duration_minutes: 11

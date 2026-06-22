@@ -1,0 +1,64 @@
+id: rimsky-korsakov-the-tsar-s-bride
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: The Tsar's Bride
+  ids:
+    imslp: The Tsar's Bride (Rimsky-Korsakov, Nikolay)
+  year: 1898
+formula: 3[1.2.3/pic] 2[1.2/Eh] 2 2 4231 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - snare drum
+    - tambourine
+    - bass drum
+    - tam-tam
+    - cymbals
+  harp: 1
+  strings: str
+  soloists:
+  - Vasily Sobakin (Василий Собакин) (bass)
+  - Marfa (Марфа) (soprano)
+  - Grigory Gryaznoy (Григорий Грязной) (baritone)
+  - Malyuta Skuratov (Малюта Скуратов) (bass)
+  - Boyar Ivan Lykov (Боярин Иван Лыков) (tenor)
+  - Lyubasha (Любаша) (mezzo-soprano)
+  - Yelisey Bomelius (Елисей Бомелий) (tenor)
+  - Domna Saburova (Домна Сабурова) (soprano)
+  - Dunyasha (Дуняша) (mezzo-soprano)
+  - Petrovna (Петровна) (mezzo-soprano)
+  - Tsar's Stoker (Царский истопник) (bass)
+  - Maiden (Сенная девушка) (mezzo-soprano)
+  - 'Young Lad (Молодой парень) (tenor) :Mixed Chorus (SATB) :'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Tsar%27s_Bride_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Voices ::Vasily Sobakin (Василий
+    Собакин) (bass), Marfa (Марфа) (soprano), Grigory Gryaznoy (Григорий Грязной)
+    (baritone), Malyuta Skuratov (Малюта Скуратов) (bass), Boyar Ivan Lykov (Боярин
+    Иван Лыков) (tenor), Lyubasha (Любаша) (mezzo-soprano), Yelisey Bomelius (Елисей
+    Бомелий) (tenor), Domna Saburova (Домна Сабурова) (soprano), Dunyasha (Дуняша)
+    (mezzo-soprano), Petrovna (Петровна) (mezzo-soprano), Tsar''s Stoker (Царский
+    истопник) (bass), Maiden (Сенная девушка) (mezzo-soprano), Young Lad (Молодой
+    парень) (tenor) :Mixed Chorus (SATB) :Orchestra ::3 flutes (3rd also piccolo),
+    2 oboes (2nd also English horn), 2 clarinets (B/A), 2 bassoons, 4 horns (F), 2
+    trumpets (C), 3 trombones, tuba, timpani, triangle. snare drum, tambourine, bass
+    drum, tam-tam, cymbals, harp, strings'

@@ -1,0 +1,45 @@
+id: rimsky-korsakov-mlada-suite
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: Mlada Suite
+  ids:
+    imslp: Mlada (suite) (Rimsky-Korsakov, Nikolay)
+  year: 1894
+formula: 4[pic.2.3.afl] 3[1.2.Eh] 4[1.2.3.bcl] 3 6331 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  - instrument: alto_flute
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 3
+  horn: 6
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - triangle
+    - side drum
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mlada_%28suite%29_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: :piccolo, 2 flutes, alto flute (also flute), 2 oboes, English
+    horn, ::3 clarinets, bass clarinet, 3 bassoons (3 also contrabassoon) :6 horns,
+    3 trumpets, 3 trombones, tuba, timpani, bass drum, cymbals, triangle, side drum,
+    strings'
+duration_minutes: 15

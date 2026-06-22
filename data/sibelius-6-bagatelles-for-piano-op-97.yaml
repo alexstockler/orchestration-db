@@ -1,0 +1,16 @@
+id: sibelius-6-bagatelles-for-piano-op-97
+work:
+  composer: Sibelius, Jean
+  title: 6 Bagatelles for Piano, Op.97
+  ids:
+    imslp: 6 Bagatelles, Op.97 (Sibelius, Jean)
+  year: 1920
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Bagatelles%2C_Op.97_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

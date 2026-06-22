@@ -1,0 +1,17 @@
+id: schumann-2-balladen-op-122
+work:
+  composer: Schumann, Robert
+  title: 2 Balladen, Op.122
+  ids:
+    imslp: 2 Balladen, Op.122 (Schumann, Robert)
+  year: 1852
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: Narrator
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Balladen%2C_Op.122_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: Narrator, Piano'

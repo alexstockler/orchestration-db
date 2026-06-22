@@ -1,0 +1,15 @@
+id: sibelius-hymn-to-tha-s
+work:
+  composer: Sibelius, Jean
+  title: Hymn to Thaïs
+  ids:
+    imslp: Hymn to Thaïs (Sibelius, Jean)
+  year: 1909
+formula: ''
+instrumentation:
+  additional_raw: Voice and Piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymn_to_Tha%C3%AFs_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

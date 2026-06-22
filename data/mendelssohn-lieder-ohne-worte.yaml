@@ -1,0 +1,17 @@
+id: mendelssohn-lieder-ohne-worte
+work:
+  composer: Mendelssohn, Felix
+  title: Lieder ohne Worte
+  ids:
+    imslp: Lieder ohne Worte, Op.19b (Mendelssohn, Felix)
+  year: 1829
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lieder_ohne_Worte%2C_Op.19b_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: piano (physharmonica ad. lib.?)'
+duration_minutes: 15

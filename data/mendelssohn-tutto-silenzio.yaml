@@ -1,0 +1,17 @@
+id: mendelssohn-tutto-silenzio
+work:
+  composer: Mendelssohn, Felix
+  title: Tutto è silenzio
+  ids:
+    imslp: Tutto è silenzio, MWV H 2 (Mendelssohn, Felix)
+  year: 1829
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tutto_%C3%A8_silenzio%2C_MWV_H_2_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, orchestra'

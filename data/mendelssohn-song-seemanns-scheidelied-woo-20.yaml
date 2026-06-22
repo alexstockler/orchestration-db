@@ -1,0 +1,16 @@
+id: mendelssohn-song-seemanns-scheidelied-woo-20
+work:
+  composer: Mendelssohn, Felix
+  title: Song, Seemanns Scheidelied, WoO 20
+  ids:
+    imslp: Seemans Scheidelied, WoO 20 (Mendelssohn, Felix)
+  year: 1829
+formula: ''
+instrumentation:
+  additional_raw: voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Seemans_Scheidelied%2C_WoO_20_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: voice and piano'
+duration_minutes: 5

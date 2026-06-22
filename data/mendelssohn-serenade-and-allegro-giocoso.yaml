@@ -1,0 +1,25 @@
+id: mendelssohn-serenade-and-allegro-giocoso
+work:
+  composer: Mendelssohn, Felix
+  title: Serenade and Allegro giocoso
+  ids:
+    imslp: Serenade und Allegro giojoso, Op.43 (Mendelssohn, Felix)
+  year: 1838
+formula: 1222 2200 tmp str
+instrumentation:
+  flute: 1
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Serenade_und_Allegro_giojoso%2C_Op.43_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets,
+    timpani, strings'
+duration_minutes: 10

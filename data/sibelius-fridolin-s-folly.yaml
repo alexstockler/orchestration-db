@@ -1,0 +1,15 @@
+id: sibelius-fridolin-s-folly
+work:
+  composer: Sibelius, Jean
+  title: Fridolin's Folly
+  ids:
+    imslp: Fridolin's Folly (Sibelius, Jean)
+  year: 1917
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fridolin%27s_Folly_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

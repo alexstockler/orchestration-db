@@ -1,0 +1,15 @@
+id: wagner-grosse-sonate-fuer-klavier
+work:
+  composer: Wagner, Richard
+  title: Grosse Sonate fuer Klavier
+  ids:
+    imslp: Piano Sonata in A major, WWV 26 (Wagner, Richard)
+  year: 1831
+formula: ''
+instrumentation:
+  additional_raw: piano solo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_in_A_major%2C_WWV_26_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano solo'

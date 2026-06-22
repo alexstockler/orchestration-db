@@ -1,0 +1,33 @@
+id: wagner-rule-britannia
+work:
+  composer: Wagner, Richard
+  title: Rule Britannia
+  ids:
+    imslp: Rule Britannia, WWV 42 (Wagner, Richard)
+  year: 1837
+formula: 4[pic.pic.3.4] 2 3 2 0430
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 3
+  bassoon: 2
+  trumpet: 4
+  trombone: 3
+  percussion:
+    instruments:
+    - triangle
+    - snare drum
+    - bass drum
+  additional_raw: contrabassoon + 4 horns (D) | ophicleide + timpani | cymbals + strings
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rule_Britannia%2C_WWV_42_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: 2 piccolos, 2 flutes, 2 oboes, 3 clarinets (1
+    in F, 2 in C), 2 bassoons, contrabassoon + 4 horns (D), 4 trumpets (D), 3 trombones,
+    ophicleide + timpani, triangle, snare drum, bass drum, cymbals + strings'
+duration_minutes: 13

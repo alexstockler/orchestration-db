@@ -1,0 +1,16 @@
+id: dvorak-in-nature-s-realm-choruses
+work:
+  composer: Dvořák, Antonín
+  title: In Nature's Realm (choruses)
+  ids:
+    imslp: V Přírodě, Op.63 (Dvořák, Antonín)
+  year: 1882
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/V_P%C5%99%C3%ADrod%C4%9B%2C_Op.63_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: chorus (SATB)'
+duration_minutes: 12

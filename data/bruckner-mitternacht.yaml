@@ -1,0 +1,20 @@
+id: bruckner-mitternacht
+work:
+  composer: Bruckner, Anton
+  title: Mitternacht
+  ids:
+    imslp: Mitternacht, WAB 80 (Bruckner, Anton)
+  year: 1869
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - tenor
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mitternacht%2C_WAB_80_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, male chorus (TTBB), piano'
+duration_minutes: 5

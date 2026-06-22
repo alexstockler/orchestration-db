@@ -1,0 +1,16 @@
+id: schumann-4-fugues
+work:
+  composer: Schumann, Robert
+  title: 4 Fugues
+  ids:
+    imslp: 4 Fugues, Op.72 (Schumann, Robert)
+  year: 1845
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Fugues%2C_Op.72_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

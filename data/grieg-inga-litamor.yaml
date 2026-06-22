@@ -1,0 +1,15 @@
+id: grieg-inga-litamor
+work:
+  composer: Grieg, Edvard
+  title: Inga Litamor
+  ids:
+    imslp: Inga Litamor, EG 168 (Grieg, Edvard)
+  year: 1878
+formula: ''
+instrumentation:
+  additional_raw: Baritone solo | male choir
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Inga_Litamor%2C_EG_168_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: Baritone solo, male choir'

@@ -1,0 +1,20 @@
+id: saint-saens-la-gloire
+work:
+  composer: Saint-Saëns, Camille
+  title: La gloire
+  ids:
+    imslp: La gloire, Op.131 (Saint-Saëns, Camille)
+  year: 1911
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - tenor
+  - baritone
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_gloire%2C_Op.131_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, baritone, male chorus, piano'

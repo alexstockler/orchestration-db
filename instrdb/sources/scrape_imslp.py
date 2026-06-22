@@ -31,6 +31,7 @@ import os
 import re
 import sys
 import time
+import unicodedata
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -182,9 +183,12 @@ def _list_composer_works(composer_name: str) -> list[str]:
 # ---------------------------------------------------------------------------
 
 def _slugify(composer: str, title: str) -> str:
-    # "Beethoven, Ludwig van" -> "beethoven"
-    last = composer.split(",")[0].strip().lower() if "," in composer else composer.lower()
-    base = f"{last}-{title}".lower()
+    # "Dvořák, Antonín" -> "dvorak"; strip diacritics via NFKD decomposition
+    def _ascii(s: str) -> str:
+        return unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode("ascii")
+
+    last = composer.split(",")[0].strip() if "," in composer else composer
+    base = f"{_ascii(last)}-{_ascii(title)}".lower()
     base = re.sub(r"[^a-z0-9]+", "-", base)
     return base.strip("-")[:80]
 
@@ -279,7 +283,8 @@ def _write_entry(entry: dict, out_dir: Path, force: bool = False) -> bool:
 def main():
     ap = argparse.ArgumentParser(description="Scrape IMSLP instrumentation data")
     ap.add_argument("titles", nargs="*", help="IMSLP page title(s)")
-    ap.add_argument("--composer", help="Fetch all works for a composer category")
+    ap.add_argument("--composer", action="append", default=[],
+                    help="Fetch all works for a composer category (repeatable)")
     ap.add_argument("--file", help="File of page titles, one per line")
     ap.add_argument("--out-dir", default="data", help="Output directory (default: data/)")
     ap.add_argument("--force", action="store_true", help="Overwrite existing files")
@@ -293,9 +298,9 @@ def main():
         titles += [l.strip() for l in Path(args.file).read_text().splitlines()
                    if l.strip() and not l.startswith("#")]
 
-    if args.composer:
-        print(f"Enumerating works for {args.composer!r}...", file=sys.stderr)
-        titles += _list_composer_works(args.composer)
+    for composer in args.composer:
+        print(f"Enumerating works for {composer!r}...", file=sys.stderr)
+        titles += _list_composer_works(composer)
 
     if not titles:
         ap.print_help()

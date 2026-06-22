@@ -1,0 +1,16 @@
+id: rimsky-korsakov-6-romances
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: 6 Romances
+  ids:
+    imslp: 6 Romances, Op.8 (Rimsky-Korsakov, Nikolay)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Romances%2C_Op.8_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

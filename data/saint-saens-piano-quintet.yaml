@@ -1,0 +1,18 @@
+id: saint-saens-piano-quintet
+work:
+  composer: Saint-Saëns, Camille
+  title: Piano Quintet
+  ids:
+    imslp: Piano Quintet, Op.14 (Saint-Saëns, Camille)
+  year: 1853
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 2 violins | viola | cello | double-bass (ad libitum)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quintet%2C_Op.14_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello, double-bass (ad libitum), piano'
+duration_minutes: 30

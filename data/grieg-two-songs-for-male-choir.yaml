@@ -1,0 +1,14 @@
+id: grieg-two-songs-for-male-choir
+work:
+  composer: Grieg, Edvard
+  title: Two Songs for Male Choir
+  ids:
+    imslp: 2 Songs for Male Choir, EG 169 (Grieg, Edvard)
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Songs_for_Male_Choir%2C_EG_169_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus'

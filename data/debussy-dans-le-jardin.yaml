@@ -1,0 +1,17 @@
+id: debussy-dans-le-jardin
+work:
+  composer: Debussy, Claude
+  title: Dans le jardin
+  ids:
+    imslp: Dans le jardin, CD 107 (Debussy, Claude)
+  year: 1903
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dans_le_jardin%2C_CD_107_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

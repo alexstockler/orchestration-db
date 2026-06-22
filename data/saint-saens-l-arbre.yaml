@@ -1,0 +1,16 @@
+id: saint-saens-l-arbre
+work:
+  composer: Saint-Saëns, Camille
+  title: L'arbre
+  ids:
+    imslp: L'arbre (Saint-Saëns, Camille)
+  year: 1903
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27arbre_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

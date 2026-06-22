@@ -1,0 +1,29 @@
+id: sibelius-koskenlaskijan-morsiamet-des-f-hrmann-s-br-ute-the-ferryman-s-bride
+work:
+  composer: Sibelius, Jean
+  title: Koskenlaskijan morsiamet ; Des Fährmann's Bräute ; The Ferryman's Bride
+  ids:
+    imslp: The Ferryman's Bride, Op.33 (Sibelius, Jean)
+  year: 1897
+formula: 2222 4230 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - bass drum
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Ferryman%27s_Bride%2C_Op.33_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2
+    trumpets, 3 trombones, timpani, triangle, cymbals, bass drum, strings'

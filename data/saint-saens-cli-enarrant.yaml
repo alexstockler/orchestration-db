@@ -1,0 +1,17 @@
+id: saint-saens-cli-enarrant
+work:
+  composer: Saint-Saëns, Camille
+  title: Cœli enarrant
+  ids:
+    imslp: Cœli enarrant, Op.42 (Saint-Saëns, Camille)
+  year: 1865
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Solo soprano & tenor | semichoruses (SMATBrB & BrBrBrBr) and orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/C%C5%93li_enarrant%2C_Op.42_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo soprano & tenor, chorus (SATB), semichoruses (SMATBrB
+    & BrBrBrBr) and orchestra'

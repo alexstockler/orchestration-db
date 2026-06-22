@@ -1,0 +1,16 @@
+id: grieg-cantata-to-karl-hals
+work:
+  composer: Grieg, Edvard
+  title: Cantata to Karl Hals
+  ids:
+    imslp: Cantata to Karl Hals, EG 164 (Grieg, Edvard)
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cantata_to_Karl_Hals%2C_EG_164_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, female chorus, mixed chorus'

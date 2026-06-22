@@ -1,0 +1,17 @@
+id: saint-saens-sonata-for-clarinet-and-piano
+work:
+  composer: Saint-Saëns, Camille
+  title: Sonata for Clarinet and Piano
+  ids:
+    imslp: Clarinet Sonata, Op.167 (Saint-Saëns, Camille)
+  year: 1921
+formula: 0010 0000 pf
+instrumentation:
+  clarinet: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Clarinet_Sonata%2C_Op.167_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, piano'

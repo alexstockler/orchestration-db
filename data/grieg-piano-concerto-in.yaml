@@ -1,0 +1,15 @@
+id: grieg-piano-concerto-in
+work:
+  composer: Grieg, Edvard
+  title: Piano Concerto in
+  ids:
+    imslp: Piano Concerto in B minor, EG 120 (Grieg, Edvard)
+  year: 1882
+formula: ''
+instrumentation:
+  additional_raw: Piano and Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Concerto_in_B_minor%2C_EG_120_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano and Orchestra'

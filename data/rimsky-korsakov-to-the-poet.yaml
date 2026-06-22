@@ -1,0 +1,17 @@
+id: rimsky-korsakov-to-the-poet
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: To the Poet
+  ids:
+    imslp: To the Poet, Op.45 (Rimsky-Korsakov, Nikolay)
+  year: 1897
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/To_the_Poet%2C_Op.45_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

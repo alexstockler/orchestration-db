@@ -1,0 +1,36 @@
+id: bruckner-military-march-in-e-flat-major
+work:
+  composer: Bruckner, Anton
+  title: Military March in E-flat major
+  ids:
+    imslp: Military March in E-flat major, WAB 116 (Bruckner, Anton)
+  year: 1865
+formula: 1[pic] 0 5[1.Ebcl.3.4.5] 0 3 7 2 5[euph.euph.euph.4.5] 1perc
+instrumentation:
+  flute:
+  - instrument: piccolo
+  clarinet:
+  - {}
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - {}
+  horn: 3
+  trumpet: 7
+  trombone: 2
+  tuba:
+  - instrument: euphonium
+  - instrument: euphonium
+  - instrument: euphonium
+  - {}
+  - {}
+  percussion:
+    players: 1
+  additional_raw: 2 flugelhorns in B
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Military_March_in_E-flat_major%2C_WAB_116_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Concert Band: piccolo (D), clarinet (A), E clarinet, 3
+    clarinets (B), 3 horns (F), 7 trumpets (5 in E/2 in B), 2 flugelhorns in B, 2
+    trombones, 3 euphoniums (T.C.), 2 tubas, percussion (bass drum, snare drum)'

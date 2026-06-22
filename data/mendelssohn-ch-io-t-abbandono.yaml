@@ -1,0 +1,18 @@
+id: mendelssohn-ch-io-t-abbandono
+work:
+  composer: Mendelssohn, Felix
+  title: Ch'io t'abbandono
+  ids:
+    imslp: Ch'io t'abbandono, MWV K 24 (Mendelssohn, Felix)
+  year: 1825
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - baritone
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ch%27io_t%27abbandono%2C_MWV_K_24_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: baritone, piano'

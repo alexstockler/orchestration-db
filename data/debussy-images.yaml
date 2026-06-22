@@ -1,0 +1,95 @@
+id: debussy-images
+work:
+  composer: Debussy, Claude
+  title: Images
+  ids:
+    imslp: Images pour orchestre, CD 118 (Debussy, Claude)
+  year: 1905
+formula: 11[1.2.pic/pic.pic.5.6.7.pic.9.10.11] 10[1.2.obda.Eh.5.6.Eh.8.9.Eh] 10[1.2.3.bcl.5.6.7.8.9.10]
+  12[1.2.3.cbn.5.6.7.cbn.9.10.11.cbn] 12[1.2.3.4.5.6.7.8.9.10.11.12] 7 6 1 tmp cel
+  cel cel 6hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - instrument: piccolo
+    doublings:
+    - piccolo
+  - instrument: piccolo
+  - {}
+  - {}
+  - {}
+  - instrument: piccolo
+  - {}
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: oboe_damore
+  - instrument: english_horn
+  - {}
+  - {}
+  - instrument: english_horn
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 12
+  trumpet: 7
+  trombone: 6
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - snare drum
+    - xylophone
+    - tambourine
+    - castanets
+    - chimes
+    - triangle
+  keyboards:
+  - instrument: celesta
+  - instrument: celesta
+  - instrument: celesta
+  harp: 6
+  strings: str
+  additional_raw: strings Iberia | strings Rondes de printemps
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Images_pour_orchestre%2C_CD_118_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: Gigues :2 flutes, 2 piccolos, 2 oboes, oboe d''amore, English
+    horn, ::3 clarinets, bass clarinet, 3 bassoons, contrabassoon :4 horns, 4 trumpets,
+    3 trombones, timpani, cymbals, snare drum, xylophone,, celesta, 2 harps, strings
+    Iberia :3 flutes (3rd also piccolo), piccolo, 2 oboes, English horn, ::3 clarinets,
+    3 bassoons, contrabassoon :4 horns, 3 trumpets, 3 trombones, tuba, timpani, tambourine,
+    castanets, cymbals, snare drum,, xylophone, chimes (3), celesta, 2 harps, strings
+    Rondes de printemps :3 flutes (3rd also piccolo), 2 oboes, English horn, 3 clarinets,
+    ::3 bassoons, contrabassoon :4 horns, timpani, triangle, tambourine, cymbals,
+    celesta, 2 harps, strings'
+duration_minutes: 40

@@ -1,0 +1,17 @@
+id: debussy-rondeau
+work:
+  composer: Debussy, Claude
+  title: Rondeau
+  ids:
+    imslp: Rondeau, CD 17 (Debussy, Claude)
+  year: 1881
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rondeau%2C_CD_17_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

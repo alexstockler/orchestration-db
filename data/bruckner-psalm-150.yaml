@@ -1,0 +1,31 @@
+id: bruckner-psalm-150
+work:
+  composer: Bruckner, Anton
+  title: Psalm 150
+  ids:
+    imslp: Psalm 150, WAB 38 (Bruckner, Anton)
+  year: 1892
+formula: 2222 4331 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - soprano
+  - mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Psalm_150%2C_WAB_38_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano; mixed chorus (SATB), Orchestra: 2 flutes,
+    2 oboes, 2 clarinets (B), 2 bassoons, 4 horns (F), 3 trumpets (F), 3 trombones,
+    tuba, timpani, strings'
+duration_minutes: 10

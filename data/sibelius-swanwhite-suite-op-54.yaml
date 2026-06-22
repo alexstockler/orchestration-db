@@ -1,0 +1,18 @@
+id: sibelius-swanwhite-suite-op-54
+work:
+  composer: Sibelius, Jean
+  title: Swanwhite (suite), Op.54
+  ids:
+    imslp: Swanwhite, suite, Op.54a (Sibelius, Jean)
+  year: 1908
+formula: hp str
+instrumentation:
+  harp: 1
+  strings: str
+  additional_raw: Messnerglocken")
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Swanwhite%2C_suite%2C_Op.54a_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, timpani,
+    castanets, triangle, bells ("Messnerglocken"), harp, strings'

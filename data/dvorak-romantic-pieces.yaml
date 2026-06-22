@@ -1,0 +1,18 @@
+id: dvorak-romantic-pieces
+work:
+  composer: Dvořák, Antonín
+  title: Romantic Pieces
+  ids:
+    imslp: 4 Romantic Pieces, Op.75 (Dvořák, Antonín)
+  year: 1887
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Romantic_Pieces%2C_Op.75_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 15

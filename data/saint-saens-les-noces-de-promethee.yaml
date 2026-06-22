@@ -1,0 +1,37 @@
+id: saint-saens-les-noces-de-promethee
+work:
+  composer: Saint-Saëns, Camille
+  title: Les noces de Prométhée
+  ids:
+    imslp: Les noces de Prométhée, Op.19 (Saint-Saëns, Camille)
+  year: 1867
+formula: 2 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 0300
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  trumpet: 3
+  additional_raw: Narrator (tenor) | Humanity (soprano) | Prometheus (baritone) |
+    double chorus (SATB.SATB) and orchestra (piccolo | 2 natural horns | 2 valved
+    horns | 4 trombones (2 tenor, 1 bass, 1 trombone contrebasse à pistons), 3 saxophones,
+    timpani, 2 pairs of harps, triangle, cymbals, large drum, strings)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_noces_de_Prom%C3%A9th%C3%A9e%2C_Op.19_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Narrator (tenor), Humanity (soprano), Prometheus (baritone),
+    double chorus (SATB.SATB) and orchestra (piccolo, 2 flutes, 2 oboes, English horn,
+    2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 2 natural horns, 2 valved
+    horns, 3 (chromatic) trumpets, 4 trombones (2 tenor, 1 bass, 1 trombone contrebasse
+    à pistons), 3 saxophones, timpani, 2 pairs of harps, triangle, cymbals, large
+    drum, strings)'

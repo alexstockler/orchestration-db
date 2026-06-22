@@ -1,0 +1,45 @@
+id: mendelssohn-die-beiden-p-dagogen
+work:
+  composer: Mendelssohn, Felix
+  title: Die beiden Pädagogen
+  ids:
+    imslp: Die beiden Pädagogen, MWV L 2 (Mendelssohn, Felix)
+  year: 1821
+formula: 2222 2200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - Herr von Robert
+  - wealthy landowner (bass)
+  - Carl
+  - his son (tenor)
+  - Elise
+  - his niece (soprano)
+  - Kinderschreck
+  - village schoolmaster (baritone)
+  - Hannchen
+  - his niece (soprano)
+  - Luftig
+  - a teacher (baritone)
+  - Fritz
+  - a servant (silent role) Mixed Chorus (SATB) :Peasants
+  - Villagers
+  - and Servants
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_beiden_P%C3%A4dagogen%2C_MWV_L_2_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Herr von Robert, wealthy landowner (bass), Carl,
+    his son (tenor), Elise, his niece (soprano), Kinderschreck, village schoolmaster
+    (baritone), Hannchen, his niece (soprano), Luftig, a teacher (baritone), Fritz,
+    a servant (silent role) Mixed Chorus (SATB) :Peasants, Villagers, and Servants
+    Orchestra :2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets, timpani,
+    strings'

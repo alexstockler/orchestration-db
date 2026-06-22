@@ -1,0 +1,32 @@
+id: saint-saens-phryne-opera-comique-en-deux-actes
+work:
+  composer: Saint-Saëns, Camille
+  title: 'Phryné: opéra-comique en deux actes'
+  ids:
+    imslp: Phryné (Saint-Saëns, Camille)
+  year: 1892
+formula: 2222 4230 tmp hp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - triangle
+    - tambourine
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Phryn%C3%A9_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons,, 4 horns, 2
+    trumpets (or 2 cornets), 3 trombones,, timpani, bass drum, cymbals, triangle,
+    tambourine, harp, strings'

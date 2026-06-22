@@ -1,0 +1,33 @@
+id: sibelius-symphony-no-1-in-e-minor
+work:
+  composer: Sibelius, Jean
+  title: Symphony No.1 in E minor
+  ids:
+    imslp: Symphony No.1, Op.39 (Sibelius, Jean)
+  year: 1899
+formula: 2222 4331 tmp hp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - triangle
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.1%2C_Op.39_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (both also piccolo), 2 oboes, 2 clarinets, 2 bassoons,
+    4 horns, 3 trumpets, 3 trombones, tuba, timpani, bass drum, cymbals, triangle,
+    harp, strings'
+duration_minutes: 40

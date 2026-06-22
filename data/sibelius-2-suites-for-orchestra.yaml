@@ -1,0 +1,16 @@
+id: sibelius-2-suites-for-orchestra
+work:
+  composer: Sibelius, Jean
+  title: 2 Suites for Orchestra
+  ids:
+    imslp: 2 Suites for Orchestra, Op.98 (Sibelius, Jean)
+  year: 1921
+formula: 2000 0000 str
+instrumentation:
+  flute: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Suites_for_Orchestra%2C_Op.98_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, strings'

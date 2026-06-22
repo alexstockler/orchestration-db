@@ -1,0 +1,30 @@
+id: sibelius-sn-frid
+work:
+  composer: Sibelius, Jean
+  title: Snöfrid
+  ids:
+    imslp: Snöfrid, Op.29 (Sibelius, Jean)
+  year: 1900
+formula: 2 1 2[1.bcl] 1 2310 tmp+1 str
+instrumentation:
+  flute: 2
+  oboe: 1
+  clarinet:
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 1
+  horn: 2
+  trumpet: 3
+  trombone: 1
+  percussion:
+    timpani: 1
+    players: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sn%C3%B6frid%2C_Op.29_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Reciter, Chorus and Orchestra : 2 flutes (1 takes piccolo),
+    oboe, clarinet, bass clarinet, bassoon, 2 horns, 3 trumpets, trombone, timpani,
+    percussion, strings'
+duration_minutes: 15

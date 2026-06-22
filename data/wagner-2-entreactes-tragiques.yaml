@@ -1,0 +1,24 @@
+id: wagner-2-entreactes-tragiques
+work:
+  composer: Wagner, Richard
+  title: 2 Entreactes tragiques
+  ids:
+    imslp: 2 Entreactes tragiques, WWV 25 (Wagner, Richard)
+  year: 1832
+formula: 2202 2200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: Orchestra (No.1)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Entreactes_tragiques%2C_WWV_25_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra (No.1): 2 flutes, 2 oboes, 2 bassoons, 2 horns
+    (D), 2 trumpets (D), timpani, strings'

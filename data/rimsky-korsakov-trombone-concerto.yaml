@@ -1,0 +1,48 @@
+id: rimsky-korsakov-trombone-concerto
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: Trombone Concerto
+  ids:
+    imslp: Trombone Concerto (Rimsky-Korsakov, Nikolay)
+  year: 1877
+formula: 3[pic.2.3] 2 6[Ebcl.2.3.4.bhn.bcl] 2 4 6[1.2.3.4.cnt.cnt] 3 3[euph.2.3]
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - {}
+  - instrument: basset_horn
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  tuba:
+  - instrument: euphonium
+  - {}
+  - {}
+  percussion:
+    instruments:
+    - cymbals
+    - bass drum
+    - snare drum
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trombone_Concerto_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: 30 parts :piccolo, 2 flutes, 2 oboes, piccolo clarinet,
+    3 clarinets, ::basset horn, bass clarinet, 2 bassoons :4 horns, 4 trumpets, 2
+    cornets, 3 trombones, euphonium, 2 tubas,, cymbals, bass drum, snare drum'
+duration_minutes: 10

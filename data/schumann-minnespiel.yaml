@@ -1,0 +1,17 @@
+id: schumann-minnespiel
+work:
+  composer: Schumann, Robert
+  title: Minnespiel
+  ids:
+    imslp: Minnespiel, Op.101 (Schumann, Robert)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 1-4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Minnespiel%2C_Op.101_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: 1-4 voices, piano'

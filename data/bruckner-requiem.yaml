@@ -1,0 +1,27 @@
+id: bruckner-requiem
+work:
+  composer: Bruckner, Anton
+  title: Requiem
+  ids:
+    imslp: Requiem, WAB 39 (Bruckner, Anton)
+  year: 1848
+formula: 0000 1030 org str
+instrumentation:
+  horn: 1
+  trombone: 3
+  keyboards:
+  - instrument: organ
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  - mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Requiem%2C_WAB_39_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, alto, tenor, bass; mixed chorus (SATB),
+    Orchestra: horn (F), 3 trombones, organ, strings (2,2,1,1,1)'
+duration_minutes: 38

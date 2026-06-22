@@ -1,0 +1,15 @@
+id: mendelssohn-zum-abendsegen-der-abendsegen-vocal-chor-f-r-sopran-alt-tenor-und-ba
+work:
+  composer: Mendelssohn, Felix
+  title: Zum Abendsegen (Der Abendsegen), Vocal-Chor für Sopran, Alt, Tenor und Bass
+  ids:
+    imslp: Lord, Have Mercy upon Us, WoO 12 (Mendelssohn, Felix)
+  year: 1833
+formula: ''
+instrumentation:
+  additional_raw: SATB
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lord%2C_Have_Mercy_upon_Us%2C_WoO_12_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB'

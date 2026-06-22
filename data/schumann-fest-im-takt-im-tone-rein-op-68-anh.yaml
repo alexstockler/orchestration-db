@@ -1,0 +1,15 @@
+id: schumann-fest-im-takt-im-tone-rein-op-68-anh
+work:
+  composer: Schumann, Robert
+  title: Fest im Takt, im Tone rein, Op.68 Anh.
+  ids:
+    imslp: Fest im Takt, im Tone rein, Op.68 Anh. (Schumann, Robert)
+  year: 1850
+formula: ''
+instrumentation:
+  additional_raw: Voices a cappella
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fest_im_Takt%2C_im_Tone_rein%2C_Op.68_Anh._%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices a cappella'

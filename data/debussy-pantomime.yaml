@@ -1,0 +1,17 @@
+id: debussy-pantomime
+work:
+  composer: Debussy, Claude
+  title: Pantomime
+  ids:
+    imslp: Pantomime, CD 47 (Debussy, Claude)
+  year: 1883
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pantomime%2C_CD_47_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

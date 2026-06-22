@@ -1,0 +1,31 @@
+id: sibelius-luonnotar
+work:
+  composer: Sibelius, Jean
+  title: Luonnotar
+  ids:
+    imslp: Luonnotar, Op.70 (Sibelius, Jean)
+  year: 1913
+formula: 2 2 3[1.2.bcl] 2 4230 tmp 2hp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 2
+  harp: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Luonnotar%2C_Op.70_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (both also piccolo), 2 oboes, 2 clarinets, bass
+    clarinet, 2 bassoons,, 4 horns, 2 trumpets, 3 trombones,, 2 timpani, 2 harps,
+    strings'
+duration_minutes: 10

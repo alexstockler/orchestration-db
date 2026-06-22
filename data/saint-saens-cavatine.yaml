@@ -1,0 +1,18 @@
+id: saint-saens-cavatine
+work:
+  composer: Saint-Saëns, Camille
+  title: Cavatine
+  ids:
+    imslp: Cavatine, Op.144 (Saint-Saëns, Camille)
+  year: 1915
+formula: 0000 0010 pf
+instrumentation:
+  trombone: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cavatine%2C_Op.144_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: trombone, piano'
+duration_minutes: 6

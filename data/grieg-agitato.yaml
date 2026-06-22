@@ -1,0 +1,15 @@
+id: grieg-agitato
+work:
+  composer: Grieg, Edvard
+  title: Agitato
+  ids:
+    imslp: Agitato, EG 106 (Grieg, Edvard)
+  year: 1865
+formula: ''
+instrumentation:
+  additional_raw: '|Tags=agitatos | pf'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Agitato%2C_EG_106_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: |Tags=agitatos ; pf'

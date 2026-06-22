@@ -1,0 +1,15 @@
+id: mendelssohn-und-ob-du-mich-z-chtigst-herr
+work:
+  composer: Mendelssohn, Felix
+  title: Und ob du mich züchtigst, Herr
+  ids:
+    imslp: Und ob du mich züchtigst, Herr, MWV X 9 (Mendelssohn, Felix)
+  year: 1835
+formula: ''
+instrumentation:
+  additional_raw: 5 equal voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Und_ob_du_mich_z%C3%BCchtigst%2C_Herr%2C_MWV_X_9_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: 5 equal voices'

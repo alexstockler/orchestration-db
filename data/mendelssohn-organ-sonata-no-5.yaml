@@ -1,0 +1,16 @@
+id: mendelssohn-organ-sonata-no-5
+work:
+  composer: Mendelssohn, Felix
+  title: Organ Sonata No.5
+  ids:
+    imslp: Organ Sonata No.5, MWV W 60 (Mendelssohn, Felix)
+  year: 1845
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Organ_Sonata_No.5%2C_MWV_W_60_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

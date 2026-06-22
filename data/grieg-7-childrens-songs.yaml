@@ -1,0 +1,16 @@
+id: grieg-7-childrens-songs
+work:
+  composer: Grieg, Edvard
+  title: 7 Childrens Songs
+  ids:
+    imslp: 7 Childrens Songs, Op.61 (Grieg, Edvard)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Childrens_Songs%2C_Op.61_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

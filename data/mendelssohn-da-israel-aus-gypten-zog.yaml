@@ -1,0 +1,28 @@
+id: mendelssohn-da-israel-aus-gypten-zog
+work:
+  composer: Mendelssohn, Felix
+  title: Da Israel aus Ägypten zog
+  ids:
+    imslp: Da Israel aus Ägypten zog, Op.51 (Mendelssohn, Felix)
+  year: 1839
+formula: 2222 4230 tmp org str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: organ
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Da_Israel_aus_%C3%84gypten_zog%2C_Op.51_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2
+    trumpets, 3 trombones, timpani, organ, strings'
+duration_minutes: 13

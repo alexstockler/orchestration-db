@@ -1,0 +1,17 @@
+id: saint-saens-variations-on-a-theme-of-beethoven
+work:
+  composer: Saint-Saëns, Camille
+  title: Variations on a Theme of Beethoven
+  ids:
+    imslp: Variations on a Theme of Beethoven, Op.35 (Saint-Saëns, Camille)
+  year: 1874
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variations_on_a_Theme_of_Beethoven%2C_Op.35_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 pianos'

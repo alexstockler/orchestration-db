@@ -1,0 +1,24 @@
+id: sibelius-2-pieces-for-violin-and-orchestra
+work:
+  composer: Sibelius, Jean
+  title: 2 Pieces for Violin and Orchestra
+  ids:
+    imslp: 2 Pieces for Violin and Orchestra, Op.77 (Sibelius, Jean)
+  year: 1914
+formula: 2021 4010 tmp hp str
+instrumentation:
+  flute: 2
+  clarinet: 2
+  bassoon: 1
+  horn: 4
+  trombone: 1
+  percussion:
+    timpani: 1
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Pieces_for_Violin_and_Orchestra%2C_Op.77_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 clarinets, bassoon, 4 horns, trombone, timpani
+    (2 players), harp, strings'
