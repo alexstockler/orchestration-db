@@ -1,0 +1,29 @@
+id: sibelius-belshazzar-s-feast
+work:
+  composer: Sibelius, Jean
+  title: Belshazzar's Feast
+  ids:
+    imslp: Belshazzar's Feast, Op.51 (Sibelius, Jean)
+  year: 1906
+formula: 2[1.2/pic] 1 2 0 2000 str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 1
+  clarinet: 2
+  horn: 2
+  percussion:
+    instruments:
+    - triangle
+    - tambourine
+    - cymbals
+    - bass drum
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Belshazzar%27s_Feast%2C_Op.51_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), oboe, 2 clarinets, 2 horns,
+    triangle, tambourine, cymbals, bass drum, strings'

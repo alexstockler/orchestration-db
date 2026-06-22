@@ -1,0 +1,37 @@
+id: debussy-marche-cossaise-sur-un-th-me-populaire
+work:
+  composer: Debussy, Claude
+  title: Marche écossaise sur un thème populaire
+  ids:
+    imslp: Marche écossaise sur un thème populaire, CD 83 (Debussy, Claude)
+  year: 1890
+formula: 3[pic.2.3] 3[1.2.Eh] 2 2 4230 tmp hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+  harp: 1
+  strings: str
+  additional_raw: drum
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marche_%C3%A9cossaise_sur_un_th%C3%A8me_populaire%2C_CD_83_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: 2+1, 2+1, 2, 2 - 4, 2, 3, 0, timp, 2perc, hp, strs :piccolo,
+    2 flutes, 2 oboes, English horn, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets,
+    3 trombones, timpani, cymbals, drum, harp, strings'
+duration_minutes: 6

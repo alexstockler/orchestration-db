@@ -1,0 +1,23 @@
+id: schumann-adventlied
+work:
+  composer: Schumann, Robert
+  title: Adventlied
+  ids:
+    imslp: Adventlied, Op.71 (Schumann, Robert)
+  year: 1848
+formula: 2222 4200 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adventlied%2C_Op.71_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soli (SATB), Mixed Chorus (SATTB), Orchestra :2 flutes,
+    2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, strings'
+duration_minutes: 18

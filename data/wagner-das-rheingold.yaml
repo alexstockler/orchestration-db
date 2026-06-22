@@ -1,0 +1,69 @@
+id: wagner-das-rheingold
+work:
+  composer: Wagner, Richard
+  title: Das Rheingold
+  ids:
+    imslp: Das Rheingold, WWV 86A (Wagner, Richard)
+  year: 1854
+formula: 4[pic.2.3/pic.4] 4[1.2.3.Eh] 4[1.2.3.bcl] 0 8 4[1.2.3.btpt] 4[1.2.btbn.cbtbn]
+  0 tmp 6hp
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - doublings:
+    - piccolo
+  - {}
+  oboe:
+  - {}
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  horn: 8
+  trumpet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_trumpet
+  trombone:
+  - {}
+  - {}
+  - instrument: bass_trombone
+  - instrument: contrabass_trombone
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - triangle
+    - cymbals
+    - tam-tam
+  harp: 6
+  additional_raw: Wotan (bass-baritone) | Loge (tenor) | Fricka (mezzo-soprano) |
+    Freia (soprano) | Donner (baritone) | Froh (tenor) | Erda (contralto) Nibelungs
+    | Alberich (baritone) | Mime (tenor) Giants | Fasolt (bass-baritone) | Fafner
+    (bass) Rhinemaidens | Woglinde (soprano) | Wellgunde (soprano or mezzo-soprano)
+    | Flosshilde (mezzo-soprano) Mixed Chorus (SATB) | Nibelungs ' | 3 bassoons* |
+    contrabass tuba | 18 anvils | strings (16, 16, 12, 12, 8 players) ' | 3 anvils
+    | harp *3rd bassoon can alternate on contrabassoon if needed for required low
+    A passages | found in regular 3rd bassoon part
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Rheingold%2C_WWV_86A_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast Gods, Goddesses :Wotan (bass-baritone), Loge (tenor),
+    Fricka (mezzo-soprano), Freia (soprano), Donner (baritone), Froh (tenor), Erda
+    (contralto) Nibelungs :Alberich (baritone), Mime (tenor) Giants :Fasolt (bass-baritone),
+    Fafner (bass) Rhinemaidens :Woglinde (soprano), Wellgunde (soprano or mezzo-soprano),
+    Flosshilde (mezzo-soprano) Mixed Chorus (SATB) :Nibelungs '' :piccolo, 3 flutes
+    (3rd also piccolo), 3 oboes, English horn (also oboe) ::3 clarinets, bass clarinet,
+    3 bassoons* :8 horns (2 also Wagner Tubas in B, 2 in F), 3 trumpets, bass trumpet
+    ::2 tenor trombones, bass trombone, contrabass trombone (also bass trombone),
+    contrabass tuba :timpani, bass drum, triangle, cymbals, tam-tam, 18 anvils :6
+    harps, strings (16, 16, 12, 12, 8 players) '' :3 anvils, harp *3rd bassoon can
+    alternate on contrabassoon if needed for required low A passages, found in regular
+    3rd bassoon part'

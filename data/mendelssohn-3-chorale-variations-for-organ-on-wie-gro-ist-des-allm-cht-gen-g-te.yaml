@@ -1,0 +1,17 @@
+id: mendelssohn-3-chorale-variations-for-organ-on-wie-gro-ist-des-allm-cht-gen-g-te
+work:
+  composer: Mendelssohn, Felix
+  title: 3 Chorale variations for organ on Wie groß ist des Allmächt'gen Güte
+  ids:
+    imslp: Wie Groß ist des allmächt'gen Güte, MWV W 8 (Mendelssohn, Felix)
+  year: 1823
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Wie_Gro%C3%9F_ist_des_allm%C3%A4cht%27gen_G%C3%BCte%2C_MWV_W_8_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: Organ'
+duration_minutes: 11

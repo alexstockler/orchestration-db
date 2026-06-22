@@ -1,0 +1,17 @@
+id: grieg-haugtussa
+work:
+  composer: Grieg, Edvard
+  title: Haugtussa
+  ids:
+    imslp: Haugtussa, Op.67 (Grieg, Edvard)
+  year: 1895
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Haugtussa%2C_Op.67_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

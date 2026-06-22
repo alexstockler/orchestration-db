@@ -1,0 +1,17 @@
+id: grieg-andante-con-moto
+work:
+  composer: Grieg, Edvard
+  title: Andante con moto
+  ids:
+    imslp: Andante con moto, EG 116 (Grieg, Edvard)
+  year: 1878
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_con_moto%2C_EG_116_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'

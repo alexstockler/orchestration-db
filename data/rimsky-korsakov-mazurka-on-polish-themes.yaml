@@ -1,0 +1,15 @@
+id: rimsky-korsakov-mazurka-on-polish-themes
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: Mazurka on Polish Themes
+  ids:
+    imslp: Mazurka on Polish Themes (Rimsky-Korsakov, Nikolay)
+  year: 1888
+formula: ''
+instrumentation:
+  additional_raw: violin | Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mazurka_on_Polish_Themes_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: violin, Orchestra'

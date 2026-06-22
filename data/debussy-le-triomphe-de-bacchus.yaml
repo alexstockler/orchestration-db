@@ -1,0 +1,16 @@
+id: debussy-le-triomphe-de-bacchus
+work:
+  composer: Debussy, Claude
+  title: Le triomphe de Bacchus
+  ids:
+    imslp: Le triomphe de Bacchus, CD 33 (Debussy, Claude)
+  year: 1882
+formula: ''
+instrumentation:
+  additional_raw: piano 4-hands
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_triomphe_de_Bacchus%2C_CD_33_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'
+duration_minutes: 4

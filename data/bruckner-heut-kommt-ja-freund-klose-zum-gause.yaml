@@ -1,0 +1,15 @@
+id: bruckner-heut-kommt-ja-freund-klose-zum-gause
+work:
+  composer: Bruckner, Anton
+  title: Heut kommt ja Freund Klose zum Gause
+  ids:
+    imslp: Heut kommt ja Freund Klose zum Gause, WAB 203 (Bruckner, Anton)
+  year: 1889
+formula: ''
+instrumentation:
+  additional_raw: 4 voice canon (but listed under Bruckner's secular choruses)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Heut_kommt_ja_Freund_Klose_zum_Gause%2C_WAB_203_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voice canon (but listed under Bruckner''s secular choruses)'

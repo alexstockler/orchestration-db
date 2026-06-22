@@ -1,0 +1,15 @@
+id: mendelssohn-3-lieder
+work:
+  composer: Mendelssohn, Felix
+  title: 3 Lieder
+  ids:
+    imslp: 3 Lieder, Op.84 (Mendelssohn, Felix)
+  year: 1831
+formula: ''
+instrumentation:
+  additional_raw: voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Lieder%2C_Op.84_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: voice and piano'

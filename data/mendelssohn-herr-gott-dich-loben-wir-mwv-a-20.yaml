@@ -1,0 +1,19 @@
+id: mendelssohn-herr-gott-dich-loben-wir-mwv-a-20
+work:
+  composer: Mendelssohn, Felix
+  title: Herr Gott, dich loben wir, MWV A 20
+  ids:
+    imslp: Herr Gott, dich loben wir, MWV A 20 (Mendelssohn, Felix)
+  year: 1843
+formula: 0000 0040 org str
+instrumentation:
+  trombone: 4
+  keyboards:
+  - instrument: organ
+  strings: str
+  chorus_raw: 2 mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Herr_Gott%2C_dich_loben_wir%2C_MWV_A_20_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 mixed chorus, 4 trombones, organ, strings'

@@ -1,0 +1,17 @@
+id: bruckner-mild-wie-b-che-die-durch-blumen-wallen
+work:
+  composer: Bruckner, Anton
+  title: Mild wie Bäche, die durch Blumen wallen
+  ids:
+    imslp: Mild wie Bäche, die durch Blumen wallen, WAB 138 (Bruckner, Anton)
+  year: 1845
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mild_wie_B%C3%A4che%2C_die_durch_Blumen_wallen%2C_WAB_138_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

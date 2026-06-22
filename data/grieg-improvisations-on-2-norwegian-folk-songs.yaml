@@ -1,0 +1,15 @@
+id: grieg-improvisations-on-2-norwegian-folk-songs
+work:
+  composer: Grieg, Edvard
+  title: Improvisations on 2 Norwegian Folk Songs
+  ids:
+    imslp: Improvisations on 2 Norwegian Folk Songs, Op.29 (Grieg, Edvard)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Improvisations_on_2_Norwegian_Folk_Songs%2C_Op.29_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

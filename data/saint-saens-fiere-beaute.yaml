@@ -1,0 +1,15 @@
+id: saint-saens-fiere-beaute
+work:
+  composer: Saint-Saëns, Camille
+  title: Fière beauté
+  ids:
+    imslp: Fière beauté (Saint-Saëns, Camille)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fi%C3%A8re_beaut%C3%A9_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, orchestra'

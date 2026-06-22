@@ -1,0 +1,16 @@
+id: saint-saens-le-feu-celeste-op-115
+work:
+  composer: Saint-Saëns, Camille
+  title: Le feu céleste, Op.115
+  ids:
+    imslp: Le feu céleste, Op.115 (Saint-Saëns, Camille)
+  year: 1900
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Soprano soloist | narrator | orchestra and organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_feu_c%C3%A9leste%2C_Op.115_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Soprano soloist, narrator, chorus, orchestra and organ'

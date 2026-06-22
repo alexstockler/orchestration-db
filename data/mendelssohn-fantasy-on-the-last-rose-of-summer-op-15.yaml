@@ -1,0 +1,17 @@
+id: mendelssohn-fantasy-on-the-last-rose-of-summer-op-15
+work:
+  composer: Mendelssohn, Felix
+  title: Fantasy on 'The Last Rose of Summer', Op.15
+  ids:
+    imslp: The Last Rose of Summer, Op.15 (Mendelssohn, Felix)
+  year: 1827
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Last_Rose_of_Summer%2C_Op.15_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 8

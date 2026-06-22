@@ -1,0 +1,17 @@
+id: debussy-trois-po-mes-de-st-phane-mallarm
+work:
+  composer: Debussy, Claude
+  title: Trois Poèmes de Stéphane Mallarmé
+  ids:
+    imslp: 3 Poèmes de Stéphane Mallarmé, CD 135 (Debussy, Claude)
+  year: 1913
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Po%C3%A8mes_de_St%C3%A9phane_Mallarm%C3%A9%2C_CD_135_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

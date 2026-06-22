@@ -1,0 +1,25 @@
+id: schumann-concert-f-r-das-pianoforte-mit-begleitung-des-orchesters
+work:
+  composer: Schumann, Robert
+  title: Concert für das Pianoforte mit Begleitung des Orchesters
+  ids:
+    imslp: Piano Concerto, Op.54 (Schumann, Robert)
+  year: 1841
+formula: 2222 2200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Concerto%2C_Op.54_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2
+    trumpets, timpani, strings'
+duration_minutes: 30

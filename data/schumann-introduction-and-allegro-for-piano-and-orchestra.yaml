@@ -1,0 +1,26 @@
+id: schumann-introduction-and-allegro-for-piano-and-orchestra
+work:
+  composer: Schumann, Robert
+  title: Introduction and Allegro for Piano and Orchestra
+  ids:
+    imslp: Introduction and Allegro, Op.134 (Schumann, Robert)
+  year: 1855
+formula: 2222 2210 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 1
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Introduction_and_Allegro%2C_Op.134_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2
+    trumpets, trombone, timpani, strings'
+duration_minutes: 13

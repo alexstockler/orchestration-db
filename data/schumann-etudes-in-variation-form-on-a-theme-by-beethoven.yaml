@@ -1,0 +1,16 @@
+id: schumann-etudes-in-variation-form-on-a-theme-by-beethoven
+work:
+  composer: Schumann, Robert
+  title: Etudes in Variation Form on a Theme by Beethoven
+  ids:
+    imslp: Etudes in Variation Form on a Theme by Beethoven, WoO 31 (Schumann, Robert)
+  year: 1831
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Etudes_in_Variation_Form_on_a_Theme_by_Beethoven%2C_WoO_31_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

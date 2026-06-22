@@ -1,0 +1,15 @@
+id: schumann-2-endenicher-chor-le
+work:
+  composer: Schumann, Robert
+  title: 2 Endenicher Choräle
+  ids:
+    imslp: 2 Endenicher Choräle (Schumann, Robert)
+  year: 1856
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Endenicher_Chor%C3%A4le_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

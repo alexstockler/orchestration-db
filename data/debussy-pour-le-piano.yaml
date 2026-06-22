@@ -1,0 +1,16 @@
+id: debussy-pour-le-piano
+work:
+  composer: Debussy, Claude
+  title: Pour le Piano
+  ids:
+    imslp: Pour le piano, CD 95 (Debussy, Claude)
+  year: 1894
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pour_le_piano%2C_CD_95_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

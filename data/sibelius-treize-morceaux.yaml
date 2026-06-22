@@ -1,0 +1,16 @@
+id: sibelius-treize-morceaux
+work:
+  composer: Sibelius, Jean
+  title: Treize morceaux
+  ids:
+    imslp: 13 Pieces for Piano, Op.76 (Sibelius, Jean)
+  year: 1911
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/13_Pieces_for_Piano%2C_Op.76_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

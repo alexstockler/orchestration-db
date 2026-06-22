@@ -1,0 +1,17 @@
+id: saint-saens-panis-angelicus
+work:
+  composer: Saint-Saëns, Camille
+  title: Panis angelicus
+  ids:
+    imslp: Panis angelicus (Saint-Saëns, Camille)
+  year: 1898
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - tenor
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Panis_angelicus_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor (or soprano), strings (or organ)'

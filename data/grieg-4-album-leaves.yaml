@@ -1,0 +1,16 @@
+id: grieg-4-album-leaves
+work:
+  composer: Grieg, Edvard
+  title: 4 Album Leaves
+  ids:
+    imslp: 4 Album Leaves, Op.28 (Grieg, Edvard)
+  year: 1878
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Album_Leaves%2C_Op.28_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

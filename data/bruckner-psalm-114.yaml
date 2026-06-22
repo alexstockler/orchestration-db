@@ -1,0 +1,17 @@
+id: bruckner-psalm-114
+work:
+  composer: Bruckner, Anton
+  title: Psalm 114
+  ids:
+    imslp: Psalm 114, WAB 36 (Bruckner, Anton)
+  year: 1852
+formula: 0000 0030
+instrumentation:
+  trombone: 3
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Psalm_114%2C_WAB_36_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SAATB), 3 trombones'
+duration_minutes: 9

@@ -1,0 +1,25 @@
+id: saint-saens-violin-concerto-in-d-major
+work:
+  composer: Saint-Saëns, Camille
+  title: Violin Concerto in D major
+  ids:
+    imslp: Cadences pour le concerto de violon de Beethoven (Saint-Saëns, Camille)
+  year: 1806
+formula: 1222 2200 tmp str
+instrumentation:
+  flute: 1
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cadences_pour_le_concerto_de_violon_de_Beethoven_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets,
+    timpani, strings'
+duration_minutes: 42

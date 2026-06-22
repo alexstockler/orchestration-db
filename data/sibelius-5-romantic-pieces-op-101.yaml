@@ -1,0 +1,16 @@
+id: sibelius-5-romantic-pieces-op-101
+work:
+  composer: Sibelius, Jean
+  title: 5 Romantic Pieces, Op.101
+  ids:
+    imslp: 5 Romantic Pieces, Op.101 (Sibelius, Jean)
+  year: 1924
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Romantic_Pieces%2C_Op.101_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

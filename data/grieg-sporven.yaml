@@ -1,0 +1,15 @@
+id: grieg-sporven
+work:
+  composer: Grieg, Edvard
+  title: Sporven
+  ids:
+    imslp: Sporven, EG 152d (Grieg, Edvard)
+  year: 1895
+formula: ''
+instrumentation:
+  additional_raw: female choir or voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sporven%2C_EG_152d_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: female choir or voice and piano'

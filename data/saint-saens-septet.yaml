@@ -1,0 +1,20 @@
+id: saint-saens-septet
+work:
+  composer: Saint-Saëns, Camille
+  title: Septet
+  ids:
+    imslp: Septet, Op.65 (Saint-Saëns, Camille)
+  year: 1879
+formula: 0000 0100 pf
+instrumentation:
+  trumpet: 1
+  keyboards:
+  - instrument: piano
+  soloists:
+  - bass
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Septet%2C_Op.65_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: trumpet, 2 violins, viola, cello, bass, piano'

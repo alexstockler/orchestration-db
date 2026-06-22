@@ -1,0 +1,16 @@
+id: saint-saens-string-quartet-no-1
+work:
+  composer: Saint-Saëns, Camille
+  title: String Quartet No.1
+  ids:
+    imslp: String Quartet No.1, Op.112 (Saint-Saëns, Camille)
+  year: 1899
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.1%2C_Op.112_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 30

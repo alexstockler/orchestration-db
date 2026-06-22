@@ -1,0 +1,18 @@
+id: saint-saens-violin-sonata-in-b-flat-major
+work:
+  composer: Saint-Saëns, Camille
+  title: Violin Sonata in B-flat major
+  ids:
+    imslp: Violin Sonata in B-flat major (Saint-Saëns, Camille)
+  year: 1841
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_in_B-flat_major_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 7

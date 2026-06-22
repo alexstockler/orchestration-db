@@ -1,0 +1,18 @@
+id: bruckner-st-ndchen
+work:
+  composer: Bruckner, Anton
+  title: Ständchen
+  ids:
+    imslp: Ständchen, WAB 84.2 (Bruckner, Anton)
+  year: 1846
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/St%C3%A4ndchen%2C_WAB_84.2_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: tenor, male chorus (TTBB)'
+duration_minutes: 5

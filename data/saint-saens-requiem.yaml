@@ -1,0 +1,28 @@
+id: saint-saens-requiem
+work:
+  composer: Saint-Saëns, Camille
+  title: Requiem
+  ids:
+    imslp: Requiem, Op.54 (Saint-Saëns, Camille)
+  year: 1878
+formula: 4 4[1.2.Eh.Eh] 0 4 4040 4hp str
+instrumentation:
+  flute: 4
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  - instrument: english_horn
+  bassoon: 4
+  horn: 4
+  trombone: 4
+  harp: 4
+  strings: str
+  additional_raw: grand organ | organ accompaniment
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Requiem%2C_Op.54_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 flutes, 2 oboes, 2 English horns, 4 bassoons, 4 horns,
+    4 trombones, grand organ, organ accompaniment, 4 harps, strings'
+duration_minutes: 40

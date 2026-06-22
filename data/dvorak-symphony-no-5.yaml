@@ -1,0 +1,36 @@
+id: dvorak-symphony-no-5
+work:
+  composer: Dvořák, Antonín
+  title: Symphony No.5
+  ids:
+    imslp: Symphony No.5, Op.76 (Dvořák, Antonín)
+  year: 1875
+formula: 2222 4230 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+  strings: str
+  additional_raw: '*One of the clarinets doubles on bass clarinet for the solo in
+    the final movement | the first edition (in accordance with 19th century practice)
+    assigns this to the first part | the complete edition (in accordance with modern
+    practice) to the second part'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.5%2C_Op.76_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: 2, 2, 2d1, 2 - 4, 2, 3, 0, tmp, tgl, str :2 flutes, 2 oboes,
+    2 clarinets (1 also bass clarinet*), 2 bassoons, 4 horns, 2 trumpets, 3 trombones,
+    timpani, triangle, strings, *One of the clarinets doubles on bass clarinet for
+    the solo in the final movement; the first edition (in accordance with 19th century
+    practice) assigns this to the first part, the complete edition (in accordance
+    with modern practice) to the second part'
+duration_minutes: 40

@@ -1,0 +1,17 @@
+id: bruckner-steierm-rker
+work:
+  composer: Bruckner, Anton
+  title: Steiermärker
+  ids:
+    imslp: Steiermärker, WAB 122 (Bruckner, Anton)
+  year: 1850
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Steierm%C3%A4rker%2C_WAB_122_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 2

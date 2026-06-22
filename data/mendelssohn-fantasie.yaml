@@ -1,0 +1,17 @@
+id: mendelssohn-fantasie
+work:
+  composer: Mendelssohn, Felix
+  title: Fantasie
+  ids:
+    imslp: Fantasie, Op.28 (Mendelssohn, Felix)
+  year: 1833
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasie%2C_Op.28_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 14

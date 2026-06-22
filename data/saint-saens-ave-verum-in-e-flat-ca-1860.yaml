@@ -1,0 +1,15 @@
+id: saint-saens-ave-verum-in-e-flat-ca-1860
+work:
+  composer: Saint-Saëns, Camille
+  title: Ave Verum in E-flat (ca. 1860)
+  ids:
+    imslp: Ave verum in E-flat major (Saint-Saëns, Camille)
+  year: 1860
+formula: ''
+instrumentation:
+  additional_raw: SATB with organ (ad lib.)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_verum_in_E-flat_major_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB with organ (ad lib.)'

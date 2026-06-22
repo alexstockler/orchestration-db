@@ -1,0 +1,15 @@
+id: sibelius-lullaby-for-violin-and-kantele
+work:
+  composer: Sibelius, Jean
+  title: Lullaby for Violin and Kantele
+  ids:
+    imslp: Lullaby for Violin and Kantele, JS 222 (Sibelius, Jean)
+  year: 1899
+formula: ''
+instrumentation:
+  additional_raw: Violin and Kantele
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lullaby_for_Violin_and_Kantele%2C_JS_222_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin and Kantele'

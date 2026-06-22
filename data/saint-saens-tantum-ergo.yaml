@@ -1,0 +1,25 @@
+id: saint-saens-tantum-ergo
+work:
+  composer: Saint-Saëns, Camille
+  title: Tantum ergo
+  ids:
+    imslp: Tantum ergo, Op.5 (Saint-Saëns, Camille)
+  year: 1856
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - 8 voices
+  - 8 voices
+  - 8 voices
+  - 8 voices
+  - 8 voices
+  - 8 voices
+  - 8 voices
+  - 8 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tantum_ergo%2C_Op.5_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: 8 voices (SSAATTBB), organ'

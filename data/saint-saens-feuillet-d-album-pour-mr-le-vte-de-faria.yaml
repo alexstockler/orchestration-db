@@ -1,0 +1,16 @@
+id: saint-saens-feuillet-d-album-pour-mr-le-vte-de-faria
+work:
+  composer: Saint-Saëns, Camille
+  title: Feuillet d'album pour Mr. le Vte de Faria
+  ids:
+    imslp: Feuillet d'album pour Mr. le Vte de Faria (Saint-Saëns, Camille)
+  year: 1909
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Feuillet_d%27album_pour_Mr._le_Vte_de_Faria_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

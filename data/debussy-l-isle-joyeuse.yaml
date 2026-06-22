@@ -1,0 +1,16 @@
+id: debussy-l-isle-joyeuse
+work:
+  composer: Debussy, Claude
+  title: L'isle joyeuse
+  ids:
+    imslp: L'isle joyeuse, CD 109 (Debussy, Claude)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27isle_joyeuse%2C_CD_109_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 7

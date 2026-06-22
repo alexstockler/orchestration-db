@@ -1,0 +1,33 @@
+id: sibelius-lemmink-inen-s-return
+work:
+  composer: Sibelius, Jean
+  title: Lemminkäinen's Return
+  ids:
+    imslp: Lemminkäinen's Return, Op.22 No.4 (Sibelius, Jean)
+  year: 1895
+formula: 2[pic.pic] 2 2 2 4331 str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - instrument: piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    instruments:
+    - bass drum
+    - cymbals
+    - tambourine
+    - triangle
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lemmink%C3%A4inen%27s_Return%2C_Op.22_No.4_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 piccolos, 2 oboes, 2 clarinets, 2 bassoons, 4 horns,
+    3 trumpets, 3 trombones, tuba, bass drum, cymbals, tambourine, triangle, strings'
+duration_minutes: 7

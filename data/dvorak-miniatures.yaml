@@ -1,0 +1,16 @@
+id: dvorak-miniatures
+work:
+  composer: Dvořák, Antonín
+  title: Miniatures
+  ids:
+    imslp: Miniatures, Op.75a (Dvořák, Antonín)
+  year: 1887
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Miniatures%2C_Op.75a_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola'
+duration_minutes: 15

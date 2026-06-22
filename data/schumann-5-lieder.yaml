@@ -1,0 +1,14 @@
+id: schumann-5-lieder
+work:
+  composer: Schumann, Robert
+  title: 5 Lieder
+  ids:
+    imslp: 5 Lieder, Op.55 (Schumann, Robert)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Lieder%2C_Op.55_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

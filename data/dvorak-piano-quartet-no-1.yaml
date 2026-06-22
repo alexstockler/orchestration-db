@@ -1,0 +1,18 @@
+id: dvorak-piano-quartet-no-1
+work:
+  composer: Dvořák, Antonín
+  title: Piano Quartet No.1
+  ids:
+    imslp: Piano Quartet No.1, Op.23 (Dvořák, Antonín)
+  year: 1875
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quartet_No.1%2C_Op.23_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola, cello, piano'
+duration_minutes: 35

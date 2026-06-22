@@ -1,0 +1,16 @@
+id: dvorak-string-quartet-no-12
+work:
+  composer: Dvořák, Antonín
+  title: String Quartet No.12
+  ids:
+    imslp: String Quartet No.12, Op.96 (Dvořák, Antonín)
+  year: 1893
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.12%2C_Op.96_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 25

@@ -1,0 +1,40 @@
+id: bruckner-symphony-no-8
+work:
+  composer: Bruckner, Anton
+  title: Symphony No.8
+  ids:
+    imslp: Symphony No.8 in C minor, WAB 108 (Bruckner, Anton)
+  year: 1887
+formula: 3[1.2.3/pic] 3 3 3[1.2.3/cbn] 8331 tmp 3hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 3
+  clarinet: 3
+  bassoon:
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  horn: 8
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - triangle
+  harp: 3
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.8_in_C_minor%2C_WAB_108_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 3 oboes, 3 clarinets, 3 bassoons
+    (3rd also contrabassoon), 8 horns (5-8 also Wagner tubas), 3 trumpets, 3 trombones,
+    tuba, timpani, cymbals, triangle, 3 harps, strings'
+duration_minutes: 80

@@ -1,0 +1,15 @@
+id: grieg-sangerhilsen
+work:
+  composer: Grieg, Edvard
+  title: Sangerhilsen
+  ids:
+    imslp: Sangerhilsen, EG 170 (Grieg, Edvard)
+  year: 1883
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sangerhilsen%2C_EG_170_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus'

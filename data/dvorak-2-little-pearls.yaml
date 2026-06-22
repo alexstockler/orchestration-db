@@ -1,0 +1,17 @@
+id: dvorak-2-little-pearls
+work:
+  composer: Dvořák, Antonín
+  title: 2 Little Pearls
+  ids:
+    imslp: 2 Little Pearls, B.156 (Dvořák, Antonín)
+  year: 1887
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Little_Pearls%2C_B.156_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 2

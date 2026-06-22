@@ -1,0 +1,17 @@
+id: rimsky-korsakov-2-duets
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: 2 Duets
+  ids:
+    imslp: 2 Duets, Op.52 (Rimsky-Korsakov, Nikolay)
+  year: 1897
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Duets%2C_Op.52_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, piano'

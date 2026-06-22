@@ -1,0 +1,19 @@
+id: dvorak-from-a-bouquet-of-slavonic-folksongs
+work:
+  composer: Dvořák, Antonín
+  title: From a Bouquet of Slavonic Folksongs
+  ids:
+    imslp: From a Bouquet of Slavonic Folksongs, Op.43 (Dvořák, Antonín)
+  year: 1877
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/From_a_Bouquet_of_Slavonic_Folksongs%2C_Op.43_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB), piano 4-hands'
+duration_minutes: 8

@@ -1,0 +1,17 @@
+id: dvorak-ruske-pisne
+work:
+  composer: Dvořák, Antonín
+  title: Ruské Písně
+  ids:
+    imslp: Ruské Písně, B.603 (Dvořák, Antonín)
+  year: 1883
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rusk%C3%A9_P%C3%ADsn%C4%9B%2C_B.603_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SA), piano'

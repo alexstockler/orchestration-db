@@ -1,0 +1,18 @@
+id: mendelssohn-piano-sextet
+work:
+  composer: Mendelssohn, Felix
+  title: Piano Sextet
+  ids:
+    imslp: Piano Sextet, Op.110 (Mendelssohn, Felix)
+  year: 1824
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | 2 violas | cello | double bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sextet%2C_Op.110_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, 2 violas, cello, double bass, piano'
+duration_minutes: 32

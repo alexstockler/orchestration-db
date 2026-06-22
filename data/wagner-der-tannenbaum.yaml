@@ -1,0 +1,16 @@
+id: wagner-der-tannenbaum
+work:
+  composer: Wagner, Richard
+  title: Der Tannenbaum
+  ids:
+    imslp: Der Tannenbaum, WWV 50 (Wagner, Richard)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Tannenbaum%2C_WWV_50_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

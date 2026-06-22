@@ -1,0 +1,16 @@
+id: saint-saens-paraphrase-sur-gallia
+work:
+  composer: Saint-Saëns, Camille
+  title: Paraphrase sur Gallia
+  ids:
+    imslp: Paraphrase sur Gallia (Saint-Saëns, Camille)
+  year: 1879
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Paraphrase_sur_Gallia_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,71 @@
+id: rimsky-korsakov-night-on-mount-triglav
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: Night on Mount Triglav
+  ids:
+    imslp: Night on Mount Triglav (Rimsky-Korsakov, Nikolay)
+  year: 1899
+formula: 6[1.2/pic.3/pic.4/afl.pic.pic] 3[1.2/Eh.Eh] 6[1.2/Ebcl.3/Ebcl.bcl.Ebcl.Ebcl]
+  3[1.2.3/cbn] 6 3[1/pictpt.2.3] 3 1 tmp
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  - doublings:
+    - piccolo
+  - doublings:
+    - alto_flute
+  - instrument: piccolo
+  - instrument: piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - doublings:
+    - eflat_clarinet
+  - doublings:
+    - eflat_clarinet
+  - instrument: bass_clarinet
+  - instrument: eflat_clarinet
+  - instrument: eflat_clarinet
+  bassoon:
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  horn: 6
+  trumpet:
+  - doublings:
+    - piccolo_trumpet
+  - {}
+  - {}
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - glockenspiel
+    - xylophone
+    - triangle
+    - tambourine
+    - cymbals
+    - bass drum
+  additional_raw: tam-tam1 | organ (ad lib.) 3 harps | strings Offstage Instruments
+    | 2 pan flutes | 8-10 lyres | piccolo timpanum
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Night_on_Mount_Triglav_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: Stage Orchestra :4 flutes (2nd and 3rd also piccolos, 4th
+    also alto flute) ::2 oboes (2nd also English horn), English horn ::3 clarinets
+    (2nd and 3rd also piccolo clarinets), bass clarinet ::3 bassoons (3rd also contrabassoon)
+    :6 horns, 3 trumpets (1st also piccolo trumpet), 3 trombones, tuba :timpani (3
+    players), glockenspiel, xylophone, triangle ::tambourine, cymbals, bass drum,
+    tam-tam1 :organ (ad lib.) 3 harps, strings Offstage Instruments :2 pan flutes,
+    2 piccolos, 2 piccolo clarinets, 8-10 lyres :piccolo timpanum, tambourine, cymbals,
+    bass drum'
+duration_minutes: 25

@@ -1,0 +1,37 @@
+id: debussy-la-bo-te-joujoux
+work:
+  composer: Debussy, Claude
+  title: La boîte à joujoux
+  ids:
+    imslp: La boîte à joujoux, CD 136 (Debussy, Claude)
+  year: 1913
+formula: 2[1.2/pic] 3[1.2.Eh] 2 2 2200 tmp+2 cel pf 2hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+    players: 2
+  keyboards:
+  - instrument: celesta
+  - instrument: piano
+  harp: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_bo%C3%AEte_%C3%A0_joujoux%2C_CD_136_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: 2d1, 2+1, 2, 2 - 2, 2, 0, 0, timp, 2perc, cel, pf, hp,
+    strs :2 flutes (2nd also piccolo), 2 oboes, English horn, 2 clarinets, 2 bassoons,
+    2 horns, 2 trumpets, timpani, harp, 2 percussion, celesta, piano, harp, strings'
+duration_minutes: 30

@@ -1,0 +1,18 @@
+id: mendelssohn-o-beata-et-benedicta
+work:
+  composer: Mendelssohn, Felix
+  title: O beata et benedicta
+  ids:
+    imslp: O beata et benedicta, MWV B 22 (Mendelssohn, Felix)
+  year: 1830
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_beata_et_benedicta%2C_MWV_B_22_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SSA), organ'
+duration_minutes: 3

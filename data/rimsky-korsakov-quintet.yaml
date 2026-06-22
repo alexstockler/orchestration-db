@@ -1,0 +1,20 @@
+id: rimsky-korsakov-quintet
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: Quintet
+  ids:
+    imslp: Quintet in B-flat major (Rimsky-Korsakov, Nikolay)
+  year: 1876
+formula: 1011 1000 pf
+instrumentation:
+  flute: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Quintet_in_B-flat_major_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, clarinet, bassoon, horn, piano'

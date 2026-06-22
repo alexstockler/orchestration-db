@@ -1,0 +1,16 @@
+id: schumann-an-alexis
+work:
+  composer: Schumann, Robert
+  title: An Alexis
+  ids:
+    imslp: An Alexis, H/K WoO 4 (Schumann, Robert)
+  year: 1858
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_Alexis%2C_H/K_WoO_4_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

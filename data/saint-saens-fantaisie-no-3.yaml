@@ -1,0 +1,17 @@
+id: saint-saens-fantaisie-no-3
+work:
+  composer: Saint-Saëns, Camille
+  title: Fantaisie No.3
+  ids:
+    imslp: Fantaisie No.3, Op.157 (Saint-Saëns, Camille)
+  year: 1919
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantaisie_No.3%2C_Op.157_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 15

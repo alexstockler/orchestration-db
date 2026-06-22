@@ -1,0 +1,17 @@
+id: debussy-ariettes-oubli-es
+work:
+  composer: Debussy, Claude
+  title: Ariettes oubliées
+  ids:
+    imslp: Ariettes oubliées, CD 63 (Debussy, Claude)
+  year: 1885
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ariettes_oubli%C3%A9es%2C_CD_63_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

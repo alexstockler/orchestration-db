@@ -1,0 +1,16 @@
+id: mendelssohn-string-symphony-no-3-in-e-minor
+work:
+  composer: Mendelssohn, Felix
+  title: String Symphony No.3 in E minor
+  ids:
+    imslp: String Symphony No.3 in E minor, MWV N 3 (Mendelssohn, Felix)
+  year: 1821
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Symphony_No.3_in_E_minor%2C_MWV_N_3_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'
+duration_minutes: 8

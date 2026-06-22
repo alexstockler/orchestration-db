@@ -1,0 +1,16 @@
+id: debussy-images-deuxi-me-s-rie
+work:
+  composer: Debussy, Claude
+  title: Images (Deuxième Série)
+  ids:
+    imslp: Images, 2e série, CD 120 (Debussy, Claude)
+  year: 1907
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Images%2C_2e_s%C3%A9rie%2C_CD_120_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

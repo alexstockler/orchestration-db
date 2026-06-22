@@ -1,0 +1,16 @@
+id: bruckner-tantum-ergo
+work:
+  composer: Bruckner, Anton
+  title: Tantum ergo
+  ids:
+    imslp: Tantum ergo, WAB 32 (Bruckner, Anton)
+  year: 1845
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tantum_ergo%2C_WAB_32_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 4

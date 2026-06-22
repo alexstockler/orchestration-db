@@ -1,0 +1,31 @@
+id: dvorak-stabat-mater
+work:
+  composer: Dvořák, Antonín
+  title: Stabat mater
+  ids:
+    imslp: Stabat Mater, Op.58 (Dvořák, Antonín)
+  year: 1876
+formula: 2222 4231 tmp org str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: organ
+  strings: str
+  additional_raw: English horn*
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Stabat_Mater%2C_Op.58_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo Voices (soprano, alto, tenor, bass), Mixed chorus
+    (SATB), Orchestra :2 flutes, 2 oboes, English horn*, 2 clarinets, 2 bassoons,
+    4 horns, 2 trumpets, 3 trombones, tuba, timpani, organ, strings'
+duration_minutes: 85

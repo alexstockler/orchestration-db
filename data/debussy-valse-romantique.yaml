@@ -1,0 +1,16 @@
+id: debussy-valse-romantique
+work:
+  composer: Debussy, Claude
+  title: Valse Romantique
+  ids:
+    imslp: Valse romantique, CD 79 (Debussy, Claude)
+  year: 1890
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Valse_romantique%2C_CD_79_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

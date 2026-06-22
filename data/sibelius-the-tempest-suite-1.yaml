@@ -1,0 +1,35 @@
+id: sibelius-the-tempest-suite-1
+work:
+  composer: Sibelius, Jean
+  title: The Tempest, Suite 1
+  ids:
+    imslp: The Tempest, Suite 1, Op.109 No.2 (Sibelius, Jean)
+  year: 1925
+formula: 3 2 3[1.2.bcl] 2 4331 tmp+1 hp str
+instrumentation:
+  flute: 3
+  oboe: 2
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+  harp: 1
+  strings: str
+  additional_raw: 'unknown doubling in clarinet: e-flat clarinet-flat'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Tempest%2C_Suite_1%2C_Op.109_No.2_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: :3 flutes (all also piccolo), 2 oboes, 2 clarinets (2nd
+    also E-flat), bass clarinet, 2 bassoons, 4 horns, 3 trumpets, 3 trombones, tuba,
+    timpani, percussion (bass drum, cymbals, snare drum, tambourine, triangle, xylophone),
+    harp, strings'
+duration_minutes: 23

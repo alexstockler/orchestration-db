@@ -1,0 +1,27 @@
+id: saint-saens-praise-ye-the-lord
+work:
+  composer: Saint-Saëns, Camille
+  title: Praise Ye the Lord
+  ids:
+    imslp: Praise Ye the Lord, Op.127 (Saint-Saëns, Camille)
+  year: 1908
+formula: 0 2 3 3[1.2.cbn] 4000
+instrumentation:
+  oboe: 2
+  clarinet: 3
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  additional_raw: Double choir | organ and orchestra (3 flutes (2 flutes, piccolo)
+    | 5 trumpets (1 in D/4 in C), 2 trombones, 2 tambourines, triangle, cymbals, 4
+    harps, timpani, strings)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Praise_Ye_the_Lord%2C_Op.127_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Double choir, organ and orchestra (3 flutes (2 flutes,
+    piccolo), 2 oboes, 3 clarinets, 2 bassoons, contrabassoon, 4 horns, 5 trumpets
+    (1 in D/4 in C), 2 trombones, 2 tambourines, triangle, cymbals, 4 harps, timpani,
+    strings)'

@@ -1,0 +1,16 @@
+id: bruckner-asperges-me
+work:
+  composer: Bruckner, Anton
+  title: Asperges me
+  ids:
+    imslp: Asperges me, WAB 4 (Bruckner, Anton)
+  year: 1843
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Asperges_me%2C_WAB_4_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 2

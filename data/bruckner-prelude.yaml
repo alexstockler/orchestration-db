@@ -1,0 +1,16 @@
+id: bruckner-prelude
+work:
+  composer: Bruckner, Anton
+  title: Prelude
+  ids:
+    imslp: Prélude in D minor, WAB 126/2 (Bruckner, Anton)
+  year: 1846
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pr%C3%A9lude_in_D_minor%2C_WAB_126/2_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

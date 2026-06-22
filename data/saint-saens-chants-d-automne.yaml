@@ -1,0 +1,15 @@
+id: saint-saens-chants-d-automne
+work:
+  composer: Saint-Saëns, Camille
+  title: Chants d'automne
+  ids:
+    imslp: Chants d'automne, Op.113 (Saint-Saëns, Camille)
+  year: 1899
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chants_d%27automne%2C_Op.113_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBarB)'

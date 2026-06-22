@@ -1,0 +1,16 @@
+id: dvorak-question
+work:
+  composer: Dvořák, Antonín
+  title: Question
+  ids:
+    imslp: Question, B.128a (Dvořák, Antonín)
+  year: 1882
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Question%2C_B.128a_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

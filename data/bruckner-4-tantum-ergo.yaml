@@ -1,0 +1,19 @@
+id: bruckner-4-tantum-ergo
+work:
+  composer: Bruckner, Anton
+  title: 4 Tantum ergo
+  ids:
+    imslp: 4 Tantum ergo, WAB 41 (Bruckner, Anton)
+  year: 1846
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+  additional_raw: Version 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Tantum_ergo%2C_WAB_41_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Version 1: mixed chorus (SATB), organ (ad lib.) (1846),
+    Version 2: mixed chorus (SATB) (a cappella) (1888)'

@@ -1,0 +1,43 @@
+id: sibelius-stormen-der-sturm-the-tempest
+work:
+  composer: Sibelius, Jean
+  title: Stormen ; Der Sturm ; The Tempest
+  ids:
+    imslp: The Tempest, JS 182 (Sibelius, Jean)
+  year: 1925
+formula: 3 2 3[1.2.3/db] 2 4331 tmp+1 harm hp str
+instrumentation:
+  flute: 3
+  oboe: 2
+  clarinet:
+  - {}
+  - {}
+  - doublings:
+    - double_bass
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+  keyboards:
+  - instrument: harmonium
+  harp: 1
+  strings: str
+  additional_raw: 'Juno (soprano) | Ariel (mezzo-soprano) | Stephano (tenor) | Trinculo
+    (baritone) | Caliban (baritone) Chorus (SATB) | unknown doubling in clarinet:
+    e-flat clarinet-flat'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Tempest%2C_JS_182_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: 3d2, 2, 3d2 (Eb cbs) 2 - 4, 3, 3, 1, timp, perc, harm,
+    hp, strs Cast :Juno (soprano), Ariel (mezzo-soprano), Stephano (tenor), Trinculo
+    (baritone), Caliban (baritone) Chorus (SATB) :3 flutes (2, 3 also piccolo), 2
+    oboes, 3 clarinets (1st also E-flat, 3rd also contrabass), 2 bassoons, 4 horns,
+    3 trumpets, 3 trombones, tuba, timpani, percussion (cymbals, bass drum, snare
+    drum, castanets, triangle, field drum, glockenspiel, tambourine), harmonium, harp,
+    strings'
+duration_minutes: 70

@@ -1,0 +1,16 @@
+id: sibelius-6-pieces-for-piano
+work:
+  composer: Sibelius, Jean
+  title: 6 Pieces for Piano
+  ids:
+    imslp: 6 Pieces for Piano, Op.94 (Sibelius, Jean)
+  year: 1914
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Pieces_for_Piano%2C_Op.94_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

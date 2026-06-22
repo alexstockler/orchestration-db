@@ -1,0 +1,14 @@
+id: grieg-impromptu
+work:
+  composer: Grieg, Edvard
+  title: Impromptu
+  ids:
+    imslp: Impromptu, EG 175 (Grieg, Edvard)
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Impromptu%2C_EG_175_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus'

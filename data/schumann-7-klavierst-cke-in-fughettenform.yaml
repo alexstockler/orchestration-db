@@ -1,0 +1,15 @@
+id: schumann-7-klavierst-cke-in-fughettenform
+work:
+  composer: Schumann, Robert
+  title: 7 Klavierstücke in Fughettenform
+  ids:
+    imslp: 7 Klavierstücke in Fughettenform, Op.126 (Schumann, Robert)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Klavierst%C3%BCcke_in_Fughettenform%2C_Op.126_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

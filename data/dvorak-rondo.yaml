@@ -1,0 +1,24 @@
+id: dvorak-rondo
+work:
+  composer: Dvořák, Antonín
+  title: Rondo
+  ids:
+    imslp: Rondo, Op.94 (Dvořák, Antonín)
+  year: 1891
+formula: 0202 0000 tmp pf str
+instrumentation:
+  oboe: 2
+  bassoon: 2
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: piano
+  strings: str
+  additional_raw: B.171 | cello | B.181 | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rondo%2C_Op.94_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: B.171: cello, piano, B.181: cello, 2 oboes, 2 bassoons,
+    timpani, strings'
+duration_minutes: 7

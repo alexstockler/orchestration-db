@@ -1,0 +1,16 @@
+id: mendelssohn-6-sonatas-for-organ
+work:
+  composer: Mendelssohn, Felix
+  title: 6 Sonatas for Organ
+  ids:
+    imslp: 6 Organ Sonatas, Op.65 (Mendelssohn, Felix)
+  year: 1829
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Organ_Sonatas%2C_Op.65_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

@@ -1,0 +1,18 @@
+id: saint-saens-la-francaise
+work:
+  composer: Saint-Saëns, Camille
+  title: La Française
+  ids:
+    imslp: La Française (Saint-Saëns, Camille)
+  year: 1915
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_Fran%C3%A7aise_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

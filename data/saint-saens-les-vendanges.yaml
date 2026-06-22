@@ -1,0 +1,17 @@
+id: saint-saens-les-vendanges
+work:
+  composer: Saint-Saëns, Camille
+  title: Les vendanges
+  ids:
+    imslp: Les vendanges (Saint-Saëns, Camille)
+  year: 1898
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_vendanges_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, orchestra'
+duration_minutes: 3

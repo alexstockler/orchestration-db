@@ -1,0 +1,16 @@
+id: dvorak-5-sboru-pro-muzske-hlasy
+work:
+  composer: Dvořák, Antonín
+  title: 5 Sborů pro mužské hlasy
+  ids:
+    imslp: 5 Sboru pro muzské hlasy, B.87 (Dvořák, Antonín)
+  year: 1878
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Sboru_pro_muzsk%C3%A9_hlasy%2C_B.87_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'
+duration_minutes: 13

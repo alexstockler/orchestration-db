@@ -1,0 +1,18 @@
+id: saint-saens-romance
+work:
+  composer: Saint-Saëns, Camille
+  title: Romance
+  ids:
+    imslp: Romance, Op.27 (Saint-Saëns, Camille)
+  year: 1866
+formula: pf harm
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: harmonium
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romance%2C_Op.27_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano, harmonium'

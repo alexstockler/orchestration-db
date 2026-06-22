@@ -1,0 +1,16 @@
+id: saint-saens-3-morceaux
+work:
+  composer: Saint-Saëns, Camille
+  title: 3 Morceaux
+  ids:
+    imslp: 3 Morceaux, Op.1 (Saint-Saëns, Camille)
+  year: 1852
+formula: harm
+instrumentation:
+  keyboards:
+  - instrument: harmonium
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Morceaux%2C_Op.1_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: harmonium'

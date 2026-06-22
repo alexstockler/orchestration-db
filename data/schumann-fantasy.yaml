@@ -1,0 +1,16 @@
+id: schumann-fantasy
+work:
+  composer: Schumann, Robert
+  title: Fantasy
+  ids:
+    imslp: Fantasie, Op.17 (Schumann, Robert)
+  year: 1836
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasie%2C_Op.17_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

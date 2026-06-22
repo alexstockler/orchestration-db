@@ -1,0 +1,87 @@
+id: wagner-die-meistersinger-von-n-rnberg
+work:
+  composer: Wagner, Richard
+  title: Die Meistersinger von Nürnberg
+  ids:
+    imslp: Die Meistersinger von Nürnberg, WWV 96 (Wagner, Richard)
+  year: 1862
+formula: 3[pic.2.3] 2 2 2 5431 tmp org hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 5
+  trumpet: 4
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - snare drum
+    - triangle
+    - cymbals
+    - glockenspiel
+  keyboards:
+  - instrument: organ
+  harp: 1
+  strings: str
+  soloists:
+  - Eva
+  - Pogner's daughter (soprano)
+  - Magdalena
+  - Eva's nurse (mezzo-soprano)
+  - Walther von Stolzing
+  - a young knight from Franconia (heldentenor)
+  - David
+  - Sachs' apprentice (high character-tenor)
+  - A Nightwatchman (bass-baritone) Meistersingers :Augustin Moser
+  - tailor (tenor)
+  - Balthasar Zorn
+  - pewterer (tenor)
+  - Kunz Vogelgesang
+  - furrier (tenor)
+  - Ulrich Eisslinger
+  - grocer (tenor)
+  - Sixtus Beckmesser
+  - town clerk (baritone)
+  - Fritz Kothner
+  - baker (baritone)
+  - Hans Sachs
+  - cobbler (bass-baritone)
+  - Hans Foltz
+  - coppersmith (bass)
+  - Hans Schwarz
+  - stocking weaver (bass)
+  - Konrad Nachtigall
+  - tinsmith (bass)
+  - Hermann Ortel
+  - soapmaker (bass)
+  - Veit Pogner
+  - goldsmith (bass) Mixed Chorus (SATB) :citizens of all guilds and their wives
+  - journeymen
+  - apprentices
+  - young women
+  - people of Nuremberg
+  additional_raw: drums | lute
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Meistersinger_von_N%C3%BCrnberg%2C_WWV_96_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Eva, Pogner''s daughter (soprano), Magdalena, Eva''s
+    nurse (mezzo-soprano), Walther von Stolzing, a young knight from Franconia (heldentenor),
+    David, Sachs'' apprentice (high character-tenor), A Nightwatchman (bass-baritone)
+    Meistersingers :Augustin Moser, tailor (tenor), Balthasar Zorn, pewterer (tenor),
+    Kunz Vogelgesang, furrier (tenor), Ulrich Eisslinger, grocer (tenor), Sixtus Beckmesser,
+    town clerk (baritone), Fritz Kothner, baker (baritone), Hans Sachs, cobbler (bass-baritone),
+    Hans Foltz, coppersmith (bass), Hans Schwarz, stocking weaver (bass), Konrad Nachtigall,
+    tinsmith (bass), Hermann Ortel, soapmaker (bass), Veit Pogner, goldsmith (bass)
+    Mixed Chorus (SATB) :citizens of all guilds and their wives, journeymen,, apprentices,
+    young women, people of Nuremberg Orchestra :piccolo, 2 flutes, 2 oboes, 2 clarinet,
+    2 bassoons, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, bass drum, snare
+    drum, triangle, cymbals, glockenspiel, harp, strings '' :trumpets, horns, drums,
+    organ, lute'

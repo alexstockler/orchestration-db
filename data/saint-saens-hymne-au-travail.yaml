@@ -1,0 +1,15 @@
+id: saint-saens-hymne-au-travail
+work:
+  composer: Saint-Saëns, Camille
+  title: Hymne au travail
+  ids:
+    imslp: Hymne au travail, Op.142 (Saint-Saëns, Camille)
+  year: 1913
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymne_au_travail%2C_Op.142_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBarB)'

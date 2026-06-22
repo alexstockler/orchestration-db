@@ -1,0 +1,27 @@
+id: debussy-cinq-po-mes-de-baudelaire
+work:
+  composer: Debussy, Claude
+  title: Cinq poèmes de Baudelaire
+  ids:
+    imslp: 5 Poèmes de Baudelaire, CD 70 (Debussy, Claude)
+  year: 1887
+formula: 3222 4200 cel 2hp str
+instrumentation:
+  flute: 3
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  keyboards:
+  - instrument: celesta
+  harp: 2
+  strings: str
+  additional_raw: 3 | Le jet d'eau (voice, orchestra)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Po%C3%A8mes_de_Baudelaire%2C_CD_70_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: 3. Le jet d''eau (voice, orchestra) :3 flutes, 2 oboes,
+    2 clarinets, 2 bassoons, 4 horns, 2 trumpets, celesta, 2 harps, strings'
+duration_minutes: 25

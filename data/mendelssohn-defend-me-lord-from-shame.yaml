@@ -1,0 +1,16 @@
+id: mendelssohn-defend-me-lord-from-shame
+work:
+  composer: Mendelssohn, Felix
+  title: Defend me, Lord, from shame
+  ids:
+    imslp: Defend Me, Lord, MWV B 32 (Mendelssohn, Felix)
+  year: 1839
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Defend_Me%2C_Lord%2C_MWV_B_32_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 1

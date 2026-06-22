@@ -1,0 +1,18 @@
+id: bruckner-iam-lucis-orto-sidere
+work:
+  composer: Bruckner, Anton
+  title: Iam lucis orto sidere
+  ids:
+    imslp: Iam lucis orto sidere, WAB 18 (Bruckner, Anton)
+  year: 1868
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+  additional_raw: '2 versions: | Version 1 (1868) | Version 2 (1886)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Iam_lucis_orto_sidere%2C_WAB_18_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 versions: :Version 1 (1868): mixed chorus (SATB), Version
+    2 (1886): male chorus (TTBB)'
+duration_minutes: 1

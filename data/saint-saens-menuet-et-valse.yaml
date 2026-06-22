@@ -1,0 +1,16 @@
+id: saint-saens-menuet-et-valse
+work:
+  composer: Saint-Saëns, Camille
+  title: Menuet et valse
+  ids:
+    imslp: Menuet et valse, Op.56 (Saint-Saëns, Camille)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Menuet_et_valse%2C_Op.56_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,21 @@
+id: saint-saens-une-nuit-a-lisbonne
+work:
+  composer: Saint-Saëns, Camille
+  title: Une nuit à Lisbonne
+  ids:
+    imslp: Une nuit à Lisbonne, Op.63 (Saint-Saëns, Camille)
+  year: 1880
+formula: 1111 2000 hp str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 2
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Une_nuit_%C3%A0_Lisbonne%2C_Op.63_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, clarinet, bassoon, 2 horns, harp, strings'

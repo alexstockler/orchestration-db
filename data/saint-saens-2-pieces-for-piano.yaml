@@ -1,0 +1,16 @@
+id: saint-saens-2-pieces-for-piano
+work:
+  composer: Saint-Saëns, Camille
+  title: 2 Pieces for Piano
+  ids:
+    imslp: 2 Piano Pieces (Saint-Saëns, Camille)
+  year: 1858
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Piano_Pieces_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

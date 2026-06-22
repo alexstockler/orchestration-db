@@ -1,0 +1,17 @@
+id: mendelssohn-12-ges-nge
+work:
+  composer: Mendelssohn, Felix
+  title: 12 Gesänge
+  ids:
+    imslp: 12 Gesänge, Op.8 (Mendelssohn, Felix)
+  year: 1824
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Ges%C3%A4nge%2C_Op.8_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano (No.12 = 2 voices, piano)'

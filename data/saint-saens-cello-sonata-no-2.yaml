@@ -1,0 +1,18 @@
+id: saint-saens-cello-sonata-no-2
+work:
+  composer: Saint-Saëns, Camille
+  title: Cello Sonata No.2
+  ids:
+    imslp: Cello Sonata No.2, Op.123 (Saint-Saëns, Camille)
+  year: 1905
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Sonata_No.2%2C_Op.123_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'
+duration_minutes: 30

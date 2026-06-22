@@ -1,0 +1,25 @@
+id: mendelssohn-capriccio-brillant
+work:
+  composer: Mendelssohn, Felix
+  title: Capriccio brillant
+  ids:
+    imslp: Capriccio brillant, Op.22 (Mendelssohn, Felix)
+  year: 1832
+formula: 2222 2200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Capriccio_brillant%2C_Op.22_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2
+    trumpets, timpani, strings'
+duration_minutes: 11

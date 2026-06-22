@@ -1,0 +1,16 @@
+id: schumann-albumbl-tter
+work:
+  composer: Schumann, Robert
+  title: Albumblätter
+  ids:
+    imslp: Albumblätter, Op.124 (Schumann, Robert)
+  year: 1832
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Albumbl%C3%A4tter%2C_Op.124_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

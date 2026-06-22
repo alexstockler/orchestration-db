@@ -1,0 +1,17 @@
+id: schumann-6-gedichte-von-n-lenau-und-requiem
+work:
+  composer: Schumann, Robert
+  title: 6 Gedichte von N. Lenau und Requiem
+  ids:
+    imslp: 6 Gedichte von N. Lenau und Requiem, Op.90 (Schumann, Robert)
+  year: 1850
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Gedichte_von_N._Lenau_und_Requiem%2C_Op.90_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

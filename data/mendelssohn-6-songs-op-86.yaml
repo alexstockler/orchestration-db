@@ -1,0 +1,15 @@
+id: mendelssohn-6-songs-op-86
+work:
+  composer: Mendelssohn, Felix
+  title: 6 Songs, Op.86
+  ids:
+    imslp: 6 Gesänge, Op.86 (Mendelssohn, Felix)
+  year: 1826
+formula: ''
+instrumentation:
+  additional_raw: voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Ges%C3%A4nge%2C_Op.86_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: voice and piano'

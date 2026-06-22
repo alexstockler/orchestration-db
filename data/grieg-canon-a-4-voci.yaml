@@ -1,0 +1,15 @@
+id: grieg-canon-a-4-voci
+work:
+  composer: Grieg, Edvard
+  title: Canon a 4 voci
+  ids:
+    imslp: Canon a 4 voci, EG 179 (Grieg, Edvard)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canon_a_4_voci%2C_EG_179_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

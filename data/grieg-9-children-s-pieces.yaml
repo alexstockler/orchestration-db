@@ -1,0 +1,15 @@
+id: grieg-9-children-s-pieces
+work:
+  composer: Grieg, Edvard
+  title: 9 Children's Pieces
+  ids:
+    imslp: 9 Children's Pieces, EG 103 (Grieg, Edvard)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/9_Children%27s_Pieces%2C_EG_103_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

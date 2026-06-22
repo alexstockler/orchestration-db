@@ -1,0 +1,31 @@
+id: dvorak-psalm-149
+work:
+  composer: Dvořák, Antonín
+  title: Psalm 149
+  ids:
+    imslp: Psalm 149, Op.79 (Dvořák, Antonín)
+  year: 1879
+formula: 4444 8462 tmp str
+instrumentation:
+  flute: 4
+  oboe: 4
+  clarinet: 4
+  bassoon: 4
+  horn: 8
+  trumpet: 4
+  trombone: 6
+  tuba: 2
+  percussion:
+    timpani: 1
+  strings: str
+  chorus_raw: mixed choir
+  additional_raw: B.91 | B.154
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Psalm_149%2C_Op.79_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: B.91: Male Choir (TTBB), 2 Flutes, 2 Oboes, 2 Clarinets,
+    2 Bassoons,, 4 Horns, 2 Trumpets, 3 Trombones, Tuba, Timpani, Strings, B.154:
+    Mixed Choir (SATB), 2 Flutes, 2 Oboes, 2 Clarinets, 2 Bassoons,, 4 Horns, 2 Trumpets,
+    3 Trombones, Tuba, Timpani, Strings'
+duration_minutes: 10

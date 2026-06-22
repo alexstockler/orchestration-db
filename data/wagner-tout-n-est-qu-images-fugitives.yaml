@@ -1,0 +1,14 @@
+id: wagner-tout-n-est-qu-images-fugitives
+work:
+  composer: Wagner, Richard
+  title: Tout n'est qu'images fugitives
+  ids:
+    imslp: Tout n'est qu'images fugitives, WWV 58 (Wagner, Richard)
+formula: ''
+instrumentation:
+  additional_raw: Voice and Piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tout_n%27est_qu%27images_fugitives%2C_WWV_58_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

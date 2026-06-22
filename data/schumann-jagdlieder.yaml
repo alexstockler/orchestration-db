@@ -1,0 +1,16 @@
+id: schumann-jagdlieder
+work:
+  composer: Schumann, Robert
+  title: Jagdlieder
+  ids:
+    imslp: Jagdlieder, Op.137 (Schumann, Robert)
+  year: 1849
+formula: 0000 4000
+instrumentation:
+  horn: 4
+  additional_raw: male-chorus (TTBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jagdlieder%2C_Op.137_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: male-chorus (TTBB), 4 horns (ad lib.)'

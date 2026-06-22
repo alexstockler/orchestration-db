@@ -1,0 +1,16 @@
+id: wagner-polka-in-g-major
+work:
+  composer: Wagner, Richard
+  title: Polka in G major
+  ids:
+    imslp: Polka, WWV 84 (Wagner, Richard)
+  year: 1853
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Polka%2C_WWV_84_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

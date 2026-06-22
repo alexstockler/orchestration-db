@@ -1,0 +1,18 @@
+id: saint-saens-la-cendre-rouge
+work:
+  composer: Saint-Saëns, Camille
+  title: La cendre rouge
+  ids:
+    imslp: La cendre rouge, Op.146 (Saint-Saëns, Camille)
+  year: 1914
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_cendre_rouge%2C_Op.146_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'

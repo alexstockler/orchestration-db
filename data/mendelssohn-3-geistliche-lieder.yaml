@@ -1,0 +1,19 @@
+id: mendelssohn-3-geistliche-lieder
+work:
+  composer: Mendelssohn, Felix
+  title: 3 Geistliche Lieder
+  ids:
+    imslp: 3 Geistliche Lieder, WoO 14 (Mendelssohn, Felix)
+  year: 1840
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - alto
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Geistliche_Lieder%2C_WoO_14_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, mixed chorus (SATB), organ'

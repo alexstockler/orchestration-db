@@ -1,0 +1,16 @@
+id: grieg-gentleman-song
+work:
+  composer: Grieg, Edvard
+  title: Gentleman Song
+  ids:
+    imslp: Gentleman song, EG 156 (Grieg, Edvard)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gentleman_song%2C_EG_156_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

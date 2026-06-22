@@ -1,0 +1,18 @@
+id: dvorak-bagatelles
+work:
+  composer: Dvořák, Antonín
+  title: Bagatelles
+  ids:
+    imslp: Bagatelles, Op.47 (Dvořák, Antonín)
+  year: 1878
+formula: harm
+instrumentation:
+  keyboards:
+  - instrument: harmonium
+  additional_raw: 2 violins | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bagatelles%2C_Op.47_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, cello, harmonium (or piano)'
+duration_minutes: 18

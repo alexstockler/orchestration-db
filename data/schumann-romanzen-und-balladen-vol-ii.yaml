@@ -1,0 +1,17 @@
+id: schumann-romanzen-und-balladen-vol-ii
+work:
+  composer: Schumann, Robert
+  title: Romanzen und Balladen, Vol.II
+  ids:
+    imslp: Romanzen und Balladen, Vol.II, Op.49 (Schumann, Robert)
+  year: 1840
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romanzen_und_Balladen%2C_Vol.II%2C_Op.49_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

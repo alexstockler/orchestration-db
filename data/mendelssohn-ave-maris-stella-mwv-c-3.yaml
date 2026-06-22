@@ -1,0 +1,21 @@
+id: mendelssohn-ave-maris-stella-mwv-c-3
+work:
+  composer: Mendelssohn, Felix
+  title: Ave maris stella, MWV C 3
+  ids:
+    imslp: Ave maris stella (Mendelssohn, Felix)
+  year: 1828
+formula: 1000 2000
+instrumentation:
+  flute: 1
+  horn: 2
+  soloists:
+  - soprano
+  additional_raw: 2 violins | viola | bassi (cello, double bass and organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_maris_stella_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, flute, 2 horns, 2 violins, viola, bassi (cello,
+    double bass and organ)'
+duration_minutes: 8

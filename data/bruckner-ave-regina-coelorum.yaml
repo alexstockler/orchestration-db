@@ -1,0 +1,17 @@
+id: bruckner-ave-regina-coelorum
+work:
+  composer: Bruckner, Anton
+  title: Ave Regina coelorum
+  ids:
+    imslp: Ave Regina caelorum, WAB 8 (Bruckner, Anton)
+  year: 1886
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  additional_raw: unison chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_Regina_caelorum%2C_WAB_8_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: unison chorus, organ'

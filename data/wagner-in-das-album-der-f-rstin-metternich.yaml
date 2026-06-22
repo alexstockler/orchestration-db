@@ -1,0 +1,16 @@
+id: wagner-in-das-album-der-f-rstin-metternich
+work:
+  composer: Wagner, Richard
+  title: In das Album der Fürstin Metternich
+  ids:
+    imslp: In das Album der Fürstin Metternich, WWV 94 (Wagner, Richard)
+  year: 1861
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_das_Album_der_F%C3%BCrstin_Metternich%2C_WWV_94_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

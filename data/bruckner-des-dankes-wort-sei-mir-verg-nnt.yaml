@@ -1,0 +1,18 @@
+id: bruckner-des-dankes-wort-sei-mir-verg-nnt
+work:
+  composer: Bruckner, Anton
+  title: Des Dankes Wort sei mir vergönnt
+  ids:
+    imslp: Des Dankes Wort sei mir vergönnt, WAB 62 (Bruckner, Anton)
+  year: 1845
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  - bass
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Des_Dankes_Wort_sei_mir_verg%C3%B6nnt%2C_WAB_62_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: tenor, bass; male chorus (TTTBB)'

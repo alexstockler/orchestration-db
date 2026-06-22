@@ -1,0 +1,23 @@
+id: rimsky-korsakov-christmas-eve
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: Christmas Eve
+  ids:
+    imslp: Christmas Eve (opera) (Rimsky-Korsakov, Nikolay)
+  year: 1894
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: Cast | Empress / Царица (mezzo-soprano) | Mayor / Голова (baritone)
+    | Chub / Чуб (bass) | Oksana / Оксана (soprano) | Solokha / Солоха (contralto)
+    | Vakula / Вакула (tenor) | Panas / Панас (bass) | Deacon / Дьяк (tenor) | Patsyuk
+    / Пацюк (bass) | Devil / Чёрт (tenor) | Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Christmas_Eve_%28opera%29_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra :Cast ::Empress / Царица
+    (mezzo-soprano), Mayor / Голова (baritone), Chub / Чуб (bass), Oksana / Оксана
+    (soprano), Solokha / Солоха (contralto), Vakula / Вакула (tenor), Panas / Панас
+    (bass), Deacon / Дьяк (tenor), Patsyuk / Пацюк (bass), Devil / Чёрт (tenor) :Mixed
+    Chorus (SATB), Orchestra'

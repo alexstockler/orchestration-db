@@ -1,0 +1,17 @@
+id: saint-saens-duo-for-2-pianos
+work:
+  composer: Saint-Saëns, Camille
+  title: Duo for 2 pianos
+  ids:
+    imslp: Duo for 2 Pianos, Op.8bis (Saint-Saëns, Camille)
+  year: 1858
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Duo_for_2_Pianos%2C_Op.8bis_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 pianos'

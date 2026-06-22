@@ -1,0 +1,17 @@
+id: bruckner-veni-creator-spiritus
+work:
+  composer: Bruckner, Anton
+  title: Veni creator spiritus
+  ids:
+    imslp: Veni creator spiritus, WAB 50 (Bruckner, Anton)
+  year: 1884
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  additional_raw: unison voice(s)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Veni_creator_spiritus%2C_WAB_50_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: unison voice(s), organ'

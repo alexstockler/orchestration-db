@@ -1,0 +1,17 @@
+id: dvorak-2-minuets
+work:
+  composer: Dvořák, Antonín
+  title: 2 Minuets
+  ids:
+    imslp: 2 Minuets, Op.28 (Dvořák, Antonín)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Minuets%2C_Op.28_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 13

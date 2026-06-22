@@ -1,0 +1,15 @@
+id: grieg-norwegian-peasant-dances
+work:
+  composer: Grieg, Edvard
+  title: Norwegian Peasant Dances
+  ids:
+    imslp: Norwegian Peasant Dances, Op.72 (Grieg, Edvard)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Norwegian_Peasant_Dances%2C_Op.72_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

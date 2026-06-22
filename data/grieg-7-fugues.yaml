@@ -1,0 +1,16 @@
+id: grieg-7-fugues
+work:
+  composer: Grieg, Edvard
+  title: 7 Fugues
+  ids:
+    imslp: 7 Fugues, EG 184 (Grieg, Edvard)
+  year: 1861
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Fugues%2C_EG_184_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

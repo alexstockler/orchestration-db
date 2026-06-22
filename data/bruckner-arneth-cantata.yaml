@@ -1,0 +1,20 @@
+id: bruckner-arneth-cantata
+work:
+  composer: Bruckner, Anton
+  title: Arneth Cantata
+  ids:
+    imslp: Arneth Cantata, WAB 61 (Bruckner, Anton)
+  year: 1852
+formula: 0000 0 2 1[btbn] 0
+instrumentation:
+  trumpet: 2
+  trombone:
+  - instrument: bass_trombone
+  chorus_raw: mixed chorus
+  additional_raw: 'Brass Ensemble: 3 horns (D)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Arneth_Cantata%2C_WAB_61_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: mixed chorus (SATTBB), Brass Ensemble: 3 horns
+    (D), 2 trumpets (D), bass trombone'

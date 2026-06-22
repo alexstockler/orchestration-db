@@ -1,0 +1,16 @@
+id: saint-saens-saltarelle
+work:
+  composer: Saint-Saëns, Camille
+  title: Saltarelle
+  ids:
+    imslp: Saltarelle, Op.74 (Saint-Saëns, Camille)
+  year: 1885
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Saltarelle%2C_Op.74_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'
+duration_minutes: 5

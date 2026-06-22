@@ -1,0 +1,18 @@
+id: mendelssohn-concerto-for-violin-piano-and-strings-in-d-minor
+work:
+  composer: Mendelssohn, Felix
+  title: Concerto for Violin, Piano, and Strings in D minor
+  ids:
+    imslp: Concerto for Violin, Piano and Strings (Mendelssohn, Felix)
+  year: 1823
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | strings*
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_Violin%2C_Piano_and_Strings_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano, strings*'
+duration_minutes: 40

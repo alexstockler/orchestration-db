@@ -1,0 +1,18 @@
+id: bruckner-tr-umen-und-wachen
+work:
+  composer: Bruckner, Anton
+  title: Träumen und Wachen
+  ids:
+    imslp: Träumen und Wachen, WAB 87 (Bruckner, Anton)
+  year: 1890
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tr%C3%A4umen_und_Wachen%2C_WAB_87_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, male chorus (TTBB)'
+duration_minutes: 5

@@ -1,0 +1,22 @@
+id: dvorak-mazurka
+work:
+  composer: Dvořák, Antonín
+  title: Mazurka
+  ids:
+    imslp: Mazurek, Op.49 (Dvořák, Antonín)
+  year: 1879
+formula: 0022 2000 tmp str
+instrumentation:
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: B.90
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mazurek%2C_Op.49_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: B.90: 2 clarinets, 2 bassoons, 2 horns, timpani, strings'
+duration_minutes: 6

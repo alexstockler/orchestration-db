@@ -1,0 +1,17 @@
+id: debussy-children-s-corner
+work:
+  composer: Debussy, Claude
+  title: Children's Corner
+  ids:
+    imslp: Children's Corner, CD 119 (Debussy, Claude)
+  year: 1906
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Children%27s_Corner%2C_CD_119_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 15

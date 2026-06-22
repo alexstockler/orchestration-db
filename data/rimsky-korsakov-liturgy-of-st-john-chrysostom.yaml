@@ -1,0 +1,15 @@
+id: rimsky-korsakov-liturgy-of-st-john-chrysostom
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: Liturgy of St. John Chrysostom
+  ids:
+    imslp: Liturgy of St. John Chrysostom, Op.22 (Rimsky-Korsakov, Nikolay)
+  year: 1883
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Liturgy_of_St._John_Chrysostom%2C_Op.22_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

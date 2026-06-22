@@ -1,0 +1,15 @@
+id: mendelssohn-symphony-in-c-major
+work:
+  composer: Mendelssohn, Felix
+  title: Symphony in C major
+  ids:
+    imslp: Symphony in C major, MWV N 19 (Mendelssohn, Felix)
+  year: 1842
+formula: ''
+instrumentation:
+  additional_raw: orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_in_C_major%2C_MWV_N_19_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

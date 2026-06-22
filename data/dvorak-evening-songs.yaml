@@ -1,0 +1,19 @@
+id: dvorak-evening-songs
+work:
+  composer: Dvořák, Antonín
+  title: Evening Songs
+  ids:
+    imslp: Evening Songs, B.61 (Dvořák, Antonín)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Evening_Songs%2C_B.61_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 28

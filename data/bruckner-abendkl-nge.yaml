@@ -1,0 +1,18 @@
+id: bruckner-abendkl-nge
+work:
+  composer: Bruckner, Anton
+  title: Abendklänge
+  ids:
+    imslp: Abendklänge, WAB 110 (Bruckner, Anton)
+  year: 1866
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Abendkl%C3%A4nge%2C_WAB_110_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 2

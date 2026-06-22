@@ -1,0 +1,19 @@
+id: saint-saens-une-flute-invisible
+work:
+  composer: Saint-Saëns, Camille
+  title: Une flûte invisible
+  ids:
+    imslp: Une flûte invisible (Saint-Saëns, Camille)
+  year: 1885
+formula: 1000 0000 pf
+instrumentation:
+  flute: 1
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Une_fl%C3%BBte_invisible_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, flute, piano'

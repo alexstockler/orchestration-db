@@ -169,6 +169,11 @@ class _ParseState:
         if key is None and count is not None:
             key = _lookup(name or "")
 
+        # --- Generic / unspecified voice ---
+        if key == "voice":
+            self.inst.soloists.append(token_base)
+            return
+
         # --- Voices / chorus ---
         if key in VOICE_KEYS:
             self.inst.soloists.append(name or token_base)
@@ -177,15 +182,32 @@ class _ParseState:
             self.inst.chorus_raw = token_base
             return
 
+        # --- Orchestra catch-all (e.g. standalone "orchestra" token) ---
+        if key == "orchestra":
+            return  # implicit; don't double-count
+
+        # --- Military band ---
+        if key == "military_band":
+            self.inst.additional_raw = (
+                (self.inst.additional_raw + " | " if self.inst.additional_raw else "")
+                + token_base
+            )
+            return
+
         # --- Strings ---
-        if token_base in ("strings", "string orchestra") or key in (
+        if token_base in ("strings", "string orchestra", "strs") or key in (
             "violin", "viola", "cello", "double_bass"
         ):
-            if token_base == "strings" or token_base == "string orchestra":
+            if token_base in ("strings", "string orchestra", "strs"):
                 self.inst.strings = Strings(standard=True)
             else:
                 # individual string desks — leave in additional_raw for now
                 self.unrecognised.append(raw_token.strip())
+            return
+
+        # --- Piano 4-hands (one instrument, two performers) ---
+        if key == "piano_4hands":
+            self.inst.keyboards.append(KeyboardPlayer("piano"))
             return
 
         # --- Timpani ---

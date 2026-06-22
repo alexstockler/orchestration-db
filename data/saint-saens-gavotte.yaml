@@ -1,0 +1,16 @@
+id: saint-saens-gavotte
+work:
+  composer: Saint-Saëns, Camille
+  title: Gavotte
+  ids:
+    imslp: Gavotte, Op.23 (Saint-Saëns, Camille)
+  year: 1871
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gavotte%2C_Op.23_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

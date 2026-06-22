@@ -1,0 +1,16 @@
+id: saint-saens-el-desdichado
+work:
+  composer: Saint-Saëns, Camille
+  title: El desdichado
+  ids:
+    imslp: El desdichado (Saint-Saëns, Camille)
+  year: 1871
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/El_desdichado_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, orchestra'

@@ -1,0 +1,16 @@
+id: sibelius-10-pens-es-lyriques
+work:
+  composer: Sibelius, Jean
+  title: 10 Pensées lyriques
+  ids:
+    imslp: 10 Pensées lyriques, Op.40 (Sibelius, Jean)
+  year: 1912
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/10_Pens%C3%A9es_lyriques%2C_Op.40_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

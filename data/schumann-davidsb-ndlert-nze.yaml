@@ -1,0 +1,16 @@
+id: schumann-davidsb-ndlert-nze
+work:
+  composer: Schumann, Robert
+  title: Davidsbündlertänze
+  ids:
+    imslp: Davidsbündlertänze, Op.6 (Schumann, Robert)
+  year: 1837
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Davidsb%C3%BCndlert%C3%A4nze%2C_Op.6_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

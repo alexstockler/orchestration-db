@@ -163,6 +163,11 @@ IMSLP_TO_KEY = {
     "double basses": "double_bass",
     "contrabass": "double_bass",
     "contrabasses": "double_bass",
+    # generic voice (solo, unspecified voice type)
+    "voice": "voice",
+    "voices": "voice",
+    "voice and piano": "voice",
+    "voice and organ": "voice",
     # choir / voices
     "soprano": "soprano",
     "mezzo-soprano": "mezzo_soprano",
@@ -175,6 +180,7 @@ IMSLP_TO_KEY = {
     "bass-baritone": "bass_baritone",
     "satb chorus": "satb_chorus",
     "satb choir": "satb_chorus",
+    "satb": "satb_chorus",
     "mixed chorus": "satb_chorus",
     "mixed choir": "satb_chorus",
     "chorus": "satb_chorus",
@@ -182,13 +188,59 @@ IMSLP_TO_KEY = {
     "chorus (satb)": "satb_chorus",
     "mixed chorus (satb)": "satb_chorus",
     "double chorus": "satb_chorus",
+    "ssaattbb": "satb_chorus",
+    "2 mixed choruses (satb/satb)": "satb_chorus",
+    "mixed choruses": "satb_chorus",
+    "chorus and orchestra": "satb_chorus",
     "children's chorus": "childrens_chorus",
     "boys chorus": "boys_chorus",
     "boys' chorus": "boys_chorus",
     "knabenchor": "boys_chorus",
     "male chorus": "male_chorus",
+    "male choir": "male_chorus",
+    "ttbb": "male_chorus",
+    "ttbb choir": "male_chorus",
     "female chorus": "female_chorus",
+    "female choir": "female_chorus",
     "women's chorus": "female_chorus",
+    # percussion abbreviations and variants
+    "timp": "timpani",
+    "drum": "percussion",
+    "drums": "percussion",
+    "tom-tom": "percussion",
+    "tom tom": "percussion",
+    "anvil": "percussion",
+    # strings abbreviation
+    "strs": "strings",
+    # piano variants
+    "piano 4-hands": "piano_4hands",
+    "piano 4 hands": "piano_4hands",
+    "piano four hands": "piano_4hands",
+    # band
+    "military band": "military_band",
+    # orchestra as a catch-all token (e.g. "chorus and orchestra")
+    "orchestra": "orchestra",
+    "chamber orchestra": "orchestra",
+    "string orchestra": "orchestra",
+    # solo voice qualifiers
+    "bass solo": "bass_voice",
+    "soprano solo": "soprano",
+    "tenor solo": "tenor",
+    "alto solo": "alto",
+    "piano solo": "piano",
+    "piano ad lib.": "piano",
+    "violin solo": "violin",
+    "cello solo": "cello",
+    # chamber combinations (route to soloists)
+    "violin and piano": "violin",
+    "cello and piano": "cello",
+    # tuba family
+    "contrabass tuba": "contrabass_tuba",
+    # diacritics / alternate spellings
+    "ophicleïde": "ophicleide",
+    "ophicléide": "ophicleide",
+    # english bass horn / serpent family
+    "english bass horn": "serpent",
 }
 
 # Which canonical keys belong to which family
@@ -203,7 +255,7 @@ KEY_FAMILY = {
     "flugelhorn": "trumpet", "bass_trumpet": "trumpet",
     "alto_trombone": "trombone", "bass_trombone": "trombone",
     "contrabass_trombone": "trombone",
-    "euphonium": "tuba", "cimbasso": "tuba",
+    "euphonium": "tuba", "cimbasso": "tuba", "contrabass_tuba": "tuba",
 }
 
 SAX_KEYS = {"soprano_sax", "alto_sax", "tenor_sax", "baritone_sax"}

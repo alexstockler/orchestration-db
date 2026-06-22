@@ -1,0 +1,15 @@
+id: mendelssohn-fantasia-in-d-minor
+work:
+  composer: Mendelssohn, Felix
+  title: Fantasia in D minor
+  ids:
+    imslp: Fantasia in D minor, MWV T 1 (Mendelssohn, Felix)
+  year: 1824
+formula: ''
+instrumentation:
+  additional_raw: piano 4-hands
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_in_D_minor%2C_MWV_T_1_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'

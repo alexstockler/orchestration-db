@@ -1,0 +1,16 @@
+id: rimsky-korsakov-little-song-in-dorian-mode
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: Little Song (in Dorian mode)
+  ids:
+    imslp: Little Song (Rimsky-Korsakov, Nikolay)
+  year: 1901
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Little_Song_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

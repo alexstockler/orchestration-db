@@ -1,0 +1,16 @@
+id: dvorak-terzetto
+work:
+  composer: Dvořák, Antonín
+  title: Terzetto
+  ids:
+    imslp: Terzetto, Op.74 (Dvořák, Antonín)
+  year: 1887
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Terzetto%2C_Op.74_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola'
+duration_minutes: 20

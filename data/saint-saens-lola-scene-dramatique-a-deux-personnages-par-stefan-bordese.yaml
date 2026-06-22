@@ -1,0 +1,19 @@
+id: saint-saens-lola-scene-dramatique-a-deux-personnages-par-stefan-bordese
+work:
+  composer: Saint-Saëns, Camille
+  title: 'Lola: scène dramatique à deux personnages par Stéfan Bordèse'
+  ids:
+    imslp: Lola, Op.116 (Saint-Saëns, Camille)
+  year: 1900
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - 2 voices
+  - 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lola%2C_Op.116_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, piano'

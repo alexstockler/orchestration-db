@@ -1,0 +1,17 @@
+id: grieg-4-psalms
+work:
+  composer: Grieg, Edvard
+  title: 4 Psalms
+  ids:
+    imslp: 4 Psalms, Op.74 (Grieg, Edvard)
+  year: 1906
+formula: ''
+instrumentation:
+  soloists:
+  - baritone
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Psalms%2C_Op.74_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: baritone; mixed chorus (SATB)'

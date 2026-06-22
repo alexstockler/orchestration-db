@@ -1,0 +1,14 @@
+id: saint-saens-hymne-au-printemps
+work:
+  composer: Saint-Saëns, Camille
+  title: Hymne au printemps
+  ids:
+    imslp: Hymne au printemps, Op.138 (Saint-Saëns, Camille)
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymne_au_printemps%2C_Op.138_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

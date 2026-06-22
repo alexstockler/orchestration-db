@@ -1,0 +1,15 @@
+id: debussy-andante-and-tempo-di-marcia-funebra
+work:
+  composer: Debussy, Claude
+  title: Andante and Tempo di Marcia Funebra
+  ids:
+    imslp: Andante and Tempo di Marcia Funebra, CD 10 (Debussy, Claude)
+  year: 1881
+formula: ''
+instrumentation:
+  additional_raw: piano 4 hands
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_and_Tempo_di_Marcia_Funebra%2C_CD_10_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4 hands'

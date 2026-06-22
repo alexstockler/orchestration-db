@@ -1,0 +1,17 @@
+id: grieg-simpel-sang
+work:
+  composer: Grieg, Edvard
+  title: Simpel Sang
+  ids:
+    imslp: Simpel Sang, EG 147 (Grieg, Edvard)
+  year: 1889
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Simpel_Sang%2C_EG_147_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

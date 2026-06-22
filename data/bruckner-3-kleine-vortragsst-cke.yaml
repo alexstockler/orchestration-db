@@ -1,0 +1,16 @@
+id: bruckner-3-kleine-vortragsst-cke
+work:
+  composer: Bruckner, Anton
+  title: 3 Kleine Vortragsstücke
+  ids:
+    imslp: 3 Kleine Vortragsstücke, WAB 124 (Bruckner, Anton)
+  year: 1852
+formula: ''
+instrumentation:
+  additional_raw: piano 4-hands
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Kleine_Vortragsst%C3%BCcke%2C_WAB_124_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'
+duration_minutes: 4

@@ -1,0 +1,17 @@
+id: debussy-la-belle-au-bois-dormant
+work:
+  composer: Debussy, Claude
+  title: La belle au bois dormant
+  ids:
+    imslp: La belle au bois dormant, CD 81 (Debussy, Claude)
+  year: 1890
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_belle_au_bois_dormant%2C_CD_81_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

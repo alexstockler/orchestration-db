@@ -1,0 +1,18 @@
+id: saint-saens-la-bas
+work:
+  composer: Saint-Saëns, Camille
+  title: Là-bas
+  ids:
+    imslp: Là-bas (Saint-Saëns, Camille)
+  year: 1892
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%C3%A0-bas_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

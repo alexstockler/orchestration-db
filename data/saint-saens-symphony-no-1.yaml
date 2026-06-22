@@ -1,0 +1,42 @@
+id: saint-saens-symphony-no-1
+work:
+  composer: Saint-Saëns, Camille
+  title: Symphony No.1
+  ids:
+    imslp: Symphony No.1, Op.2 (Saint-Saëns, Camille)
+  year: 1853
+formula: 3[pic.2.3] 2[1/Eh.2] 3[1.2.bcl] 2 4 4[1.2.cnt.cnt] 3 0 4hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - doublings:
+    - english_horn
+  - {}
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  percussion:
+    instruments:
+    - cymbals
+  harp: 4
+  strings: str
+  additional_raw: 2 saxhorns (bass, contrabass) | 2 timpanists (4 drums)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.1%2C_Op.2_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes (1st also English horn), 2 clarinets,
+    bass clarinet, 2 (or 4) bassoons, 4 horns, 2 trumpets, 2 cornets, 2 saxhorns (bass,
+    contrabass), 3 trombones, 2 timpanists (4 drums), cymbals, 4 harps, strings'

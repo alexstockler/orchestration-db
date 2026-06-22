@@ -1,0 +1,18 @@
+id: saint-saens-ave-verum-in-d-major
+work:
+  composer: Saint-Saëns, Camille
+  title: Ave verum in D major
+  ids:
+    imslp: Ave verum in D major (Saint-Saëns, Camille)
+  year: 1860
+formula: 0000 1000 org
+instrumentation:
+  horn: 1
+  keyboards:
+  - instrument: organ
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_verum_in_D_major_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SSAA), horn, organ'

@@ -1,0 +1,15 @@
+id: grieg-4-norwegian-dances
+work:
+  composer: Grieg, Edvard
+  title: 4 Norwegian Dances
+  ids:
+    imslp: 4 Norwegian Dances, Op.35 (Grieg, Edvard)
+  year: 1880
+formula: ''
+instrumentation:
+  additional_raw: piano 4 hands
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Norwegian_Dances%2C_Op.35_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4 hands'

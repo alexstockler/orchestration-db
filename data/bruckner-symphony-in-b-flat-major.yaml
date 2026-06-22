@@ -1,0 +1,16 @@
+id: bruckner-symphony-in-b-flat-major
+work:
+  composer: Bruckner, Anton
+  title: Symphony in B-flat major
+  ids:
+    imslp: Symphony in B-flat major, WAB 142 (Bruckner, Anton)
+  year: 1869
+formula: ''
+instrumentation:
+  additional_raw: orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_in_B-flat_major%2C_WAB_142_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'
+duration_minutes: 2

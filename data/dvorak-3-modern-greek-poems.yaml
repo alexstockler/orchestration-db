@@ -1,0 +1,19 @@
+id: dvorak-3-modern-greek-poems
+work:
+  composer: Dvořák, Antonín
+  title: 3 Modern Greek Poems
+  ids:
+    imslp: 3 Modern Greek Poems, Op.50 (Dvořák, Antonín)
+  year: 1878
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Modern_Greek_Poems%2C_Op.50_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 13

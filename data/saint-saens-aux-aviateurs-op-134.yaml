@@ -1,0 +1,15 @@
+id: saint-saens-aux-aviateurs-op-134
+work:
+  composer: Saint-Saëns, Camille
+  title: Aux aviateurs, Op.134
+  ids:
+    imslp: Aux aviateurs, Op.134 (Saint-Saëns, Camille)
+  year: 1911
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aux_aviateurs%2C_Op.134_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: male chorus (TTBB)'

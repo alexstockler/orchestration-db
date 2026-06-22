@@ -1,0 +1,18 @@
+id: saint-saens-gloria-patri-pour-2-sopranos-et-2-contraltos-orgue-avec-cor-oblige
+work:
+  composer: Saint-Saëns, Camille
+  title: Gloria Patri pour 2 sopranos et 2 contraltos, orgue avec cor obligé
+  ids:
+    imslp: Gloria Patri in D major (Saint-Saëns, Camille)
+  year: 1858
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: female chorus
+  additional_raw: horn obbligato
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gloria_Patri_in_D_major_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SSAA), horn obbligato, organ'

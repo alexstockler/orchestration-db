@@ -1,0 +1,19 @@
+id: saint-saens-deus-abraham
+work:
+  composer: Saint-Saëns, Camille
+  title: Deus Abraham
+  ids:
+    imslp: Deus Abraham (Saint-Saëns, Camille)
+  year: 1885
+formula: org hp
+instrumentation:
+  keyboards:
+  - instrument: organ
+  harp: 1
+  chorus_raw: mixed chorus
+  additional_raw: medium voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Deus_Abraham_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: medium voice, mixed chorus (SATB) (ad lib.), harp, organ'

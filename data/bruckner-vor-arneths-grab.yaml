@@ -1,0 +1,17 @@
+id: bruckner-vor-arneths-grab
+work:
+  composer: Bruckner, Anton
+  title: Vor Arneths Grab
+  ids:
+    imslp: Vor Arneths Grab, WAB 53 (Bruckner, Anton)
+  year: 1854
+formula: 0000 0030
+instrumentation:
+  trombone: 3
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vor_Arneths_Grab%2C_WAB_53_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB), 3 trombones'
+duration_minutes: 2

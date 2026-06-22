@@ -1,0 +1,33 @@
+id: mendelssohn-meerestille-und-gl-ckliche-fahrt
+work:
+  composer: Mendelssohn, Felix
+  title: Meerestille und glückliche Fahrt
+  ids:
+    imslp: Meeresstille und glückliche Fahrt, Op.27 (Mendelssohn, Felix)
+  year: 1828
+formula: 3[pic.2.3] 2 2 3[1.2.cbn] 2300 tmp serpent str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 2
+  trumpet: 3
+  percussion:
+    timpani: 1
+  extras:
+  - instrument: serpent
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Meeresstille_und_gl%C3%BCckliche_Fahrt%2C_Op.27_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, contrabassoon,
+    2 horns, 3 trumpets, serpent, timpani, strings'
+duration_minutes: 12

@@ -1,0 +1,16 @@
+id: saint-saens-sept-improvisations
+work:
+  composer: Saint-Saëns, Camille
+  title: Sept Improvisations
+  ids:
+    imslp: 7 Improvisations, Op.150 (Saint-Saëns, Camille)
+  year: 1916
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Improvisations%2C_Op.150_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

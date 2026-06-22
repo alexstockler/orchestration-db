@@ -1,0 +1,17 @@
+id: saint-saens-theme-varie
+work:
+  composer: Saint-Saëns, Camille
+  title: Thème varié
+  ids:
+    imslp: Thème varié, Op.97 (Saint-Saëns, Camille)
+  year: 1894
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Th%C3%A8me_vari%C3%A9%2C_Op.97_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 8

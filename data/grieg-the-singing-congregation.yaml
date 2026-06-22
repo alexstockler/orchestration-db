@@ -1,0 +1,17 @@
+id: grieg-the-singing-congregation
+work:
+  composer: Grieg, Edvard
+  title: The singing Congregation
+  ids:
+    imslp: The Singing Congregation, EG 122 (Grieg, Edvard)
+  year: 1860
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Singing_Congregation%2C_EG_122_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

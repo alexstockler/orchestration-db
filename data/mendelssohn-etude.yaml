@@ -1,0 +1,17 @@
+id: mendelssohn-etude
+work:
+  composer: Mendelssohn, Felix
+  title: Etude
+  ids:
+    imslp: Etude in F minor, WoO 1 (Mendelssohn, Felix)
+  year: 1836
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Etude_in_F_minor%2C_WoO_1_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 2

@@ -1,0 +1,18 @@
+id: mendelssohn-lied-ohne-worte
+work:
+  composer: Mendelssohn, Felix
+  title: Lied ohne Worte
+  ids:
+    imslp: Lied ohne Worte, Op.109 (Mendelssohn, Felix)
+  year: 1845
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lied_ohne_Worte%2C_Op.109_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'
+duration_minutes: 5

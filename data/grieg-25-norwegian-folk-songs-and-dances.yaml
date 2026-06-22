@@ -1,0 +1,15 @@
+id: grieg-25-norwegian-folk-songs-and-dances
+work:
+  composer: Grieg, Edvard
+  title: 25 Norwegian Folk Songs and Dances
+  ids:
+    imslp: 25 Norwegian Folk Songs and Dances, Op.17 (Grieg, Edvard)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/25_Norwegian_Folk_Songs_and_Dances%2C_Op.17_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

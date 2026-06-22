@@ -1,0 +1,17 @@
+id: dvorak-album-leaves
+work:
+  composer: Dvořák, Antonín
+  title: Album Leaves
+  ids:
+    imslp: Album Leaves, B.109 (Dvořák, Antonín)
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album_Leaves%2C_B.109_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 8

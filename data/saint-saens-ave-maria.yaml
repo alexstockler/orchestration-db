@@ -1,0 +1,17 @@
+id: saint-saens-ave-maria
+work:
+  composer: Saint-Saëns, Camille
+  title: Ave Maria
+  ids:
+    imslp: Ave Maria, Op.145 (Saint-Saëns, Camille)
+  year: 1914
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_Maria%2C_Op.145_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), organ'

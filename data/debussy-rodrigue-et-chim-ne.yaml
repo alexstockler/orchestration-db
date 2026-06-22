@@ -1,0 +1,16 @@
+id: debussy-rodrigue-et-chim-ne
+work:
+  composer: Debussy, Claude
+  title: Rodrigue et Chimène
+  ids:
+    imslp: Rodrigue et Chimène, CD 80 (Debussy, Claude)
+  year: 1890
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: voices | orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rodrigue_et_Chim%C3%A8ne%2C_CD_80_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

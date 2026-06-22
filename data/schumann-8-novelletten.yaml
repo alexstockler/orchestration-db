@@ -1,0 +1,17 @@
+id: schumann-8-novelletten
+work:
+  composer: Schumann, Robert
+  title: 8 Novelletten
+  ids:
+    imslp: 8 Novelletten, Op.21 (Schumann, Robert)
+  year: 1838
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Novelletten%2C_Op.21_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 45

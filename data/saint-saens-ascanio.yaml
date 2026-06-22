@@ -1,0 +1,87 @@
+id: saint-saens-ascanio
+work:
+  composer: Saint-Saëns, Camille
+  title: Ascanio
+  ids:
+    imslp: Ascanio (Saint-Saëns, Camille)
+  year: 1887
+formula: 7[1.2.3/pic.pic.pic.6.7] 4 4 3[1.2.cbn] 6 10[cnt.cnt.cnt.4.5.6.7.8.9.10]
+  7 1 tmp 2hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  - instrument: piccolo
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 4
+  clarinet: 4
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 6
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  trombone: 7
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - snare drum
+    - bass drum
+    - cymbals
+    - castanets
+    - crotales
+    - tambourine
+  harp: 2
+  strings: str
+  soloists:
+  - Benvenuto Cellini (baritone)
+  - Ascanio (tenor)
+  - François I (bass)
+  - Charles V (bass)
+  - Duchesse d'Étampes (soprano)
+  - Scozzone (alto)
+  - D'Estourville (tenor)
+  - Colombe d'Estourville (soprano)
+  - D'Orbec (tenor)
+  - Pagolo (bass)
+  - A beggar (baritone)
+  - Ursuline (soprano)
+  - Lady Périne (mute) Mixed Chorus (SATB) :Workers
+  - Apprentices
+  - Students of Benvenuto
+  - Lords and Ladies of the Court of Francois the 1st
+  - Guards
+  - Men and Women of the People
+  additional_raw: harmonica | anvil
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ascanio_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Benvenuto Cellini (baritone), Ascanio (tenor), François
+    I (bass), Charles V (bass), Duchesse d''Étampes (soprano), Scozzone (alto), D''Estourville
+    (tenor), Colombe d''Estourville (soprano), D''Orbec (tenor), Pagolo (bass), A
+    beggar (baritone), Ursuline (soprano), Lady Périne (mute) Mixed Chorus (SATB)
+    :Workers, Apprentices, Students of Benvenuto, Lords and Ladies of the Court of
+    Francois the 1st,, Guards, Men and Women of the People Orchestra :3 flutes (3rd
+    also piccolo), 2 oboes, 2 clarinets, 2 bassoons, contrabassoon, 4 horns, 3 cornets,
+    3 trumpets, 3 trombones, tuba, timpani, triangle, snare drum, bass drum, cymbals,
+    castanets, harmonica,, 2 harps, strings '' :2 piccolos, 2 flutes, 2 oboes, 2 clarinets,
+    2 horns, 4 trumpets, 4 trombones,, crotales, cymbals, anvil, snare drum, tambourine,
+    triangle'
+duration_minutes: 180

@@ -1,0 +1,18 @@
+id: rimsky-korsakov-2-romances
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: 2 Romances
+  ids:
+    imslp: 2 Romances, Op.49 (Rimsky-Korsakov, Nikolay)
+  year: 1882
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Romances%2C_Op.49_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, piano'

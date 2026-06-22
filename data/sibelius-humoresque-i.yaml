@@ -1,0 +1,15 @@
+id: sibelius-humoresque-i
+work:
+  composer: Sibelius, Jean
+  title: Humoresque I
+  ids:
+    imslp: 2 Humoresques for Violin and Orchestra, Op.87 (Sibelius, Jean)
+  year: 1917
+formula: ''
+instrumentation:
+  additional_raw: violin | orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Humoresques_for_Violin_and_Orchestra%2C_Op.87_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, orchestra'

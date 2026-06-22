@@ -1,0 +1,15 @@
+id: grieg-oppsang-for-frihetsfolket-i-norden
+work:
+  composer: Grieg, Edvard
+  title: Oppsang for Frihetsfolket i Norden
+  ids:
+    imslp: Opsang for Frihedsfolket i Norden, EG 166 (Grieg, Edvard)
+  year: 1874
+formula: ''
+instrumentation:
+  additional_raw: male choir
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Opsang_for_Frihedsfolket_i_Norden%2C_EG_166_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: male choir'

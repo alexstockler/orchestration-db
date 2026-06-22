@@ -1,0 +1,20 @@
+id: schumann-verzweifle-nicht-im-schmerzensthal
+work:
+  composer: Schumann, Robert
+  title: Verzweifle nicht im Schmerzensthal
+  ids:
+    imslp: Verzweifle nicht im Schmerzenstal, Op.93 (Schumann, Robert)
+  year: 1850
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  additional_raw: 2 TTBB Choruses | Orchestra (2 flutes, 2 oboes, 2 clarinets, 2 bassoons,
+    2 horns, 2 trumpets, 3 trombones, timpani, strings)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Verzweifle_nicht_im_Schmerzenstal%2C_Op.93_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 TTBB Choruses, Orchestra (2 flutes, 2 oboes, 2 clarinets,
+    2 bassoons, 2 horns, 2 trumpets, 3 trombones, timpani, strings), Organ (ad lib.)'
+duration_minutes: 25

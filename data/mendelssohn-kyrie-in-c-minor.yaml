@@ -1,0 +1,21 @@
+id: mendelssohn-kyrie-in-c-minor
+work:
+  composer: Mendelssohn, Felix
+  title: Kyrie in C minor
+  ids:
+    imslp: Kyrie in C minor, MWV B 12 (Mendelssohn, Felix)
+  year: 1823
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - altos
+  - tenor
+  - bass
+  additional_raw: 2 mixed choruses (SATB/SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kyrie_in_C_minor%2C_MWV_B_12_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 2 altos, tenor, bass; 2 mixed choruses (SATB/SATB)'
+duration_minutes: 12

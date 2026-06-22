@@ -1,0 +1,17 @@
+id: wagner-7-kompositionen-zu-goethes-faust
+work:
+  composer: Wagner, Richard
+  title: 7 Kompositionen zu Goethes Faust
+  ids:
+    imslp: 7 Kompositionen zu Goethes Faust, WWV 15 (Wagner, Richard)
+  year: 1831
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Kompositionen_zu_Goethes_Faust%2C_WWV_15_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

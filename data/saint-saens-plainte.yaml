@@ -1,0 +1,16 @@
+id: saint-saens-plainte
+work:
+  composer: Saint-Saëns, Camille
+  title: Plainte
+  ids:
+    imslp: Plainte (Saint-Saëns, Camille)
+  year: 1855
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Plainte_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, orchestra'

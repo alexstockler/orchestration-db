@@ -1,0 +1,15 @@
+id: rimsky-korsakov-by-the-sea
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: By the Sea
+  ids:
+    imslp: By the Sea, Op.46 (Rimsky-Korsakov, Nikolay)
+  year: 1897
+formula: ''
+instrumentation:
+  additional_raw: Voice + Piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/By_the_Sea%2C_Op.46_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice + Piano'

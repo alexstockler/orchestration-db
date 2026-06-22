@@ -1,0 +1,15 @@
+id: sibelius-5-danses-champ-tres-for-violin-and-piano-op-106
+work:
+  composer: Sibelius, Jean
+  title: 5 Danses Champêtres for Violin and Piano, Op.106
+  ids:
+    imslp: 5 Danses champêtres, Op.106 (Sibelius, Jean)
+  year: 1924
+formula: ''
+instrumentation:
+  additional_raw: Violin and Piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Danses_champ%C3%AAtres%2C_Op.106_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin and Piano'

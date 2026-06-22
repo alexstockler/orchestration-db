@@ -1,0 +1,20 @@
+id: dvorak-the-spectre-s-bride
+work:
+  composer: Dvořák, Antonín
+  title: The Spectre's Bride
+  ids:
+    imslp: The Spectre's Bride, Op.69 (Dvořák, Antonín)
+  year: 1884
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Spectre%27s_Bride%2C_Op.69_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra (piccolo, 2 flutes, 2 oboes,
+    English horn, 3 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba,
+    timpani, triangle, tam-tam, bells, harp, strings)'
+duration_minutes: 75

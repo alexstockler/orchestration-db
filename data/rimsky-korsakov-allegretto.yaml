@@ -1,0 +1,16 @@
+id: rimsky-korsakov-allegretto
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: Allegretto
+  ids:
+    imslp: Allegretto in C major (Rimsky-Korsakov, Nikolay)
+  year: 1895
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegretto_in_C_major_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

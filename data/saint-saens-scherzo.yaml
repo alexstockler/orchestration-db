@@ -1,0 +1,18 @@
+id: saint-saens-scherzo
+work:
+  composer: Saint-Saëns, Camille
+  title: Scherzo
+  ids:
+    imslp: Scherzo, Op.87 (Saint-Saëns, Camille)
+  year: 1889
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scherzo%2C_Op.87_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 pianos'
+duration_minutes: 10

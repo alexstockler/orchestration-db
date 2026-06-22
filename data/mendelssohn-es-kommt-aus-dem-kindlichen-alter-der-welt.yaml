@@ -1,0 +1,14 @@
+id: mendelssohn-es-kommt-aus-dem-kindlichen-alter-der-welt
+work:
+  composer: Mendelssohn, Felix
+  title: Es kommt aus dem kindlichen Alter der Welt
+  ids:
+    imslp: Es kommt aus dem kindlichen Alter der Welt (Mendelssohn, Felix)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_kommt_aus_dem_kindlichen_Alter_der_Welt_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus'

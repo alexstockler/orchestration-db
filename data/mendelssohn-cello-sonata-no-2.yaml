@@ -1,0 +1,18 @@
+id: mendelssohn-cello-sonata-no-2
+work:
+  composer: Mendelssohn, Felix
+  title: Cello Sonata No.2
+  ids:
+    imslp: Cello Sonata No.2, Op.58 (Mendelssohn, Felix)
+  year: 1843
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Sonata_No.2%2C_Op.58_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'
+duration_minutes: 25

@@ -1,0 +1,17 @@
+id: schumann-gedichte-der-k-nigin-maria-stuart
+work:
+  composer: Schumann, Robert
+  title: Gedichte der Königin Maria Stuart
+  ids:
+    imslp: Gedichte der Königin Maria Stuart, Op.135 (Schumann, Robert)
+  year: 1852
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gedichte_der_K%C3%B6nigin_Maria_Stuart%2C_Op.135_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

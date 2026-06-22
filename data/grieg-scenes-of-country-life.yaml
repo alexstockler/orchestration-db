@@ -1,0 +1,16 @@
+id: grieg-scenes-of-country-life
+work:
+  composer: Grieg, Edvard
+  title: Scenes of Country Life
+  ids:
+    imslp: Scenes of Country Life, Op.19 (Grieg, Edvard)
+  year: 1869
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scenes_of_Country_Life%2C_Op.19_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

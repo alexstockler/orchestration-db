@@ -1,0 +1,16 @@
+id: saint-saens-pas-redouble
+work:
+  composer: Saint-Saëns, Camille
+  title: Pas redoublé
+  ids:
+    imslp: Pas redoublé, Op.86 (Saint-Saëns, Camille)
+  year: 1887
+formula: ''
+instrumentation:
+  additional_raw: wind band (or piano 4 hands)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pas_redoubl%C3%A9%2C_Op.86_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: wind band (or piano 4 hands)'
+duration_minutes: 4

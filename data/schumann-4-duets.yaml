@@ -1,0 +1,17 @@
+id: schumann-4-duets
+work:
+  composer: Schumann, Robert
+  title: 4 Duets
+  ids:
+    imslp: 4 Duets, Op.34 (Schumann, Robert)
+  year: 1840
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 2 voices (soprano and tenor)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Duets%2C_Op.34_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices (soprano and tenor), piano'

@@ -1,0 +1,17 @@
+id: grieg-to-a-devil
+work:
+  composer: Grieg, Edvard
+  title: To a Devil
+  ids:
+    imslp: To a Devil, EG 154 (Grieg, Edvard)
+  year: 1900
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/To_a_Devil%2C_EG_154_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

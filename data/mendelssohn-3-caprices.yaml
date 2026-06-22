@@ -1,0 +1,17 @@
+id: mendelssohn-3-caprices
+work:
+  composer: Mendelssohn, Felix
+  title: 3 Caprices
+  ids:
+    imslp: 3 Caprices, Op.33 (Mendelssohn, Felix)
+  year: 1833
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Caprices%2C_Op.33_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 23

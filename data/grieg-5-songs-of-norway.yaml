@@ -1,0 +1,17 @@
+id: grieg-5-songs-of-norway
+work:
+  composer: Grieg, Edvard
+  title: 5 Songs of Norway
+  ids:
+    imslp: 5 Songs of Norway, Op.58 (Grieg, Edvard)
+  year: 1893
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Songs_of_Norway%2C_Op.58_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

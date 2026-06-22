@@ -1,0 +1,16 @@
+id: saint-saens-elevation-ou-communion
+work:
+  composer: Saint-Saëns, Camille
+  title: Élévation ou communion
+  ids:
+    imslp: Élévation ou communion, Op.13 (Saint-Saëns, Camille)
+  year: 1859
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%89l%C3%A9vation_ou_communion%2C_Op.13_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Organ'

@@ -1,0 +1,17 @@
+id: schumann-waldszenen
+work:
+  composer: Schumann, Robert
+  title: Waldszenen
+  ids:
+    imslp: Waldszenen, Op.82 (Schumann, Robert)
+  year: 1850
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Waldszenen%2C_Op.82_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 20

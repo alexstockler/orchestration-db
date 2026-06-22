@@ -1,0 +1,16 @@
+id: grieg-album-for-mandssang
+work:
+  composer: Grieg, Edvard
+  title: Album for Mandssang
+  ids:
+    imslp: Album for Mandssang, Op.30 (Grieg, Edvard)
+formula: ''
+instrumentation:
+  soloists:
+  - baritone
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album_for_Mandssang%2C_Op.30_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: baritone (or tenor or bass-baritone), male chorus (TTBB)'

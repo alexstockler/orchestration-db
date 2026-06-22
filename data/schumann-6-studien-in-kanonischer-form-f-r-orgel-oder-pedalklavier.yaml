@@ -1,0 +1,16 @@
+id: schumann-6-studien-in-kanonischer-form-f-r-orgel-oder-pedalklavier
+work:
+  composer: Schumann, Robert
+  title: 6 Studien in kanonischer Form für Orgel oder Pedalklavier
+  ids:
+    imslp: 6 Studien in kanonischer Form, Op.56 (Schumann, Robert)
+  year: 1845
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Studien_in_kanonischer_Form%2C_Op.56_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: organ (or pedal piano)'

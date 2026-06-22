@@ -1,0 +1,16 @@
+id: dvorak-nocturne-for-string-orchestra
+work:
+  composer: Dvořák, Antonín
+  title: Nocturne for String Orchestra
+  ids:
+    imslp: Nocturne in B major, Op.40 (Dvořák, Antonín)
+  year: 1875
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nocturne_in_B_major%2C_Op.40_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'
+duration_minutes: 9

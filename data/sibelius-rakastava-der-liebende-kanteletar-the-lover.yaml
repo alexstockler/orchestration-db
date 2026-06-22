@@ -1,0 +1,19 @@
+id: sibelius-rakastava-der-liebende-kanteletar-the-lover
+work:
+  composer: Sibelius, Jean
+  title: Rakastava ; Der Liebende ; Kanteletar ; The Lover
+  ids:
+    imslp: Rakastava, Op.14 (Sibelius, Jean)
+  year: 1911
+formula: tmp str
+instrumentation:
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rakastava%2C_Op.14_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: strings, timpani, triangle'

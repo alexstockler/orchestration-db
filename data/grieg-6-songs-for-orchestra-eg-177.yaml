@@ -1,0 +1,14 @@
+id: grieg-6-songs-for-orchestra-eg-177
+work:
+  composer: Grieg, Edvard
+  title: 6 Songs for Orchestra, EG 177
+  ids:
+    imslp: 6 Songs for Orchestra, EG 177 (Grieg, Edvard)
+formula: ''
+instrumentation:
+  additional_raw: voice | orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Songs_for_Orchestra%2C_EG_177_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, orchestra'

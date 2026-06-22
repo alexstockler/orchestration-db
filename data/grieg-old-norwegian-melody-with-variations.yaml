@@ -1,0 +1,17 @@
+id: grieg-old-norwegian-melody-with-variations
+work:
+  composer: Grieg, Edvard
+  title: Old Norwegian Melody with Variations
+  ids:
+    imslp: Old Norwegian Melody with Variations, Op.51 (Grieg, Edvard)
+  year: 1890
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Old_Norwegian_Melody_with_Variations%2C_Op.51_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 pianos'

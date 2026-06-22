@@ -1,0 +1,17 @@
+id: mendelssohn-nachspiel-in-d-major
+work:
+  composer: Mendelssohn, Felix
+  title: Nachspiel in D major
+  ids:
+    imslp: Nachspiel in D major, MWV W 12 (Mendelssohn, Felix)
+  year: 1831
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nachspiel_in_D_major%2C_MWV_W_12_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 5

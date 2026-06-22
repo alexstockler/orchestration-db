@@ -1,0 +1,17 @@
+id: mendelssohn-prelude-and-fugue-woo-13
+work:
+  composer: Mendelssohn, Felix
+  title: Prelude and Fugue, WoO 13
+  ids:
+    imslp: Prelude and Fugue, WoO 13 (Mendelssohn, Felix)
+  year: 1827
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude_and_Fugue%2C_WoO_13_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 7

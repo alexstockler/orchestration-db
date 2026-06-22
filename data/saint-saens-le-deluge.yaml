@@ -1,0 +1,35 @@
+id: saint-saens-le-deluge
+work:
+  composer: Saint-Saëns, Camille
+  title: Le déluge
+  ids:
+    imslp: Le déluge, Op.45 (Saint-Saëns, Camille)
+  year: 1875
+formula: 3[pic.2.3] 2 2 2 4450 tmp hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 4
+  trombone: 5
+  percussion:
+    timpani: 2
+    instruments:
+    - cymbals
+    - bass drum
+    - tam-tam
+  harp: 1
+  strings: str
+  additional_raw: 3 contrabass saxhorns
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_d%C3%A9luge%2C_Op.45_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4
+    horns, 4 trumpets, 5 trombones, 3 contrabass saxhorns, 2 timpani, cymbals, bass
+    drum, tam-tam, harp, strings'

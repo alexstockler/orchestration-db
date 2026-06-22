@@ -1,0 +1,16 @@
+id: saint-saens-les-cloches-de-la-mer
+work:
+  composer: Saint-Saëns, Camille
+  title: Les cloches de la mer
+  ids:
+    imslp: Les cloches de la mer (Saint-Saëns, Camille)
+  year: 1900
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_cloches_de_la_mer_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, orchestra'

@@ -1,0 +1,16 @@
+id: mendelssohn-allegretto-in-d-minor
+work:
+  composer: Mendelssohn, Felix
+  title: Allegretto in D minor
+  ids:
+    imslp: Allegretto in D minor, MWV W 31 (Mendelssohn, Felix)
+  year: 1844
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegretto_in_D_minor%2C_MWV_W_31_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

@@ -1,0 +1,17 @@
+id: schumann-lieder-und-ges-nge-vol-iv-op-96
+work:
+  composer: Schumann, Robert
+  title: Lieder und Gesänge, Vol.IV, Op.96
+  ids:
+    imslp: Lieder und Gesänge, Vol.IV, Op.96 (Schumann, Robert)
+  year: 1850
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: Voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lieder_und_Ges%C3%A4nge%2C_Vol.IV%2C_Op.96_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

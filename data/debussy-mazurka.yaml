@@ -1,0 +1,16 @@
+id: debussy-mazurka
+work:
+  composer: Debussy, Claude
+  title: Mazurka
+  ids:
+    imslp: Mazurka, CD 75 (Debussy, Claude)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mazurka%2C_CD_75_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 3

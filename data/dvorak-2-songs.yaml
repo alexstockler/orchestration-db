@@ -1,0 +1,19 @@
+id: dvorak-2-songs
+work:
+  composer: Dvořák, Antonín
+  title: 2 Songs
+  ids:
+    imslp: 2 Songs, B.142 (Dvořák, Antonín)
+  year: 1885
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Songs%2C_B.142_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 4

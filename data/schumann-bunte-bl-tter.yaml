@@ -1,0 +1,16 @@
+id: schumann-bunte-bl-tter
+work:
+  composer: Schumann, Robert
+  title: Bunte Blätter
+  ids:
+    imslp: Bunte Blätter, Op.99 (Schumann, Robert)
+  year: 1836
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bunte_Bl%C3%A4tter%2C_Op.99_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

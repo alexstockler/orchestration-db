@@ -1,0 +1,15 @@
+id: saint-saens-les-soldats-de-gedeon
+work:
+  composer: Saint-Saëns, Camille
+  title: Les soldats de Gédéon
+  ids:
+    imslp: Les soldats de Gédéon, Op.46 (Saint-Saëns, Camille)
+  year: 1876
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_soldats_de_G%C3%A9d%C3%A9on%2C_Op.46_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Male Chorus'

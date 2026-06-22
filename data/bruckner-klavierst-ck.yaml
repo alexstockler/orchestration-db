@@ -1,0 +1,16 @@
+id: bruckner-klavierst-ck
+work:
+  composer: Bruckner, Anton
+  title: Klavierstück
+  ids:
+    imslp: Klavierstück, WAB 119 (Bruckner, Anton)
+  year: 1856
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Klavierst%C3%BCck%2C_WAB_119_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

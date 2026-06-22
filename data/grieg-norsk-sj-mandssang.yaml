@@ -1,0 +1,14 @@
+id: grieg-norsk-sj-mandssang
+work:
+  composer: Grieg, Edvard
+  title: Norsk Sjømandssang
+  ids:
+    imslp: Norsk Sjømandssang, EG 163 (Grieg, Edvard)
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Norsk_Sj%C3%B8mandssang%2C_EG_163_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

@@ -1,0 +1,16 @@
+id: grieg-the-lass
+work:
+  composer: Grieg, Edvard
+  title: The Lass
+  ids:
+    imslp: The Lass, EG 141 (Grieg, Edvard)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Lass%2C_EG_141_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

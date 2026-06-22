@@ -1,0 +1,18 @@
+id: saint-saens-alla-riva-del-tebro
+work:
+  composer: Saint-Saëns, Camille
+  title: Alla riva del Tebro
+  ids:
+    imslp: Alla riva del Tebro (Saint-Saëns, Camille)
+  year: 1860
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alla_riva_del_Tebro_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'

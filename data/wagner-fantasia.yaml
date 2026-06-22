@@ -1,0 +1,16 @@
+id: wagner-fantasia
+work:
+  composer: Wagner, Richard
+  title: Fantasia
+  ids:
+    imslp: Fantasia in F-sharp minor, WWV 22 (Wagner, Richard)
+  year: 1831
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_in_F-sharp_minor%2C_WWV_22_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

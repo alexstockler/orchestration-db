@@ -1,0 +1,46 @@
+id: rimsky-korsakov-clarinet-concerto
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: Clarinet Concerto
+  ids:
+    imslp: Clarinet Concerto (Rimsky-Korsakov, Nikolay)
+  year: 1878
+formula: 3[pic.2.3] 2 6[Ebcl.2.3.4.bcl.bcl] 2 4 4[1.2.cnt.cnt] 3 3[euph.2.3]
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  tuba:
+  - instrument: euphonium
+  - {}
+  - {}
+  percussion:
+    instruments:
+    - snare drum
+    - cymbals
+    - bass drum
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Clarinet_Concerto_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, E clarinet, 3 clarinets, 2
+    bass clarinets, 2 bassoons, 4 horns, 2 trumpets, 2 cornets, 3 trombones, euphonium,
+    2 tubas, snare drum, cymbals, bass drum'
+duration_minutes: 9

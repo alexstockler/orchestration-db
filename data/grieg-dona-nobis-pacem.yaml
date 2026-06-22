@@ -1,0 +1,14 @@
+id: grieg-dona-nobis-pacem
+work:
+  composer: Grieg, Edvard
+  title: Dona nobis pacem
+  ids:
+    imslp: Dona Nobis Pacem, EG 159 (Grieg, Edvard)
+formula: ''
+instrumentation:
+  additional_raw: SATB a cappella
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dona_Nobis_Pacem%2C_EG_159_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB a cappella'

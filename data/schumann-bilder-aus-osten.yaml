@@ -1,0 +1,15 @@
+id: schumann-bilder-aus-osten
+work:
+  composer: Schumann, Robert
+  title: Bilder aus Osten
+  ids:
+    imslp: Bilder aus Osten, Op.66 (Schumann, Robert)
+  year: 1848
+formula: ''
+instrumentation:
+  additional_raw: piano 4-hands
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bilder_aus_Osten%2C_Op.66_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'

@@ -1,0 +1,16 @@
+id: schumann-etudes-after-paganini-caprices
+work:
+  composer: Schumann, Robert
+  title: Etudes after Paganini Caprices
+  ids:
+    imslp: Etudes after Paganini Caprices, Op.3 (Schumann, Robert)
+  year: 1832
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Etudes_after_Paganini_Caprices%2C_Op.3_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

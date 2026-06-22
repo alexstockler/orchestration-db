@@ -1,0 +1,17 @@
+id: saint-saens-3-choruses
+work:
+  composer: Saint-Saëns, Camille
+  title: 3 Choruses
+  ids:
+    imslp: 3 Choruses, Op.151 (Saint-Saëns, Camille)
+  year: 1917
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Choruses%2C_Op.151_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SSA), piano'

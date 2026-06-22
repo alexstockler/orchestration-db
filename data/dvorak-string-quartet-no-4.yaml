@@ -1,0 +1,16 @@
+id: dvorak-string-quartet-no-4
+work:
+  composer: Dvořák, Antonín
+  title: String Quartet No.4
+  ids:
+    imslp: String Quartet No.4, B.19 (Dvořák, Antonín)
+  year: 1870
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.4%2C_B.19_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 34

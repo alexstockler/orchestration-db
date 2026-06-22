@@ -1,0 +1,16 @@
+id: bruckner-aequale
+work:
+  composer: Bruckner, Anton
+  title: Aequale
+  ids:
+    imslp: Aequale, WAB 114 (Bruckner, Anton)
+  year: 1847
+formula: 0000 0030
+instrumentation:
+  trombone: 3
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aequale%2C_WAB_114_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 trombones (alto, tenor, bass)'
+duration_minutes: 2

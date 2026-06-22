@@ -1,0 +1,18 @@
+id: saint-saens-honneur-a-l-amerique
+work:
+  composer: Saint-Saëns, Camille
+  title: Honneur à l'Amérique
+  ids:
+    imslp: Honneur à l'Amérique (Saint-Saëns, Camille)
+  year: 1917
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Honneur_%C3%A0_l%27Am%C3%A9rique_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

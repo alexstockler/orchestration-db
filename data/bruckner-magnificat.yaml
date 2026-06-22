@@ -1,0 +1,20 @@
+id: bruckner-magnificat
+work:
+  composer: Bruckner, Anton
+  title: Magnificat
+  ids:
+    imslp: Magnificat, WAB 24 (Bruckner, Anton)
+  year: 1852
+formula: 0000 0200 tmp org str
+instrumentation:
+  trumpet: 2
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: organ
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Magnificat%2C_WAB_24_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 trumpets, timpani, organ, strings (no violas)'

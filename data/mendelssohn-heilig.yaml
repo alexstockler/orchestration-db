@@ -1,0 +1,16 @@
+id: mendelssohn-heilig
+work:
+  composer: Mendelssohn, Felix
+  title: Heilig
+  ids:
+    imslp: Heilig, WoO 27 (Mendelssohn, Felix)
+  year: 1844
+formula: ''
+instrumentation:
+  additional_raw: 2 mixed choruses (SATB/SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Heilig%2C_WoO_27_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 mixed choruses (SATB/SATB)'
+duration_minutes: 2

@@ -1,0 +1,30 @@
+id: rimsky-korsakov-mozart-and-salieri
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: Mozart and Salieri
+  ids:
+    imslp: Mozart and Salieri, Op.48 (Rimsky-Korsakov, Nikolay)
+  year: 1897
+formula: 1111 2030 tmp pf str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: piano
+  strings: str
+  soloists:
+  - Mozart (tenor)
+  - Salieri (baritone) Offstage Mixed Chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mozart_and_Salieri%2C_Op.48_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices :Mozart (tenor), Salieri (baritone) Offstage Mixed
+    Chorus (SATB), Orchestra :flute, oboe (also English horn), clarinet, bassoon,
+    2 horns, 3 trombones, timpani, piano, strings'

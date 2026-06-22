@@ -1,0 +1,33 @@
+id: mendelssohn-paulus
+work:
+  composer: Mendelssohn, Felix
+  title: Paulus
+  ids:
+    imslp: Paulus, Op.36 (Mendelssohn, Felix)
+  year: 1836
+formula: 2 2 2 3[1.2.cbn] 4230 tmp org serpent str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: organ
+  extras:
+  - instrument: serpent
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Paulus%2C_Op.36_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, contrabassoon,
+    4 horns, 2 trumpets, 3 trombones, serpent (or tuba), timpani, organ, strings'
+duration_minutes: 130

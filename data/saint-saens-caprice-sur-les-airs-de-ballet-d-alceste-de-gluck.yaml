@@ -1,0 +1,16 @@
+id: saint-saens-caprice-sur-les-airs-de-ballet-d-alceste-de-gluck
+work:
+  composer: Saint-Saëns, Camille
+  title: Caprice sur les airs de ballet d'Alceste de Gluck
+  ids:
+    imslp: Caprice sur les airs de ballet d'Alceste de Gluck (Saint-Saëns, Camille)
+  year: 1867
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Caprice_sur_les_airs_de_ballet_d%27Alceste_de_Gluck_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

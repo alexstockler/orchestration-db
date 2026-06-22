@@ -1,0 +1,26 @@
+id: wagner-trauermusik-nach-motiven-aus-carl-maria-von-webers-euryanthe-wwv-73
+work:
+  composer: Wagner, Richard
+  title: Trauermusik nach Motiven aus Carl Maria von Webers Euryanthe, WWV 73
+  ids:
+    imslp: Trauermusik nach Motiven aus 'Euryanthe', WWV 73 (Wagner, Richard)
+  year: 1844
+formula: 5 7 20[1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20] 10[1.2.3.4.5.6.7.8.9.10]
+  14[1.2.3.4.5.6.7.8.9.10.11.12.13.14] 6 9 4
+instrumentation:
+  flute: 5
+  oboe: 7
+  clarinet: 20
+  bassoon: 10
+  horn: 14
+  trumpet: 6
+  trombone: 9
+  tuba: 4
+  additional_raw: 6 muted drums (1)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trauermusik_nach_Motiven_aus_%27Euryanthe%27%2C_WWV_73_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: 5 flutes (2 parts), 7 oboes (2), 20 clarinets (4), 10 bassoons
+    (2), 8 horns (F, 2), 6 horns (lower B, 2), 6 trumpets (F, 2), 9 trombones (3),
+    4 tubas (1), 6 muted drums (1)'

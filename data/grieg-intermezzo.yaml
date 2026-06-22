@@ -1,0 +1,17 @@
+id: grieg-intermezzo
+work:
+  composer: Grieg, Edvard
+  title: Intermezzo
+  ids:
+    imslp: Intermezzo, EG 115 (Grieg, Edvard)
+  year: 1866
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Intermezzo%2C_EG_115_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'

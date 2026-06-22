@@ -1,0 +1,18 @@
+id: saint-saens-peut-etre
+work:
+  composer: Saint-Saëns, Camille
+  title: Peut-être
+  ids:
+    imslp: Peut-être (Saint-Saëns, Camille)
+  year: 1893
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Peut-%C3%AAtre_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,20 @@
+id: bruckner-um-mitternacht-i
+work:
+  composer: Bruckner, Anton
+  title: Um Mitternacht (I)
+  ids:
+    imslp: Um Mitternacht, WAB 89 (Bruckner, Anton)
+  year: 1864
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - alto
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Um_Mitternacht%2C_WAB_89_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, male chorus (TTBB), piano'
+duration_minutes: 4

@@ -1,0 +1,18 @@
+id: sibelius-piano-trio-in-d-major
+work:
+  composer: Sibelius, Jean
+  title: Piano Trio in D major
+  ids:
+    imslp: Piano Trio in D major 'Korpo', JS 209 (Sibelius, Jean)
+  year: 1887
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio_in_D_major_%27Korpo%27%2C_JS_209_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: piano, violin, cello'
+duration_minutes: 35

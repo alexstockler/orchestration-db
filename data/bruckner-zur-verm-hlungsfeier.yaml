@@ -1,0 +1,16 @@
+id: bruckner-zur-verm-hlungsfeier
+work:
+  composer: Bruckner, Anton
+  title: Zur Vermählungsfeier
+  ids:
+    imslp: Zur Vermählungsfeier, WAB 54 (Bruckner, Anton)
+  year: 1878
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Zur_Verm%C3%A4hlungsfeier%2C_WAB_54_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'
+duration_minutes: 4

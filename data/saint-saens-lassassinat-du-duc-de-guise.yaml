@@ -1,0 +1,18 @@
+id: saint-saens-lassassinat-du-duc-de-guise
+work:
+  composer: Saint-Saëns, Camille
+  title: L’Assassinat du duc de Guise
+  ids:
+    imslp: L'assassinat du duc de Guise, Op.128 (Saint-Saëns, Camille)
+  year: 1908
+formula: pf harm str
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: harmonium
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27assassinat_du_duc_de_Guise%2C_Op.128_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: piano, harmonium, strings'

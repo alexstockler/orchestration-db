@@ -1,0 +1,17 @@
+id: saint-saens-offertoire-pour-orgue-et-cor-chromatique
+work:
+  composer: Saint-Saëns, Camille
+  title: Offertoire pour orgue et cor chromatique
+  ids:
+    imslp: Offertoire in C minor (Saint-Saëns, Camille)
+  year: 1854
+formula: 0000 1000 org
+instrumentation:
+  horn: 1
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Offertoire_in_C_minor_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: horn, organ'

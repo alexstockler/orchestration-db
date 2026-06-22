@@ -1,0 +1,15 @@
+id: sibelius-the-little-girls
+work:
+  composer: Sibelius, Jean
+  title: The Little Girls
+  ids:
+    imslp: The Little Girls (Sibelius, Jean)
+  year: 1920
+formula: ''
+instrumentation:
+  additional_raw: Voice and Piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Little_Girls_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

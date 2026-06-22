@@ -1,0 +1,15 @@
+id: sibelius-9-songs-for-chorus-op-23
+work:
+  composer: Sibelius, Jean
+  title: 9 Songs for Chorus, Op.23
+  ids:
+    imslp: 9 Songs for Chorus, Op.23 (Sibelius, Jean)
+  year: 1897
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/9_Songs_for_Chorus%2C_Op.23_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Chorus (1 mvt. w/ triangle, cymbal & bass drum)'

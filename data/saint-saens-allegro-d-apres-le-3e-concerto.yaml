@@ -1,0 +1,16 @@
+id: saint-saens-allegro-d-apres-le-3e-concerto
+work:
+  composer: Saint-Saëns, Camille
+  title: Allegro d'après le 3e Concerto
+  ids:
+    imslp: Allegro d'après le 3e Concerto, Op.29 (Saint-Saëns, Camille)
+  year: 1913
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegro_d%27apr%C3%A8s_le_3e_Concerto%2C_Op.29_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

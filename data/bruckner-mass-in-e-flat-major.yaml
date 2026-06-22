@@ -1,0 +1,22 @@
+id: bruckner-mass-in-e-flat-major
+work:
+  composer: Bruckner, Anton
+  title: Mass in E-flat major
+  ids:
+    imslp: Mass in E-flat major, WAB 139 (Bruckner, Anton)
+  year: 1846
+formula: 0200 0030 org str
+instrumentation:
+  oboe: 2
+  trombone: 3
+  keyboards:
+  - instrument: organ
+  strings: str
+  soloists:
+  - mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mass_in_E-flat_major%2C_WAB_139_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: mixed chorus (SATB), Orchestra: 2 oboes, 3 trombones,
+    organ, strings'

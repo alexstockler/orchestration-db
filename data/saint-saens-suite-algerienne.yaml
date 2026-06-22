@@ -1,0 +1,40 @@
+id: saint-saens-suite-algerienne
+work:
+  composer: Saint-Saëns, Camille
+  title: Suite algérienne
+  ids:
+    imslp: Suite algérienne, Op.60 (Saint-Saëns, Camille)
+  year: 1880
+formula: 3[pic.2.3] 2 2 2 4 4[cnt.cnt.3.4] 3 1 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drum
+    - triangle
+    - tambourine
+    - cymbals
+    - bass drum
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_alg%C3%A9rienne%2C_Op.60_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4
+    horns (2 natural, 2 chormatic), 2 cornets, 2 trumpets, 3 trombones, tuba, timpani,
+    snare drum, triangle, tambourine, cymbals, bass drum, strings'

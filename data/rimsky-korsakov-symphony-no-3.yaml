@@ -1,0 +1,31 @@
+id: rimsky-korsakov-symphony-no-3
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: Symphony No.3
+  ids:
+    imslp: Symphony No.3, Op.32 (Rimsky-Korsakov, Nikolay)
+  year: 1866
+formula: 3[pic.2.3] 2 2 2 4231 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.3%2C_Op.32_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra :Piccolo, 2 flutes, 2 oboes, 2 clarinets (B,
+    A), 2 bassoons, 4 horns (F, E), 2 trumpets (B, A), 3 trombones, tuba, timpani,
+    strings'
+duration_minutes: 30

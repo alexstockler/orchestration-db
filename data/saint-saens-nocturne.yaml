@@ -1,0 +1,17 @@
+id: saint-saens-nocturne
+work:
+  composer: Saint-Saëns, Camille
+  title: Nocturne
+  ids:
+    imslp: Nocturne (Saint-Saëns, Camille)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nocturne_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

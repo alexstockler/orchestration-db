@@ -1,0 +1,16 @@
+id: mendelssohn-string-symphony-no-12-in-g-minor
+work:
+  composer: Mendelssohn, Felix
+  title: String Symphony No.12 in G minor
+  ids:
+    imslp: String Symphony No.12 in G minor, MWV N 12 (Mendelssohn, Felix)
+  year: 1823
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Symphony_No.12_in_G_minor%2C_MWV_N_12_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'
+duration_minutes: 20

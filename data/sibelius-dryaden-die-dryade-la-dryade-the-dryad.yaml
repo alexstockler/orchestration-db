@@ -1,0 +1,37 @@
+id: sibelius-dryaden-die-dryade-la-dryade-the-dryad
+work:
+  composer: Sibelius, Jean
+  title: Dryaden ; Die Dryade ; La Dryade ; The Dryad
+  ids:
+    imslp: The Dryad, Op.45 No.1 (Sibelius, Jean)
+  year: 1910
+formula: 3[pic.2.3] 2 3[1.2.bcl] 2 4331 str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    instruments:
+    - tambourine
+    - castanets
+    - side drum
+    - bass drum
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Dryad%2C_Op.45_No.1_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 2 clarinets, bass clarinet,
+    2 bassoons,, 4 horns, 3 trumpets, 3 trombones, tuba,, tambourine, castanets, side
+    drum, bass drum, strings'

@@ -1,0 +1,21 @@
+id: bruckner-festgesang
+work:
+  composer: Bruckner, Anton
+  title: Festgesang
+  ids:
+    imslp: Festgesang, WAB 15 (Bruckner, Anton)
+  year: 1855
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - tenor
+  additional_raw: bass + mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Festgesang%2C_WAB_15_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, tenor, bass + mixed chorus (SATB), piano'
+duration_minutes: 8

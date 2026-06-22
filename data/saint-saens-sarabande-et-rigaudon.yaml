@@ -1,0 +1,25 @@
+id: saint-saens-sarabande-et-rigaudon
+work:
+  composer: Saint-Saëns, Camille
+  title: Sarabande et rigaudon
+  ids:
+    imslp: Sarabande et rigaudon, Op.93 (Saint-Saëns, Camille)
+  year: 1892
+formula: 0222 2220 tmp str
+instrumentation:
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 2
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: '#Sarabande: strings #Rigaudon: 2 flutes'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sarabande_et_rigaudon%2C_Op.93_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: #Sarabande: strings #Rigaudon: 2 flutes, 2 oboes, 2 clarinets,
+    2 bassoons, 2 horns, 2 trumpets, 2 trombones, timpani, strings'

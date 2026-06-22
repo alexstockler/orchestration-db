@@ -1,0 +1,24 @@
+id: saint-saens-ouverture-d-un-opera-comique-inacheve
+work:
+  composer: Saint-Saëns, Camille
+  title: Ouverture d'un opéra-comique inachevé
+  ids:
+    imslp: Ouverture d'un opéra-comique inachevé (Saint-Saëns, Camille)
+  year: 1854
+formula: 2222 2220 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ouverture_d%27un_op%C3%A9ra-comique_inachev%C3%A9_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2
+    trumpets, 2 trombones, strings'
+duration_minutes: 5

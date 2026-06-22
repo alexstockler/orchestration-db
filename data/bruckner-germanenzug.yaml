@@ -1,0 +1,31 @@
+id: bruckner-germanenzug
+work:
+  composer: Bruckner, Anton
+  title: Germanenzug
+  ids:
+    imslp: Germanenzug, WAB 70 (Bruckner, Anton)
+  year: 1863
+formula: 0000 0 6[1.2.3.4.cnt.cnt] 3 2[euph.2]
+instrumentation:
+  trumpet:
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  tuba:
+  - instrument: euphonium
+  - {}
+  soloists:
+  - tenors
+  additional_raw: '2 basses + male chorus (TTBB) | Brass Ensemble: 4 horns (2 in F,
+    2 in D)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Germanenzug%2C_WAB_70_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: 2 tenors, 2 basses + male chorus (TTBB), Brass
+    Ensemble: 4 horns (2 in F, 2 in D), 4 trumpets (2 in D, 2 in B), 2 cornets (E,
+    B), 3 trombones, euphonium, tuba'

@@ -1,0 +1,17 @@
+id: debussy-suite-bergamasque
+work:
+  composer: Debussy, Claude
+  title: Suite bergamasque
+  ids:
+    imslp: Suite bergamasque, CD 82 (Debussy, Claude)
+  year: 1890
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_bergamasque%2C_CD_82_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 18

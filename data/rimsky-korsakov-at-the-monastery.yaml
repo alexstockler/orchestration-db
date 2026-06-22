@@ -1,0 +1,15 @@
+id: rimsky-korsakov-at-the-monastery
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: At the Monastery
+  ids:
+    imslp: At the Monastery (Rimsky-Korsakov, Nikolay)
+  year: 1878
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/At_the_Monastery_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

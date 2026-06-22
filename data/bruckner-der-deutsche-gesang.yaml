@@ -1,0 +1,20 @@
+id: bruckner-der-deutsche-gesang
+work:
+  composer: Bruckner, Anton
+  title: Der deutsche Gesang
+  ids:
+    imslp: Der deutsche Gesang, WAB 63 (Bruckner, Anton)
+  year: 1892
+formula: 0000 0331
+instrumentation:
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  chorus_raw: male chorus
+  additional_raw: 'Brass Band: 4 horns (F)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_deutsche_Gesang%2C_WAB_63_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: male chorus (TTBB), Brass Band: 4 horns (F), 3
+    trumpets (F), 3 trombones, tuba'

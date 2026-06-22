@@ -1,0 +1,30 @@
+id: sibelius-en-saga-eine-sage
+work:
+  composer: Sibelius, Jean
+  title: En Saga ; Eine Sage
+  ids:
+    imslp: En Saga, Op.9 (Sibelius, Jean)
+  year: 1892
+formula: 2222 4331 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    instruments:
+    - triangle
+    - cymbals
+    - bass drum
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/En_Saga%2C_Op.9_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra :2 flutes, 2 oboes, 2 clarinets, 2 bassoons,
+    4 horns, 3 trumpets, 3 trombones, tuba, triangle, cymbals, bass drum, strings'
+duration_minutes: 20

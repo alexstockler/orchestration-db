@@ -1,0 +1,16 @@
+id: dvorak-sborove-pisne-pro-muzske-hlasy
+work:
+  composer: Dvořák, Antonín
+  title: Sborové písně pro mužské hlasy
+  ids:
+    imslp: Sborové písně pro mužské hlasy, B.66 (Dvořák, Antonín)
+  year: 1877
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sborov%C3%A9_p%C3%ADsn%C4%9B_pro_mu%C5%BEsk%C3%A9_hlasy%2C_B.66_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'
+duration_minutes: 11

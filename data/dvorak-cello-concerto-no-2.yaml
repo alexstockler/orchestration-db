@@ -1,0 +1,32 @@
+id: dvorak-cello-concerto-no-2
+work:
+  composer: Dvořák, Antonín
+  title: Cello Concerto No.2
+  ids:
+    imslp: Cello Concerto, Op.104 (Dvořák, Antonín)
+  year: 1894
+formula: 3[pic.2.3] 2 2 2 3231 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 3
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Concerto%2C_Op.104_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: 24 parts :piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons,
+    3 horns, 2 trumpets, 3 trombones, tuba, timpani, triangle, strings'
+duration_minutes: 40

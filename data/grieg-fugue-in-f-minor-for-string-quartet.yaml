@@ -1,0 +1,15 @@
+id: grieg-fugue-in-f-minor-for-string-quartet
+work:
+  composer: Grieg, Edvard
+  title: Fugue in F minor for String Quartet
+  ids:
+    imslp: Fugue in F minor for String Quartet, EG 114 (Grieg, Edvard)
+  year: 1861
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_F_minor_for_String_Quartet%2C_EG_114_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

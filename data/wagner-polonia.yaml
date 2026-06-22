@@ -1,0 +1,36 @@
+id: wagner-polonia
+work:
+  composer: Wagner, Richard
+  title: Polonia
+  ids:
+    imslp: Polonia, WWV 39 (Wagner, Richard)
+  year: 1836
+formula: 3[pic.2.3] 2 2 3 4431 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 3
+  horn: 4
+  trumpet: 4
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drums
+    - triangle
+    - bass drum
+    - cymbals
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Polonia%2C_WWV_39_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: piccolo, 2 flutes, 2 oboes, 2 clarinets (C),
+    3 bassoons, 4 horns (2 in F, 2 in C), 4 trumpets (2 in F, 2 in C), 3 trombones,
+    tuba, timpani, 2 snare drums (tamburo militaire and tamburo roulante), triangle,
+    bass drum, cymbals, strings'

@@ -1,0 +1,15 @@
+id: debussy-3-chansons-de-charles-d-orl-ans
+work:
+  composer: Debussy, Claude
+  title: 3 Chansons de Charles d'Orléans
+  ids:
+    imslp: 3 Chansons de Charles d'Orléans, CD 99 (Debussy, Claude)
+  year: 1898
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Chansons_de_Charles_d%27Orl%C3%A9ans%2C_CD_99_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SSAATTBB)'

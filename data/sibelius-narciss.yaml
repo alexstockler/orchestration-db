@@ -1,0 +1,15 @@
+id: sibelius-narciss
+work:
+  composer: Sibelius, Jean
+  title: Narciss
+  ids:
+    imslp: Narciss (Sibelius, Jean)
+  year: 1925
+formula: ''
+instrumentation:
+  additional_raw: Voice and Piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Narciss_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

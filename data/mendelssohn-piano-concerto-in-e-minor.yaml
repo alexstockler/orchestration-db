@@ -1,0 +1,26 @@
+id: mendelssohn-piano-concerto-in-e-minor
+work:
+  composer: Mendelssohn, Felix
+  title: Piano Concerto in E minor
+  ids:
+    imslp: Piano Concerto in E minor, MWV O 13 (Mendelssohn, Felix)
+  year: 1844
+formula: 1111 1100 tmp str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 1
+  trumpet: 1
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Concerto_in_E_minor%2C_MWV_O_13_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: piano, Orchestra: :flutes, oboes, clarinets (C),
+    bassoons, horns (C), trumpets (E), timpani, strings'

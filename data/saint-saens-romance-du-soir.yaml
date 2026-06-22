@@ -1,0 +1,17 @@
+id: saint-saens-romance-du-soir
+work:
+  composer: Saint-Saëns, Camille
+  title: Romance du soir
+  ids:
+    imslp: Romance du soir, Op.118 (Saint-Saëns, Camille)
+  year: 1902
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romance_du_soir%2C_Op.118_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), piano (ad lib.)'

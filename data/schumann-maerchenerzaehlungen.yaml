@@ -1,0 +1,18 @@
+id: schumann-maerchenerzaehlungen
+work:
+  composer: Schumann, Robert
+  title: Maerchenerzaehlungen
+  ids:
+    imslp: Märchenerzählungen, Op.132 (Schumann, Robert)
+  year: 1853
+formula: 0010 0000 pf
+instrumentation:
+  clarinet: 1
+  keyboards:
+  - instrument: piano
+  additional_raw: viola
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/M%C3%A4rchenerz%C3%A4hlungen%2C_Op.132_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet (B) (or violin), viola, piano'

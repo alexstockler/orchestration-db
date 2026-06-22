@@ -1,0 +1,15 @@
+id: grieg-2-valse-caprices
+work:
+  composer: Grieg, Edvard
+  title: 2 Valse Caprices
+  ids:
+    imslp: 2 Walzer-Capricen, Op.37 (Grieg, Edvard)
+  year: 1883
+formula: ''
+instrumentation:
+  additional_raw: piano 4 hands
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Walzer-Capricen%2C_Op.37_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4 hands'

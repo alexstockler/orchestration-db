@@ -1,0 +1,72 @@
+id: saint-saens-samson-et-dalila
+work:
+  composer: Saint-Saëns, Camille
+  title: Samson et Dalila
+  ids:
+    imslp: Samson et Dalila, Op.47 (Saint-Saëns, Camille)
+  year: 1877
+formula: 3[1.2.3/pic] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 4 4[cnt.cnt.3.4] 3 1 tmp 2hp
+  ophicleide str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - bass drum
+    - cymbals
+    - crotales
+    - castanets
+    - snare drum
+    - tam-tam
+    - glockenspiel
+  harp: 2
+  extras:
+  - instrument: ophicleide
+  strings: str
+  soloists:
+  - Samson (tenor)
+  - Dalila (mezzo-soprano)
+  - High Priest of Dagon (baritone)
+  - Abimélech
+  - satrap of Gaza (bass)
+  - First Philistine (tenor)
+  - Second Philistine (bass)
+  - Philistine Messenger (tenor)
+  - Old Hebrew (bass) Mixed Chorus (SATB) :Hebrews and Philistines
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Samson_et_Dalila%2C_Op.47_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Samson (tenor), Dalila (mezzo-soprano), High Priest
+    of Dagon (baritone), Abimélech, satrap of Gaza (bass), First Philistine (tenor),
+    Second Philistine (bass), Philistine Messenger (tenor), Old Hebrew (bass) Mixed
+    Chorus (SATB) :Hebrews and Philistines Orchestra :3 flutes (3rd also piccolo),
+    2 oboes, English horn, 2 clarinets,, bass clarinet, 2 bassoons, contrabassoon,
+    4 horns, 2 cornets, 2 trumpets, 3 trombones, tuba, 2 ophicleides, timpani, triangle,
+    bass drum, cymbals, crotales,, castanets, snare drum, tam-tam, glockenspiel, 2
+    harps, strings'

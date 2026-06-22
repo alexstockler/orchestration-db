@@ -1,0 +1,17 @@
+id: grieg-at-halfdans-kjerulfs-statue
+work:
+  composer: Grieg, Edvard
+  title: At Halfdans Kjerulfs Statue
+  ids:
+    imslp: At Halfdans Kjerulfs Statue, EG 167 (Grieg, Edvard)
+  year: 1874
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/At_Halfdans_Kjerulfs_Statue%2C_EG_167_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, male chorus'

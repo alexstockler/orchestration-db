@@ -1,0 +1,15 @@
+id: saint-saens-elegie-op-143
+work:
+  composer: Saint-Saëns, Camille
+  title: Élégie, Op.143
+  ids:
+    imslp: Elegy, Op.143 (Saint-Saëns, Camille)
+  year: 1915
+formula: ''
+instrumentation:
+  additional_raw: Violin and Piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Elegy%2C_Op.143_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin and Piano'

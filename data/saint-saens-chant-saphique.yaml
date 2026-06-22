@@ -1,0 +1,18 @@
+id: saint-saens-chant-saphique
+work:
+  composer: Saint-Saëns, Camille
+  title: Chant saphique
+  ids:
+    imslp: Chant saphique, Op.91 (Saint-Saëns, Camille)
+  year: 1892
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chant_saphique%2C_Op.91_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'
+duration_minutes: 5

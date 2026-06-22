@@ -1,0 +1,16 @@
+id: debussy-images-pr-miere-s-rie
+work:
+  composer: Debussy, Claude
+  title: Images (Prèmiere Série)
+  ids:
+    imslp: Images, 1re série, CD 105 (Debussy, Claude)
+  year: 1901
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Images%2C_1re_s%C3%A9rie%2C_CD_105_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

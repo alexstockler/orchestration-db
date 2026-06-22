@@ -1,0 +1,18 @@
+id: dvorak-polonaise-in-a-major
+work:
+  composer: Dvořák, Antonín
+  title: Polonaise in A major
+  ids:
+    imslp: Polonaise in A major, B.94 (Dvořák, Antonín)
+  year: 1879
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Polonaise_in_A_major%2C_B.94_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'
+duration_minutes: 9

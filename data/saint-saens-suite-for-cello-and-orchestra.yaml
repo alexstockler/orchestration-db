@@ -1,0 +1,15 @@
+id: saint-saens-suite-for-cello-and-orchestra
+work:
+  composer: Saint-Saëns, Camille
+  title: Suite for Cello and Orchestra
+  ids:
+    imslp: Suite for Cello and Orchestra, Op.16bis (Saint-Saëns, Camille)
+  year: 1919
+formula: ''
+instrumentation:
+  additional_raw: cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_for_Cello_and_Orchestra%2C_Op.16bis_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, orchestra'

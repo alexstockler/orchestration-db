@@ -1,0 +1,16 @@
+id: saint-saens-improvisation-sur-la-beethoven-cantate-de-liszt
+work:
+  composer: Saint-Saëns, Camille
+  title: Improvisation sur la Beethoven-Cantate de Liszt
+  ids:
+    imslp: Improvisation sur la Beethoven-Cantate (Saint-Saëns, Camille)
+  year: 1870
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Improvisation_sur_la_Beethoven-Cantate_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

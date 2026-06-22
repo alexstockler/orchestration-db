@@ -1,0 +1,16 @@
+id: saint-saens-pallas-athenee
+work:
+  composer: Saint-Saëns, Camille
+  title: Pallas Athénée
+  ids:
+    imslp: Pallas Athénée, Op.98 (Saint-Saëns, Camille)
+  year: 1894
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pallas_Ath%C3%A9n%C3%A9e%2C_Op.98_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, orchestra'

@@ -1,0 +1,17 @@
+id: bruckner-herbstkummer
+work:
+  composer: Bruckner, Anton
+  title: Herbstkummer
+  ids:
+    imslp: Herbstkummer, WAB 72 (Bruckner, Anton)
+  year: 1864
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Herbstkummer%2C_WAB_72_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

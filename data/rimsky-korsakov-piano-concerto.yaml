@@ -1,0 +1,26 @@
+id: rimsky-korsakov-piano-concerto
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: Piano Concerto
+  ids:
+    imslp: Piano Concerto, Op.30 (Rimsky-Korsakov, Nikolay)
+  year: 1882
+formula: 2222 2230 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Concerto%2C_Op.30_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets (A), 2 bassoons, 2 horns
+    (E), 2 trumpets (A), 3 trombones, timpani, strings'
+duration_minutes: 15

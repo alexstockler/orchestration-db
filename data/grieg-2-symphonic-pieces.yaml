@@ -1,0 +1,15 @@
+id: grieg-2-symphonic-pieces
+work:
+  composer: Grieg, Edvard
+  title: 2 Symphonic Pieces
+  ids:
+    imslp: 2 Symphonic Pieces, Op.14 (Grieg, Edvard)
+  year: 1875
+formula: ''
+instrumentation:
+  additional_raw: piano 4 hands
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Symphonic_Pieces%2C_Op.14_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4 hands'

@@ -1,0 +1,15 @@
+id: rimsky-korsakov-4-choruses
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: 4 Choruses
+  ids:
+    imslp: 4 Choruses, Op.23 (Rimsky-Korsakov, Nikolay)
+  year: 1876
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Choruses%2C_Op.23_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (TTBB)'

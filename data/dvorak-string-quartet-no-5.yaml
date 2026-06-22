@@ -1,0 +1,15 @@
+id: dvorak-string-quartet-no-5
+work:
+  composer: Dvořák, Antonín
+  title: String Quartet No.5
+  ids:
+    imslp: String Quartet No.5, Op.9 (Dvořák, Antonín)
+  year: 1873
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.5%2C_Op.9_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

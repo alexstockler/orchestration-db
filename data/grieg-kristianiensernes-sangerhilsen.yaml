@@ -1,0 +1,15 @@
+id: grieg-kristianiensernes-sangerhilsen
+work:
+  composer: Grieg, Edvard
+  title: Kristianiensernes sangerhilsen
+  ids:
+    imslp: Kristianiensernes sangerhilsen, EG 173 (Grieg, Edvard)
+  year: 1895
+formula: ''
+instrumentation:
+  additional_raw: baritone solo | male choir
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kristianiensernes_sangerhilsen%2C_EG_173_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: baritone solo, male choir'

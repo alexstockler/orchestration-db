@@ -1,0 +1,17 @@
+id: saint-saens-souvenir-d-ismailia
+work:
+  composer: Saint-Saëns, Camille
+  title: Souvenir d'Ismaïlia
+  ids:
+    imslp: Souvenir d'Ismaïlia, Op.100 (Saint-Saëns, Camille)
+  year: 1895
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Souvenir_d%27Isma%C3%AFlia%2C_Op.100_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 7

@@ -1,0 +1,16 @@
+id: mendelssohn-andante-in-a-major-mwv-u-76
+work:
+  composer: Mendelssohn, Felix
+  title: Andante in A Major, MWV U 76
+  ids:
+    imslp: Andante in A major, MWV U 76 (Mendelssohn, Felix)
+  year: 1830
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_in_A_major%2C_MWV_U_76_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

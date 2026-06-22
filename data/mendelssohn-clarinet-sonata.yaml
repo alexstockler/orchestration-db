@@ -1,0 +1,18 @@
+id: mendelssohn-clarinet-sonata
+work:
+  composer: Mendelssohn, Felix
+  title: Clarinet Sonata
+  ids:
+    imslp: Clarinet Sonata in E-flat major, MWV Q 15 (Mendelssohn, Felix)
+  year: 1824
+formula: 0010 0000 pf
+instrumentation:
+  clarinet: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Clarinet_Sonata_in_E-flat_major%2C_MWV_Q_15_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, piano'
+duration_minutes: 20

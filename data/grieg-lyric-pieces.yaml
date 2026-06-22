@@ -1,0 +1,16 @@
+id: grieg-lyric-pieces
+work:
+  composer: Grieg, Edvard
+  title: Lyric Pieces
+  ids:
+    imslp: Lyric Pieces, Op.12 (Grieg, Edvard)
+  year: 1866
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lyric_Pieces%2C_Op.12_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

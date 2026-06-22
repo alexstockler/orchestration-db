@@ -1,0 +1,19 @@
+id: dvorak-the-orphan
+work:
+  composer: Dvořák, Antonín
+  title: The Orphan
+  ids:
+    imslp: The Orphan, Op.5 (Dvořák, Antonín)
+  year: 1871
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Orphan%2C_Op.5_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 6

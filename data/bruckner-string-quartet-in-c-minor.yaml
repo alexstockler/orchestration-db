@@ -1,0 +1,15 @@
+id: bruckner-string-quartet-in-c-minor
+work:
+  composer: Bruckner, Anton
+  title: String Quartet in C minor
+  ids:
+    imslp: String Quartet, WAB 111 (Bruckner, Anton)
+  year: 1862
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet%2C_WAB_111_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

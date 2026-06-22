@@ -1,0 +1,16 @@
+id: bruckner-dir-herr-dir-will-ich-mich-ergeben
+work:
+  composer: Bruckner, Anton
+  title: Dir, Herr, dir will ich mich ergeben
+  ids:
+    imslp: Dir, Herr, dir will ich mich ergeben, WAB 12 (Bruckner, Anton)
+  year: 1845
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dir%2C_Herr%2C_dir_will_ich_mich_ergeben%2C_WAB_12_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 1

@@ -1,0 +1,15 @@
+id: schumann-6-lieder
+work:
+  composer: Schumann, Robert
+  title: 6 Lieder
+  ids:
+    imslp: 6 Lieder, Op.33 (Schumann, Robert)
+  year: 1840
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Lieder%2C_Op.33_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

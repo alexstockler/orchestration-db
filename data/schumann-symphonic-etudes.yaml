@@ -1,0 +1,16 @@
+id: schumann-symphonic-etudes
+work:
+  composer: Schumann, Robert
+  title: Symphonic Etudes
+  ids:
+    imslp: Symphonic Etudes, Op.13 (Schumann, Robert)
+  year: 1835
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphonic_Etudes%2C_Op.13_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

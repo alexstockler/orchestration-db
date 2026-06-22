@@ -1,0 +1,16 @@
+id: saint-saens-piano-trio-no-2
+work:
+  composer: Saint-Saëns, Camille
+  title: Piano Trio No. 2
+  ids:
+    imslp: Piano Trio No.2, Op.92 (Saint-Saëns, Camille)
+  year: 1891
+formula: ''
+instrumentation:
+  additional_raw: Violin | Cello and Piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio_No.2%2C_Op.92_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin, Cello and Piano'
+duration_minutes: 35

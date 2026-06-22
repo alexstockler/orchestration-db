@@ -1,0 +1,15 @@
+id: sibelius-6-songs-op-86
+work:
+  composer: Sibelius, Jean
+  title: 6 Songs, Op.86
+  ids:
+    imslp: 6 Songs, Op.86 (Sibelius, Jean)
+  year: 1916
+formula: ''
+instrumentation:
+  additional_raw: Voice and Piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Songs%2C_Op.86_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

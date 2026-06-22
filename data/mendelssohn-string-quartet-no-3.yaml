@@ -1,0 +1,16 @@
+id: mendelssohn-string-quartet-no-3
+work:
+  composer: Mendelssohn, Felix
+  title: String Quartet No.3
+  ids:
+    imslp: String Quartet No.3, Op.44 No.1 (Mendelssohn, Felix)
+  year: 1838
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.3%2C_Op.44_No.1_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 31

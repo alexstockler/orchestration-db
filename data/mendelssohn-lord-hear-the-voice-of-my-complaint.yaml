@@ -1,0 +1,16 @@
+id: mendelssohn-lord-hear-the-voice-of-my-complaint
+work:
+  composer: Mendelssohn, Felix
+  title: Lord Hear the Voice of My Complaint
+  ids:
+    imslp: Lord Hear the Voice of My Complaint, MWV B 31 (Mendelssohn, Felix)
+  year: 1839
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lord_Hear_the_Voice_of_My_Complaint%2C_MWV_B_31_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 1

@@ -1,0 +1,25 @@
+id: mendelssohn-hymne-f-r-eine-altstimme-mit-chor-und-orchester
+work:
+  composer: Mendelssohn, Felix
+  title: Hymne für eine Altstimme mit Chor und Orchester
+  ids:
+    imslp: 3 Hymns, Op.96 (Mendelssohn, Felix)
+  year: 1843
+formula: 2221 2200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 1
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Hymns%2C_Op.96_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed Chorus (SATB), Orchestra :2 flutes, 2 oboes, 2 clarinets,
+    bassoon, 2 horns, 2 trumpets, timpani, strings'
+duration_minutes: 14

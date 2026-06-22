@@ -1,0 +1,17 @@
+id: rimsky-korsakov-2-choruses
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: 2 Choruses
+  ids:
+    imslp: 2 Choruses, Op.13 (Rimsky-Korsakov, Nikolay)
+  year: 1874
+formula: harm
+instrumentation:
+  keyboards:
+  - instrument: harmonium
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Choruses%2C_Op.13_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SSA), harmonium (or piano)'

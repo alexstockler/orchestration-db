@@ -1,0 +1,17 @@
+id: saint-saens-danse-macabre-song
+work:
+  composer: Saint-Saëns, Camille
+  title: Danse macabre (song)
+  ids:
+    imslp: Danse macabre (song) (Saint-Saëns, Camille)
+  year: 1872
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Danse_macabre_%28song%29_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, orchestra'
+duration_minutes: 3

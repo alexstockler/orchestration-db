@@ -1,0 +1,16 @@
+id: dvorak-string-quintet-no-3
+work:
+  composer: Dvořák, Antonín
+  title: String Quintet No.3
+  ids:
+    imslp: String Quintet No.3, Op.97 (Dvořák, Antonín)
+  year: 1893
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | 2 violas | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quintet_No.3%2C_Op.97_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, 2 violas, cello'
+duration_minutes: 33

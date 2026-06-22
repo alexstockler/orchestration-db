@@ -1,0 +1,15 @@
+id: wagner-an-weber-s-grabe
+work:
+  composer: Wagner, Richard
+  title: An Weber's Grabe
+  ids:
+    imslp: An Weber's Grabe, WWV 72 (Wagner, Richard)
+  year: 1844
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_Weber%27s_Grabe%2C_WWV_72_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

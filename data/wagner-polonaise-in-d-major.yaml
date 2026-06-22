@@ -1,0 +1,15 @@
+id: wagner-polonaise-in-d-major
+work:
+  composer: Wagner, Richard
+  title: Polonaise in D major
+  ids:
+    imslp: Polonaise in D major, WWV 23 (Wagner, Richard)
+  year: 1831
+formula: ''
+instrumentation:
+  additional_raw: piano solo | piano 4 hands
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Polonaise_in_D_major%2C_WWV_23_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: : piano solo, : piano 4 hands'

@@ -1,0 +1,17 @@
+id: grieg-9-songs
+work:
+  composer: Grieg, Edvard
+  title: 9 Songs
+  ids:
+    imslp: 9 Songs, Op.18 (Grieg, Edvard)
+  year: 1865
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/9_Songs%2C_Op.18_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

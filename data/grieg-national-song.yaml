@@ -1,0 +1,16 @@
+id: grieg-national-song
+work:
+  composer: Grieg, Edvard
+  title: National Song
+  ids:
+    imslp: National Song, EG 151 (Grieg, Edvard)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/National_Song%2C_EG_151_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,16 @@
+id: grieg-19-norwegian-folk-tunes
+work:
+  composer: Grieg, Edvard
+  title: 19 Norwegian Folk Tunes
+  ids:
+    imslp: 19 Norwegian Folk Tunes, Op.66 (Grieg, Edvard)
+  year: 1896
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/19_Norwegian_Folk_Tunes%2C_Op.66_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

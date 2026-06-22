@@ -1,0 +1,16 @@
+id: bruckner-3-preludes-for-organ
+work:
+  composer: Bruckner, Anton
+  title: 3 Preludes for Organ
+  ids:
+    imslp: 3 Preludes for Organ, WAB 127 (Bruckner, Anton)
+  year: 1836
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Preludes_for_Organ%2C_WAB_127_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

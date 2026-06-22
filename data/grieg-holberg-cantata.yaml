@@ -1,0 +1,17 @@
+id: grieg-holberg-cantata
+work:
+  composer: Grieg, Edvard
+  title: Holberg Cantata
+  ids:
+    imslp: Holberg Cantata, EG 171 (Grieg, Edvard)
+  year: 1884
+formula: ''
+instrumentation:
+  soloists:
+  - baritone
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Holberg_Cantata%2C_EG_171_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: baritone, male chorus (TTBB)'

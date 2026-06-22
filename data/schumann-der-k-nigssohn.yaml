@@ -1,0 +1,16 @@
+id: schumann-der-k-nigssohn
+work:
+  composer: Schumann, Robert
+  title: Der Königssohn
+  ids:
+    imslp: Der Königssohn, Op.116 (Schumann, Robert)
+  year: 1851
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: voices | orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_K%C3%B6nigssohn%2C_Op.116_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

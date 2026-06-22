@@ -1,0 +1,18 @@
+id: saint-saens-heureux-qui-du-coeur-de-marie
+work:
+  composer: Saint-Saëns, Camille
+  title: Heureux qui du coeur de Marie
+  ids:
+    imslp: Heureux qui du coeur de Marie (Saint-Saëns, Camille)
+  year: 1859
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Heureux_qui_du_coeur_de_Marie_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

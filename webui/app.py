@@ -23,9 +23,11 @@ sys.path.insert(0, ROOT)
 from instrdb import Instrumentation, render, parse                # noqa: E402
 from instrdb.sources.boosey import parse_scoring                  # noqa: E402
 from instrdb.validate import validate_entry                       # noqa: E402
+from webui.library import Library                                 # noqa: E402
 
 DATA_DIR = os.path.join(ROOT, "data")
 app = Flask(__name__)
+library = Library(DATA_DIR)
 
 
 def slugify(*parts) -> str:
@@ -135,6 +137,7 @@ def api_save():
     path = os.path.join(DATA_DIR, f"{eid}.yaml")
     with open(path, "w") as fh:
         fh.write(dump_yaml(entry))
+    library.refresh()
     return jsonify(ok=True, path=os.path.relpath(path, ROOT))
 
 
@@ -157,6 +160,39 @@ def api_list():
             "problems": problems,
         })
     return jsonify(ok=True, rows=rows)
+
+
+@app.get("/api/library")
+def api_library():
+    """Server-side search / filter / sort / pagination over the collection."""
+    args = request.args
+    result = library.query(
+        q=args.get("q", ""),
+        composer=args.get("composer", ""),
+        source=args.get("source", ""),
+        confidence=args.get("confidence", ""),
+        valid=args.get("valid", ""),
+        sort=args.get("sort", "composer"),
+        page=args.get("page", 1, type=int),
+        page_size=args.get("page_size", 50, type=int),
+    )
+    return jsonify(ok=True, **result)
+
+
+@app.get("/api/entry/<entry_id>")
+def api_entry(entry_id):
+    """Full detail for a single work, with a human-readable breakdown."""
+    detail = library.get(entry_id)
+    if detail is None:
+        return jsonify(ok=False, error="not found"), 404
+    return jsonify(ok=True, **detail)
+
+
+@app.post("/api/refresh")
+def api_refresh():
+    """Reload the in-memory index from disk (after external edits)."""
+    library.refresh()
+    return jsonify(ok=True, total=library.query(page_size=1)["total"])
 
 
 if __name__ == "__main__":

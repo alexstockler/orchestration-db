@@ -1,0 +1,15 @@
+id: saint-saens-triptyque-op-136
+work:
+  composer: Saint-Saëns, Camille
+  title: Triptyque, Op.136
+  ids:
+    imslp: Triptyque, Op.136 (Saint-Saëns, Camille)
+  year: 1912
+formula: ''
+instrumentation:
+  additional_raw: Violin and Piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Triptyque%2C_Op.136_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin and Piano'

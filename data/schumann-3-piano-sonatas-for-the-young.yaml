@@ -1,0 +1,16 @@
+id: schumann-3-piano-sonatas-for-the-young
+work:
+  composer: Schumann, Robert
+  title: 3 Piano Sonatas for the Young
+  ids:
+    imslp: 3 Piano Sonatas for the Young, Op.118 (Schumann, Robert)
+  year: 1853
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Piano_Sonatas_for_the_Young%2C_Op.118_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

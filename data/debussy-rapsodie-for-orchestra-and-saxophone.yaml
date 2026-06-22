@@ -1,0 +1,20 @@
+id: debussy-rapsodie-for-orchestra-and-saxophone
+work:
+  composer: Debussy, Claude
+  title: Rapsodie for Orchestra and Saxophone
+  ids:
+    imslp: Rapsodie for Orchestra and Saxophone, CD 104 (Debussy, Claude)
+  year: 1901
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  saxophones:
+  - instrument: alto_sax
+    count: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rapsodie_for_Orchestra_and_Saxophone%2C_CD_104_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: alto saxophone, piano'
+duration_minutes: 10

@@ -1,0 +1,17 @@
+id: schumann-soldatenlied
+work:
+  composer: Schumann, Robert
+  title: Soldatenlied
+  ids:
+    imslp: Soldatenlied, WoO 7 (Schumann, Robert)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Soldatenlied%2C_WoO_7_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

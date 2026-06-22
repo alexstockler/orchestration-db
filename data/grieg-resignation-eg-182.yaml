@@ -1,0 +1,16 @@
+id: grieg-resignation-eg-182
+work:
+  composer: Grieg, Edvard
+  title: Resignation, EG 182
+  ids:
+    imslp: Resignation, EG 182 (Grieg, Edvard)
+formula: 0000 1000 str
+instrumentation:
+  horn: 1
+  strings: str
+  additional_raw: orchestra | voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Resignation%2C_EG_182_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra, voice, horn, strings'

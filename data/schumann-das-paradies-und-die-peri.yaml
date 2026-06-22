@@ -1,0 +1,36 @@
+id: schumann-das-paradies-und-die-peri
+work:
+  composer: Schumann, Robert
+  title: Das Paradies und die Peri
+  ids:
+    imslp: Das Paradies und die Peri, Op.50 (Schumann, Robert)
+  year: 1843
+formula: 3[pic.2.3] 2 2 2 4230 tmp+2 str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    players: 2
+  strings: str
+  soloists:
+  - Voices (soprano, alto, tenor, bass)
+  - Mixed Chorus (SATB)
+  additional_raw: ophecleide (tuba)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Paradies_und_die_Peri%2C_Op.50_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Voices (soprano, alto, tenor,
+    bass), Mixed Chorus (SATB), Orchestra ::piccolo, 2 flutes, 2 oboes, 2 clarinets,
+    2 bassoons, 4 horns, 2 trumpets, 3 trombones, ophecleide (tuba), timpani, 2 percussion,
+    strings'
+duration_minutes: 95

@@ -1,0 +1,17 @@
+id: debussy-voici-que-le-printemps
+work:
+  composer: Debussy, Claude
+  title: Voici que le printemps
+  ids:
+    imslp: Voici que le printemps, CD 56 (Debussy, Claude)
+  year: 1884
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Voici_que_le_printemps%2C_CD_56_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

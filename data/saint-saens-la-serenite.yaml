@@ -1,0 +1,18 @@
+id: saint-saens-la-serenite
+work:
+  composer: Saint-Saëns, Camille
+  title: La sérénité
+  ids:
+    imslp: La sérénité (Saint-Saëns, Camille)
+  year: 1893
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_s%C3%A9r%C3%A9nit%C3%A9_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

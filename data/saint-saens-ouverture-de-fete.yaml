@@ -1,0 +1,17 @@
+id: saint-saens-ouverture-de-fete
+work:
+  composer: Saint-Saëns, Camille
+  title: Ouverture de fête
+  ids:
+    imslp: Ouverture de fête, Op.133 (Saint-Saëns, Camille)
+  year: 1910
+formula: ''
+instrumentation:
+  additional_raw: timbres"), triangle, cymbals, bass drum, 2 harps and strings)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ouverture_de_f%C3%AAte%2C_Op.133_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra (piccolo, 2 flutes, 2 oboes, english horn, 2
+    clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 4 trumpets, 3 trombones,
+    tuba, timpani, bells ("timbres"), triangle, cymbals, bass drum, 2 harps and strings)'

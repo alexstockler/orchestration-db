@@ -1,0 +1,16 @@
+id: debussy-morceau-de-concours
+work:
+  composer: Debussy, Claude
+  title: Morceau de concours
+  ids:
+    imslp: Morceau de concours, CD 117 (Debussy, Claude)
+  year: 1904
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Morceau_de_concours%2C_CD_117_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

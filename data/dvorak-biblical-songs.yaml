@@ -1,0 +1,26 @@
+id: dvorak-biblical-songs
+work:
+  composer: Dvořák, Antonín
+  title: Biblical Songs
+  ids:
+    imslp: Biblical Songs, Op.99 (Dvořák, Antonín)
+  year: 1894
+formula: 2020 2200 tmp hp str
+instrumentation:
+  flute: 2
+  clarinet: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Biblical_Songs%2C_Op.99_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestration :2 flutes, 2 clarinets, 2 horns, 2 trumpets,
+    timpani, triangle, harp, strings'
+duration_minutes: 25

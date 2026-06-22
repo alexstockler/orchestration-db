@@ -1,0 +1,17 @@
+id: saint-saens-2-pieces
+work:
+  composer: Saint-Saëns, Camille
+  title: 2 Pieces
+  ids:
+    imslp: 2 Organ Pieces (Saint-Saëns, Camille)
+  year: 1853
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Organ_Pieces_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 6

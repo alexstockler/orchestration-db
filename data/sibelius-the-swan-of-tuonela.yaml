@@ -1,0 +1,29 @@
+id: sibelius-the-swan-of-tuonela
+work:
+  composer: Sibelius, Jean
+  title: The Swan of Tuonela
+  ids:
+    imslp: The Swan of Tuonela, Op.22 No.2 (Sibelius, Jean)
+  year: 1895
+formula: 0 2[1.Eh] 1[bcl] 0 4030 tmp hp str
+instrumentation:
+  oboe:
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - instrument: bass_clarinet
+  horn: 4
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Swan_of_Tuonela%2C_Op.22_No.2_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, English horn, bass clarinet, 4 horns, 3 trombones,
+    timpani, bass drum, harp, strings'
+duration_minutes: 9

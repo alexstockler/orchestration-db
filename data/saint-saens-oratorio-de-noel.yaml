@@ -1,0 +1,19 @@
+id: saint-saens-oratorio-de-noel
+work:
+  composer: Saint-Saëns, Camille
+  title: Oratorio de Noël
+  ids:
+    imslp: Oratorio de Noël, Op.12 (Saint-Saëns, Camille)
+  year: 1858
+formula: org hp str
+instrumentation:
+  keyboards:
+  - instrument: organ
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oratorio_de_No%C3%ABl%2C_Op.12_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: harp, organ, strings'
+duration_minutes: 40

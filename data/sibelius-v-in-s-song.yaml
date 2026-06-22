@@ -1,0 +1,16 @@
+id: sibelius-v-in-s-song
+work:
+  composer: Sibelius, Jean
+  title: Väinö's Song
+  ids:
+    imslp: Väinö's Song, Op.110 (Sibelius, Jean)
+  year: 1926
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/V%C3%A4in%C3%B6%27s_Song%2C_Op.110_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: chorus, orchestra'

@@ -1,0 +1,16 @@
+id: debussy-preludes-deuxi-me-livre
+work:
+  composer: Debussy, Claude
+  title: Preludes (Deuxième livre)
+  ids:
+    imslp: Préludes, Livre 2, CD 131 (Debussy, Claude)
+  year: 1912
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pr%C3%A9ludes%2C_Livre_2%2C_CD_131_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

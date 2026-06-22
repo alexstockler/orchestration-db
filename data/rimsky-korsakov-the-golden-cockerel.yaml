@@ -1,0 +1,68 @@
+id: rimsky-korsakov-the-golden-cockerel
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: The Golden Cockerel
+  ids:
+    imslp: The Golden Cockerel (opera) (Rimsky-Korsakov, Nikolay)
+  year: 1906
+formula: 3[1.2/pic.3/pic] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 4231 tmp cel 2hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - snare drum
+    - tambourine
+    - cymbals
+    - bass drum
+    - xylophone
+    - glockenspiel
+  keyboards:
+  - instrument: celesta
+  harp: 2
+  strings: str
+  soloists:
+  - Tsar Dodon (Царь Додон) (bass)
+  - Tsarevich Gvidon (Царевич Гвидон) (tenor)
+  - Tsarevich Afron (Царевич Афрон) (baritone)
+  - Воевода Полкан (General Polkan) (bass)
+  - Amelfa (Амелфа) (contralto)
+  - Astrologer (Звездочёт) (tenor-altino)
+  - Shemakhan Tsaritsa (Шемаханская царица) (soprano)
+  - Golden Cockerel (Золотой петушок) (soprano) Mixed Chorus (SATB)
+  additional_raw: alto trumpet
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Golden_Cockerel_%28opera%29_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Tsar Dodon (Царь Додон) (bass), Tsarevich Gvidon
+    (Царевич Гвидон) (tenor), Tsarevich Afron (Царевич Афрон) (baritone), Воевода
+    Полкан (General Polkan) (bass), Amelfa (Амелфа) (contralto), Astrologer (Звездочёт)
+    (tenor-altino), Shemakhan Tsaritsa (Шемаханская царица) (soprano), Golden Cockerel
+    (Золотой петушок) (soprano) Mixed Chorus (SATB), Orchestra :3 flutes (2nd and
+    3rd also piccolo), 2 oboes, English horn, 2 clarinets, ::bass clarinet, 2 bassoons,
+    contrabassoon ::4 horns, 2 trumpets, alto trumpet, 3 trombones, tuba, timpani,
+    triangle, snare drum, tambourine, cymbals, bass drum,, xylophone, glockenspiel,
+    celesta, 2 harps, strings'

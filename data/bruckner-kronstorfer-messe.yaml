@@ -1,0 +1,16 @@
+id: bruckner-kronstorfer-messe
+work:
+  composer: Bruckner, Anton
+  title: Kronstorfer Messe
+  ids:
+    imslp: Kronstorfer Messe, WAB 146 (Bruckner, Anton)
+  year: 1843
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kronstorfer_Messe%2C_WAB_146_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 5

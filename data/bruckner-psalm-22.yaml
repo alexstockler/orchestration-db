@@ -1,0 +1,23 @@
+id: bruckner-psalm-22
+work:
+  composer: Bruckner, Anton
+  title: Psalm 22
+  ids:
+    imslp: Psalm 22, WAB 34 (Bruckner, Anton)
+  year: 1852
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - bass
+  chorus_raw: mixed chorus
+  additional_raw: alto tenor
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Psalm_22%2C_WAB_34_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, alto tenor, bass; mixed chorus (SATB),
+    piano'
+duration_minutes: 7

@@ -1,0 +1,17 @@
+id: debussy-en-blanc-et-noir
+work:
+  composer: Debussy, Claude
+  title: En blanc et noir
+  ids:
+    imslp: En blanc et noir, CD 142 (Debussy, Claude)
+  year: 1915
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/En_blanc_et_noir%2C_CD_142_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 pianos'

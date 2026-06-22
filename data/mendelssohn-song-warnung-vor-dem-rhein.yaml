@@ -1,0 +1,18 @@
+id: mendelssohn-song-warnung-vor-dem-rhein
+work:
+  composer: Mendelssohn, Felix
+  title: Song, Warnung vor dem Rhein
+  ids:
+    imslp: Warnung vor dem Rhein, WoO 16 (Mendelssohn, Felix)
+  year: 1840
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Warnung_vor_dem_Rhein%2C_WoO_16_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 3

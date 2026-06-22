@@ -1,0 +1,16 @@
+id: wagner-der-tag-erscheint-wwv-68
+work:
+  composer: Wagner, Richard
+  title: Der Tag erscheint, WWV 68
+  ids:
+    imslp: Der Tag erscheint, WWV 68 (Wagner, Richard)
+  year: 1843
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Tag_erscheint%2C_WWV_68_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'
+duration_minutes: 4

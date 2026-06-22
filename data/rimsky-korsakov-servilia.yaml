@@ -1,0 +1,67 @@
+id: rimsky-korsakov-servilia
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: Servilia
+  ids:
+    imslp: Servilia (Rimsky-Korsakov, Nikolay)
+  year: 1900
+formula: 3[1.2.3/pic] 2[1.2/Eh] 3[1.2.bcl] 2 4331 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - bass drum
+    - triangle
+    - tam-tam
+  harp: 1
+  strings: str
+  soloists:
+  - Servilia
+  - Soranus
+  - Trasea
+  - Valerius
+  - Egnatius
+  - Praetor
+  - Herald :Mixed Chorus ::Senators
+  - Tribunes
+  - Priests
+  - Praetorians
+  - Gladiators
+  - Soldiers
+  - Musicians
+  - Sellers
+  - Singers
+  - Citizens
+  - Christians
+  - People
+  - 'Slaves :'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Servilia_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Cast ::Servilia, Soranus, Trasea,
+    Valerius, Egnatius, Praetor, Herald :Mixed Chorus ::Senators, Tribunes, Priests,
+    Praetorians, Gladiators, Soldiers,, Musicians, Sellers, Singers, Citizens, Christians,
+    People, Slaves :Orchestra ::3 flutes (3rd also piccolo), 2 oboes (2nd also English
+    horn), :::2 clarinets (A/B), bass clarinet (B), 2 bassoons ::4 horns (F), 3 trumpets
+    (A/B, 1 on stage), 3 trombones, tuba, timpani, cymbals, bass drum, triangle, tam-tam,
+    harp, strings'

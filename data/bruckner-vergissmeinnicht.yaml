@@ -1,0 +1,22 @@
+id: bruckner-vergissmeinnicht
+work:
+  composer: Bruckner, Anton
+  title: Vergissmeinnicht
+  ids:
+    imslp: Vergissmeinnicht, WAB 93 (Bruckner, Anton)
+  year: 1845
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  additional_raw: bass + mixed chorus (SSAATTBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vergissmeinnicht%2C_WAB_93_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, alto, tenor, bass + mixed chorus (SSAATTBB),
+    piano'

@@ -1,0 +1,15 @@
+id: rimsky-korsakov-we-praise-thee-o-god
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: We Praise Thee, O God
+  ids:
+    imslp: We Praise Thee, O God (Rimsky-Korsakov, Nikolay)
+  year: 1883
+formula: ''
+instrumentation:
+  additional_raw: 2 mixed choruses (SATB/SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/We_Praise_Thee%2C_O_God_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 mixed choruses (SATB/SATB)'

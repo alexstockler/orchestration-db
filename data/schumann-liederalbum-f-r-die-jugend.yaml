@@ -1,0 +1,17 @@
+id: schumann-liederalbum-f-r-die-jugend
+work:
+  composer: Schumann, Robert
+  title: Liederalbum für die Jugend
+  ids:
+    imslp: Liederalbum für die Jugend, Op.79 (Schumann, Robert)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 1-2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Liederalbum_f%C3%BCr_die_Jugend%2C_Op.79_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: 1-2 voices, piano'

@@ -1,0 +1,16 @@
+id: mendelssohn-musikantenpr-gelei
+work:
+  composer: Mendelssohn, Felix
+  title: Musikantenprügelei
+  ids:
+    imslp: Musikantenprügelei, MWV G 13 (Mendelssohn, Felix)
+  year: 1833
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Musikantenpr%C3%BCgelei%2C_MWV_G_13_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'
+duration_minutes: 2

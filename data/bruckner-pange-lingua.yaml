@@ -1,0 +1,16 @@
+id: bruckner-pange-lingua
+work:
+  composer: Bruckner, Anton
+  title: Pange lingua
+  ids:
+    imslp: Pange, lingua, gloriosi Corporis mysterium, WAB 31 (Bruckner, Anton)
+  year: 1835
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pange%2C_lingua%2C_gloriosi_Corporis_mysterium%2C_WAB_31_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 1

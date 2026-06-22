@@ -1,0 +1,17 @@
+id: mendelssohn-jesu-meine-freude
+work:
+  composer: Mendelssohn, Felix
+  title: Jesu, meine Freude
+  ids:
+    imslp: Jesu, meine Freude, MWV A 6 (Mendelssohn, Felix)
+  year: 1828
+formula: str
+instrumentation:
+  strings: str
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jesu%2C_meine_Freude%2C_MWV_A_6_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), strings'
+duration_minutes: 5

@@ -1,0 +1,41 @@
+id: rimsky-korsakov-tale-of-tsar-saltan
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: Tale of Tsar Saltan
+  ids:
+    imslp: The Tale of Tsar Saltan (suite), Op.57 (Rimsky-Korsakov, Nikolay)
+  year: 1901
+formula: 3[1.2.pic] 3[1.2.Eh] 3 3[1.2.cbn] 4331 tmp+1 cel hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - instrument: piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 3
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+  keyboards:
+  - instrument: celesta
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Tale_of_Tsar_Saltan_%28suite%29%2C_Op.57_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, piccolo, 2 oboes, English horn, 3 clarinets,
+    2 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, percussion,
+    celesta, harp, strings'
+duration_minutes: 19

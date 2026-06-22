@@ -1,0 +1,16 @@
+id: mendelssohn-sinfonia-xiii-in-c-minor
+work:
+  composer: Mendelssohn, Felix
+  title: Sinfonia XIII in C minor
+  ids:
+    imslp: String Symphony No.13 in C minor, MWV N 14 (Mendelssohn, Felix)
+  year: 1824
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Symphony_No.13_in_C_minor%2C_MWV_N_14_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'
+duration_minutes: 8

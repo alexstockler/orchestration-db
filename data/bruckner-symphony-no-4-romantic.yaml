@@ -1,0 +1,42 @@
+id: bruckner-symphony-no-4-romantic
+work:
+  composer: Bruckner, Anton
+  title: Symphony No. 4 'Romantic'
+  ids:
+    imslp: Symphony No.4 in E-flat major, WAB 104 (Bruckner, Anton)
+  year: 1874
+formula: 7[1.2.3/pic.4.5.6.7] 6 6 6 12[1.2.3.4.5.6.7.8.9.10.11.12] 9 9 2 tmp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  - {}
+  - {}
+  - {}
+  - {}
+  oboe: 6
+  clarinet: 6
+  bassoon: 6
+  horn: 12
+  trumpet: 9
+  trombone: 9
+  tuba: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+  strings: str
+  additional_raw: '*1st Version (1874) | *Revised 2nd Version (1878/80) | per Nowak
+    critical edition | *3rd Version (1889)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.4_in_E-flat_major%2C_WAB_104_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: ;*1st Version (1874) :2 flutes, 2 oboes, 2 clarinets, 2
+    bassoons, 4 horns, 3 trumpets, 3 trombones, timpani, strings ;*Revised 2nd Version
+    (1878/80), per Nowak critical edition :2 flutes, 2 oboes, 2 clarinets, 2 bassoons,
+    4 horns, 3 trumpets, 3 trombones, tuba, timpani, strings ;*3rd Version (1889)
+    :3 flutes (3rd also piccolo), 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 3 trumpets,
+    3 trombones, tuba, timpani, cymbals, strings'

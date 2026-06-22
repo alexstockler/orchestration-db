@@ -1,0 +1,16 @@
+id: schumann-ges-nge-der-fr-he
+work:
+  composer: Schumann, Robert
+  title: Gesänge der Frühe
+  ids:
+    imslp: Gesänge der Frühe, Op.133 (Schumann, Robert)
+  year: 1853
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ges%C3%A4nge_der_Fr%C3%BChe%2C_Op.133_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

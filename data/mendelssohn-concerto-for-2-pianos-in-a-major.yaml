@@ -1,0 +1,27 @@
+id: mendelssohn-concerto-for-2-pianos-in-a-major
+work:
+  composer: Mendelssohn, Felix
+  title: Concerto for 2 Pianos in A major
+  ids:
+    imslp: Concerto for 2 Pianos in A-flat major, MWV O 6 (Mendelssohn, Felix)
+  year: 1824
+formula: 2222 2200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - 2 pianos
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Pianos_in_A-flat_major%2C_MWV_O_6_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: Soli: 2 pianos, Orchestra: 2 flutes, 2 oboes, 2 clarinets,
+    2 bassoons, 2 horns, 2 trumpet, timpani, strings'
+duration_minutes: 42

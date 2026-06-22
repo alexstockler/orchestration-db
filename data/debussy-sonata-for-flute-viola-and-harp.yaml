@@ -1,0 +1,17 @@
+id: debussy-sonata-for-flute-viola-and-harp
+work:
+  composer: Debussy, Claude
+  title: Sonata for Flute, Viola and Harp
+  ids:
+    imslp: Sonata for Flute, Viola and Harp, CD 145 (Debussy, Claude)
+  year: 1915
+formula: 1000 0000 hp
+instrumentation:
+  flute: 1
+  harp: 1
+  additional_raw: viola
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_for_Flute%2C_Viola_and_Harp%2C_CD_145_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, viola, harp'

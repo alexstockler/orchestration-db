@@ -1,0 +1,16 @@
+id: saint-saens-helene
+work:
+  composer: Saint-Saëns, Camille
+  title: Hélène
+  ids:
+    imslp: Hélène (Saint-Saëns, Camille)
+  year: 1902
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/H%C3%A9l%C3%A8ne_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

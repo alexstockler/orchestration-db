@@ -1,0 +1,17 @@
+id: mendelssohn-6-duets
+work:
+  composer: Mendelssohn, Felix
+  title: 6 Duets
+  ids:
+    imslp: 6 Duets, Op.63 (Mendelssohn, Felix)
+  year: 1836
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Duets%2C_Op.63_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, piano'

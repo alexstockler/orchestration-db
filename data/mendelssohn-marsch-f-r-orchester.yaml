@@ -1,0 +1,24 @@
+id: mendelssohn-marsch-f-r-orchester
+work:
+  composer: Mendelssohn, Felix
+  title: Marsch für Orchester
+  ids:
+    imslp: March in D major, Op.108 (Mendelssohn, Felix)
+  year: 1841
+formula: 0222 2230 tmp str
+instrumentation:
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/March_in_D_major%2C_Op.108_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets,
+    3 trombones, timpani, strings'

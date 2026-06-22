@@ -1,0 +1,19 @@
+id: bruckner-lasst-jubelt-ne-laut-erklingen
+work:
+  composer: Bruckner, Anton
+  title: Lasst Jubeltöne laut erklingen
+  ids:
+    imslp: Lasst Jubeltöne laut erklingen, WAB 76 (Bruckner, Anton)
+  year: 1854
+formula: 0000 0240
+instrumentation:
+  trumpet: 2
+  trombone: 4
+  chorus_raw: male chorus
+  additional_raw: 'Brass Ensemble: 2 horns (E)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lasst_Jubelt%C3%B6ne_laut_erklingen%2C_WAB_76_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: male chorus (TTBB), Brass Ensemble: 2 horns (E),
+    2 trumpets (E), 4 trombones (alto, tenor, 2 bass)'

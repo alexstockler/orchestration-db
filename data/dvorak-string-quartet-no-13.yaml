@@ -1,0 +1,15 @@
+id: dvorak-string-quartet-no-13
+work:
+  composer: Dvořák, Antonín
+  title: String Quartet No.13
+  ids:
+    imslp: String Quartet No.13, Op.106 (Dvořák, Antonín)
+  year: 1895
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.13%2C_Op.106_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

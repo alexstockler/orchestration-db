@@ -1,0 +1,18 @@
+id: saint-saens-le-sommeil-des-fleurs
+work:
+  composer: Saint-Saëns, Camille
+  title: Le sommeil des fleurs
+  ids:
+    imslp: Le sommeil des fleurs (Saint-Saëns, Camille)
+  year: 1855
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_sommeil_des_fleurs_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

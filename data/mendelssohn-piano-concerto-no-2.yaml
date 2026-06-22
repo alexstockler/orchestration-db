@@ -1,0 +1,27 @@
+id: mendelssohn-piano-concerto-no-2
+work:
+  composer: Mendelssohn, Felix
+  title: Piano Concerto No.2
+  ids:
+    imslp: Piano Concerto No.2, Op.40 (Mendelssohn, Felix)
+  year: 1837
+formula: 2222 2200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Concerto_No.2%2C_Op.40_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: piano, Orchestra: :2 flutes, 2 oboes, 2 clarinets
+    (B), 2 bassoons, 2 horns (F), 2 trumpets (D), timpani, strings'
+duration_minutes: 24

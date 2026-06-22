@@ -1,0 +1,17 @@
+id: wagner-z-richer-vielliebchen-walzer
+work:
+  composer: Wagner, Richard
+  title: Züricher Vielliebchen-Walzer
+  ids:
+    imslp: Züricher Vielliebchen-Walzer, WWV 88 (Wagner, Richard)
+  year: 1854
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Z%C3%BCricher_Vielliebchen-Walzer%2C_WWV_88_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 2

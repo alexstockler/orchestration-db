@@ -1,0 +1,17 @@
+id: sibelius-suite-for-violin-and-string-orchestra
+work:
+  composer: Sibelius, Jean
+  title: Suite for Violin and String Orchestra
+  ids:
+    imslp: Suite for Violin and String Orchestra, Op.117 (Sibelius, Jean)
+  year: 1929
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_for_Violin_and_String_Orchestra%2C_Op.117_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, string orchestra'
+duration_minutes: 8

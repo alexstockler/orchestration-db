@@ -1,0 +1,18 @@
+id: bruckner-abendzauber
+work:
+  composer: Bruckner, Anton
+  title: Abendzauber
+  ids:
+    imslp: Abendzauber, WAB 57 (Bruckner, Anton)
+  year: 1878
+formula: 0000 4000
+instrumentation:
+  horn: 4
+  additional_raw: yodelers" (SSA)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Abendzauber%2C_WAB_57_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor (or baritone), male chorus (TTBB), "yodelers" (SSA),
+    4 horns (F)'
+duration_minutes: 5

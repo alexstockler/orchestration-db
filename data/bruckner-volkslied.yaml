@@ -1,0 +1,16 @@
+id: bruckner-volkslied
+work:
+  composer: Bruckner, Anton
+  title: Volkslied
+  ids:
+    imslp: Volkslied, WAB 94 (Bruckner, Anton)
+  year: 1882
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+  additional_raw: Variant 2 | voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Volkslied%2C_WAB_94_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Variant 1: male chorus (TTBB), Variant 2: voice and piano'

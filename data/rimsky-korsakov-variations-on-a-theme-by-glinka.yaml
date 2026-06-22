@@ -1,0 +1,48 @@
+id: rimsky-korsakov-variations-on-a-theme-by-glinka
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: Variations on a Theme by Glinka
+  ids:
+    imslp: Variations on a Theme by Glinka (Rimsky-Korsakov, Nikolay)
+  year: 1878
+formula: 3[pic.2.3] 0 5[1.2.3.bcl.bcl] 2 4 6[cnt.cnt.3.4.5.6] 3 3[euph.2.3]
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  - {}
+  - {}
+  trombone: 3
+  tuba:
+  - instrument: euphonium
+  - {}
+  - {}
+  percussion:
+    instruments:
+    - bass drum
+    - cymbals
+    - side drum
+    - triangle
+  additional_raw: piccolo clarinet (E
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variations_on_a_Theme_by_Glinka_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: :piccolo, 2 flutes, 3 clarinets, piccolo clarinet (E, 2
+    bass clarinets, 2 bassoons, 4 horns, 2 cornets, 4 trumpets, 3 trombones, euphonium,
+    2 tubas, bass drum, cymbals, side drum, triangle'
+duration_minutes: 10

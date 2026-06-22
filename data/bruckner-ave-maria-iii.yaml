@@ -1,0 +1,19 @@
+id: bruckner-ave-maria-iii
+work:
+  composer: Bruckner, Anton
+  title: Ave Maria (III)
+  ids:
+    imslp: Ave Maria, WAB 7 (Bruckner, Anton)
+  year: 1882
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - alto
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_Maria%2C_WAB_7_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, organ (or piano/harmonium)'
+duration_minutes: 3

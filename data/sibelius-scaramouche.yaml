@@ -1,0 +1,34 @@
+id: sibelius-scaramouche
+work:
+  composer: Sibelius, Jean
+  title: Scaramouche
+  ids:
+    imslp: Scaramouche, Op.71 (Sibelius, Jean)
+  year: 1913
+formula: 2[1.2/pic] 2 2 2 4000 tmp pf str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tambourine
+  keyboards:
+  - instrument: piano
+  strings: str
+  additional_raw: offstage cornet | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scaramouche%2C_Op.71_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes, 2 clarinets, 2 bassoons,
+    4 horns, timpani, triangle, tambourine, piano, strings, offstage cornet, viola,
+    cello'
+duration_minutes: 70

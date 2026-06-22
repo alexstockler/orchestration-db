@@ -1,0 +1,17 @@
+id: wagner-albumblatt-f-r-frau-betty-schott
+work:
+  composer: Wagner, Richard
+  title: Albumblatt für Frau Betty Schott
+  ids:
+    imslp: Albumblatt für Frau Betty Schott, WWV 108 (Wagner, Richard)
+  year: 1875
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Albumblatt_f%C3%BCr_Frau_Betty_Schott%2C_WWV_108_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 5

@@ -1,0 +1,17 @@
+id: mendelssohn-allegro-in-d-minor
+work:
+  composer: Mendelssohn, Felix
+  title: Allegro in D minor
+  ids:
+    imslp: Allegro in D minor, MWV W 33 (Mendelssohn, Felix)
+  year: 1844
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegro_in_D_minor%2C_MWV_W_33_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 9

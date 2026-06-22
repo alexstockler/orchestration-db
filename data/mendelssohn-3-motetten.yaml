@@ -1,0 +1,18 @@
+id: mendelssohn-3-motetten
+work:
+  composer: Mendelssohn, Felix
+  title: 3 Motetten
+  ids:
+    imslp: 3 Motets, Op.39 (Mendelssohn, Felix)
+  year: 1830
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Motets%2C_Op.39_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SSA), organ'
+duration_minutes: 18

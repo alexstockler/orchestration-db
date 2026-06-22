@@ -1,0 +1,26 @@
+id: dvorak-vanda
+work:
+  composer: Dvořák, Antonín
+  title: Vanda
+  ids:
+    imslp: Vanda (overture), B.97 (Dvořák, Antonín)
+  year: 1879
+formula: 2222 4230 tmp
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  additional_raw: stings
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vanda_%28overture%29%2C_B.97_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2
+    trumpets, 3 trombones, timpani, stings'
+duration_minutes: 9

@@ -1,0 +1,44 @@
+id: sibelius-pohjolan-tyt-r-pohjola-s-daughter
+work:
+  composer: Sibelius, Jean
+  title: Pohjolan tytär ; Pohjola's Daughter
+  ids:
+    imslp: Pohjola's Daughter, Op.49 (Sibelius, Jean)
+  year: 1905
+formula: 3[pic.2.3] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 4 4[cnt.cnt.3.4] 3 1 tmp hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pohjola%27s_Daughter%2C_Op.49_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, english horn, 2 clarinets,
+    bass clarinet, 2 bassoons, contrabassoon, 4 horns, 2 cornets, 2 trumpets, 3 trombones,
+    tuba, timpani, harp, strings'

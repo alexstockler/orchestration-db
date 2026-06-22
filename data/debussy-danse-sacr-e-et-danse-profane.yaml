@@ -1,0 +1,17 @@
+id: debussy-danse-sacr-e-et-danse-profane
+work:
+  composer: Debussy, Claude
+  title: Danse Sacrée et Danse Profane
+  ids:
+    imslp: Danse sacrée et danse profane, CD 113 (Debussy, Claude)
+  year: 1904
+formula: hp str
+instrumentation:
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Danse_sacr%C3%A9e_et_danse_profane%2C_CD_113_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: harp, strings'
+duration_minutes: 10

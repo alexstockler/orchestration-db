@@ -1,0 +1,18 @@
+id: saint-saens-quam-dilecta-op-148
+work:
+  composer: Saint-Saëns, Camille
+  title: Quam dilecta, Op.148
+  ids:
+    imslp: Quam dilecta, Op.148 (Saint-Saëns, Camille)
+  year: 1915
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Quam_dilecta%2C_Op.148_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, organ (but see below, Comments)'

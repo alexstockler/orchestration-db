@@ -1,0 +1,16 @@
+id: schumann-piano-sonata-no-3
+work:
+  composer: Schumann, Robert
+  title: Piano Sonata No.3
+  ids:
+    imslp: Piano Sonata No.3, Op.14 (Schumann, Robert)
+  year: 1836
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.3%2C_Op.14_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

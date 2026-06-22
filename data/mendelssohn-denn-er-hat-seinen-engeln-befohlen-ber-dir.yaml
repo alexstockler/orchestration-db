@@ -1,0 +1,16 @@
+id: mendelssohn-denn-er-hat-seinen-engeln-befohlen-ber-dir
+work:
+  composer: Mendelssohn, Felix
+  title: Denn er hat seinen Engeln befohlen über dir
+  ids:
+    imslp: Denn er hat seinen Engeln befohlen, MWV B 53 (Mendelssohn, Felix)
+  year: 1844
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Denn_er_hat_seinen_Engeln_befohlen%2C_MWV_B_53_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SSAATTBB)'
+duration_minutes: 4

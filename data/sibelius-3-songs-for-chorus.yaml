@@ -1,0 +1,15 @@
+id: sibelius-3-songs-for-chorus
+work:
+  composer: Sibelius, Jean
+  title: 3 Songs for Chorus
+  ids:
+    imslp: 3 Songs for Chorus, Op.31 (Sibelius, Jean)
+  year: 1896
+formula: ''
+instrumentation:
+  additional_raw: Chorus and Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Songs_for_Chorus%2C_Op.31_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Chorus and Orchestra'

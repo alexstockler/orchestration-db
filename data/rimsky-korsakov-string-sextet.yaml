@@ -1,0 +1,15 @@
+id: rimsky-korsakov-string-sextet
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: String Sextet
+  ids:
+    imslp: String Sextet in A major (Rimsky-Korsakov, Nikolay)
+  year: 1876
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | 2 violas | 2 cellos
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Sextet_in_A_major_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, 2 violas, 2 cellos'

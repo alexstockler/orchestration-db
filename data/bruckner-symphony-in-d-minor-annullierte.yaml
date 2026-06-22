@@ -1,0 +1,26 @@
+id: bruckner-symphony-in-d-minor-annullierte
+work:
+  composer: Bruckner, Anton
+  title: Symphony in D minor 'Annullierte'
+  ids:
+    imslp: Symphony in D minor 'Annullierte', WAB 100 (Bruckner, Anton)
+  year: 1869
+formula: 2222 4230 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_in_D_minor_%27Annullierte%27%2C_WAB_100_%28Bruckner%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2
+    trumpets, 3 trombones, timpani, strings'
+duration_minutes: 48

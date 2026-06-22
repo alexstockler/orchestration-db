@@ -1,0 +1,21 @@
+id: schumann-beim-abschied-zu-singen
+work:
+  composer: Schumann, Robert
+  title: Beim Abschied zu Singen
+  ids:
+    imslp: Beim Abschied zu Singen, Op.84 (Schumann, Robert)
+  year: 1847
+formula: 2222 2000
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Beim_Abschied_zu_Singen%2C_Op.84_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), 2 flutes, 2 oboes, 2 clarinets (B),
+    2 bassoons, 2 horns (F)'

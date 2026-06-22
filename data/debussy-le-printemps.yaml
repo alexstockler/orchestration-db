@@ -1,0 +1,26 @@
+id: debussy-le-printemps
+work:
+  composer: Debussy, Claude
+  title: Le printemps
+  ids:
+    imslp: Le printemps, CD 37 (Debussy, Claude)
+  year: 1882
+formula: 3[pic.2.3] 2 2 2 3100 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 3
+  trumpet: 1
+  harp: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_printemps%2C_CD_37_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 3
+    horns, trumpet, 2 harps, strings'

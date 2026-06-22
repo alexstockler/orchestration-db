@@ -1,0 +1,76 @@
+id: rimsky-korsakov-the-invisible-city-of-kitezh
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: The Invisible City of Kitezh
+  ids:
+    imslp: The Invisible City of Kitezh (opera) (Rimsky-Korsakov, Nikolay)
+  year: 1903
+formula: 3[1.2.3/pic] 3[1.2.Eh] 0 3[1.2.cbn] 4231 tmp cel 2hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - snare drum
+    - bass drum
+    - tam-tam
+    - tambourine
+    - sleigh bells
+    - glockenspiel
+  keyboards:
+  - instrument: celesta
+  harp: 2
+  strings: str
+  soloists:
+  - Prince Yury Vsevolodovich (Князь Юрий Всеволодович) (bass)
+  - Prince Vsevolod Yuryevich (Княжич Всеволод Юрьевич) (tenor)
+  - Fevoroniya (Феврония) (soprano)
+  - Grishka Kuterma (Гришка Кутерьма) (tenor)
+  - Fyodor Poyarok (Федор Поярок) (baritone)
+  - Page (Отрок) (mezzo-soprano)
+  - Two Gentleman (tenor and bass)
+  - Gusli Player (Гусляр) (bass)
+  - Bear Handler (Медведчик) (tenor)
+  - Lead Singer (Нищий-запевало) (baritone)
+  - Bedyay (Бедяй) (bass)
+  - Burunday (Бурундай) (bass)
+  - Sirin (Сирин) (soprano)
+  - Alkonost (Алконост) (contralto) Mixed Chorus (Silent Roles) :Well-off People
+  - Beggar Community
+  - People
+  - Tatars
+  additional_raw: 3 clarinets (3rd also bass clarinet | contralto trumpet
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Invisible_City_of_Kitezh_%28opera%29_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Prince Yury Vsevolodovich (Князь Юрий Всеволодович)
+    (bass), Prince Vsevolod Yuryevich (Княжич Всеволод Юрьевич) (tenor), Fevoroniya
+    (Феврония) (soprano), Grishka Kuterma (Гришка Кутерьма) (tenor), Fyodor Poyarok
+    (Федор Поярок) (baritone), Page (Отрок) (mezzo-soprano), Two Gentleman (tenor
+    and bass), Gusli Player (Гусляр) (bass), Bear Handler (Медведчик) (tenor), Lead
+    Singer (Нищий-запевало) (baritone), Bedyay (Бедяй) (bass), Burunday (Бурундай)
+    (bass), Sirin (Сирин) (soprano), Alkonost (Алконост) (contralto) Mixed Chorus
+    (Silent Roles) :Well-off People, Beggar Community, People, Tatars Orchestra :3
+    flutes (3rd also piccolo), 2 oboes, English horn, ::3 clarinets (3rd also bass
+    clarinet, 2 bassoons, contrabassoon :4 horns (F), 2 trumpets, contralto trumpet,
+    3 trombones, tuba :timpani, triangle, cymbals, snare drum, bass drum ::tam-tam,
+    tambourine, sleigh bells, glockenspiel :celesta, 2 harps, strings'

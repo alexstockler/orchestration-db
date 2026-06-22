@@ -1,0 +1,17 @@
+id: dvorak-dumka
+work:
+  composer: Dvořák, Antonín
+  title: Dumka
+  ids:
+    imslp: Dumka, Op.35 (Dvořák, Antonín)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dumka%2C_Op.35_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 8

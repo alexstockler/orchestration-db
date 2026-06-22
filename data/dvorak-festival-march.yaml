@@ -1,0 +1,30 @@
+id: dvorak-festival-march
+work:
+  composer: Dvořák, Antonín
+  title: Festival March
+  ids:
+    imslp: Festival March, B.88 (Dvořák, Antonín)
+  year: 1879
+formula: 2222 4231 tmp hp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Festival_March%2C_B.88_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2
+    trumpets,, 3 trombones, tuba, timpani, triangle, harp, strings'
+duration_minutes: 5

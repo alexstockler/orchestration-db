@@ -1,0 +1,17 @@
+id: mendelssohn-responsorium-et-hymnus
+work:
+  composer: Mendelssohn, Felix
+  title: Responsorium et Hymnus
+  ids:
+    imslp: Responsorium et Hymnus, Op.121 (Mendelssohn, Felix)
+  year: 1833
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+  additional_raw: cello | double bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Responsorium_et_Hymnus%2C_Op.121_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB), cello, double bass'
+duration_minutes: 11

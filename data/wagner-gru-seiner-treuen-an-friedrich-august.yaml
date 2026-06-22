@@ -1,0 +1,17 @@
+id: wagner-gru-seiner-treuen-an-friedrich-august
+work:
+  composer: Wagner, Richard
+  title: Gruß seiner Treuen an Friedrich August
+  ids:
+    imslp: Gruß seiner Treuen an Friedrich August, WWV 71 (Wagner, Richard)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: male chorus
+  additional_raw: 'Version B: voice'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gru%C3%9F_seiner_Treuen_an_Friedrich_August%2C_WWV_71_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Version A: male chorus (TTBB), Version B: voice, piano'

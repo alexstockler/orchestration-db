@@ -1,0 +1,17 @@
+id: grieg-4-songs
+work:
+  composer: Grieg, Edvard
+  title: 4 Songs
+  ids:
+    imslp: 4 Songs, Op.2 (Grieg, Edvard)
+  year: 1861
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: Voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Songs%2C_Op.2_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

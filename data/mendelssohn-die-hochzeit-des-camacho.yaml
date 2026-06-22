@@ -1,0 +1,52 @@
+id: mendelssohn-die-hochzeit-des-camacho
+work:
+  composer: Mendelssohn, Felix
+  title: Die Hochzeit des Camacho
+  ids:
+    imslp: Die Hochzeit des Camacho, Op.10 (Mendelssohn, Felix)
+  year: 1825
+formula: 2222 4230 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - Carrasco
+  - a well-to-do tenant (baritone)
+  - Quiteria
+  - his daughter (soprano)
+  - Camacho
+  - a wealthy landowner
+  - her fiancé (tenor)
+  - Basilio
+  - Quiteria's lover (tenor)
+  - Vivaldo
+  - his friend
+  - a poet (tenor)
+  - Lucinda
+  - Quiteria's friend (soprano)
+  - Don Quixote (baritone)
+  - Sancho Panza (bass)
+  - the Alcalde (baritone) Mixed Chorus (SATB) :bridesmaids
+  - Carrasco's and Camacho's friends and relatives
+  - peasants
+  - cooks
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Hochzeit_des_Camacho%2C_Op.10_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Carrasco, a well-to-do tenant (baritone), Quiteria,
+    his daughter (soprano), Camacho, a wealthy landowner, her fiancé (tenor), Basilio,
+    Quiteria''s lover (tenor), Vivaldo, his friend, a poet (tenor), Lucinda, Quiteria''s
+    friend (soprano), Don Quixote (baritone), Sancho Panza (bass), the Alcalde (baritone)
+    Mixed Chorus (SATB) :bridesmaids, Carrasco''s and Camacho''s friends and relatives,
+    peasants, cooks Orchestra :2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns,
+    2 trumpets, 3 trombones, timpani, strings'
+duration_minutes: 110

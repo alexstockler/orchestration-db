@@ -1,0 +1,18 @@
+id: sibelius-the-origin-of-fire
+work:
+  composer: Sibelius, Jean
+  title: The Origin of Fire
+  ids:
+    imslp: The Origin of Fire, Op.32 (Sibelius, Jean)
+  year: 1902
+formula: ''
+instrumentation:
+  soloists:
+  - baritone
+  additional_raw: Male Chorus and Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Origin_of_Fire%2C_Op.32_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: Baritone, Male Chorus and Orchestra'
+duration_minutes: 11

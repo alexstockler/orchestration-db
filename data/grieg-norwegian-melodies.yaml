@@ -1,0 +1,15 @@
+id: grieg-norwegian-melodies
+work:
+  composer: Grieg, Edvard
+  title: Norwegian Melodies
+  ids:
+    imslp: Norwegian Melodies, EG 108 (Grieg, Edvard)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Norwegian_Melodies%2C_EG_108_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

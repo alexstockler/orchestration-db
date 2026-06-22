@@ -1,0 +1,20 @@
+id: mendelssohn-hear-my-prayer
+work:
+  composer: Mendelssohn, Felix
+  title: Hear my prayer
+  ids:
+    imslp: Hear My Prayer, WoO 15 (Mendelssohn, Felix)
+  year: 1844
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - soprano
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hear_My_Prayer%2C_WoO_15_%28Mendelssohn%2C_Felix%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, mixed chorus (SATB), organ'
+duration_minutes: 11

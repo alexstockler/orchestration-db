@@ -1,0 +1,19 @@
+id: saint-saens-viens
+work:
+  composer: Saint-Saëns, Camille
+  title: Viens
+  ids:
+    imslp: Viens (Saint-Saëns, Camille)
+  year: 1855
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - 2 voices
+  - 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Viens_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices (soprano and baritone), piano'

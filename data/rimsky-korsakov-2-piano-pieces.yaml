@@ -1,0 +1,16 @@
+id: rimsky-korsakov-2-piano-pieces
+work:
+  composer: Rimsky-Korsakov, Nikolay
+  title: 2 Piano Pieces
+  ids:
+    imslp: 2 Piano Pieces, Op.38 (Rimsky-Korsakov, Nikolay)
+  year: 1894
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Piano_Pieces%2C_Op.38_%28Rimsky-Korsakov%2C_Nikolay%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

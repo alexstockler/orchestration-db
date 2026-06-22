@@ -1,0 +1,17 @@
+id: wagner-5-gedichte-f-r-eine-frauenstimme
+work:
+  composer: Wagner, Richard
+  title: 5 Gedichte für eine Frauenstimme
+  ids:
+    imslp: 5 Gedichte für eine Frauenstimme, WWV 91 (Wagner, Richard)
+  year: 1857
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Gedichte_f%C3%BCr_eine_Frauenstimme%2C_WWV_91_%28Wagner%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

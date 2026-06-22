@@ -1,0 +1,17 @@
+id: debussy-premi-re-rapsodie
+work:
+  composer: Debussy, Claude
+  title: Première rapsodie
+  ids:
+    imslp: Première rhapsodie, CD 124 (Debussy, Claude)
+  year: 1909
+formula: 0010 0000 pf
+instrumentation:
+  clarinet: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Premi%C3%A8re_rhapsodie%2C_CD_124_%28Debussy%2C_Claude%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, piano'

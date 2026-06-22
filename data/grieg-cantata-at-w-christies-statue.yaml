@@ -1,0 +1,15 @@
+id: grieg-cantata-at-w-christies-statue
+work:
+  composer: Grieg, Edvard
+  title: Cantata at W.Christies Statue
+  ids:
+    imslp: Cantata at W.Christies Statue, EG 158 (Grieg, Edvard)
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+  additional_raw: military band
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cantata_at_W.Christies_Statue%2C_EG_158_%28Grieg%2C_Edvard%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB), military band'

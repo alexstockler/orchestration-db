@@ -1,0 +1,18 @@
+id: saint-saens-aimons-nous
+work:
+  composer: Saint-Saëns, Camille
+  title: Aimons-nous
+  ids:
+    imslp: Aimons-nous (Saint-Saëns, Camille)
+  year: 1892
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aimons-nous_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

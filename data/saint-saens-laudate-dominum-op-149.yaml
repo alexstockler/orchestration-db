@@ -1,0 +1,15 @@
+id: saint-saens-laudate-dominum-op-149
+work:
+  composer: Saint-Saëns, Camille
+  title: Laudate Dominum, Op.149
+  ids:
+    imslp: Laudate Dominum, Op.149 (Saint-Saëns, Camille)
+  year: 1915
+formula: ''
+instrumentation:
+  additional_raw: Women's chorus SA
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Laudate_Dominum%2C_Op.149_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Women''s chorus SA'

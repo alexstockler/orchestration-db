@@ -1,0 +1,19 @@
+id: saint-saens-le-soir-descend-sur-la-colline
+work:
+  composer: Saint-Saëns, Camille
+  title: Le soir descend sur la colline
+  ids:
+    imslp: Le soir descend sur la colline (Saint-Saëns, Camille)
+  year: 1857
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - contralto
+  - tenor
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_soir_descend_sur_la_colline_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: contralto, tenor, piano'

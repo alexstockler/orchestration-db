@@ -1,0 +1,16 @@
+id: sibelius-eight-pieces-for-piano
+work:
+  composer: Sibelius, Jean
+  title: Eight Pieces for Piano
+  ids:
+    imslp: 8 Pieces for Piano, Op.99 (Sibelius, Jean)
+  year: 1922
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Pieces_for_Piano%2C_Op.99_%28Sibelius%2C_Jean%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

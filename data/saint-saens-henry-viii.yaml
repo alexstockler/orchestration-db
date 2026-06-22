@@ -1,0 +1,73 @@
+id: saint-saens-henry-viii
+work:
+  composer: Saint-Saëns, Camille
+  title: Henry VIII
+  ids:
+    imslp: Henry VIII (Saint-Saëns, Camille)
+  year: 1883
+formula: 3 3[1.2.Eh] 4[1.2.bcl.Ebcl] 3[1.2.cbn] 4 8[1.2.3.cnt.cnt.cnt.cnt.8] 6 1 tmp
+  2hp str
+instrumentation:
+  flute: 3
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  - instrument: eflat_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  trombone: 6
+  tuba: 1
+  percussion:
+    timpani: 1
+  harp: 2
+  strings: str
+  soloists:
+  - Henry VIII (baritone)
+  - Catherine d'Aragon (soprano)
+  - Anne Boleyn (mezzo-soprano)
+  - Lady Clarence (soprano)
+  - Don Gomez de Feria (tenor)
+  - Cardinal Campeggio
+  - legatus of the pope (bass)
+  - Le duc de Norfolk (bass)
+  - Le comte de Surrey (tenor)
+  - Cranmer
+  - Archbishop of Canterbury (bass)
+  - Garter King of Arms (tenor)
+  - Un huissier (bass) Mixed Chorus (SATB)
+  additional_raw: (also opt, contrabass clarinet) | percussion* | *(bass drum, cymbals,
+    triangle, tambourine, tam-tam) Offstage Military Orchestra | 5 saxophones (soprano,
+    2 altos, tenor, baritone) | 2 saxotrombas | 9 saxhorns (piccolo, 3 sopranos, 2
+    baritones, bass, 2 contrabasses) | tambour (field drum)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Henry_VIII_%28Saint-Sa%C3%ABns%2C_Camille%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Henry VIII (baritone), Catherine d''Aragon (soprano),
+    Anne Boleyn (mezzo-soprano), Lady Clarence (soprano), Don Gomez de Feria (tenor),
+    Cardinal Campeggio, legatus of the pope (bass), Le duc de Norfolk (bass), Le comte
+    de Surrey (tenor), Cranmer, Archbishop of Canterbury (bass), Garter King of Arms
+    (tenor), Un huissier (bass) Mixed Chorus (SATB), Orchestra :3 flutes, 2 oboes,
+    English horn, 2 clarinets, bass clarinet ::(also opt. contrabass clarinet), 2
+    bassoons, contrabassoon :4 horns, 3 trumpets, 2 cornets, 3 trombones, tuba,, timpani,
+    percussion*, 2 harps, strings, *(bass drum, cymbals, triangle, tambourine, tam-tam)
+    Offstage Military Orchestra :piccolo clarinet, 5 saxophones (soprano, 2 altos,
+    tenor, baritone), 2 cornets, trumpet, 2 saxotrombas,, 9 saxhorns (piccolo, 3 sopranos,
+    2 baritones, bass, 2 contrabasses), 3 trombones, tambour (field drum)'
