@@ -101,6 +101,9 @@ def _parse_doubling_clause(clause: str):
             r"1st|2nd|3rd|\d+th|first|second|third|fourth|fifth|"
             r"sixth|seventh|eighth|ninth|tenth", idx_part, re.I
         ) if t.lower() in _ORDINALS]
+        # Expand Mahler-style single-letter shorthands in doubling context
+        instr_part = re.sub(r"\be\b", "e-flat clarinet", instr_part, flags=re.I)
+        instr_part = re.sub(r"\bpic\b", "piccolo", instr_part, flags=re.I)
         # Instrument may list multiple separated by "and" or "/"
         instruments = [p.strip() for p in re.split(r"\s+and\s+|/", instr_part) if p.strip()]
         for instr in instruments:
@@ -293,12 +296,19 @@ def _strip_shorthand_prefix(text: str) -> str:
 
     Some IMSLP InstrDetail fields open with a compact line like:
       "2, 2, 2, 2+1 - 4, 2, 3, 0, timp, strs :2 flutes, 2 oboes, ..."
-    A colon (or double-colon) separates that from the prose we want.
+      '2, 2, 2, 2 - 4, 2, 3, 1, timp, strs "2 flutes, 2 oboes, ..."'
+    A colon or opening quote after the shorthand separates it from the prose.
     """
+    # Colon separator (already handled)
     m = re.match(r"^[0-9,+\-\s\(\)a-z]*:+\s*(.+)", text, re.I | re.S)
     if m:
         prose = m.group(1).strip()
-        # Accept if prose looks like "N instrument" or just "instrument"
+        if re.match(r"(\d+\s+)?[a-zA-Z]", prose):
+            return prose
+    # Quote separator: shorthand ... "prose..."
+    m2 = re.match(r'^[0-9,+\-\s\(\)a-z]+["“]\s*(.+?)["”]?\s*$', text, re.I | re.S)
+    if m2:
+        prose = m2.group(1).strip()
         if re.match(r"(\d+\s+)?[a-zA-Z]", prose):
             return prose
     return text
@@ -321,6 +331,22 @@ def _expand_plus_notation(text: str) -> str:
                   _replace, text, flags=re.I)
 
 
+def _split_voices_orchestra(raw: str):
+    """Handle IMSLP entries that use 'Voices: ... Orchestra: ...' section labels.
+
+    Returns (voices_text_or_None, orchestra_text).
+    Also handles 'Cast (...) ... Orchestra: ...' patterns from opera entries.
+    """
+    orch_m = re.search(r"\bOrchestra\s*['']?\s*:+\s*", raw, re.I)
+    if not orch_m:
+        return None, raw
+    voices_part = raw[:orch_m.start()].strip().rstrip(",;")
+    orch_part = raw[orch_m.end():].strip()
+    # Clean up "Voices:" label from the voice part
+    voices_part = re.sub(r"^(?:Voices?|Cast[^:]*)\s*:+\s*", "", voices_part, flags=re.I)
+    return voices_part or None, orch_part
+
+
 def parse_imslp_scoring(text: str) -> dict:
     """Parse an IMSLP instrumentation string.
 
@@ -330,9 +356,29 @@ def parse_imslp_scoring(text: str) -> dict:
     raw = " ".join(text.split())
     raw = _strip_shorthand_prefix(raw)
     raw = _expand_plus_notation(raw)
-    # Strip stray leading colons left over from IMSLP wiki-list formatting
-    raw = re.sub(r"^:+\s*", "", raw)
+    # Strip wiki ditto-marks and stray apostrophes/quotes attached to known tokens
+    raw = re.sub(r"\bstrings\s*[''\"]+", "strings", raw)
+    # Normalise "clarinet (E)" / "clarinet (Eb)" / "E clarinet" Mahler-style E-flat notation
+    raw = re.sub(r"\bclarinet\s*\(\s*[Ee][♭b]?\s*\)", "E-flat clarinet", raw)
+    raw = re.sub(r"\bE\s+clarinet\b", "E-flat clarinet", raw)
+
+    # Handle "Voices: ..., Orchestra: ..." BEFORE colon normalisation so the split works
     state = _ParseState()
+    voices_part, raw = _split_voices_orchestra(raw)
+    if voices_part:
+        for tok in _split_tokens(voices_part):
+            t = tok.strip()
+            if t:
+                state.inst.soloists.append(t)
+
+    # Now apply colon/period normalisation to the orchestral part
+    # Treat period-as-separator (e.g. "2 trumpets. timpani") as comma when not end-of-string
+    raw = re.sub(r"\.\s+(?=[A-Za-z0-9])", ", ", raw)
+    # Strip stray leading colons and double-colons from IMSLP wiki-list formatting
+    raw = re.sub(r"::+", ", ", raw)
+    # Replace remaining mid-text colons that act as list separators (not part of "Orchestra:")
+    raw = re.sub(r"(?<![A-Za-z])\s*:+\s*(?=\d|\w)", ", ", raw)
+    raw = re.sub(r"^,\s*", "", raw)
 
     # Check for a voice/soloist preamble before the orchestral listing.
     # IMSLP sometimes lists soloists in a separate "for X, Y and orchestra" phrase.
