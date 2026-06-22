@@ -1,0 +1,42 @@
+id: tchaikovsky-suite-no-3
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Suite No.3
+  ids:
+    imslp: Suite No.3, Op.55 (Tchaikovsky, Pyotr)
+  year: 1884
+formula: 3[1.2.3/pic] 3[1.2.Eh] 2 2 4231 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - side drum
+    - tambourine
+    - triangle
+    - cymbals
+    - bass drum
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_No.3%2C_Op.55_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd doubling piccolo), 2 oboes, english horn,
+    2 clarinets, 2 bassoons,, 4 horns, 2 trumpets, 3 trombones, tuba,, timpani, side
+    drum, tambourine, triangle, cymbals, bass drum, harp, strings'
+duration_minutes: 41

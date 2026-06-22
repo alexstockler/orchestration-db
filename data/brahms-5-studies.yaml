@@ -1,0 +1,16 @@
+id: brahms-5-studies
+work:
+  composer: Brahms, Johannes
+  title: 5 Studies
+  ids:
+    imslp: 5 Studies, Anh.1a/1 (Brahms, Johannes)
+  year: 1852
+formula: ''
+instrumentation:
+  additional_raw: piano left-hand
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Studies%2C_Anh.1a/1_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: piano left-hand'
+duration_minutes: 31

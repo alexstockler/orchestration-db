@@ -1,0 +1,68 @@
+id: tchaikovsky-the-enchantress
+work:
+  composer: Tchaikovsky, Pyotr
+  title: The Enchantress
+  ids:
+    imslp: The Enchantress, TH 9 (Tchaikovsky, Pyotr)
+  year: 1885
+formula: 3 3[1.2.Eh] 2 2 4 4[cnt.cnt.3.4] 3 1 tmp hp str
+instrumentation:
+  flute: 3
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tambourine
+    - side drum
+    - cymbals
+    - bass drum
+    - tam-tam
+  harp: 1
+  strings: str
+  soloists:
+  - baritone
+  - mezzo-soprano
+  - tenor
+  - bass
+  - mezzo-soprano
+  - bass-baritone
+  - baritone
+  - soprano
+  - tenor
+  - bass-baritone
+  - tenor
+  - bass
+  additional_raw: Roles ::Prince Nikita Kurlyatev (Князь Никита Курлятев) | Princess
+    Yevpraksiya (Княгиня Евпраксия) | Prince Yury (Княжич Юрий) | Mamyrov (Мамыров)
+    | Nenila (Ненила) | Ivan Zhuran (Иван Журан) | Nastasya/Kuma (Настасья/Кума) |
+    dramatic soprano | Foka (Фока) | Polya (Поля) | Balakin (Балакин) | Potap (Потап)
+    | Lukash (Лукаш) | Kichiga (Кичига) | Paisy (Паисий) | character tenor | Kudma
+    (Кудьма) | baritone :Mixed Chorus (SATB) :Orchestra ::piccolo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Enchantress%2C_TH_9_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Roles ::Prince Nikita Kurlyatev
+    (Князь Никита Курлятев), baritone, Princess Yevpraksiya (Княгиня Евпраксия), mezzo-soprano,
+    Prince Yury (Княжич Юрий), tenor, Mamyrov (Мамыров), bass, Nenila (Ненила), mezzo-soprano,
+    Ivan Zhuran (Иван Журан), bass-baritone, Nastasya/Kuma (Настасья/Кума), dramatic
+    soprano, Foka (Фока), baritone, Polya (Поля), soprano, Balakin (Балакин), tenor,
+    Potap (Потап), bass-baritone, Lukash (Лукаш), tenor, Kichiga (Кичига), bass, Paisy
+    (Паисий), character tenor, Kudma (Кудьма), baritone :Mixed Chorus (SATB) :Orchestra
+    ::piccolo, 3 flutes, 2 oboes, english horn, 2 clarinets, 2 bassoons, 4 horns,
+    2 cornets, 2 trumpets, 3 trombones, tuba, timpani, triangle, tambourine, side
+    drum, cymbals, bass drum, tam-tam, harp, strings'

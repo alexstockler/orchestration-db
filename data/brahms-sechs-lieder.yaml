@@ -1,0 +1,18 @@
+id: brahms-sechs-lieder
+work:
+  composer: Brahms, Johannes
+  title: Sechs Lieder
+  ids:
+    imslp: 6 Lieder, Op.97 (Brahms, Johannes)
+  year: 1885
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Lieder%2C_Op.97_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 10

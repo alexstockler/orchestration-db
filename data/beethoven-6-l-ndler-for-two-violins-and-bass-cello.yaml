@@ -1,0 +1,15 @@
+id: beethoven-6-l-ndler-for-two-violins-and-bass-cello
+work:
+  composer: Beethoven, Ludwig van
+  title: 6 Ländler for Two Violins and Bass (Cello)
+  ids:
+    imslp: 6 Ländler, WoO 15 (Beethoven, Ludwig van)
+  year: 1802
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_L%C3%A4ndler%2C_WoO_15_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, cello'

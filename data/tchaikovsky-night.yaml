@@ -1,0 +1,22 @@
+id: tchaikovsky-night
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Night
+  ids:
+    imslp: Night, TH 88 (Tchaikovsky, Pyotr)
+  year: 1893
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Night%2C_TH_88_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, piano'
+duration_minutes: 4

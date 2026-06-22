@@ -1,0 +1,36 @@
+id: beethoven-march-for-military-band
+work:
+  composer: Beethoven, Ludwig van
+  title: March for Military Band
+  ids:
+    imslp: March for Military Band, WoO 24 (Beethoven, Ludwig van)
+  year: 1816
+formula: 2[pic.pic] 2 4 3[1.2.cbn] 6820
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - instrument: piccolo
+  oboe: 2
+  clarinet: 4
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 6
+  trumpet: 8
+  trombone: 2
+  percussion:
+    instruments:
+    - triangle
+    - cymbals
+    - snare drum
+    - bass drum
+  additional_raw: piccolo clarinet | serpent
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/March_for_Military_Band%2C_WoO_24_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 piccolos, 2 oboes, piccolo clarinet, 4 clarinets, 2 bassoons,
+    contrabassoon, 6 horns, 8 trumpets, 2 trombones, serpent, triangle, cymbals, snare
+    drum, bass drum'
+duration_minutes: 6

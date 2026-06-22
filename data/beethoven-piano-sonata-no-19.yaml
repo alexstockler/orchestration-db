@@ -1,0 +1,16 @@
+id: beethoven-piano-sonata-no-19
+work:
+  composer: Beethoven, Ludwig van
+  title: Piano Sonata No.19
+  ids:
+    imslp: Piano Sonata No.19, Op.49 No.1 (Beethoven, Ludwig van)
+  year: 1797
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.19%2C_Op.49_No.1_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

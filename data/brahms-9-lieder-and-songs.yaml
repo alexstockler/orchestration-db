@@ -1,0 +1,18 @@
+id: brahms-9-lieder-and-songs
+work:
+  composer: Brahms, Johannes
+  title: 9 Lieder and Songs
+  ids:
+    imslp: 9 Lieder and Songs, Op.32 (Brahms, Johannes)
+  year: 1864
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/9_Lieder_and_Songs%2C_Op.32_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 22

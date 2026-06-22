@@ -1,0 +1,17 @@
+id: brahms-piano-sonata-no-2
+work:
+  composer: Brahms, Johannes
+  title: Piano Sonata No.2
+  ids:
+    imslp: Piano Sonata No.2, Op.2 (Brahms, Johannes)
+  year: 1852
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.2%2C_Op.2_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 27

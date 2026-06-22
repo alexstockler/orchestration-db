@@ -1,0 +1,17 @@
+id: tchaikovsky-moment-lyrique
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Moment lyrique
+  ids:
+    imslp: Moment lyrique, TH 149 (Tchaikovsky, Pyotr)
+  year: 1892
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Moment_lyrique%2C_TH_149_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 3

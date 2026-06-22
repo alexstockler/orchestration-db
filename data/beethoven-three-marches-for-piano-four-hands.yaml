@@ -1,0 +1,16 @@
+id: beethoven-three-marches-for-piano-four-hands
+work:
+  composer: Beethoven, Ludwig van
+  title: Three Marches for Piano, Four Hands
+  ids:
+    imslp: 3 Marches, Op.45 (Beethoven, Ludwig van)
+  year: 1803
+formula: ''
+instrumentation:
+  additional_raw: piano 4-hands
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Marches%2C_Op.45_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'
+duration_minutes: 15

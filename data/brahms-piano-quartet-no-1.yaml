@@ -1,0 +1,18 @@
+id: brahms-piano-quartet-no-1
+work:
+  composer: Brahms, Johannes
+  title: Piano Quartet No.1
+  ids:
+    imslp: Piano Quartet No.1, Op.25 (Brahms, Johannes)
+  year: 1861
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quartet_No.1%2C_Op.25_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola, cello, piano'
+duration_minutes: 40

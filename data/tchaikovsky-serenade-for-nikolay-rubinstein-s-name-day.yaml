@@ -1,0 +1,20 @@
+id: tchaikovsky-serenade-for-nikolay-rubinstein-s-name-day
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Serenade for Nikolay Rubinstein's Name-Day
+  ids:
+    imslp: Serenade for Nikolay Rubinstein's Name-Day, TH 43 (Tchaikovsky, Pyotr)
+  year: 1872
+formula: 1020 1100 str
+instrumentation:
+  flute: 1
+  clarinet: 2
+  horn: 1
+  trumpet: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Serenade_for_Nikolay_Rubinstein%27s_Name-Day%2C_TH_43_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, 2 clarinets, horn, trumpet, strings'
+duration_minutes: 3

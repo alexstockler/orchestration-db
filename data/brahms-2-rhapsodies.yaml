@@ -1,0 +1,17 @@
+id: brahms-2-rhapsodies
+work:
+  composer: Brahms, Johannes
+  title: 2 Rhapsodies
+  ids:
+    imslp: 2 Rhapsodies, Op.79 (Brahms, Johannes)
+  year: 1879
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Rhapsodies%2C_Op.79_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 17

@@ -1,0 +1,15 @@
+id: brahms-mir-l-chelt-kein-fr-hling
+work:
+  composer: Brahms, Johannes
+  title: Mir lächelt kein Frühling
+  ids:
+    imslp: Mir lächelt kein Frühling, WoO 25 (Brahms, Johannes)
+  year: 1881
+formula: ''
+instrumentation:
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mir_l%C3%A4chelt_kein_Fr%C3%BChling%2C_WoO_25_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus'

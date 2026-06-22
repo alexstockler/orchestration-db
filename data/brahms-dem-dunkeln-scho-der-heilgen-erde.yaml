@@ -1,0 +1,14 @@
+id: brahms-dem-dunkeln-scho-der-heilgen-erde
+work:
+  composer: Brahms, Johannes
+  title: Dem dunkeln Schoß der heilgen Erde
+  ids:
+    imslp: Dem dunkeln Schoß der heilgen Erde, WoO 20 (Brahms, Johannes)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dem_dunkeln_Scho%C3%9F_der_heilgen_Erde%2C_WoO_20_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

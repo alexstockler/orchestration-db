@@ -1,0 +1,26 @@
+id: brahms-n-nie
+work:
+  composer: Brahms, Johannes
+  title: Nänie
+  ids:
+    imslp: Nänie, Op.82 (Brahms, Johannes)
+  year: 1880
+formula: 2222 2030 tmp hp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/N%C3%A4nie%2C_Op.82_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: :2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 3
+    trombones, timpani, harp (opt), strings'
+duration_minutes: 13

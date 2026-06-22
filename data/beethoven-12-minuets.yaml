@@ -1,0 +1,43 @@
+id: beethoven-12-minuets
+work:
+  composer: Beethoven, Ludwig van
+  title: 12 Minuets
+  ids:
+    imslp: 12 Minuets, WoO 7 (Beethoven, Ludwig van)
+  year: 1795
+formula: 8 14[1.2.3.4.5.6.7.8.9.10.11.12.13.14] 14[1.2.3.4.5.6.7.8.9.10.11.12.13.14]
+  24[1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.22.23.24] 24[1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.22.23.24]
+  8 0 0 tmp
+instrumentation:
+  flute: 8
+  oboe: 14
+  clarinet: 14
+  bassoon: 24
+  horn: 24
+  trumpet: 8
+  percussion:
+    timpani: 1
+  additional_raw: 1. piccolo | violins | cellos | basses :2. 2 clarinets | violins
+    | cellos | basses :3. 2 flutes | violins | cellos | basses :4. 2 flutes | violins
+    | cellos | basses :5. 2 flutes | violins | cellos | basses :6. 2 flutes | violins
+    | cellos | basses :7. 2 flutes | violins | cellos | basses :8. 2 flutes | violins
+    | cellos | basses :9. piccolo | violins | cellos | basses :10. 2 flutes | violins
+    | cellos | basses :11. piccolo | violins | cellos | basses :12. piccolo | violins
+    | cellos | basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Minuets%2C_WoO_7_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: :1. piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons,
+    ::2 horns , 2 trumpets, timpani, violins, cellos, basses :2. 2 clarinets, 2 bassoons,
+    2 horns, violins, cellos, basses :3. 2 flutes, 2 oboes, 2 bassoons, 2 horns, violins,
+    cellos, basses :4. 2 flutes, 2 clarinets, 2 bassoons, ::2 horns, 2 trumpets, timpani,
+    violins, cellos, basses :5. 2 flutes, 2 oboes, 2 bassoons, 2 horns, violins, cellos,
+    basses :6. 2 flutes, 2 clarinets, 2 bassoons, 2 horns, violins, cellos, basses
+    :7. 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, ::2 horns, 2 trumpets, timpani,
+    violins, cellos, basses :8. 2 flutes, 2 clarinets, 2 bassoons, 2 horns, violins,
+    cellos, basses :9. piccolo, 2 flutes, 2 oboes, 2 bassoons, 2 horns, violins, cellos,
+    basses :10. 2 flutes, 2 clarinets, 2 bassoons, 2 horns, violins, cellos, basses
+    :11. piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, ::2 horns, 2 trumpets,
+    timpani, violins, cellos, basses :12. piccolo, 2 flutes, 2 oboes, 2 bassoons,
+    2 horns, violins, cellos, basses'

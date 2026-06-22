@@ -1,0 +1,17 @@
+id: tchaikovsky-military-march
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Military March
+  ids:
+    imslp: Military March, TH 150 (Tchaikovsky, Pyotr)
+  year: 1893
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Military_March%2C_TH_150_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 4

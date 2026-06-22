@@ -1,0 +1,18 @@
+id: brahms-5-songs
+work:
+  composer: Brahms, Johannes
+  title: 5 Songs
+  ids:
+    imslp: 5 Gesänge, Op.104 (Brahms, Johannes)
+  year: 1886
+formula: ''
+instrumentation:
+  additional_raw: Nos.1 to 3 mixed chorus (SAATBB) | No.4 mixed horus (SATBB) | No.5
+    mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Ges%C3%A4nge%2C_Op.104_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: Nos.1 to 3 mixed chorus (SAATBB), No.4 mixed horus (SATBB),
+    No.5 mixed chorus (SATB)'
+duration_minutes: 13

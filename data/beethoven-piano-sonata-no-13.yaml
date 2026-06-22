@@ -1,0 +1,17 @@
+id: beethoven-piano-sonata-no-13
+work:
+  composer: Beethoven, Ludwig van
+  title: Piano Sonata No.13
+  ids:
+    imslp: Piano Sonata No.13, Op.27 No.1 (Beethoven, Ludwig van)
+  year: 1800
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.13%2C_Op.27_No.1_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 16

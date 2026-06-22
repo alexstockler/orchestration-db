@@ -1,0 +1,53 @@
+id: tchaikovsky-the-queen-of-spades
+work:
+  composer: Tchaikovsky, Pyotr
+  title: The Queen of Spades
+  ids:
+    imslp: The Queen of Spades, Op.68 (Tchaikovsky, Pyotr)
+  year: 1890
+formula: 3 3[1.2.Eh] 3[1.2.bcl] 2 4201 tmp pf hp
+instrumentation:
+  flute: 3
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - side drum
+    - bass drum
+  keyboards:
+  - instrument: piano
+  harp: 1
+  additional_raw: Herman / Герман (1st tenor) | Count Tomsky / Граф Томский (baritone)
+    | Prince Yeletsky / Князь Елецкий (baritone) | Chekalinsky / Чекалинский (tenor)
+    | Surin / Сурин (bass), Chaplitsky / Чаплицкий) (2nd tenor) | Narumov / Нарумов
+    (2nd bass) | Master of Ceremonies / Распорядитель (2nd tenor) | Countess / Графиня
+    (mezzo-soprano) | Liza / Лиза (soprano) | Polina / Полина (contralto) | Governess
+    / Гувернантка (mezzo-soprano) | Masha / Маша (soprano) | Prilepa / Прилепа (soprano)
+    | Milovzor / Милозвор (contralto) | Zlatogor / Златогор (baritone) Mixed Chorus
+    (SATB) | Orchestra :piccolo | strings Offstage :children's trumpets | drums
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Queen_of_Spades%2C_Op.68_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Herman / Герман (1st tenor), Count Tomsky / Граф
+    Томский (baritone), Prince Yeletsky / Князь Елецкий (baritone), Chekalinsky /
+    Чекалинский (tenor), Surin / Сурин (bass), Chaplitsky / Чаплицкий) (2nd tenor),
+    Narumov / Нарумов (2nd bass), Master of Ceremonies / Распорядитель (2nd tenor),
+    Countess / Графиня (mezzo-soprano), Liza / Лиза (soprano), Polina / Полина (contralto),
+    Governess / Гувернантка (mezzo-soprano), Masha / Маша (soprano), Prilepa / Прилепа
+    (soprano), Milovzor / Милозвор (contralto), Zlatogor / Златогор (baritone) Mixed
+    Chorus (SATB), Orchestra :piccolo, 3 flutes, 2 oboes, English horn, 2 clarinets,
+    bass clarinet, 2 bassoons, 4 horns, 2 trumpets, tuba, timpani, side drum, bass
+    drum, piano, harp, strings Offstage :children''s trumpets, drums'
+duration_minutes: 155

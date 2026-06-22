@@ -1,0 +1,16 @@
+id: tchaikovsky-souvenir-de-florence
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Souvenir de Florence
+  ids:
+    imslp: Souvenir de Florence, Op.70 (Tchaikovsky, Pyotr)
+  year: 1890
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | 2 violas | 2 cellos
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Souvenir_de_Florence%2C_Op.70_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, 2 violas, 2 cellos'
+duration_minutes: 35

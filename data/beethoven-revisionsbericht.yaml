@@ -1,0 +1,14 @@
+id: beethoven-revisionsbericht
+work:
+  composer: Beethoven, Ludwig van
+  title: Revisionsbericht
+  ids:
+    imslp: Revisionsbericht (Beethoven, Ludwig van)
+formula: ''
+instrumentation:
+  additional_raw: '|Tags=music analysis | music history | de'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Revisionsbericht_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: |Tags=music analysis ; music history ; de'

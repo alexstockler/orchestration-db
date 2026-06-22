@@ -1,0 +1,17 @@
+id: beethoven-lied-aus-der-ferne
+work:
+  composer: Beethoven, Ludwig van
+  title: Lied aus der Ferne
+  ids:
+    imslp: Lied aus der Ferne, WoO 137 (Beethoven, Ludwig van)
+  year: 1809
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lied_aus_der_Ferne%2C_WoO_137_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,28 @@
+id: brahms-liebeslieder-waltzes
+work:
+  composer: Brahms, Johannes
+  title: Liebeslieder Waltzes
+  ids:
+    imslp: Liebeslieder Waltzes, Op.52 (Brahms, Johannes)
+  year: 1869
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  - tenor
+  - bass
+  - soprano
+  - alto
+  - tenor
+  additional_raw: soprano or alto (No.7)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Liebeslieder_Waltzes%2C_Op.52_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass (Nos.1, 2, 5, 6, 8 to 12, 15,
+    16, 18), tenor, bass (Nos.3, 14), soprano, alto (Nos.4, 13), soprano or alto (No.7),
+    tenor (No.17)'
+duration_minutes: 20

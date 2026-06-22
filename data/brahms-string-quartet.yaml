@@ -1,0 +1,16 @@
+id: brahms-string-quartet
+work:
+  composer: Brahms, Johannes
+  title: String Quartet
+  ids:
+    imslp: String Quartet No.2, Op.51 No.2 (Brahms, Johannes)
+  year: 1873
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.2%2C_Op.51_No.2_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 33

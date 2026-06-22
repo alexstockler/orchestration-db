@@ -1,0 +1,20 @@
+id: beethoven-piano-concerto-no-2
+work:
+  composer: Beethoven, Ludwig van
+  title: Piano Concerto No.2
+  ids:
+    imslp: Piano Concerto No.2, Op.19 (Beethoven, Ludwig van)
+  year: 1787
+formula: 1202 2000 str
+instrumentation:
+  flute: 1
+  oboe: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Concerto_No.2%2C_Op.19_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, 2 oboes, 2 bassoons, 2 horns, strings'
+duration_minutes: 28

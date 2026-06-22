@@ -1,0 +1,55 @@
+id: mahler-symphony-no-1
+work:
+  composer: Mahler, Gustav
+  title: Symphony No.1
+  ids:
+    imslp: Symphony No.1, GMW 11 (Mahler, Gustav)
+  year: 1884
+formula: 4[1.2.3.4/pic] 4[1.2.3/Eh.4] 4[1.2.3/bcl.4] 3[1.2.3/cbn] 7431 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - doublings:
+    - english_horn
+  - {}
+  clarinet:
+  - {}
+  - {}
+  - doublings:
+    - bass_clarinet
+  - {}
+  bassoon:
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  horn: 7
+  trumpet: 4
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 2
+    instruments:
+    - cymbals
+    - triangle
+    - tam-tam
+    - bass drum
+  harp: 1
+  strings: str
+  additional_raw: 'unknown doubling in clarinet: e'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.1%2C_GMW_11_%28Mahler%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 flutes (2nd, 3rd, 4th also piccolo), 4 oboes (3rd also
+    English horn),, 4 clarinets (3rd, 4th also E, 3rd also bass clarinet), 3 bassoons
+    (3rd also contrabassoon), 7 horns, 4 trumpets, 3 trombones, tuba,, 2 timpani,
+    cymbals, triangle, tam-tam, bass drum, harp, strings'
+duration_minutes: 55

@@ -1,0 +1,19 @@
+id: brahms-3-sacred-choruses
+work:
+  composer: Brahms, Johannes
+  title: 3 Sacred Choruses
+  ids:
+    imslp: 3 Sacred Choruses, Op.37 (Brahms, Johannes)
+  year: 1859
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Sacred_Choruses%2C_Op.37_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, female chorus (SSAA)'
+duration_minutes: 6

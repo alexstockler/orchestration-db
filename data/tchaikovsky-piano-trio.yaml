@@ -1,0 +1,18 @@
+id: tchaikovsky-piano-trio
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Piano Trio
+  ids:
+    imslp: Piano Trio, Op.50 (Tchaikovsky, Pyotr)
+  year: 1881
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio%2C_Op.50_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'
+duration_minutes: 46

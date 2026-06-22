@@ -1,0 +1,17 @@
+id: tchaikovsky-dumka
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Dumka
+  ids:
+    imslp: Dumka, Op.59 (Tchaikovsky, Pyotr)
+  year: 1886
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dumka%2C_Op.59_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 9

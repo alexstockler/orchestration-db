@@ -1,0 +1,18 @@
+id: brahms-6-lieder
+work:
+  composer: Brahms, Johannes
+  title: 6 Lieder
+  ids:
+    imslp: 6 Lieder, Op.85 (Brahms, Johannes)
+  year: 1878
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Lieder%2C_Op.85_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 10

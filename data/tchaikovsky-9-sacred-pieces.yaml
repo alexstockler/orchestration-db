@@ -1,0 +1,16 @@
+id: tchaikovsky-9-sacred-pieces
+work:
+  composer: Tchaikovsky, Pyotr
+  title: 9 Sacred Pieces
+  ids:
+    imslp: 9 Sacred Pieces, TH 78 (Tchaikovsky, Pyotr)
+  year: 1884
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/9_Sacred_Pieces%2C_TH_78_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 43

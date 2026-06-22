@@ -1,0 +1,18 @@
+id: brahms-sonata-for-2-pianos
+work:
+  composer: Brahms, Johannes
+  title: Sonata for 2 Pianos
+  ids:
+    imslp: Sonata for 2 Pianos, Op.34b (Brahms, Johannes)
+  year: 1864
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_for_2_Pianos%2C_Op.34b_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 pianos'
+duration_minutes: 40

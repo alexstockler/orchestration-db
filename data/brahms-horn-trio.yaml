@@ -1,0 +1,19 @@
+id: brahms-horn-trio
+work:
+  composer: Brahms, Johannes
+  title: Horn Trio
+  ids:
+    imslp: Horn Trio, Op.40 (Brahms, Johannes)
+  year: 1865
+formula: 0000 1000 pf
+instrumentation:
+  horn: 1
+  keyboards:
+  - instrument: piano
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Horn_Trio%2C_Op.40_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: horn (or cello), violin, piano'
+duration_minutes: 29

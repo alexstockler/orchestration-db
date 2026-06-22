@@ -1,0 +1,17 @@
+id: tchaikovsky-romance
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Romance
+  ids:
+    imslp: Romance, Op.5 (Tchaikovsky, Pyotr)
+  year: 1868
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romance%2C_Op.5_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 6

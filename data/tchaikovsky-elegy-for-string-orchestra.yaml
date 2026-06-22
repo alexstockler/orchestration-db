@@ -1,0 +1,16 @@
+id: tchaikovsky-elegy-for-string-orchestra
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Elegy for String Orchestra
+  ids:
+    imslp: Elegy, TH 51 (Tchaikovsky, Pyotr)
+  year: 1884
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Elegy%2C_TH_51_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'
+duration_minutes: 8

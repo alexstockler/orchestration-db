@@ -1,0 +1,17 @@
+id: tchaikovsky-3-pieces
+work:
+  composer: Tchaikovsky, Pyotr
+  title: 3 Pieces
+  ids:
+    imslp: 3 Pieces, Op.9 (Tchaikovsky, Pyotr)
+  year: 1870
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Pieces%2C_Op.9_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 13

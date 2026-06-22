@@ -1,0 +1,46 @@
+id: tchaikovsky-italian-capriccio
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Italian Capriccio
+  ids:
+    imslp: Italian Capriccio, Op.45 (Tchaikovsky, Pyotr)
+  year: 1880
+formula: 4[pic.2.3.4] 3[1.2.Eh] 2 2 4 4[cnt.cnt.3.4] 3 1 tmp hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tambourine
+    - cymbals
+    - bass drum
+    - glockenspiel
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Italian_Capriccio%2C_Op.45_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 3 flutes, 2 oboes, English horn, 2 clarinets,
+    2 bassoons,, 4 horns, 2 cornets, 2 trumpets, 3 trombones, tuba, timpani, triangle,
+    tambourine, cymbals, bass drum, glockenspiel, harp, strings'
+duration_minutes: 16

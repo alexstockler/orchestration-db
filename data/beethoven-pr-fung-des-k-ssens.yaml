@@ -1,0 +1,20 @@
+id: beethoven-pr-fung-des-k-ssens
+work:
+  composer: Beethoven, Ludwig van
+  title: Prüfung des Küssens
+  ids:
+    imslp: Prüfung des Küssens, WoO 89 (Beethoven, Ludwig van)
+  year: 1790
+formula: 1200 2000 str
+instrumentation:
+  flute: 1
+  oboe: 2
+  horn: 2
+  strings: str
+  soloists:
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pr%C3%BCfung_des_K%C3%BCssens%2C_WoO_89_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, flute, 2 oboes, 2 horns, strings'

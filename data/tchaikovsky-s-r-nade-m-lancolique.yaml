@@ -1,0 +1,21 @@
+id: tchaikovsky-s-r-nade-m-lancolique
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Sérénade mélancolique
+  ids:
+    imslp: Sérénade mélancolique, Op.26 (Tchaikovsky, Pyotr)
+  year: 1875
+formula: 2222 4000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/S%C3%A9r%C3%A9nade_m%C3%A9lancolique%2C_Op.26_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, strings'
+duration_minutes: 9

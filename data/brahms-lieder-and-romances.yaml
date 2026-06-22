@@ -1,0 +1,18 @@
+id: brahms-lieder-and-romances
+work:
+  composer: Brahms, Johannes
+  title: Lieder and Romances
+  ids:
+    imslp: 8 Lieder and Romances, Op.14 (Brahms, Johannes)
+  year: 1858
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Lieder_and_Romances%2C_Op.14_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 17

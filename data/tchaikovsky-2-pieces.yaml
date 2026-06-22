@@ -1,0 +1,17 @@
+id: tchaikovsky-2-pieces
+work:
+  composer: Tchaikovsky, Pyotr
+  title: 2 Pieces
+  ids:
+    imslp: 2 Pieces, Op.1 (Tchaikovsky, Pyotr)
+  year: 1867
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Pieces%2C_Op.1_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 14

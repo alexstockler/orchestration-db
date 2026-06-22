@@ -1,0 +1,18 @@
+id: beethoven-piano-trio-in-f-minor
+work:
+  composer: Beethoven, Ludwig van
+  title: Piano Trio in F Minor
+  ids:
+    imslp: Piano Trio in F minor (Beethoven, Ludwig van)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio_in_F_minor_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'
+duration_minutes: 4

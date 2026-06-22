@@ -1,0 +1,16 @@
+id: tchaikovsky-liturgy-of-st-john-chrysostom
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Liturgy of St. John Chrysostom,
+  ids:
+    imslp: Liturgy of St. John Chrysostom, Op.41 (Tchaikovsky, Pyotr)
+  year: 1878
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Liturgy_of_St._John_Chrysostom%2C_Op.41_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 48

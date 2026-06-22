@@ -1,0 +1,16 @@
+id: brahms-string-quintet-no-1
+work:
+  composer: Brahms, Johannes
+  title: String Quintet No.1
+  ids:
+    imslp: String Quintet No.1, Op.88 (Brahms, Johannes)
+  year: 1882
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | 2 violas | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quintet_No.1%2C_Op.88_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, 2 violas, cello'
+duration_minutes: 28

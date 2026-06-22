@@ -1,0 +1,25 @@
+id: beethoven-leonora-overture-no-3
+work:
+  composer: Beethoven, Ludwig van
+  title: Leonora Overture No.3
+  ids:
+    imslp: Leonora Overture No.3, Op.72b (Beethoven, Ludwig van)
+  year: 1806
+formula: 2222 4330 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Leonora_Overture_No.3%2C_Op.72b_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 3
+    trumpets (one off-stage), 3 trombones, timpani, strings'

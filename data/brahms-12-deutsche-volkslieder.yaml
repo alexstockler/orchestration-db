@@ -1,0 +1,15 @@
+id: brahms-12-deutsche-volkslieder
+work:
+  composer: Brahms, Johannes
+  title: 12 Deutsche Volkslieder
+  ids:
+    imslp: 12 Deutsche Volkslieder, WoO 35 (Brahms, Johannes)
+  year: 1926
+formula: ''
+instrumentation:
+  additional_raw: Chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Deutsche_Volkslieder%2C_WoO_35_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: Chorus (SATB)'

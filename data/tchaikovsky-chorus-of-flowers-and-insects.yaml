@@ -1,0 +1,26 @@
+id: tchaikovsky-chorus-of-flowers-and-insects
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Chorus of Flowers and Insects
+  ids:
+    imslp: Chorus of Flowers and Insects, TH 71 (Tchaikovsky, Pyotr)
+  year: 1869
+formula: 0222 4000 tmp hp str
+instrumentation:
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  percussion:
+    timpani: 1
+  harp: 1
+  strings: str
+  chorus_raw: mixed chorus
+  additional_raw: 'Children''s Voices | Orchestra : 2 flutes'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chorus_of_Flowers_and_Insects%2C_TH_71_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed Chorus (SATB), Children''s Voices, Orchestra : 2
+    flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, timpani, harp, strings'
+duration_minutes: 7

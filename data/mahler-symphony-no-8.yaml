@@ -1,0 +1,59 @@
+id: mahler-symphony-no-8
+work:
+  composer: Mahler, Gustav
+  title: Symphony No.8
+  ids:
+    imslp: Symphony No.8, GMW 48 (Mahler, Gustav)
+  year: 1906
+formula: 4 5[1.2.3.4.Eh] 5[1.2.3.4.bcl] 4 0471 tmp pf harm org hp mand
+instrumentation:
+  flute: 4
+  oboe:
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 4
+  trumpet: 4
+  trombone: 7
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tam-tam
+  keyboards:
+  - instrument: piano
+  - instrument: harmonium
+  - instrument: organ
+  harp: 1
+  extras:
+  - instrument: mandolin
+  soloists:
+  - sopranos
+  - altos
+  - tenor
+  - baritone
+  additional_raw: 'bass Choruses (SATB) :children''s chorus | 2 mixed choruses Orchestra
+    :2 piccolos (1st also 5th flute) | contrabassoon :8 horns | percussion (2 players):
+    :: bass drum | 3 pairs of cymbals | bells (A, A) | glockenspiel :celesta | strings
+    Off-Stage Orchestra :4 trumpets'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.8%2C_GMW_48_%28Mahler%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices :3 sopranos, 2 altos, tenor, baritone, bass Choruses
+    (SATB) :children''s chorus, 2 mixed choruses Orchestra :2 piccolos (1st also 5th
+    flute), 4 flutes, 4 oboes, English horn, clarinet (E), ::3 clarinets, bass clarinet,
+    4 bassoons, contrabassoon :8 horns, 4 trumpets, 4 trombones, tuba, timpani, percussion
+    (2 players): :: bass drum, 3 pairs of cymbals, triangle, tam-tam, bells (A, A),
+    glockenspiel :celesta, piano, harmonium, organ, harps (2 or more), mandolin, strings
+    Off-Stage Orchestra :4 trumpets, 3 trombones'
+duration_minutes: 85

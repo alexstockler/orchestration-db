@@ -1,0 +1,25 @@
+id: beethoven-meerestille-und-gluckliche-fahrt
+work:
+  composer: Beethoven, Ludwig van
+  title: Meerestille und gluckliche Fahrt
+  ids:
+    imslp: Meeresstille und glückliche Fahrt, Op.112 (Beethoven, Ludwig van)
+  year: 1815
+formula: 2222 4200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Meeresstille_und_gl%C3%BCckliche_Fahrt%2C_Op.112_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2
+    trumpets, timpani, strings'
+duration_minutes: 10

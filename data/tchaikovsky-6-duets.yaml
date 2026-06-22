@@ -1,0 +1,23 @@
+id: tchaikovsky-6-duets
+work:
+  composer: Tchaikovsky, Pyotr
+  title: 6 Duets
+  ids:
+    imslp: 6 Duets, Op.46 (Tchaikovsky, Pyotr)
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - mezzo-soprano
+  - baritone
+  - tenor
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Duets%2C_Op.46_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, mezzo-soprano (Nos.1, 3, 4, 6), baritone (No.2),
+    tenor (No.5), piano'
+duration_minutes: 25

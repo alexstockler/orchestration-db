@@ -1,0 +1,15 @@
+id: beethoven-k-hl-nicht-lau
+work:
+  composer: Beethoven, Ludwig van
+  title: Kühl, nicht lau
+  ids:
+    imslp: Kühl, nicht lau, WoO 191 (Beethoven, Ludwig van)
+  year: 1825
+formula: ''
+instrumentation:
+  additional_raw: 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/K%C3%BChl%2C_nicht_lau%2C_WoO_191_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

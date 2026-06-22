@@ -1,0 +1,18 @@
+id: beethoven-piano-concerto-no-6
+work:
+  composer: Beethoven, Ludwig van
+  title: Piano Concerto No. 6
+  ids:
+    imslp: Piano Concerto No.6, Hess 15 (Beethoven, Ludwig van)
+  year: 1814
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Concerto_No.6%2C_Hess_15_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano, orchestra'
+duration_minutes: 13

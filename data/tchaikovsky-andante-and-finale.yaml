@@ -1,0 +1,30 @@
+id: tchaikovsky-andante-and-finale
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Andante and Finale
+  ids:
+    imslp: Andante and Finale, Op.79 (Tchaikovsky, Pyotr)
+  year: 1893
+formula: 2222 4231 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - side drum
+    - cymbals
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_and_Finale%2C_Op.79_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons,, 4 horns, 2
+    trumpets, 3 trombones, tuba, timpani, side drum, cymbals, strings'
+duration_minutes: 21

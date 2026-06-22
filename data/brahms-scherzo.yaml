@@ -1,0 +1,17 @@
+id: brahms-scherzo
+work:
+  composer: Brahms, Johannes
+  title: Scherzo
+  ids:
+    imslp: Scherzo, Op.4 (Brahms, Johannes)
+  year: 1851
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scherzo%2C_Op.4_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 9

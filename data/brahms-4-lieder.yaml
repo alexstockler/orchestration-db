@@ -1,0 +1,18 @@
+id: brahms-4-lieder
+work:
+  composer: Brahms, Johannes
+  title: 4 Lieder
+  ids:
+    imslp: 4 Lieder, Op.46 (Brahms, Johannes)
+  year: 1864
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Lieder%2C_Op.46_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 11

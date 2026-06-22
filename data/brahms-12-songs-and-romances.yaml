@@ -1,0 +1,18 @@
+id: brahms-12-songs-and-romances
+work:
+  composer: Brahms, Johannes
+  title: 12 Songs and Romances
+  ids:
+    imslp: 12 Lieder and Romances, Op.44 (Brahms, Johannes)
+  year: 1859
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Lieder_and_Romances%2C_Op.44_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SSAA), piano (ad lib)'
+duration_minutes: 17

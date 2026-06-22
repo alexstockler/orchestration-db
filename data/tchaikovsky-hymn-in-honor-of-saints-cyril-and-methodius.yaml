@@ -1,0 +1,15 @@
+id: tchaikovsky-hymn-in-honor-of-saints-cyril-and-methodius
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Hymn in Honor of Saints Cyril and Methodius
+  ids:
+    imslp: Hymn in Honour of Saints Cyril and Methodius, TH 79 (Tchaikovsky, Pyotr)
+  year: 1885
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymn_in_Honour_of_Saints_Cyril_and_Methodius%2C_TH_79_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

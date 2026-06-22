@@ -1,0 +1,17 @@
+id: beethoven-piano-quartet-no-2-in-d-major
+work:
+  composer: Beethoven, Ludwig van
+  title: Piano Quartet No.2 in D major
+  ids:
+    imslp: Piano Quartet No.2 in D major, WoO 36 No.2 (Beethoven, Ludwig van)
+  year: 1785
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quartet_No.2_in_D_major%2C_WoO_36_No.2_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola, cello, piano'

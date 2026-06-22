@@ -1,0 +1,17 @@
+id: beethoven-o-care-selve
+work:
+  composer: Beethoven, Ludwig van
+  title: O care selve
+  ids:
+    imslp: O care selve, WoO 119 (Beethoven, Ludwig van)
+  year: 1795
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice | unison chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_care_selve%2C_WoO_119_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, unison chorus, piano'

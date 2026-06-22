@@ -1,0 +1,17 @@
+id: beethoven-man-strebt-die-flamme-zu-verhehlen
+work:
+  composer: Beethoven, Ludwig van
+  title: Man strebt, die Flamme zu verhehlen
+  ids:
+    imslp: Man strebt, die Flamme zu verhehlen, WoO 120 (Beethoven, Ludwig van)
+  year: 1792
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Man_strebt%2C_die_Flamme_zu_verhehlen%2C_WoO_120_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

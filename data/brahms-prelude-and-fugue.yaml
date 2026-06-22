@@ -1,0 +1,17 @@
+id: brahms-prelude-and-fugue
+work:
+  composer: Brahms, Johannes
+  title: Prelude and Fugue
+  ids:
+    imslp: Prelude and Fugue, WoO 9 (Brahms, Johannes)
+  year: 1856
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude_and_Fugue%2C_WoO_9_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 6

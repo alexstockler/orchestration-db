@@ -1,0 +1,16 @@
+id: tchaikovsky-the-golden-cloud-did-sleep
+work:
+  composer: Tchaikovsky, Pyotr
+  title: The Golden Cloud Did Sleep
+  ids:
+    imslp: The Golden Cloud Did Sleep, TH 82 (Tchaikovsky, Pyotr)
+  year: 1887
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Golden_Cloud_Did_Sleep%2C_TH_82_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 2

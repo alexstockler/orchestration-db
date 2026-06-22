@@ -1,0 +1,20 @@
+id: brahms-5-duets
+work:
+  composer: Brahms, Johannes
+  title: 5 Duets
+  ids:
+    imslp: 5 Duets, Op.66 (Brahms, Johannes)
+  year: 1873
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - alto
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Duets%2C_Op.66_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, Piano'
+duration_minutes: 11

@@ -1,0 +1,32 @@
+id: brahms-gesang-der-parzen
+work:
+  composer: Brahms, Johannes
+  title: Gesang der Parzen
+  ids:
+    imslp: Gesang der Parzen, Op.89 (Brahms, Johannes)
+  year: 1882
+formula: 0 2 2 3[1.2.cbn] 4231 tmp str
+instrumentation:
+  oboe: 2
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  strings: str
+  chorus_raw: mixed chorus
+  additional_raw: Orchestra ::2 flutes (1st also piccolo)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gesang_der_Parzen%2C_Op.89_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: chorus, orchestra :Mixed Chorus (SAATBB), Orchestra ::2
+    flutes (1st also piccolo), 2 oboes, 2 clarinets, 2 bassoons, contrabassoon, 4
+    horns, 2 trumpets, 3 trombones, tuba, timpani, strings'
+duration_minutes: 12

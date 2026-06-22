@@ -1,0 +1,17 @@
+id: beethoven-piano-sonata-no-22
+work:
+  composer: Beethoven, Ludwig van
+  title: Piano Sonata No.22
+  ids:
+    imslp: Piano Sonata No.22, Op.54 (Beethoven, Ludwig van)
+  year: 1804
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.22%2C_Op.54_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 14

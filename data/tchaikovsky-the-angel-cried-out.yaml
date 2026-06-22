@@ -1,0 +1,16 @@
+id: tchaikovsky-the-angel-cried-out
+work:
+  composer: Tchaikovsky, Pyotr
+  title: The Angel Cried Out
+  ids:
+    imslp: The Angel Cried Out, TH 81 (Tchaikovsky, Pyotr)
+  year: 1887
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Angel_Cried_Out%2C_TH_81_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 3

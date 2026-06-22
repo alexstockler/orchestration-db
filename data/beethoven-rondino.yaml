@@ -1,0 +1,19 @@
+id: beethoven-rondino
+work:
+  composer: Beethoven, Ludwig van
+  title: Rondino
+  ids:
+    imslp: Rondino in E-flat major, WoO 25 (Beethoven, Ludwig van)
+  year: 1793
+formula: 0222 2000
+instrumentation:
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rondino_in_E-flat_major%2C_WoO_25_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 clarinets, 2 horns, 2 bassoons'
+duration_minutes: 7

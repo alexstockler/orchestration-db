@@ -1,0 +1,34 @@
+id: mahler-symphony-no-6
+work:
+  composer: Mahler, Gustav
+  title: Symphony No.6
+  ids:
+    imslp: Symphony No.6, GMW 46 (Mahler, Gustav)
+  year: 1903
+formula: cel
+instrumentation:
+  percussion:
+    instruments:
+    - bass drum
+    - triangle
+    - snare drum
+    - cymbals
+    - slapstick
+    - tambourine
+    - tam-tam
+    - xylophone
+  keyboards:
+  - instrument: celesta
+  additional_raw: 2 or more off-stage bells | on and off-stage cowbells | switch |
+    hammer
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.6%2C_GMW_46_%28Mahler%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 4 flutes (3rd, 4th also piccolo), 4 oboes (3rd,
+    4th also English horn), English horn,, E clarinet (also 4th clarinet), 3 clarinets,
+    bass clarinet, 4 bassoons, contrabassoon, 8 horns, 6 trumpets, 4 trombones, tuba,
+    timpani, percussion (2 players), 2 harps, strings : 2 or more off-stage bells,
+    on and off-stage cowbells, bass drum, triangle, snare drum, cymbals, slapstick,,
+    tambourine, tam-tam, switch, hammer, xylophone, celesta (2 or more if possible)'
+duration_minutes: 80

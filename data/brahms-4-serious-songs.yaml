@@ -1,0 +1,17 @@
+id: brahms-4-serious-songs
+work:
+  composer: Brahms, Johannes
+  title: 4 Serious Songs
+  ids:
+    imslp: 4 Serious Songs, Op.121 (Brahms, Johannes)
+  year: 1896
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: bass voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Serious_Songs%2C_Op.121_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: bass voice, piano'

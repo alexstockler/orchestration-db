@@ -1,0 +1,16 @@
+id: beethoven-lob-auf-den-dicken
+work:
+  composer: Beethoven, Ludwig van
+  title: Lob auf den Dicken
+  ids:
+    imslp: Lob auf den Dicken, WoO 100 (Beethoven, Ludwig van)
+  year: 1801
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lob_auf_den_Dicken%2C_WoO_100_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 5

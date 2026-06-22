@@ -1,0 +1,19 @@
+id: beethoven-mit-m-deln-sich-vertragen
+work:
+  composer: Beethoven, Ludwig van
+  title: Mit Mädeln sich vertragen
+  ids:
+    imslp: Mit Mädeln sich vertragen, WoO 90 (Beethoven, Ludwig van)
+  year: 1790
+formula: 0200 2000 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  strings: str
+  soloists:
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mit_M%C3%A4deln_sich_vertragen%2C_WoO_90_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, 2 oboes, 2 horns, strings'

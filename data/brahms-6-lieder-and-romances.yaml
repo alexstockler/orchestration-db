@@ -1,0 +1,16 @@
+id: brahms-6-lieder-and-romances
+work:
+  composer: Brahms, Johannes
+  title: 6 Lieder and Romances
+  ids:
+    imslp: 6 Lieder and Romances, Op.93a (Brahms, Johannes)
+  year: 1883
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Lieder_and_Romances%2C_Op.93a_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 12

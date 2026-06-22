@@ -1,0 +1,18 @@
+id: tchaikovsky-i-should-like-in-a-single-word
+work:
+  composer: Tchaikovsky, Pyotr
+  title: I Should Like in a Single Word
+  ids:
+    imslp: I Should Like in a Single Word, TH 100/1 (Tchaikovsky, Pyotr)
+  year: 1875
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/I_Should_Like_in_a_Single_Word%2C_TH_100/1_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 2

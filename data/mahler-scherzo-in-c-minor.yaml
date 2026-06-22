@@ -1,0 +1,15 @@
+id: mahler-scherzo-in-c-minor
+work:
+  composer: Mahler, Gustav
+  title: Scherzo in C minor
+  ids:
+    imslp: Scherzo in C minor, GMW F55 (Mahler, Gustav)
+  year: 1897
+formula: ''
+instrumentation:
+  additional_raw: orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scherzo_in_C_minor%2C_GMW_F55_%28Mahler%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

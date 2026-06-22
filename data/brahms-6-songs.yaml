@@ -1,0 +1,18 @@
+id: brahms-6-songs
+work:
+  composer: Brahms, Johannes
+  title: 6 Songs
+  ids:
+    imslp: 6 Songs, Op.3 (Brahms, Johannes)
+  year: 1852
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Songs%2C_Op.3_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 11

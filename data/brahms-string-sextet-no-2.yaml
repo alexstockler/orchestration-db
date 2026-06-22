@@ -1,0 +1,16 @@
+id: brahms-string-sextet-no-2
+work:
+  composer: Brahms, Johannes
+  title: String Sextet No.2
+  ids:
+    imslp: String Sextet No.2, Op.36 (Brahms, Johannes)
+  year: 1864
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | 2 violas | 2 cellos
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Sextet_No.2%2C_Op.36_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, 2 violas, 2 cellos'
+duration_minutes: 40

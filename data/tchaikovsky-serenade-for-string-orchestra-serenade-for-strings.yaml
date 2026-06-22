@@ -1,0 +1,16 @@
+id: tchaikovsky-serenade-for-string-orchestra-serenade-for-strings
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Serenade for String Orchestra ; Serenade for Strings
+  ids:
+    imslp: Serenade for String Orchestra, Op.48 (Tchaikovsky, Pyotr)
+  year: 1880
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Serenade_for_String_Orchestra%2C_Op.48_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'
+duration_minutes: 30

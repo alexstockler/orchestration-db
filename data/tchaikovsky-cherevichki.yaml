@@ -1,0 +1,48 @@
+id: tchaikovsky-cherevichki
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Cherevichki
+  ids:
+    imslp: Cherevichki, TH 8 (Tchaikovsky, Pyotr)
+  year: 1885
+formula: 2222 4231 tmp hp
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tambourine
+    - cymbals
+    - bass drum
+  harp: 1
+  additional_raw: 'Cast ::Vakula (Вакула) (tenor) | Solokha (Солоха) (mezzo-soprano)
+    | Chub (Чуб) (1st bass) | Oksana (Оксана) (soprano) | Devil (Бес) (1st bass) |
+    Schoolmaster (Школьный учитель) (tenor) | Pan Golova (Пан Голова) (2nd bass) |
+    Panas (Панас) (2nd tenor) | His Highness (Светлейший) (2nd bass) | Master of Ceremonies
+    (Церемониймейстер) (2nd bass) | Attendant (Дежурный) (2nd tenor) | Old Cossack
+    (Старый запорожец) (2nd bass) | Wood Goblin (Голос лешего) (2nd bass) :Mixed Chorus
+    (SATB) :Orchestra (On-stage) ::piccolo | strings :Wind Band (Off-stage): [in Act
+    III | Nos.19 | 23]'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cherevichki%2C_TH_8_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Cast ::Vakula (Вакула) (tenor),
+    Solokha (Солоха) (mezzo-soprano), Chub (Чуб) (1st bass), Oksana (Оксана) (soprano),
+    Devil (Бес) (1st bass), Schoolmaster (Школьный учитель) (tenor), Pan Golova (Пан
+    Голова) (2nd bass), Panas (Панас) (2nd tenor), His Highness (Светлейший) (2nd
+    bass), Master of Ceremonies (Церемониймейстер) (2nd bass), Attendant (Дежурный)
+    (2nd tenor), Old Cossack (Старый запорожец) (2nd bass), Wood Goblin (Голос лешего)
+    (2nd bass) :Mixed Chorus (SATB) :Orchestra (On-stage) ::piccolo, 2 flutes, 2 oboes,
+    2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani, triangle,
+    tambourine, cymbals, bass drum, harp, strings :Wind Band (Off-stage): [in Act
+    III, Nos.19, 23]'
+duration_minutes: 175

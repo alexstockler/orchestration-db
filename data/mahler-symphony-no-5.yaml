@@ -1,0 +1,38 @@
+id: mahler-symphony-no-5
+work:
+  composer: Mahler, Gustav
+  title: Symphony No.5
+  ids:
+    imslp: Symphony No.5, GMW 44 (Mahler, Gustav)
+  year: 1902
+formula: 4 3[1.2.3/Eh] 3[1.2.3/bcl] 0 0431 tmp hp str
+instrumentation:
+  flute: 4
+  oboe:
+  - {}
+  - {}
+  - doublings:
+    - english_horn
+  clarinet:
+  - {}
+  - {}
+  - doublings:
+    - bass_clarinet
+  trumpet: 4
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  harp: 1
+  strings: str
+  additional_raw: 3 bassoons (3rd also contrabassoon) :6 horns | percussion (3-4 players)*
+    | *(bass drum, cymbals, snare drum, tam-tam, triangle, whip, glockenspiel)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.5%2C_GMW_44_%28Mahler%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: 4d4, 3d1, 3d1, 3d1 - 6, 4, 3, 1, tmp, 4prc, hp, strs :4
+    flutes (all also piccolo), 3 oboes (3rd also English horn), ::3 clarinets (3rd
+    also bass clarinet, piccolo clarinet), 3 bassoons (3rd also contrabassoon) :6
+    horns, 4 trumpets, 3 trombones, tuba, timpani, percussion (3-4 players)*, harp,
+    strings, *(bass drum, cymbals, snare drum, tam-tam, triangle, whip, glockenspiel)'

@@ -1,0 +1,17 @@
+id: beethoven-piano-trio-no-7-in-b-flat-major
+work:
+  composer: Beethoven, Ludwig van
+  title: Piano Trio No.7 in B-flat major
+  ids:
+    imslp: Piano Trio in B-flat major, Op.97 (Beethoven, Ludwig van)
+  year: 1811
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio_in_B-flat_major%2C_Op.97_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'

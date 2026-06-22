@@ -1,0 +1,16 @@
+id: tchaikovsky-string-quartet-in-b-flat-major
+work:
+  composer: Tchaikovsky, Pyotr
+  title: String Quartet in B-flat major
+  ids:
+    imslp: String Quartet in B-flat major, TH 110 (Tchaikovsky, Pyotr)
+  year: 1865
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_in_B-flat_major%2C_TH_110_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 13

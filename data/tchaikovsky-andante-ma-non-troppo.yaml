@@ -1,0 +1,16 @@
+id: tchaikovsky-andante-ma-non-troppo
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Andante ma non troppo
+  ids:
+    imslp: Andante ma non troppo, TH 157 (Tchaikovsky, Pyotr)
+  year: 1863
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello | double bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_ma_non_troppo%2C_TH_157_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello, double bass'
+duration_minutes: 3

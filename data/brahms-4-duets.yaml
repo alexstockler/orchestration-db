@@ -1,0 +1,20 @@
+id: brahms-4-duets
+work:
+  composer: Brahms, Johannes
+  title: 4 Duets
+  ids:
+    imslp: 4 Duets, Op.28 (Brahms, Johannes)
+  year: 1860
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - alto
+  - baritone
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Duets%2C_Op.28_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, baritone, piano'
+duration_minutes: 11

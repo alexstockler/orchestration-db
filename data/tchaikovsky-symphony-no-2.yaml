@@ -1,0 +1,34 @@
+id: tchaikovsky-symphony-no-2
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Symphony No.2
+  ids:
+    imslp: Symphony No.2, Op.17 (Tchaikovsky, Pyotr)
+  year: 1872
+formula: 3[pic.2.3] 2 2 2 4231 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - bass drum
+    - tam-tam
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.2%2C_Op.17_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons,, 4
+    horns, 2 trumpets, 3 trombones, tuba, timpani, cymbals, bass drum, tam-tam, strings'
+duration_minutes: 40

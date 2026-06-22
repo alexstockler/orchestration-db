@@ -1,0 +1,17 @@
+id: beethoven-piano-trio-in-e-flat-major
+work:
+  composer: Beethoven, Ludwig van
+  title: Piano Trio in E-flat major
+  ids:
+    imslp: Piano Trio in E-flat major, WoO 38 (Beethoven, Ludwig van)
+  year: 1790
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio_in_E-flat_major%2C_WoO_38_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'

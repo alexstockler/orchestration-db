@@ -1,0 +1,17 @@
+id: beethoven-piano-quartet-no-1-in-e-flat-major
+work:
+  composer: Beethoven, Ludwig van
+  title: Piano Quartet No.1 in E-flat major
+  ids:
+    imslp: Piano Quartet No.1 in E-flat major, WoO 36 No.1 (Beethoven, Ludwig van)
+  year: 1785
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quartet_No.1_in_E-flat_major%2C_WoO_36_No.1_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola, cello, piano'

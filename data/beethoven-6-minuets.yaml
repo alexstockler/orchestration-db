@@ -1,0 +1,15 @@
+id: beethoven-6-minuets
+work:
+  composer: Beethoven, Ludwig van
+  title: 6 Minuets
+  ids:
+    imslp: 6 Minuets, WoO 9 (Beethoven, Ludwig van)
+  year: 1795
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Minuets%2C_WoO_9_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, cello'

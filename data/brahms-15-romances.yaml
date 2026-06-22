@@ -1,0 +1,18 @@
+id: brahms-15-romances
+work:
+  composer: Brahms, Johannes
+  title: 15 Romances
+  ids:
+    imslp: 15 Romanzen aus L. Tiecks Magelone, Op.33 (Brahms, Johannes)
+  year: 1861
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/15_Romanzen_aus_L._Tiecks_Magelone%2C_Op.33_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 55

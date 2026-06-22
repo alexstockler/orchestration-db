@@ -1,0 +1,31 @@
+id: tchaikovsky-suite-no-1
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Suite No.1
+  ids:
+    imslp: Suite No.1, Op.43 (Tchaikovsky, Pyotr)
+  year: 1878
+formula: 4[pic.2.3.4] 2 2 2 4000 str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  percussion:
+    instruments:
+    - triangle
+    - glockenspiel
+  strings: str
+  additional_raw: 2 trumpets. timpani
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_No.1%2C_Op.43_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 3 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4
+    horns, 2 trumpets. timpani, triangle, glockenspiel, strings'
+duration_minutes: 38

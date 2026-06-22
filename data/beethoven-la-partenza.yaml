@@ -1,0 +1,17 @@
+id: beethoven-la-partenza
+work:
+  composer: Beethoven, Ludwig van
+  title: La Partenza
+  ids:
+    imslp: La Partenza, WoO 124 (Beethoven, Ludwig van)
+  year: 1795
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_Partenza%2C_WoO_124_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

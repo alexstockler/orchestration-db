@@ -1,0 +1,17 @@
+id: beethoven-12-irish-songs
+work:
+  composer: Beethoven, Ludwig van
+  title: 12 Irish Songs
+  ids:
+    imslp: 12 Irish Songs, WoO 154 (Beethoven, Ludwig van)
+  year: 1812
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 1 or 2 voices | violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Irish_Songs%2C_WoO_154_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 1 or 2 voices, violin, cello, piano'

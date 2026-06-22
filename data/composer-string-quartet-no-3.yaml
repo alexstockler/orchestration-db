@@ -1,0 +1,16 @@
+id: composer-string-quartet-no-3
+work:
+  composer: Composer
+  title: String Quartet No.3
+  ids:
+    imslp: String Quartet No.3, Op.67 (Brahms, Johannes)
+  year: 1875
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.3%2C_Op.67_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 34

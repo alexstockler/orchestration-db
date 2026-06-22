@@ -1,0 +1,16 @@
+id: tchaikovsky-andante-molto
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Andante molto
+  ids:
+    imslp: Andante molto, TH 155 (Tchaikovsky, Pyotr)
+  year: 1863
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_molto%2C_TH_155_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 2
