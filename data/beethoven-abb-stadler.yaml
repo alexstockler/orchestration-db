@@ -1,0 +1,16 @@
+id: beethoven-abb-stadler
+work:
+  composer: Beethoven, Ludwig van
+  title: Abbé Stadler
+  ids:
+    imslp: Abbé Stadler, WoO 178 (Beethoven, Ludwig van)
+  year: 1820
+formula: ''
+instrumentation:
+  additional_raw: 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Abb%C3%A9_Stadler%2C_WoO_178_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'
+duration_minutes: 1

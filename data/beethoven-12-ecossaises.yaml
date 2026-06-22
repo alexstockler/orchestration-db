@@ -1,0 +1,14 @@
+id: beethoven-12-ecossaises
+work:
+  composer: Beethoven, Ludwig van
+  title: 12 Ecossaises
+  ids:
+    imslp: 12 Ecossaises, WoO 16 (Beethoven, Ludwig van)
+formula: ''
+instrumentation:
+  additional_raw: orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Ecossaises%2C_WoO_16_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

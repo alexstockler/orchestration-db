@@ -1,0 +1,16 @@
+id: mahler-im-wundersch-nen-monat-mai
+work:
+  composer: Mahler, Gustav
+  title: Im wunderschönen Monat Mai
+  ids:
+    imslp: Im wunderschönen Monat Mai, GMW F51b (Mahler, Gustav)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Im_wundersch%C3%B6nen_Monat_Mai%2C_GMW_F51b_%28Mahler%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

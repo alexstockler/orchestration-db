@@ -1,0 +1,17 @@
+id: beethoven-bagatelle-in-b-major
+work:
+  composer: Beethoven, Ludwig van
+  title: Bagatelle in B major
+  ids:
+    imslp: Bagatelle in B-flat major, WoO 60 (Beethoven, Ludwig van)
+  year: 1818
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bagatelle_in_B-flat_major%2C_WoO_60_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

@@ -1,0 +1,29 @@
+id: beethoven-die-gesch-pfe-des-prometheus
+work:
+  composer: Beethoven, Ludwig van
+  title: Die Geschöpfe des Prometheus
+  ids:
+    imslp: Die Geschöpfe des Prometheus, Op.43 (Beethoven, Ludwig van)
+  year: 1800
+formula: 2 2 3[1.2.bhn] 2 2200 tmp hp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet:
+  - {}
+  - {}
+  - instrument: basset_horn
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Gesch%C3%B6pfe_des_Prometheus%2C_Op.43_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, basset horn (No.14), 2
+    bassoons, 2 horns, 2 trumpets, timpani, harp (No.5), strings'
+duration_minutes: 65

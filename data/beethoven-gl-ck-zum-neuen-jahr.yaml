@@ -1,0 +1,16 @@
+id: beethoven-gl-ck-zum-neuen-jahr
+work:
+  composer: Beethoven, Ludwig van
+  title: Glück zum neuen Jahr
+  ids:
+    imslp: Glück zum neuen Jahr, WoO 176 (Beethoven, Ludwig van)
+  year: 1819
+formula: ''
+instrumentation:
+  additional_raw: 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gl%C3%BCck_zum_neuen_Jahr%2C_WoO_176_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'
+duration_minutes: 1

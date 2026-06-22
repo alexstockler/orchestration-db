@@ -1,0 +1,19 @@
+id: beethoven-adagio-for-mandolin-and-harpsichord
+work:
+  composer: Beethoven, Ludwig van
+  title: Adagio for Mandolin and Harpsichord
+  ids:
+    imslp: Adagio for Mandolin and Harpsichord, WoO 43b (Beethoven, Ludwig van)
+  year: 1796
+formula: hpd mand
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+  extras:
+  - instrument: mandolin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adagio_for_Mandolin_and_Harpsichord%2C_WoO_43b_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: mandolin, harpsichord'
+duration_minutes: 6

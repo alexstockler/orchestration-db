@@ -1,0 +1,22 @@
+id: beethoven-bundeslied
+work:
+  composer: Beethoven, Ludwig van
+  title: Bundeslied
+  ids:
+    imslp: Bundeslied, Op.122 (Beethoven, Ludwig van)
+  year: 1823
+formula: 0022 2000
+instrumentation:
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  soloists:
+  - soprano
+  - alto
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bundeslied%2C_Op.122_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, female chorus (SSA), 2 Clarinets, 2 Bassoons,
+    2 Horns'

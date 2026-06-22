@@ -1,0 +1,15 @@
+id: beethoven-canon-4-gl-ck-zum-neuen-jahr
+work:
+  composer: Beethoven, Ludwig van
+  title: Canon à 4 'Glück zum neuen Jahr'
+  ids:
+    imslp: Glück zum neuen Jahr, WoO 165 (Beethoven, Ludwig van)
+  year: 1815
+formula: ''
+instrumentation:
+  additional_raw: 4 voices (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gl%C3%BCck_zum_neuen_Jahr%2C_WoO_165_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (SATB)'

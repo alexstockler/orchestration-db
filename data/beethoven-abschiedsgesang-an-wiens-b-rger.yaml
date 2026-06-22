@@ -1,0 +1,17 @@
+id: beethoven-abschiedsgesang-an-wiens-b-rger
+work:
+  composer: Beethoven, Ludwig van
+  title: Abschiedsgesang an Wiens Bürger
+  ids:
+    imslp: Abschiedsgesang an Wiens Bürger, WoO 121 (Beethoven, Ludwig van)
+  year: 1796
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Abschiedsgesang_an_Wiens_B%C3%BCrger%2C_WoO_121_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

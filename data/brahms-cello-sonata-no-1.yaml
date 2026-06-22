@@ -1,0 +1,18 @@
+id: brahms-cello-sonata-no-1
+work:
+  composer: Brahms, Johannes
+  title: Cello Sonata No.1
+  ids:
+    imslp: Cello Sonata No.1, Op.38 (Brahms, Johannes)
+  year: 1862
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Sonata_No.1%2C_Op.38_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'
+duration_minutes: 25

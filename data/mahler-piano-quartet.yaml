@@ -1,0 +1,18 @@
+id: mahler-piano-quartet
+work:
+  composer: Mahler, Gustav
+  title: Piano Quartet
+  ids:
+    imslp: Piano Quartet, GMW F52 (Mahler, Gustav)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quartet%2C_GMW_F52_%28Mahler%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola, cello, piano'
+duration_minutes: 15

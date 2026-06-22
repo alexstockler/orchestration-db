@@ -1,0 +1,16 @@
+id: beethoven-allemande
+work:
+  composer: Beethoven, Ludwig van
+  title: Allemande
+  ids:
+    imslp: Allemande, WoO 81 (Beethoven, Ludwig van)
+  year: 1793
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allemande%2C_WoO_81_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

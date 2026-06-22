@@ -1,0 +1,15 @@
+id: beethoven-bagatelle
+work:
+  composer: Beethoven, Ludwig van
+  title: Bagatelle
+  ids:
+    imslp: Bagatelle, WoO 52 (Beethoven, Ludwig van)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bagatelle%2C_WoO_52_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

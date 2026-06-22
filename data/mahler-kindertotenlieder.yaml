@@ -1,0 +1,43 @@
+id: mahler-kindertotenlieder
+work:
+  composer: Mahler, Gustav
+  title: Kindertotenlieder
+  ids:
+    imslp: Kindertotenlieder, GMW 45 (Mahler, Gustav)
+  year: 1901
+formula: 3[pic.2.3] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 4000 tmp cel hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  percussion:
+    timpani: 1
+    instruments:
+    - glockenspiel
+    - tam-tam
+  keyboards:
+  - instrument: celesta
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kindertotenlieder%2C_GMW_45_%28Mahler%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets,,
+    bass clarinet, 2 bassoons, contrabassoon, 4 horns, timpani, glockenspiel, tam-tam,
+    celesta, harp, strings'
+duration_minutes: 25

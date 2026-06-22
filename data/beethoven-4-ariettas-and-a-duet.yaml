@@ -1,0 +1,20 @@
+id: beethoven-4-ariettas-and-a-duet
+work:
+  composer: Beethoven, Ludwig van
+  title: 4 Ariettas and a Duet
+  ids:
+    imslp: 4 Arietten und ein Duett, Op.82 (Beethoven, Ludwig van)
+  year: 1809
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - tenor
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Arietten_und_ein_Duett%2C_Op.82_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, piano'
+duration_minutes: 12

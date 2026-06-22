@@ -1,0 +1,19 @@
+id: beethoven-ah-perfido
+work:
+  composer: Beethoven, Ludwig van
+  title: Ah! Perfido
+  ids:
+    imslp: Ah! Perfido, Op.65 (Beethoven, Ludwig van)
+  year: 1796
+formula: 1022 2000 str
+instrumentation:
+  flute: 1
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ah%21_Perfido%2C_Op.65_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, 2 clarinets, 2 bassoons, 2 horns, strings'

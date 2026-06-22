@@ -1,0 +1,25 @@
+id: beethoven-chorus-for-the-allied-princes
+work:
+  composer: Beethoven, Ludwig van
+  title: Chorus for the Allied Princes
+  ids:
+    imslp: Chorus for the Allied Princes, WoO 95 (Beethoven, Ludwig van)
+  year: 1814
+formula: 2222 2200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chorus_for_the_Allied_Princes%2C_WoO_95_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), 2 flutes, 2 oboes, 2 clarinets, 2
+    bassoons,, 2 horns, 2 trumpets, timpani, strings'

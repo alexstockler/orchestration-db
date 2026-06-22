@@ -1,0 +1,16 @@
+id: brahms-albumblatt-f-r-clara-schumann
+work:
+  composer: Brahms, Johannes
+  title: Albumblatt für Clara Schumann
+  ids:
+    imslp: Albumblatt für Clara Schumann (Brahms, Johannes)
+  year: 1868
+formula: ''
+instrumentation:
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Albumblatt_f%C3%BCr_Clara_Schumann_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: voice'
+duration_minutes: 1

@@ -1,0 +1,42 @@
+id: mahler-songs-of-a-wayfarer
+work:
+  composer: Mahler, Gustav
+  title: Songs of a Wayfarer
+  ids:
+    imslp: Lieder eines fahrenden Gesellen, GMW 10 (Mahler, Gustav)
+  year: 1883
+formula: 3[1.2.3/pic] 2 3[1.2.3/bcl] 2 4230 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet:
+  - {}
+  - {}
+  - doublings:
+    - bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - triangle
+    - tam-tam
+    - glockenspiel
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lieder_eines_fahrenden_Gesellen%2C_GMW_10_%28Mahler%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 2 oboes (both also English
+    horn),, 3 clarinets (3rd also bass clarinet), 2 bassoons, 4 horns, 2 trumpets,
+    3 trombones, timpani, bass drum, cymbals, triangle, tam-tam, glockenspiel, harp,
+    strings'

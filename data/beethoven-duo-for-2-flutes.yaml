@@ -1,0 +1,16 @@
+id: beethoven-duo-for-2-flutes
+work:
+  composer: Beethoven, Ludwig van
+  title: Duo for 2 Flutes
+  ids:
+    imslp: Duo for 2 Flutes, WoO 26 (Beethoven, Ludwig van)
+  year: 1792
+formula: 2000 0000
+instrumentation:
+  flute: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Duo_for_2_Flutes%2C_WoO_26_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes'
+duration_minutes: 5

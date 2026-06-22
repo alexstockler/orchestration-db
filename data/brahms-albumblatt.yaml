@@ -1,0 +1,17 @@
+id: brahms-albumblatt
+work:
+  composer: Brahms, Johannes
+  title: Albumblatt
+  ids:
+    imslp: Albumblatt in A minor (Brahms, Johannes)
+  year: 1853
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Albumblatt_in_A_minor_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 2

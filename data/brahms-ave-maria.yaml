@@ -1,0 +1,22 @@
+id: brahms-ave-maria
+work:
+  composer: Brahms, Johannes
+  title: Ave Maria
+  ids:
+    imslp: Ave Maria, Op.12 (Brahms, Johannes)
+  year: 1858
+formula: 2222 2000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_Maria%2C_Op.12_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SSAA), orchestra :2 flutes, 2 oboes, 2 clarinets,
+    2 bassoons, 2 horns, strings'
+duration_minutes: 4

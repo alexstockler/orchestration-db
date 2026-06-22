@@ -1,0 +1,27 @@
+id: beethoven-germania
+work:
+  composer: Beethoven, Ludwig van
+  title: Germania
+  ids:
+    imslp: Germania, WoO 94 (Beethoven, Ludwig van)
+  year: 1814
+formula: 2222 2200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - baritone
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Germania%2C_WoO_94_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: baritone, mixed chorus (SATB),, 2 flutes, 2 oboes, 2 clarinets,
+    2 bassoons,, 2 horns, 2 trumpets, timpani, strings'

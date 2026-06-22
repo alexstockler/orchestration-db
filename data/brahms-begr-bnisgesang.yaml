@@ -1,0 +1,24 @@
+id: brahms-begr-bnisgesang
+work:
+  composer: Brahms, Johannes
+  title: Begräbnisgesang
+  ids:
+    imslp: Begräbnisgesang, Op.13 (Brahms, Johannes)
+  year: 1858
+formula: 0222 2031 tmp
+instrumentation:
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Begr%C3%A4bnisgesang%2C_Op.13_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATBB), wind ensemble :2 oboes, 2 clarinets,
+    2 bassoons, 2 horns, 3 trombones, tuba, timpani'
+duration_minutes: 7

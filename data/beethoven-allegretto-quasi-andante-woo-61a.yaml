@@ -1,0 +1,16 @@
+id: beethoven-allegretto-quasi-andante-woo-61a
+work:
+  composer: Beethoven, Ludwig van
+  title: Allegretto quasi Andante, WoO 61a
+  ids:
+    imslp: Bagatelle, WoO 61a (Beethoven, Ludwig van)
+  year: 1825
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bagatelle%2C_WoO_61a_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

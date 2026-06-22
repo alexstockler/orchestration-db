@@ -1,0 +1,16 @@
+id: tchaikovsky-adagio
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Adagio
+  ids:
+    imslp: Adagio, TH 156 (Tchaikovsky, Pyotr)
+  year: 1863
+formula: 0000 4000
+instrumentation:
+  horn: 4
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adagio%2C_TH_156_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 horns'
+duration_minutes: 2

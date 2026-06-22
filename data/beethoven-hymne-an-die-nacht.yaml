@@ -1,0 +1,16 @@
+id: beethoven-hymne-an-die-nacht
+work:
+  composer: Beethoven, Ludwig van
+  title: Hymne an die Nacht
+  ids:
+    imslp: Hymne an die Nacht (Beethoven, Ludwig van)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymne_an_die_Nacht_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus, piano'

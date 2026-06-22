@@ -1,0 +1,16 @@
+id: tchaikovsky-allegro-vivace
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Allegro vivace
+  ids:
+    imslp: Allegro vivace, TH 154 (Tchaikovsky, Pyotr)
+  year: 1863
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegro_vivace%2C_TH_154_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 2

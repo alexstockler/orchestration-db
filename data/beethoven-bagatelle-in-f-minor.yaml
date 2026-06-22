@@ -1,0 +1,16 @@
+id: beethoven-bagatelle-in-f-minor
+work:
+  composer: Beethoven, Ludwig van
+  title: Bagatelle in F minor
+  ids:
+    imslp: Bagatelle in F minor (Beethoven, Ludwig van)
+  year: 1826
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bagatelle_in_F_minor_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

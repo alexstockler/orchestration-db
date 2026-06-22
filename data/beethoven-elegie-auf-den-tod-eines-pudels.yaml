@@ -1,0 +1,17 @@
+id: beethoven-elegie-auf-den-tod-eines-pudels
+work:
+  composer: Beethoven, Ludwig van
+  title: Elegie auf den Tod eines Pudels
+  ids:
+    imslp: Elegie auf den Tod eines Pudels, WoO 110 (Beethoven, Ludwig van)
+  year: 1790
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Elegie_auf_den_Tod_eines_Pudels%2C_WoO_110_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

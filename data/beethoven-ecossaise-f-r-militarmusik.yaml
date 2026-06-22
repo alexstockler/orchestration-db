@@ -1,0 +1,32 @@
+id: beethoven-ecossaise-f-r-militarmusik
+work:
+  composer: Beethoven, Ludwig van
+  title: Ecossaise für Militarmusik
+  ids:
+    imslp: Ecossaise for Military Band, WoO 22 (Beethoven, Ludwig van)
+  year: 1810
+formula: 1[pic] 2 2 3[1.2.cbn] 2200
+instrumentation:
+  flute:
+  - instrument: piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 2
+  trumpet: 2
+  percussion:
+    instruments:
+    - bass drum
+    - snare drum
+    - triangle
+    - cymbals
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ecossaise_for_Military_Band%2C_WoO_22_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 oboes, 2 clarinets, 2 bassoons, contrabassoon,
+    2 horns, 2 trumpets, bass drum, snare drum, triangle, cymbals'
+duration_minutes: 2

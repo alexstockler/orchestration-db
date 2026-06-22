@@ -1,0 +1,16 @@
+id: beethoven-hofmann-und-kein-hofmann
+work:
+  composer: Beethoven, Ludwig van
+  title: Hofmann und kein Hofmann
+  ids:
+    imslp: Hofmann und kein Hofmann, WoO 180 (Beethoven, Ludwig van)
+  year: 1820
+formula: ''
+instrumentation:
+  additional_raw: 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hofmann_und_kein_Hofmann%2C_WoO_180_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices'
+duration_minutes: 1

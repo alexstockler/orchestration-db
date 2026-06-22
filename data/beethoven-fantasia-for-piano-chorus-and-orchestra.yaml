@@ -1,0 +1,25 @@
+id: beethoven-fantasia-for-piano-chorus-and-orchestra
+work:
+  composer: Beethoven, Ludwig van
+  title: Fantasia for Piano, Chorus and Orchestra
+  ids:
+    imslp: Fantasia in C minor, Op.80 (Beethoven, Ludwig van)
+  year: 1808
+formula: 2222 2200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_in_C_minor%2C_Op.80_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices (SSATTB), Mixed Chorus (SATB), Orchestra :2 flutes,
+    2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets, timpani, strings'
+duration_minutes: 20

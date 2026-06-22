@@ -1,0 +1,16 @@
+id: beethoven-fugue-for-organ
+work:
+  composer: Beethoven, Ludwig van
+  title: Fugue for Organ
+  ids:
+    imslp: Fugue for Organ, WoO 31 (Beethoven, Ludwig van)
+  year: 1783
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_for_Organ%2C_WoO_31_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
