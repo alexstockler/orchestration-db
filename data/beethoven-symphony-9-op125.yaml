@@ -1,0 +1,31 @@
+id: beethoven-symphony-9-op125
+work:
+  composer: "Beethoven, Ludwig van"
+  title: "Symphony No. 9 in D minor (Choral)"
+  catalog: "Op. 125"
+  year: 1824
+  ids:
+    wikidata: null
+formula: "2[1.2/pic] 2 2 3[1.2.cbn] 4230 tmp+3 str"
+duration_minutes: 65
+instrumentation:
+  flute:
+    - {}
+    - {doublings: [piccolo]}
+  oboe: 2
+  clarinet: 2
+  bassoon:
+    - {}
+    - {}
+    - {instrument: contrabassoon}
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion: {timpani: 1, players: 3, instruments: [triangle, cymbals, bass_drum]}
+  strings: str
+  soloists: [soprano, alto, tenor, bass]
+  chorus: [SATB]
+provenance:
+  source: score
+  confidence: single_source
+  notes: "Extra percussion (Turkish music) and voices in the finale only."

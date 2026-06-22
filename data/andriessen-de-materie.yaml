@@ -1,0 +1,69 @@
+id: andriessen-de-materie
+work:
+  composer: Andriessen, Louis
+  title: De Materie
+  year: 1985-88
+  ids:
+    boosey: '6803'
+    wikidata: null
+version:
+  publisher: Boosey & Hawkes
+  label: Ensemble (large)
+formula: 3 4[1.2.3/Eh.4/Eh] 8[1.2.3.4.5.bcl.bcl.bcl/cbcl] 0 4441 tmp+6 pf pf hp 2.2.2.2.1
+duration_minutes: 108
+instrumentation:
+  flute: 3
+  oboe:
+  - {}
+  - {}
+  - doublings:
+    - english_horn
+  - doublings:
+    - english_horn
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  - instrument: bass_clarinet
+  - instrument: bass_clarinet
+    doublings:
+    - contrabass_clarinet
+  horn: 4
+  trumpet: 4
+  trombone: 4
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 6
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  harp: 1
+  strings:
+    standard: false
+    description: 2.2.2.2.1
+  soloists:
+  - S
+  - T
+  - 2speakers
+  chorus_raw: 2.2.2.2
+  saxophones:
+  - instrument: alto_sax
+    count: 2
+  - instrument: tenor_sax
+    count: 2
+  - instrument: baritone_sax
+    count: 1
+  additional_raw: perc(6):3marimbas/glsp/vib/timp/tam-t-harp-cel-2pft-2synth-2gtr-bass
+    gtr
+provenance:
+  source: publisher:boosey
+  source_url: https://www.boosey.com/pages/cr/catalogue/cat_detail?musicid=6803
+  confidence: single_source
+  notes: 'Auto-extracted from B&H Scoring block; celesta/synth/guitars/cimbalom and
+    detailed percussion are kept in additional_raw, formula covers the orchestral
+    core. Raw: S,T,2speakers; chorus(2.2.2.2) 3.4(III,IV=corA).5.3bcl(III=dbcl).2asax.2tsax.barsax.0-4.4.4.1-perc(6):3marimbas/glsp/vib/timp/tam-t-harp-cel-2pft-2synth-2gtr-bass
+    gtr-strings(2.2.2.2.1)'

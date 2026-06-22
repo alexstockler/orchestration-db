@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Orchestration DB — ingest console</title>
+<style>
+  :root{
+    --paper:#eef1f4; --card:#ffffff; --ink:#15181f; --muted:#5b6472;
+    --line:#d8dee6; --indigo:#2f3a56; --gold:#b08d4f; --good:#2e7d52;
+    --bad:#b23b3b; --plate:#14171e;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--paper);color:var(--ink);
+    font:15px/1.5 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+  h1,h2,h3{font-family:ui-serif,Georgia,"Times New Roman",serif;font-weight:600;
+    letter-spacing:-.01em;margin:0}
+  code,pre,textarea.mono,.plate{font-family:ui-monospace,SFMono-Regular,
+    Menlo,Consolas,monospace}
+  header{padding:26px 32px 20px;border-bottom:1px solid var(--line);background:var(--card)}
+  header h1{font-size:24px}
+  header p{margin:4px 0 0;color:var(--muted);font-size:13px}
+  .wrap{max-width:980px;margin:0 auto;padding:24px 20px 80px}
+  nav.tabs{display:flex;gap:4px;max-width:980px;margin:14px auto 0;padding:0 20px}
+  .tab{appearance:none;border:1px solid var(--line);border-bottom:none;background:#e4e8ee;
+    color:var(--muted);padding:9px 16px;border-radius:8px 8px 0 0;cursor:pointer;font-size:14px}
+  .tab[aria-selected="true"]{background:var(--card);color:var(--ink);font-weight:600}
+  .panel{display:none}.panel.on{display:block}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;
+    padding:20px;margin:16px 0}
+  .card h2{font-size:17px;margin-bottom:3px}
+  .card .hint{color:var(--muted);font-size:13px;margin:0 0 14px}
+  label{display:block;font-size:12px;text-transform:uppercase;letter-spacing:.05em;
+    color:var(--muted);margin:0 0 4px}
+  .row{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:12px}
+  .row > div{flex:1;min-width:140px}
+  input,textarea{width:100%;padding:9px 11px;border:1px solid var(--line);
+    border-radius:8px;font-size:14px;background:#fcfdfe;color:var(--ink)}
+  textarea{min-height:84px;resize:vertical}
+  input:focus,textarea:focus{outline:2px solid var(--indigo);outline-offset:1px;border-color:var(--indigo)}
+  button.act{background:var(--indigo);color:#fff;border:none;padding:10px 18px;
+    border-radius:8px;font-size:14px;font-weight:600;cursor:pointer}
+  button.act:hover{background:#26304a}
+  button.ghost{background:transparent;color:var(--indigo);border:1px solid var(--indigo)}
+  .plate{background:var(--plate);color:#eef1f4;border-left:3px solid var(--gold);
+    padding:16px 18px;border-radius:8px;font-size:16px;word-break:break-word;
+    margin:14px 0;min-height:22px;white-space:pre-wrap}
+  .plate .ph{color:#5b6472}
+  textarea.yaml{min-height:230px;font-size:13px;background:#fbfcfd}
+  .result{margin-top:14px;border-top:1px dashed var(--line);padding-top:14px}
+  .status{font-size:13px;margin-top:8px;min-height:18px}
+  .status.ok{color:var(--good)} .status.err{color:var(--bad)}
+  .problems{list-style:none;padding:0;margin:8px 0 0}
+  .problems li{color:var(--bad);font-size:13px;font-family:ui-monospace,monospace}
+  pre.json{background:#fbfcfd;border:1px solid var(--line);border-radius:8px;
+    padding:12px;overflow:auto;font-size:13px;max-height:360px}
+  table{width:100%;border-collapse:collapse;font-size:13px}
+  th,td{text-align:left;padding:9px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+  th{font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+  td .formula{font-family:ui-monospace,monospace}
+  .pill{display:inline-block;padding:2px 8px;border-radius:999px;font-size:11px;font-weight:600}
+  .pill.ok{background:#e3f1ea;color:var(--good)} .pill.bad{background:#f7e4e4;color:var(--bad)}
+  .scrapecard{border:1px solid var(--line);border-radius:10px;padding:14px;margin:12px 0;background:#fcfdfe}
+  small.warn{color:var(--gold)}
+</style>
+</head>
+<body>
+<header>
+  <h1>Orchestration DB</h1>
+  <p>Ingest console — paste a publisher scoring, render the formula, save a validated entry.</p>
+</header>
+<nav class="tabs" role="tablist">
+  <button class="tab" role="tab" aria-selected="true" data-panel="ingest">Ingest</button>
+  <button class="tab" role="tab" aria-selected="false" data-panel="formula">Formula tools</button>
+  <button class="tab" role="tab" aria-selected="false" data-panel="library">Library</button>
+</nav>
+<div class="wrap">
+
+  <!-- INGEST -->
+  <section class="panel on" id="ingest">
+    <div class="card">
+      <h2>From Boosey scoring text</h2>
+      <p class="hint">Paste the “Scoring” block from a catalogue page. Edit the generated entry, then save.</p>
+      <div class="row">
+        <div><label>Composer</label><input id="s_composer" placeholder="Scriabin, Alexander"></div>
+        <div><label>Title</label><input id="s_title" placeholder="Le Poème de l'extase"></div>
+        <div style="max-width:120px"><label>Year</label><input id="s_year" placeholder="1908"></div>
+        <div style="max-width:130px"><label>Boosey id</label><input id="s_mid" placeholder="optional"></div>
+      </div>
+      <label>Scoring</label>
+      <textarea id="s_scoring" placeholder="3(III=picc).3(III=corA).3(III=bcl).3(III=dbn)-8.5.3.1-timp.perc-2harp-cel-org-strings"></textarea>
+      <div style="margin-top:12px"><button class="act" id="s_parse">Parse scoring</button></div>
+      <div class="result" id="s_result" hidden>
+        <div class="plate" id="s_plate"></div>
+        <label>Entry (editable)</label>
+        <textarea class="mono yaml" id="s_yaml"></textarea>
+        <div style="margin-top:10px"><button class="act" id="s_save">Save entry</button></div>
+        <div class="status" id="s_status"></div>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Fetch from Boosey</h2>
+      <p class="hint">Enter one or more musicids (from the INFORMATION links).
+        <small class="warn">Needs internet — runs the live scraper.</small></p>
+      <div class="row">
+        <div><label>Composer (fallback)</label><input id="f_composer" placeholder="Scriabin, Alexander"></div>
+        <div><label>Music ids</label><input id="f_mids" placeholder="e.g. 12345, 12346"></div>
+      </div>
+      <div><button class="act" id="f_fetch">Fetch & parse</button></div>
+      <div id="f_results"></div>
+    </div>
+  </section>
+
+  <!-- FORMULA -->
+  <section class="panel" id="formula">
+    <div class="card">
+      <h2>Formula → structure</h2>
+      <p class="hint">Type a Daniels-style formula to see the structured data it decodes to.</p>
+      <input id="fts_in" placeholder="2222 4231 tmp+3 pf/cel hp str">
+      <div style="margin-top:12px"><button class="act" id="fts_go">Decode</button></div>
+      <div id="fts_out" hidden>
+        <div class="plate" id="fts_round"></div>
+        <pre class="json" id="fts_json"></pre>
+      </div>
+    </div>
+    <div class="card">
+      <h2>Structure → formula</h2>
+      <p class="hint">Paste an <code>instrumentation</code> block (YAML or JSON) to render its formula.</p>
+      <textarea class="mono" id="stf_in" placeholder="flute: 2&#10;oboe: 2&#10;clarinet: 2&#10;bassoon: 2&#10;horn: 4&#10;strings: str"></textarea>
+      <div style="margin-top:12px"><button class="act" id="stf_go">Render formula</button></div>
+      <div class="plate" id="stf_out" hidden></div>
+    </div>
+  </section>
+
+  <!-- LIBRARY -->
+  <section class="panel" id="library">
+    <div class="card">
+      <h2>Library</h2>
+      <p class="hint">Every entry in <code>data/</code>, re-validated live.</p>
+      <button class="ghost act" id="lib_refresh">Refresh</button>
+      <div id="lib_out" style="margin-top:14px"></div>
+    </div>
+  </section>
+</div>
+
+<script>
+const $ = s => document.querySelector(s);
+async function postJSON(url, body){
+  const r = await fetch(url, {method:'POST', headers:{'Content-Type':'application/json'},
+    body: JSON.stringify(body)});
+  return r.json();
+}
+// tabs
+document.querySelectorAll('.tab').forEach(t => t.onclick = () => {
+  document.querySelectorAll('.tab').forEach(x => x.setAttribute('aria-selected', x===t));
+  document.querySelectorAll('.panel').forEach(p => p.classList.toggle('on', p.id===t.dataset.panel));
+});
+
+// ingest: parse scoring
+$('#s_parse').onclick = async () => {
+  const data = await postJSON('/api/parse-scoring', {
+    composer:$('#s_composer').value, title:$('#s_title').value,
+    year:$('#s_year').value, musicid:$('#s_mid').value, scoring:$('#s_scoring').value});
+  $('#s_result').hidden = false;
+  $('#s_plate').textContent = data.entry.formula || '—';
+  $('#s_yaml').value = data.yaml;
+  $('#s_status').textContent = '';
+};
+$('#s_save').onclick = async () => {
+  const data = await postJSON('/api/save', {yaml:$('#s_yaml').value});
+  const st = $('#s_status');
+  if(data.ok){ st.className='status ok'; st.textContent='Saved to '+data.path; }
+  else { st.className='status err';
+    st.innerHTML = 'Not saved:<ul class="problems">'+data.problems.map(p=>'<li>'+esc(p)+'</li>').join('')+'</ul>'; }
+};
+
+// ingest: fetch by musicid
+$('#f_fetch').onclick = async () => {
+  $('#f_results').innerHTML = '<p class="hint">Fetching…</p>';
+  const data = await postJSON('/api/scrape', {composer:$('#f_composer').value, musicids:$('#f_mids').value});
+  $('#f_results').innerHTML = '';
+  data.results.forEach((r,i) => {
+    const div = document.createElement('div'); div.className='scrapecard';
+    if(r.error){ div.innerHTML = '<b>id '+esc(r.musicid)+'</b> — <span style="color:var(--bad)">'+esc(r.error)+'</span>'; }
+    else {
+      const tid = 'fy'+i, sid='fs'+i;
+      div.innerHTML = '<b>id '+esc(r.musicid)+'</b><textarea class="mono yaml" id="'+tid+'"></textarea>'+
+        '<div style="margin-top:8px"><button class="act" data-save="'+tid+'" data-st="'+sid+'">Save entry</button></div>'+
+        '<div class="status" id="'+sid+'"></div>';
+    }
+    $('#f_results').appendChild(div);
+    if(!r.error) document.getElementById('fy'+i).value = r.yaml;
+  });
+  document.querySelectorAll('[data-save]').forEach(b => b.onclick = async () => {
+    const out = await postJSON('/api/save', {yaml:document.getElementById(b.dataset.save).value});
+    const st = document.getElementById(b.dataset.st);
+    if(out.ok){ st.className='status ok'; st.textContent='Saved to '+out.path; }
+    else { st.className='status err'; st.innerHTML='Not saved:<ul class="problems">'+out.problems.map(p=>'<li>'+esc(p)+'</li>').join('')+'</ul>'; }
+  });
+};
+
+// formula tools
+$('#fts_go').onclick = async () => {
+  const data = await postJSON('/api/formula-to-struct', {formula:$('#fts_in').value});
+  $('#fts_out').hidden = false;
+  if(data.ok){ $('#fts_round').textContent = data.roundtrip;
+    $('#fts_json').textContent = JSON.stringify(data.instrumentation, null, 2); }
+  else { $('#fts_round').innerHTML='<span class="ph">'+esc(data.error)+'</span>'; $('#fts_json').textContent=''; }
+};
+$('#stf_go').onclick = async () => {
+  const data = await postJSON('/api/struct-to-formula', {instrumentation:$('#stf_in').value});
+  $('#stf_out').hidden = false;
+  $('#stf_out').textContent = data.ok ? data.formula : data.error;
+};
+
+// library
+$('#lib_refresh').onclick = async () => {
+  const data = await (await fetch('/api/list')).json();
+  let html = '<table><thead><tr><th>Title</th><th>Composer</th><th>Formula</th><th>Confidence</th><th>Status</th></tr></thead><tbody>';
+  data.rows.forEach(r => {
+    html += '<tr><td>'+esc(r.title)+'</td><td>'+esc(r.composer)+'</td>'+
+      '<td class="formula">'+esc(r.formula)+'</td><td>'+esc(r.confidence)+'</td>'+
+      '<td>'+(r.valid?'<span class="pill ok">valid</span>':'<span class="pill bad">check</span>')+'</td></tr>';
+    if(!r.valid) html += '<tr><td colspan="5"><ul class="problems">'+r.problems.map(p=>'<li>'+esc(p)+'</li>').join('')+'</ul></td></tr>';
+  });
+  html += '</tbody></table>';
+  $('#lib_out').innerHTML = html;
+};
+
+function esc(s){ return String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+</script>
+</body>
+</html>

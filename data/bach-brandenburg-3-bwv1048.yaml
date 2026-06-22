@@ -1,0 +1,19 @@
+id: bach-brandenburg-concerto-3-bwv1048
+work:
+  composer: "Bach, Johann Sebastian"
+  title: "Brandenburg Concerto No. 3 in G major"
+  catalog: "BWV 1048"
+  year: 1721
+  ids:
+    wikidata: null
+formula: "3vn 3va 3vc cont"
+duration_minutes: 11
+instrumentation:
+  strings:
+    standard: false
+    description: "3vn 3va 3vc"
+    continuo: true
+provenance:
+  source: score
+  confidence: score_verified
+  notes: "Three each of violins, violas, cellos, plus continuo. No wind/brass block."

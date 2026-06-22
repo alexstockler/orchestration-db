@@ -1,0 +1,156 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/orchestration-db/work.schema.json",
+  "title": "Orchestration DB work entry",
+  "type": "object",
+  "required": ["id", "work", "formula", "instrumentation", "provenance"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Stable slug, e.g. 'beethoven-symphony-5-op67'."
+    },
+    "work": {
+      "type": "object",
+      "required": ["composer", "title"],
+      "additionalProperties": false,
+      "properties": {
+        "composer": {"type": "string"},
+        "title": {"type": "string"},
+        "catalog": {"type": "string"},
+        "year": {"type": ["integer", "string"]},
+        "movements": {"type": "array", "items": {"type": "string"}},
+        "ids": {
+          "type": "object",
+          "description": "External identifiers used to anchor work identity.",
+          "additionalProperties": false,
+          "properties": {
+            "wikidata": {"type": ["string", "null"]},
+            "musicbrainz": {"type": ["string", "null"]},
+            "imslp": {"type": ["string", "null"]},
+            "openopus": {"type": ["string", "null"]},
+            "boosey": {"type": ["string", "null"]}
+          }
+        }
+      }
+    },
+    "version": {
+      "type": "object",
+      "description": "The specific edition/version this instrumentation describes.",
+      "additionalProperties": false,
+      "properties": {
+        "label": {"type": "string"},
+        "publisher": {"type": "string"},
+        "editor": {"type": "string"},
+        "arranger": {"type": "string"},
+        "year": {"type": ["integer", "string"]}
+      }
+    },
+    "formula": {
+      "type": "string",
+      "description": "Generated Daniels-style shorthand. Must equal render(instrumentation)."
+    },
+    "duration_minutes": {"type": "number"},
+    "instrumentation": {"$ref": "#/$defs/instrumentation"},
+    "provenance": {
+      "type": "object",
+      "required": ["confidence"],
+      "additionalProperties": false,
+      "properties": {
+        "source": {
+          "type": "string",
+          "description": "e.g. 'score', 'publisher:boosey', 'imslp', 'community'."
+        },
+        "source_url": {"type": "string"},
+        "confidence": {
+          "type": "string",
+          "enum": ["score_verified", "multi_source", "single_source", "unverified"]
+        },
+        "retrieved": {"type": "string"},
+        "notes": {"type": "string"}
+      }
+    }
+  },
+  "$defs": {
+    "player": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "instrument": {"type": "string"},
+        "doublings": {"type": "array", "items": {"type": "string"}}
+      }
+    },
+    "family": {
+      "oneOf": [
+        {"type": "integer", "minimum": 0},
+        {"type": "array", "items": {"$ref": "#/$defs/player"}}
+      ]
+    },
+    "instrumentation": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "flute": {"$ref": "#/$defs/family"},
+        "oboe": {"$ref": "#/$defs/family"},
+        "clarinet": {"$ref": "#/$defs/family"},
+        "bassoon": {"$ref": "#/$defs/family"},
+        "horn": {"$ref": "#/$defs/family"},
+        "trumpet": {"$ref": "#/$defs/family"},
+        "trombone": {"$ref": "#/$defs/family"},
+        "tuba": {"$ref": "#/$defs/family"},
+        "percussion": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "timpani": {"type": "integer", "minimum": 0},
+            "players": {"type": "integer", "minimum": 0},
+            "instruments": {"type": "array", "items": {"type": "string"}}
+          }
+        },
+        "keyboards": {"type": "array", "items": {"$ref": "#/$defs/keyboard"}},
+        "harp": {"type": "integer", "minimum": 0},
+        "extras": {"type": "array", "items": {"$ref": "#/$defs/keyboard"}},
+        "strings": {
+          "oneOf": [
+            {"type": "string"},
+            {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "standard": {"type": "boolean"},
+                "description": {"type": "string"},
+                "continuo": {"type": "boolean"}
+              }
+            }
+          ]
+        },
+        "soloists": {"type": "array", "items": {"type": "string"}},
+        "chorus": {"type": "array", "items": {"type": "string"}},
+        "chorus_raw": {"type": "string"},
+        "saxophones": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "instrument": {"type": "string"},
+              "count": {"type": "integer", "minimum": 1}
+            }
+          }
+        },
+        "additional_raw": {"type": "string"},
+        "offstage": {"type": "string"}
+      }
+    },
+    "keyboard": {
+      "type": "object",
+      "required": ["instrument"],
+      "additionalProperties": false,
+      "properties": {
+        "instrument": {"type": "string"},
+        "doublings": {"type": "array", "items": {"type": "string"}}
+      }
+    }
+  }
+}
