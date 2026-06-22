@@ -1,0 +1,15 @@
+id: beethoven-9-fugues-for-4-voices
+work:
+  composer: Beethoven, Ludwig van
+  title: 9 Fugues for 4 Voices
+  ids:
+    imslp: 9 Fugues for 4 Voices, Hess 238 (Beethoven, Ludwig van)
+  year: 1832
+formula: ''
+instrumentation:
+  additional_raw: 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/9_Fugues_for_4_Voices%2C_Hess_238_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices'

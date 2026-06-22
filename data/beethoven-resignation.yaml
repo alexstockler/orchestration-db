@@ -1,0 +1,17 @@
+id: beethoven-resignation
+work:
+  composer: Beethoven, Ludwig van
+  title: Resignation
+  ids:
+    imslp: Resignation, WoO 149 (Beethoven, Ludwig van)
+  year: 1814
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Resignation%2C_WoO_149_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

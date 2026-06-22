@@ -1,0 +1,15 @@
+id: beethoven-si-non-per-portas
+work:
+  composer: Beethoven, Ludwig van
+  title: Si non per portas
+  ids:
+    imslp: Si non per portas, WoO 194 (Beethoven, Ludwig van)
+  year: 1825
+formula: ''
+instrumentation:
+  additional_raw: 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Si_non_per_portas%2C_WoO_194_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices'

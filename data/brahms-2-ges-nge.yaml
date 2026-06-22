@@ -1,0 +1,20 @@
+id: brahms-2-ges-nge
+work:
+  composer: Brahms, Johannes
+  title: 2 Gesänge
+  ids:
+    imslp: 2 Gesänge, Op.91 (Brahms, Johannes)
+  year: 1884
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - alto
+  additional_raw: viola
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Ges%C3%A4nge%2C_Op.91_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, viola, piano'
+duration_minutes: 12

@@ -1,0 +1,17 @@
+id: tchaikovsky-6-pieces-on-a-single-theme
+work:
+  composer: Tchaikovsky, Pyotr
+  title: 6 Pieces (on a Single Theme)
+  ids:
+    imslp: 6 Pieces, Op.21 (Tchaikovsky, Pyotr)
+  year: 1873
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Pieces%2C_Op.21_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 26

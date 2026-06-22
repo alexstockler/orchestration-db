@@ -1,0 +1,16 @@
+id: tchaikovsky-allegretto
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Allegretto
+  ids:
+    imslp: Allegretto, TH 153 (Tchaikovsky, Pyotr)
+  year: 1863
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegretto%2C_TH_153_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 2

@@ -1,0 +1,18 @@
+id: brahms-13-canons
+work:
+  composer: Brahms, Johannes
+  title: 13 Canons
+  ids:
+    imslp: 13 Canons, Op.113 (Brahms, Johannes)
+  year: 1859
+formula: ''
+instrumentation:
+  additional_raw: female chorus (SSAA) — Nos.1 | 3 | 5 | 6 | 8 to 11 | female chorus
+    (SSA) — Nos.2 | 4 | 7 | 12 | female chorus (SSSSAA) — No.13
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/13_Canons%2C_Op.113_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SSAA) — Nos.1, 3, 5, 6, 8 to 11, female
+    chorus (SSA) — Nos.2, 4, 7, 12, female chorus (SSSSAA) — No.13'
+duration_minutes: 20

@@ -1,0 +1,41 @@
+id: tchaikovsky-slavonic-march
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Slavonic March
+  ids:
+    imslp: Slavonic March, Op.31 (Tchaikovsky, Pyotr)
+  year: 1876
+formula: 4[pic.pic.3.4] 2 2 2 4 4[1.2.cnt.cnt] 3 1 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - side drum
+    - cymbals
+    - bass drum
+    - tam-tam
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Slavonic_March%2C_Op.31_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: 32 parts :2 piccolos, 2 flutes, 2 oboes, 2 clarinets, 2
+    bassoons, 4 horns, 2 trumpets, 2 cornets, 3 trombones, tuba, timpani, side drum,
+    cymbals, bass drum, tam-tam, strings'
+duration_minutes: 10

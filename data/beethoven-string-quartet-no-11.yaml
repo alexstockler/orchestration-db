@@ -1,0 +1,15 @@
+id: beethoven-string-quartet-no-11
+work:
+  composer: Beethoven, Ludwig van
+  title: String Quartet No.11
+  ids:
+    imslp: String Quartet No.11, Op.95 (Beethoven, Ludwig van)
+  year: 1810
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.11%2C_Op.95_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

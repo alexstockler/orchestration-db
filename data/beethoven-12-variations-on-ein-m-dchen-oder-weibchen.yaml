@@ -1,0 +1,18 @@
+id: beethoven-12-variations-on-ein-m-dchen-oder-weibchen
+work:
+  composer: Beethoven, Ludwig van
+  title: 12 Variations on 'Ein Mädchen oder Weibchen'
+  ids:
+    imslp: 12 Variations on 'Ein Mädchen oder Weibchen', Op.66 (Beethoven, Ludwig
+      van)
+  year: 1796
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Variations_on_%27Ein_M%C3%A4dchen_oder_Weibchen%27%2C_Op.66_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'

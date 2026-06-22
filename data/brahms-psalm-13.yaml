@@ -1,0 +1,20 @@
+id: brahms-psalm-13
+work:
+  composer: Brahms, Johannes
+  title: Psalm 13
+  ids:
+    imslp: Psalm 13, Op.27 (Brahms, Johannes)
+  year: 1859
+formula: org str
+instrumentation:
+  keyboards:
+  - instrument: organ
+  strings: str
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Psalm_13%2C_Op.27_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SSA), organ (or Piano 3 or 4 hands), strings
+    (ad lib.)'
+duration_minutes: 5

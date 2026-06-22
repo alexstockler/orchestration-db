@@ -1,0 +1,40 @@
+id: mahler-symphony-no-10
+work:
+  composer: Mahler, Gustav
+  title: Symphony No.10
+  ids:
+    imslp: Symphony No.10, GMW F58 (Mahler, Gustav)
+  year: 1910
+formula: 5[pic.2.3.4.5] 4 4 5[1.2.3.cbn.cbn] 4441 tmp hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  - {}
+  - {}
+  oboe: 4
+  clarinet: 4
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 4
+  trombone: 4
+  tuba: 1
+  percussion:
+    timpani: 1
+  harp: 1
+  strings: str
+  additional_raw: tam tam | large muted field drum
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.10%2C_GMW_F58_%28Mahler%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 4 flutes, 4 oboes, 4 clarinets (1 also E), 3 bassoons,
+    2 contrabassoons, 4 horns, 4 trumpets, 4 trombones, tuba, timpani (2 sets), tam
+    tam, large muted field drum, harp, strings'
+duration_minutes: 75

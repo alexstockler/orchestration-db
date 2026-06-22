@@ -1,0 +1,18 @@
+id: tchaikovsky-allegro
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Allegro
+  ids:
+    imslp: Allegro, TH 159 (Tchaikovsky, Pyotr)
+  year: 1863
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 2 violins | viola | cello | double bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegro%2C_TH_159_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello, double bass, piano'
+duration_minutes: 3

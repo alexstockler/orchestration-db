@@ -1,0 +1,17 @@
+id: beethoven-14-variations-for-piano-violin-and-cello
+work:
+  composer: Beethoven, Ludwig van
+  title: 14 Variations for Piano, Violin and Cello
+  ids:
+    imslp: Variations in E-flat major, Op.44 (Beethoven, Ludwig van)
+  year: 1792
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variations_in_E-flat_major%2C_Op.44_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'

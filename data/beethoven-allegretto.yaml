@@ -1,0 +1,17 @@
+id: beethoven-allegretto
+work:
+  composer: Beethoven, Ludwig van
+  title: Allegretto
+  ids:
+    imslp: Allegretto, Hess 48 (Beethoven, Ludwig van)
+  year: 1790
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegretto%2C_Hess_48_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'

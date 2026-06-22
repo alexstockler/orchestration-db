@@ -1,0 +1,15 @@
+id: brahms-o-wie-sanft
+work:
+  composer: Brahms, Johannes
+  title: O wie sanft!
+  ids:
+    imslp: O wie sanft!, WoO 26 (Brahms, Johannes)
+  year: 1908
+formula: ''
+instrumentation:
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_wie_sanft%21%2C_WoO_26_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SSAA)'

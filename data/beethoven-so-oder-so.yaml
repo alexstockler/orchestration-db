@@ -1,0 +1,17 @@
+id: beethoven-so-oder-so
+work:
+  composer: Beethoven, Ludwig van
+  title: So oder So
+  ids:
+    imslp: So oder So, WoO 148 (Beethoven, Ludwig van)
+  year: 1817
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/So_oder_So%2C_WoO_148_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

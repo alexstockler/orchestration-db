@@ -1,0 +1,31 @@
+id: tchaikovsky-symphony-no-5
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Symphony No.5
+  ids:
+    imslp: Symphony No.5, Op.64 (Tchaikovsky, Pyotr)
+  year: 1888
+formula: 3[1.2.3/pic] 2 2 2 4231 tmp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.5%2C_Op.64_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 2 oboes, 2 clarinets, 2 bassoons,
+    4 horns, 2 trumpets, 3 trombones, tuba, timpani, strings'
+duration_minutes: 46

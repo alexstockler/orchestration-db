@@ -1,0 +1,33 @@
+id: tchaikovsky-ode-to-joy
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Ode to Joy
+  ids:
+    imslp: Ode to Joy, TH 66 (Tchaikovsky, Pyotr)
+  year: 1865
+formula: 2222 4231 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - bass drum
+  strings: str
+  chorus_raw: mixed chorus
+  additional_raw: 'Solo Voices (SATB) | Orchestra '': piccolo'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ode_to_Joy%2C_TH_66_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo Voices (SATB), Mixed Chorus (SATB), Orchestra '':
+    piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones,
+    tuba, timpani, cymbals, bass drum, strings'
+duration_minutes: 26

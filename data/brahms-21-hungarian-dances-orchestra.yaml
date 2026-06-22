@@ -1,0 +1,16 @@
+id: brahms-21-hungarian-dances-orchestra
+work:
+  composer: Brahms, Johannes
+  title: 21 Hungarian Dances (Orchestra)
+  ids:
+    imslp: 21 Hungarian Dances (Orchestra), WoO 1 (Brahms, Johannes)
+  year: 1858
+formula: ''
+instrumentation:
+  additional_raw: orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/21_Hungarian_Dances_%28Orchestra%29%2C_WoO_1_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'
+duration_minutes: 51

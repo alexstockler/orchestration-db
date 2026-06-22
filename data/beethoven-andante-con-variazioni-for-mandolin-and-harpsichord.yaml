@@ -1,0 +1,18 @@
+id: beethoven-andante-con-variazioni-for-mandolin-and-harpsichord
+work:
+  composer: Beethoven, Ludwig van
+  title: Andante con Variazioni for Mandolin and Harpsichord
+  ids:
+    imslp: Andante con Variazioni, WoO 44b (Beethoven, Ludwig van)
+  year: 1796
+formula: hpd mand
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+  extras:
+  - instrument: mandolin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_con_Variazioni%2C_WoO_44b_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: mandolin, harpsichord'

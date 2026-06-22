@@ -1,0 +1,15 @@
+id: beethoven-6-variations-on-nel-cor-piu-non-mi-sento
+work:
+  composer: Beethoven, Ludwig van
+  title: 6 Variations on 'Nel cor piu non mi sento'
+  ids:
+    imslp: 6 Variations on 'Nel cor piu non mi sento', WoO 70 (Beethoven, Ludwig van)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Variations_on_%27Nel_cor_piu_non_mi_sento%27%2C_WoO_70_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

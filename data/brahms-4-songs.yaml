@@ -1,0 +1,18 @@
+id: brahms-4-songs
+work:
+  composer: Brahms, Johannes
+  title: 4 Songs
+  ids:
+    imslp: 4 Songs, Op.17 (Brahms, Johannes)
+  year: 1860
+formula: 0000 2000 hp
+instrumentation:
+  horn: 2
+  harp: 1
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Songs%2C_Op.17_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SSA), 2 horns, harp (or piano)'
+duration_minutes: 16

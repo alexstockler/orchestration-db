@@ -1,0 +1,16 @@
+id: beethoven-3-duets-for-clarinet-and-bassoon
+work:
+  composer: Beethoven, Ludwig van
+  title: 3 Duets for Clarinet and Bassoon
+  ids:
+    imslp: 3 Duets for Clarinet and Bassoon, WoO 27 (Beethoven, Ludwig van)
+  year: 1790
+formula: 0011 0000
+instrumentation:
+  clarinet: 1
+  bassoon: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Duets_for_Clarinet_and_Bassoon%2C_WoO_27_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, bassoon'

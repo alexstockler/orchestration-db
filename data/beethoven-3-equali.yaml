@@ -1,0 +1,15 @@
+id: beethoven-3-equali
+work:
+  composer: Beethoven, Ludwig van
+  title: 3 Equali
+  ids:
+    imslp: 3 Equali, WoO 30 (Beethoven, Ludwig van)
+  year: 1812
+formula: 0000 0040
+instrumentation:
+  trombone: 4
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Equali%2C_WoO_30_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 trombones'

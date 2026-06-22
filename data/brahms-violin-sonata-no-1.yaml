@@ -1,0 +1,18 @@
+id: brahms-violin-sonata-no-1
+work:
+  composer: Brahms, Johannes
+  title: Violin Sonata No.1
+  ids:
+    imslp: Violin Sonata No.1, Op.78 (Brahms, Johannes)
+  year: 1878
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_No.1%2C_Op.78_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 21

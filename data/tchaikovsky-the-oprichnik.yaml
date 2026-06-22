@@ -1,0 +1,42 @@
+id: tchaikovsky-the-oprichnik
+work:
+  composer: Tchaikovsky, Pyotr
+  title: The Oprichnik
+  ids:
+    imslp: The Oprichnik, TH 3 (Tchaikovsky, Pyotr)
+  year: 1870
+formula: 2222 4231 tmp hp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - bass drum
+  harp: 1
+  strings: str
+  additional_raw: Cast ::Prince Zhemchuzhny (Князь Жемчужный) (bass) | Natalya (Наталья)
+    (soprano) | Molchan Mitkov (Молчан митьков (bass) | Boyarina Morozova (Боярына
+    Морозова) (mezzo-soprano) | Andrey Morozov (Андрей Морозов) (tenor) | Basmanov
+    (Басманов) (contralto) | Prince Vyazminsky (Князь Вязьминский) (baritone) | Zakharyevna
+    (Захарьевна) (soprano) :Mixed Chorus (SATB) | Orchestra ::piccolo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Oprichnik%2C_TH_3_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Cast ::Prince Zhemchuzhny (Князь
+    Жемчужный) (bass), Natalya (Наталья) (soprano), Molchan Mitkov (Молчан митьков
+    (bass), Boyarina Morozova (Боярына Морозова) (mezzo-soprano), Andrey Morozov (Андрей
+    Морозов) (tenor), Basmanov (Басманов) (contralto), Prince Vyazminsky (Князь Вязьминский)
+    (baritone), Zakharyevna (Захарьевна) (soprano) :Mixed Chorus (SATB), Orchestra
+    ::piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3
+    trombones, tuba, timpani, triangle, cymbals, bass drum, harp, strings'
+duration_minutes: 165

@@ -1,0 +1,15 @@
+id: beethoven-prelude-and-fugue-in-f-major
+work:
+  composer: Beethoven, Ludwig van
+  title: Prelude and Fugue in F major
+  ids:
+    imslp: Prelude and Fugue, Hess 30 (Beethoven, Ludwig van)
+  year: 1955
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude_and_Fugue%2C_Hess_30_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

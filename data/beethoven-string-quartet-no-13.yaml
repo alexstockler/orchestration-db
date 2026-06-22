@@ -1,0 +1,15 @@
+id: beethoven-string-quartet-no-13
+work:
+  composer: Beethoven, Ludwig van
+  title: String Quartet No.13
+  ids:
+    imslp: String Quartet No.13, Op.130 (Beethoven, Ludwig van)
+  year: 1825
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.13%2C_Op.130_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

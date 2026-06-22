@@ -1,0 +1,17 @@
+id: beethoven-der-j-ngling-in-der-fremde-woo-138
+work:
+  composer: Beethoven, Ludwig van
+  title: Der Jüngling in der Fremde, WoO 138
+  ids:
+    imslp: Der Jüngling in der Fremde, WoO 138 (Beethoven, Ludwig van)
+  year: 1809
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_J%C3%BCngling_in_der_Fremde%2C_WoO_138_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

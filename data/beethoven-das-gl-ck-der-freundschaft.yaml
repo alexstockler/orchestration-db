@@ -1,0 +1,18 @@
+id: beethoven-das-gl-ck-der-freundschaft
+work:
+  composer: Beethoven, Ludwig van
+  title: Das Glück der Freundschaft
+  ids:
+    imslp: Das Glück der Freundschaft, Op.88 (Beethoven, Ludwig van)
+  year: 1803
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Gl%C3%BCck_der_Freundschaft%2C_Op.88_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 5

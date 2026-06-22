@@ -1,0 +1,18 @@
+id: beethoven-selbstgespr-ch
+work:
+  composer: Beethoven, Ludwig van
+  title: Selbstgespräch
+  ids:
+    imslp: Ein Selbstgespräch, WoO 114 (Beethoven, Ludwig van)
+  year: 1793
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ein_Selbstgespr%C3%A4ch%2C_WoO_114_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 3

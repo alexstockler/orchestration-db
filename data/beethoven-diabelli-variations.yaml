@@ -1,0 +1,17 @@
+id: beethoven-diabelli-variations
+work:
+  composer: Beethoven, Ludwig van
+  title: Diabelli Variations
+  ids:
+    imslp: Veränderungen über einen Walzer, Op.120 (Beethoven, Ludwig van)
+  year: 1819
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ver%C3%A4nderungen_%C3%BCber_einen_Walzer%2C_Op.120_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 55

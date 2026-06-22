@@ -1,0 +1,17 @@
+id: brahms-11-chorale-preludes
+work:
+  composer: Brahms, Johannes
+  title: 11 Chorale Preludes
+  ids:
+    imslp: 11 Chorale Preludes, Op.122 (Brahms, Johannes)
+  year: 1896
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/11_Chorale_Preludes%2C_Op.122_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 33

@@ -1,0 +1,16 @@
+id: beethoven-11-bagatelles
+work:
+  composer: Beethoven, Ludwig van
+  title: 11 Bagatelles
+  ids:
+    imslp: 11 Bagatelles, Op.119 (Beethoven, Ludwig van)
+  year: 1822
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/11_Bagatelles%2C_Op.119_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

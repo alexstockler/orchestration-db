@@ -1,0 +1,17 @@
+id: beethoven-piano-trio-no-2
+work:
+  composer: Beethoven, Ludwig van
+  title: Piano Trio No.2
+  ids:
+    imslp: Piano Trio in G major, Op.1 No.2 (Beethoven, Ludwig van)
+  year: 1794
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio_in_G_major%2C_Op.1_No.2_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'

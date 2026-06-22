@@ -1,0 +1,16 @@
+id: tchaikovsky-the-barber-of-seville
+work:
+  composer: Tchaikovsky, Pyotr
+  title: The Barber of Seville
+  ids:
+    imslp: The Barber of Seville, TH 18 (Tchaikovsky, Pyotr)
+  year: 1872
+formula: ''
+instrumentation:
+  additional_raw: 'Count Almaviva — tenor | Instruments: 2 violins'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Barber_of_Seville%2C_TH_18_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice: Count Almaviva — tenor, Instruments: 2 violins'
+duration_minutes: 2

@@ -1,0 +1,22 @@
+id: beethoven-musik-zu-einem-ritterballet
+work:
+  composer: Beethoven, Ludwig van
+  title: Musik zu einem Ritterballet
+  ids:
+    imslp: Musik zu einem Ritterballet, WoO 1 (Beethoven, Ludwig van)
+  year: 1790
+formula: 1[pic] 0 2 0 2200 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  clarinet: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Musik_zu_einem_Ritterballet%2C_WoO_1_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 clarinets, 2 horns, 2 trumpets, timpani, strings'

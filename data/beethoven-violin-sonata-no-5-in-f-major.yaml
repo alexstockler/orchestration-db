@@ -1,0 +1,17 @@
+id: beethoven-violin-sonata-no-5-in-f-major
+work:
+  composer: Beethoven, Ludwig van
+  title: Violin Sonata No.5 in F major
+  ids:
+    imslp: Violin Sonata No.5, Op.24 (Beethoven, Ludwig van)
+  year: 1800
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_No.5%2C_Op.24_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

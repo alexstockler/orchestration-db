@@ -1,0 +1,16 @@
+id: tchaikovsky-string-quartet-no-1
+work:
+  composer: Tchaikovsky, Pyotr
+  title: String Quartet No.1
+  ids:
+    imslp: String Quartet No.1, Op.11 (Tchaikovsky, Pyotr)
+  year: 1871
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.1%2C_Op.11_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 29

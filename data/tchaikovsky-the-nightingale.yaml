@@ -1,0 +1,16 @@
+id: tchaikovsky-the-nightingale
+work:
+  composer: Tchaikovsky, Pyotr
+  title: The Nightingale
+  ids:
+    imslp: The Nightingale, TH 84 (Tchaikovsky, Pyotr)
+  year: 1889
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Nightingale%2C_TH_84_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 4

@@ -1,0 +1,15 @@
+id: brahms-spruch
+work:
+  composer: Brahms, Johannes
+  title: Spruch
+  ids:
+    imslp: Spruch, WoO 27 (Brahms, Johannes)
+  year: 1854
+formula: ''
+instrumentation:
+  additional_raw: voice | viola
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Spruch%2C_WoO_27_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, viola'

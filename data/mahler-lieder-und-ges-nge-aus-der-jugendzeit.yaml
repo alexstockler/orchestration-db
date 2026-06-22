@@ -1,0 +1,17 @@
+id: mahler-lieder-und-ges-nge-aus-der-jugendzeit
+work:
+  composer: Mahler, Gustav
+  title: Lieder und Gesänge aus der Jugendzeit
+  ids:
+    imslp: Lieder und Gesänge aus der Jugendzeit (Mahler, Gustav)
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lieder_und_Ges%C3%A4nge_aus_der_Jugendzeit_%28Mahler%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

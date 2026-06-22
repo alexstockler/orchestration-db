@@ -1,0 +1,15 @@
+id: beethoven-variations-in-g-major
+work:
+  composer: Beethoven, Ludwig van
+  title: Variations in G major
+  ids:
+    imslp: 6 Variations in G major, WoO 77 (Beethoven, Ludwig van)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Variations_in_G_major%2C_WoO_77_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

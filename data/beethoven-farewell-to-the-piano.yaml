@@ -1,0 +1,17 @@
+id: beethoven-farewell-to-the-piano
+work:
+  composer: Beethoven, Ludwig van
+  title: Farewell to the Piano
+  ids:
+    imslp: Farewell to the Piano (Beethoven, Ludwig van)
+  year: 1838
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Farewell_to_the_Piano_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 5

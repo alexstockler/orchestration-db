@@ -1,0 +1,17 @@
+id: tchaikovsky-the-seasons
+work:
+  composer: Tchaikovsky, Pyotr
+  title: The Seasons
+  ids:
+    imslp: The Seasons, Op.37a (Tchaikovsky, Pyotr)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Seasons%2C_Op.37a_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 43

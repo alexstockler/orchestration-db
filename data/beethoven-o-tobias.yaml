@@ -1,0 +1,18 @@
+id: beethoven-o-tobias
+work:
+  composer: Beethoven, Ludwig van
+  title: O Tobias!
+  ids:
+    imslp: O Tobias!, WoO 182 (Beethoven, Ludwig van)
+  year: 1821
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_Tobias%21%2C_WoO_182_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, bass'

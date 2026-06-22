@@ -1,0 +1,18 @@
+id: beethoven-abendlied-unterm-gestirnten-himmel
+work:
+  composer: Beethoven, Ludwig van
+  title: Abendlied unterm gestirnten Himmel
+  ids:
+    imslp: Abendlied unter'm gestirnten Himmel, WoO 150 (Beethoven, Ludwig van)
+  year: 1820
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Abendlied_unter%27m_gestirnten_Himmel%2C_WoO_150_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 5

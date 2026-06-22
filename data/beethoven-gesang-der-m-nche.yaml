@@ -1,0 +1,18 @@
+id: beethoven-gesang-der-m-nche
+work:
+  composer: Beethoven, Ludwig van
+  title: Gesang der Mönche
+  ids:
+    imslp: Gesang der Mönche, WoO 104 (Beethoven, Ludwig van)
+  year: 1817
+formula: ''
+instrumentation:
+  soloists:
+  - tenors
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gesang_der_M%C3%B6nche%2C_WoO_104_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 tenors, bass'
+duration_minutes: 1

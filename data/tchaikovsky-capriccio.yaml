@@ -1,0 +1,17 @@
+id: tchaikovsky-capriccio
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Capriccio
+  ids:
+    imslp: Capriccio, Op.8 (Tchaikovsky, Pyotr)
+  year: 1870
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Capriccio%2C_Op.8_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 5

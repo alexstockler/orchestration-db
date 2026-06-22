@@ -1,0 +1,17 @@
+id: beethoven-8-variations-on-une-fi-vre-br-lante-from-the-opera-richard-c-ur-de-lio
+work:
+  composer: Beethoven, Ludwig van
+  title: 8 Variations on 'Une fièvre brûlante' from the opera 'Richard Cœur de Lion'
+    by Grétry WoO 72
+  ids:
+    imslp: 8 Variations on 'Une fièvre brûlante', WoO 72 (Beethoven, Ludwig van)
+  year: 1795
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Variations_on_%27Une_fi%C3%A8vre_br%C3%BBlante%27%2C_WoO_72_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

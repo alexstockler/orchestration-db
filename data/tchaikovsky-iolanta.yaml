@@ -1,0 +1,40 @@
+id: tchaikovsky-iolanta
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Iolanta
+  ids:
+    imslp: Iolanta, Op.69 (Tchaikovsky, Pyotr)
+  year: 1891
+formula: 3 3[1.2.Eh] 2 2 4231 tmp 2hp str
+instrumentation:
+  flute: 3
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  harp: 2
+  strings: str
+  additional_raw: King René (Король Рене) (bass) | Robert (Роберт) (baritone) | Vaudemont
+    (Водемон) (tenor) | Ibn-Hakkia (Эбн-Хакиа) (baritone) | Almerik (Альмерик) (tenor)
+    | Bertrand (Бертран) (bass) | Iolanta (Иоланта) (soprano) | Marta (Марта) (contralto)
+    | Brigitta (Бригитта) (soprano) | Laura (Лаура) (mezzo-soprano) Mixed Chorus (SATB)
+    | Orchestra :piccolo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Iolanta%2C_Op.69_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :King René (Король Рене) (bass), Robert (Роберт) (baritone),
+    Vaudemont (Водемон) (tenor), Ibn-Hakkia (Эбн-Хакиа) (baritone), Almerik (Альмерик)
+    (tenor), Bertrand (Бертран) (bass), Iolanta (Иоланта) (soprano), Marta (Марта)
+    (contralto), Brigitta (Бригитта) (soprano), Laura (Лаура) (mezzo-soprano) Mixed
+    Chorus (SATB), Orchestra :piccolo, 3 flutes, 2 oboes, english horn, 2 clarinets,
+    2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani, 2 harps, strings'
+duration_minutes: 90

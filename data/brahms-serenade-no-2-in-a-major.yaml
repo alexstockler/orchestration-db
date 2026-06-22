@@ -1,0 +1,25 @@
+id: brahms-serenade-no-2-in-a-major
+work:
+  composer: Brahms, Johannes
+  title: Serenade No.2 in A major
+  ids:
+    imslp: Serenade No.2, Op.16 (Brahms, Johannes)
+  year: 1858
+formula: 3[pic.2.3] 2 2 2 2000
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  additional_raw: violas | cellos | double basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Serenade_No.2%2C_Op.16_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: 14 parts :piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons,
+    2 horns, violas, cellos, double basses'
+duration_minutes: 32

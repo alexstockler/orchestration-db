@@ -1,0 +1,17 @@
+id: beethoven-sextet
+work:
+  composer: Beethoven, Ludwig van
+  title: Sextet
+  ids:
+    imslp: Sextet in E-flat major, Op.81b (Beethoven, Ludwig van)
+  year: 1795
+formula: 0000 2000
+instrumentation:
+  horn: 2
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sextet_in_E-flat_major%2C_Op.81b_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 horns, 2 violins, viola, cello'
+duration_minutes: 18

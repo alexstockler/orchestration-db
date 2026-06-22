@@ -1,0 +1,17 @@
+id: beethoven-trinklied
+work:
+  composer: Beethoven, Ludwig van
+  title: Trinklied
+  ids:
+    imslp: Trinklied, WoO 109 (Beethoven, Ludwig van)
+  year: 1792
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trinklied%2C_WoO_109_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

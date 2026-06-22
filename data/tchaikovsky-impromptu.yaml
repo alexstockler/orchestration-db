@@ -1,0 +1,17 @@
+id: tchaikovsky-impromptu
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Impromptu
+  ids:
+    imslp: Impromptu, TH 147 (Tchaikovsky, Pyotr)
+  year: 1889
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Impromptu%2C_TH_147_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 2

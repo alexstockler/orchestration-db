@@ -1,0 +1,18 @@
+id: tchaikovsky-mezza-notte
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Mezza notte
+  ids:
+    imslp: Mezza notte, TH 91 (Tchaikovsky, Pyotr)
+  year: 1860
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mezza_notte%2C_TH_91_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 2

@@ -1,0 +1,17 @@
+id: brahms-6-klavierst-cke
+work:
+  composer: Brahms, Johannes
+  title: 6 Klavierstücke
+  ids:
+    imslp: 6 Klavierstücke, Op.118 (Brahms, Johannes)
+  year: 1893
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Klavierst%C3%BCcke%2C_Op.118_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 23

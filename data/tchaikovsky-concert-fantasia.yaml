@@ -1,0 +1,30 @@
+id: tchaikovsky-concert-fantasia
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Concert Fantasia
+  ids:
+    imslp: Concert Fantasia, Op.56 (Tchaikovsky, Pyotr)
+  year: 1884
+formula: 3222 4330 tmp str
+instrumentation:
+  flute: 3
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - tambourine
+  strings: str
+  additional_raw: glockenspiel/cloches (possibly celeste)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concert_Fantasia%2C_Op.56_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes, 2 oboes, 2 clarinets, 2 bassoons,, 4 horns, 3
+    trumpets, 3 trombones, timpani, glockenspiel/cloches (possibly celeste), tambourine,
+    strings'
+duration_minutes: 29

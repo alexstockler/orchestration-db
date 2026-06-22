@@ -1,0 +1,16 @@
+id: beethoven-serenade
+work:
+  composer: Beethoven, Ludwig van
+  title: Serenade
+  ids:
+    imslp: Serenade in D major, Op.25 (Beethoven, Ludwig van)
+  year: 1795
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  additional_raw: violin | viola
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Serenade_in_D_major%2C_Op.25_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, violin, viola'

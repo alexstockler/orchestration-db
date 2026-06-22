@@ -1,0 +1,17 @@
+id: beethoven-12-variations-on-the-russian-dance-from-the-ballet-das-waldm-dchen
+work:
+  composer: Beethoven, Ludwig van
+  title: 12 Variations on the Russian Dance from the Ballet 'Das Waldmädchen'
+  ids:
+    imslp: 12 Variations on the Russian Dance from 'Das Waldmädchen', WoO 71 (Beethoven,
+      Ludwig van)
+  year: 1796
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Variations_on_the_Russian_Dance_from_%27Das_Waldm%C3%A4dchen%27%2C_WoO_71_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,15 @@
+id: beethoven-duet-for-2-violins-woo-34
+work:
+  composer: Beethoven, Ludwig van
+  title: Duet for 2 Violins, WoO 34
+  ids:
+    imslp: Duet for 2 Violins, WoO 34 (Beethoven, Ludwig van)
+  year: 1822
+formula: ''
+instrumentation:
+  additional_raw: 2 violins
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Duet_for_2_Violins%2C_WoO_34_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins'

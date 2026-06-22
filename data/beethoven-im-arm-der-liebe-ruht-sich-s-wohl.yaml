@@ -1,0 +1,16 @@
+id: beethoven-im-arm-der-liebe-ruht-sich-s-wohl
+work:
+  composer: Beethoven, Ludwig van
+  title: Im Arm der Liebe ruht sich's wohl
+  ids:
+    imslp: Im Arm der Liebe ruht sich's wohl, WoO 159 (Beethoven, Ludwig van)
+  year: 1795
+formula: ''
+instrumentation:
+  additional_raw: 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Im_Arm_der_Liebe_ruht_sich%27s_wohl%2C_WoO_159_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'
+duration_minutes: 2

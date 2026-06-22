@@ -1,0 +1,15 @@
+id: beethoven-2-pieces
+work:
+  composer: Beethoven, Ludwig van
+  title: 2 Pieces
+  ids:
+    imslp: 2 Pieces, WoO 33b (Beethoven, Ludwig van)
+  year: 1795
+formula: ''
+instrumentation:
+  additional_raw: undefined
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Pieces%2C_WoO_33b_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: undefined'

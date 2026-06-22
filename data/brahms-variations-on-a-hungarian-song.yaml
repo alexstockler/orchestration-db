@@ -1,0 +1,17 @@
+id: brahms-variations-on-a-hungarian-song
+work:
+  composer: Brahms, Johannes
+  title: Variations on a Hungarian Song
+  ids:
+    imslp: Variations on a Hungarian Song, Op.21 No.2 (Brahms, Johannes)
+  year: 1853
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variations_on_a_Hungarian_Song%2C_Op.21_No.2_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 7

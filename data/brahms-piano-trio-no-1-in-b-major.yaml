@@ -1,0 +1,18 @@
+id: brahms-piano-trio-no-1-in-b-major
+work:
+  composer: Brahms, Johannes
+  title: Piano Trio No.1 in B major
+  ids:
+    imslp: Piano Trio No.1, Op.8 (Brahms, Johannes)
+  year: 1853
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio_No.1%2C_Op.8_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'
+duration_minutes: 35

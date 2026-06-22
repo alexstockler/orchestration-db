@@ -1,0 +1,15 @@
+id: beethoven-string-quartet-no-6-in-b-flat-major
+work:
+  composer: Beethoven, Ludwig van
+  title: String Quartet No.6 in B-flat major
+  ids:
+    imslp: String Quartet No.6, Op.18 No.6 (Beethoven, Ludwig van)
+  year: 1800
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.6%2C_Op.18_No.6_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

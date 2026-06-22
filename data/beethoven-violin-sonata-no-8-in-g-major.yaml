@@ -1,0 +1,18 @@
+id: beethoven-violin-sonata-no-8-in-g-major
+work:
+  composer: Beethoven, Ludwig van
+  title: Violin Sonata No.8 in G major
+  ids:
+    imslp: Violin Sonata No.8, Op.30 No.3 (Beethoven, Ludwig van)
+  year: 1801
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_No.8%2C_Op.30_No.3_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 18

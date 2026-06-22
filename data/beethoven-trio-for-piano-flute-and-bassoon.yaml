@@ -1,0 +1,19 @@
+id: beethoven-trio-for-piano-flute-and-bassoon
+work:
+  composer: Beethoven, Ludwig van
+  title: Trio for Piano, Flute and Bassoon
+  ids:
+    imslp: Trio for Piano, Flute and Bassoon, WoO 37 (Beethoven, Ludwig van)
+  year: 1786
+formula: 1001 0000 pf
+instrumentation:
+  flute: 1
+  bassoon: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_for_Piano%2C_Flute_and_Bassoon%2C_WoO_37_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, bassoon, piano'
+duration_minutes: 25

@@ -1,0 +1,15 @@
+id: beethoven-string-trio-in-c-minor
+work:
+  composer: Beethoven, Ludwig van
+  title: String Trio in C minor
+  ids:
+    imslp: String Trio in C minor, Op.9 No.3 (Beethoven, Ludwig van)
+  year: 1797
+formula: ''
+instrumentation:
+  additional_raw: violin | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Trio_in_C_minor%2C_Op.9_No.3_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola, cello'

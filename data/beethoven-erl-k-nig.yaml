@@ -1,0 +1,18 @@
+id: beethoven-erl-k-nig
+work:
+  composer: Beethoven, Ludwig van
+  title: Erl-König
+  ids:
+    imslp: Erlkönig, WoO 131 (Beethoven, Ludwig van)
+  year: 1805
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erlk%C3%B6nig%2C_WoO_131_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 4

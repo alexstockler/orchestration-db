@@ -8,6 +8,7 @@ spellings found in IMSLP infoboxes.
 # English token (lowercase, stripped) -> canonical key
 IMSLP_TO_KEY = {
     # flute family
+    "2nd piccolo": "piccolo",
     "flute": "flute",
     "flutes": "flute",
     "piccolo": "piccolo",
@@ -28,6 +29,10 @@ IMSLP_TO_KEY = {
     "e-flat clarinet": "eflat_clarinet",
     "eb clarinet": "eflat_clarinet",
     "e♭ clarinet": "eflat_clarinet",
+    "piccolo clarinet": "eflat_clarinet",
+    "clarinet in e-flat": "eflat_clarinet",
+    "e-flat clarinet": "eflat_clarinet",
+    "eflat clarinet": "eflat_clarinet",
     "bass clarinet": "bass_clarinet",
     "basset horn": "basset_horn",
     "contrabass clarinet": "contrabass_clarinet",
@@ -51,6 +56,7 @@ IMSLP_TO_KEY = {
     "french horn": "horn",
     "french horns": "horn",
     "wagner tuba": "wagner_tuba",
+    "posthorn": "posthorn",
     # trumpet family
     "trumpet": "trumpet",
     "trumpets": "trumpet",
@@ -70,12 +76,15 @@ IMSLP_TO_KEY = {
     "tubas": "tuba",
     "euphonium": "euphonium",
     "cimbasso": "cimbasso",
+    "serpent": "serpent",
+    "ophicleide": "ophicleide",
     # percussion
     "timpani": "timpani",
     "kettledrums": "timpani",
     "percussion": "percussion",
     "snare drum": "percussion",
     "bass drum": "percussion",
+    "cymbal": "percussion",
     "cymbals": "percussion",
     "triangle": "percussion",
     "tambourine": "percussion",
@@ -86,7 +95,17 @@ IMSLP_TO_KEY = {
     "tubular bells": "percussion",
     "chimes": "percussion",
     "tam-tam": "percussion",
+    "tam tam": "percussion",
     "gong": "percussion",
+    "bell": "percussion",
+    "bells": "percussion",
+    "sleigh bells": "percussion",
+    "rute": "percussion",
+    "hammer": "percussion",
+    "switch": "percussion",
+    "birch rod": "percussion",
+    "tenor horn": "percussion",
+    "large muted field drum": "percussion",
     "castanets": "percussion",
     "whip": "percussion",
     "ratchet": "percussion",
@@ -158,10 +177,18 @@ IMSLP_TO_KEY = {
     "satb choir": "satb_chorus",
     "mixed chorus": "satb_chorus",
     "mixed choir": "satb_chorus",
+    "chorus": "satb_chorus",
+    "choir": "satb_chorus",
+    "chorus (satb)": "satb_chorus",
+    "mixed chorus (satb)": "satb_chorus",
+    "double chorus": "satb_chorus",
     "children's chorus": "childrens_chorus",
     "boys chorus": "boys_chorus",
+    "boys' chorus": "boys_chorus",
+    "knabenchor": "boys_chorus",
     "male chorus": "male_chorus",
     "female chorus": "female_chorus",
+    "women's chorus": "female_chorus",
 }
 
 # Which canonical keys belong to which family
@@ -200,4 +227,4 @@ PERCUSSION_INSTRUMENT_KEYS = {
 
 KEYBOARD_KEYS = {"piano", "celesta", "harpsichord", "organ", "harmonium", "synthesizer"}
 EXTRA_KEYS = {"guitar", "electric_guitar", "bass_guitar", "mandolin", "banjo",
-              "accordion", "cimbalom", "harp"}
+              "accordion", "cimbalom", "harp", "posthorn", "serpent", "ophicleide"}

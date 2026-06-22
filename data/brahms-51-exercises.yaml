@@ -1,0 +1,16 @@
+id: brahms-51-exercises
+work:
+  composer: Brahms, Johannes
+  title: 51 Exercises
+  ids:
+    imslp: 51 Exercises, WoO 6 (Brahms, Johannes)
+  year: 1850
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/51_Exercises%2C_WoO_6_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,30 @@
+id: tchaikovsky-chorus-for-the-jubilee-of-osip-petrov
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Chorus for the Jubilee of Osip Petrov
+  ids:
+    imslp: Chorus for the Jubilee of Osip Petrov, TH 68 (Tchaikovsky, Pyotr)
+  year: 1875
+formula: 3[pic.2.3] 2 2 2 4230 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chorus_for_the_Jubilee_of_Osip_Petrov%2C_TH_68_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo voice (tenor or soprano), Orchestra : piccolo, 2 flutes,
+    2 oboes, 2 clarinets, 2 bassoons, , 4 horns, 2 trumpets, 3 trombones, timpani,
+    strings'
+duration_minutes: 4

@@ -1,0 +1,17 @@
+id: beethoven-merkenstein-op-100
+work:
+  composer: Beethoven, Ludwig van
+  title: Merkenstein, Op.100
+  ids:
+    imslp: Merkenstein, Op.100 (Beethoven, Ludwig van)
+  year: 1814
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Merkenstein%2C_Op.100_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, piano'

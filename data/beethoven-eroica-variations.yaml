@@ -1,0 +1,17 @@
+id: beethoven-eroica-variations
+work:
+  composer: Beethoven, Ludwig van
+  title: Eroica Variations
+  ids:
+    imslp: Variations and Fugue in E-flat major, Op.35 (Beethoven, Ludwig van)
+  year: 1802
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variations_and_Fugue_in_E-flat_major%2C_Op.35_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 23

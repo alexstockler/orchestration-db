@@ -1,0 +1,21 @@
+id: beethoven-romance-cantabile
+work:
+  composer: Beethoven, Ludwig van
+  title: Romance Cantabile
+  ids:
+    imslp: Romance cantabile, WoO 207 (Beethoven, Ludwig van)
+  year: 1786
+formula: 1201 0000 pf str
+instrumentation:
+  flute: 1
+  oboe: 2
+  bassoon: 1
+  keyboards:
+  - instrument: piano
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romance_cantabile%2C_WoO_207_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, 2 oboes, bassoon, piano, strings'
+duration_minutes: 4

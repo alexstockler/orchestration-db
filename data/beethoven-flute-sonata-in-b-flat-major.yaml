@@ -1,0 +1,18 @@
+id: beethoven-flute-sonata-in-b-flat-major
+work:
+  composer: Beethoven, Ludwig van
+  title: Flute Sonata in B-flat major
+  ids:
+    imslp: Flute Sonata in B-flat major, Anh.4 (Beethoven, Ludwig van)
+  year: 1790
+formula: 1000 0000 pf
+instrumentation:
+  flute: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flute_Sonata_in_B-flat_major%2C_Anh.4_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, piano'
+duration_minutes: 22

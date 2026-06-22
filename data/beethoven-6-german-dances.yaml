@@ -1,0 +1,17 @@
+id: beethoven-6-german-dances
+work:
+  composer: Beethoven, Ludwig van
+  title: 6 German Dances
+  ids:
+    imslp: 6 German Dances, WoO 42 (Beethoven, Ludwig van)
+  year: 1796
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_German_Dances%2C_WoO_42_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

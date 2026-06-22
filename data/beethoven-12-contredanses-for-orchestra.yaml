@@ -1,0 +1,36 @@
+id: beethoven-12-contredanses-for-orchestra
+work:
+  composer: Beethoven, Ludwig van
+  title: 12 Contredanses for Orchestra
+  ids:
+    imslp: 12 Contredanses, WoO 14 (Beethoven, Ludwig van)
+  year: 1791
+formula: 0 4 4 14[1.2.3.4.5.6.7.8.9.10.11.12.13.14] 24[1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.22.23.24]
+  0 0 0
+instrumentation:
+  oboe: 4
+  clarinet: 4
+  bassoon: 14
+  horn: 24
+  percussion:
+    instruments:
+    - tambourine
+  additional_raw: 1. 2 oboes | violins | cellos | basses :2. flute | violins | cellos
+    | basses :3. flute | violins | cellos | basses :4. flute | violins | cellos |
+    basses :5. 2 clarinets | violins | cellos | basses :6. flute | violins | cellos
+    | basses :7. 2 clarinets | violins | cellos | basses :8. 2 oboes | violins | cellos
+    | basses :9. oboe | violins | cellos | basses :10. oboe | violins | cellos | basses
+    :11. flute | violins | cellos | basses :12. 2 clarinets | violins | cellos | basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Contredanses%2C_WoO_14_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: :1. 2 oboes, 2 bassoons, 2 horns, violins, cellos, basses
+    :2. flute, 2 clarinets, bassoon, 2 horns, violins, cellos, basses :3. flute, 2
+    oboes, 2 bassoons, 2 horns, violins, cellos, basses :4. flute, 2 clarinets, 2
+    bassoons, 2 horns, violins, cellos, basses :5. 2 clarinets, 2 bassoons, 2 horns,
+    violins, cellos, basses :6. flute, 2 oboes, 2 bassoons, 2 horns, violins, cellos,
+    basses :7. 2 clarinets, 2 horns, violins, cellos, basses :8. 2 oboes, 2 horns,
+    tambourine, violins, cellos, basses :9. oboe, 2 horns, violins, cellos, basses
+    :10. oboe, 2 horns, violins, cellos, basses :11. flute, bassoon, 2 horns, violins,
+    cellos, basses :12. 2 clarinets, 2 bassoons, 2 horns, violins, cellos, basses'

@@ -1,0 +1,29 @@
+id: tchaikovsky-suite-no-4
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Suite No.4
+  ids:
+    imslp: Suite No.4, Op.61 (Tchaikovsky, Pyotr)
+  year: 1887
+formula: 2222 4200 tmp hp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - glockenspiel
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_No.4%2C_Op.61_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2
+    trumpets, timpani, cymbals, glockenspiel, harp, strings'
+duration_minutes: 24

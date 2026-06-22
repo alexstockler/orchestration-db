@@ -1,0 +1,17 @@
+id: beethoven-l-ndlerischer-tanz
+work:
+  composer: Beethoven, Ludwig van
+  title: Ländlerischer Tanz
+  ids:
+    imslp: Ländlerischer Tanz (Beethoven, Ludwig van)
+  year: 1790
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%C3%A4ndlerischer_Tanz_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

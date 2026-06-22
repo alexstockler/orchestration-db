@@ -1,0 +1,18 @@
+id: tchaikovsky-6-romances-and-songs
+work:
+  composer: Tchaikovsky, Pyotr
+  title: 6 Romances and Songs
+  ids:
+    imslp: 6 Romances and Songs, Op.27 (Tchaikovsky, Pyotr)
+  year: 1875
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Romances_and_Songs%2C_Op.27_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 16

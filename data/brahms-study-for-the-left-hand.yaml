@@ -1,0 +1,16 @@
+id: brahms-study-for-the-left-hand
+work:
+  composer: Brahms, Johannes
+  title: Study for the Left Hand
+  ids:
+    imslp: Study for the Left Hand, Anh.4/2 (Brahms, Johannes)
+  year: 1927
+formula: ''
+instrumentation:
+  additional_raw: piano left-hand
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Study_for_the_Left_Hand%2C_Anh.4/2_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: piano left-hand'
+duration_minutes: 5

@@ -1,0 +1,17 @@
+id: beethoven-bagatelle-in-c-minor
+work:
+  composer: Beethoven, Ludwig van
+  title: Bagatelle in C minor
+  ids:
+    imslp: Bagatelle, WoO 54 (Beethoven, Ludwig van)
+  year: 1802
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bagatelle%2C_WoO_54_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

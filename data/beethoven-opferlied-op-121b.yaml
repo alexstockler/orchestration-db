@@ -1,0 +1,22 @@
+id: beethoven-opferlied-op-121b
+work:
+  composer: Beethoven, Ludwig van
+  title: Opferlied, Op.121b
+  ids:
+    imslp: Opferlied, Op.121b (Beethoven, Ludwig van)
+  year: 1824
+formula: 0022 2000 str
+instrumentation:
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+  soloists:
+  - soprano
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Opferlied%2C_Op.121b_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, mixed chorus (SATB), 2 clarinets, 2 bassoons,
+    2 horns, strings'

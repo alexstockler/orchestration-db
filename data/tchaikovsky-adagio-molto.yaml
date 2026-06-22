@@ -1,0 +1,17 @@
+id: tchaikovsky-adagio-molto
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Adagio molto
+  ids:
+    imslp: Adagio molto, TH 158 (Tchaikovsky, Pyotr)
+  year: 1863
+formula: hp
+instrumentation:
+  harp: 1
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adagio_molto%2C_TH_158_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello, harp'
+duration_minutes: 6

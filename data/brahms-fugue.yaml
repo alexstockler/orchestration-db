@@ -1,0 +1,17 @@
+id: brahms-fugue
+work:
+  composer: Brahms, Johannes
+  title: Fugue
+  ids:
+    imslp: Fugue, WoO 8 (Brahms, Johannes)
+  year: 1856
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue%2C_WoO_8_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 6

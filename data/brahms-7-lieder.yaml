@@ -1,0 +1,18 @@
+id: brahms-7-lieder
+work:
+  composer: Brahms, Johannes
+  title: 7 Lieder
+  ids:
+    imslp: 7 Lieder, Op.48 (Brahms, Johannes)
+  year: 1853
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Lieder%2C_Op.48_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 17

@@ -1,0 +1,16 @@
+id: beethoven-waltz-in-e-major
+work:
+  composer: Beethoven, Ludwig van
+  title: Waltz in E major
+  ids:
+    imslp: Waltz in E major (Beethoven, Ludwig van)
+  year: 1835
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Waltz_in_E_major_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

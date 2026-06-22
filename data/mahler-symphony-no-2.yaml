@@ -1,0 +1,50 @@
+id: mahler-symphony-no-2
+work:
+  composer: Mahler, Gustav
+  title: Symphony No.2
+  ids:
+    imslp: Symphony No.2, GMW 30 (Mahler, Gustav)
+  year: 1888
+formula: 4 4[1.2.3.4/Eh] 3[1.2.3/bcl] 0 0 10[1.2.3.4.5.6.7.8.9.10] 4 1 tmp org 2hp
+instrumentation:
+  flute: 4
+  oboe:
+  - {}
+  - {}
+  - {}
+  - doublings:
+    - english_horn
+  clarinet:
+  - {}
+  - {}
+  - doublings:
+    - bass_clarinet
+  trumpet: 10
+  trombone: 4
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drum
+    - bass drum
+    - cymbals
+    - triangle
+    - tam-tams
+    - glockenspiel
+  keyboards:
+  - instrument: organ
+  harp: 2
+  additional_raw: ::2 piccolo clarinets (2nd also 4th clarinet) | 4 bassoons (3rd,
+    4th also contrabassoon) :6 horns | bells | strings ' :4 horns
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.2%2C_GMW_30_%28Mahler%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo Voices (soprano, alto), Mixed Chorus (SATB), Orchestra
+    :4 flutes (all also piccolo), 4 oboes (3rd, 4th also English horn), ::2 piccolo
+    clarinets (2nd also 4th clarinet), 3 clarinets (3rd also bass clarinet),, 4 bassoons
+    (3rd, 4th also contrabassoon) :6 horns, 6 trumpets, 4 trombones, tuba, timpani,
+    snare drum, bass drum, cymbals, triangle, 2 tam-tams, glockenspiel, bells, organ,
+    2 harps, strings '' :4 horns, 4 trumpets (later on-stage), timpani, bass drum,
+    cymbals, triangle'
+duration_minutes: 90

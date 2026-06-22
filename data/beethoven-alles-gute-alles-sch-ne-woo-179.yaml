@@ -1,0 +1,15 @@
+id: beethoven-alles-gute-alles-sch-ne-woo-179
+work:
+  composer: Beethoven, Ludwig van
+  title: Alles Gute, alles Schöne!, WoO 179
+  ids:
+    imslp: Alles Gute, alles Schöne!, WoO 179 (Beethoven, Ludwig van)
+  year: 1819
+formula: ''
+instrumentation:
+  additional_raw: 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alles_Gute%2C_alles_Sch%C3%B6ne%21%2C_WoO_179_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices'

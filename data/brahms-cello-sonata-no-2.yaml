@@ -1,0 +1,18 @@
+id: brahms-cello-sonata-no-2
+work:
+  composer: Brahms, Johannes
+  title: Cello Sonata No.2
+  ids:
+    imslp: Cello Sonata No.2, Op.99 (Brahms, Johannes)
+  year: 1886
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Sonata_No.2%2C_Op.99_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'
+duration_minutes: 28

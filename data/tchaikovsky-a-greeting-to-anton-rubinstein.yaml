@@ -1,0 +1,16 @@
+id: tchaikovsky-a-greeting-to-anton-rubinstein
+work:
+  composer: Tchaikovsky, Pyotr
+  title: A Greeting to Anton Rubinstein
+  ids:
+    imslp: A Greeting to Anton Rubinstein, TH 86 (Tchaikovsky, Pyotr)
+  year: 1889
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_Greeting_to_Anton_Rubinstein%2C_TH_86_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 3

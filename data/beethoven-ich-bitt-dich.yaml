@@ -1,0 +1,16 @@
+id: beethoven-ich-bitt-dich
+work:
+  composer: Beethoven, Ludwig van
+  title: Ich bitt' dich
+  ids:
+    imslp: Ich bitt' dich, WoO 172 (Beethoven, Ludwig van)
+  year: 1818
+formula: ''
+instrumentation:
+  additional_raw: 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ich_bitt%27_dich%2C_WoO_172_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'
+duration_minutes: 1

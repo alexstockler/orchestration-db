@@ -1,0 +1,27 @@
+id: beethoven-egmont
+work:
+  composer: Beethoven, Ludwig van
+  title: Egmont
+  ids:
+    imslp: Egmont, Op.84 (Beethoven, Ludwig van)
+  year: 1809
+formula: 3[pic.2.3] 2 2 2 4200 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Egmont%2C_Op.84_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4
+    horns, 2 trumpets, timpani, strings'

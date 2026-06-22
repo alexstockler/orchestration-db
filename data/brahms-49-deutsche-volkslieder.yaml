@@ -1,0 +1,21 @@
+id: brahms-49-deutsche-volkslieder
+work:
+  composer: Brahms, Johannes
+  title: 49 Deutsche Volkslieder
+  ids:
+    imslp: 49 Deutsche Volkslieder, WoO 33 (Brahms, Johannes)
+  year: 1893
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  chorus_raw: mixed chorus
+  additional_raw: 'Nos.1-42: voice | Nos.43-49: voice'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/49_Deutsche_Volkslieder%2C_WoO_33_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: Nos.1-42: voice, piano, Nos.43-49: voice, mixed chorus
+    (SATB, ad lib), piano'
+duration_minutes: 38

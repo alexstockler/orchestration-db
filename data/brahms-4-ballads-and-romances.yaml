@@ -1,0 +1,24 @@
+id: brahms-4-ballads-and-romances
+work:
+  composer: Brahms, Johannes
+  title: 4 Ballads and Romances
+  ids:
+    imslp: 4 Ballades and Romances, Op.75 (Brahms, Johannes)
+  year: 1877
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - tenor
+  - alto
+  - tenor
+  additional_raw: '2 voices | piano #alto | piano #soprano | piano #soprano | piano
+    #2 sopranos'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Ballades_and_Romances%2C_Op.75_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, piano #alto, tenor, piano #soprano, alto, piano
+    #soprano, tenor, piano #2 sopranos, piano'
+duration_minutes: 10

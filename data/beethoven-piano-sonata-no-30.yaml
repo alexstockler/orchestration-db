@@ -1,0 +1,17 @@
+id: beethoven-piano-sonata-no-30
+work:
+  composer: Beethoven, Ludwig van
+  title: Piano Sonata No.30
+  ids:
+    imslp: Piano Sonata No.30, Op.109 (Beethoven, Ludwig van)
+  year: 1820
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.30%2C_Op.109_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 20

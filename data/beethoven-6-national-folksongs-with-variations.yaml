@@ -1,0 +1,17 @@
+id: beethoven-6-national-folksongs-with-variations
+work:
+  composer: Beethoven, Ludwig van
+  title: 6 National Folksongs with Variations
+  ids:
+    imslp: 6 National Airs with Variations, Op.105 (Beethoven, Ludwig van)
+  year: 1818
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: flute (or violin) ad lib.
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_National_Airs_with_Variations%2C_Op.105_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: flute (or violin) ad lib., piano'

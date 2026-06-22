@@ -1,0 +1,22 @@
+id: beethoven-quintet-for-piano-and-winds
+work:
+  composer: Beethoven, Ludwig van
+  title: Quintet for Piano and Winds
+  ids:
+    imslp: Quintet in E-flat major, Op.16 (Beethoven, Ludwig van)
+  year: 1796
+formula: 0111 1000 pf
+instrumentation:
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Quintet_in_E-flat_major%2C_Op.16_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, clarinet, bassoon, horn, piano (violin, viola, cello,
+    piano for the quartet reduction)'
+duration_minutes: 30

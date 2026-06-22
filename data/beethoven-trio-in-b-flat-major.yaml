@@ -1,0 +1,18 @@
+id: beethoven-trio-in-b-flat-major
+work:
+  composer: Beethoven, Ludwig van
+  title: Trio in B-flat major
+  ids:
+    imslp: Trio in B-flat major, Op.11 (Beethoven, Ludwig van)
+  year: 1798
+formula: 0010 0000 pf
+instrumentation:
+  clarinet: 1
+  keyboards:
+  - instrument: piano
+  additional_raw: cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_in_B-flat_major%2C_Op.11_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet (or violin), cello, piano'

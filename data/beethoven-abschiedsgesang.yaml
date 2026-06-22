@@ -1,0 +1,18 @@
+id: beethoven-abschiedsgesang
+work:
+  composer: Beethoven, Ludwig van
+  title: Abschiedsgesang
+  ids:
+    imslp: Abschiedsgesang, WoO 102 (Beethoven, Ludwig van)
+  year: 1814
+formula: ''
+instrumentation:
+  soloists:
+  - tenors
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Abschiedsgesang%2C_WoO_102_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 tenors, bass'
+duration_minutes: 4

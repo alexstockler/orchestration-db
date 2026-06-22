@@ -1,0 +1,15 @@
+id: beethoven-6-waltzes
+work:
+  composer: Beethoven, Ludwig van
+  title: 6 Waltzes
+  ids:
+    imslp: 6 Waltzes, Anh.14 (Beethoven, Ludwig van)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Waltzes%2C_Anh.14_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

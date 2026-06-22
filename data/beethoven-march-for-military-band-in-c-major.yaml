@@ -1,0 +1,32 @@
+id: beethoven-march-for-military-band-in-c-major
+work:
+  composer: Beethoven, Ludwig van
+  title: March for Military Band in C major
+  ids:
+    imslp: March for Military Band, WoO 20 (Beethoven, Ludwig van)
+  year: 1810
+formula: 1[pic] 2 2 3[1.2.cbn] 2200
+instrumentation:
+  flute:
+  - instrument: piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 2
+  trumpet: 2
+  percussion:
+    instruments:
+    - bass drum
+    - military drum
+    - triangle
+    - cymbals
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/March_for_Military_Band%2C_WoO_20_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 oboes, 2 clarinets, 2 bassoons, contrabassoon,
+    2 horns, 2 trumpets, Bass drum, military drum, triangle, cymbals'
+duration_minutes: 4

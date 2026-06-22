@@ -1,0 +1,35 @@
+id: mahler-r-ckert-lieder
+work:
+  composer: Mahler, Gustav
+  title: Rückert Lieder
+  ids:
+    imslp: Rückert Lieder, GMW 39-43 (Mahler, Gustav)
+  year: 1901
+formula: 2 3[1.2.Eh] 2 2 0231 tmp cel pf hp str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: celesta
+  - instrument: piano
+  harp: 1
+  strings: str
+  additional_raw: contrabassoon :4 horns
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/R%C3%BCckert_Lieder%2C_GMW_39-43_%28Mahler%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra (all songs) :2 flutes, 2 oboes (one also oboe
+    d''amore), English horn, ::2 clarinets, 2 bassoons, contrabassoon :4 horns, 2
+    trumpets, 3 trombones, tuba, timpani, celesta, piano, harp, strings'
+duration_minutes: 20

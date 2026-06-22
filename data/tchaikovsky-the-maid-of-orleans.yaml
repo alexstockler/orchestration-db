@@ -1,0 +1,59 @@
+id: tchaikovsky-the-maid-of-orleans
+work:
+  composer: Tchaikovsky, Pyotr
+  title: The Maid of Orleans
+  ids:
+    imslp: The Maid of Orleans, TH 6 (Tchaikovsky, Pyotr)
+  year: 1878
+formula: 0 3[1.2.Eh] 2 2 4 4[cnt.cnt.3.4] 3 1 tmp org hp
+instrumentation:
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tambourine
+    - side drum
+    - bass drum
+    - tam-tam
+  keyboards:
+  - instrument: organ
+  harp: 1
+  additional_raw: Cast ::Joan of Arc (Иоанна д'Арк) (soprano or mezzo-soprano) | King
+    Charles VII (Король Карл VII) (tenor) | Agnès Sorel (Агнесса Сорель) (soprano)
+    | Dunois (Дюнуа) | a French knight (baritone) | Lionel (Лионель) | a Burgundian
+    knight (baritone) | Archbishop/Cardinal (Архиепископ/Кардинал) (bass) | Raimond
+    (Раймонд) | Joan's fiancé (tenor) | Thibaut d'Arc (Тибо д'Арк) | Joan's father
+    (bass) | Bertrand (Бертран) | a peasant (bass) | Soldier (Воин) (2nd bass) | Lauret
+    (Лоре) (2nd bass) | Angel (Ангел) (soprano) :Mixed Chorus (SATB) :Orchestra ::3
+    flutes (3rd also piccolo) | bell | strings :Offstage Instruments ::3 trumpets
+    | wind band
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Maid_of_Orleans%2C_TH_6_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Cast ::Joan of Arc (Иоанна д''Арк)
+    (soprano or mezzo-soprano), King Charles VII (Король Карл VII) (tenor), Agnès
+    Sorel (Агнесса Сорель) (soprano), Dunois (Дюнуа), a French knight (baritone),
+    Lionel (Лионель), a Burgundian knight (baritone), Archbishop/Cardinal (Архиепископ/Кардинал)
+    (bass), Raimond (Раймонд), Joan''s fiancé (tenor), Thibaut d''Arc (Тибо д''Арк),
+    Joan''s father (bass), Bertrand (Бертран), a peasant (bass), Soldier (Воин) (2nd
+    bass), Lauret (Лоре) (2nd bass), Angel (Ангел) (soprano) :Mixed Chorus (SATB)
+    :Orchestra ::3 flutes (3rd also piccolo), 2 oboes, english horn, 2 clarinets,
+    2 bassoons, 4 horns, 2 cornets, 2 trumpets, 3 trombones, tuba, timpani, triangle,
+    tambourine, side drum, bass drum, tam-tam, bell, organ, harp, strings :Offstage
+    Instruments ::3 trumpets, wind band'
+duration_minutes: 156

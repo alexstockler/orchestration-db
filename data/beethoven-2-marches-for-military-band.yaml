@@ -1,0 +1,39 @@
+id: beethoven-2-marches-for-military-band
+work:
+  composer: Beethoven, Ludwig van
+  title: 2 Marches for Military Band
+  ids:
+    imslp: 2 Marches for Military Band, WoO 18-19 (Beethoven, Ludwig van)
+  year: 1809
+formula: 4[pic.pic.3.4] 2 4 6[1.2.cbn.4.5.cbn] 4400
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 4
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 4
+  percussion:
+    instruments:
+    - triangle
+    - snare drum
+    - bass drum
+  additional_raw: wind band | cymbal | piccolo clarinet
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Marches_for_Military_Band%2C_WoO_18-19_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: wind band, (original version) piccolo, 2 oboes, 2 clarinets,
+    2 bassoons, contrabassoon, 2 horns, 2 trumpets, triangle, cymbal, snare drum,
+    bass drum, (arranged version) piccolo, 2 flutes, piccolo clarinet, 2 clarinets,
+    2 bassoons, contrabassoon, 2 horns, 2 trumpets, snare drum, bass drum'

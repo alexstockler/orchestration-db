@@ -1,0 +1,16 @@
+id: brahms-14-deutsche-volkslieder
+work:
+  composer: Brahms, Johannes
+  title: 14 Deutsche Volkslieder
+  ids:
+    imslp: 14 Deutsche Volkslieder, WoO 34 (Brahms, Johannes)
+  year: 1857
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/14_Deutsche_Volkslieder%2C_WoO_34_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 38

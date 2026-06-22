@@ -1,0 +1,16 @@
+id: beethoven-9-variations-on-a-march-by-dressler
+work:
+  composer: Beethoven, Ludwig van
+  title: 9 Variations on a March by Dressler
+  ids:
+    imslp: 9 Variations on a March by Dressler, WoO 63 (Beethoven, Ludwig van)
+  year: 1782
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/9_Variations_on_a_March_by_Dressler%2C_WoO_63_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

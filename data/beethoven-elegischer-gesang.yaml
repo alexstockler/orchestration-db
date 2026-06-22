@@ -1,0 +1,21 @@
+id: beethoven-elegischer-gesang
+work:
+  composer: Beethoven, Ludwig van
+  title: Elegischer Gesang
+  ids:
+    imslp: Elegischer Gesang, Op.118 (Beethoven, Ludwig van)
+  year: 1814
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Elegischer_Gesang%2C_Op.118_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, 2 violins, viola, cello'
+duration_minutes: 4

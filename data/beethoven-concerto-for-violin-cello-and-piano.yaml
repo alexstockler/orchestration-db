@@ -1,0 +1,25 @@
+id: beethoven-concerto-for-violin-cello-and-piano
+work:
+  composer: Beethoven, Ludwig van
+  title: Concerto for Violin, Cello and Piano
+  ids:
+    imslp: Triple Concerto, Op.56 (Beethoven, Ludwig van)
+  year: 1804
+formula: 1222 2200 tmp str
+instrumentation:
+  flute: 1
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Triple_Concerto%2C_Op.56_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets,
+    timpani, strings'
+duration_minutes: 35

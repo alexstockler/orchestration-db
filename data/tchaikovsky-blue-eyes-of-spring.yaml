@@ -1,0 +1,18 @@
+id: tchaikovsky-blue-eyes-of-spring
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Blue Eyes of Spring
+  ids:
+    imslp: Blue Eyes of Spring, TH 96/2 (Tchaikovsky, Pyotr)
+  year: 1873
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Blue_Eyes_of_Spring%2C_TH_96/2_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 3

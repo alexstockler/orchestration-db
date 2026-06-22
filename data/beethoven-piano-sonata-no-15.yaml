@@ -1,0 +1,17 @@
+id: beethoven-piano-sonata-no-15
+work:
+  composer: Beethoven, Ludwig van
+  title: Piano Sonata No.15
+  ids:
+    imslp: Piano Sonata No.15, Op.28 (Beethoven, Ludwig van)
+  year: 1801
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.15%2C_Op.28_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 24

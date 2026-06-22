@@ -1,0 +1,18 @@
+id: beethoven-violin-sonata-no-10-in-g-major
+work:
+  composer: Beethoven, Ludwig van
+  title: Violin Sonata No.10 in G major
+  ids:
+    imslp: Violin Sonata No.10, Op.96 (Beethoven, Ludwig van)
+  year: 1812
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_No.10%2C_Op.96_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 28

@@ -1,0 +1,16 @@
+id: beethoven-piano-sonata-no-31
+work:
+  composer: Beethoven, Ludwig van
+  title: Piano Sonata No.31
+  ids:
+    imslp: Piano Sonata No.31, Op.110 (Beethoven, Ludwig van)
+  year: 1821
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.31%2C_Op.110_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

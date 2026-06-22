@@ -1,0 +1,16 @@
+id: brahms-3-songs
+work:
+  composer: Brahms, Johannes
+  title: 3 Songs
+  ids:
+    imslp: 3 Songs, Op.42 (Brahms, Johannes)
+  year: 1859
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Songs%2C_Op.42_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SAATBB)'
+duration_minutes: 10

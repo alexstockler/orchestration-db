@@ -1,0 +1,20 @@
+id: brahms-3-duets
+work:
+  composer: Brahms, Johannes
+  title: 3 Duets
+  ids:
+    imslp: 3 Duets, Op.20 (Brahms, Johannes)
+  year: 1858
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - alto
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Duets%2C_Op.20_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, piano'
+duration_minutes: 8

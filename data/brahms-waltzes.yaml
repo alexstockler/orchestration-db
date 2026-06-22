@@ -1,0 +1,16 @@
+id: brahms-waltzes
+work:
+  composer: Brahms, Johannes
+  title: Waltzes
+  ids:
+    imslp: 16 Waltzes, Op.39 (Brahms, Johannes)
+  year: 1865
+formula: ''
+instrumentation:
+  additional_raw: piano 4-hands
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/16_Waltzes%2C_Op.39_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'
+duration_minutes: 19

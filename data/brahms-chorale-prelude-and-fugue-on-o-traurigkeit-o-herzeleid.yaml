@@ -1,0 +1,18 @@
+id: brahms-chorale-prelude-and-fugue-on-o-traurigkeit-o-herzeleid
+work:
+  composer: Brahms, Johannes
+  title: Chorale Prelude and Fugue on 'O Traurigkeit, o Herzeleid'
+  ids:
+    imslp: Chorale Prelude and Fugue on 'O Traurigkeit, o Herzeleid', WoO 7 (Brahms,
+      Johannes)
+  year: 1858
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chorale_Prelude_and_Fugue_on_%27O_Traurigkeit%2C_o_Herzeleid%27%2C_WoO_7_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 8

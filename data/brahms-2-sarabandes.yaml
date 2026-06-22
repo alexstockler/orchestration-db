@@ -1,0 +1,16 @@
+id: brahms-2-sarabandes
+work:
+  composer: Brahms, Johannes
+  title: 2 Sarabandes
+  ids:
+    imslp: 2 Sarabandes, WoO 5 (Brahms, Johannes)
+  year: 1854
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Sarabandes%2C_WoO_5_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

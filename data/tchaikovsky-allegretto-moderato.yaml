@@ -1,0 +1,16 @@
+id: tchaikovsky-allegretto-moderato
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Allegretto moderato
+  ids:
+    imslp: Allegretto moderato, TH 152 (Tchaikovsky, Pyotr)
+  year: 1863
+formula: ''
+instrumentation:
+  additional_raw: violin | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegretto_moderato%2C_TH_152_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola, cello'
+duration_minutes: 1

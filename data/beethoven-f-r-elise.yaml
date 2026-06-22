@@ -1,0 +1,17 @@
+id: beethoven-f-r-elise
+work:
+  composer: Beethoven, Ludwig van
+  title: Für Elise
+  ids:
+    imslp: Für Elise, WoO 59 (Beethoven, Ludwig van)
+  year: 1810
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/F%C3%BCr_Elise%2C_WoO_59_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 3

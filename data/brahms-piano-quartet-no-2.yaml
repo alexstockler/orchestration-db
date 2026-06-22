@@ -1,0 +1,18 @@
+id: brahms-piano-quartet-no-2
+work:
+  composer: Brahms, Johannes
+  title: Piano Quartet No.2
+  ids:
+    imslp: Piano Quartet No.2, Op.26 (Brahms, Johannes)
+  year: 1861
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quartet_No.2%2C_Op.26_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola, cello, piano'
+duration_minutes: 47

@@ -1,0 +1,24 @@
+id: beethoven-leonora-overture-no-1
+work:
+  composer: Beethoven, Ludwig van
+  title: Leonora Overture No.1
+  ids:
+    imslp: Leonora Overture No.1, Op.138 (Beethoven, Ludwig van)
+  year: 1807
+formula: 2222 4200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Leonora_Overture_No.1%2C_Op.138_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2
+    trumpets, timpani, strings'

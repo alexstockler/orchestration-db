@@ -1,0 +1,27 @@
+id: beethoven-leonore-prohaska-woo-96
+work:
+  composer: Beethoven, Ludwig van
+  title: Leonore Prohaska, WoO 96
+  ids:
+    imslp: Leonore Prohaska, WoO 96 (Beethoven, Ludwig van)
+  year: 1815
+formula: 2022 4000 tmp hp str
+instrumentation:
+  flute: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  percussion:
+    timpani: 1
+  harp: 1
+  strings: str
+  soloists:
+  - soprano
+  chorus_raw: male chorus
+  additional_raw: spoken voice | glass harmonica
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Leonore_Prohaska%2C_WoO_96_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, male chorus (TTBB), spoken voice, 2 flutes, 2
+    clarinets, 2 bassoons,, 4 horns, timpani, harp, glass harmonica, strings'

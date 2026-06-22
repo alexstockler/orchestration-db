@@ -1,0 +1,16 @@
+id: beethoven-7-l-ndler-woo-11
+work:
+  composer: Beethoven, Ludwig van
+  title: 7 Ländler, WoO 11
+  ids:
+    imslp: 7 Ländler, WoO 11 (Beethoven, Ludwig van)
+  year: 1799
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_L%C3%A4ndler%2C_WoO_11_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

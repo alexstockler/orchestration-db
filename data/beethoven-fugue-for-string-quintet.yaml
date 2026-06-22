@@ -1,0 +1,15 @@
+id: beethoven-fugue-for-string-quintet
+work:
+  composer: Beethoven, Ludwig van
+  title: Fugue for String Quintet
+  ids:
+    imslp: Fugue in D major, Op.137 (Beethoven, Ludwig van)
+  year: 1817
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | 2 violas | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_D_major%2C_Op.137_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, 2 violas, cello'

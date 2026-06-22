@@ -1,0 +1,16 @@
+id: beethoven-duet-mit-zwei-obligaten-augengl-sern
+work:
+  composer: Beethoven, Ludwig van
+  title: Duet mit zwei obligaten Augengläsern
+  ids:
+    imslp: Duet mit zwei obligaten Augengläsern, WoO 32 (Beethoven, Ludwig van)
+  year: 1796
+formula: ''
+instrumentation:
+  additional_raw: viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Duet_mit_zwei_obligaten_Augengl%C3%A4sern%2C_WoO_32_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: viola, cello'
+duration_minutes: 7

@@ -1,0 +1,15 @@
+id: beethoven-oboe-concerto-in-f-major-hess-12
+work:
+  composer: Beethoven, Ludwig van
+  title: Oboe Concerto in F major, Hess 12
+  ids:
+    imslp: Oboe Concerto in F major, Hess 12 (Beethoven, Ludwig van)
+formula: 0100 0000
+instrumentation:
+  oboe: 1
+  additional_raw: orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oboe_Concerto_in_F_major%2C_Hess_12_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, orchestra'

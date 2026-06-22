@@ -1,0 +1,15 @@
+id: brahms-grausam-erweiset-sich-amor-woo-24
+work:
+  composer: Brahms, Johannes
+  title: Grausam erweiset sich Amor, WoO 24
+  ids:
+    imslp: Grausam erweiset sich Amor, WoO 24 (Brahms, Johannes)
+  year: 1927
+formula: ''
+instrumentation:
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grausam_erweiset_sich_Amor%2C_WoO_24_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus'

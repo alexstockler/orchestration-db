@@ -1,0 +1,18 @@
+id: beethoven-10-variations-on-la-stessa-la-stessissima-from-the-opera-falstaff-by-s
+work:
+  composer: Beethoven, Ludwig van
+  title: 10 Variations on 'La stessa, la stessissima' from the Opera 'Falstaff' by
+    Salieri WoO 73
+  ids:
+    imslp: 10 Variations on 'La stessa, la stessissima', WoO 73 (Beethoven, Ludwig
+      van)
+  year: 1799
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/10_Variations_on_%27La_stessa%2C_la_stessissima%27%2C_WoO_73_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

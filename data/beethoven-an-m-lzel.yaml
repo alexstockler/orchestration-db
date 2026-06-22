@@ -1,0 +1,15 @@
+id: beethoven-an-m-lzel
+work:
+  composer: Beethoven, Ludwig van
+  title: An Mälzel
+  ids:
+    imslp: An Mälzel, WoO 162 (Beethoven, Ludwig van)
+  year: 1812
+formula: ''
+instrumentation:
+  additional_raw: 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_M%C3%A4lzel%2C_WoO_162_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices'

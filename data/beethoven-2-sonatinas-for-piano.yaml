@@ -1,0 +1,15 @@
+id: beethoven-2-sonatinas-for-piano
+work:
+  composer: Beethoven, Ludwig van
+  title: 2 Sonatinas for Piano
+  ids:
+    imslp: 2 Sonatinas for Piano, Anh.5 (Beethoven, Ludwig van)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Sonatinas_for_Piano%2C_Anh.5_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,16 @@
+id: beethoven-string-quintet-no-3
+work:
+  composer: Beethoven, Ludwig van
+  title: String Quintet No.3
+  ids:
+    imslp: String Quintet in C minor, Op.104 (Beethoven, Ludwig van)
+  year: 1817
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | 2 violas | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quintet_in_C_minor%2C_Op.104_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, 2 violas, cello'
+duration_minutes: 30

@@ -1,0 +1,34 @@
+id: brahms-symphony-no-4
+work:
+  composer: Brahms, Johannes
+  title: Symphony No.4
+  ids:
+    imslp: Symphony No.4, Op.98 (Brahms, Johannes)
+  year: 1884
+formula: 2[1.2/pic] 2 2 3[1.2.cbn] 4230 tmp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.4%2C_Op.98_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes, 2 clarinets, 2 bassoons,
+    contrabassoon, 4 horns, 2 trumpets, 3 trombones, timpani, triangle, strings'
+duration_minutes: 40

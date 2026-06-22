@@ -1,0 +1,15 @@
+id: beethoven-ecossaise
+work:
+  composer: Beethoven, Ludwig van
+  title: Ecossaise
+  ids:
+    imslp: Ecossaise for Military Band, WoO 23 (Beethoven, Ludwig van)
+  year: 1810
+formula: ''
+instrumentation:
+  additional_raw: wind band (version lost)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ecossaise_for_Military_Band%2C_WoO_23_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: wind band (version lost)'

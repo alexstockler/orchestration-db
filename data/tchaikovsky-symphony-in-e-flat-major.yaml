@@ -1,0 +1,37 @@
+id: tchaikovsky-symphony-in-e-flat-major
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Symphony in E-flat major
+  ids:
+    imslp: Symphony in E-flat major, TH 238 (Tchaikovsky, Pyotr)
+  year: 1889
+formula: 3[1.2.3/pic] 2 2 2 4231 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drum
+    - bass drum
+    - cymbals
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_in_E-flat_major%2C_TH_238_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 2 oboes, 2 clarinets, 2 bassoons,
+    4 horns, 2 trumpets, 3 trombones, tuba, timpani, snare drum, bass drum, cymbals,
+    harp, strings'
+duration_minutes: 37

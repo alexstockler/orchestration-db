@@ -1,0 +1,15 @@
+id: beethoven-symphony-no-10-sketches
+work:
+  composer: Beethoven, Ludwig van
+  title: Symphony No.10 (Sketches)
+  ids:
+    imslp: Symphony No.10 (Beethoven, Ludwig van)
+  year: 1822
+formula: ''
+instrumentation:
+  additional_raw: orchestra?
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.10_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra?'

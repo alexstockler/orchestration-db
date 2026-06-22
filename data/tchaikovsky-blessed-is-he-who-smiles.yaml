@@ -1,0 +1,16 @@
+id: tchaikovsky-blessed-is-he-who-smiles
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Blessed is He Who Smiles
+  ids:
+    imslp: Blessed is He Who Smiles, TH 83 (Tchaikovsky, Pyotr)
+  year: 1887
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Blessed_is_He_Who_Smiles%2C_TH_83_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: Male chorus (TTBB)'
+duration_minutes: 3

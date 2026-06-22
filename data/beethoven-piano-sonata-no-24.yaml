@@ -1,0 +1,17 @@
+id: beethoven-piano-sonata-no-24
+work:
+  composer: Beethoven, Ludwig van
+  title: Piano Sonata No.24
+  ids:
+    imslp: Piano Sonata No.24, Op.78 (Beethoven, Ludwig van)
+  year: 1809
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.24%2C_Op.78_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 10

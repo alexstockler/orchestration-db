@@ -1,0 +1,19 @@
+id: brahms-ellens-zweiter-gesang
+work:
+  composer: Brahms, Johannes
+  title: Ellens Zweiter Gesang
+  ids:
+    imslp: Ellens Zweiter Gesang, Anh 17 (Brahms, Johannes)
+  year: 1906
+formula: 0002 4000
+instrumentation:
+  bassoon: 2
+  horn: 4
+  soloists:
+  - soprano
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ellens_Zweiter_Gesang%2C_Anh_17_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, female chorus (SSA), 4 horns (2 E, 2 B), 2 bassoons'

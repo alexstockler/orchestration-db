@@ -1,0 +1,18 @@
+id: mahler-3-lieder
+work:
+  composer: Mahler, Gustav
+  title: 3 Lieder
+  ids:
+    imslp: 3 Lieder, GMW 2-4 (Mahler, Gustav)
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - tenor
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Lieder%2C_GMW_2-4_%28Mahler%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, piano'

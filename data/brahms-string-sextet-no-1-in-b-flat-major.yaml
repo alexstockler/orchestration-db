@@ -1,0 +1,16 @@
+id: brahms-string-sextet-no-1-in-b-flat-major
+work:
+  composer: Brahms, Johannes
+  title: String Sextet No.1 in B-flat major
+  ids:
+    imslp: String Sextet No.1, Op.18 (Brahms, Johannes)
+  year: 1859
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | 2 violas | 2 cellos
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Sextet_No.1%2C_Op.18_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, 2 violas, 2 cellos'
+duration_minutes: 37

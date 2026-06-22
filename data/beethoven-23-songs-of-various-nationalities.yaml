@@ -1,0 +1,16 @@
+id: beethoven-23-songs-of-various-nationalities
+work:
+  composer: Beethoven, Ludwig van
+  title: 23 Songs of Various Nationalities
+  ids:
+    imslp: 23 Songs of Various Nationalities, WoO 158a (Beethoven, Ludwig van)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice(s) | violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/23_Songs_of_Various_Nationalities%2C_WoO_158a_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: voice(s), piano, violin, cello'

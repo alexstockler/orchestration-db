@@ -1,0 +1,18 @@
+id: tchaikovsky-6-french-songs
+work:
+  composer: Tchaikovsky, Pyotr
+  title: 6 French Songs
+  ids:
+    imslp: 6 French Songs, Op.65 (Tchaikovsky, Pyotr)
+  year: 1888
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_French_Songs%2C_Op.65_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 16

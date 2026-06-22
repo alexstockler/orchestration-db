@@ -1,0 +1,17 @@
+id: beethoven-march-for-wind-sextet-in-b-flat-major-woo-29
+work:
+  composer: Beethoven, Ludwig van
+  title: March for Wind Sextet in B-flat Major, WoO 29
+  ids:
+    imslp: March for Wind Sextet in B-flat major, WoO 29 (Beethoven, Ludwig van)
+  year: 1797
+formula: 0022 2000
+instrumentation:
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/March_for_Wind_Sextet_in_B-flat_major%2C_WoO_29_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 clarinets, 2 bassoons, 2 horns'

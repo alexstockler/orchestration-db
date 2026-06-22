@@ -1,0 +1,18 @@
+id: tchaikovsky-16-songs-for-children
+work:
+  composer: Tchaikovsky, Pyotr
+  title: 16 Songs for Children
+  ids:
+    imslp: 16 Songs for Children, Op.54 (Tchaikovsky, Pyotr)
+  year: 1881
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/16_Songs_for_Children%2C_Op.54_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 48

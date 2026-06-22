@@ -1,0 +1,16 @@
+id: tchaikovsky-evening
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Evening
+  ids:
+    imslp: Evening, TH 74 (Tchaikovsky, Pyotr)
+  year: 1876
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Evening%2C_TH_74_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTB)'
+duration_minutes: 3

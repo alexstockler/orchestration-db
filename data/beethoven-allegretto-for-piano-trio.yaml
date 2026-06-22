@@ -1,0 +1,17 @@
+id: beethoven-allegretto-for-piano-trio
+work:
+  composer: Beethoven, Ludwig van
+  title: Allegretto for Piano Trio
+  ids:
+    imslp: Allegretto, WoO 39 (Beethoven, Ludwig van)
+  year: 1812
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegretto%2C_WoO_39_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'

@@ -1,0 +1,15 @@
+id: beethoven-3-pieces-for-mechanical-organ
+work:
+  composer: Beethoven, Ludwig van
+  title: 3 Pieces for Mechanical Organ
+  ids:
+    imslp: 3 Pieces for Musical Clock, WoO 33a (Beethoven, Ludwig van)
+  year: 1799
+formula: ''
+instrumentation:
+  additional_raw: mechanical organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Pieces_for_Musical_Clock%2C_WoO_33a_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: mechanical organ'

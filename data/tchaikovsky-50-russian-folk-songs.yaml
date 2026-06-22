@@ -1,0 +1,16 @@
+id: tchaikovsky-50-russian-folk-songs
+work:
+  composer: Tchaikovsky, Pyotr
+  title: 50 Russian Folk Songs
+  ids:
+    imslp: 50 Russian Folk Songs, TH 176 (Tchaikovsky, Pyotr)
+  year: 1868
+formula: ''
+instrumentation:
+  additional_raw: piano 4-hands (arranged)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/50_Russian_Folk_Songs%2C_TH_176_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands (arranged)'
+duration_minutes: 33

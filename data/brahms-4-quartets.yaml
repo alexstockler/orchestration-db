@@ -1,0 +1,22 @@
+id: brahms-4-quartets
+work:
+  composer: Brahms, Johannes
+  title: 4 Quartets
+  ids:
+    imslp: 4 Quartets, Op.92 (Brahms, Johannes)
+  year: 1877
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Quartets%2C_Op.92_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, piano'
+duration_minutes: 11

@@ -1,0 +1,25 @@
+id: beethoven-wo-sich-die-pulse
+work:
+  composer: Beethoven, Ludwig van
+  title: Wo sich die Pulse
+  ids:
+    imslp: Wo sich die Pulse, WoO 98 (Beethoven, Ludwig van)
+  year: 1822
+formula: 2222 4200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Wo_sich_die_Pulse%2C_WoO_98_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons,, 4 horns, 2
+    trumpets, timpani, strings'
+duration_minutes: 7

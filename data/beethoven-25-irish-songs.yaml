@@ -1,0 +1,17 @@
+id: beethoven-25-irish-songs
+work:
+  composer: Beethoven, Ludwig van
+  title: 25 Irish Songs
+  ids:
+    imslp: 25 Irish Songs, WoO 152 (Beethoven, Ludwig van)
+  year: 1810
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 1 or 2 voices | violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/25_Irish_Songs%2C_WoO_152_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 1 or 2 voices, violin, cello, piano'

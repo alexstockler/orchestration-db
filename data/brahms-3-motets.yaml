@@ -1,0 +1,17 @@
+id: brahms-3-motets
+work:
+  composer: Brahms, Johannes
+  title: 3 Motets
+  ids:
+    imslp: 3 Motets, Op.110 (Brahms, Johannes)
+  year: 1889
+formula: ''
+instrumentation:
+  additional_raw: Nos.1 | 3 double chorus (SATB, SATB) | No.2 mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Motets%2C_Op.110_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: Nos.1, 3 double chorus (SATB, SATB), No.2 mixed chorus
+    (SATB)'
+duration_minutes: 9

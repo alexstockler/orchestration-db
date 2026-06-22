@@ -1,0 +1,25 @@
+id: beethoven-violin-concerto-in-d-major
+work:
+  composer: Beethoven, Ludwig van
+  title: Violin Concerto in D major
+  ids:
+    imslp: Violin Concerto in D major, Op.61 (Beethoven, Ludwig van)
+  year: 1806
+formula: 1222 2200 tmp str
+instrumentation:
+  flute: 1
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Concerto_in_D_major%2C_Op.61_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets,
+    timpani, strings'
+duration_minutes: 42

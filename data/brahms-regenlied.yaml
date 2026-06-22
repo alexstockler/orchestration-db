@@ -1,0 +1,17 @@
+id: brahms-regenlied
+work:
+  composer: Brahms, Johannes
+  title: Regenlied
+  ids:
+    imslp: Regenlied, WoO 23 (Brahms, Johannes)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Regenlied%2C_WoO_23_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

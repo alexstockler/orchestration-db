@@ -1,0 +1,16 @@
+id: beethoven-8-variations-on-the-song-ich-hab-ein-kleines-huttchen-nur
+work:
+  composer: Beethoven, Ludwig van
+  title: 8 Variations on the Song 'Ich hab ein kleines Huttchen nur'
+  ids:
+    imslp: 8 Variations on 'Ich hab ein kleines Hüttchen nur', Anh.10 (Beethoven,
+      Ludwig van)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Variations_on_%27Ich_hab_ein_kleines_H%C3%BCttchen_nur%27%2C_Anh.10_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,17 @@
+id: beethoven-sextet-for-winds
+work:
+  composer: Beethoven, Ludwig van
+  title: Sextet for Winds
+  ids:
+    imslp: Sextet in E-flat major, Op.71 (Beethoven, Ludwig van)
+  year: 1796
+formula: 0022 2000
+instrumentation:
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sextet_in_E-flat_major%2C_Op.71_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 clarinets, 2 bassoons, 2 horns'

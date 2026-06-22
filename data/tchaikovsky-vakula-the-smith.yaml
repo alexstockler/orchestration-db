@@ -1,0 +1,47 @@
+id: tchaikovsky-vakula-the-smith
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Vakula the Smith
+  ids:
+    imslp: Vakula the Smith, Op.14 (Tchaikovsky, Pyotr)
+  year: 1874
+formula: 2222 4231 tmp hp
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tambourine
+    - cymbals
+    - bass drum
+  harp: 1
+  additional_raw: Cast ::Vakula | a smith (tenor) | Solokha | Vakula's mother | a
+    witch (mezzo soprano) | A devil from Hell | a fantastic character (bass) | Chub
+    | an elderly Cossack (bass) | Oksana | Chub's daughter (soprano) | Pan Golova
+    (bass) | Panas | Chub's crony (tenor) | Schoolmaster (tenor) | His Highness (bass)
+    | Master of Ceremonies (bass) | Attendant (tenor) | Old Cossack (bass) | Wood
+    Goblin (bass) :Mixed Chorus (SATB) :Silent Roles ::Lads | Lasses | Elders | Gusli-players
+    | Rusalki | Wood-sprites | Echo | Spirits | Court ladies and Gentlemen | Zaporozhtsï
+    :Orchestra (On-stage) ::piccolo | strings :Wind Band (Off-stage)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vakula_the_Smith%2C_Op.14_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Cast ::Vakula, a smith (tenor),
+    Solokha, Vakula''s mother, a witch (mezzo soprano), A devil from Hell, a fantastic
+    character (bass), Chub, an elderly Cossack (bass), Oksana, Chub''s daughter (soprano),
+    Pan Golova (bass), Panas, Chub''s crony (tenor), Schoolmaster (tenor), His Highness
+    (bass), Master of Ceremonies (bass), Attendant (tenor), Old Cossack (bass), Wood
+    Goblin (bass) :Mixed Chorus (SATB) :Silent Roles ::Lads, Lasses, Elders, Gusli-players,
+    Rusalki, Wood-sprites, Echo,, Spirits, Court ladies and Gentlemen, Zaporozhtsï
+    :Orchestra (On-stage) ::piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4
+    horns, 2 trumpets, 3 trombones, tuba, timpani, triangle, tambourine, cymbals,
+    bass drum, harp, strings :Wind Band (Off-stage)'

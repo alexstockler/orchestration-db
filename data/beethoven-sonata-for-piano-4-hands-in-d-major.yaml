@@ -1,0 +1,15 @@
+id: beethoven-sonata-for-piano-4-hands-in-d-major
+work:
+  composer: Beethoven, Ludwig van
+  title: Sonata for Piano 4 Hands in D Major
+  ids:
+    imslp: Sonata for Piano 4 Hands in D major, Op.6 (Beethoven, Ludwig van)
+  year: 1796
+formula: ''
+instrumentation:
+  additional_raw: piano 4-hands
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_for_Piano_4_Hands_in_D_major%2C_Op.6_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'

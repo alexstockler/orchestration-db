@@ -1,0 +1,19 @@
+id: brahms-clarinet-trio
+work:
+  composer: Brahms, Johannes
+  title: Clarinet Trio
+  ids:
+    imslp: Clarinet Trio, Op.114 (Brahms, Johannes)
+  year: 1891
+formula: 0010 0000 pf
+instrumentation:
+  clarinet: 1
+  keyboards:
+  - instrument: piano
+  additional_raw: cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Clarinet_Trio%2C_Op.114_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, cello, piano'
+duration_minutes: 26

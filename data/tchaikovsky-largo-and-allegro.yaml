@@ -1,0 +1,17 @@
+id: tchaikovsky-largo-and-allegro
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Largo and Allegro
+  ids:
+    imslp: Largo and Allegro, TH 162 (Tchaikovsky, Pyotr)
+  year: 1863
+formula: 2000 0000 str
+instrumentation:
+  flute: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Largo_and_Allegro%2C_TH_162_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, strings'
+duration_minutes: 4

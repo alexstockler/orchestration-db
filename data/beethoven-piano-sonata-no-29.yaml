@@ -1,0 +1,16 @@
+id: beethoven-piano-sonata-no-29
+work:
+  composer: Beethoven, Ludwig van
+  title: Piano Sonata No.29
+  ids:
+    imslp: Piano Sonata No.29, Op.106 (Beethoven, Ludwig van)
+  year: 1817
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.29%2C_Op.106_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

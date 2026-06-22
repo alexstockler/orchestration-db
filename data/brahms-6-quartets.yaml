@@ -1,0 +1,22 @@
+id: brahms-6-quartets
+work:
+  composer: Brahms, Johannes
+  title: 6 Quartets
+  ids:
+    imslp: 6 Quartets, Op.112 (Brahms, Johannes)
+  year: 1888
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Quartets%2C_Op.112_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, piano'
+duration_minutes: 10

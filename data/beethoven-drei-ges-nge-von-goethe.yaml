@@ -1,0 +1,17 @@
+id: beethoven-drei-ges-nge-von-goethe
+work:
+  composer: Beethoven, Ludwig van
+  title: Drei Gesänge von Goethe
+  ids:
+    imslp: 3 Gesänge, Op.83 (Beethoven, Ludwig van)
+  year: 1810
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Ges%C3%A4nge%2C_Op.83_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

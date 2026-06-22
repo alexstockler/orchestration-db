@@ -1,0 +1,17 @@
+id: brahms-piano-sonata-no-3
+work:
+  composer: Brahms, Johannes
+  title: Piano Sonata No.3
+  ids:
+    imslp: Piano Sonata No.3, Op.5 (Brahms, Johannes)
+  year: 1853
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.3%2C_Op.5_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 37

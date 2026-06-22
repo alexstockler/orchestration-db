@@ -1,0 +1,16 @@
+id: beethoven-minuet
+work:
+  composer: Beethoven, Ludwig van
+  title: Minuet
+  ids:
+    imslp: Minuet, WoO 82 (Beethoven, Ludwig van)
+  year: 1803
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Minuet%2C_WoO_82_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

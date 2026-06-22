@@ -1,0 +1,16 @@
+id: brahms-hungarian-dances
+work:
+  composer: Brahms, Johannes
+  title: Hungarian Dances
+  ids:
+    imslp: 21 Hungarian Dances (Piano), WoO 1 (Brahms, Johannes)
+  year: 1858
+formula: ''
+instrumentation:
+  additional_raw: piano 4-hands
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/21_Hungarian_Dances_%28Piano%29%2C_WoO_1_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'
+duration_minutes: 51

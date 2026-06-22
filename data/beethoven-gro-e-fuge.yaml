@@ -1,0 +1,16 @@
+id: beethoven-gro-e-fuge
+work:
+  composer: Beethoven, Ludwig van
+  title: Große Fuge
+  ids:
+    imslp: Große Fuge, Op.133 (Beethoven, Ludwig van)
+  year: 1825
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gro%C3%9Fe_Fuge%2C_Op.133_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 16

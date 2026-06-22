@@ -1,0 +1,15 @@
+id: beethoven-das-reden
+work:
+  composer: Beethoven, Ludwig van
+  title: Das Reden
+  ids:
+    imslp: Das Reden, WoO 168b (Beethoven, Ludwig van)
+  year: 1816
+formula: ''
+instrumentation:
+  additional_raw: 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Reden%2C_WoO_168b_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

@@ -1,0 +1,28 @@
+id: tchaikovsky-romeo-and-juliet
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Romeo and Juliet
+  ids:
+    imslp: Romeo and Juliet (duet), TH 215 (Tchaikovsky, Pyotr)
+  year: 1878
+formula: 0 3[1.2.Eh] 2 2 4000 hp str
+instrumentation:
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  harp: 1
+  strings: str
+  additional_raw: Cast ::Juliet (Джульетта) - soprano | Romeo (Ромео) - tenor :Orchestra
+    ::2 flutes
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romeo_and_Juliet_%28duet%29%2C_TH_215_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra :Cast ::Juliet (Джульетта) - soprano,
+    Romeo (Ромео) - tenor :Orchestra ::2 flutes, 2 oboes, english horn, 2 clarinets,
+    2 bassoons, 4 horns, harp, strings'
+duration_minutes: 13

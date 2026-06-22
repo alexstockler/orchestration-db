@@ -1,0 +1,15 @@
+id: beethoven-serenade-for-string-trio
+work:
+  composer: Beethoven, Ludwig van
+  title: Serenade for String Trio
+  ids:
+    imslp: Serenade in D major, Op.8 (Beethoven, Ludwig van)
+  year: 1795
+formula: ''
+instrumentation:
+  additional_raw: violin | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Serenade_in_D_major%2C_Op.8_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola, cello'

@@ -1,0 +1,17 @@
+id: brahms-clarinet-quintet
+work:
+  composer: Brahms, Johannes
+  title: Clarinet Quintet
+  ids:
+    imslp: Clarinet Quintet, Op.115 (Brahms, Johannes)
+  year: 1891
+formula: 0010 0000
+instrumentation:
+  clarinet: 1
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Clarinet_Quintet%2C_Op.115_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, 2 violins, viola, cello'
+duration_minutes: 37

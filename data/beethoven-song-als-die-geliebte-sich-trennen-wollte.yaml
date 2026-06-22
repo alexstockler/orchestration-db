@@ -1,0 +1,18 @@
+id: beethoven-song-als-die-geliebte-sich-trennen-wollte
+work:
+  composer: Beethoven, Ludwig van
+  title: Song, Als die Geliebte sich trennen wollte
+  ids:
+    imslp: Als die Geliebte sich trennen wollte, WoO 132 (Beethoven, Ludwig van)
+  year: 1806
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Als_die_Geliebte_sich_trennen_wollte%2C_WoO_132_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 3

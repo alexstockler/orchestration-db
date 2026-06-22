@@ -1,0 +1,17 @@
+id: beethoven-10-national-folksongs-with-variations
+work:
+  composer: Beethoven, Ludwig van
+  title: 10 National Folksongs with Variations
+  ids:
+    imslp: 10 National Airs with Variations, Op.107 (Beethoven, Ludwig van)
+  year: 1818
+formula: 1000 0000 pf
+instrumentation:
+  flute: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/10_National_Airs_with_Variations%2C_Op.107_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: flute (or violin), piano'

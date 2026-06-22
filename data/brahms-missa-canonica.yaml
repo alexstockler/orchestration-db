@@ -1,0 +1,17 @@
+id: brahms-missa-canonica
+work:
+  composer: Brahms, Johannes
+  title: Missa canonica
+  ids:
+    imslp: Missa canonica, WoO 18 (Brahms, Johannes)
+  year: 1856
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Missa_canonica%2C_WoO_18_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus, organ'

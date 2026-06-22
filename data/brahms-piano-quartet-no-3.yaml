@@ -1,0 +1,18 @@
+id: brahms-piano-quartet-no-3
+work:
+  composer: Brahms, Johannes
+  title: Piano Quartet No.3
+  ids:
+    imslp: Piano Quartet No.3, Op.60 (Brahms, Johannes)
+  year: 1855
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quartet_No.3%2C_Op.60_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola, cello, piano'
+duration_minutes: 34

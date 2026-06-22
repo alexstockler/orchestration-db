@@ -1,0 +1,17 @@
+id: tchaikovsky-potpourri-on-themes-from-the-voyevoda
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Potpourri on Themes from "The Voyevoda"
+  ids:
+    imslp: Potpourri on Themes from 'The Voyevoda', TH 128 (Tchaikovsky, Pyotr)
+  year: 1868
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Potpourri_on_Themes_from_%27The_Voyevoda%27%2C_TH_128_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 14

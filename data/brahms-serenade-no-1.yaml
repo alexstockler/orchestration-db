@@ -1,0 +1,29 @@
+id: brahms-serenade-no-1
+work:
+  composer: Brahms, Johannes
+  title: Serenade No.1
+  ids:
+    imslp: Serenade No.1, Op.11 (Brahms, Johannes)
+  year: 1857
+formula: 1243 5200 tmp str
+instrumentation:
+  flute: 1
+  oboe: 2
+  clarinet: 4
+  bassoon: 3
+  horn: 5
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - bass
+  additional_raw: 'violin | viola | cello | Orchestra: 2 flutes'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Serenade_No.1%2C_Op.11_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: Nonet (lost): flute, 2 clarinets, bassoon, horn, violin,
+    viola, cello, bass, Orchestra: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns,
+    2 trumpets, timpani, strings'
+duration_minutes: 45

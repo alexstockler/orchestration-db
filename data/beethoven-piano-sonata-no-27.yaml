@@ -1,0 +1,16 @@
+id: beethoven-piano-sonata-no-27
+work:
+  composer: Beethoven, Ludwig van
+  title: Piano Sonata No.27
+  ids:
+    imslp: Piano Sonata No.27, Op.90 (Beethoven, Ludwig van)
+  year: 1814
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.27%2C_Op.90_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

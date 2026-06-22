@@ -1,0 +1,16 @@
+id: beethoven-string-quartet-no-10
+work:
+  composer: Beethoven, Ludwig van
+  title: String Quartet No.10
+  ids:
+    imslp: String Quartet No.10, Op.74 (Beethoven, Ludwig van)
+  year: 1809
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.10%2C_Op.74_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 30
