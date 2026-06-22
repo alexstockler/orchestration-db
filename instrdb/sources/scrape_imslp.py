@@ -74,21 +74,33 @@ def _fetch_api(params: dict) -> dict:
 # IMSLP page parsing
 # ---------------------------------------------------------------------------
 
-def _get_page_wikitext(title: str) -> str | None:
-    """Return the raw wikitext for an IMSLP page, or None if not found."""
+def _get_page_wikitext(title: str, _depth: int = 0) -> str | None:
+    """Return the raw wikitext for an IMSLP page, or None if not found.
+
+    Follows up to two levels of #REDIRECT automatically.
+    """
+    if _depth > 2:
+        return None
     data = _fetch_api({
         "action": "query",
         "titles": title,
         "prop": "revisions",
         "rvprop": "content",
-        "rvslots": "main",
+        "redirects": "1",
     })
     pages = data.get("query", {}).get("pages", {})
     for page in pages.values():
         if "missing" in page:
             return None
-        slots = page.get("revisions", [{}])[0].get("slots", {})
-        return slots.get("main", {}).get("*", "")
+        revs = page.get("revisions", [{}])
+        content = revs[0].get("*", "") if revs else ""
+        if not content:
+            return None
+        # Manual redirect fallback (some IMSLP pages use #REDIRECT not the API redirect)
+        redir = re.match(r"#REDIRECT\s*\[\[([^\]]+)\]\]", content, re.I)
+        if redir:
+            return _get_page_wikitext(redir.group(1).strip(), _depth + 1)
+        return content
     return None
 
 
@@ -105,6 +117,7 @@ def _extract_infobox_field(wikitext: str, field: str) -> str:
     # Strip wiki markup: [[links]], {{templates}}, <tags>
     raw = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]*)\]\]", r"\1", raw)
     raw = re.sub(r"\{\{[^}]*\}\}", "", raw)
+    raw = re.sub(r"<br\s*/?>", ", ", raw, flags=re.I)  # <br> as separator
     raw = re.sub(r"<[^>]+>", "", raw)
     raw = re.sub(r"'''?", "", raw)
     return " ".join(raw.split())
@@ -118,7 +131,11 @@ def _extract_work_fields(wikitext: str) -> dict:
         "opus": _extract_infobox_field(wikitext, "Opus/Catalogue Number/Key"),
         "key": _extract_infobox_field(wikitext, "Key"),
         "year": _extract_infobox_field(wikitext, "Year/Date of Composition"),
-        "instrumentation": _extract_infobox_field(wikitext, "Instrumentation"),
+        # InstrDetail has the prose description; Instrumentation is just a category tag
+        "instrumentation": (
+            _extract_infobox_field(wikitext, "InstrDetail")
+            or _extract_infobox_field(wikitext, "Instrumentation")
+        ),
         "movements": _extract_infobox_field(wikitext, "Movements/Sections"),
         "duration": _extract_infobox_field(wikitext, "Average Duration"),
         "imslp_id": _extract_infobox_field(wikitext, "IMSLP Page Name"),
