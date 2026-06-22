@@ -150,7 +150,8 @@ class _ParseState:
                 p.doublings.append(key)
 
     def process_token(self, raw_token: str):
-        token = _normalise(raw_token)
+        # Strip leading colons from IMSLP wiki-list formatting artefacts
+        token = _normalise(re.sub(r"^:+", "", raw_token))
         if not token:
             return
 
@@ -287,6 +288,39 @@ def _split_tokens(text: str) -> list[str]:
     return [t.strip() for t in tokens if t.strip()]
 
 
+def _strip_shorthand_prefix(text: str) -> str:
+    """Remove a leading Daniels-style shorthand summary if present.
+
+    Some IMSLP InstrDetail fields open with a compact line like:
+      "2, 2, 2, 2+1 - 4, 2, 3, 0, timp, strs :2 flutes, 2 oboes, ..."
+    A colon (or double-colon) separates that from the prose we want.
+    """
+    m = re.match(r"^[0-9,+\-\s\(\)a-z]*:+\s*(.+)", text, re.I | re.S)
+    if m:
+        prose = m.group(1).strip()
+        # Accept if prose looks like "N instrument" or just "instrument"
+        if re.match(r"(\d+\s+)?[a-zA-Z]", prose):
+            return prose
+    return text
+
+
+def _expand_plus_notation(text: str) -> str:
+    """Expand 'N+M family' shorthand into explicit comma-separated tokens.
+
+    e.g. '2+1 bassoons' -> '2 bassoons, contrabassoon'
+         '4+1 horns'    -> '4 horns'  (extra horn chair; no canonical aux)
+    """
+    def _replace(m):
+        n, extra, family = int(m.group(1)), int(m.group(2)), m.group(3).strip().lower()
+        if "bassoon" in family:
+            aux = ", contrabassoon" * extra
+            return f"{n} bassoons{aux}"
+        # For other families just sum the counts
+        return f"{n + extra} {family}"
+    return re.sub(r"(\d+)\+(\d+)\s+(bassoons?|horns?|flutes?|oboes?|clarinets?|trumpets?|trombones?)",
+                  _replace, text, flags=re.I)
+
+
 def parse_imslp_scoring(text: str) -> dict:
     """Parse an IMSLP instrumentation string.
 
@@ -294,6 +328,10 @@ def parse_imslp_scoring(text: str) -> dict:
              unrecognised: list[str]}.
     """
     raw = " ".join(text.split())
+    raw = _strip_shorthand_prefix(raw)
+    raw = _expand_plus_notation(raw)
+    # Strip stray leading colons left over from IMSLP wiki-list formatting
+    raw = re.sub(r"^:+\s*", "", raw)
     state = _ParseState()
 
     # Check for a voice/soloist preamble before the orchestral listing.
@@ -303,11 +341,7 @@ def parse_imslp_scoring(text: str) -> dict:
         raw, re.I
     )
     if solo_pre:
-        # Treat everything in the "for X" preamble as soloists
         for tok in _split_tokens(solo_pre.group(1)):
-            tok_norm = _normalise(tok)
-            key = _lookup(tok_norm)
-            # Instruments in a "for X and orchestra" header are soloists
             state.inst.soloists.append(tok.strip())
         raw = raw[solo_pre.end():].lstrip(":,; ")
 
