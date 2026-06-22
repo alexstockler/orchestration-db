@@ -1,0 +1,32 @@
+id: beethoven-12-songs-of-various-nationalities
+work:
+  composer: Beethoven, Ludwig van
+  title: 12 Songs of Various Nationalities
+  ids:
+    imslp: 12 Songs of Various Nationalities, WoO 157 (Beethoven, Ludwig van)
+  year: 1815
+formula: pf pf pf pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  - instrument: piano
+  - instrument: piano
+  - instrument: piano
+  soloists:
+  - sopranos
+  - bass
+  - soprano
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+  additional_raw: voice | violin | cello | voice | violin | cello | violin | cello
+    | violin | cello | 2 voices | violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Songs_of_Various_Nationalities%2C_WoO_157_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, mixed chorus (STB), violin, cello, piano (Nos.1,
+    9, 11), voice, violin, cello, piano (Nos.2, 8, 10, 12), 2 sopranos, bass, violin,
+    cello, piano (Nos.3, 4), soprano, tenor, bass, violin, cello, piano (Nos.5, 7),
+    2 voices, violin, cello, piano (No.6)'

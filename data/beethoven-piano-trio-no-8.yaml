@@ -1,0 +1,18 @@
+id: beethoven-piano-trio-no-8
+work:
+  composer: Beethoven, Ludwig van
+  title: Piano Trio No.8
+  ids:
+    imslp: Trio in E-flat major, Op.38 (Beethoven, Ludwig van)
+  year: 1803
+formula: 0010 0000 pf
+instrumentation:
+  clarinet: 1
+  keyboards:
+  - instrument: piano
+  additional_raw: cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_in_E-flat_major%2C_Op.38_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet (or violin), cello, piano'

@@ -1,0 +1,17 @@
+id: beethoven-12-variations-on-se-vuol-ballare
+work:
+  composer: Beethoven, Ludwig van
+  title: 12 Variations on 'Se vuol ballare'
+  ids:
+    imslp: 12 Variations on 'Se vuol ballare', WoO 40 (Beethoven, Ludwig van)
+  year: 1792
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Variations_on_%27Se_vuol_ballare%27%2C_WoO_40_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

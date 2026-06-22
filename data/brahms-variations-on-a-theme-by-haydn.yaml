@@ -1,0 +1,33 @@
+id: brahms-variations-on-a-theme-by-haydn
+work:
+  composer: Brahms, Johannes
+  title: Variations on a Theme by Haydn
+  ids:
+    imslp: Variations on a Theme by Haydn, Op.56 (Brahms, Johannes)
+  year: 1873
+formula: 3[pic.2.3] 2 2 3[1.2.cbn] 4200 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variations_on_a_Theme_by_Haydn%2C_Op.56_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: :piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, contrabassoon,
+    4 horns, 2 trumpets, timpani, triangle, strings'
+duration_minutes: 18

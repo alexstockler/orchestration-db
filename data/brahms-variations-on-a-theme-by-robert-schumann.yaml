@@ -1,0 +1,17 @@
+id: brahms-variations-on-a-theme-by-robert-schumann
+work:
+  composer: Brahms, Johannes
+  title: Variations on a Theme by Robert Schumann
+  ids:
+    imslp: Variations on a Theme by Robert Schumann, Op.9 (Brahms, Johannes)
+  year: 1854
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variations_on_a_Theme_by_Robert_Schumann%2C_Op.9_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 18

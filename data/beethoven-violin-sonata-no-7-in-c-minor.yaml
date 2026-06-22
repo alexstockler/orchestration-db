@@ -1,0 +1,18 @@
+id: beethoven-violin-sonata-no-7-in-c-minor
+work:
+  composer: Beethoven, Ludwig van
+  title: Violin Sonata No.7 in C minor
+  ids:
+    imslp: Violin Sonata No.7, Op.30 No.2 (Beethoven, Ludwig van)
+  year: 1801
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_No.7%2C_Op.30_No.2_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 26

@@ -1,0 +1,15 @@
+id: beethoven-string-quintet-in-c-major
+work:
+  composer: Beethoven, Ludwig van
+  title: String Quintet in C major
+  ids:
+    imslp: String Quintet in C major, WoO 62 (Beethoven, Ludwig van)
+  year: 1826
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | 2 violas | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quintet_in_C_major%2C_WoO_62_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, 2 violas, cello'

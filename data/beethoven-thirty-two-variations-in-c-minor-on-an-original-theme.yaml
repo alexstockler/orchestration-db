@@ -1,0 +1,17 @@
+id: beethoven-thirty-two-variations-in-c-minor-on-an-original-theme
+work:
+  composer: Beethoven, Ludwig van
+  title: Thirty-two variations in C minor on an original theme
+  ids:
+    imslp: 32 Variations in C minor, WoO 80 (Beethoven, Ludwig van)
+  year: 1806
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/32_Variations_in_C_minor%2C_WoO_80_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 11

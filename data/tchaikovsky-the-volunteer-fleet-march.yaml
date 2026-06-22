@@ -1,0 +1,17 @@
+id: tchaikovsky-the-volunteer-fleet-march
+work:
+  composer: Tchaikovsky, Pyotr
+  title: The Volunteer Fleet March
+  ids:
+    imslp: The Volunteer Fleet March, TH 140 (Tchaikovsky, Pyotr)
+  year: 1878
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Volunteer_Fleet_March%2C_TH_140_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 4

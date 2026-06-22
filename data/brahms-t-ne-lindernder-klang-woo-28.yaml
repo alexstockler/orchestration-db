@@ -1,0 +1,15 @@
+id: brahms-t-ne-lindernder-klang-woo-28
+work:
+  composer: Brahms, Johannes
+  title: Töne, lindernder Klang, WoO 28
+  ids:
+    imslp: Töne, lindernder Klang, WoO 28 (Brahms, Johannes)
+  year: 1872
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/T%C3%B6ne%2C_lindernder_Klang%2C_WoO_28_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

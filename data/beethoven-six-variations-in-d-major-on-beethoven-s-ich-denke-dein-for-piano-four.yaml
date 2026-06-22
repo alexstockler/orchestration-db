@@ -1,0 +1,16 @@
+id: beethoven-six-variations-in-d-major-on-beethoven-s-ich-denke-dein-for-piano-four
+work:
+  composer: Beethoven, Ludwig van
+  title: Six Variations in D Major on Beethoven's 'Ich denke dein' for Piano, Four
+    Hands
+  ids:
+    imslp: 6 Variations on 'Ich denke dein', WoO 74 (Beethoven, Ludwig van)
+  year: 1803
+formula: ''
+instrumentation:
+  additional_raw: piano 4-hands
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Variations_on_%27Ich_denke_dein%27%2C_WoO_74_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'

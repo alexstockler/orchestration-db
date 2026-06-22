@@ -1,0 +1,15 @@
+id: beethoven-funeral-march-no-1
+work:
+  composer: Beethoven, Ludwig van
+  title: Funeral March No.1
+  ids:
+    imslp: Trauermarsch, Anh.13 (Beethoven, Ludwig van)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trauermarsch%2C_Anh.13_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

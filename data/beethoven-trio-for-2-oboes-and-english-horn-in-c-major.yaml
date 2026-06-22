@@ -1,0 +1,18 @@
+id: beethoven-trio-for-2-oboes-and-english-horn-in-c-major
+work:
+  composer: Beethoven, Ludwig van
+  title: Trio for 2 Oboes and English Horn in C major
+  ids:
+    imslp: Trio in C major, Op.87 (Beethoven, Ludwig van)
+  year: 1795
+formula: 0 3[1.2.Eh] 0 0 0000
+instrumentation:
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_in_C_major%2C_Op.87_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, English horn'

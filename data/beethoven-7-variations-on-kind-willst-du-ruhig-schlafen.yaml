@@ -1,0 +1,17 @@
+id: beethoven-7-variations-on-kind-willst-du-ruhig-schlafen
+work:
+  composer: Beethoven, Ludwig van
+  title: 7 Variations on 'Kind, willst du ruhig schlafen'
+  ids:
+    imslp: 7 Variations on 'Kind, willst du ruhig schlafen', WoO 75 (Beethoven, Ludwig
+      van)
+  year: 1799
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Variations_on_%27Kind%2C_willst_du_ruhig_schlafen%27%2C_WoO_75_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

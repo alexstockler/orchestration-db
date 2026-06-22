@@ -1,0 +1,16 @@
+id: beethoven-13-variations-on-es-war-einmal-ein-alter-mann
+work:
+  composer: Beethoven, Ludwig van
+  title: 13 Variations on 'Es war einmal ein alter Mann'
+  ids:
+    imslp: 13 Variations on 'Es war einmal ein alter Mann', WoO 66 (Beethoven, Ludwig
+      van)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/13_Variations_on_%27Es_war_einmal_ein_alter_Mann%27%2C_WoO_66_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

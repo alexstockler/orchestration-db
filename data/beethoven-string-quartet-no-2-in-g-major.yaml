@@ -1,0 +1,15 @@
+id: beethoven-string-quartet-no-2-in-g-major
+work:
+  composer: Beethoven, Ludwig van
+  title: String Quartet No.2 in G major
+  ids:
+    imslp: String Quartet No.2, Op.18 No.2 (Beethoven, Ludwig van)
+  year: 1799
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.2%2C_Op.18_No.2_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

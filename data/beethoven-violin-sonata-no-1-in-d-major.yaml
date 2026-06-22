@@ -1,0 +1,18 @@
+id: beethoven-violin-sonata-no-1-in-d-major
+work:
+  composer: Beethoven, Ludwig van
+  title: Violin Sonata No.1 in D major
+  ids:
+    imslp: Violin Sonata No.1, Op.12 No.1 (Beethoven, Ludwig van)
+  year: 1797
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_No.1%2C_Op.12_No.1_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 20

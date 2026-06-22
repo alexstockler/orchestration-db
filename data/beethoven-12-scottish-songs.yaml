@@ -1,0 +1,23 @@
+id: beethoven-12-scottish-songs
+work:
+  composer: Beethoven, Ludwig van
+  title: 12 Scottish Songs
+  ids:
+    imslp: 12 Scottish Songs, WoO 156 (Beethoven, Ludwig van)
+  year: 1817
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  soloists:
+  - soprano
+  - tenor
+  - bass
+  additional_raw: violin | cello | voice | violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Scottish_Songs%2C_WoO_156_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, bass, violin, cello, piano (Nos.1-4, 8-12),
+    voice, violin, cello, piano (Nos.5-7)'

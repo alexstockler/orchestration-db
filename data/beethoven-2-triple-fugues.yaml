@@ -1,0 +1,15 @@
+id: beethoven-2-triple-fugues
+work:
+  composer: Beethoven, Ludwig van
+  title: 2 Triple Fugues
+  ids:
+    imslp: 2 Triple Fugues for 4 Voices, Hess 244 (Beethoven, Ludwig van)
+  year: 1832
+formula: ''
+instrumentation:
+  additional_raw: 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Triple_Fugues_for_4_Voices%2C_Hess_244_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices'

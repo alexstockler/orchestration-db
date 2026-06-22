@@ -1,0 +1,19 @@
+id: beethoven-wind-octet-in-e-flat-major
+work:
+  composer: Beethoven, Ludwig van
+  title: Wind Octet in E-flat major
+  ids:
+    imslp: Wind Octet in E-flat major, Op.103 (Beethoven, Ludwig van)
+  year: 1792
+formula: 0222 2000
+instrumentation:
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Wind_Octet_in_E-flat_major%2C_Op.103_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 clarinets, 2 bassoons, 2 horns'
+duration_minutes: 25

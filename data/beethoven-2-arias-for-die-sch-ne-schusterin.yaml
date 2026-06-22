@@ -1,0 +1,23 @@
+id: beethoven-2-arias-for-die-sch-ne-schusterin
+work:
+  composer: Beethoven, Ludwig van
+  title: 2 Arias for Die schöne Schusterin
+  ids:
+    imslp: Die schöne Schusterin, WoO 91 (Beethoven, Ludwig van)
+  year: 1795
+formula: 1202 2000 str
+instrumentation:
+  flute: 1
+  oboe: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+  soloists:
+  - soprano
+  - tenor
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_sch%C3%B6ne_Schusterin%2C_WoO_91_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, flute, 2 oboes, 2 bassoons, 2 horns, strings'
+duration_minutes: 8

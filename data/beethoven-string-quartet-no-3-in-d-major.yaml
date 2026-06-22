@@ -1,0 +1,15 @@
+id: beethoven-string-quartet-no-3-in-d-major
+work:
+  composer: Beethoven, Ludwig van
+  title: String Quartet No.3 in D major
+  ids:
+    imslp: String Quartet No.3, Op.18 No.3 (Beethoven, Ludwig van)
+  year: 1798
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.3%2C_Op.18_No.3_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

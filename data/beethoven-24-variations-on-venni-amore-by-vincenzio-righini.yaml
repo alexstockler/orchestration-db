@@ -1,0 +1,15 @@
+id: beethoven-24-variations-on-venni-amore-by-vincenzio-righini
+work:
+  composer: Beethoven, Ludwig van
+  title: 24 Variations on 'Venni Amore' by Vincenzio Righini
+  ids:
+    imslp: 24 Variations on 'Venni Amore', WoO 65 (Beethoven, Ludwig van)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/24_Variations_on_%27Venni_Amore%27%2C_WoO_65_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

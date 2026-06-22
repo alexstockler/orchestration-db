@@ -1,0 +1,17 @@
+id: beethoven-twenty-five-scottish-songs
+work:
+  composer: Beethoven, Ludwig van
+  title: Twenty-Five Scottish Songs
+  ids:
+    imslp: 25 Scottish Songs, Op.108 (Beethoven, Ludwig van)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice(s) | violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/25_Scottish_Songs%2C_Op.108_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: voice(s), violin, cello, piano'

@@ -1,0 +1,15 @@
+id: beethoven-symphony-in-c-minor
+work:
+  composer: Beethoven, Ludwig van
+  title: Symphony in C minor
+  ids:
+    imslp: Symphony in C minor, Hess 298 (Beethoven, Ludwig van)
+  year: 1791
+formula: ''
+instrumentation:
+  additional_raw: orchestra (?)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_in_C_minor%2C_Hess_298_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra (?)'

@@ -1,0 +1,18 @@
+id: beethoven-septet
+work:
+  composer: Beethoven, Ludwig van
+  title: Septet
+  ids:
+    imslp: Septet in E-flat major, Op.20 (Beethoven, Ludwig van)
+  year: 1799
+formula: 0011 1000
+instrumentation:
+  clarinet: 1
+  bassoon: 1
+  horn: 1
+  additional_raw: violin | viola | cello | double bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Septet_in_E-flat_major%2C_Op.20_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, bassoon, horn, violin, viola, cello, double bass'

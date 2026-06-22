@@ -1,0 +1,17 @@
+id: beethoven-26-welsh-songs-woo-155
+work:
+  composer: Beethoven, Ludwig van
+  title: 26 Welsh Songs, WoO 155
+  ids:
+    imslp: 26 Welsh Songs, WoO 155 (Beethoven, Ludwig van)
+  year: 1810
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 1-2 voice(s) | violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/26_Welsh_Songs%2C_WoO_155_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 1-2 voice(s), violin, cello, piano (or harp)'

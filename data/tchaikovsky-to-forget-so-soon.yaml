@@ -1,0 +1,18 @@
+id: tchaikovsky-to-forget-so-soon
+work:
+  composer: Tchaikovsky, Pyotr
+  title: To Forget So Soon
+  ids:
+    imslp: To Forget So Soon, TH 94 (Tchaikovsky, Pyotr)
+  year: 1870
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/To_Forget_So_Soon%2C_TH_94_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 3

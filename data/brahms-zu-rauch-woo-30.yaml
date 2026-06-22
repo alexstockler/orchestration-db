@@ -1,0 +1,15 @@
+id: brahms-zu-rauch-woo-30
+work:
+  composer: Brahms, Johannes
+  title: Zu Rauch, WoO 30
+  ids:
+    imslp: Zu Rauch, WoO 30 (Brahms, Johannes)
+  year: 1927
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Zu_Rauch%2C_WoO_30_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

@@ -1,0 +1,17 @@
+id: brahms-variations-on-an-original-theme
+work:
+  composer: Brahms, Johannes
+  title: Variations on an Original Theme
+  ids:
+    imslp: Variations on an Original Theme, Op.21 No.1 (Brahms, Johannes)
+  year: 1857
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variations_on_an_Original_Theme%2C_Op.21_No.1_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 17

@@ -1,0 +1,15 @@
+id: beethoven-schwenke
+work:
+  composer: Beethoven, Ludwig van
+  title: Schwenke
+  ids:
+    imslp: Schwenke, WoO 187 (Beethoven, Ludwig van)
+  year: 1824
+formula: ''
+instrumentation:
+  additional_raw: 4 Voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Schwenke%2C_WoO_187_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 Voices'

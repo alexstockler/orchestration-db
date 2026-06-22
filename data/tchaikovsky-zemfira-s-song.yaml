@@ -1,0 +1,17 @@
+id: tchaikovsky-zemfira-s-song
+work:
+  composer: Tchaikovsky, Pyotr
+  title: Zemfira's Song
+  ids:
+    imslp: Zemfira's Song, TH 90 (Tchaikovsky, Pyotr)
+  year: 1860
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Zemfira%27s_Song%2C_TH_90_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

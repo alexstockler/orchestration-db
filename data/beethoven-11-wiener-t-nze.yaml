@@ -1,0 +1,18 @@
+id: beethoven-11-wiener-t-nze
+work:
+  composer: Beethoven, Ludwig van
+  title: 11 Wiener Tänze
+  ids:
+    imslp: 11 Wiener Tänze (Beethoven, Ludwig van)
+  year: 1819
+formula: 2020 2000 str
+instrumentation:
+  flute: 2
+  clarinet: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/11_Wiener_T%C3%A4nze_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: 2 flutes, 2 clarinets, 2 horns, strings'

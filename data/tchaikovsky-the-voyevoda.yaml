@@ -1,0 +1,21 @@
+id: tchaikovsky-the-voyevoda
+work:
+  composer: Tchaikovsky, Pyotr
+  title: The Voyevoda
+  ids:
+    imslp: The Voyevoda (melodrama), TH 22 (Tchaikovsky, Pyotr)
+  year: 1886
+formula: 2111 0000 hp str
+instrumentation:
+  flute: 2
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Voyevoda_%28melodrama%29%2C_TH_22_%28Tchaikovsky%2C_Pyotr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, oboe, clarinet, bassoon, harp, strings'
+duration_minutes: 6

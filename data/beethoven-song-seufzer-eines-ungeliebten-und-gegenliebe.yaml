@@ -1,0 +1,17 @@
+id: beethoven-song-seufzer-eines-ungeliebten-und-gegenliebe
+work:
+  composer: Beethoven, Ludwig van
+  title: Song, Seufzer eines Ungeliebten und Gegenliebe
+  ids:
+    imslp: Seufzer eines Ungeliebten und Gegenliebe, WoO 118 (Beethoven, Ludwig van)
+  year: 1794
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Seufzer_eines_Ungeliebten_und_Gegenliebe%2C_WoO_118_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,22 @@
+id: brahms-zigeunerlieder
+work:
+  composer: Brahms, Johannes
+  title: Zigeunerlieder
+  ids:
+    imslp: Zigeunerlieder, Op.103 (Brahms, Johannes)
+  year: 1887
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Zigeunerlieder%2C_Op.103_%28Brahms%2C_Johannes%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, piano'
+duration_minutes: 19

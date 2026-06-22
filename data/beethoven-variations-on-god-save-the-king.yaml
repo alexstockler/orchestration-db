@@ -1,0 +1,15 @@
+id: beethoven-variations-on-god-save-the-king
+work:
+  composer: Beethoven, Ludwig van
+  title: Variations on 'God Save the King'
+  ids:
+    imslp: 7 Variations on 'God Save the King', WoO 78 (Beethoven, Ludwig van)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Variations_on_%27God_Save_the_King%27%2C_WoO_78_%28Beethoven%2C_Ludwig_van%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
