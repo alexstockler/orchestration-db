@@ -53,6 +53,7 @@ app.add_middleware(
 
 # Unauthenticated — used by Railway's healthcheck
 @app.get("/health", include_in_schema=False)
+@app.get("/-/health", include_in_schema=False)
 def health():
     return {"status": "ok"}
 
