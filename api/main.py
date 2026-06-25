@@ -42,7 +42,6 @@ app = FastAPI(
     title="Orchestration DB",
     description="Queryable database of orchestral instrumentation for the classical repertoire.",
     version="0.1.0",
-    dependencies=[Depends(_require_key)],
 )
 
 app.add_middleware(
@@ -52,22 +51,14 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-
-# ---------------------------------------------------------------------------
-# Health (unauthenticated — used by Railway healthcheck)
-# ---------------------------------------------------------------------------
-
-from fastapi.routing import APIRouter
-
-_health_router = APIRouter()
-
-
-@_health_router.get("/health", summary="Healthcheck endpoint (no auth)")
+# Unauthenticated — used by Railway's healthcheck
+@app.get("/health", include_in_schema=False)
 def health():
     return {"status": "ok"}
 
-
-app.include_router(_health_router)
+# All data routes go on this router — auth is enforced here
+from fastapi import APIRouter
+router = APIRouter(dependencies=[Depends(_require_key)])
 
 
 def _db() -> sqlite3.Connection:
@@ -83,7 +74,7 @@ def _db() -> sqlite3.Connection:
 # /composers
 # ---------------------------------------------------------------------------
 
-@app.get("/composers", summary="List all composers with work counts")
+@router.get("/composers", summary="List all composers with work counts")
 def list_composers():
     conn = _db()
     rows = conn.execute("""
@@ -100,7 +91,7 @@ def list_composers():
 # /instruments
 # ---------------------------------------------------------------------------
 
-@app.get("/instruments", summary="List all instruments with how many works require them")
+@router.get("/instruments", summary="List all instruments with how many works require them")
 def list_instruments():
     conn = _db()
     rows = conn.execute("""
@@ -118,7 +109,7 @@ def list_instruments():
 # /works
 # ---------------------------------------------------------------------------
 
-@app.get("/works", summary="Search and filter works")
+@router.get("/works", summary="Search and filter works")
 def list_works(
     composer: Optional[str] = Query(None, description="Exact composer name, e.g. 'Brahms, Johannes'"),
     instrument: Optional[str] = Query(None, description="Instrument key, e.g. 'horn', 'contrabassoon'"),
@@ -205,7 +196,7 @@ def list_works(
 # /works/{slug}
 # ---------------------------------------------------------------------------
 
-@app.get("/works/{slug}", summary="Full detail for a single work")
+@router.get("/works/{slug}", summary="Full detail for a single work")
 def get_work(slug: str):
     conn = _db()
 
@@ -250,7 +241,7 @@ def get_work(slug: str):
 # /instruments/{name}/works
 # ---------------------------------------------------------------------------
 
-@app.get("/instruments/{name}/works",
+@router.get("/instruments/{name}/works",
          summary="All works that require a given instrument")
 def works_by_instrument(
     name: str,
@@ -291,3 +282,6 @@ def works_by_instrument(
         "limit": limit,
         "results": [dict(r) for r in rows],
     }
+
+
+app.include_router(router)
