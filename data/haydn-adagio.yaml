@@ -1,0 +1,16 @@
+id: haydn-adagio
+work:
+  composer: Haydn, Joseph
+  title: Adagio
+  ids:
+    imslp: Adagio in F major, Hob.XVII:9 (Haydn, Joseph)
+  year: 1786
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adagio_in_F_major%2C_Hob.XVII%3A9_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'
+duration_minutes: 4

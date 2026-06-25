@@ -1,0 +1,75 @@
+id: prokofiev-the-love-for-three-oranges
+work:
+  composer: Prokofiev, Sergey
+  title: The Love for Three Oranges
+  ids:
+    imslp: The Love for Three Oranges (opera), Op.33 (Prokofiev, Sergey)
+  year: 1919
+formula: 3[pic.2.3] 3[1.2.Eh] 3 3[1.2.3/cbn] 6651 tmp 3hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 3
+  bassoon:
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  horn: 6
+  trumpet: 6
+  trombone: 5
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - triangle
+    - military drum
+    - tam-tam
+    - chimes
+    - xylophone
+    - side drum
+  harp: 3
+  strings: str
+  soloists:
+  - Farfarello (baritone)
+  - Truffaldino (tenor)
+  - Prince (tenor)
+  - Ninette (soprano)
+  - Nicolette (soprano)
+  - Fata Morgana (soprano)
+  - Sméraldine (mezzo-soprano)
+  - Princess Clarisse (mezzo-soprano)
+  - Linette (mezzo-soprano)
+  - Cuisinière (bass)
+  - Léandre (bass-baritone)
+  - Tchélio (bass)
+  - Roi de Trèfle (bass)
+  - Héraut (bass)
+  - Pantelon (baritone)
+  - Master of Ceremonies (baritone) Mixed Chorus (SATB)
+  additional_raw: 'unknown doubling in clarinet: e-flat clarinet-flat clarinet | (3rd
+    also bass clarinet) | '' | On-stage bass trombone (played by Le Trompette in Act
+    I)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Love_for_Three_Oranges_%28opera%29%2C_Op.33_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Farfarello (baritone), Truffaldino (tenor), Prince
+    (tenor), Ninette (soprano), Nicolette (soprano), Fata Morgana (soprano), Sméraldine
+    (mezzo-soprano), Princess Clarisse (mezzo-soprano), Linette (mezzo-soprano), Cuisinière
+    (bass), Léandre (bass-baritone), Tchélio (bass), Roi de Trèfle (bass), Héraut
+    (bass), Pantelon (baritone), Master of Ceremonies (baritone) Mixed Chorus (SATB),
+    Orchestra :piccolo, 2 flutes, 2 oboes, English horn, 3 clarinets (2nd also clarinet
+    (E)) ::(3rd also bass clarinet), 3 bassoons (3rd also contrabassoon) :6 horns,
+    3 trumpets, 3 trombones, tuba, timpani, bass drum, cymbals, triangle, military
+    drum, tam-tam,, chimes, xylophone, 2 harps, strings, '' :3 trumpets, 2 trombones,
+    cymbals, side drum, triangle, harp, On-stage bass trombone (played by Le Trompette
+    in Act I)'

@@ -1,0 +1,38 @@
+id: prokofiev-hamlet-incidental-music-for-small-orchestra
+work:
+  composer: Prokofiev, Sergey
+  title: Hamlet. Incidental music for small orchestra
+  ids:
+    imslp: Hamlet, Op.77 (Prokofiev, Sergey)
+  year: 1937
+formula: 1111 2110 pf acc str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 2
+  trumpet: 1
+  trombone: 1
+  percussion:
+    instruments:
+    - triangle
+    - tambourine
+    - snare drum
+    - cymbals
+    - bass drum
+  keyboards:
+  - instrument: piano
+  extras:
+  - instrument: accordion
+  strings: str
+  soloists:
+  - Solo Voices ::soprano
+  - 'baritone :'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hamlet%2C_Op.77_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra :Solo Voices ::soprano, baritone :Orchestra
+    ::flute, oboe, clarinet, bassoon, 2 horns, trumpet, trombone, triangle, tambourine,
+    snare drum, cymbals, bass drum, accordion, piano, strings'

@@ -1,0 +1,17 @@
+id: haydn-the-minstrel
+work:
+  composer: Haydn, Joseph
+  title: The Minstrel
+  ids:
+    imslp: Donocht head, Hob.XXXIa:115 (Haydn, Joseph)
+  year: 1795
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: violin | keyboard (including figured bass)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Donocht_head%2C_Hob.XXXIa%3A115_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, violin, keyboard (including figured bass)'

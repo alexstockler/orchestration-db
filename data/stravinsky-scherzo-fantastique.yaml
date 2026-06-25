@@ -1,0 +1,48 @@
+id: stravinsky-scherzo-fantastique
+work:
+  composer: Stravinsky, Igor
+  title: Scherzo fantastique
+  ids:
+    imslp: Scherzo fantastique, K005 (Stravinsky, Igor)
+  year: 1907
+formula: 4[pic.2/afl.3/pic.4] 3[1.2.Eh] 4[1.2.3.bcl] 3[1.2.cbn] 4200 cel 3hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - doublings:
+    - alto_flute
+  - doublings:
+    - piccolo
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 2
+  percussion:
+    instruments:
+    - cymbals
+  keyboards:
+  - instrument: celesta
+  harp: 3
+  strings: str
+  additional_raw: 'unknown doubling in clarinet: d clarinet | contralto trumpet'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scherzo_fantastique%2C_K005_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 3 flutes (2nd also alto flute, 3rd also 2nd piccolo),
+    2 oboes, English horn, 3 clarinets (3rd also D clarinet), bass clarinet, 2 bassoons,
+    contrabassoon, 4 horns, 2 trumpets, contralto trumpet, cymbals, celesta, 3 harps,
+    strings'
+duration_minutes: 15

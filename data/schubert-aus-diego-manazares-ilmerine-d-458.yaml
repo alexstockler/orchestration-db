@@ -1,0 +1,18 @@
+id: schubert-aus-diego-manazares-ilmerine-d-458
+work:
+  composer: Schubert, Franz
+  title: Aus Diego Manazares. Ilmerine, D.458
+  ids:
+    imslp: Aus Diego Manazares, D.458 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aus_Diego_Manazares%2C_D.458_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

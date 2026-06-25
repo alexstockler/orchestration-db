@@ -1,0 +1,34 @@
+id: stravinsky-4-norwegian-moods
+work:
+  composer: Stravinsky, Igor
+  title: 4 Norwegian Moods
+  ids:
+    imslp: 4 Norwegian Moods, K065 (Stravinsky, Igor)
+  year: 1942
+formula: 2[1.2/pic] 2[1.2/Eh] 2 2 4221 tmp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 2
+  tuba: 1
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Norwegian_Moods%2C_K065_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes (2nd also English
+    horn), 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 2 trombones, tuba, timpani,
+    strings (2 solo violins, solo viola)'
+duration_minutes: 9

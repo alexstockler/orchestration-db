@@ -1,0 +1,16 @@
+id: prokofiev-ten-pieces-for-piano-from-the-ballet-romeo-and-juliet
+work:
+  composer: Prokofiev, Sergey
+  title: Ten Pieces for piano from the ballet 'Romeo and Juliet'
+  ids:
+    imslp: 10 Pieces from Romeo and Juliet, Op.75 (Prokofiev, Sergey)
+  year: 1937
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/10_Pieces_from_Romeo_and_Juliet%2C_Op.75_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

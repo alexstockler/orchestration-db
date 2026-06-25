@@ -1,0 +1,18 @@
+id: schubert-das-finden
+work:
+  composer: Schubert, Franz
+  title: Das Finden
+  ids:
+    imslp: Das Finden, D.219 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Finden%2C_D.219_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

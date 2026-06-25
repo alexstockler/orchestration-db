@@ -1,0 +1,15 @@
+id: schubert-flucht
+work:
+  composer: Schubert, Franz
+  title: Flucht
+  ids:
+    imslp: Flucht, D.825b (Schubert, Franz)
+  year: 1825
+formula: ''
+instrumentation:
+  additional_raw: Male chorus (TTBB) unaccompanied
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flucht%2C_D.825b_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Male chorus (TTBB) unaccompanied'

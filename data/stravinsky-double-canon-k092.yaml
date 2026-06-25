@@ -1,0 +1,15 @@
+id: stravinsky-double-canon-k092
+work:
+  composer: Stravinsky, Igor
+  title: Double Canon, K092
+  ids:
+    imslp: Double Canon, K092 (Stravinsky, Igor)
+  year: 1959
+formula: ''
+instrumentation:
+  additional_raw: string quartet
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Double_Canon%2C_K092_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: string quartet'

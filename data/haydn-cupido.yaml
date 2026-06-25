@@ -1,0 +1,17 @@
+id: haydn-cupido
+work:
+  composer: Haydn, Joseph
+  title: Cupido
+  ids:
+    imslp: Cupido, Hob.XXVIa:2 (Haydn, Joseph)
+  year: 1781
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cupido%2C_Hob.XXVIa%3A2_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, keyboard'

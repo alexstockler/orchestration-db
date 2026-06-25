@@ -1,0 +1,20 @@
+id: prokofiev-chout-suite-op-21bis
+work:
+  composer: Prokofiev, Sergey
+  title: Chout Suite, Op.21bis
+  ids:
+    imslp: Chout Suite, Op.21bis (Prokofiev, Sergey)
+  year: 1920
+formula: pf 2hp str
+instrumentation:
+  keyboards:
+  - instrument: piano
+  harp: 2
+  strings: str
+  additional_raw: 3-3-3-3 4-3-3-1 Percussion
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chout_Suite%2C_Op.21bis_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: 3-3-3-3 4-3-3-1 Percussion, 2 Harps, Piano, Strings'
+duration_minutes: 31

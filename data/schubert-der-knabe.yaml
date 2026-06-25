@@ -1,0 +1,18 @@
+id: schubert-der-knabe
+work:
+  composer: Schubert, Franz
+  title: Der Knabe
+  ids:
+    imslp: Der Knabe, D.692 (Schubert, Franz)
+  year: 1820
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Knabe%2C_D.692_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

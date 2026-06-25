@@ -1,0 +1,16 @@
+id: haydn-du-sollst-an-einen-gott-glauben
+work:
+  composer: Haydn, Joseph
+  title: Du sollst an einen Gott glauben
+  ids:
+    imslp: Du sollst an einen Gott glauben, Hob.XXVIIa:1 (Haydn, Joseph)
+  year: 1791
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Du_sollst_an_einen_Gott_glauben%2C_Hob.XXVIIa%3A1_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

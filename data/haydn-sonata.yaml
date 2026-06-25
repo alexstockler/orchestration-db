@@ -1,0 +1,15 @@
+id: haydn-sonata
+work:
+  composer: Haydn, Joseph
+  title: Sonata
+  ids:
+    imslp: Keyboard Sonata in B-flat major, Hob.XVI:17 (Haydn, Joseph)
+  year: 1768
+formula: ''
+instrumentation:
+  additional_raw: harpsichord or piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Keyboard_Sonata_in_B-flat_major%2C_Hob.XVI%3A17_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord or piano'

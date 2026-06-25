@@ -1,0 +1,15 @@
+id: schubert-4-gesange-fur-vier-mannerstimmen
+work:
+  composer: Schubert, Franz
+  title: 4 Gesänge für vier Männerstimmen
+  ids:
+    imslp: 4 Gesänge, D.983 (Schubert, Franz)
+  year: 1822
+formula: ''
+instrumentation:
+  additional_raw: Male chorus TTBB | unaccompanied
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Ges%C3%A4nge%2C_D.983_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Male chorus TTBB, unaccompanied'

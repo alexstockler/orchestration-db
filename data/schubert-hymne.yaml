@@ -1,0 +1,18 @@
+id: schubert-hymne
+work:
+  composer: Schubert, Franz
+  title: Hymne
+  ids:
+    imslp: Hymne, D.659 (Schubert, Franz)
+  year: 1819
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymne%2C_D.659_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

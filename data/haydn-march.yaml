@@ -1,0 +1,18 @@
+id: haydn-march
+work:
+  composer: Haydn, Joseph
+  title: March
+  ids:
+    imslp: March, Hob.VIII:6 (Haydn, Joseph)
+  year: 1783
+formula: 0022 2000
+instrumentation:
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/March%2C_Hob.VIII%3A6_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 clarinets, 2 bassoons, 2 horns'
+duration_minutes: 1

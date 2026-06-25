@@ -1,0 +1,18 @@
+id: haydn-sailor-s-song
+work:
+  composer: Haydn, Joseph
+  title: Sailor's Song
+  ids:
+    imslp: Sailor's Song, Hob.XXVIa:31 (Haydn, Joseph)
+  year: 1794
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sailor%27s_Song%2C_Hob.XXVIa%3A31_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

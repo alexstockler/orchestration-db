@@ -1,0 +1,22 @@
+id: ravel-3-poemes-de-stephane-mallarme
+work:
+  composer: Ravel, Maurice
+  title: 3 Poèmes de Stéphane Mallarmé
+  ids:
+    imslp: 3 Poèmes de Stéphane Mallarmé, M.64 (Ravel, Maurice)
+  year: 1913
+formula: 2020 0000 pf
+instrumentation:
+  flute: 2
+  clarinet: 2
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Po%C3%A8mes_de_St%C3%A9phane_Mallarm%C3%A9%2C_M.64_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, 2 flutes (one also piccolo), 2 clarinets (one also
+    bass clarinet), 2 violins, viola, cello, piano'

@@ -1,0 +1,18 @@
+id: schubert-frisch-atmet-des-morgens-lebendiger-hauch
+work:
+  composer: Schubert, Franz
+  title: Frisch atmet des Morgens lebendiger Hauch
+  ids:
+    imslp: Frisch atmet des Morgens lebendiger Hauch, D.67 (Schubert, Franz)
+  year: 1813
+formula: ''
+instrumentation:
+  soloists:
+  - tenors
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Frisch_atmet_des_Morgens_lebendiger_Hauch%2C_D.67_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 tenors, bass'
+duration_minutes: 2

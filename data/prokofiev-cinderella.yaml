@@ -1,0 +1,46 @@
+id: prokofiev-cinderella
+work:
+  composer: Prokofiev, Sergey
+  title: Cinderella
+  ids:
+    imslp: Cinderella, Op.87 (Prokofiev, Sergey)
+  year: 1944
+formula: 3[1.2.3/pic] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 4331 tmp+1 pf hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+  keyboards:
+  - instrument: piano
+  harp: 1
+  strings: str
+  additional_raw: 3d1 | 2+1 | 2+1 | 2+1 - 4 | 3 | 3 | 1 | pf/cel | hp
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cinderella%2C_Op.87_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: 3d1, 2+1, 2+1, 2+1 - 4, 3, 3, 1, timp, pf/cel, hp, strs
+    :3 flutes (3rd also piccolo), 2 oboes, English horn, ::2 clarinets, bass clarinet,
+    2 bassoons, contrabassoon :4 horns, 3 trumpets, 3 trombones, tuba, timpani, percussion,
+    harp, piano (also celesta), strings'

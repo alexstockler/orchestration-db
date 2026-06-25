@@ -1,0 +1,15 @@
+id: haydn-6-psalms
+work:
+  composer: Haydn, Joseph
+  title: 6 Psalms
+  ids:
+    imslp: 6 Psalms, Hob.XXIII:suppl. (Haydn, Joseph)
+  year: 1794
+formula: ''
+instrumentation:
+  chorus_raw: mixed choir
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Psalms%2C_Hob.XXIII%3Asuppl._%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed choir (SAB)'

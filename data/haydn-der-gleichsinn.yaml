@@ -1,0 +1,17 @@
+id: haydn-der-gleichsinn
+work:
+  composer: Haydn, Joseph
+  title: Der Gleichsinn
+  ids:
+    imslp: Der Gleichsinn, Hob.XXVIa:6 (Haydn, Joseph)
+  year: 1781
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Gleichsinn%2C_Hob.XXVIa%3A6_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, keyboard'

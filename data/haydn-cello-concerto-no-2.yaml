@@ -1,0 +1,18 @@
+id: haydn-cello-concerto-no-2
+work:
+  composer: Haydn, Joseph
+  title: Cello Concerto No.2
+  ids:
+    imslp: Cello Concerto No.2 in D major, Hob.VIIb:2 (Haydn, Joseph)
+  year: 1783
+formula: 0200 2000 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Concerto_No.2_in_D_major%2C_Hob.VIIb%3A2_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 horns, strings'
+duration_minutes: 25

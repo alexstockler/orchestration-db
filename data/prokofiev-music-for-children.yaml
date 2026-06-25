@@ -1,0 +1,16 @@
+id: prokofiev-music-for-children
+work:
+  composer: Prokofiev, Sergey
+  title: Music for Children
+  ids:
+    imslp: Music for Children, Op.65 (Prokofiev, Sergey)
+  year: 1935
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Music_for_Children%2C_Op.65_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

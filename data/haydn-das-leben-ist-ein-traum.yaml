@@ -1,0 +1,17 @@
+id: haydn-das-leben-ist-ein-traum
+work:
+  composer: Haydn, Joseph
+  title: Das Leben ist ein Traum
+  ids:
+    imslp: Das Leben ist ein Traum, Hob.XXVI:21 (Haydn, Joseph)
+  year: 1784
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Leben_ist_ein_Traum%2C_Hob.XXVI%3A21_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, keyboard'

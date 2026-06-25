@@ -1,0 +1,21 @@
+id: stravinsky-septet
+work:
+  composer: Stravinsky, Igor
+  title: Septet
+  ids:
+    imslp: Septet, K080 (Stravinsky, Igor)
+  year: 1952
+formula: 0011 1000 pf
+instrumentation:
+  clarinet: 1
+  bassoon: 1
+  horn: 1
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Septet%2C_K080_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, bassoon, horn, violin, viola, cello, piano'
+duration_minutes: 12

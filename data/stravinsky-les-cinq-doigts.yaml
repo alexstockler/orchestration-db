@@ -1,0 +1,17 @@
+id: stravinsky-les-cinq-doigts
+work:
+  composer: Stravinsky, Igor
+  title: Les cinq doigts
+  ids:
+    imslp: Les cinq doigts, K037 (Stravinsky, Igor)
+  year: 1921
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_cinq_doigts%2C_K037_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 8

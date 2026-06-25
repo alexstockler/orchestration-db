@@ -1,0 +1,15 @@
+id: schubert-german-dances-d-970
+work:
+  composer: Schubert, Franz
+  title: German Dances, D.970
+  ids:
+    imslp: 6 German Dances, D.970 (Schubert, Franz)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_German_Dances%2C_D.970_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

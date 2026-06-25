@@ -1,0 +1,15 @@
+id: haydn-denk-ich-gott-an-deine-gute
+work:
+  composer: Haydn, Joseph
+  title: Denk ich Gott an deine Güte
+  ids:
+    imslp: Denk ich Gott an deine Güte, Hob.XXIVa:Anh.2 (Haydn, Joseph)
+  year: 1810
+formula: ''
+instrumentation:
+  chorus_raw: satb
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Denk_ich_Gott_an_deine_G%C3%BCte%2C_Hob.XXIVa%3AAnh.2_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB, Orchestra (flutes, horns in G and strings)'

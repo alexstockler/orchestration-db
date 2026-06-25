@@ -1,0 +1,21 @@
+id: stravinsky-berceuses-du-chat
+work:
+  composer: Stravinsky, Igor
+  title: Berceuses du chat
+  ids:
+    imslp: Berceuses du chat, K022 (Stravinsky, Igor)
+  year: 1915
+formula: 0 0 3[Ebcl.2.bcl] 0 0000
+instrumentation:
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - instrument: bass_clarinet
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Berceuses_du_chat%2C_K022_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (alto), piccolo clarinet, clarinet, bass clarinet'
+duration_minutes: 4

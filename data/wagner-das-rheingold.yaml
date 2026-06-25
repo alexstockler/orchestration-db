@@ -5,8 +5,8 @@ work:
   ids:
     imslp: Das Rheingold, WWV 86A (Wagner, Richard)
   year: 1854
-formula: 4[pic.2.3/pic.4] 4[1.2.3.Eh] 4[1.2.3.bcl] 0 8 4[1.2.3.btpt] 4[1.2.btbn.cbtbn]
-  0 tmp 6hp
+formula: 4[pic.2.3/pic.4] 4[1.2.3.Eh] 4[1.2.3.bcl] 3 8 4[1.2.3.btpt] 4[1.2.btbn.cbtbn]
+  1[cbtba] tmp 7hp
 instrumentation:
   flute:
   - instrument: piccolo
@@ -24,6 +24,7 @@ instrumentation:
   - {}
   - {}
   - instrument: bass_clarinet
+  bassoon: 3
   horn: 8
   trumpet:
   - {}
@@ -35,6 +36,8 @@ instrumentation:
   - {}
   - instrument: bass_trombone
   - instrument: contrabass_trombone
+  tuba:
+  - instrument: contrabass_tuba
   percussion:
     timpani: 1
     instruments:
@@ -42,15 +45,14 @@ instrumentation:
     - triangle
     - cymbals
     - tam-tam
-  harp: 6
+    - anvils
+  harp: 7
   additional_raw: Wotan (bass-baritone) | Loge (tenor) | Fricka (mezzo-soprano) |
     Freia (soprano) | Donner (baritone) | Froh (tenor) | Erda (contralto) Nibelungs
     | Alberich (baritone) | Mime (tenor) Giants | Fasolt (bass-baritone) | Fafner
     (bass) Rhinemaidens | Woglinde (soprano) | Wellgunde (soprano or mezzo-soprano)
-    | Flosshilde (mezzo-soprano) Mixed Chorus (SATB) | Nibelungs ' | 3 bassoons* |
-    contrabass tuba | 18 anvils | strings (16, 16, 12, 12, 8 players) ' | 3 anvils
-    | harp *3rd bassoon can alternate on contrabassoon if needed for required low
-    A passages | found in regular 3rd bassoon part
+    | Flosshilde (mezzo-soprano) Mixed Chorus (SATB) | Nibelungs ' | strings (16,
+    16, 12, 12, 8 players) ' | found in regular 3rd bassoon part
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Das_Rheingold%2C_WWV_86A_%28Wagner%2C_Richard%29

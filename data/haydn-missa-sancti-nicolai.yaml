@@ -1,0 +1,23 @@
+id: haydn-missa-sancti-nicolai
+work:
+  composer: Haydn, Joseph
+  title: Missa Sancti Nicolai
+  ids:
+    imslp: Mass in G major, Hob.XXII:6 (Haydn, Joseph)
+  year: 1772
+formula: 0201 2000 org str
+instrumentation:
+  oboe: 2
+  bassoon: 1
+  horn: 2
+  keyboards:
+  - instrument: organ
+  strings: str
+  additional_raw: 2 trumpets* | timpani*
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mass_in_G_major%2C_Hob.XXII%3A6_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, bassoon, 2 horns, 2 trumpets*, timpani*, organ,
+    strings'
+duration_minutes: 32

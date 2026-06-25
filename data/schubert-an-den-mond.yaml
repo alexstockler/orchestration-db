@@ -1,0 +1,19 @@
+id: schubert-an-den-mond
+work:
+  composer: Schubert, Franz
+  title: An den Mond
+  ids:
+    imslp: An den Mond, D.193 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_den_Mond%2C_D.193_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 3

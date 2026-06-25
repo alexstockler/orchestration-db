@@ -1,0 +1,27 @@
+id: stravinsky-ragtime
+work:
+  composer: Stravinsky, Igor
+  title: Ragtime
+  ids:
+    imslp: Ragtime, K030 (Stravinsky, Igor)
+  year: 1918
+formula: 1010 1 1[cnt] 1 0 1perc cimbalom
+instrumentation:
+  flute: 1
+  clarinet: 1
+  horn: 1
+  trumpet:
+  - instrument: cornet
+  trombone: 1
+  percussion:
+    players: 1
+  extras:
+  - instrument: cimbalom
+  additional_raw: 2 violins | viola | double bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ragtime%2C_K030_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, clarinet, horn, cornet, trombone, percussion, cimbalom,
+    2 violins, viola, double bass'
+duration_minutes: 2

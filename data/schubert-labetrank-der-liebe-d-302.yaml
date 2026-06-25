@@ -1,0 +1,18 @@
+id: schubert-labetrank-der-liebe-d-302
+work:
+  composer: Schubert, Franz
+  title: Labetrank der Liebe, D.302
+  ids:
+    imslp: Labetrank der Liebe, D.302 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Labetrank_der_Liebe%2C_D.302_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

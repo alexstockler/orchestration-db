@@ -1,0 +1,44 @@
+id: prokofiev-march
+work:
+  composer: Prokofiev, Sergey
+  title: March
+  ids:
+    imslp: March, Op.99 (Prokofiev, Sergey)
+  year: 1943
+formula: 2[pic.2] 0 3[Ebcl.2.3] 0 2 4[cnt.cnt.3.4] 3 2
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  horn: 2
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  trombone: 3
+  tuba: 2
+  percussion:
+    instruments:
+    - tenor horns
+    - triangle
+    - tambourine
+    - snare drum
+    - cymbals
+    - bass drum
+  soloists:
+  - baritone
+  additional_raw: 2 alto horns (E)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/March%2C_Op.99_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: Wind Band: piccolo, flute, E clarinet, 2 clarinets (B),
+    2 horns (E), 2 cornets (B), 2 trumpets (B), 3 trombones, 2 alto horns (E), 3 tenor
+    horns (B), baritone (B), 2 tubas, triangle, tambourine, snare drum, cymbals, bass
+    drum'
+duration_minutes: 2

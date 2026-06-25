@@ -1,0 +1,19 @@
+id: schubert-gesang-in-c-minor
+work:
+  composer: Schubert, Franz
+  title: Gesang in C minor
+  ids:
+    imslp: Gesang in C minor, D.1a (Schubert, Franz)
+  year: 1810
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gesang_in_C_minor%2C_D.1a_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, piano'
+duration_minutes: 13

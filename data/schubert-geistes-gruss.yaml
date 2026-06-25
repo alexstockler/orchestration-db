@@ -1,0 +1,18 @@
+id: schubert-geistes-gruss
+work:
+  composer: Schubert, Franz
+  title: Geistes-Gruss
+  ids:
+    imslp: Geistes-Gruss, D.142 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Geistes-Gruss%2C_D.142_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

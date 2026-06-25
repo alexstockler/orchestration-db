@@ -1,0 +1,18 @@
+id: schubert-don-gayseros
+work:
+  composer: Schubert, Franz
+  title: Don Gayseros
+  ids:
+    imslp: Don Gayseros, D.93 (Schubert, Franz)
+  year: 1813
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Don_Gayseros%2C_D.93_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

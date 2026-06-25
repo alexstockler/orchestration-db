@@ -1,0 +1,17 @@
+id: schubert-adrast
+work:
+  composer: Schubert, Franz
+  title: Adrast
+  ids:
+    imslp: Adrast, D.137 (Schubert, Franz)
+  year: 1819
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adrast%2C_D.137_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices, chorus, orchestra'

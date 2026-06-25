@@ -1,0 +1,18 @@
+id: schubert-an-mein-herz-d-860
+work:
+  composer: Schubert, Franz
+  title: An mein Herz, D.860
+  ids:
+    imslp: An mein Herz, D.860 (Schubert, Franz)
+  year: 1825
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_mein_Herz%2C_D.860_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

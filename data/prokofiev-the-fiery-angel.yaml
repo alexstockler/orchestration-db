@@ -1,0 +1,37 @@
+id: prokofiev-the-fiery-angel
+work:
+  composer: Prokofiev, Sergey
+  title: Огненный ангел [The Fiery Angel]
+  ids:
+    imslp: The Fiery Angel, Op.37 (Prokofiev, Sergey)
+  year: 1919
+formula: 3 3[1.2.Eh] 3[1.2.bcl] 3 4331 tmp+1 2hp str
+instrumentation:
+  flute: 3
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 3
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+  harp: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Fiery_Angel%2C_Op.37_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: :3 flutes (2, 3 also piccolo), 2 oboes, English horn, 2
+    clarinets, ::bass clarinet, 3 bassoons (3 also contrabassoon) :4 horns, 3 trumpets,
+    3 trombones, tuba,, timpani, percussion (bass drum, cymbals, snare drum, tamtam,,
+    castanets, tambour, off-stage bell, triangle), 2 harps, strings'
+duration_minutes: 125

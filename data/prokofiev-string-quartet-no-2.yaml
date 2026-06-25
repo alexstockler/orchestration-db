@@ -1,0 +1,16 @@
+id: prokofiev-string-quartet-no-2
+work:
+  composer: Prokofiev, Sergey
+  title: String Quartet No.2
+  ids:
+    imslp: String Quartet No.2, Op.92 (Prokofiev, Sergey)
+  year: 1941
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.2%2C_Op.92_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 22

@@ -1,0 +1,15 @@
+id: haydn-string-quartet-in-d-major-the-lark
+work:
+  composer: Haydn, Joseph
+  title: String Quartet in D major 'The Lark'
+  ids:
+    imslp: String Quartet in D major, Hob.III:63 (Haydn, Joseph)
+  year: 1790
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_in_D_major%2C_Hob.III%3A63_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

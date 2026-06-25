@@ -1,0 +1,17 @@
+id: schubert-7-easy-variations-in-g-major
+work:
+  composer: Schubert, Franz
+  title: 7 Easy Variations in G major
+  ids:
+    imslp: 7 Easy Variations in G major, D.Anh.I/12 (Schubert, Franz)
+  year: 1810
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Easy_Variations_in_G_major%2C_D.Anh.I/12_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 8

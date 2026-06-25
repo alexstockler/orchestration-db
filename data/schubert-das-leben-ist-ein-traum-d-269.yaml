@@ -1,0 +1,15 @@
+id: schubert-das-leben-ist-ein-traum-d-269
+work:
+  composer: Schubert, Franz
+  title: Das Leben ist ein Traum, D.269
+  ids:
+    imslp: Das Leben, D.269 (Schubert, Franz)
+  year: 1815
+formula: ''
+instrumentation:
+  additional_raw: Three female voices (or female choir) SSA and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Leben%2C_D.269_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Three female voices (or female choir) SSA and piano'

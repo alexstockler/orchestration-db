@@ -1,0 +1,23 @@
+id: schubert-deutsche-trauermesse
+work:
+  composer: Schubert, Franz
+  title: Deutsche Trauermesse
+  ids:
+    imslp: Deutsche Trauermesse, D.621 (Schubert, Franz)
+  year: 1818
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Deutsche_Trauermesse%2C_D.621_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, mixed chorus (SATB), organ'
+duration_minutes: 13

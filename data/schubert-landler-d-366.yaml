@@ -1,0 +1,15 @@
+id: schubert-landler-d-366
+work:
+  composer: Schubert, Franz
+  title: Ländler, D.366
+  ids:
+    imslp: 17 Ländler, D.366 (Schubert, Franz)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/17_L%C3%A4ndler%2C_D.366_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

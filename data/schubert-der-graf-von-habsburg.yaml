@@ -1,0 +1,19 @@
+id: schubert-der-graf-von-habsburg
+work:
+  composer: Schubert, Franz
+  title: Der Graf von Habsburg
+  ids:
+    imslp: Der Graf von Habsburg, D.990 (Schubert, Franz)
+  year: 1853
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Graf_von_Habsburg%2C_D.990_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 12

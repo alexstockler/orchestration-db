@@ -1,0 +1,14 @@
+id: schubert-grab-und-mond
+work:
+  composer: Schubert, Franz
+  title: Grab und Mond
+  ids:
+    imslp: Grab und Mond, D.893 (Schubert, Franz)
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grab_und_Mond%2C_D.893_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

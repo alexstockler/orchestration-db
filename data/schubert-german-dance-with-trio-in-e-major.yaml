@@ -1,0 +1,17 @@
+id: schubert-german-dance-with-trio-in-e-major
+work:
+  composer: Schubert, Franz
+  title: German Dance with Trio in E major
+  ids:
+    imslp: German Dance in E major, D.135 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/German_Dance_in_E_major%2C_D.135_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 3

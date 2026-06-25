@@ -1,0 +1,19 @@
+id: prokofiev-2-duets
+work:
+  composer: Prokofiev, Sergey
+  title: 2 Duets
+  ids:
+    imslp: 2 Duets, Op.106 (Prokofiev, Sergey)
+  year: 1945
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - tenor
+  - baritone
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Duets%2C_Op.106_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, baritone, piano'

@@ -1,0 +1,15 @@
+id: prokofiev-a-summer-day
+work:
+  composer: Prokofiev, Sergey
+  title: A Summer Day
+  ids:
+    imslp: A Summer Day, Op.65bis (Prokofiev, Sergey)
+  year: 1941
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_Summer_Day%2C_Op.65bis_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'
+duration_minutes: 11

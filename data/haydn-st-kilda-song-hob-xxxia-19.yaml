@@ -1,0 +1,17 @@
+id: haydn-st-kilda-song-hob-xxxia-19
+work:
+  composer: Haydn, Joseph
+  title: St. Kilda Song, Hob.XXXIa:19
+  ids:
+    imslp: By the stream so cool and clear, Hob.XXXIa:19 (Haydn, Joseph)
+  year: 1792
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: violin | keyboard (including figured bass)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/By_the_stream_so_cool_and_clear%2C_Hob.XXXIa%3A19_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, violin, keyboard (including figured bass)'

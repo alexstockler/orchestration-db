@@ -1,0 +1,14 @@
+id: haydn-requiem-solemnis-in-dis
+work:
+  composer: Haydn, Joseph
+  title: Requiem Solemnis in Dis
+  ids:
+    imslp: Requiem Solemnis, Hob.XXIIa:E.b5 (Haydn, Joseph)
+formula: ''
+instrumentation:
+  chorus_raw: choir
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Requiem_Solemnis%2C_Hob.XXIIa%3AE.b5_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: choir (SATB), orchestra'

@@ -1,0 +1,27 @@
+id: prokofiev-autumnal
+work:
+  composer: Prokofiev, Sergey
+  title: Autumnal
+  ids:
+    imslp: Autumnal, Op.8 (Prokofiev, Sergey)
+  year: 1910
+formula: 2 2 3[1.2.bcl] 2 4100 hp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 1
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Autumnal%2C_Op.8_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, bass clarinet, 2 bassoons,
+    4 horns, trumpet, harp, strings'
+duration_minutes: 8

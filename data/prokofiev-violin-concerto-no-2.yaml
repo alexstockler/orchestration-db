@@ -1,0 +1,25 @@
+id: prokofiev-violin-concerto-no-2
+work:
+  composer: Prokofiev, Sergey
+  title: Violin Concerto No.2
+  ids:
+    imslp: Violin Concerto No.2, Op.63 (Prokofiev, Sergey)
+  year: 1935
+formula: 2222 2200 1perc str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    players: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Concerto_No.2%2C_Op.63_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2
+    trumpets, percussion (cymbals, triangle, castanets, bass drum, snare drum), strings'
+duration_minutes: 2528

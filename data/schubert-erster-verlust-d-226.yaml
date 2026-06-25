@@ -1,0 +1,18 @@
+id: schubert-erster-verlust-d-226
+work:
+  composer: Schubert, Franz
+  title: Erster Verlust, D.226
+  ids:
+    imslp: Erster Verlust, D.226 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erster_Verlust%2C_D.226_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

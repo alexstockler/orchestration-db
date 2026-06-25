@@ -1,0 +1,26 @@
+id: schubert-gradual
+work:
+  composer: Schubert, Franz
+  title: Gradual
+  ids:
+    imslp: Gradual, D.184 (Schubert, Franz)
+  year: 1815
+formula: 0220 0230 tmp org str
+instrumentation:
+  oboe: 2
+  clarinet: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: organ
+  strings: str
+  soloists:
+  - mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gradual%2C_D.184_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: mixed chorus (SATB), Orchestra: 2 oboes, 2 clarinets,
+    2 trumpets, 3 trombones, timpani, strings, organ'

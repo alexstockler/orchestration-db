@@ -1,0 +1,18 @@
+id: schubert-der-entfernten-d-350
+work:
+  composer: Schubert, Franz
+  title: Der Entfernten, D.350
+  ids:
+    imslp: Der Entfernten, D.350 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Entfernten%2C_D.350_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

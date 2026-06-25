@@ -1,0 +1,15 @@
+id: haydn-baryton-in-a-major
+work:
+  composer: Haydn, Joseph
+  title: Baryton in A major
+  ids:
+    imslp: Baryton Trio in A major, Hob.XI:2 (Haydn, Joseph)
+  year: 1770
+formula: ''
+instrumentation:
+  additional_raw: baryton | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Baryton_Trio_in_A_major%2C_Hob.XI%3A2_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: baryton, viola, cello'

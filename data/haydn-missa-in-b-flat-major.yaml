@@ -1,0 +1,34 @@
+id: haydn-missa-in-b-flat-major
+work:
+  composer: Haydn, Joseph
+  title: Missa in B-flat major
+  ids:
+    imslp: Mass in B-flat major, Hob.XXII:14 (Haydn, Joseph)
+  year: 1802
+formula: 1222 2200 tmp org str
+instrumentation:
+  flute: 1
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: organ
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  - 'mixed chorus (SATB) :'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mass_in_B-flat_major%2C_Hob.XXII%3A14_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra :Voices ::soprano, alto, tenor, bass,
+    mixed chorus (SATB) :Orchestra ::flute, 2 oboes, 2 clarinets (B), 2 bassoons,
+    2 horns (B), 2 trumpets (B), timpani, organ, strings'
+duration_minutes: 40

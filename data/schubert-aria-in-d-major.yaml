@@ -1,0 +1,19 @@
+id: schubert-aria-in-d-major
+work:
+  composer: Schubert, Franz
+  title: Aria in D major
+  ids:
+    imslp: Aria in D major, D.deest (Schubert, Franz)
+  year: 1812
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aria_in_D_major%2C_D.deest_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, piano (?)'
+duration_minutes: 1

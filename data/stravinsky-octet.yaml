@@ -1,0 +1,23 @@
+id: stravinsky-octet
+work:
+  composer: Stravinsky, Igor
+  title: Octet
+  ids:
+    imslp: Octet, K041 (Stravinsky, Igor)
+  year: 1922
+formula: 1012 0 2 2[1.btbn] 0
+instrumentation:
+  flute: 1
+  clarinet: 1
+  bassoon: 2
+  trumpet: 2
+  trombone:
+  - {}
+  - instrument: bass_trombone
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Octet%2C_K041_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, clarinet, 2 bassoons, 2 trumpets, tenor trombone,
+    bass trombone'
+duration_minutes: 15

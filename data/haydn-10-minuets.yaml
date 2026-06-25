@@ -1,0 +1,15 @@
+id: haydn-10-minuets
+work:
+  composer: Haydn, Joseph
+  title: 10 Minuets
+  ids:
+    imslp: 10 Minuets, Hob.IX:22 (Haydn, Joseph)
+  year: 1940
+formula: ''
+instrumentation:
+  additional_raw: Keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/10_Minuets%2C_Hob.IX%3A22_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: Keyboard'

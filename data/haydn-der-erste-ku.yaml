@@ -1,0 +1,17 @@
+id: haydn-der-erste-ku
+work:
+  composer: Haydn, Joseph
+  title: Der erste Kuß
+  ids:
+    imslp: Der erste Kuß, Hob.XXVIa:3 (Haydn, Joseph)
+  year: 1781
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_erste_Ku%C3%9F%2C_Hob.XXVIa%3A3_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, keyboard'

@@ -1,0 +1,18 @@
+id: schubert-beim-winde
+work:
+  composer: Schubert, Franz
+  title: Beim Winde
+  ids:
+    imslp: Beim Winde, D.669 (Schubert, Franz)
+  year: 1819
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Beim_Winde%2C_D.669_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

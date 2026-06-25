@@ -1,0 +1,17 @@
+id: schubert-2-dance-sketches
+work:
+  composer: Schubert, Franz
+  title: 2 Dance Sketches
+  ids:
+    imslp: 2 Dance Sketches, D.980a (Schubert, Franz)
+  year: 1821
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Dance_Sketches%2C_D.980a_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano(?)'
+duration_minutes: 2

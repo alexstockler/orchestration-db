@@ -1,0 +1,19 @@
+id: haydn-aria-ei-wer-hat-ihm-das-ding-gedenkt-hob-xxiiid-g1
+work:
+  composer: Haydn, Joseph
+  title: 'Aria: ''Ei, wer hat ihm das Ding gedenkt'', Hob.XXIIId:G1'
+  ids:
+    imslp: Ei, wer hat ihm das Ding gedenkt, Hob.XXIIId:G1 (Haydn, Joseph)
+  year: 1764
+formula: org str
+instrumentation:
+  keyboards:
+  - instrument: organ
+  strings: str
+  soloists:
+  - soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ei%2C_wer_hat_ihm_das_Ding_gedenkt%2C_Hob.XXIIId%3AG1_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, organ, strings (no violas)'

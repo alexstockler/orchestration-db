@@ -1,0 +1,16 @@
+id: haydn-cello-concerto-in-d-major
+work:
+  composer: Haydn, Joseph
+  title: Cello Concerto in D major
+  ids:
+    imslp: Cello Concerto No.4 in D major, Hob.VIIb:4 (Haydn, Joseph)
+  year: 1750
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: cello | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Concerto_No.4_in_D_major%2C_Hob.VIIb%3A4_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, strings, continuo'

@@ -1,0 +1,16 @@
+id: haydn-partita
+work:
+  composer: Haydn, Joseph
+  title: Partita
+  ids:
+    imslp: Partita in B-flat major, Hob.XVI:2 (Haydn, Joseph)
+  year: 1760
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Partita_in_B-flat_major%2C_Hob.XVI%3A2_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

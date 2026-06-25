@@ -1,0 +1,18 @@
+id: schubert-am-grabe-anselmos
+work:
+  composer: Schubert, Franz
+  title: Am Grabe Anselmos
+  ids:
+    imslp: Am Grabe Anselmos, D.504 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Am_Grabe_Anselmos%2C_D.504_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,22 @@
+id: stravinsky-mass
+work:
+  composer: Stravinsky, Igor
+  title: Mass
+  ids:
+    imslp: Mass, K077 (Stravinsky, Igor)
+  year: 1944
+formula: 0 3[1.2.Eh] 0 2 0230
+instrumentation:
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  bassoon: 2
+  trumpet: 2
+  trombone: 3
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mass%2C_K077_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, English horn, 2 bassoons, 2 trumpets, 3 trombones'
+duration_minutes: 17

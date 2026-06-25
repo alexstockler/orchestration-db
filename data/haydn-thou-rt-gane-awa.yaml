@@ -1,0 +1,17 @@
+id: haydn-thou-rt-gane-awa
+work:
+  composer: Haydn, Joseph
+  title: Thou'rt gane awa'
+  ids:
+    imslp: Had awa frae me, Donald, Hob.XXXIa:12 (Haydn, Joseph)
+  year: 1792
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: violin | keyboard (including figured bass)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Had_awa_frae_me%2C_Donald%2C_Hob.XXXIa%3A12_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, violin, keyboard (including figured bass)'

@@ -1,0 +1,17 @@
+id: ravel-pavane-pour-une-infante-defunte
+work:
+  composer: Ravel, Maurice
+  title: Pavane pour une infante défunte
+  ids:
+    imslp: Pavane pour une infante défunte, M.19 (Ravel, Maurice)
+  year: 1899
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pavane_pour_une_infante_d%C3%A9funte%2C_M.19_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: piano (for Ravel''s orchestration, see Arrangements and
+    Transcriptions)'

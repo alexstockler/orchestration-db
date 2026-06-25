@@ -1,0 +1,29 @@
+id: stravinsky-pulcinella
+work:
+  composer: Stravinsky, Igor
+  title: Pulcinella
+  ids:
+    imslp: Pulcinella (ballet), K034 (Stravinsky, Igor)
+  year: 1920
+formula: 2[1.2/pic] 2 0 2 2110 str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 1
+  trombone: 1
+  strings: str
+  additional_raw: Concertino (2 violins, viola, cello, bass) | Ripieno (8 violins,
+    4 viola, 3 cellos, 3 basses)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pulcinella_%28ballet%29%2C_K034_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes, 2 bassoons, 2 horns,
+    trumpet, trombone, strings, Concertino (2 violins, viola, cello, bass), Ripieno
+    (8 violins, 4 viola, 3 cellos, 3 basses)'
+duration_minutes: 35

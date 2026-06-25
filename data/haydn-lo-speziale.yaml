@@ -1,0 +1,24 @@
+id: haydn-lo-speziale
+work:
+  composer: Haydn, Joseph
+  title: Lo speziale
+  ids:
+    imslp: Lo speziale, Hob.XXVIII:3 (Haydn, Joseph)
+  year: 1768
+formula: 2201 2000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  bassoon: 1
+  horn: 2
+  strings: str
+  soloists:
+  - 2 sopranos
+  - 2 tenors
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lo_speziale%2C_Hob.XXVIII%3A3_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: 2 sopranos, 2 tenors, Orchestra: 2 flutes, 2 oboes,
+    bassoon, 2 horns, strings, continuo'

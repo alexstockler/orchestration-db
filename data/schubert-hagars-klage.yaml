@@ -1,0 +1,18 @@
+id: schubert-hagars-klage
+work:
+  composer: Schubert, Franz
+  title: Hagars Klage
+  ids:
+    imslp: Hagars Klage, D.5 (Schubert, Franz)
+  year: 1811
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hagars_Klage%2C_D.5_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,19 @@
+id: ravel-si-morne
+work:
+  composer: Ravel, Maurice
+  title: Si morne!
+  ids:
+    imslp: Si morne!, M.16 (Ravel, Maurice)
+  year: 1898
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Si_morne%21%2C_M.16_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 5

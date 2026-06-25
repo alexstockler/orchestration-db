@@ -1,0 +1,20 @@
+id: schubert-der-graf-von-gleichen
+work:
+  composer: Schubert, Franz
+  title: Der Graf von Gleichen
+  ids:
+    imslp: Der Graf von Gleichen, D.918 (Schubert, Franz)
+  year: 1827
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - tenors
+  chorus_raw: mixed chorus
+  additional_raw: 6 basses | speaking role
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Graf_von_Gleichen%2C_D.918_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 5 sopranos, 3 tenors, 6 basses, speaking role, mixed chorus
+    (SATB), orchestra'

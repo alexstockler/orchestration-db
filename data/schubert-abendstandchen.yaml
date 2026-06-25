@@ -1,0 +1,18 @@
+id: schubert-abendstandchen
+work:
+  composer: Schubert, Franz
+  title: Abendständchen
+  ids:
+    imslp: Abendständchen, D.265 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Abendst%C3%A4ndchen%2C_D.265_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

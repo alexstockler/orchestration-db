@@ -1,0 +1,54 @@
+id: stravinsky-le-roi-des-etoiles
+work:
+  composer: Stravinsky, Igor
+  title: Le Roi des étoiles
+  ids:
+    imslp: Le roi des étoiles, K014 (Stravinsky, Igor)
+  year: 1911
+formula: 4[pic.2.3.4] 4[1.2.3.4/Eh] 4[Ebcl.2.3.4] 4[1.2.3.cbn] 8331 tmp cel 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - {}
+  - doublings:
+    - english_horn
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - {}
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 8
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - tam-tam
+  keyboards:
+  - instrument: celesta
+  harp: 2
+  strings: str
+  chorus_raw: male chorus
+  additional_raw: 'unknown doubling in flute: piccolo 2'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_roi_des_%C3%A9toiles%2C_K014_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTTBBB), piccolo, 3 flutes (3rd also piccolo
+    2), 4 oboes (4th also english horn), E clarinet, 3 clarinets, 3 bassoons, contrabassoon,
+    8 horns, 3 trumpets, 3 trombones, tuba, timpani, bass drum, tam-tam, celesta,
+    2 harps, strings'
+duration_minutes: 5

@@ -1,0 +1,15 @@
+id: ravel-string-quartet
+work:
+  composer: Ravel, Maurice
+  title: String Quartet
+  ids:
+    imslp: String Quartet in F major, M.35 (Ravel, Maurice)
+  year: 1902
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_in_F_major%2C_M.35_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

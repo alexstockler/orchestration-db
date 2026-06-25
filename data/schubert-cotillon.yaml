@@ -1,0 +1,16 @@
+id: schubert-cotillon
+work:
+  composer: Schubert, Franz
+  title: Cotillon
+  ids:
+    imslp: Cotillon, D.976 (Schubert, Franz)
+  year: 1825
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cotillon%2C_D.976_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

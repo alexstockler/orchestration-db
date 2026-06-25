@@ -1,0 +1,18 @@
+id: schubert-auf-der-donau
+work:
+  composer: Schubert, Franz
+  title: Auf der Donau
+  ids:
+    imslp: Auf der Donau, D.553 (Schubert, Franz)
+  year: 1817
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Auf_der_Donau%2C_D.553_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -91,10 +91,11 @@ def render(inst: Instrumentation) -> str:
 
     if inst.strings is not None:
         s = inst.strings
-        if s.description:
-            parts.append(s.description)
-        elif s.standard:
+        if s.standard:
             parts.append("str")
+        elif s.description:
+            # Non-standard section (e.g. "3vn 3va 3vc") — description IS the formula token
+            parts.append(s.description)
         if s.continuo:
             parts.append("cont")
 

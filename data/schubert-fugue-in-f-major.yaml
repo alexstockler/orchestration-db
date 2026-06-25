@@ -1,0 +1,16 @@
+id: schubert-fugue-in-f-major
+work:
+  composer: Schubert, Franz
+  title: Fugue in F major
+  ids:
+    imslp: Fugue in F major, D.25c (Schubert, Franz)
+  year: 1812
+formula: ''
+instrumentation:
+  additional_raw: keyboard notation
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_F_major%2C_D.25c_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard notation'
+duration_minutes: 2

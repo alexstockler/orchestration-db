@@ -1,0 +1,15 @@
+id: schubert-2-german-dances
+work:
+  composer: Schubert, Franz
+  title: 2 German Dances
+  ids:
+    imslp: 2 German Dances, D.769 (Schubert, Franz)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_German_Dances%2C_D.769_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,24 @@
+id: haydn-missa-sancti-bernardi-de-offida
+work:
+  composer: Haydn, Joseph
+  title: Missa sancti Bernardi de Offida
+  ids:
+    imslp: Mass in B-flat major, Hob.XXII:10 (Haydn, Joseph)
+  year: 1796
+formula: 0222 0200 tmp str
+instrumentation:
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: continuo (organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mass_in_B-flat_major%2C_Hob.XXII%3A10_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 clarinets, 2 bassoons, 2 trumpets, timpani,
+    strings, continuo (organ)'
+duration_minutes: 40

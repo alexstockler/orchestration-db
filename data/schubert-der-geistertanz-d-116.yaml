@@ -1,0 +1,18 @@
+id: schubert-der-geistertanz-d-116
+work:
+  composer: Schubert, Franz
+  title: Der Geistertanz, D.116
+  ids:
+    imslp: Der Geistertanz, D.116 (Schubert, Franz)
+  year: 1814
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Geistertanz%2C_D.116_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,18 @@
+id: ravel-epigrammes-de-clement-marot
+work:
+  composer: Ravel, Maurice
+  title: Epigrammes de Clément Marot
+  ids:
+    imslp: Epigrammes de Clément Marot, M.21/10 (Ravel, Maurice)
+  year: 1896
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Epigrammes_de_Cl%C3%A9ment_Marot%2C_M.21/10_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, harpsichord (or piano)'

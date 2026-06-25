@@ -1,0 +1,17 @@
+id: schubert-4-fugal-sketches
+work:
+  composer: Schubert, Franz
+  title: 4 Fugal Sketches
+  ids:
+    imslp: 4 Fugal Sketches, D.37a (Schubert, Franz)
+  year: 1813
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Fugal_Sketches%2C_D.37a_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano(?)'
+duration_minutes: 6

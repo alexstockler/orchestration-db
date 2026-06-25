@@ -1,0 +1,16 @@
+id: ravel-jeux-d-eau
+work:
+  composer: Ravel, Maurice
+  title: Jeux d'eau
+  ids:
+    imslp: Jeux d'eau, M.30 (Ravel, Maurice)
+  year: 1901
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jeux_d%27eau%2C_M.30_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

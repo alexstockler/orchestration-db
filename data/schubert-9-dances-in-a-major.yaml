@@ -1,0 +1,17 @@
+id: schubert-9-dances-in-a-major
+work:
+  composer: Schubert, Franz
+  title: 9 Dances in A major
+  ids:
+    imslp: 9 Dances in A major, D.deest (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/9_Dances_in_A_major%2C_D.deest_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano(?)'
+duration_minutes: 1

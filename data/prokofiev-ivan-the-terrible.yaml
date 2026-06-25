@@ -1,0 +1,16 @@
+id: prokofiev-ivan-the-terrible
+work:
+  composer: Prokofiev, Sergey
+  title: Ivan the Terrible
+  ids:
+    imslp: Ivan the Terrible, Op.116 (Prokofiev, Sergey)
+  year: 1942
+formula: ''
+instrumentation:
+  additional_raw: voices and orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ivan_the_Terrible%2C_Op.116_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: voices and orchestra'
+duration_minutes: 80

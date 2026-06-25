@@ -1,0 +1,14 @@
+id: stravinsky-variations
+work:
+  composer: Stravinsky, Igor
+  title: Variations
+  ids:
+    imslp: Variations, K103 (Stravinsky, Igor)
+  year: 1963
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variations%2C_K103_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

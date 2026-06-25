@@ -1,0 +1,18 @@
+id: schubert-amalia
+work:
+  composer: Schubert, Franz
+  title: Amalia
+  ids:
+    imslp: Amalia, D.195 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Amalia%2C_D.195_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,15 @@
+id: haydn-la-fedelta-premiata
+work:
+  composer: Haydn, Joseph
+  title: La fedeltà premiata
+  ids:
+    imslp: La fedeltà premiata, Hob.XXVIII:10 (Haydn, Joseph)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_fedelt%C3%A0_premiata%2C_Hob.XXVIII%3A10_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

@@ -1,0 +1,19 @@
+id: schubert-lebenslied
+work:
+  composer: Schubert, Franz
+  title: Lebenslied
+  ids:
+    imslp: Lebenslied, D.Anh.I/23 (Schubert, Franz)
+  year: 1816
+formula: ''
+instrumentation:
+  soloists:
+  - tenors
+  additional_raw: bass or 2 tenors | 2 basses (instrumentation is uncertain)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lebenslied%2C_D.Anh.I/23_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 tenors, bass or 2 tenors, 2 basses (instrumentation is
+    uncertain)'
+duration_minutes: 2

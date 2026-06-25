@@ -1,0 +1,20 @@
+id: stravinsky-3-songs-from-william-shakespeare-k081
+work:
+  composer: Stravinsky, Igor
+  title: 3 Songs from William Shakespeare, K081
+  ids:
+    imslp: 3 Songs from William Shakespeare, K081 (Stravinsky, Igor)
+  year: 1953
+formula: 1010 0000
+instrumentation:
+  flute: 1
+  clarinet: 1
+  soloists:
+  - mezzo-soprano
+  additional_raw: viola
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Songs_from_William_Shakespeare%2C_K081_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: mezzo-soprano, flute, clarinet, viola'
+duration_minutes: 7

@@ -1,0 +1,16 @@
+id: prokofiev-piano-sonata-no-4
+work:
+  composer: Prokofiev, Sergey
+  title: Piano Sonata No.4
+  ids:
+    imslp: Piano Sonata No.4, Op.29 (Prokofiev, Sergey)
+  year: 1908
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.4%2C_Op.29_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

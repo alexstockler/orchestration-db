@@ -1,0 +1,16 @@
+id: prokofiev-piano-sonata-no-9
+work:
+  composer: Prokofiev, Sergey
+  title: Piano Sonata No.9
+  ids:
+    imslp: Piano Sonata No.9, Op.103 (Prokofiev, Sergey)
+  year: 1947
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.9%2C_Op.103_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

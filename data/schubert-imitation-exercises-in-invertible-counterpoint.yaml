@@ -1,0 +1,16 @@
+id: schubert-imitation-exercises-in-invertible-counterpoint
+work:
+  composer: Schubert, Franz
+  title: Imitation Exercises in Invertible Counterpoint
+  ids:
+    imslp: Counterpoint Exercises, D.deest (Schubert, Franz)
+  year: 1828
+formula: ''
+instrumentation:
+  additional_raw: 2-voices or instruments
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Counterpoint_Exercises%2C_D.deest_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 2-voices or instruments'
+duration_minutes: 1

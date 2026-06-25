@@ -1,0 +1,18 @@
+id: prokofiev-3-romances-after-pushkin
+work:
+  composer: Prokofiev, Sergey
+  title: 3 Romances after Pushkin
+  ids:
+    imslp: 3 Romances after Pushkin, Op.73 (Prokofiev, Sergey)
+  year: 1936
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Romances_after_Pushkin%2C_Op.73_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

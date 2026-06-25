@@ -1,0 +1,18 @@
+id: prokofiev-violin-sonata-no-2
+work:
+  composer: Prokofiev, Sergey
+  title: Violin Sonata No.2
+  ids:
+    imslp: Violin Sonata No.2, Op.94bis (Prokofiev, Sergey)
+  year: 1943
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_No.2%2C_Op.94bis_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 24

@@ -1,0 +1,18 @@
+id: schubert-fruhlingsglaube
+work:
+  composer: Schubert, Franz
+  title: Frühlingsglaube
+  ids:
+    imslp: Frühlingsglaube, D.686 (Schubert, Franz)
+  year: 1820
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fr%C3%BChlingsglaube%2C_D.686_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

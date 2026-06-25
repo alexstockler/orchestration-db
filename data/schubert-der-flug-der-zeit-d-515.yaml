@@ -1,0 +1,18 @@
+id: schubert-der-flug-der-zeit-d-515
+work:
+  composer: Schubert, Franz
+  title: Der Flug der Zeit, D.515
+  ids:
+    imslp: Der Flug der Zeit, D.515 (Schubert, Franz)
+  year: 1817
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Flug_der_Zeit%2C_D.515_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

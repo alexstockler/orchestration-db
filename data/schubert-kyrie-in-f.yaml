@@ -1,0 +1,17 @@
+id: schubert-kyrie-in-f
+work:
+  composer: Schubert, Franz
+  title: Kyrie in F
+  ids:
+    imslp: Kyrie in F major, D.66 (Schubert, Franz)
+  year: 1813
+formula: ''
+instrumentation:
+  additional_raw: Choir SATB | Organ and Orchestra (2 oboes, 2 bassoons, 2 trumpets,
+    timpani, strings)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kyrie_in_F_major%2C_D.66_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Choir SATB, Organ and Orchestra (2 oboes, 2 bassoons, 2
+    trumpets, timpani, strings)'

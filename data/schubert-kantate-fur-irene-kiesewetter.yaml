@@ -1,0 +1,17 @@
+id: schubert-kantate-fur-irene-kiesewetter
+work:
+  composer: Schubert, Franz
+  title: Kantate für Irene Kiesewetter
+  ids:
+    imslp: Kantate für Irene Kiesewetter, D.936 (Schubert, Franz)
+  year: 1827
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: mixed choir
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kantate_f%C3%BCr_Irene_Kiesewetter%2C_D.936_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: TTBB, mixed choir, piano 4 hands'

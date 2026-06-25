@@ -1,0 +1,25 @@
+id: stravinsky-cantata
+work:
+  composer: Stravinsky, Igor
+  title: Cantata
+  ids:
+    imslp: Cantata, K079 (Stravinsky, Igor)
+  year: 1951
+formula: 2 2[1.2/Eh] 0 0 0000
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  soloists:
+  - voices
+  chorus_raw: chorus
+  additional_raw: cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cantata%2C_K079_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, 2 flutes, 2 oboes (2nd also English horn),
+    cello'
+duration_minutes: 20

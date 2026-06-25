@@ -1,0 +1,17 @@
+id: haydn-horn-concerto-no-2
+work:
+  composer: Haydn, Joseph
+  title: Horn Concerto No.2
+  ids:
+    imslp: Horn Concerto No.2 in D major, Hob.VIId:4 (Haydn, Joseph)
+  year: 1781
+formula: 0000 1000 str
+instrumentation:
+  horn: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Horn_Concerto_No.2_in_D_major%2C_Hob.VIId%3A4_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: horn, strings'
+duration_minutes: 15

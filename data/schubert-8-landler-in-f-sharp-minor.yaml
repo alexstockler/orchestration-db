@@ -1,0 +1,16 @@
+id: schubert-8-landler-in-f-sharp-minor
+work:
+  composer: Schubert, Franz
+  title: 8 Ländler in F-sharp minor
+  ids:
+    imslp: 8 Ländler in F-sharp minor, D.355 (Schubert, Franz)
+  year: 1816
+formula: ''
+instrumentation:
+  additional_raw: violin?
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_L%C3%A4ndler_in_F-sharp_minor%2C_D.355_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: violin?'
+duration_minutes: 7

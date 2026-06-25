@@ -1,0 +1,17 @@
+id: schubert-allegretto-in-c-major
+work:
+  composer: Schubert, Franz
+  title: Allegretto in C major
+  ids:
+    imslp: Allegretto in C major, D.346 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegretto_in_C_major%2C_D.346_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 6

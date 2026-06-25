@@ -1,0 +1,15 @@
+id: haydn-string-quartet-in-c-major
+work:
+  composer: Haydn, Joseph
+  title: String Quartet in C major
+  ids:
+    imslp: String Quartet in C major, Hob.III:6 (Haydn, Joseph)
+  year: 1757
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_in_C_major%2C_Hob.III%3A6_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

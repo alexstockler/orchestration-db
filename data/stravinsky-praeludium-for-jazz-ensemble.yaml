@@ -1,0 +1,28 @@
+id: stravinsky-praeludium-for-jazz-ensemble
+work:
+  composer: Stravinsky, Igor
+  title: Praeludium for Jazz Ensemble
+  ids:
+    imslp: Praeludium for Jazz Ensemble, K082 (Stravinsky, Igor)
+  year: 1936
+formula: 0000 0320 tmp cel gtr str
+instrumentation:
+  trumpet: 3
+  trombone: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drum
+  keyboards:
+  - instrument: celesta
+  extras:
+  - instrument: guitar
+  strings: str
+  additional_raw: 4 saxophones
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Praeludium_for_Jazz_Ensemble%2C_K082_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 saxophones, 3 trumpets, 2 trombones, timpani, snare drum,
+    celesta, guitar, strings (3 violins, viola, cello, contrabass)'
+duration_minutes: 2

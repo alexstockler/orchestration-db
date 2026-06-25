@@ -1,0 +1,16 @@
+id: schubert-graz-waltzes
+work:
+  composer: Schubert, Franz
+  title: Graz Waltzes
+  ids:
+    imslp: 12 Grazer Waltzer, D.924 (Schubert, Franz)
+  year: 1827
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Grazer_Waltzer%2C_D.924_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

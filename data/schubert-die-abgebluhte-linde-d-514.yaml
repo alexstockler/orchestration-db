@@ -1,0 +1,18 @@
+id: schubert-die-abgebluhte-linde-d-514
+work:
+  composer: Schubert, Franz
+  title: Die abgeblühte Linde, D.514
+  ids:
+    imslp: Die abgeblühte Linde, D.514 (Schubert, Franz)
+  year: 1817
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_abgebl%C3%BChte_Linde%2C_D.514_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

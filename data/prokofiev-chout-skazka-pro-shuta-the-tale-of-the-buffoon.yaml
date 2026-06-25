@@ -1,0 +1,41 @@
+id: prokofiev-chout-skazka-pro-shuta-the-tale-of-the-buffoon
+work:
+  composer: Prokofiev, Sergey
+  title: Chout, Skazka pro shuta [The Tale of the Buffoon]
+  ids:
+    imslp: Chout, Op.21 (Prokofiev, Sergey)
+  year: 1915
+formula: 3[pic.2.3] 3[1.2.Eh] 3[1.2.3/bcl] 3 4331 1perc pf 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - doublings:
+    - bass_clarinet
+  bassoon: 3
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    players: 1
+  keyboards:
+  - instrument: piano
+  harp: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chout%2C_Op.21_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra :piccolo, 2 flutes, 2 oboes, English horn, 3
+    clarinets (3rd doubling bass clarinet), 3 bassoons :4 horns, 3 trumpets, 3 trombones,
+    tuba :percussion (triangle, tambourine, side drum, cymbals, bass drum, glockenspiel,
+    xylophone), 2 harps, piano, strings'

@@ -1,0 +1,15 @@
+id: schubert-ewige-liebe
+work:
+  composer: Schubert, Franz
+  title: Ewige Liebe
+  ids:
+    imslp: Ewige Liebe, D.825a (Schubert, Franz)
+  year: 1826
+formula: ''
+instrumentation:
+  additional_raw: Male chorus (TTBB) unaccompanied
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ewige_Liebe%2C_D.825a_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Male chorus (TTBB) unaccompanied'

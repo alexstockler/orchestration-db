@@ -1,0 +1,18 @@
+id: schubert-das-heimweh-d-456
+work:
+  composer: Schubert, Franz
+  title: Das Heimweh, D.456
+  ids:
+    imslp: Das Heimweh, D.456 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Heimweh%2C_D.456_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

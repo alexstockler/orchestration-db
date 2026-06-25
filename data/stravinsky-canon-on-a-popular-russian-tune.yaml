@@ -1,0 +1,14 @@
+id: stravinsky-canon-on-a-popular-russian-tune
+work:
+  composer: Stravinsky, Igor
+  title: Canon on a Popular Russian Tune
+  ids:
+    imslp: Canon on a Popular Russian Tune, K105 (Stravinsky, Igor)
+  year: 1965
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canon_on_a_Popular_Russian_Tune%2C_K105_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

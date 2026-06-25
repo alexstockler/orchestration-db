@@ -1,0 +1,40 @@
+id: ravel-ma-mere-l-oye
+work:
+  composer: Ravel, Maurice
+  title: Ma Mère l'Oye
+  ids:
+    imslp: Ma mère l'Oye (ballet), M.62 (Ravel, Maurice)
+  year: 1911
+formula: 2[1.2/pic] 2[1.Eh] 2 2[1.2/cbn] 2000 tmp cel hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon:
+  - {}
+  - doublings:
+    - contrabassoon
+  horn: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - xylophone
+    - glockenspiel
+  keyboards:
+  - instrument: celesta
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ma_m%C3%A8re_l%27Oye_%28ballet%29%2C_M.62_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), oboe, English horn, 2 clarinets,
+    2 bassoons (2nd also contrabassoon), 2 horns, timpani, triangle, cymbals, xylophone,
+    glockenspiel, celesta, harp, strings'

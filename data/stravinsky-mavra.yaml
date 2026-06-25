@@ -1,0 +1,43 @@
+id: stravinsky-mavra
+work:
+  composer: Stravinsky, Igor
+  title: Mavra (Мавра)
+  ids:
+    imslp: Mavra, K039 (Stravinsky, Igor)
+  year: 1921
+formula: 3[pic.2.3] 3[1.2.Eh] 3[Ebcl.2.3] 2 4431 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  bassoon: 2
+  horn: 4
+  trumpet: 4
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - Parasha (soprano)
+  - The Neighbour (mezzo-soprano)
+  - The Mother (contralto)
+  - The Hussar (tenor)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mavra%2C_K039_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Parasha (soprano), The Neighbour (mezzo-soprano),
+    The Mother (contralto), The Hussar (tenor) Orchestra :piccolo, 2 flutes, 2 oboes,
+    English horn, clarinet (E), 2 clarinets, 2 bassoons, 4 horns, 4 trumpets, 3 trombones,
+    tuba, timpani, strings'
+duration_minutes: 25

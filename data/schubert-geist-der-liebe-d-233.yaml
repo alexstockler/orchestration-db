@@ -1,0 +1,18 @@
+id: schubert-geist-der-liebe-d-233
+work:
+  composer: Schubert, Franz
+  title: Geist der Liebe, D.233
+  ids:
+    imslp: Geist der Liebe, D.233 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Geist_der_Liebe%2C_D.233_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,18 @@
+id: schubert-auf-der-riesenkoppe
+work:
+  composer: Schubert, Franz
+  title: Auf der Riesenkoppe
+  ids:
+    imslp: Auf der Riesenkoppe, D.611 (Schubert, Franz)
+  year: 1818
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Auf_der_Riesenkoppe%2C_D.611_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,14 @@
+id: haydn-baryton-trio-in-g-major-hob-xi-67
+work:
+  composer: Haydn, Joseph
+  title: Baryton Trio in G major, Hob.XI:67
+  ids:
+    imslp: Baryton Trio in G major, Hob.XI:67 (Haydn, Joseph)
+formula: ''
+instrumentation:
+  additional_raw: baryton | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Baryton_Trio_in_G_major%2C_Hob.XI%3A67_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: baryton, viola, cello'

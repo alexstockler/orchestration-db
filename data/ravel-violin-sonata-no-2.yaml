@@ -1,0 +1,17 @@
+id: ravel-violin-sonata-no-2
+work:
+  composer: Ravel, Maurice
+  title: Violin Sonata No.2
+  ids:
+    imslp: Violin Sonata No.2, M.77 (Ravel, Maurice)
+  year: 1923
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_No.2%2C_M.77_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

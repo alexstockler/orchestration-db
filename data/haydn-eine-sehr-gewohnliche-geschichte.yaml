@@ -1,0 +1,17 @@
+id: haydn-eine-sehr-gewohnliche-geschichte
+work:
+  composer: Haydn, Joseph
+  title: Eine sehr gewöhnliche Geschichte
+  ids:
+    imslp: Eine sehr gewöhnliche Geschichte, Hob.XXVIa:4 (Haydn, Joseph)
+  year: 1781
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Eine_sehr_gew%C3%B6hnliche_Geschichte%2C_Hob.XXVIa%3A4_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, keyboard'

@@ -1,0 +1,14 @@
+id: haydn-keyboard-sonata-in-g-major
+work:
+  composer: Haydn, Joseph
+  title: Keyboard Sonata in G major
+  ids:
+    imslp: Keyboard Sonata in G major, Hob.XVI:G1 (Haydn, Joseph)
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Keyboard_Sonata_in_G_major%2C_Hob.XVI%3AG1_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

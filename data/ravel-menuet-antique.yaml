@@ -1,0 +1,17 @@
+id: ravel-menuet-antique
+work:
+  composer: Ravel, Maurice
+  title: Menuet antique
+  ids:
+    imslp: Menuet antique, M.7 (Ravel, Maurice)
+  year: 1895
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Menuet_antique%2C_M.7_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 7

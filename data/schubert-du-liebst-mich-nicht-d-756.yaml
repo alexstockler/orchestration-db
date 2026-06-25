@@ -1,0 +1,18 @@
+id: schubert-du-liebst-mich-nicht-d-756
+work:
+  composer: Schubert, Franz
+  title: Du liebst mich nicht, D.756
+  ids:
+    imslp: Du liebst mich nicht, D.756 (Schubert, Franz)
+  year: 1822
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Du_liebst_mich_nicht%2C_D.756_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,18 @@
+id: ravel-noel-des-jouets
+work:
+  composer: Ravel, Maurice
+  title: Noël des jouets
+  ids:
+    imslp: Noël des jouets, M.47 (Ravel, Maurice)
+  year: 1905
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/No%C3%ABl_des_jouets%2C_M.47_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

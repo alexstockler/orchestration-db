@@ -1,0 +1,18 @@
+id: prokofiev-5-poems-by-balmont
+work:
+  composer: Prokofiev, Sergey
+  title: 5 Poems by Balmont
+  ids:
+    imslp: 5 Poems, Op.36 (Prokofiev, Sergey)
+  year: 1921
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Poems%2C_Op.36_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

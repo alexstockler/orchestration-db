@@ -1,0 +1,14 @@
+id: schubert-der-entfernten
+work:
+  composer: Schubert, Franz
+  title: Der Entfernten
+  ids:
+    imslp: Der Entfernten, D.331 (Schubert, Franz)
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Entfernten%2C_D.331_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

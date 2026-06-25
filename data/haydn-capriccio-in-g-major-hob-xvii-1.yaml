@@ -1,0 +1,15 @@
+id: haydn-capriccio-in-g-major-hob-xvii-1
+work:
+  composer: Haydn, Joseph
+  title: Capriccio in G major, Hob.XVII:1
+  ids:
+    imslp: Capriccio in G major, Hob.XVII:1 (Haydn, Joseph)
+  year: 1765
+formula: ''
+instrumentation:
+  additional_raw: harpsichord or piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Capriccio_in_G_major%2C_Hob.XVII%3A1_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord or piano'

@@ -1,0 +1,33 @@
+id: haydn-armida
+work:
+  composer: Haydn, Joseph
+  title: Armida
+  ids:
+    imslp: Armida, Hob.XXVIII:12 (Haydn, Joseph)
+  year: 1783
+formula: 1222 2200 tmp str
+instrumentation:
+  flute: 1
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - Arminda (soprano)
+  - Rinaldo (tenor)
+  - Zemira (soprano)
+  - Idreno (baritone)
+  - Unbaldo (tenor)
+  - Clotarco (tenor)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Armida%2C_Hob.XXVIII%3A12_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Arminda (soprano), Rinaldo (tenor), Zemira (soprano),
+    Idreno (baritone), Unbaldo (tenor), Clotarco (tenor) Orchestra :flute, 2 oboes,
+    2 clarinets, 2 bassoons, 2 horns, 2 trumpets, timpani, strings, continuo'

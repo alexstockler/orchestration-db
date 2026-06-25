@@ -1,0 +1,17 @@
+id: haydn-divertimento-in-b-flat-major
+work:
+  composer: Haydn, Joseph
+  title: Divertimento in B-flat major
+  ids:
+    imslp: Divertimento in B-flat major, Hob.II:42 (Haydn, Joseph)
+formula: 0222 2000
+instrumentation:
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Divertimento_in_B-flat_major%2C_Hob.II%3A42_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 clarinets (B), 2 bassoons, 2 horns (B)'

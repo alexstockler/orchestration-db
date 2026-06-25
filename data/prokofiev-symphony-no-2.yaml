@@ -1,0 +1,45 @@
+id: prokofiev-symphony-no-2
+work:
+  composer: Prokofiev, Sergey
+  title: Symphony No.2
+  ids:
+    imslp: Symphony No.2, Op.40 (Prokofiev, Sergey)
+  year: 1924
+formula: 3[pic.2.3] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 4331 tmp+3 pf str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 3
+  keyboards:
+  - instrument: piano
+  strings: str
+  additional_raw: '*(cymbals, triangle, castanets, bass drum, snare drum, tambourine)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.2%2C_Op.40_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: 2+1, 2+1, 2+1, 2+1 - 4, 3, 3, 1, timp, 3perc, pf, strs
+    :piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets, ::bass clarinet, 2 bassoons,
+    contrabassoon :4 horns, 3 trumpets, 3 trombones, tuba, timpani, 3 percussion*,
+    piano, strings, *(cymbals, triangle, castanets, bass drum, snare drum, tambourine)'
+duration_minutes: 3040

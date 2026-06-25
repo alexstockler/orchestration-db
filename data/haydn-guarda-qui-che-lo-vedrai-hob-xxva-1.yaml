@@ -1,0 +1,18 @@
+id: haydn-guarda-qui-che-lo-vedrai-hob-xxva-1
+work:
+  composer: Haydn, Joseph
+  title: Guarda qui, che lo vedrai, Hob.XXVa:1
+  ids:
+    imslp: Guarda qui, che lo vedrai, Hob.XXVa:1 (Haydn, Joseph)
+  year: 1796
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Guarda_qui%2C_che_lo_vedrai%2C_Hob.XXVa%3A1_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, keyboard'

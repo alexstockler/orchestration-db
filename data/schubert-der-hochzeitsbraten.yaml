@@ -1,0 +1,20 @@
+id: schubert-der-hochzeitsbraten
+work:
+  composer: Schubert, Franz
+  title: Der Hochzeitsbraten
+  ids:
+    imslp: Der Hochzeitsbraten, D.930 (Schubert, Franz)
+  year: 1827
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Hochzeitsbraten%2C_D.930_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, bass, piano'

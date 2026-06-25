@@ -1,0 +1,17 @@
+id: stravinsky-3-easy-pieces
+work:
+  composer: Stravinsky, Igor
+  title: 3 Easy Pieces
+  ids:
+    imslp: 3 Easy Pieces, K021 (Stravinsky, Igor)
+  year: 1915
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Easy_Pieces%2C_K021_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'
+duration_minutes: 3

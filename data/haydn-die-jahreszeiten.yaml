@@ -1,0 +1,43 @@
+id: haydn-die-jahreszeiten
+work:
+  composer: Haydn, Joseph
+  title: Die Jahreszeiten
+  ids:
+    imslp: Die Jahreszeiten, Hob.XXI:3 (Haydn, Joseph)
+  year: 1799
+formula: 2[1/pic.2] 2 2 3[1.2.cbn] 2230 tmp str
+instrumentation:
+  flute:
+  - doublings:
+    - piccolo
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - bass drum
+    - cymbals
+    - tambourine
+  strings: str
+  soloists:
+  - Simon (bass)
+  - Lukas (tenor)
+  - Hanne (soprano) Mixed Chorus (SATB)
+  additional_raw: continuo (organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Jahreszeiten%2C_Hob.XXI%3A3_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices :Simon (bass), Lukas (tenor), Hanne (soprano) Mixed
+    Chorus (SATB), Orchestra :2 flutes (1st also piccolo), 2 oboes, 2 clarinets, 2
+    bassoons, contrabassoon, 2 horns, 2 trumpets, 3 trombones (alto, tenor, bass),
+    timpani, triangle, bass drum, cymbals, tambourine, continuo (organ), strings'

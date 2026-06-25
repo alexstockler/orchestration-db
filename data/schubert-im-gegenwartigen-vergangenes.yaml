@@ -1,0 +1,19 @@
+id: schubert-im-gegenwartigen-vergangenes
+work:
+  composer: Schubert, Franz
+  title: Im Gegenwärtigen Vergangenes
+  ids:
+    imslp: Im Gegenwärtigen Vergangenes, D.710 (Schubert, Franz)
+  year: 1821
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - tenors
+  additional_raw: 2 basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Im_Gegenw%C3%A4rtigen_Vergangenes%2C_D.710_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 tenors, 2 basses, piano'

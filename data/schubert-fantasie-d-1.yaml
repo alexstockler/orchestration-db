@@ -1,0 +1,16 @@
+id: schubert-fantasie-d-1
+work:
+  composer: Schubert, Franz
+  title: Fantasie, D.1
+  ids:
+    imslp: Fantasie in G major, D.1 (Schubert, Franz)
+  year: 1810
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasie_in_G_major%2C_D.1_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'

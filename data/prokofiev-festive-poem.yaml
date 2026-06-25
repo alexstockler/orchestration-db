@@ -1,0 +1,14 @@
+id: prokofiev-festive-poem
+work:
+  composer: Prokofiev, Sergey
+  title: Festive Poem
+  ids:
+    imslp: Festive Poem, Op.113 (Prokofiev, Sergey)
+  year: 1947
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Festive_Poem%2C_Op.113_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

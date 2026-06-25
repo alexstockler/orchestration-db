@@ -1,0 +1,18 @@
+id: schubert-erinnerung-totenopfer-d-101
+work:
+  composer: Schubert, Franz
+  title: Erinnerung (Totenopfer), D.101
+  ids:
+    imslp: Erinnerung, D.101 (Schubert, Franz)
+  year: 1814
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erinnerung%2C_D.101_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

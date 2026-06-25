@@ -1,0 +1,18 @@
+id: schubert-fragment-aus-dem-aeschylus-d-450
+work:
+  composer: Schubert, Franz
+  title: Fragment aus dem Aeschylus, D.450
+  ids:
+    imslp: Fragment aus dem Aeschylus, D.450 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fragment_aus_dem_Aeschylus%2C_D.450_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

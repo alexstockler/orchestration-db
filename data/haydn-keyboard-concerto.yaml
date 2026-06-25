@@ -1,0 +1,20 @@
+id: haydn-keyboard-concerto
+work:
+  composer: Haydn, Joseph
+  title: Keyboard Concerto
+  ids:
+    imslp: Keyboard Concerto in C major, Hob.XVIII:1 (Haydn, Joseph)
+  year: 1756
+formula: 0200 0200 str
+instrumentation:
+  oboe: 2
+  trumpet: 2
+  strings: str
+  soloists:
+  - organ (or harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Keyboard_Concerto_in_C_major%2C_Hob.XVIII%3A1_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: organ (or harpsichord), Orchestra: 2 oboes, 2 trumpets,
+    strings'

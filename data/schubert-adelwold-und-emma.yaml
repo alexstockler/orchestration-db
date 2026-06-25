@@ -1,0 +1,18 @@
+id: schubert-adelwold-und-emma
+work:
+  composer: Schubert, Franz
+  title: Adelwold und Emma
+  ids:
+    imslp: Adelwold und Emma, D.211 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adelwold_und_Emma%2C_D.211_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

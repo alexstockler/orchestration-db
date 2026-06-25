@@ -1,0 +1,17 @@
+id: prokofiev-boris-godunov
+work:
+  composer: Prokofiev, Sergey
+  title: Boris Godunov
+  ids:
+    imslp: Boris Godunov, Op.70bis (Prokofiev, Sergey)
+  year: 1936
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Boris_Godunov%2C_Op.70bis_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

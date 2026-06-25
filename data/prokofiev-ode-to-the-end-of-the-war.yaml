@@ -1,0 +1,64 @@
+id: prokofiev-ode-to-the-end-of-the-war
+work:
+  composer: Prokofiev, Sergey
+  title: Ode to the End of the War
+  ids:
+    imslp: Ode to the End of the War, Op.105 (Prokofiev, Sergey)
+  year: 1945
+formula: 3[pic.2.3] 3[1.2.Eh] 4[Ebcl.2.3.bcl] 3[1.2.cbn] 6333 tmp pf pf pf pf 8hp
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 6
+  trumpet: 3
+  trombone: 3
+  tuba: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - snare drum
+    - cymbals
+    - bass drum
+    - tam-tam
+    - chimes
+    - xylophone
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  - instrument: piano
+  - instrument: piano
+  harp: 8
+  saxophones:
+  - instrument: soprano_sax
+    count: 1
+  - instrument: alto_sax
+    count: 1
+  - instrument: tenor_sax
+    count: 1
+  additional_raw: basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ode_to_the_End_of_the_War%2C_Op.105_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, English horn, E clarinet, 2
+    clarinets, bass clarinet, soprano saxophone, alto saxophone, tenor saxophone,
+    2 bassoons, contrabassoon, 6 horns, 3 trumpets, 3 trombones, 3 tubas, timpani,
+    triangle, snare drum, cymbals, bass drum, tam-tam, chimes, xylophone, 4 pianos,
+    8 harps, basses'
+duration_minutes: 13

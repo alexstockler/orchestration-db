@@ -1,0 +1,15 @@
+id: schubert-fugal-exercises
+work:
+  composer: Schubert, Franz
+  title: Fugal Exercises
+  ids:
+    imslp: Fugal Exercises, D.965b (Schubert, Franz)
+  year: 1828
+formula: ''
+instrumentation:
+  additional_raw: keyboard notation
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugal_Exercises%2C_D.965b_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard notation'

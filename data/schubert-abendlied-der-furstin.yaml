@@ -1,0 +1,18 @@
+id: schubert-abendlied-der-furstin
+work:
+  composer: Schubert, Franz
+  title: Abendlied der Fürstin
+  ids:
+    imslp: Abendlied der Fürstin, D.495 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Abendlied_der_F%C3%BCrstin%2C_D.495_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

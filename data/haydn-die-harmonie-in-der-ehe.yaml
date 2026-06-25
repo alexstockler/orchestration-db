@@ -1,0 +1,20 @@
+id: haydn-die-harmonie-in-der-ehe
+work:
+  composer: Haydn, Joseph
+  title: Die Harmonie in der Ehe
+  ids:
+    imslp: Die Harmonie in der Ehe, Hob.XXVc:2 (Haydn, Joseph)
+  year: 1796
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Harmonie_in_der_Ehe%2C_Hob.XXVc%3A2_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, continuo'

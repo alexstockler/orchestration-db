@@ -1,0 +1,17 @@
+id: haydn-partita-for-winds
+work:
+  composer: Haydn, Joseph
+  title: Partita for Winds
+  ids:
+    imslp: Octet in F major, Hob.II:F7 (Haydn, Joseph)
+formula: 0222 2000
+instrumentation:
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Octet_in_F_major%2C_Hob.II%3AF7_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 clarinets, 2 bassoons, 2 horns'

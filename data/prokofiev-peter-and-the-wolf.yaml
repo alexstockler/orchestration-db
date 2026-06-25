@@ -1,0 +1,24 @@
+id: prokofiev-peter-and-the-wolf
+work:
+  composer: Prokofiev, Sergey
+  title: Peter and the Wolf
+  ids:
+    imslp: Peter and the Wolf, Op.67 (Prokofiev, Sergey)
+  year: 1936
+formula: ''
+instrumentation:
+  percussion:
+    instruments:
+    - cymbals
+    - triangle
+    - castanets
+    - bass drum
+    - snare drum
+    - tambourine
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Peter_and_the_Wolf%2C_Op.67_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, clarinet, bassoon,, 3 horns, trumpet, trombone,
+    timpani, 2 percussionists, strings : cymbals, triangle, castanets, bass drum,
+    snare drum, tambourine'

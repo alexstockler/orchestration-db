@@ -1,0 +1,16 @@
+id: ravel-semiramis
+work:
+  composer: Ravel, Maurice
+  title: Sémiramis
+  ids:
+    imslp: Sémiramis, M.31 (Ravel, Maurice)
+  year: 1902
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/S%C3%A9miramis%2C_M.31_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, orchestra'

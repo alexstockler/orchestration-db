@@ -1,0 +1,21 @@
+id: haydn-oboe-concerto
+work:
+  composer: Haydn, Joseph
+  title: Oboe Concerto
+  ids:
+    imslp: Oboe Concerto in C major, Hob.VIIg:C1 (Haydn, Joseph)
+  year: 1790
+formula: 0200 2200 tmp str
+instrumentation:
+  oboe: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oboe_Concerto_in_C_major%2C_Hob.VIIg%3AC1_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 horns, 2 trumpets, timpani, strings'
+duration_minutes: 22

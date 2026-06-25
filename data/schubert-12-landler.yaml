@@ -1,0 +1,17 @@
+id: schubert-12-landler
+work:
+  composer: Schubert, Franz
+  title: 12 Ländler
+  ids:
+    imslp: 12 Ländler, D.681 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_L%C3%A4ndler%2C_D.681_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 5

@@ -1,0 +1,18 @@
+id: schubert-gebet-wahrend-der-schlacht
+work:
+  composer: Schubert, Franz
+  title: Gebet während der Schlacht
+  ids:
+    imslp: Gebet während der Schlacht, D.171 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gebet_w%C3%A4hrend_der_Schlacht%2C_D.171_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,16 @@
+id: schubert-grand-march-heroique
+work:
+  composer: Schubert, Franz
+  title: Grand March Heroique
+  ids:
+    imslp: Grande marche héroïque, D.885 (Schubert, Franz)
+  year: 1826
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grande_marche_h%C3%A9ro%C3%AFque%2C_D.885_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'

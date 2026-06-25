@@ -1,0 +1,29 @@
+id: stravinsky-choral-variationen
+work:
+  composer: Stravinsky, Igor
+  title: Choral-Variationen
+  ids:
+    imslp: Choral-Variationen, K087 (Stravinsky, Igor)
+  year: 1955
+formula: 2 3[1.2.Eh] 0 3[1.2.cbn] 0330 hp
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  trumpet: 3
+  trombone: 3
+  harp: 1
+  additional_raw: violas | basses (also 3 solo basses)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Choral-Variationen%2C_K087_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, English horn, 2 bassoons, contrabassoon,
+    3 trumpets, 3 trombones, harp, violas, basses (also 3 solo basses)'
+duration_minutes: 10

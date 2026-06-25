@@ -1,0 +1,18 @@
+id: schubert-an-die-entfernte
+work:
+  composer: Schubert, Franz
+  title: An die Entfernte
+  ids:
+    imslp: An die Entfernte, D.765 (Schubert, Franz)
+  year: 1822
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_die_Entfernte%2C_D.765_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

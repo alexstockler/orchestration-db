@@ -1,0 +1,18 @@
+id: schubert-antigone-und-oedip
+work:
+  composer: Schubert, Franz
+  title: Antigone und Oedip
+  ids:
+    imslp: Antigone und Oedip, D.542 (Schubert, Franz)
+  year: 1817
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Antigone_und_Oedip%2C_D.542_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

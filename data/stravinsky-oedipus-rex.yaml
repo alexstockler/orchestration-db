@@ -1,0 +1,62 @@
+id: stravinsky-oedipus-rex
+work:
+  composer: Stravinsky, Igor
+  title: Oedipus Rex
+  ids:
+    imslp: Oedipus Rex, K047 (Stravinsky, Igor)
+  year: 1926
+formula: 3[1.2.3/pic] 3[1.2.Eh] 3 3[1.2.cbn] 4431 tmp pf hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 3
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 4
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - tambourine
+    - snare drum
+    - bass drum
+    - cymbals
+  keyboards:
+  - instrument: piano
+  harp: 1
+  strings: str
+  soloists:
+  - Oedipus
+  - king of Thebes (tenor)
+  - Jocasta
+  - his wife & mother (mezzo-soprano)
+  - Creon
+  - Jocasta's brother (bass-baritone)
+  - Tiresias
+  - soothsayer (bass)
+  - Shepherd (tenor)
+  - Messenger (bass-baritone)
+  - Narrator (speaking role)
+  additional_raw: 'unknown doubling in clarinet: e-flat clarinet-flat clarinet'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oedipus_Rex%2C_K047_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Oedipus, king of Thebes (tenor), Jocasta, his wife
+    & mother (mezzo-soprano), Creon, Jocasta''s brother (bass-baritone), Tiresias,
+    soothsayer (bass), Shepherd (tenor), Messenger (bass-baritone), Narrator (speaking
+    role) Orchestra :3 flutes (3rd also piccolo), 2 oboes, English horn, ::3 clarinets
+    (3rd also clarinet (E)), 2 bassoons, contrabassoon :4 horns, 4 trumpets, 3 trombones,
+    tuba, timpani, tambourine, snare drum, bass drum, cymbals, piano, harp, strings
+    (2 solo violins, solo viola, 4 solo cellos, solo double bass)'

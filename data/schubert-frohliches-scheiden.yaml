@@ -1,0 +1,19 @@
+id: schubert-frohliches-scheiden
+work:
+  composer: Schubert, Franz
+  title: Fröhliches Scheiden
+  ids:
+    imslp: Fröhliches Scheiden, D.896 (Schubert, Franz)
+  year: 1827
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fr%C3%B6hliches_Scheiden%2C_D.896_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 3

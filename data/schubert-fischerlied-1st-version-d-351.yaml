@@ -1,0 +1,18 @@
+id: schubert-fischerlied-1st-version-d-351
+work:
+  composer: Schubert, Franz
+  title: Fischerlied (1st version), D.351
+  ids:
+    imslp: Fischerlied, D.351 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fischerlied%2C_D.351_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,17 @@
+id: haydn-piano-trio-in-e-major
+work:
+  composer: Haydn, Joseph
+  title: Piano Trio in E major
+  ids:
+    imslp: Piano Trio in E major, Hob.XV:28 (Haydn, Joseph)
+  year: 1797
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio_in_E_major%2C_Hob.XV%3A28_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'

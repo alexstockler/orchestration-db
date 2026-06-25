@@ -1,0 +1,17 @@
+id: ravel-le-ciel-est-par-dessus-le-toit
+work:
+  composer: Ravel, Maurice
+  title: Le ciel est, par-dessus le toit
+  ids:
+    imslp: Le ciel est, par-dessus le toit (Ravel, Maurice)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_ciel_est%2C_par-dessus_le_toit_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

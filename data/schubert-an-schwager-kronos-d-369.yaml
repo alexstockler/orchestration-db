@@ -1,0 +1,18 @@
+id: schubert-an-schwager-kronos-d-369
+work:
+  composer: Schubert, Franz
+  title: An Schwager Kronos, D.369
+  ids:
+    imslp: An Schwager Kronos, D.369 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_Schwager_Kronos%2C_D.369_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

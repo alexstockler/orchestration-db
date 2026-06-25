@@ -1,0 +1,18 @@
+id: schubert-die-fruhe-liebe-d-430
+work:
+  composer: Schubert, Franz
+  title: Die frühe Liebe, D.430
+  ids:
+    imslp: Die frühe Liebe, D.430 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_fr%C3%BChe_Liebe%2C_D.430_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

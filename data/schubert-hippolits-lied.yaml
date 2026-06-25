@@ -1,0 +1,18 @@
+id: schubert-hippolits-lied
+work:
+  composer: Schubert, Franz
+  title: Hippolits Lied
+  ids:
+    imslp: Hippolits Lied, D.890 (Schubert, Franz)
+  year: 1826
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hippolits_Lied%2C_D.890_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

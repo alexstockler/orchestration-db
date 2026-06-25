@@ -1,0 +1,20 @@
+id: ravel-chanson-madecasses
+work:
+  composer: Ravel, Maurice
+  title: Chanson madécasses
+  ids:
+    imslp: Chansons madécasses, M.78 (Ravel, Maurice)
+  year: 1925
+formula: 1000 0000 pf
+instrumentation:
+  flute: 1
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  additional_raw: cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chansons_mad%C3%A9casses%2C_M.78_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, flute, cello, piano'

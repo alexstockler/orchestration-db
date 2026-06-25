@@ -1,0 +1,25 @@
+id: schubert-am-geburtstage-des-kaisers
+work:
+  composer: Schubert, Franz
+  title: Am Geburtstage des Kaisers
+  ids:
+    imslp: Am Geburtstage des Kaisers, D.748 (Schubert, Franz)
+  year: 1822
+formula: 2222 2200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Am_Geburtstage_des_Kaisers%2C_D.748_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets (B), 2 bassoons, 2 horns
+    (B), 2 trumpets (B), timpani, strings, continuo'

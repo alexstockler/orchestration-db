@@ -1,0 +1,38 @@
+id: stravinsky-requiem-canticles
+work:
+  composer: Stravinsky, Igor
+  title: Requiem Canticles
+  ids:
+    imslp: Requiem Canticles, K106 (Stravinsky, Igor)
+  year: 1965
+formula: 4[1.2.3/pic.afl] 0 0 2 4230 tmp cel pf hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  - instrument: alto_flute
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - xylophone
+    - vibraphone
+    - bells
+  keyboards:
+  - instrument: celesta
+  - instrument: piano
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Requiem_Canticles%2C_K106_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), alto flute, 2 bassoons, 4
+    horns, 2 trumpets, 3 trombones, timpani, xylophone, vibraphone, bells, celesta,
+    piano, harp, strings'
+duration_minutes: 15

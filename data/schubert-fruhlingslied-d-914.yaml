@@ -1,0 +1,15 @@
+id: schubert-fruhlingslied-d-914
+work:
+  composer: Schubert, Franz
+  title: Frühlingslied, D.914
+  ids:
+    imslp: Frühlingslied, D.914 (Schubert, Franz)
+  year: 1827
+formula: ''
+instrumentation:
+  additional_raw: Male chorus or quartet TTBB | unaccompanied
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fr%C3%BChlingslied%2C_D.914_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Male chorus or quartet TTBB, unaccompanied'

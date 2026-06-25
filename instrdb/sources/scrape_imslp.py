@@ -20,8 +20,9 @@ Output goes to data/<slug>.yaml. Already-present files are skipped unless
 --force is given. Unrecognised instrumentation fragments are written to
 additional_raw and also logged to stderr for review.
 
-Be polite: requests are throttled to ~1/s and responses are cached in
-.imslp_cache/ so re-runs don't re-hit the server.
+Be polite: requests are throttled to 2/s and responses are cached in
+.imslp_cache/ so re-runs don't re-hit the server. The rate backs off
+automatically on errors and resets to the base rate after a clean response.
 """
 from __future__ import annotations
 
@@ -47,7 +48,9 @@ from .parse_imslp_scoring import parse_imslp_scoring
 API = "https://imslp.org/api.php"
 UA = "orchestration-db/0.1 (open instrumentation database; https://github.com/alexstockler/orchestration-db)"
 CACHE_DIR = Path(".imslp_cache")
-RATE_LIMIT_S = 1.2   # seconds between requests
+_MIN_DELAY = 0.5   # 2 requests/s
+_MAX_DELAY = 30.0
+_current_delay = _MIN_DELAY
 
 
 def _cache_path(key: str) -> Path:
@@ -56,7 +59,8 @@ def _cache_path(key: str) -> Path:
 
 
 def _fetch_api(params: dict) -> dict:
-    """Hit the MediaWiki API with caching. Returns decoded JSON."""
+    """Hit the MediaWiki API with caching and adaptive backoff. Returns decoded JSON."""
+    global _current_delay
     cache_key = urllib.parse.urlencode(sorted(params.items()))
     cp = _cache_path(cache_key)
     if cp.exists():
@@ -64,11 +68,23 @@ def _fetch_api(params: dict) -> dict:
     CACHE_DIR.mkdir(exist_ok=True)
     url = API + "?" + urllib.parse.urlencode({**params, "format": "json"})
     req = urllib.request.Request(url, headers={"User-Agent": UA})
-    time.sleep(RATE_LIMIT_S)
-    with urllib.request.urlopen(req, timeout=30) as r:
-        data = json.loads(r.read())
-    cp.write_text(json.dumps(data))
-    return data
+    for attempt in range(5):
+        time.sleep(_current_delay)
+        try:
+            with urllib.request.urlopen(req, timeout=30) as r:
+                data = json.loads(r.read())
+            cp.write_text(json.dumps(data))
+            _current_delay = _MIN_DELAY  # reset after clean response
+            return data
+        except Exception as exc:
+            _current_delay = min(_current_delay * 2, _MAX_DELAY)
+            print(
+                f"  [warn] request failed (attempt {attempt + 1}/5): {exc};"
+                f" backing off to {_current_delay:.1f}s",
+                file=sys.stderr,
+            )
+            if attempt == 4:
+                raise
 
 
 # ---------------------------------------------------------------------------

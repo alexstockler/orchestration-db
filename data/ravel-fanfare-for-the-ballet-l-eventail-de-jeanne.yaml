@@ -1,0 +1,29 @@
+id: ravel-fanfare-for-the-ballet-l-eventail-de-jeanne
+work:
+  composer: Ravel, Maurice
+  title: Fanfare (for the ballet L'éventail de Jeanne)
+  ids:
+    imslp: Fanfare for the ballet 'L'éventail de Jeanne', M.80 (Ravel, Maurice)
+  year: 1927
+formula: 1[pic] 1 1 1 1100 str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 1
+  trumpet: 1
+  percussion:
+    instruments:
+    - side drum
+    - bass drum
+    - tam-tam
+    - chimes
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fanfare_for_the_ballet_%27L%27%C3%A9ventail_de_Jeanne%27%2C_M.80_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, oboe, clarinet, bassoon, horn, trumpet,, side
+    drum, bass drum, tam-tam, chimes, strings'

@@ -1,0 +1,16 @@
+id: ravel-sonata-for-violin-and-cello
+work:
+  composer: Ravel, Maurice
+  title: Sonata for Violin and Cello
+  ids:
+    imslp: Sonata for Violin and Cello, M.73 (Ravel, Maurice)
+  year: 1920
+formula: ''
+instrumentation:
+  additional_raw: violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_for_Violin_and_Cello%2C_M.73_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello'
+duration_minutes: 20

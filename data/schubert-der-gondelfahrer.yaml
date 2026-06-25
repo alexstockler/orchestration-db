@@ -1,0 +1,19 @@
+id: schubert-der-gondelfahrer
+work:
+  composer: Schubert, Franz
+  title: Der Gondelfahrer
+  ids:
+    imslp: Gondelfahrer, D.809 (Schubert, Franz)
+  year: 1824
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - tenors
+  additional_raw: 2 basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gondelfahrer%2C_D.809_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 tenors, 2 basses, piano'

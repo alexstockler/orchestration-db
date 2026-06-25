@@ -1,0 +1,15 @@
+id: haydn-keyboard-sonata-in-d-major
+work:
+  composer: Haydn, Joseph
+  title: Keyboard Sonata in D major
+  ids:
+    imslp: Keyboard Sonata in D major, Hob.XVI:deest (Haydn, Joseph)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Keyboard_Sonata_in_D_major%2C_Hob.XVI%3Adeest_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,16 @@
+id: haydn-il-maestro-e-lo-scolare
+work:
+  composer: Haydn, Joseph
+  title: Il maestro e lo scolare
+  ids:
+    imslp: Il maestro e lo scolare, Hob.XVIIa:1 (Haydn, Joseph)
+  year: 1778
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_maestro_e_lo_scolare%2C_Hob.XVIIa%3A1_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord (4 hands)'

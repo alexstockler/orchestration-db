@@ -1,0 +1,16 @@
+id: prokofiev-4-pieces-for-piano
+work:
+  composer: Prokofiev, Sergey
+  title: 4 Pieces for Piano
+  ids:
+    imslp: 4 Pieces for Piano, Op.3 (Prokofiev, Sergey)
+  year: 1907
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Pieces_for_Piano%2C_Op.3_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

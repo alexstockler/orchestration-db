@@ -1,0 +1,15 @@
+id: schubert-german-dance-d-975
+work:
+  composer: Schubert, Franz
+  title: German Dance, D.975
+  ids:
+    imslp: German Dance, D.975 (Schubert, Franz)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/German_Dance%2C_D.975_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

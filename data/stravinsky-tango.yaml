@@ -1,0 +1,16 @@
+id: stravinsky-tango
+work:
+  composer: Stravinsky, Igor
+  title: Tango
+  ids:
+    imslp: Tango, K062 (Stravinsky, Igor)
+  year: 1940
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tango%2C_K062_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,15 @@
+id: stravinsky-concertino-for-string-quartet
+work:
+  composer: Stravinsky, Igor
+  title: Concertino for String Quartet
+  ids:
+    imslp: Concertino, K035 (Stravinsky, Igor)
+  year: 1920
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concertino%2C_K035_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

@@ -1,0 +1,18 @@
+id: schubert-ich-hab-in-mich-gesogen
+work:
+  composer: Schubert, Franz
+  title: Ich hab in mich gesogen
+  ids:
+    imslp: Ich hab in mich gesogen, D.778b (Schubert, Franz)
+  year: 1823
+formula: ''
+instrumentation:
+  soloists:
+  - tenors
+  additional_raw: 2 basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ich_hab_in_mich_gesogen%2C_D.778b_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 tenors, 2 basses'
+duration_minutes: 1

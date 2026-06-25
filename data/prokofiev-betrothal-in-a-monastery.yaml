@@ -1,0 +1,17 @@
+id: prokofiev-betrothal-in-a-monastery
+work:
+  composer: Prokofiev, Sergey
+  title: Betrothal in a Monastery
+  ids:
+    imslp: Betrothal in a Monastery, Op.86 (Prokofiev, Sergey)
+  year: 1940
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Betrothal_in_a_Monastery%2C_Op.86_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

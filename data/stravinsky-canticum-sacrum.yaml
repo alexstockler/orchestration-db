@@ -1,0 +1,40 @@
+id: stravinsky-canticum-sacrum
+work:
+  composer: Stravinsky, Igor
+  title: Canticum Sacrum
+  ids:
+    imslp: Canticum sacrum, K086 (Stravinsky, Igor)
+  year: 1955
+formula: 1 3[1.2.Eh] 0 3[1.2.cbn] 0 4[1.2.3.btpt] 4[1.2.3.cbtbn] 0 org hp
+instrumentation:
+  flute: 1
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  trumpet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_trumpet
+  trombone:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabass_trombone
+  keyboards:
+  - instrument: organ
+  harp: 1
+  additional_raw: violas | double basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canticum_sacrum%2C_K086_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, 2 oboe, English horn, 2 bassoons, contrabassoon,
+    3 trumpets, bass trumpet, 3 trombones, contrabass trombone, organ, harp, violas,
+    double basses'
+duration_minutes: 16

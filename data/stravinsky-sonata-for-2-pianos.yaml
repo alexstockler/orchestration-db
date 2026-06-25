@@ -1,0 +1,18 @@
+id: stravinsky-sonata-for-2-pianos
+work:
+  composer: Stravinsky, Igor
+  title: Sonata for 2 Pianos
+  ids:
+    imslp: Sonata for 2 Pianos, K067 (Stravinsky, Igor)
+  year: 1943
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_for_2_Pianos%2C_K067_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 pianos'
+duration_minutes: 10

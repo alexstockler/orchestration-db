@@ -1,0 +1,18 @@
+id: schubert-die-laube
+work:
+  composer: Schubert, Franz
+  title: Die Laube
+  ids:
+    imslp: Die Laube, D.214 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Laube%2C_D.214_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

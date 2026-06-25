@@ -1,0 +1,18 @@
+id: haydn-recollection
+work:
+  composer: Haydn, Joseph
+  title: Recollection
+  ids:
+    imslp: Recollection, Hob.XXVIa:26 (Haydn, Joseph)
+  year: 1794
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Recollection%2C_Hob.XXVIa%3A26_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

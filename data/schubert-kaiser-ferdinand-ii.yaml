@@ -1,0 +1,19 @@
+id: schubert-kaiser-ferdinand-ii
+work:
+  composer: Schubert, Franz
+  title: Kaiser Ferdinand II.
+  ids:
+    imslp: Kaiser Ferdinand II., D.Anh.I/29 (Schubert, Franz)
+  year: 1809
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kaiser_Ferdinand_II.%2C_D.Anh.I/29_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 11

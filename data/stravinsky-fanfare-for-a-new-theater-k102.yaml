@@ -1,0 +1,15 @@
+id: stravinsky-fanfare-for-a-new-theater-k102
+work:
+  composer: Stravinsky, Igor
+  title: Fanfare For A New Theater, K102
+  ids:
+    imslp: Fanfare for a New Theater, K102 (Stravinsky, Igor)
+  year: 1964
+formula: 0000 0200
+instrumentation:
+  trumpet: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fanfare_for_a_New_Theater%2C_K102_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 trumpets'

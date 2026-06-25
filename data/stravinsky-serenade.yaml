@@ -1,0 +1,17 @@
+id: stravinsky-serenade
+work:
+  composer: Stravinsky, Igor
+  title: Serenade
+  ids:
+    imslp: Serenade in A, K044 (Stravinsky, Igor)
+  year: 1925
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Serenade_in_A%2C_K044_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 12

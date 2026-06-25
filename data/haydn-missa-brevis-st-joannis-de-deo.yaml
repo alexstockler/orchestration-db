@@ -1,0 +1,21 @@
+id: haydn-missa-brevis-st-joannis-de-deo
+work:
+  composer: Haydn, Joseph
+  title: Missa Brevis St. Joannis de Deo
+  ids:
+    imslp: Mass in B-flat major, Hob.XXII:7 (Haydn, Joseph)
+  year: 1775
+formula: org str
+instrumentation:
+  keyboards:
+  - instrument: organ
+  strings: str
+  soloists:
+  - soprano
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mass_in_B-flat_major%2C_Hob.XXII%3A7_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, mixed chorus (SATB), organ, strings'
+duration_minutes: 15

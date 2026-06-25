@@ -1,0 +1,16 @@
+id: schubert-gott-der-weltschopfer
+work:
+  composer: Schubert, Franz
+  title: Gott der Weltschöpfer
+  ids:
+    imslp: Gott der Weltschöpfer, D.986 (Schubert, Franz)
+  year: 1829
+formula: ''
+instrumentation:
+  additional_raw: S/A/T/B - piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_der_Weltsch%C3%B6pfer%2C_D.986_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: S/A/T/B - piano'
+duration_minutes: 2

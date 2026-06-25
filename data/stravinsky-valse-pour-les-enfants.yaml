@@ -1,0 +1,16 @@
+id: stravinsky-valse-pour-les-enfants
+work:
+  composer: Stravinsky, Igor
+  title: Valse pour les enfants
+  ids:
+    imslp: Valse pour les enfants, KN16 (Stravinsky, Igor)
+  year: 1916
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Valse_pour_les_enfants%2C_KN16_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

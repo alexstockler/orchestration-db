@@ -1,0 +1,19 @@
+id: schubert-amors-macht
+work:
+  composer: Schubert, Franz
+  title: Amors Macht
+  ids:
+    imslp: Amors Macht, D.Anh.I/20 (Schubert, Franz)
+  year: 1815
+formula: ''
+instrumentation:
+  soloists:
+  - tenors
+  additional_raw: bass or 2 tenors | 2 basses (instrumentation is uncertain)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Amors_Macht%2C_D.Anh.I/20_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 tenors, bass or 2 tenors, 2 basses (instrumentation is
+    uncertain)'
+duration_minutes: 2

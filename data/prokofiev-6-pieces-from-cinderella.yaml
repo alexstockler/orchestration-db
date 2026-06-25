@@ -1,0 +1,17 @@
+id: prokofiev-6-pieces-from-cinderella
+work:
+  composer: Prokofiev, Sergey
+  title: 6 Pieces from Cinderella
+  ids:
+    imslp: 6 Pieces from Cinderella, Op.102 (Prokofiev, Sergey)
+  year: 1944
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Pieces_from_Cinderella%2C_Op.102_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'
+duration_minutes: 21

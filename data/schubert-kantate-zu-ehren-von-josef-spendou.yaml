@@ -1,0 +1,16 @@
+id: schubert-kantate-zu-ehren-von-josef-spendou
+work:
+  composer: Schubert, Franz
+  title: Kantate zu Ehren von Josef Spendou
+  ids:
+    imslp: Kantate zu Ehren von Josef Spendou, D.472 (Schubert, Franz)
+  year: 1816
+formula: ''
+instrumentation:
+  chorus_raw: choir
+  additional_raw: Soloists | orchestra.
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kantate_zu_Ehren_von_Josef_Spendou%2C_D.472_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Soloists, choir, orchestra.'

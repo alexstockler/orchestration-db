@@ -1,0 +1,21 @@
+id: schubert-eine-altschottische-ballade
+work:
+  composer: Schubert, Franz
+  title: Eine altschottische Ballade
+  ids:
+    imslp: Eine altschottische Ballade, D.923 (Schubert, Franz)
+  year: 1827
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  soloists:
+  - voice
+  additional_raw: male voice | female voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Eine_altschottische_Ballade%2C_D.923_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: male voice, female voice, piano (1st and 3rd versions),
+    voice, piano (2nd version)'

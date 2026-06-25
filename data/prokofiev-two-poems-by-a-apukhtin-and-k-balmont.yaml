@@ -1,0 +1,19 @@
+id: prokofiev-two-poems-by-a-apukhtin-and-k-balmont
+work:
+  composer: Prokofiev, Sergey
+  title: Two Poems by A. Apukhtin and K. Balmont
+  ids:
+    imslp: 2 Poems, Op.9 (Prokofiev, Sergey)
+  year: 1910
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Poems%2C_Op.9_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 9

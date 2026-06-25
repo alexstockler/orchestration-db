@@ -1,0 +1,33 @@
+id: stravinsky-les-noces
+work:
+  composer: Stravinsky, Igor
+  title: Les noces
+  ids:
+    imslp: Les noces, K040 (Stravinsky, Igor)
+  year: 1914
+formula: tmp pf pf pf pf
+instrumentation:
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - tambourine
+    - triangle
+    - cymbals
+    - snare drums
+    - field drums
+    - xylophone
+    - crotales
+    - chimes
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_noces%2C_K040_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: timpani, bass drum, tambourine, triangle, cymbals,, 2 snare
+    drums, 2 field drums, xylophone, crotales, chimes, 4 pianos'
+duration_minutes: 25

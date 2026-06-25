@@ -1,0 +1,18 @@
+id: schubert-an-sylvia
+work:
+  composer: Schubert, Franz
+  title: An Sylvia
+  ids:
+    imslp: An Sylvia, D.891 (Schubert, Franz)
+  year: 1826
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_Sylvia%2C_D.891_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,18 @@
+id: schubert-das-gestorte-gluck-d-309
+work:
+  composer: Schubert, Franz
+  title: Das gestörte Glück, D.309
+  ids:
+    imslp: Das gestörte Glück, D.309 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_gest%C3%B6rte_Gl%C3%BCck%2C_D.309_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

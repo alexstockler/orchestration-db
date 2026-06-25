@@ -1,0 +1,18 @@
+id: schubert-drang-in-die-ferne
+work:
+  composer: Schubert, Franz
+  title: Drang in die Ferne
+  ids:
+    imslp: Drang in die Ferne, D.770 (Schubert, Franz)
+  year: 1823
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Drang_in_die_Ferne%2C_D.770_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,19 @@
+id: ravel-un-grand-sommeil-noir
+work:
+  composer: Ravel, Maurice
+  title: Un grand sommeil noir
+  ids:
+    imslp: Un grand sommeil noir, M.6 (Ravel, Maurice)
+  year: 1895
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Un_grand_sommeil_noir%2C_M.6_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 4

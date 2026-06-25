@@ -1,0 +1,56 @@
+id: stravinsky-symphonies-of-wind-instruments
+work:
+  composer: Stravinsky, Igor
+  title: Symphonies of Wind Instruments
+  ids:
+    imslp: Symphonies of Wind Instruments, K036 (Stravinsky, Igor)
+  year: 1920
+formula: 7[1.2.3/pic.afl.5.6.7] 6[1.2.Eh.4.5.Eh] 6[1.2.bhn.4.5.6] 6[1.2.3/cbn.4.5.6]
+  8661
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  - instrument: alto_flute
+  - {}
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: basset_horn
+  - {}
+  - {}
+  - {}
+  bassoon:
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  - {}
+  - {}
+  - {}
+  horn: 8
+  trumpet: 6
+  trombone: 6
+  tuba: 1
+  additional_raw: tuba Revised version (1947)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphonies_of_Wind_Instruments%2C_K036_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: Original version (1920) :3 flutes (3rd also piccolo), alto
+    flute, 2 oboes, English horn, ::2 clarinets, basset horn (or bass clarinet), 3
+    bassoons (3rd also contrabassoon) :4 horns, 3 trumpets, 3 trombones, tuba Revised
+    version (1947) :3 flutes, 2 oboes, English horn, 3 clarinets, 3 bassoons (3rd
+    also contrabassoon), 4 horns, 3 trumpets, 3 trombones, tuba'
+duration_minutes: 10

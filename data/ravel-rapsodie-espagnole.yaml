@@ -1,0 +1,50 @@
+id: ravel-rapsodie-espagnole
+work:
+  composer: Ravel, Maurice
+  title: Rapsodie espagnole
+  ids:
+    imslp: Rapsodie espagnole, M.54 (Ravel, Maurice)
+  year: 1907
+formula: 4[pic.pic.3.4] 3[1.2.Eh] 3[1.2.bcl] 3 4331 tmp cel 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 3
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - triangle
+    - castanets
+    - side drum
+    - tam-tam
+    - xylophone
+  keyboards:
+  - instrument: celesta
+  harp: 2
+  strings: str
+  additional_raw: sarrusophone | basque drum
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rapsodie_espagnole%2C_M.54_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 piccolos, 2 flutes, 2 oboes, English horn, 2 clarinets,
+    bass clarinet, 3 bassoons, sarrusophone, 4 horns, 3 trumpets, 3 trombones, tuba,
+    timpani, bass drum, cymbals, triangle, basque drum, castanets,, side drum, tam-tam,
+    xylophone, celesta, 2 harps, strings'

@@ -1,0 +1,19 @@
+id: haydn-abendlied-zu-gott-hob-xxvc-9
+work:
+  composer: Haydn, Joseph
+  title: Abendlied zu Gott, Hob.XXVc:9
+  ids:
+    imslp: Abendlied zu Gott, Hob.XXVc:9 (Haydn, Joseph)
+  year: 1796
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Abendlied_zu_Gott%2C_Hob.XXVc%3A9_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass'

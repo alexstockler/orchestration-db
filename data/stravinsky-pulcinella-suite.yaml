@@ -1,0 +1,23 @@
+id: stravinsky-pulcinella-suite
+work:
+  composer: Stravinsky, Igor
+  title: Pulcinella Suite
+  ids:
+    imslp: Pulcinella (suite), K034 (Stravinsky, Igor)
+  year: 1920
+formula: 2202 2110 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 1
+  trombone: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pulcinella_%28suite%29%2C_K034_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 bassoons, 2 horns, trumpet, trombone,
+    strings'
+duration_minutes: 22

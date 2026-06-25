@@ -5,11 +5,12 @@ work:
   ids:
     imslp: Concerto for Violin, Piano and Strings (Mendelssohn, Felix)
   year: 1823
-formula: pf
+formula: pf str
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: violin | strings*
+  strings: str
+  additional_raw: violin
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Concerto_for_Violin%2C_Piano_and_Strings_%28Mendelssohn%2C_Felix%29

@@ -5,10 +5,39 @@ work:
   ids:
     imslp: Das Klagende Lied, GMW 1 (Mahler, Gustav)
   year: 1878
-formula: 2200 0631 tmp 2hp
+formula: 6[1.2.3/pic.pic.5.6] 5[1.2.3/Eh.4.5] 7[1.2.3/bcl.Ebcl.Ebcl.6.7] 3[1.2.3/cbn]
+  8631 tmp 2hp str
 instrumentation:
-  flute: 2
-  oboe: 2
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - doublings:
+    - english_horn
+  - {}
+  - {}
+  clarinet:
+  - {}
+  - {}
+  - doublings:
+    - bass_clarinet
+  - instrument: eflat_clarinet
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  bassoon:
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  horn: 8
   trumpet: 6
   trombone: 3
   tuba: 1
@@ -20,14 +49,12 @@ instrumentation:
     - triangle
     - tam-tam
   harp: 2
+  strings: str
   soloists:
   - soprano
   - alto
   - tenor
-  chorus_raw: mixed chorus
-  additional_raw: Orchestra :3 flutes (3rd also piccolo) | 3 oboes (3rd also English
-    horn) ::3 clarinets (3rd also bass clarinet) | 3 bassoons (3rd also contrabassoon)
-    :4 horns | strings ' :piccolo | 2 piccolo clarinets | 2 clarinets :4 horns
+  - Mixed Chorus (SATB)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Das_Klagende_Lied%2C_GMW_1_%28Mahler%2C_Gustav%29

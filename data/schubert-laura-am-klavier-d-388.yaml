@@ -1,0 +1,18 @@
+id: schubert-laura-am-klavier-d-388
+work:
+  composer: Schubert, Franz
+  title: Laura am Klavier, D.388
+  ids:
+    imslp: Laura am Klavier, D.388 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Laura_am_Klavier%2C_D.388_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,18 @@
+id: prokofiev-7-songs
+work:
+  composer: Prokofiev, Sergey
+  title: 7 Songs
+  ids:
+    imslp: 7 Songs, Op.79 (Prokofiev, Sergey)
+  year: 1939
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Songs%2C_Op.79_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

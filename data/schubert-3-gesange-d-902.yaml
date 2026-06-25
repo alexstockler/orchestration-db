@@ -1,0 +1,18 @@
+id: schubert-3-gesange-d-902
+work:
+  composer: Schubert, Franz
+  title: 3 Gesänge, D.902
+  ids:
+    imslp: 3 Gesänge, D.902 (Schubert, Franz)
+  year: 1827
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Ges%C3%A4nge%2C_D.902_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, piano'

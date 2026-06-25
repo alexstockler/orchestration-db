@@ -1,0 +1,15 @@
+id: haydn-baryton-trio-in-d-major-hob-xi-79
+work:
+  composer: Haydn, Joseph
+  title: Baryton Trio in D major, Hob.XI:79
+  ids:
+    imslp: Baryton Trio in D major, Hob.XI:79 (Haydn, Joseph)
+  year: 1769
+formula: ''
+instrumentation:
+  additional_raw: baryton | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Baryton_Trio_in_D_major%2C_Hob.XI%3A79_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: baryton, viola, cello'

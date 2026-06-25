@@ -1,0 +1,16 @@
+id: haydn-divertimento-or-sonata
+work:
+  composer: Haydn, Joseph
+  title: Divertimento or Sonata
+  ids:
+    imslp: Divertimento in C major, Hob.XVI:1 (Haydn, Joseph)
+  year: 1750
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Divertimento_in_C_major%2C_Hob.XVI%3A1_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord (or piano)'

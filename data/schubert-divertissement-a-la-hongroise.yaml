@@ -1,0 +1,16 @@
+id: schubert-divertissement-a-la-hongroise
+work:
+  composer: Schubert, Franz
+  title: Divertissement à la hongroise
+  ids:
+    imslp: Divertissement à la hongroise, D.818 (Schubert, Franz)
+  year: 1824
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Divertissement_%C3%A0_la_hongroise%2C_D.818_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4 hands'

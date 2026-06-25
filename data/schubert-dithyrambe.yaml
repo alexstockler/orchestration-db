@@ -1,0 +1,21 @@
+id: schubert-dithyrambe
+work:
+  composer: Schubert, Franz
+  title: Dithyrambe
+  ids:
+    imslp: Dithyrambe, D.47 (Schubert, Franz)
+  year: 1813
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - tenor
+  - bass
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dithyrambe%2C_D.47_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, bass, chorus (SATB), piano'
+duration_minutes: 4

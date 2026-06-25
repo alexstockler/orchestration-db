@@ -1,0 +1,36 @@
+id: prokofiev-cello-concerto
+work:
+  composer: Prokofiev, Sergey
+  title: Cello Concerto
+  ids:
+    imslp: Cello Concerto, Op.58 (Prokofiev, Sergey)
+  year: 1933
+formula: 2222 2231 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - castanets
+    - bass drum
+    - snare drum
+    - tambourine
+  strings: str
+  soloists:
+  - cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Concerto%2C_Op.58_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: cello, Orchestra: 2 flutes, 2 oboes, 2 clarinets,
+    2 bassoons, 2 horns, 2 trumpets, 3 trombones, tuba, timpani, cymbals, castanets,
+    bass drum, snare drum, tambourine, strings'
+duration_minutes: 35

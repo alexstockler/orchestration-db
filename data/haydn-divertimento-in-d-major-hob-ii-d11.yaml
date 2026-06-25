@@ -1,0 +1,16 @@
+id: haydn-divertimento-in-d-major-hob-ii-d11
+work:
+  composer: Haydn, Joseph
+  title: Divertimento in D major, Hob.II:D11
+  ids:
+    imslp: Divertimento in D major, Hob.II:D11 (Haydn, Joseph)
+  year: 1767
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  additional_raw: violin | viola | cello/continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Divertimento_in_D_major%2C_Hob.II%3AD11_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, violin, viola, cello/continuo'

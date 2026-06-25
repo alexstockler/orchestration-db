@@ -1,0 +1,48 @@
+id: prokofiev-egyptian-nights
+work:
+  composer: Prokofiev, Sergey
+  title: Egyptian Nights
+  ids:
+    imslp: Egyptian Nights, Op.61 (Prokofiev, Sergey)
+  year: 1933
+formula: 3[1.2.pic] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 4231 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - instrument: piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  harp: 1
+  strings: str
+  saxophones:
+  - instrument: tenor_sax
+    count: 1
+  additional_raw: 3 percussion (tubular bells, cymbals, tam-tam, triangle, castanets,,
+    bass drum, snare drum, tambourine) piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Egyptian_Nights%2C_Op.61_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: 2+1, 2+1, 2+1, 2+1, tsx - 4, 2, 3, 1, timp, 3perc, pf,
+    hp, strs :2 flutes, piccolo, 2 oboes, english horn, 2 clarinets, bass clarinet,
+    ::2 bassoons, contrabassoon, tenor saxophone :4 horns, 2 trumpets, 3 trombones,
+    tuba, timpani, 3 percussion (tubular bells, cymbals, tam-tam, triangle, castanets,,
+    bass drum, snare drum, tambourine) piano, harp, strings'
+duration_minutes: 25

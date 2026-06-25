@@ -1,0 +1,18 @@
+id: schubert-augenlied
+work:
+  composer: Schubert, Franz
+  title: Augenlied
+  ids:
+    imslp: Augenlied, D.297 (Schubert, Franz)
+  year: 1817
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Augenlied%2C_D.297_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

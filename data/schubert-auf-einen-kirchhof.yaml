@@ -1,0 +1,18 @@
+id: schubert-auf-einen-kirchhof
+work:
+  composer: Schubert, Franz
+  title: Auf einen Kirchhof
+  ids:
+    imslp: Auf einen Kirchhof, D.151 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Auf_einen_Kirchhof%2C_D.151_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

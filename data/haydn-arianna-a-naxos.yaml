@@ -1,0 +1,17 @@
+id: haydn-arianna-a-naxos
+work:
+  composer: Haydn, Joseph
+  title: Arianna a Naxos
+  ids:
+    imslp: Arianna a Naxos, Hob.XXVIb:2 (Haydn, Joseph)
+  year: 1789
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Arianna_a_Naxos%2C_Hob.XXVIb%3A2_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, keyboard'

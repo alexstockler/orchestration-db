@@ -1,0 +1,17 @@
+id: prokofiev-piano-sonata-no-5
+work:
+  composer: Prokofiev, Sergey
+  title: Piano Sonata No.5
+  ids:
+    imslp: Piano Sonata No.5, Op.38/135 (Prokofiev, Sergey)
+  year: 1923
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.5%2C_Op.38/135_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 16

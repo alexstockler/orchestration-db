@@ -1,0 +1,16 @@
+id: schubert-9-landler-in-d-major
+work:
+  composer: Schubert, Franz
+  title: 9 Ländler in D major
+  ids:
+    imslp: 9 Ländler in D major, D.370 (Schubert, Franz)
+  year: 1816
+formula: ''
+instrumentation:
+  additional_raw: violin?
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/9_L%C3%A4ndler_in_D_major%2C_D.370_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: violin?'
+duration_minutes: 7

@@ -1,0 +1,19 @@
+id: prokofiev-the-ugly-duckling
+work:
+  composer: Prokofiev, Sergey
+  title: The Ugly Duckling
+  ids:
+    imslp: The Ugly Duckling, Op.18 (Prokofiev, Sergey)
+  year: 1914
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Ugly_Duckling%2C_Op.18_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 18

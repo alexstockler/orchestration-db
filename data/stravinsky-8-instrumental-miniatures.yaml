@@ -1,0 +1,28 @@
+id: stravinsky-8-instrumental-miniatures
+work:
+  composer: Stravinsky, Igor
+  title: 8 Instrumental Miniatures
+  ids:
+    imslp: 8 Instrumental Miniatures, K037 (Stravinsky, Igor)
+  year: 1962
+formula: 12[1.2.3.4.5.6.7.8.9.10.11.12] 8 11[1.2.3.4.5.6.7.8.9.10.11] 7 7000
+instrumentation:
+  flute: 12
+  oboe: 8
+  clarinet: 11
+  bassoon: 7
+  horn: 7
+  additional_raw: I | II | III | IV | V | 2 violins | 2 violas | 2 cellos | VI | 2
+    violins | 2 violas | 2 cellos | VII | 2 violins | 2 violas | VIII | 2 violins
+    | 2 violas | 2 cellos
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Instrumental_Miniatures%2C_K037_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: I. 2 oboes, bassoon, horn, II. 2 flutes, 2 clarinets, bassoon,
+    horn, III. 2 flutes, 2 clarinets, bassoon, horn, IV. 2 flutes, 2 oboes, 2 clarinets,
+    horn, V. 2 flutes, clarinet, horn, 2 violins, 2 violas, 2 cellos, VI. 2 clarinets,
+    2 bassoons, horn, 2 violins, 2 violas, 2 cellos, VII. 2 flutes, 2 oboes, 2 violins,
+    2 violas, VIII. 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, horn, 2 violins, 2
+    violas, 2 cellos'
+duration_minutes: 8

@@ -1,0 +1,23 @@
+id: haydn-kindersinfonie
+work:
+  composer: Haydn, Joseph
+  title: Kindersinfonie
+  ids:
+    imslp: Kindersinfonie (Haydn, Joseph)
+  year: 1804
+formula: 0000 0100 str
+instrumentation:
+  trumpet: 1
+  percussion:
+    instruments:
+    - drum
+    - triangle
+  strings: str
+  additional_raw: cuckoo | nightingale | rattle | bc (Violoncellos, Violon [Double
+    Bass], Clavier)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kindersinfonie_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: trumpet, drum, cuckoo, nightingale, rattle, triangle, strings
+    (violins I, II), bc (Violoncellos, Violon [Double Bass], Clavier)'

@@ -1,0 +1,16 @@
+id: stravinsky-elegie
+work:
+  composer: Stravinsky, Igor
+  title: Elegie
+  ids:
+    imslp: Élegie, K072 (Stravinsky, Igor)
+  year: 1944
+formula: ''
+instrumentation:
+  additional_raw: viola
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%89legie%2C_K072_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: viola'
+duration_minutes: 5

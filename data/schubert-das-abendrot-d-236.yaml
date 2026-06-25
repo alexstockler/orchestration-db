@@ -1,0 +1,15 @@
+id: schubert-das-abendrot-d-236
+work:
+  composer: Schubert, Franz
+  title: Das Abendrot, D.236
+  ids:
+    imslp: Das Abendrot, D.236 (Schubert, Franz)
+  year: 1815
+formula: ''
+instrumentation:
+  additional_raw: 3 voices (SSB) and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Abendrot%2C_D.236_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices (SSB) and piano'

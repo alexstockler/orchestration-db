@@ -1,0 +1,18 @@
+id: prokofiev-overture-on-hebrew-themes
+work:
+  composer: Prokofiev, Sergey
+  title: Overture on Hebrew Themes
+  ids:
+    imslp: Overture on Hebrew Themes, Op.34 (Prokofiev, Sergey)
+  year: 1919
+formula: 0010 0000 pf
+instrumentation:
+  clarinet: 1
+  keyboards:
+  - instrument: piano
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Overture_on_Hebrew_Themes%2C_Op.34_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, 2 violins, viola, cello, piano'

@@ -1,0 +1,16 @@
+id: schubert-die-geselligkeit-d-609
+work:
+  composer: Schubert, Franz
+  title: Die Geselligkeit, D.609
+  ids:
+    imslp: Die Geselligkeit, D.609 (Schubert, Franz)
+  year: 1818
+formula: ''
+instrumentation:
+  additional_raw: SATB and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Geselligkeit%2C_D.609_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB and piano'
+duration_minutes: 4

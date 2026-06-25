@@ -1,0 +1,17 @@
+id: haydn-jeder-meint-der-gegenstand
+work:
+  composer: Haydn, Joseph
+  title: Jeder meint, der Gegenstand
+  ids:
+    imslp: Jeder meint, der Gegenstand, Hob.XXVI:13 (Haydn, Joseph)
+  year: 1784
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jeder_meint%2C_der_Gegenstand%2C_Hob.XXVI%3A13_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, keyboard'

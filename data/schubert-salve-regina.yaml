@@ -1,0 +1,17 @@
+id: schubert-salve-regina
+work:
+  composer: Schubert, Franz
+  title: Salve Regina
+  ids:
+    imslp: Deutsches Salve Regina, D.379 (Schubert, Franz)
+  year: 1816
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Deutsches_Salve_Regina%2C_D.379_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), organ'

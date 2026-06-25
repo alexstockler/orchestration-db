@@ -1,0 +1,71 @@
+id: stravinsky-the-firebird
+work:
+  composer: Stravinsky, Igor
+  title: The Firebird
+  ids:
+    imslp: The Firebird (ballet), K010 (Stravinsky, Igor)
+  year: 1910
+formula: 4[1.2.3/pic.4/pic] 4[1.2.3.Eh] 4[1.2.3.bcl] 4[1.2.3.cbn] 8[1.2.3.4.Wtu.Wtu.Wtu.Wtu]
+  6 3 1 tmp cel pf 3hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn:
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: wagner_tuba
+  - instrument: wagner_tuba
+  - instrument: wagner_tuba
+  - instrument: wagner_tuba
+  trumpet: 6
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - triangle
+    - tambourine
+    - tubular bells
+    - glockenspiel
+    - xylophone
+  keyboards:
+  - instrument: celesta
+  - instrument: piano
+  harp: 3
+  strings: str
+  additional_raw: 'unknown doubling in clarinet: d clarinet | unknown doubling in
+    bassoon: 2nd contrabassoon | tamtam | '''
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Firebird_%28ballet%29%2C_K010_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 flutes (3rd and 4th also piccolo), 3 oboes, English horn,
+    3 clarinets (3rd also D clarinet), bass clarinet, 3 bassoons (2nd also 2nd contrabassoon),
+    contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, bass drum, cymbals,
+    triangle, tambourine, tamtam, , tubular bells, glockenspiel, xylophone, celesta,
+    3 harps, piano, strings, '': 3 trumpets, 4 Wagner tubas (2 tenor, 2 basses)'
+duration_minutes: 50

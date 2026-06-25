@@ -1,0 +1,16 @@
+id: schubert-galop-and-8-ecossaises-d-735
+work:
+  composer: Schubert, Franz
+  title: Galop and 8 Ecossaises, D.735
+  ids:
+    imslp: Galop and Ecossaises, D.735 (Schubert, Franz)
+  year: 1825
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Galop_and_Ecossaises%2C_D.735_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

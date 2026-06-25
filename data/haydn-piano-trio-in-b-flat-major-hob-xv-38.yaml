@@ -1,0 +1,17 @@
+id: haydn-piano-trio-in-b-flat-major-hob-xv-38
+work:
+  composer: Haydn, Joseph
+  title: Piano Trio in B-flat major, Hob.XV:38
+  ids:
+    imslp: Piano Trio in B-flat major, Hob.XV:38 (Haydn, Joseph)
+  year: 1766
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | (cello ad lib.)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio_in_B-flat_major%2C_Hob.XV%3A38_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, (cello ad lib.), piano'

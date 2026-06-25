@@ -1,0 +1,15 @@
+id: haydn-baryton-trio-in-b-minor
+work:
+  composer: Haydn, Joseph
+  title: Baryton Trio in B minor
+  ids:
+    imslp: Baryton Trio in B minor, Hob.XI:96 (Haydn, Joseph)
+  year: 1771
+formula: ''
+instrumentation:
+  additional_raw: baryton | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Baryton_Trio_in_B_minor%2C_Hob.XI%3A96_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: baryton, viola, cello'

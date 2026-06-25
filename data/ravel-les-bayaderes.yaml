@@ -1,0 +1,18 @@
+id: ravel-les-bayaderes
+work:
+  composer: Ravel, Maurice
+  title: Les Bayadères
+  ids:
+    imslp: Les bayadères, M.25 (Ravel, Maurice)
+  year: 1900
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_bayad%C3%A8res%2C_M.25_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, mixed chorus, orchestra'
+duration_minutes: 5

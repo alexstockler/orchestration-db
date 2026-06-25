@@ -6,7 +6,7 @@ work:
     imslp: Hail! California (Saint-Saëns, Camille)
   year: 1915
 formula: 6[1.2.3/pic.pic.5.6] 4 5[1.2.Ebcl.Ebcl.bcl] 5[1.2.cbn.4.5] 8 12[1.2.3.4.5.6.cnt.cnt.cnt.cnt.cnt.cnt]
-  8 2 tmp cel
+  8 3[1.2.cbtba] tmp cel
 instrumentation:
   flute:
   - {}
@@ -44,7 +44,10 @@ instrumentation:
   - instrument: cornet
   - instrument: cornet
   trombone: 8
-  tuba: 2
+  tuba:
+  - {}
+  - {}
+  - instrument: contrabass_tuba
   percussion:
     timpani: 1
     instruments:
@@ -60,7 +63,6 @@ instrumentation:
   - baritones
   additional_raw: strings Organ | Wind Band | contrabass sarrusophone | 2 soli clarinets
     | 12 section clarinets (3 parts) | 4 saxophones (soprano, alto, tenor, baritone)
-    | contrabass tuba
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Hail%21_California_%28Saint-Sa%C3%ABns%2C_Camille%29

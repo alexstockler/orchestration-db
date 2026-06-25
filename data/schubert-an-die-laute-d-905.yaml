@@ -1,0 +1,18 @@
+id: schubert-an-die-laute-d-905
+work:
+  composer: Schubert, Franz
+  title: An die Laute, D.905
+  ids:
+    imslp: An die Laute, D.905 (Schubert, Franz)
+  year: 1827
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_die_Laute%2C_D.905_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

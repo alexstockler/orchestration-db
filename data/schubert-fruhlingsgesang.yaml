@@ -1,0 +1,15 @@
+id: schubert-fruhlingsgesang
+work:
+  composer: Schubert, Franz
+  title: Frühlingsgesang
+  ids:
+    imslp: Frühlingsgesang, D.740 (Schubert, Franz)
+  year: 1822
+formula: ''
+instrumentation:
+  additional_raw: 4 men's voices | piano or guitar
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fr%C3%BChlingsgesang%2C_D.740_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 men''s voices, piano or guitar'

@@ -1,0 +1,15 @@
+id: haydn-string-duo-in-b-flat-major
+work:
+  composer: Haydn, Joseph
+  title: String Duo in B-flat major
+  ids:
+    imslp: String Duo in B-flat major, Hob.VI:B1 (Haydn, Joseph)
+  year: 1796
+formula: ''
+instrumentation:
+  additional_raw: 2 violins
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Duo_in_B-flat_major%2C_Hob.VI%3AB1_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins'

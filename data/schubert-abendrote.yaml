@@ -1,0 +1,18 @@
+id: schubert-abendrote
+work:
+  composer: Schubert, Franz
+  title: Abendröte
+  ids:
+    imslp: Abendröte, D.690 (Schubert, Franz)
+  year: 1823
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Abendr%C3%B6te%2C_D.690_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

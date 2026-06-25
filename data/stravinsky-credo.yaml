@@ -1,0 +1,18 @@
+id: stravinsky-credo
+work:
+  composer: Stravinsky, Igor
+  title: Credo
+  ids:
+    imslp: Credo, K055 (Stravinsky, Igor)
+  year: 1932
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Credo%2C_K055_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (SATB); mixed chorus (SATB)'
+duration_minutes: 5

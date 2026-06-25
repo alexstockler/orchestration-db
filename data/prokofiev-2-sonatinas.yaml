@@ -1,0 +1,16 @@
+id: prokofiev-2-sonatinas
+work:
+  composer: Prokofiev, Sergey
+  title: 2 Sonatinas
+  ids:
+    imslp: 2 Sonatinas, Op.54 (Prokofiev, Sergey)
+  year: 1931
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Sonatinas%2C_Op.54_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

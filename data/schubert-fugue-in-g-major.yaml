@@ -1,0 +1,17 @@
+id: schubert-fugue-in-g-major
+work:
+  composer: Schubert, Franz
+  title: Fugue in G major
+  ids:
+    imslp: Fugue in G major, D.24b (Schubert, Franz)
+  year: 1812
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_G_major%2C_D.24b_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano (or organ)'
+duration_minutes: 3

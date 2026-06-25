@@ -1,0 +1,30 @@
+id: stravinsky-movements-for-piano-and-orchestra
+work:
+  composer: Stravinsky, Igor
+  title: Movements for Piano and Orchestra
+  ids:
+    imslp: Movements for Piano and Orchestra, K091 (Stravinsky, Igor)
+  year: 1958
+formula: 2 2[1.Eh] 2[1.bcl] 1 0230 cel hp str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 1
+  trumpet: 2
+  trombone: 3
+  keyboards:
+  - instrument: celesta
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Movements_for_Piano_and_Orchestra%2C_K091_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (piccolo), oboe, English horn, clarinet, bass
+    clarinet, bassoon,, 2 trumpets, 3 trombones, harp, celesta, strings'
+duration_minutes: 9

@@ -1,0 +1,16 @@
+id: haydn-string-duo-in-d-major
+work:
+  composer: Haydn, Joseph
+  title: String Duo in D major
+  ids:
+    imslp: String Duo in D major, Hob.VI:D1 (Haydn, Joseph)
+  year: 1782
+formula: ''
+instrumentation:
+  additional_raw: Violin and Cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Duo_in_D_major%2C_Hob.VI%3AD1_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin and Cello'
+duration_minutes: 8

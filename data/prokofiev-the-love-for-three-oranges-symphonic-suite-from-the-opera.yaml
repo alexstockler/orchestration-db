@@ -1,0 +1,52 @@
+id: prokofiev-the-love-for-three-oranges-symphonic-suite-from-the-opera
+work:
+  composer: Prokofiev, Sergey
+  title: The Love for Three Oranges. Symphonic suite from the opera
+  ids:
+    imslp: The Love for Three Oranges (suite), Op.33bis (Prokofiev, Sergey)
+  year: 1919
+formula: 4[pic.2.3.pic] 3[1.2.Eh] 3[1.2.bcl] 4[1.2.3.cbn] 6331 tmp 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  - instrument: piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 6
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - triangle
+    - snare drum
+    - tam-tam
+    - chimes
+    - xylophone
+  harp: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Love_for_Three_Oranges_%28suite%29%2C_Op.33bis_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, piccolo, 2 oboes, English horn, 2 clarinets,,
+    bass clarinet, 3 bassoons, contrabassoon, 6 horns, 3 trumpets, 3 trombones, tuba,
+    timpani, bass drum, cymbals, triangle, snare drum, tam-tam, chimes, xylophone,
+    2 harps, strings'
+duration_minutes: 20

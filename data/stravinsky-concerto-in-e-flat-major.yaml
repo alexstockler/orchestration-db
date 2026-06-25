@@ -1,0 +1,21 @@
+id: stravinsky-concerto-in-e-flat-major
+work:
+  composer: Stravinsky, Igor
+  title: Concerto in E-flat major
+  ids:
+    imslp: Concerto in E-flat major, K060 (Stravinsky, Igor)
+  year: 1937
+formula: 1011 2000
+instrumentation:
+  flute: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 2
+  additional_raw: 3 violins | 3 viola | 2 cellos | 2 basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_in_E-flat_major%2C_K060_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, clarinet, bassoon, 2 horns, 3 violins, 3 viola,
+    2 cellos, 2 basses'
+duration_minutes: 12

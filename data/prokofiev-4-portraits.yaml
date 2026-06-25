@@ -1,0 +1,14 @@
+id: prokofiev-4-portraits
+work:
+  composer: Prokofiev, Sergey
+  title: 4 Portraits
+  ids:
+    imslp: 4 Portraits, Op.49 (Prokofiev, Sergey)
+  year: 1932
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Portraits%2C_Op.49_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

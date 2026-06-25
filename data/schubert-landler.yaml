@@ -1,0 +1,15 @@
+id: schubert-landler
+work:
+  composer: Schubert, Franz
+  title: Ländler
+  ids:
+    imslp: 8 Ländler, D.378 (Schubert, Franz)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_L%C3%A4ndler%2C_D.378_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

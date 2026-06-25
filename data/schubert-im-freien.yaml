@@ -1,0 +1,18 @@
+id: schubert-im-freien
+work:
+  composer: Schubert, Franz
+  title: Im Freien
+  ids:
+    imslp: Im Freien, D.880 (Schubert, Franz)
+  year: 1826
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Im_Freien%2C_D.880_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,17 @@
+id: schubert-jagerlied
+work:
+  composer: Schubert, Franz
+  title: Jägerlied
+  ids:
+    imslp: Jägerlied, D.204 (Schubert, Franz)
+  year: 1815
+formula: ''
+instrumentation:
+  soloists:
+  - 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/J%C3%A4gerlied%2C_D.204_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices (or 2 horns)'
+duration_minutes: 3

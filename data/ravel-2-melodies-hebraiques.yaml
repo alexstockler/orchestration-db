@@ -1,0 +1,18 @@
+id: ravel-2-melodies-hebraiques
+work:
+  composer: Ravel, Maurice
+  title: 2 Mélodies hébraïques
+  ids:
+    imslp: 2 Mélodies hébraïques, M.A 22 (Ravel, Maurice)
+  year: 1914
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_M%C3%A9lodies_h%C3%A9bra%C3%AFques%2C_M.A_22_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

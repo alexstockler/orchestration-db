@@ -1,0 +1,16 @@
+id: schubert-dreifach-ist-der-schritt-der-zeit-d-69
+work:
+  composer: Schubert, Franz
+  title: Dreifach ist der Schritt der Zeit, D.69
+  ids:
+    imslp: Dreifach ist der Schritt der Zeit, D.69 (Schubert, Franz)
+  year: 1813
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dreifach_ist_der_Schritt_der_Zeit%2C_D.69_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

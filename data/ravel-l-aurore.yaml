@@ -1,0 +1,17 @@
+id: ravel-l-aurore
+work:
+  composer: Ravel, Maurice
+  title: L'aurore
+  ids:
+    imslp: L'aurore, M.45 (Ravel, Maurice)
+  year: 1905
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27aurore%2C_M.45_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, mixed chorus, orchestra'

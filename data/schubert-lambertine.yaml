@@ -1,0 +1,18 @@
+id: schubert-lambertine
+work:
+  composer: Schubert, Franz
+  title: Lambertine
+  ids:
+    imslp: Lambertine, D.301 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lambertine%2C_D.301_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

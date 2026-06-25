@@ -1,0 +1,18 @@
+id: ravel-alyssa
+work:
+  composer: Ravel, Maurice
+  title: Alyssa
+  ids:
+    imslp: Alyssa, M.38 (Ravel, Maurice)
+  year: 1903
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  - baritone
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alyssa%2C_M.38_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, baritone, orchestra'

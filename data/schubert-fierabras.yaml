@@ -1,0 +1,21 @@
+id: schubert-fierabras
+work:
+  composer: Schubert, Franz
+  title: Fierabras
+  ids:
+    imslp: Fierabras, D.796 (Schubert, Franz)
+  year: 1823
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - tenors
+  - baritone
+  chorus_raw: mixed chorus
+  additional_raw: 3 basses | speaking role
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fierabras%2C_D.796_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 sopranos, 3 tenors, 3 basses, baritone, speaking role,
+    mixed chorus, orchestra'

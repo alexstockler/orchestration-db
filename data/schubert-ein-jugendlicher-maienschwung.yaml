@@ -1,0 +1,17 @@
+id: schubert-ein-jugendlicher-maienschwung
+work:
+  composer: Schubert, Franz
+  title: Ein jugendlicher Maienschwung
+  ids:
+    imslp: Ein jugendlicher Maienschwung, D.61 (Schubert, Franz)
+  year: 1813
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ein_jugendlicher_Maienschwung%2C_D.61_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'
+duration_minutes: 2

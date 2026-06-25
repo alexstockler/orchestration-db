@@ -1,0 +1,17 @@
+id: schubert-fruhlingslied-d-243
+work:
+  composer: Schubert, Franz
+  title: Frühlingslied, D.243
+  ids:
+    imslp: Frühlingslied, D.243 (Schubert, Franz)
+  year: 1815
+formula: ''
+instrumentation:
+  soloists:
+  - tenors
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fr%C3%BChlingslied%2C_D.243_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 tenors, bass'

@@ -1,0 +1,15 @@
+id: haydn-flotenuhr-in-c-major
+work:
+  composer: Haydn, Joseph
+  title: Flötenuhr in C major
+  ids:
+    imslp: Flötenuhr in C major, Hob.XIX:4 (Haydn, Joseph)
+  year: 1772
+formula: ''
+instrumentation:
+  additional_raw: flute clock (flötenuhr) | [organ | harpsichord]
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fl%C3%B6tenuhr_in_C_major%2C_Hob.XIX%3A4_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: flute clock (flötenuhr); [organ, harpsichord]'

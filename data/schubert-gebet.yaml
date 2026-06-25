@@ -1,0 +1,17 @@
+id: schubert-gebet
+work:
+  composer: Schubert, Franz
+  title: Gebet
+  ids:
+    imslp: Gebet, D.815 (Schubert, Franz)
+  year: 1824
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gebet%2C_D.815_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), piano'

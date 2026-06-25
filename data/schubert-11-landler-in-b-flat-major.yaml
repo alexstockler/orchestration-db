@@ -1,0 +1,16 @@
+id: schubert-11-landler-in-b-flat-major
+work:
+  composer: Schubert, Franz
+  title: 11 Ländler in B-flat major
+  ids:
+    imslp: 11 Ländler in B-flat major, D.374 (Schubert, Franz)
+  year: 1816
+formula: ''
+instrumentation:
+  additional_raw: violin?
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/11_L%C3%A4ndler_in_B-flat_major%2C_D.374_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: violin?'
+duration_minutes: 8

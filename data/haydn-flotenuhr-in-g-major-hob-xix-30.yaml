@@ -1,0 +1,15 @@
+id: haydn-flotenuhr-in-g-major-hob-xix-30
+work:
+  composer: Haydn, Joseph
+  title: Flötenuhr in G major, Hob.XIX:30
+  ids:
+    imslp: Flötenuhr in G major, Hob.XIX:30 (Haydn, Joseph)
+  year: 1793
+formula: ''
+instrumentation:
+  additional_raw: flute clock (flötenuhr) | [organ | harpsichord]
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fl%C3%B6tenuhr_in_G_major%2C_Hob.XIX%3A30_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: flute clock (flötenuhr); [organ, harpsichord]'

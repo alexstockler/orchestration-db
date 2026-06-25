@@ -1,0 +1,18 @@
+id: schubert-am-bach-im-fruhling
+work:
+  composer: Schubert, Franz
+  title: Am Bach im Frühling
+  ids:
+    imslp: Am Bach im Frühling, D.361 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Am_Bach_im_Fr%C3%BChling%2C_D.361_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

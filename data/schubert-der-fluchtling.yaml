@@ -1,0 +1,18 @@
+id: schubert-der-fluchtling
+work:
+  composer: Schubert, Franz
+  title: Der Flüchtling
+  ids:
+    imslp: Der Flüchtling, D.402 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Fl%C3%BCchtling%2C_D.402_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,17 @@
+id: schubert-intende-voci
+work:
+  composer: Schubert, Franz
+  title: Intende voci
+  ids:
+    imslp: Intende voci, D.963 (Schubert, Franz)
+  year: 1828
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Intende_voci%2C_D.963_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, mixed chorus (SATB), orchestra'

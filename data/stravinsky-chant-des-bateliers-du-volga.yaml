@@ -1,0 +1,31 @@
+id: stravinsky-chant-des-bateliers-du-volga
+work:
+  composer: Stravinsky, Igor
+  title: Chant des bateliers du Volga
+  ids:
+    imslp: Chant des bateliers du Volga, KN15 (Stravinsky, Igor)
+  year: 1917
+formula: 2[pic.2] 2 2 3 4331 tmp
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 3
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - tam-tam
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chant_des_bateliers_du_Volga%2C_KN15_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, flute, 2 oboes, 2 clarinets, 3 bassoons, 4 horns,
+    3 trumpets, 3 trombones, tuba, timpani, bass drum, tam-tam'
+duration_minutes: 5

@@ -1,0 +1,47 @@
+id: prokofiev-lieutenant-kije-symphonic-suite
+work:
+  composer: Prokofiev, Sergey
+  title: Lieutenant Kijé. Symphonic suite
+  ids:
+    imslp: Lieutenant Kijé (suite), Op.60 (Prokofiev, Sergey)
+  year: 1934
+formula: 3[pic.2.3] 2 2 2 4 2[1/cnt.2] 3 1 pf hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - doublings:
+    - cornet
+  - {}
+  trombone: 3
+  tuba: 1
+  percussion:
+    instruments:
+    - sleigh bells
+    - triangle
+    - bass drum
+    - snare drum
+    - tambourine
+  keyboards:
+  - instrument: piano
+  harp: 1
+  strings: str
+  saxophones:
+  - instrument: tenor_sax
+    count: 1
+  additional_raw: percussion (3 players) cymbals
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lieutenant_Kij%C3%A9_%28suite%29%2C_Op.60_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 2 clarinets, tenor saxophone,
+    2 bassoons, 4 horns, 2 trumpets (1st also cornet), 3 trombones, tuba, percussion
+    (3 players) cymbals, sleigh bells, triangle, bass drum, snare drum, tambourine
+    , piano (or celesta), harp, strings'
+duration_minutes: 21

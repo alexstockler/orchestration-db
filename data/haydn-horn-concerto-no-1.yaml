@@ -1,0 +1,16 @@
+id: haydn-horn-concerto-no-1
+work:
+  composer: Haydn, Joseph
+  title: Horn Concerto No.1
+  ids:
+    imslp: Horn Concerto No.1 in D major, Hob.VIId:3 (Haydn, Joseph)
+  year: 1762
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Horn_Concerto_No.1_in_D_major%2C_Hob.VIId%3A3_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings'
