@@ -4,3 +4,4 @@ flask
 fastapi
 uvicorn[standard]
 datasette
+datasette-auth-passwords

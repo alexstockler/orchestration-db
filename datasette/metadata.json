@@ -1,0 +1,14 @@
+{
+    "title": "Orchestration DB",
+    "description": "Orchestral instrumentation database",
+    "allow": {"id": "admin"},
+    "plugins": {
+        "datasette-auth-passwords": {
+            "accounts": {
+                "admin": {
+                    "password_hash": {"$env": "DATASETTE_PASSWORD_HASH"}
+                }
+            }
+        }
+    }
+}
