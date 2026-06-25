@@ -1,3 +1,6 @@
 pyyaml
 jsonschema
 flask
+fastapi
+uvicorn[standard]
+datasette

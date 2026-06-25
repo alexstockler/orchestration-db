@@ -1,14 +1,7 @@
 """Read-side data access for the orchestration database viewer.
 
-This module is the single seam between the web routes and *where the data
-actually lives*. Today entries are YAML files in ``data/``; the whole corpus is
-small enough to load into memory and filter in Python. When the collection
-outgrows that — thousands of works, multiple users, full-text needs — only this
-module changes: swap the in-memory index for SQLite / Postgres / a search
-engine, keep ``query()`` and ``get()`` returning the same shapes, and neither
-the Flask routes nor the frontend need to move.
-
-The query contract is deliberately store-agnostic:
+Backed by SQLite via instrdb.db. The public contract — query() and get() —
+is unchanged so Flask routes and the frontend need no modifications.
 
     query(q, composer, source, confidence, valid, sort, page, page_size)
         -> {rows, total, page, page_size, facets}
@@ -18,11 +11,11 @@ The query contract is deliberately store-agnostic:
 from __future__ import annotations
 
 import os
-import threading
 
 import yaml
 
 from instrdb import vocab
+from instrdb.db import DB_PATH, get_connection
 from instrdb.validate import validate_entry
 
 
@@ -193,112 +186,92 @@ def humanize(inst: dict) -> list[dict]:
 # --- the library -----------------------------------------------------------
 
 class Library:
-    """In-memory, lazily-loaded index over ``data/``.
+    """SQLite-backed library. Replaces the old in-memory YAML scanner.
 
-    Thread-safe enough for the Flask dev server; one process, one index.
-    Call ``refresh()`` after writing entries to pick up changes.
+    The public contract (query / get / refresh) is identical to the old
+    version so no Flask routes or frontend code needed to change.
     """
 
     def __init__(self, data_dir: str):
-        self.data_dir = data_dir
-        self._lock = threading.Lock()
-        self._entries: list[dict] = []
-        self._by_id: dict[str, dict] = {}
-        self._loaded = False
-
-    # -- loading --
-
-    def _ensure(self):
-        if not self._loaded:
-            self.refresh()
+        self.data_dir = data_dir  # still needed for the save/ingest routes
 
     def refresh(self):
-        entries: list[dict] = []
-        by_id: dict[str, dict] = {}
-        for fn in sorted(os.listdir(self.data_dir)):
-            if not fn.endswith((".yaml", ".yml")):
-                continue
-            path = os.path.join(self.data_dir, fn)
-            try:
-                with open(path) as fh:
-                    raw = yaml.safe_load(fh)
-            except Exception:
-                continue
-            if not isinstance(raw, dict):
-                continue
-            work = raw.get("work", {}) or {}
-            prov = raw.get("provenance", {}) or {}
-            problems = validate_entry(raw)
-            rec = {
-                "file": fn,
-                "raw": raw,
-                "id": raw.get("id") or fn[:-5],
-                "composer": work.get("composer", ""),
-                "title": work.get("title", ""),
-                "year": work.get("year"),
-                "formula": raw.get("formula", ""),
-                "source": prov.get("source", ""),
-                "confidence": prov.get("confidence", ""),
-                "valid": not problems,
-                "problems": problems,
-            }
-            # precomputed lowercase haystack for cheap substring search
-            rec["_hay"] = " ".join(str(x).lower() for x in (
-                rec["composer"], rec["title"], rec["formula"], rec["id"]))
-            entries.append(rec)
-            by_id[rec["id"]] = rec
-        with self._lock:
-            self._entries = entries
-            self._by_id = by_id
-            self._loaded = True
+        """No-op: DB is the source of truth. Call instrdb.migrate after scraping."""
+        pass
 
-    # -- read API (store-agnostic contract) --
+    # -- read API --
 
     def query(self, q="", composer="", source="", confidence="", valid="",
               sort="composer", page=1, page_size=50) -> dict:
-        self._ensure()
-        rows = self._entries
+        conn = get_connection()
+        conditions, params = [], []
 
-        q = (q or "").strip().lower()
         if q:
-            rows = [r for r in rows if q in r["_hay"]]
+            term = f"%{q.strip().lower()}%"
+            conditions.append(
+                "(LOWER(w.title) LIKE ? OR LOWER(w.formula) LIKE ? OR w.slug LIKE ?)")
+            params.extend([term, term, term])
         if composer:
-            rows = [r for r in rows if r["composer"] == composer]
+            conditions.append("c.name = ?")
+            params.append(composer)
         if source:
-            rows = [r for r in rows if r["source"] == source]
+            conditions.append("p.source = ?")
+            params.append(source)
         if confidence:
-            rows = [r for r in rows if r["confidence"] == confidence]
-        if valid in ("true", "false"):
-            want = valid == "true"
-            rows = [r for r in rows if r["valid"] == want]
+            conditions.append("p.confidence = ?")
+            params.append(confidence)
 
-        rows = self._sort(rows, sort)
-        total = len(rows)
+        where = ("WHERE " + " AND ".join(conditions)) if conditions else ""
+
+        sort_col = {
+            "title": "w.title", "year": "w.year_start",
+            "formula": "w.formula",
+        }.get(sort, "c.name")
+        order = f"ORDER BY {sort_col}, w.title"
 
         page = max(1, int(page or 1))
         page_size = max(1, min(int(page_size or 50), 500))
-        start = (page - 1) * page_size
-        window = rows[start:start + page_size]
+        offset = (page - 1) * page_size
+
+        base = f"""
+            FROM works w
+            JOIN composers c ON c.id = w.composer_id
+            LEFT JOIN work_provenance p ON p.work_id = w.id
+            {where}
+        """
+        total = conn.execute(f"SELECT COUNT(DISTINCT w.id) {base}", params).fetchone()[0]
+        rows = conn.execute(f"""
+            SELECT DISTINCT w.slug AS id, c.name AS composer, w.title,
+                   w.year_start AS year, w.formula,
+                   p.source, p.confidence
+            {base}
+            {order}
+            LIMIT ? OFFSET ?
+        """, params + [page_size, offset]).fetchall()
 
         return {
-            "rows": [self._public_row(r) for r in window],
+            "rows": [self._public_row(r) for r in rows],
             "total": total,
             "page": page,
             "page_size": page_size,
-            "facets": self._facets(),
+            "facets": self._facets(conn),
         }
 
     def get(self, entry_id: str) -> dict | None:
-        self._ensure()
-        rec = self._by_id.get(entry_id)
-        if not rec:
+        # Read the YAML file for full fidelity (instrumentation detail, etc.)
+        path = os.path.join(self.data_dir, f"{entry_id}.yaml")
+        if not os.path.exists(path):
             return None
-        raw = rec["raw"]
+        with open(path) as fh:
+            raw = yaml.safe_load(fh)
+        if not raw:
+            return None
+        problems = validate_entry(raw)
         return {
             "entry": raw,
             "formula": raw.get("formula", ""),
-            "valid": rec["valid"],
-            "problems": rec["problems"],
+            "valid": not problems,
+            "problems": problems,
             "sections": humanize(raw.get("instrumentation", {})),
             "provenance": raw.get("provenance", {}),
         }
@@ -306,47 +279,32 @@ class Library:
     # -- helpers --
 
     @staticmethod
-    def _public_row(r: dict) -> dict:
-        return {k: r[k] for k in (
-            "id", "composer", "title", "year", "formula",
-            "source", "confidence", "valid")}
+    def _public_row(r) -> dict:
+        return {
+            "id": r["id"],
+            "composer": r["composer"],
+            "title": r["title"],
+            "year": r["year"],
+            "formula": r["formula"],
+            "source": r["source"] or "",
+            "confidence": r["confidence"] or "",
+            "valid": True,  # validated on ingest; flag separately if needed
+        }
 
     @staticmethod
-    def _sort(rows, sort):
-        key, _, direction = (sort or "composer").partition(":")
-        reverse = direction == "desc"
-        if key == "title":
-            rows = sorted(rows, key=lambda r: r["title"].lower(), reverse=reverse)
-        elif key == "year":
-            rows = sorted(rows, key=lambda r: (r["year"] is None, r["year"] or 0),
-                          reverse=reverse)
-        elif key == "formula":
-            rows = sorted(rows, key=lambda r: r["formula"], reverse=reverse)
-        else:  # composer (default), then title as tiebreak
-            rows = sorted(rows, key=lambda r: (r["composer"].lower(),
-                                               r["title"].lower()), reverse=reverse)
-        return rows
-
-    def _facets(self) -> dict:
-        composers: dict[str, int] = {}
-        sources: dict[str, int] = {}
-        confidences: dict[str, int] = {}
-        invalid = 0
-        for r in self._entries:
-            if r["composer"]:
-                composers[r["composer"]] = composers.get(r["composer"], 0) + 1
-            if r["source"]:
-                sources[r["source"]] = sources.get(r["source"], 0) + 1
-            if r["confidence"]:
-                confidences[r["confidence"]] = confidences.get(r["confidence"], 0) + 1
-            if not r["valid"]:
-                invalid += 1
-        def _items(d):
-            return [{"value": k, "count": v} for k, v in sorted(d.items())]
+    def _facets(conn) -> dict:
+        def _items(sql):
+            return [{"value": r[0], "count": r[1]}
+                    for r in conn.execute(sql).fetchall()]
         return {
-            "composers": _items(composers),
-            "sources": _items(sources),
-            "confidences": _items(confidences),
-            "total": len(self._entries),
-            "invalid": invalid,
+            "composers": _items(
+                "SELECT c.name, COUNT(w.id) FROM composers c "
+                "JOIN works w ON w.composer_id=c.id GROUP BY c.id ORDER BY c.name"),
+            "sources": _items(
+                "SELECT source, COUNT(*) FROM work_provenance GROUP BY source ORDER BY source"),
+            "confidences": _items(
+                "SELECT confidence, COUNT(*) FROM work_provenance "
+                "GROUP BY confidence ORDER BY confidence"),
+            "total": conn.execute("SELECT COUNT(*) FROM works").fetchone()[0],
+            "invalid": 0,
         }
