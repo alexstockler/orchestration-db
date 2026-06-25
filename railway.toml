@@ -2,7 +2,7 @@
 builder = "nixpacks"
 
 [deploy]
-startCommand = "python -m instrdb.migrate && uvicorn api.main:app --host 0.0.0.0 --port $PORT"
+startCommand = "python -m instrdb.migrate && if [ \"$SERVICE_TYPE\" = \"datasette\" ]; then datasette serve orchestration.db --host 0.0.0.0 --port $PORT -m datasette/metadata.json; else uvicorn api.main:app --host 0.0.0.0 --port $PORT; fi"
 healthcheckPath = "/health"
 healthcheckTimeout = 30
 restartPolicyType = "on_failure"
