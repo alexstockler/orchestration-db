@@ -1,0 +1,17 @@
+id: haydn-i-canna-come-ilke-day-to-woo-hob-xxxia-140
+work:
+  composer: Haydn, Joseph
+  title: I canna come ilke day to woo, Hob.XXXIa:140
+  ids:
+    imslp: Lass, gin ye lo'e me, tell me now, Hob.XXXIa:140 (Haydn, Joseph)
+  year: 1795
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: violin | keyboard (including figured bass)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lass%2C_gin_ye_lo%27e_me%2C_tell_me_now%2C_Hob.XXXIa%3A140_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, violin, keyboard (including figured bass)'

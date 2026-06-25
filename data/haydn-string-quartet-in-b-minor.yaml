@@ -1,0 +1,15 @@
+id: haydn-string-quartet-in-b-minor
+work:
+  composer: Haydn, Joseph
+  title: String Quartet in B minor
+  ids:
+    imslp: String Quartet in B minor, Hob.III:37 (Haydn, Joseph)
+  year: 1781
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_in_B_minor%2C_Hob.III%3A37_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

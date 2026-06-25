@@ -1,0 +1,15 @@
+id: haydn-non-nobis-domine
+work:
+  composer: Haydn, Joseph
+  title: Non nobis Domine
+  ids:
+    imslp: Non nobis Domine, Hob.XXIIIa:1 (Haydn, Joseph)
+  year: 1799
+formula: ''
+instrumentation:
+  chorus_raw: mixed choir
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Non_nobis_Domine%2C_Hob.XXIIIa%3A1_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed choir (SATB)'

@@ -1,0 +1,15 @@
+id: schubert-kyrie-in-b
+work:
+  composer: Schubert, Franz
+  title: Kyrie in B
+  ids:
+    imslp: Kyrie in B-flat major, D.45 (Schubert, Franz)
+  year: 1813
+formula: ''
+instrumentation:
+  additional_raw: Choir SATB without accompaniment
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kyrie_in_B-flat_major%2C_D.45_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Choir SATB without accompaniment'

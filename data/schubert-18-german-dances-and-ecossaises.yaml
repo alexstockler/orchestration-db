@@ -1,0 +1,16 @@
+id: schubert-18-german-dances-and-ecossaises
+work:
+  composer: Schubert, Franz
+  title: 18 German Dances and Ecossaises
+  ids:
+    imslp: 18 German Dances and Ecossaises, D.783 (Schubert, Franz)
+  year: 1823
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/18_German_Dances_and_Ecossaises%2C_D.783_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

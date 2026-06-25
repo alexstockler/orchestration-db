@@ -1,0 +1,18 @@
+id: prokofiev-12-russian-folksongs
+work:
+  composer: Prokofiev, Sergey
+  title: 12 Russian Folksongs
+  ids:
+    imslp: 12 Russian Folksongs, Op.104 (Prokofiev, Sergey)
+  year: 1944
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Russian_Folksongs%2C_Op.104_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano (arranged)'

@@ -1,0 +1,18 @@
+id: ravel-matinee-de-provence
+work:
+  composer: Ravel, Maurice
+  title: Matinée de Provence
+  ids:
+    imslp: Matinée de Provence, M.37 (Ravel, Maurice)
+  year: 1903
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Matin%C3%A9e_de_Provence%2C_M.37_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, mixed chorus, orchestra'
+duration_minutes: 4

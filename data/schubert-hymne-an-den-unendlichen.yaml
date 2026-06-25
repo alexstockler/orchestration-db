@@ -1,0 +1,18 @@
+id: schubert-hymne-an-den-unendlichen
+work:
+  composer: Schubert, Franz
+  title: Hymne an den Unendlichen
+  ids:
+    imslp: Hymne an den Unendlichen, D.232 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymne_an_den_Unendlichen%2C_D.232_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB), piano'
+duration_minutes: 4

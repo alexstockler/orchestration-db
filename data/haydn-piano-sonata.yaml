@@ -1,0 +1,16 @@
+id: haydn-piano-sonata
+work:
+  composer: Haydn, Joseph
+  title: Piano Sonata
+  ids:
+    imslp: Keyboard Sonata in C major, Hob.XVI:15 (Haydn, Joseph)
+  year: 1765
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Keyboard_Sonata_in_C_major%2C_Hob.XVI%3A15_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord (or piano)'

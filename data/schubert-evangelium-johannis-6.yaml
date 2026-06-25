@@ -1,0 +1,18 @@
+id: schubert-evangelium-johannis-6
+work:
+  composer: Schubert, Franz
+  title: Evangelium Johannis 6
+  ids:
+    imslp: Evangelium Johannis 6, D.607 (Schubert, Franz)
+  year: 1818
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Evangelium_Johannis_6%2C_D.607_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'
+duration_minutes: 3

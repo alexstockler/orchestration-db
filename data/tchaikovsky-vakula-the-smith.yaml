@@ -5,9 +5,12 @@ work:
   ids:
     imslp: Vakula the Smith, Op.14 (Tchaikovsky, Pyotr)
   year: 1874
-formula: 2222 4231 tmp hp
+formula: 3[pic.2.3] 2 2 2 4231 tmp hp str
 instrumentation:
-  flute: 2
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
   oboe: 2
   clarinet: 2
   bassoon: 2
@@ -23,14 +26,16 @@ instrumentation:
     - cymbals
     - bass drum
   harp: 1
-  additional_raw: Cast ::Vakula | a smith (tenor) | Solokha | Vakula's mother | a
+  strings: str
+  chorus_raw: mixed chorus
+  additional_raw: Cast | Vakula | a smith (tenor) | Solokha | Vakula's mother | a
     witch (mezzo soprano) | A devil from Hell | a fantastic character (bass) | Chub
     | an elderly Cossack (bass) | Oksana | Chub's daughter (soprano) | Pan Golova
     (bass) | Panas | Chub's crony (tenor) | Schoolmaster (tenor) | His Highness (bass)
     | Master of Ceremonies (bass) | Attendant (tenor) | Old Cossack (bass) | Wood
-    Goblin (bass) :Mixed Chorus (SATB) :Silent Roles ::Lads | Lasses | Elders | Gusli-players
-    | Rusalki | Wood-sprites | Echo | Spirits | Court ladies and Gentlemen | Zaporozhtsï
-    :Orchestra (On-stage) ::piccolo | strings :Wind Band (Off-stage)
+    Goblin (bass) | Silent Roles | Lads | Lasses | Elders | Gusli-players | Rusalki
+    | Wood-sprites | Echo | Spirits | Court ladies and Gentlemen | Zaporozhtsï | Wind
+    Band (Off-stage)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Vakula_the_Smith%2C_Op.14_%28Tchaikovsky%2C_Pyotr%29

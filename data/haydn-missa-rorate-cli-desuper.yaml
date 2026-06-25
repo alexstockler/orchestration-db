@@ -1,0 +1,19 @@
+id: haydn-missa-rorate-cli-desuper
+work:
+  composer: Haydn, Joseph
+  title: Missa Rorate cœli desuper
+  ids:
+    imslp: Mass in G major, Hob.XXII:3 (Haydn, Joseph)
+  year: 1749
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - sopranos
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mass_in_G_major%2C_Hob.XXII%3A3_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, mixed chorus, strings'
+duration_minutes: 8

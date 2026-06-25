@@ -1,0 +1,23 @@
+id: schubert-klage-um-ali-bey
+work:
+  composer: Schubert, Franz
+  title: Klage um Ali Bey
+  ids:
+    imslp: Klage um Ali Bey, D.140 (Schubert, Franz)
+  year: 1815
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  soloists:
+  - tenors
+  - bass
+  - voice
+  additional_raw: (piano)/female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Klage_um_Ali_Bey%2C_D.140_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 tenors, bass, (piano)/female chorus, piano (1st version);
+    voice, piano (2nd version)'

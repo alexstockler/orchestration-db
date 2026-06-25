@@ -1,0 +1,17 @@
+id: schubert-abschied-von-der-erde
+work:
+  composer: Schubert, Franz
+  title: Abschied von der Erde
+  ids:
+    imslp: Abschied von der Erde, D.829 (Schubert, Franz)
+  year: 1826
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: spoken voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Abschied_von_der_Erde%2C_D.829_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: spoken voice, piano'

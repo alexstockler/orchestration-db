@@ -1,0 +1,28 @@
+id: prokofiev-piano-concerto-no-4
+work:
+  composer: Prokofiev, Sergey
+  title: Piano Concerto No.4
+  ids:
+    imslp: Piano Concerto No.4, Op.53 (Prokofiev, Sergey)
+  year: 1931
+formula: 2222 2110 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 1
+  trombone: 1
+  percussion:
+    instruments:
+    - bass drum
+  strings: str
+  soloists:
+  - piano left-hand
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Concerto_No.4%2C_Op.53_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: piano left-hand, Orchestra: 2 flutes, 2 oboes, 2
+    clarinets (B), 2 bassoons, 2 horns (F), trumpet (B), trombone, bass drum, strings'

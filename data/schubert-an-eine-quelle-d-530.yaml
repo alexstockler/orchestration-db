@@ -1,0 +1,18 @@
+id: schubert-an-eine-quelle-d-530
+work:
+  composer: Schubert, Franz
+  title: An eine Quelle, D.530
+  ids:
+    imslp: An eine Quelle, D.530 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_eine_Quelle%2C_D.530_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

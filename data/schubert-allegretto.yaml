@@ -1,0 +1,15 @@
+id: schubert-allegretto
+work:
+  composer: Schubert, Franz
+  title: Allegretto
+  ids:
+    imslp: Allegretto in C minor, D.900 (Schubert, Franz)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegretto_in_C_minor%2C_D.900_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

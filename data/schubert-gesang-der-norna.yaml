@@ -1,0 +1,18 @@
+id: schubert-gesang-der-norna
+work:
+  composer: Schubert, Franz
+  title: Gesang der Norna
+  ids:
+    imslp: Gesang der Norna, D.831 (Schubert, Franz)
+  year: 1825
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gesang_der_Norna%2C_D.831_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

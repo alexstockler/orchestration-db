@@ -1,0 +1,17 @@
+id: haydn-divertimento-in-e-flat-major
+work:
+  composer: Haydn, Joseph
+  title: Divertimento in E-flat major
+  ids:
+    imslp: Divertimento in E-flat major, Hob.II:6 (Haydn, Joseph)
+  year: 1765
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+  additional_raw: 2 violins | viola
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Divertimento_in_E-flat_major%2C_Hob.II%3A6_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, bass'

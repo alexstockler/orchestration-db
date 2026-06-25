@@ -1,0 +1,18 @@
+id: schubert-erinnerungen
+work:
+  composer: Schubert, Franz
+  title: Erinnerungen
+  ids:
+    imslp: Erinnerungen, D.98 (Schubert, Franz)
+  year: 1814
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erinnerungen%2C_D.98_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

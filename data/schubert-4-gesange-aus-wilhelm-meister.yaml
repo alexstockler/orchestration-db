@@ -1,0 +1,20 @@
+id: schubert-4-gesange-aus-wilhelm-meister
+work:
+  composer: Schubert, Franz
+  title: 4 Gesänge aus 'Wilhelm Meister'
+  ids:
+    imslp: 4 Gesänge aus 'Wilhelm Meister', D.877 (Schubert, Franz)
+  year: 1826
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  soloists:
+  - voice
+  additional_raw: voice duet
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Ges%C3%A4nge_aus_%27Wilhelm_Meister%27%2C_D.877_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice duet, piano (No.1); voice, piano (Nos.2-4)'

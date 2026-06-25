@@ -1,0 +1,18 @@
+id: prokofiev-cello-sonata
+work:
+  composer: Prokofiev, Sergey
+  title: Cello Sonata
+  ids:
+    imslp: Cello Sonata, Op.119 (Prokofiev, Sergey)
+  year: 1949
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Sonata%2C_Op.119_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'
+duration_minutes: 25

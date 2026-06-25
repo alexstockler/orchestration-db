@@ -5,8 +5,8 @@ work:
   ids:
     imslp: Siegfried, WWV 86C (Wagner, Richard)
   year: 1871
-formula: 4[pic.2.3/pic.4] 4[1.2.3.Eh] 4[1.2.3.bcl] 0 8 4[1.2.3.btpt] 4[1.2.3.cbtbn]
-  0 tmp 6hp
+formula: 4[pic.2.3/pic.4] 4[1.2.3.Eh] 4[1.2.3.bcl] 3 8 4[1.2.3.btpt] 4[1.2.3.cbtbn]
+  1[cbtba] tmp 6hp str
 instrumentation:
   flute:
   - instrument: piccolo
@@ -24,6 +24,7 @@ instrumentation:
   - {}
   - {}
   - instrument: bass_clarinet
+  bassoon: 3
   horn: 8
   trumpet:
   - {}
@@ -35,6 +36,8 @@ instrumentation:
   - {}
   - {}
   - instrument: contrabass_trombone
+  tuba:
+  - instrument: contrabass_tuba
   percussion:
     timpani: 2
     instruments:
@@ -43,6 +46,9 @@ instrumentation:
     - tam-tam
     - glockenspiel
   harp: 6
+  strings:
+    standard: true
+    description: 16, 16, 12, 12, 8
   soloists:
   - Siegfried (tenor)
   - Mime (tenor)
@@ -52,9 +58,7 @@ instrumentation:
   - Erda (alto)
   - Brünnhilde (soprano)
   - Forest Bird (soprano)
-  additional_raw: 3 bassoons* | contrabass tuba | strings (16, 16, 12, 12, 8) *3rd
-    bassoon can alternate on contrabassoon if needed for required low A passages |
-    found in the regular 3rd bassoon part
+  additional_raw: found in the regular 3rd bassoon part
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Siegfried%2C_WWV_86C_%28Wagner%2C_Richard%29

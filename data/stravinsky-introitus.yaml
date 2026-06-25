@@ -1,0 +1,21 @@
+id: stravinsky-introitus
+work:
+  composer: Stravinsky, Igor
+  title: Introitus
+  ids:
+    imslp: Introitus, K104 (Stravinsky, Igor)
+  year: 1965
+formula: tmp pf hp
+instrumentation:
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: piano
+  harp: 1
+  chorus_raw: male chorus
+  additional_raw: viola | double bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Introitus%2C_K104_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus, harp, piano, timpani, viola, double bass'

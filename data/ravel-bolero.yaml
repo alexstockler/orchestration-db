@@ -1,0 +1,68 @@
+id: ravel-bolero
+work:
+  composer: Ravel, Maurice
+  title: Boléro
+  ids:
+    imslp: Boléro, M.81 (Ravel, Maurice)
+  year: 1928
+formula: 3[pic.2.3] 3[1.2/obda.Eh] 4[Ebcl.2.3.bcl] 2 4 4[pictpt.2.3.4] 3 1 tmp cel
+  hp
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - doublings:
+    - oboe_damore
+  - instrument: english_horn
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - instrument: piccolo_trumpet
+  - {}
+  - {}
+  - {}
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - tam-tam
+  keyboards:
+  - instrument: celesta
+  harp: 1
+  saxophones:
+  - instrument: soprano_sax
+    count: 1
+  additional_raw: 'contrabassoon sopranino saxophone | percussion* (4 players) | strings
+    *Further comments: # The E-flat clarinet part can be done by one of the clarinets
+    | i.e | only 3 players are needed. # Percussion: 2 snare drums | Although not
+    listed at the front of the score | the last 6 bars of the work show a line for
+    Gr.C. (Grosse Caisse = bass drum.) # The saxophone parts are usually played by
+    two players: the first playing the sopranino and soprano passages with a soprano
+    saxophone and the second playing only the tenor saxophone.'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bol%C3%A9ro%2C_M.81_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes (2nd also oboe d''amore), English
+    horn, :E clarinet, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon sopranino
+    saxophone, soprano saxophone (also tenor saxophone), 4 horns, piccolo trumpet,
+    3 trumpets, 3 trombones, tuba, timpani (3), percussion* (4 players), celesta,
+    harp, strings *Further comments: # The E clarinet part can be done by one of the
+    clarinets, i.e. only 3 players are needed. # Percussion: 2 snare drums, bass drum,
+    cymbals, tam-tam (also celesta). Although not listed at the front of the score,
+    the last 6 bars of the work show a line for Gr.C. (Grosse Caisse = bass drum.)
+    # The saxophone parts are usually played by two players: the first playing the
+    sopranino and soprano passages with a soprano saxophone and the second playing
+    only the tenor saxophone.'
+duration_minutes: 15

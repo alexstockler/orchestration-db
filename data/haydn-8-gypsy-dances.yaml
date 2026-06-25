@@ -1,0 +1,15 @@
+id: haydn-8-gypsy-dances
+work:
+  composer: Haydn, Joseph
+  title: 8 Gypsy Dances
+  ids:
+    imslp: 8 Gypsy Dances, Hob.IX:28 (Haydn, Joseph)
+  year: 1799
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Gypsy_Dances%2C_Hob.IX%3A28_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

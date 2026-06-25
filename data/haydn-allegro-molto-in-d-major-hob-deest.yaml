@@ -1,0 +1,14 @@
+id: haydn-allegro-molto-in-d-major-hob-deest
+work:
+  composer: Haydn, Joseph
+  title: Allegro molto in D major, Hob.deest
+  ids:
+    imslp: Allegro molto in D major, Hob.deest (Haydn, Joseph)
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegro_molto_in_D_major%2C_Hob.deest_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

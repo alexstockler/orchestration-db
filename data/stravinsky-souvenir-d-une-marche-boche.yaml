@@ -1,0 +1,16 @@
+id: stravinsky-souvenir-d-une-marche-boche
+work:
+  composer: Stravinsky, Igor
+  title: Souvenir d'une marche boche
+  ids:
+    imslp: Souvenir d'une marche boche, KN14 (Stravinsky, Igor)
+  year: 1916
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Souvenir_d%27une_marche_boche%2C_KN14_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

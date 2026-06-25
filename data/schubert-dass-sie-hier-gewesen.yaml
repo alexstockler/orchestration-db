@@ -1,0 +1,18 @@
+id: schubert-dass-sie-hier-gewesen
+work:
+  composer: Schubert, Franz
+  title: Dass sie hier gewesen
+  ids:
+    imslp: Dass sie hier gewesen, D.775 (Schubert, Franz)
+  year: 1823
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dass_sie_hier_gewesen%2C_D.775_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

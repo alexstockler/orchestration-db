@@ -1,0 +1,17 @@
+id: schubert-alleluja-in-f-major
+work:
+  composer: Schubert, Franz
+  title: Alleluja in F major
+  ids:
+    imslp: Alleluja in F major, D.71a (Schubert, Franz)
+  year: 1813
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alleluja_in_F_major%2C_D.71a_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'
+duration_minutes: 1

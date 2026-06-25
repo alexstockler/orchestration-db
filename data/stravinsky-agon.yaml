@@ -1,0 +1,46 @@
+id: stravinsky-agon
+work:
+  composer: Stravinsky, Igor
+  title: Agon
+  ids:
+    imslp: Agon, K088 (Stravinsky, Igor)
+  year: 1954
+formula: 3 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 4430 tmp pf hp mand str
+instrumentation:
+  flute: 3
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 4
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - xylophone
+    - castanets
+  keyboards:
+  - instrument: piano
+  harp: 1
+  extras:
+  - instrument: mandolin
+  strings: str
+  additional_raw: 3 high tom-toms (or timpani)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Agon%2C_K088_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (piccolo), 2 oboes, English horn, 2 clarinets,
+    bass clarinet, 2 bassoons, contrabassoon, 4 horns, 4 trumpets, 3 trombones,, timpani,
+    3 high tom-toms (or timpani), xylophone, castanets,, piano, harp, mandolin, strings
+    (including solo violin, solo viola, 3 solo cellos, 3 double basses)'
+duration_minutes: 23

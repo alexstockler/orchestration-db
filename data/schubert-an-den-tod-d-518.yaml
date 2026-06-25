@@ -1,0 +1,18 @@
+id: schubert-an-den-tod-d-518
+work:
+  composer: Schubert, Franz
+  title: An den Tod, D.518
+  ids:
+    imslp: An den Tod, D.518 (Schubert, Franz)
+  year: 1817
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_den_Tod%2C_D.518_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

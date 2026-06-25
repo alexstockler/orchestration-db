@@ -1,0 +1,17 @@
+id: prokofiev-things-in-themselves
+work:
+  composer: Prokofiev, Sergey
+  title: Things in Themselves
+  ids:
+    imslp: Things in Themselves, Op.45 (Prokofiev, Sergey)
+  year: 1928
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Things_in_Themselves%2C_Op.45_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'
+duration_minutes: 14

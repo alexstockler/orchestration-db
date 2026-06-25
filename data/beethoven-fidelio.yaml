@@ -5,9 +5,12 @@ work:
   ids:
     imslp: Fidelio, Op.72 (Beethoven, Ludwig van)
   year: 1804
-formula: 2 2 2 3[1.2.cbn] 4220 tmp
+formula: 3[pic.2.3] 2 2 3[1.2.cbn] 4220 tmp str
 instrumentation:
-  flute: 2
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
   oboe: 2
   clarinet: 2
   bassoon:
@@ -19,10 +22,17 @@ instrumentation:
   trombone: 2
   percussion:
     timpani: 1
-  additional_raw: Florestan (tenor) | Leonore (soprano) | Rocco (bass) | Marzelline
-    (soprano) | Jaquino (tenor) | Don Pizarro (bass-baritone) | Don Fernando (bass)
-    | 1st prisoner (tenor) | 2nd prisoner (bass) Mixed Chorus (SATTBB) | Orchestra
-    :piccolo | strings ' (trumpet)
+  strings: str
+  soloists:
+  - Florestan (tenor)
+  - Leonore (soprano)
+  - Rocco (bass)
+  - Marzelline (soprano)
+  - Jaquino (tenor)
+  - Don Pizarro (bass-baritone)
+  - Don Fernando (bass)
+  - 1st prisoner (tenor)
+  - 2nd prisoner (bass) Mixed Chorus (SATTBB)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Fidelio%2C_Op.72_%28Beethoven%2C_Ludwig_van%29

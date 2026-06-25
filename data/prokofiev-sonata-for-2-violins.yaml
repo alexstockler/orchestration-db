@@ -1,0 +1,16 @@
+id: prokofiev-sonata-for-2-violins
+work:
+  composer: Prokofiev, Sergey
+  title: Sonata for 2 Violins
+  ids:
+    imslp: Sonata for 2 Violins, Op.56 (Prokofiev, Sergey)
+  year: 1932
+formula: ''
+instrumentation:
+  additional_raw: 2 violins
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_for_2_Violins%2C_Op.56_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins'
+duration_minutes: 14

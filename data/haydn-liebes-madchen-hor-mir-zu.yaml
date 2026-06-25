@@ -1,0 +1,17 @@
+id: haydn-liebes-madchen-hor-mir-zu
+work:
+  composer: Haydn, Joseph
+  title: Liebes Mädchen hör mir zu
+  ids:
+    imslp: Liebes Mädchen hör mir zu, Hob.XXVIa:D1 (Haydn, Joseph)
+  year: 1859
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Liebes_M%C3%A4dchen_h%C3%B6r_mir_zu%2C_Hob.XXVIa%3AD1_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, keyboard'

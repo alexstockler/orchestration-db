@@ -1,0 +1,15 @@
+id: haydn-das-bose-weib
+work:
+  composer: Haydn, Joseph
+  title: Das böse Weib
+  ids:
+    imslp: Das böse Weib, Hob.XXVIIb:23 (Haydn, Joseph)
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_b%C3%B6se_Weib%2C_Hob.XXVIIb%3A23_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

@@ -1,0 +1,18 @@
+id: ravel-chants-populaires
+work:
+  composer: Ravel, Maurice
+  title: Chants populaires
+  ids:
+    imslp: Chants populaires, M.A 17 (Ravel, Maurice)
+  year: 1909
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chants_populaires%2C_M.A_17_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

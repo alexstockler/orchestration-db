@@ -1,0 +1,18 @@
+id: schubert-bootgesang
+work:
+  composer: Schubert, Franz
+  title: Bootgesang
+  ids:
+    imslp: Bootgesang, D.835 (Schubert, Franz)
+  year: 1825
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bootgesang%2C_D.835_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB), piano'
+duration_minutes: 4

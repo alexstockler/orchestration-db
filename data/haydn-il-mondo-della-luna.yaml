@@ -1,0 +1,30 @@
+id: haydn-il-mondo-della-luna
+work:
+  composer: Haydn, Joseph
+  title: Il mondo della luna
+  ids:
+    imslp: Il mondo della luna, Hob.XXVIII:7 (Haydn, Joseph)
+  year: 1777
+formula: 2202 2220 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - 3 sopranos
+  - alto
+  - 2 tenors
+  - bass
+  - mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_mondo_della_luna%2C_Hob.XXVIII%3A7_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 sopranos, alto, 2 tenors, bass; mixed chorus, Orchestra:
+    2 flutes, 2 oboes, 2 bassoons, 2 horns, 2 trumpets, 2 trombones, timpani, strings'

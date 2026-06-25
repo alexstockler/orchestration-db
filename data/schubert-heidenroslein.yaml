@@ -1,0 +1,18 @@
+id: schubert-heidenroslein
+work:
+  composer: Schubert, Franz
+  title: Heidenröslein
+  ids:
+    imslp: Heidenröslein, D.257 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Heidenr%C3%B6slein%2C_D.257_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

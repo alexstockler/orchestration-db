@@ -1,0 +1,19 @@
+id: schubert-gruppe-aus-dem-tartarus
+work:
+  composer: Schubert, Franz
+  title: Gruppe aus dem Tartarus
+  ids:
+    imslp: Gruppe aus dem Tartarus, D.396 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gruppe_aus_dem_Tartarus%2C_D.396_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 1

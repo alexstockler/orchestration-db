@@ -1,0 +1,18 @@
+id: schubert-die-blumensprache
+work:
+  composer: Schubert, Franz
+  title: Die Blumensprache
+  ids:
+    imslp: Die Blumensprache, D.519 (Schubert, Franz)
+  year: 1817
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Blumensprache%2C_D.519_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

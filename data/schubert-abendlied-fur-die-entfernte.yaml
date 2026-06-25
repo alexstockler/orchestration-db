@@ -1,0 +1,18 @@
+id: schubert-abendlied-fur-die-entfernte
+work:
+  composer: Schubert, Franz
+  title: Abendlied für die Entfernte
+  ids:
+    imslp: Abendlied für die Entfernte, D.856 (Schubert, Franz)
+  year: 1825
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Abendlied_f%C3%BCr_die_Entfernte%2C_D.856_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

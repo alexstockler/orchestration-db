@@ -1,0 +1,17 @@
+id: schubert-hektors-abschied
+work:
+  composer: Schubert, Franz
+  title: Hektors Abschied
+  ids:
+    imslp: Hektors Abschied, D.312 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: svoice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hektors_Abschied%2C_D.312_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: svoice, piano'

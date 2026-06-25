@@ -1,0 +1,17 @@
+id: schubert-ecossaise-in-d-major
+work:
+  composer: Schubert, Franz
+  title: Ecossaise in D major
+  ids:
+    imslp: Ecossaise in D major, D.782 (Schubert, Franz)
+  year: 1824
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ecossaise_in_D_major%2C_D.782_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

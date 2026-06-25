@@ -1,0 +1,17 @@
+id: schubert-variations-for-flute-and-piano
+work:
+  composer: Schubert, Franz
+  title: Variations for Flute and Piano
+  ids:
+    imslp: Introduction and Variations, D.802 (Schubert, Franz)
+  year: 1824
+formula: 1000 0000 pf
+instrumentation:
+  flute: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Introduction_and_Variations%2C_D.802_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, piano'

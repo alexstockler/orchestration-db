@@ -1,0 +1,35 @@
+id: stravinsky-a-sermon-a-narrative-and-a-prayer
+work:
+  composer: Stravinsky, Igor
+  title: A Sermon, a Narrative and a Prayer
+  ids:
+    imslp: A Sermon, a Narrative and a Prayer, K095 (Stravinsky, Igor)
+  year: 1960
+formula: 2[1.afl] 2 2[1.bcl] 2 4331 pf hp str
+instrumentation:
+  flute:
+  - {}
+  - instrument: alto_flute
+  oboe: 2
+  clarinet:
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    instruments:
+    - tam-tam
+  keyboards:
+  - instrument: piano
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_Sermon%2C_a_Narrative_and_a_Prayer%2C_K095_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, alto flute, 2 oboes, clarinet, bass clarinet, 2
+    bassoons, 4 horns, 3 trumpets, 3 trombones, tuba, 3 tam-tam, piano, harp, strings'
+duration_minutes: 15

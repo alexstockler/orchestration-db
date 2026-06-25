@@ -1,0 +1,18 @@
+id: schubert-die-betende-d-102
+work:
+  composer: Schubert, Franz
+  title: Die Betende, D.102
+  ids:
+    imslp: Die Betende, D.102 (Schubert, Franz)
+  year: 1814
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Betende%2C_D.102_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

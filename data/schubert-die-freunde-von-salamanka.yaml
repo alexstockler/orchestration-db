@@ -1,0 +1,17 @@
+id: schubert-die-freunde-von-salamanka
+work:
+  composer: Schubert, Franz
+  title: Die Freunde von Salamanka
+  ids:
+    imslp: Die Freunde von Salamanka, D.326 (Schubert, Franz)
+  year: 1815
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Freunde_von_Salamanka%2C_D.326_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices, chorus, orchestra'

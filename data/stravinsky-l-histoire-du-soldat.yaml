@@ -1,0 +1,29 @@
+id: stravinsky-l-histoire-du-soldat
+work:
+  composer: Stravinsky, Igor
+  title: L'histoire du soldat
+  ids:
+    imslp: Histoire du soldat, K029 (Stravinsky, Igor)
+  year: 1918
+formula: 0011 0 1[cnt] 1 0 1perc
+instrumentation:
+  clarinet: 1
+  bassoon: 1
+  trumpet:
+  - instrument: cornet
+  trombone: 1
+  percussion:
+    players: 1
+  additional_raw: Narrator (speaking) | Soldier (silent) | Devil (speaking) | Devil
+    (playing and dancing) | Princess (silent) Ensemble | violin | double bass | (snare
+    drum | 2 side drums (large, small) without snares, bass drum, cymbals, tambourine,
+    triangle)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Histoire_du_soldat%2C_K029_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Narrator (speaking), Soldier (silent), Devil (speaking),
+    Devil (playing and dancing), Princess (silent) Ensemble :clarinet, bassoon, cornet,
+    trombone (tenor/bass), violin, double bass, percussion, (snare drum, 2 side drums
+    (large, small) without snares, bass drum, cymbals, tambourine, triangle)'
+duration_minutes: 35

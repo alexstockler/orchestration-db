@@ -1,0 +1,16 @@
+id: prokofiev-pensees
+work:
+  composer: Prokofiev, Sergey
+  title: Pensées
+  ids:
+    imslp: Pensées, Op.62 (Prokofiev, Sergey)
+  year: 1933
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pens%C3%A9es%2C_Op.62_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

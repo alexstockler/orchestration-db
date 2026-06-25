@@ -1,0 +1,18 @@
+id: schubert-die-gestirne-d-444
+work:
+  composer: Schubert, Franz
+  title: Die Gestirne, D.444
+  ids:
+    imslp: Die Gestirne, D.444 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Gestirne%2C_D.444_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

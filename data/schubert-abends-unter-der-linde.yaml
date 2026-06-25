@@ -1,0 +1,18 @@
+id: schubert-abends-unter-der-linde
+work:
+  composer: Schubert, Franz
+  title: Abends unter der Linde
+  ids:
+    imslp: Abends unter der Linde, D.235 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Abends_unter_der_Linde%2C_D.235_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

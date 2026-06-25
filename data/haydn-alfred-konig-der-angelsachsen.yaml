@@ -1,0 +1,18 @@
+id: haydn-alfred-konig-der-angelsachsen
+work:
+  composer: Haydn, Joseph
+  title: Alfred, Konig der Angelsachsen
+  ids:
+    imslp: Musik zum Schauspiel 'Alfred oder der patriotische König', Hob.XXX:5 (Haydn,
+      Joseph)
+  year: 1796
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Musik_zum_Schauspiel_%27Alfred_oder_der_patriotische_K%C3%B6nig%27%2C_Hob.XXX%3A5_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

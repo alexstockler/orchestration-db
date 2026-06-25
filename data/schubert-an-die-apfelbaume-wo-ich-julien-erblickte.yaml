@@ -1,0 +1,18 @@
+id: schubert-an-die-apfelbaume-wo-ich-julien-erblickte
+work:
+  composer: Schubert, Franz
+  title: An die Apfelbäume, wo ich Julien erblickte
+  ids:
+    imslp: An die Apfelbäume, wo ich Julien erblickte, D.197 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_die_Apfelb%C3%A4ume%2C_wo_ich_Julien_erblickte%2C_D.197_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

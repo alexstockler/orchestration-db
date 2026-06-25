@@ -1,0 +1,15 @@
+id: haydn-sonata-in-g-minor
+work:
+  composer: Haydn, Joseph
+  title: Sonata in G minor
+  ids:
+    imslp: Piano Trio in G minor, Hob.XV:1 (Haydn, Joseph)
+  year: 1766
+formula: ''
+instrumentation:
+  additional_raw: violin | cello | harpsichord or piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio_in_G_minor%2C_Hob.XV%3A1_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, harpsichord or piano'

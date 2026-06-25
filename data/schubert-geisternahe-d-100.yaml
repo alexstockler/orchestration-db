@@ -1,0 +1,18 @@
+id: schubert-geisternahe-d-100
+work:
+  composer: Schubert, Franz
+  title: Geisternähe, D.100
+  ids:
+    imslp: Geisternähe, D.100 (Schubert, Franz)
+  year: 1814
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Geistern%C3%A4he%2C_D.100_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

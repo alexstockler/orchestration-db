@@ -1,0 +1,23 @@
+id: haydn-mass-in-e-major
+work:
+  composer: Haydn, Joseph
+  title: Mass in E♭ major
+  ids:
+    imslp: Mass in E-flat major, Hob.XXII:4 (Haydn, Joseph)
+  year: 1766
+formula: 0001 2000 str
+instrumentation:
+  bassoon: 1
+  horn: 2
+  strings: str
+  soloists:
+  - voices
+  - mixed chorus
+  additional_raw: (2 English horns | obligato (solo) organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mass_in_E-flat_major%2C_Hob.XXII%3A4_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: For voices, mixed chorus, orchestra (2 English horns, bassoon
+    (unison with cellos), 2 horns, strings, obligato (solo) organ)'
+duration_minutes: 35

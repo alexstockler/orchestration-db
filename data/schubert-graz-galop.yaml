@@ -1,0 +1,15 @@
+id: schubert-graz-galop
+work:
+  composer: Schubert, Franz
+  title: Graz Galop
+  ids:
+    imslp: Grazer Galopp, D.925 (Schubert, Franz)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grazer_Galopp%2C_D.925_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

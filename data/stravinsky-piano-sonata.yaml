@@ -1,0 +1,17 @@
+id: stravinsky-piano-sonata
+work:
+  composer: Stravinsky, Igor
+  title: Piano Sonata
+  ids:
+    imslp: Piano Sonata, K001 (Stravinsky, Igor)
+  year: 1903
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata%2C_K001_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 30

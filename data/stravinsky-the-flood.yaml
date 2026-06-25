@@ -1,0 +1,76 @@
+id: stravinsky-the-flood
+work:
+  composer: Stravinsky, Igor
+  title: The Flood
+  ids:
+    imslp: The Flood, K098 (Stravinsky, Igor)
+  year: 1961
+formula: 4[1.2.3/pic.afl] 3[1.2.Eh] 4[1.2.bcl.cbcl] 3[1.2.cbn] 4 3 2[1/atbn.2] 1[cbtba]
+  tmp cel pf hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  - instrument: alto_flute
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  - instrument: contrabass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone:
+  - doublings:
+    - alto_trombone
+  - {}
+  tuba:
+  - instrument: contrabass_tuba
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - tom-toms
+  keyboards:
+  - instrument: celesta
+  - instrument: piano
+  harp: 1
+  strings: str
+  soloists:
+  - Lucifer/Satan (tenor)
+  - God (2 basses)
+  - A Narrator (spoken)
+  - Satan (spoken)
+  - Eve (spoken)
+  - Noah (spoken)
+  - A Caller (spoken)
+  - Noah's Wife (spoken)
+  - Son of Noah (spoken)
+  - 3 Wives of Sons of Noah (silent) Mixed Chorus (SAT)
+  additional_raw: 'unknown doubling in clarinet: d | unknown doubling in clarinet:
+    e-flat clarinet-flat clarinet | xylorimba (or marimbaphone) | (includes 2 solo
+    violins, solo viola, solo cello, solo double bass)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Flood%2C_K098_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Lucifer/Satan (tenor), God (2 basses), A Narrator
+    (spoken), Satan (spoken), Eve (spoken), Noah (spoken), A Caller (spoken), Noah''s
+    Wife (spoken), Son of Noah (spoken), 3 Wives of Sons of Noah (silent) Mixed Chorus
+    (SAT), Orchestra :3 flutes (3rd also piccolo), alto flute, 2 oboes, English horn,
+    2 clarinets (1st also D/E clarinet),, bass clarinet, contrabass clarinet, 2 bassoons,
+    contrabassoon, 4 horns, 3 trumpets, 2 tenor trombones (1st also alto trombone),
+    contrabass tuba, timpani, bass drum, cymbals, xylorimba (or marimbaphone), 3 tom-toms,,
+    celesta, piano, harp, strings, (includes 2 solo violins, solo viola, solo cello,
+    solo double bass)'
+duration_minutes: 22

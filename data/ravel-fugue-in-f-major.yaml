@@ -1,0 +1,17 @@
+id: ravel-fugue-in-f-major
+work:
+  composer: Ravel, Maurice
+  title: Fugue in F Major
+  ids:
+    imslp: Fugue in F major, M.27 (Ravel, Maurice)
+  year: 1900
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_F_major%2C_M.27_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 4

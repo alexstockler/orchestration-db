@@ -1,0 +1,20 @@
+id: ravel-myrrha
+work:
+  composer: Ravel, Maurice
+  title: Myrrha
+  ids:
+    imslp: Myrrha, M.29 (Ravel, Maurice)
+  year: 1901
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  - baritone
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Myrrha%2C_M.29_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, baritone, chorus, orchestra'
+duration_minutes: 23

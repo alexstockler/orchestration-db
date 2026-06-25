@@ -1,0 +1,18 @@
+id: schubert-blumenlied-d-431
+work:
+  composer: Schubert, Franz
+  title: Blumenlied, D.431
+  ids:
+    imslp: Blumenlied, D.431 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Blumenlied%2C_D.431_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

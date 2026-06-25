@@ -1,0 +1,22 @@
+id: schubert-an-die-sonne
+work:
+  composer: Schubert, Franz
+  title: An die Sonne
+  ids:
+    imslp: An die Sonne, D.439 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_die_Sonne%2C_D.439_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, piano'
+duration_minutes: 6

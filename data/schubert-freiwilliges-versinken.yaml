@@ -1,0 +1,18 @@
+id: schubert-freiwilliges-versinken
+work:
+  composer: Schubert, Franz
+  title: Freiwilliges Versinken
+  ids:
+    imslp: Freiwilliges Versinken, D.700 (Schubert, Franz)
+  year: 1820
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Freiwilliges_Versinken%2C_D.700_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

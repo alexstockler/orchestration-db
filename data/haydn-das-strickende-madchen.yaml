@@ -1,0 +1,17 @@
+id: haydn-das-strickende-madchen
+work:
+  composer: Haydn, Joseph
+  title: Das strickende Mädchen
+  ids:
+    imslp: Das strickende Mädchen, Hob.XXVIa:1 (Haydn, Joseph)
+  year: 1781
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_strickende_M%C3%A4dchen%2C_Hob.XXVIa%3A1_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, keyboard'

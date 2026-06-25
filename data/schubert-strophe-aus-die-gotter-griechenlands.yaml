@@ -1,0 +1,19 @@
+id: schubert-strophe-aus-die-gotter-griechenlands
+work:
+  composer: Schubert, Franz
+  title: Strophe aus ‘Die Götter Griechenlands'
+  ids:
+    imslp: Die Götter Griechenlands, D.677 (Schubert, Franz)
+  year: 1819
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_G%C3%B6tter_Griechenlands%2C_D.677_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 4

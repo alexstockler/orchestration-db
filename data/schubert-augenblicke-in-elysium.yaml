@@ -1,0 +1,17 @@
+id: schubert-augenblicke-in-elysium
+work:
+  composer: Schubert, Franz
+  title: Augenblicke in Elysium
+  ids:
+    imslp: Augenblicke in Elysium, D.990b (Schubert, Franz)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Augenblicke_in_Elysium%2C_D.990b_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,18 @@
+id: prokofiev-flute-sonata
+work:
+  composer: Prokofiev, Sergey
+  title: Flute Sonata
+  ids:
+    imslp: Flute Sonata, Op.94 (Prokofiev, Sergey)
+  year: 1943
+formula: 1000 0000 pf
+instrumentation:
+  flute: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flute_Sonata%2C_Op.94_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, piano'
+duration_minutes: 25

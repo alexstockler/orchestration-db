@@ -1,0 +1,18 @@
+id: schubert-am-see
+work:
+  composer: Schubert, Franz
+  title: Am See
+  ids:
+    imslp: Am See, D.124 (Schubert, Franz)
+  year: 1814
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Am_See%2C_D.124_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

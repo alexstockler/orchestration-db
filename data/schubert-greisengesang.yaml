@@ -1,0 +1,18 @@
+id: schubert-greisengesang
+work:
+  composer: Schubert, Franz
+  title: Greisengesang
+  ids:
+    imslp: Greisengesang, D.778 (Schubert, Franz)
+  year: 1823
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Greisengesang%2C_D.778_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, piano'

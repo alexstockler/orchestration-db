@@ -1,0 +1,18 @@
+id: schubert-grablied-auf-einen-soldaten-d-454
+work:
+  composer: Schubert, Franz
+  title: Grablied auf einen Soldaten, D.454
+  ids:
+    imslp: Grablied auf einen Soldaten, D.454 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grablied_auf_einen_Soldaten%2C_D.454_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

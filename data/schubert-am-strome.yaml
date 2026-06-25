@@ -1,0 +1,18 @@
+id: schubert-am-strome
+work:
+  composer: Schubert, Franz
+  title: Am Strome
+  ids:
+    imslp: Am Strome, D.539 (Schubert, Franz)
+  year: 1817
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Am_Strome%2C_D.539_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

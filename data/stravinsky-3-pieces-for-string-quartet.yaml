@@ -1,0 +1,16 @@
+id: stravinsky-3-pieces-for-string-quartet
+work:
+  composer: Stravinsky, Igor
+  title: 3 Pieces for String Quartet
+  ids:
+    imslp: 3 Pieces for String Quartet, K019 (Stravinsky, Igor)
+  year: 1914
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Pieces_for_String_Quartet%2C_K019_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 7

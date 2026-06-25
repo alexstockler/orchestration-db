@@ -1,0 +1,22 @@
+id: schubert-franz-schuberts-begrabnis-feyer
+work:
+  composer: Schubert, Franz
+  title: Franz Schuberts Begräbnis-Feyer
+  ids:
+    imslp: Eine kleine Trauermusik, D.79 (Schubert, Franz)
+  year: 1813
+formula: 0 0 2 3[1.2.cbn] 2020
+instrumentation:
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 2
+  trombone: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Eine_kleine_Trauermusik%2C_D.79_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 clarinets, 2 bassoons, contrabassoon, 2 horns, 2 trombones'
+duration_minutes: 5

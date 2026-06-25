@@ -1,0 +1,18 @@
+id: haydn-piercing-eyes
+work:
+  composer: Haydn, Joseph
+  title: Piercing eyes
+  ids:
+    imslp: Piercing eyes, Hob.XXVIa:35 (Haydn, Joseph)
+  year: 1794
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piercing_eyes%2C_Hob.XXVIa%3A35_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

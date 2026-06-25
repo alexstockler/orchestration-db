@@ -1,0 +1,16 @@
+id: stravinsky-concerto-in-d-major
+work:
+  composer: Stravinsky, Igor
+  title: Concerto in D major
+  ids:
+    imslp: Concerto in D major, K075 (Stravinsky, Igor)
+  year: 1946
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_in_D_major%2C_K075_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'
+duration_minutes: 12

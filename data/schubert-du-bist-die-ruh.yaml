@@ -1,0 +1,18 @@
+id: schubert-du-bist-die-ruh
+work:
+  composer: Schubert, Franz
+  title: Du bist die Ruh
+  ids:
+    imslp: Du bist die Ruh, D.776 (Schubert, Franz)
+  year: 1823
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Du_bist_die_Ruh%2C_D.776_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

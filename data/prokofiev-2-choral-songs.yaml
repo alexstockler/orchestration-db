@@ -1,0 +1,17 @@
+id: prokofiev-2-choral-songs
+work:
+  composer: Prokofiev, Sergey
+  title: 2 Choral Songs
+  ids:
+    imslp: 2 Choral Songs, Op.66a (Prokofiev, Sergey)
+  year: 1935
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Choral_Songs%2C_Op.66a_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), piano'

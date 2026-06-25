@@ -1,0 +1,15 @@
+id: schubert-das-dorfchen
+work:
+  composer: Schubert, Franz
+  title: Das Dörfchen
+  ids:
+    imslp: Das Dörfchen, D.598 (Schubert, Franz)
+  year: 1817
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_D%C3%B6rfchen%2C_D.598_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB) (+ piano in 2nd version)'

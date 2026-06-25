@@ -1,0 +1,16 @@
+id: schubert-das-grab
+work:
+  composer: Schubert, Franz
+  title: Das Grab
+  ids:
+    imslp: Das Grab, D.329a (Schubert, Franz)
+  year: 1815
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Grab%2C_D.329a_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 2

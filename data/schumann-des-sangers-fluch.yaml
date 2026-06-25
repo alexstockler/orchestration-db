@@ -1,0 +1,16 @@
+id: schumann-des-sangers-fluch
+work:
+  composer: Schumann, Robert
+  title: Des Sängers Fluch
+  ids:
+    imslp: Des Sängers Fluch, Op.139 (Schumann, Robert)
+  year: 1852
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Soloists | orchestra 2222-4230 str | timp.
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Des_S%C3%A4ngers_Fluch%2C_Op.139_%28Schumann%2C_Robert%29
+  confidence: single_source
+  notes: 'Instrumentation: Soloists, chorus, orchestra 2222-4230 str. timp.'

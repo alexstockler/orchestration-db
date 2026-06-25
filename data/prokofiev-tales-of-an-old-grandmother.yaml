@@ -1,0 +1,17 @@
+id: prokofiev-tales-of-an-old-grandmother
+work:
+  composer: Prokofiev, Sergey
+  title: Tales of an Old Grandmother
+  ids:
+    imslp: Tales of an Old Grandmother, Op.31 (Prokofiev, Sergey)
+  year: 1918
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tales_of_an_Old_Grandmother%2C_Op.31_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 10

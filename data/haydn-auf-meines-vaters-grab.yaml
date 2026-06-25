@@ -1,0 +1,17 @@
+id: haydn-auf-meines-vaters-grab
+work:
+  composer: Haydn, Joseph
+  title: Auf meines Vaters Grab
+  ids:
+    imslp: Auf meines Vaters Grab, Hob.XXVI:24 (Haydn, Joseph)
+  year: 1784
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Auf_meines_Vaters_Grab%2C_Hob.XXVI%3A24_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, keyboard'

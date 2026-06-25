@@ -1,0 +1,17 @@
+id: ravel-piano-trio
+work:
+  composer: Ravel, Maurice
+  title: Piano Trio
+  ids:
+    imslp: Piano Trio, M.67 (Ravel, Maurice)
+  year: 1914
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio%2C_M.67_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'

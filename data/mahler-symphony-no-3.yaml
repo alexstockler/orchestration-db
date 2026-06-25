@@ -5,31 +5,52 @@ work:
   ids:
     imslp: Symphony No.3, GMW 31 (Mahler, Gustav)
   year: 1896
-formula: 0 4[1.2.3.4/Eh] 0 0 0441 tmp
+formula: 4 4[1.2.3.4/Eh] 5[Ebcl.Ebcl.3/bcl.4.5] 4[1.2.3/cbn.4/cbn] 8441 tmp+1 2hp
+  str
 instrumentation:
+  flute: 4
   oboe:
   - {}
   - {}
   - {}
   - doublings:
     - english_horn
+  clarinet:
+  - instrument: eflat_clarinet
+  - instrument: eflat_clarinet
+  - doublings:
+    - bass_clarinet
+  - {}
+  - {}
+  bassoon:
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  - doublings:
+    - contrabassoon
+  horn: 8
   trumpet: 4
   trombone: 4
   tuba: 1
   percussion:
     timpani: 1
+    players: 1
     instruments:
+    - snare drum
     - bass drum
     - cymbals
+    - rute
     - triangle
     - tambourine
     - glockenspiels
+    - tam-tam
     - snare drums
-  additional_raw: Solo Voice (alto) | 2 Choruses (female, boys "knabenchor") | Orchestra
-    :4 flutes (all also piccolo) | 2 E-flat clarinets (2nd also 4th clarinet) ::3
-    clarinets (3rd also bass clarinet) | 4 bassoons (3rd and 4th also contrabassoon)
-    :8 horns | percussion (5 players) ::snare drum | rute | tam-tam :2 harps | strings
-    ' :posthorn or flügelhorn (3rd mvt) | 6 tuned bells (5th mvt)
+  harp: 2
+  strings: str
+  soloists:
+  - knabenchor")
+  additional_raw: posthorn or flügelhorn (3rd mvt) | 6 tuned bells (5th mvt)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Symphony_No.3%2C_GMW_31_%28Mahler%2C_Gustav%29

@@ -1,0 +1,16 @@
+id: schubert-6-ecossaises
+work:
+  composer: Schubert, Franz
+  title: 6 Ecossaises
+  ids:
+    imslp: 6 Ecossaises in A-flat major, D.697 (Schubert, Franz)
+  year: 1820
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Ecossaises_in_A-flat_major%2C_D.697_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

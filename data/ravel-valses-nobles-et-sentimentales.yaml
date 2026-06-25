@@ -1,0 +1,39 @@
+id: ravel-valses-nobles-et-sentimentales
+work:
+  composer: Ravel, Maurice
+  title: Valses nobles et sentimentales
+  ids:
+    imslp: Valses nobles et sentimentales, M.61 (Ravel, Maurice)
+  year: 1911
+formula: 2 3[1.2.Eh] 0 2 4231 tmp cel 2hp str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - tambourine
+    - cymbals
+    - snare drum
+    - bells
+    - triangle
+    - bass drum
+  keyboards:
+  - instrument: celesta
+  harp: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Valses_nobles_et_sentimentales%2C_M.61_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: :2 flutes, 2 oboes, English horn, 2 bassoons, 4 horns,
+    2 trumpets, 3 trombones, tuba, timpani, tambourine, cymbals, snare drum, bells,
+    triangle, bass drum, celesta, 2 harps, strings'

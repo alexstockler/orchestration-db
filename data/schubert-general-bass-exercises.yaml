@@ -1,0 +1,16 @@
+id: schubert-general-bass-exercises
+work:
+  composer: Schubert, Franz
+  title: General Bass Exercises
+  ids:
+    imslp: General Bass Exercises, D.Anh.I/32 (Schubert, Franz)
+  year: 1810
+formula: ''
+instrumentation:
+  additional_raw: keyboard notation
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/General_Bass_Exercises%2C_D.Anh.I/32_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard notation'
+duration_minutes: 5

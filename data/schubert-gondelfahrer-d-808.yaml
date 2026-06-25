@@ -1,0 +1,18 @@
+id: schubert-gondelfahrer-d-808
+work:
+  composer: Schubert, Franz
+  title: Gondelfahrer, D.808
+  ids:
+    imslp: Gondelfahrer, D.808 (Schubert, Franz)
+  year: 1824
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gondelfahrer%2C_D.808_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

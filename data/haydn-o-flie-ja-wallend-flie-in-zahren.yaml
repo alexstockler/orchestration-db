@@ -1,0 +1,17 @@
+id: haydn-o-flie-ja-wallend-flie-in-zahren
+work:
+  composer: Haydn, Joseph
+  title: O fließ, ja wallend fließ in Zähren
+  ids:
+    imslp: O fließ, ja wallend fließ in Zähren, Hob.XXVI:19 (Haydn, Joseph)
+  year: 1784
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_flie%C3%9F%2C_ja_wallend_flie%C3%9F_in_Z%C3%A4hren%2C_Hob.XXVI%3A19_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, keyboard'

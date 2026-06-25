@@ -1,0 +1,14 @@
+id: haydn-baryton-trio-in-a-major-hob-xi-46
+work:
+  composer: Haydn, Joseph
+  title: Baryton Trio in A major, Hob.XI:46
+  ids:
+    imslp: Baryton Trio in A major, Hob.XI:46 (Haydn, Joseph)
+formula: ''
+instrumentation:
+  additional_raw: baryton | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Baryton_Trio_in_A_major%2C_Hob.XI%3A46_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: baryton, viola, cello'

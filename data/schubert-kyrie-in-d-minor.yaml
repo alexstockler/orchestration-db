@@ -1,0 +1,15 @@
+id: schubert-kyrie-in-d-minor
+work:
+  composer: Schubert, Franz
+  title: Kyrie in D minor
+  ids:
+    imslp: Kyrie in D minor, D.31 (Schubert, Franz)
+  year: 1812
+formula: ''
+instrumentation:
+  additional_raw: Choir SATB | Organ and Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kyrie_in_D_minor%2C_D.31_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Choir SATB, Organ and Orchestra'

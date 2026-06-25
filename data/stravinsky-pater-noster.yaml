@@ -1,0 +1,15 @@
+id: stravinsky-pater-noster
+work:
+  composer: Stravinsky, Igor
+  title: Pater noster
+  ids:
+    imslp: Pater noster, K046 (Stravinsky, Igor)
+  year: 1926
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pater_noster%2C_K046_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

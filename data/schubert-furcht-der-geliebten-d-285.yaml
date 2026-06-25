@@ -1,0 +1,18 @@
+id: schubert-furcht-der-geliebten-d-285
+work:
+  composer: Schubert, Franz
+  title: Furcht der Geliebten, D.285
+  ids:
+    imslp: Furcht der Geliebten, D.285 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Furcht_der_Geliebten%2C_D.285_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

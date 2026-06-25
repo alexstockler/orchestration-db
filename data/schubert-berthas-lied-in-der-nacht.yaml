@@ -1,0 +1,18 @@
+id: schubert-berthas-lied-in-der-nacht
+work:
+  composer: Schubert, Franz
+  title: Berthas Lied in der Nacht
+  ids:
+    imslp: Berthas Lied in der Nacht, D.653 (Schubert, Franz)
+  year: 1819
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Berthas_Lied_in_der_Nacht%2C_D.653_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,16 @@
+id: schubert-auguste-jam-coelestium
+work:
+  composer: Schubert, Franz
+  title: Auguste jam coelestium
+  ids:
+    imslp: Auguste jam coelestium, D.488 (Schubert, Franz)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: Tenor and orchestra (2 oboes, 2 bassoons, strings)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Auguste_jam_coelestium%2C_D.488_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Soprano, Tenor and orchestra (2 oboes, 2 bassoons, strings)'

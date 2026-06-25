@@ -1,0 +1,18 @@
+id: haydn-the-mermaid-s-song
+work:
+  composer: Haydn, Joseph
+  title: The Mermaid's Song
+  ids:
+    imslp: The Mermaid's Song, Hob.XXVIa:25 (Haydn, Joseph)
+  year: 1794
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Mermaid%27s_Song%2C_Hob.XXVIa%3A25_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

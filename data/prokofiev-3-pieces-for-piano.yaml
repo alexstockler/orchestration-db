@@ -1,0 +1,16 @@
+id: prokofiev-3-pieces-for-piano
+work:
+  composer: Prokofiev, Sergey
+  title: 3 Pieces for Piano
+  ids:
+    imslp: 3 Pieces for Piano, Op.59 (Prokofiev, Sergey)
+  year: 1933
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Pieces_for_Piano%2C_Op.59_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

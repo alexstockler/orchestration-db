@@ -1,0 +1,77 @@
+id: stravinsky-le-rossignol
+work:
+  composer: Stravinsky, Igor
+  title: Le rossignol
+  ids:
+    imslp: Le rossignol, K018 (Stravinsky, Igor)
+  year: 1908
+formula: 3[pic.2.3] 3[1.2.Eh] 3[1.2.3/bcl] 3[1.2.3/cbn] 4431 tmp cel pf 2hp gtr mand
+  str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - doublings:
+    - bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  horn: 4
+  trumpet: 4
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - snare drum
+    - triangle
+    - bass drum
+    - tambourine
+    - tam-tam
+    - glockenspiels
+  keyboards:
+  - instrument: celesta
+  - instrument: piano
+  harp: 2
+  extras:
+  - instrument: guitar
+  - instrument: mandolin
+  strings: str
+  soloists:
+  - The Nightingale (soprano)
+  - The Cook (soprano)
+  - The Fisherman (tenor)
+  - The Emperor of China (baritone)
+  - The Chamberlain (bass)
+  - The Bonze (bass)
+  - Death (alto)
+  - 3 Japanese Envoys (soprano, bass, tenor) Mixed Chorus (SATB) :Courtiers (chorus)
+  - female chorus
+  - male chorus
+  - mixed chorus
+  additional_raw: 'unknown doubling in clarinet: sopranino clarinet | antique cymbals'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_rossignol%2C_K018_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :The Nightingale (soprano), The Cook (soprano), The
+    Fisherman (tenor), The Emperor of China (baritone), The Chamberlain (bass), The
+    Bonze (bass), Death (alto), 3 Japanese Envoys (soprano, bass, tenor) Mixed Chorus
+    (SATB) :Courtiers (chorus), female chorus, male chorus, mixed chorus Orchestra
+    :piccolo, 2 flutes, 2 oboes, English horn, ::3 clarinets (2nd also sopranino clarinet,
+    3rd also bass clarinet),, 3 bassoons (3rd also contrabassoon) :4 horns, 4 trumpets,
+    3 trombones, tuba, timpani, cymbals, snare drum, triangle, bass drum, antique
+    cymbals,, bass drum, tambourine, tam-tam, 2 glockenspiels, celesta, piano, 2 harps,
+    guitar (ad lib.), mandolin (ad lib.), strings (including: 4 solo violins, 3 solo
+    violas, 4 solo cellos)'

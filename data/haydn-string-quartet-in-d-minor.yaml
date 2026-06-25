@@ -1,0 +1,15 @@
+id: haydn-string-quartet-in-d-minor
+work:
+  composer: Haydn, Joseph
+  title: String Quartet in D minor
+  ids:
+    imslp: String Quartet in D minor, Hob.III:22 (Haydn, Joseph)
+  year: 1769
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_in_D_minor%2C_Hob.III%3A22_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

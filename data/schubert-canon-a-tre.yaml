@@ -1,0 +1,17 @@
+id: schubert-canon-a-tre
+work:
+  composer: Schubert, Franz
+  title: Canon a trè
+  ids:
+    imslp: Canon a trè, D.deest (Schubert, Franz)
+  year: 1816
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canon_a_tr%C3%A8%2C_D.deest_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'
+duration_minutes: 1

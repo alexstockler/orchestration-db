@@ -1,0 +1,15 @@
+id: prokofiev-semyon-kotko
+work:
+  composer: Prokofiev, Sergey
+  title: Semyon Kotko
+  ids:
+    imslp: Semyon Kotko (suite), Op.81bis (Prokofiev, Sergey)
+  year: 1941
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Semyon_Kotko_%28suite%29%2C_Op.81bis_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'
+duration_minutes: 40

@@ -1,0 +1,19 @@
+id: ravel-introduction-et-allegro
+work:
+  composer: Ravel, Maurice
+  title: Introduction et Allegro
+  ids:
+    imslp: Introduction et allegro, M.46 (Ravel, Maurice)
+  year: 1905
+formula: 1010 0000 hp
+instrumentation:
+  flute: 1
+  clarinet: 1
+  harp: 1
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Introduction_et_allegro%2C_M.46_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: harp, flute, clarinet, 2 violins, viola, cello'
+duration_minutes: 12

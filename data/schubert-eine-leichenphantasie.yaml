@@ -1,0 +1,18 @@
+id: schubert-eine-leichenphantasie
+work:
+  composer: Schubert, Franz
+  title: Eine Leichenphantasie
+  ids:
+    imslp: Eine Leichenphantasie, D.7 (Schubert, Franz)
+  year: 1811
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Eine_Leichenphantasie%2C_D.7_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

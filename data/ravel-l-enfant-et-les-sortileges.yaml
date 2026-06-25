@@ -1,0 +1,113 @@
+id: ravel-l-enfant-et-les-sortileges
+work:
+  composer: Ravel, Maurice
+  title: L'Enfant et les Sortilèges
+  ids:
+    imslp: L'enfant et les sortilèges, M.71 (Ravel, Maurice)
+formula: 3[1.2.pic] 3[1.2.Eh] 4[Ebcl.2.3.bcl] 3[1.2.cbn] 4331 tmp cel pf hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - instrument: piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tambourine
+    - cymbals
+    - bass drum
+    - tam-tam
+    - whip
+    - ratchet
+    - woodblock
+    - wind machine
+    - crotales
+    - xylophone
+  keyboards:
+  - instrument: celesta
+  - instrument: piano
+  harp: 1
+  strings: str
+  soloists:
+  - L'enfant
+  - the child (mezzo-soprano)
+  - Maman
+  - the mother (mezzo-soprano)
+  - La bergère
+  - the shepherdess (soprano)
+  - La tasse chinoise
+  - the china cup (mezzo-soprano or alto)
+  - Le feu
+  - the fire in the fireplace (coloratura soprano)
+  - La princesse
+  - the princess (coloratura soprano)
+  - La chatte
+  - the female cat (mezzo-soprano)
+  - La libellule
+  - the dragon fly (mezzo-soprano)
+  - Le rossignol
+  - the nightingale (coloratura soprano)
+  - La chauve-souris
+  - the widower bat (soprano)
+  - La chouette
+  - the owl (soprano)
+  - L'écureuil
+  - the squirrel (mezzo-soprano)
+  - Une pastourelle
+  - a shepherdess (soprano)
+  - Un pâtre
+  - a shepherd (alto)
+  - Le fauteuil
+  - the armchair (bass)
+  - L'horloge comtoise
+  - the clock (baritone)
+  - Le théière
+  - the black Wedgwood teapot (tenor)
+  - Le petit vieillard
+  - the little old man (tenor)
+  - Le chat
+  - the male cat (baritone)
+  - Un arbre
+  - a tree (bass)
+  - La rainette
+  - the tree frog (tenor) Choruses (SATB, Children)
+  additional_raw: piccolo&nbsp | cheese grater | slide whistle ("flûte á coulisse")
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27enfant_et_les_sortil%C3%A8ges%2C_M.71_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :L''enfant, the child (mezzo-soprano), Maman, the
+    mother (mezzo-soprano), La bergère, the shepherdess (soprano), La tasse chinoise,
+    the china cup (mezzo-soprano or alto), Le feu, the fire in the fireplace (coloratura
+    soprano), La princesse, the princess (coloratura soprano), La chatte, the female
+    cat (mezzo-soprano), La libellule, the dragon fly (mezzo-soprano), Le rossignol,
+    the nightingale (coloratura soprano), La chauve-souris, the widower bat (soprano),
+    La chouette, the owl (soprano), L''écureuil, the squirrel (mezzo-soprano), Une
+    pastourelle, a shepherdess (soprano), Un pâtre, a shepherd (alto), Le fauteuil,
+    the armchair (bass), L''horloge comtoise, the clock (baritone), Le théière, the
+    black Wedgwood teapot (tenor), Le petit vieillard, the little old man (tenor),
+    Le chat, the male cat (baritone), Un arbre, a tree (bass), La rainette, the tree
+    frog (tenor) Choruses (SATB, Children), Orchestra :2 flutes, piccolo, 2 oboes,
+    English horn, piccolo clarinet, ::2 clarinets, bass clarinet, 2 bassoons, contrabassoon
+    :4 horns, 3 trumpets, 3 trombones, tuba, timpani, piccolo&nbsp;timpani, triangle,
+    tambourine, cymbals, bass drum, tam-tam, whip, ratchet, cheese grater, woodblock,
+    wind machine ("eoliphone"), crotales, slide whistle ("flûte á coulisse"), xylophone,
+    celesta, harp, piano (or luthéal), strings'

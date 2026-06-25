@@ -1,0 +1,32 @@
+id: stravinsky-abraham-and-isaac
+work:
+  composer: Stravinsky, Igor
+  title: Abraham and Isaac (אברהם ויצחק)
+  ids:
+    imslp: Abraham and Isaac, K101 (Stravinsky, Igor)
+  year: 1962
+formula: 3[1.2.afl] 2[1.Eh] 2[1.bcl] 2 1221 str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - instrument: alto_flute
+  oboe:
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 1
+  trumpet: 2
+  trombone: 2
+  tuba: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Abraham_and_Isaac%2C_K101_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, alto flute, oboe, English horn, clarinet, bass
+    clarinet, 2 bassoons, horn, 2 trumpets, 2 trombones, tuba, strings'
+duration_minutes: 12

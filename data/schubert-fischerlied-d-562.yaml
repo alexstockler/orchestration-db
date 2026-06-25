@@ -1,0 +1,18 @@
+id: schubert-fischerlied-d-562
+work:
+  composer: Schubert, Franz
+  title: Fischerlied, D.562
+  ids:
+    imslp: Fischerlied, D.562 (Schubert, Franz)
+  year: 1817
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fischerlied%2C_D.562_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

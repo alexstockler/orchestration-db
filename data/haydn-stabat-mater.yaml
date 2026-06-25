@@ -1,0 +1,18 @@
+id: haydn-stabat-mater
+work:
+  composer: Haydn, Joseph
+  title: Stabat Mater
+  ids:
+    imslp: Stabat Mater, Hob.XXa:1 (Haydn, Joseph)
+  year: 1767
+formula: 0200 0000 org str
+instrumentation:
+  oboe: 2
+  keyboards:
+  - instrument: organ
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Stabat_Mater%2C_Hob.XXa%3A1_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes (both also English horns), organ, strings'

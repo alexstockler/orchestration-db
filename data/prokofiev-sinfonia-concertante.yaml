@@ -1,0 +1,39 @@
+id: prokofiev-sinfonia-concertante
+work:
+  composer: Prokofiev, Sergey
+  title: Sinfonia concertante
+  ids:
+    imslp: Sinfonia concertante, Op.125 (Prokofiev, Sergey)
+  year: 1950
+formula: 3[pic.2.3] 2 2 2 4231 tmp cel str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - triangle
+    - bass drum
+    - snare drum
+    - tambourine
+  keyboards:
+  - instrument: celesta
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sinfonia_concertante%2C_Op.125_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4
+    horns, 2 trumpets, 3 trombones, tuba, timpani, cymbals, triangle, bass drum, snare
+    drum, tambourine, celesta, strings'
+duration_minutes: 35

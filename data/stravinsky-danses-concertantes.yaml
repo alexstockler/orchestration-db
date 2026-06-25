@@ -1,0 +1,26 @@
+id: stravinsky-danses-concertantes
+work:
+  composer: Stravinsky, Igor
+  title: Danses concertantes
+  ids:
+    imslp: Danses concertantes, K063 (Stravinsky, Igor)
+  year: 1940
+formula: 1111 2110 tmp
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 2
+  trumpet: 1
+  trombone: 1
+  percussion:
+    timpani: 1
+  additional_raw: 6 violins | 4 violas | 3 cellos | 2 contrabasses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Danses_concertantes%2C_K063_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, clarinet, bassoon, 2 horns, trumpet, trombone,
+    timpani, 6 violins, 4 violas, 3 cellos, 2 contrabasses'
+duration_minutes: 20

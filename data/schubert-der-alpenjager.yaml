@@ -1,0 +1,20 @@
+id: schubert-der-alpenjager
+work:
+  composer: Schubert, Franz
+  title: Der Alpenjäger
+  ids:
+    imslp: Der Alpenjäger, D.524 (Schubert, Franz)
+  year: 1817
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  soloists:
+  - voice
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Alpenj%C3%A4ger%2C_D.524_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano (1st and 3rd versions); bass, piano (2nd version)'

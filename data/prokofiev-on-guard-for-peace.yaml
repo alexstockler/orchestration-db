@@ -1,0 +1,59 @@
+id: prokofiev-on-guard-for-peace
+work:
+  composer: Prokofiev, Sergey
+  title: On Guard for Peace
+  ids:
+    imslp: On Guard for Peace, Op.124 (Prokofiev, Sergey)
+  year: 1949
+formula: 3[pic.2.3] 3[1.2.Eh] 4[Ebcl.2.3.bcl] 3[1.2.cbn] 4331 tmp cel pf hp
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - woodblock
+    - tambourine
+    - snare drum
+    - cymbals
+    - bass drum
+    - tam-tam
+    - xylophone
+  keyboards:
+  - instrument: celesta
+  - instrument: piano
+  harp: 1
+  soloists:
+  - mezzo-soprano
+  - boy soprano Choruses :mixed chorus
+  - boys choir
+  additional_raw: 'strings :'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/On_Guard_for_Peace%2C_Op.124_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: Narrator, Voices :mezzo-soprano, boy soprano Choruses :mixed
+    chorus, boys choir Orchestra :piccolo, 2 flutes, 2 oboes, English horn, piccolo
+    clarinet, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon, 4 horns, 3 trumpets,
+    3 trombones, tuba, timpani, woodblock, tambourine, snare drum, cymbals, bass drum,
+    tam-tam, xylophone, celesta, harp, piano, strings :'
+duration_minutes: 37

@@ -1,0 +1,16 @@
+id: schubert-begrabnislied
+work:
+  composer: Schubert, Franz
+  title: Begräbnislied
+  ids:
+    imslp: Begräbnislied, D.168 (Schubert, Franz)
+  year: 1815
+formula: ''
+instrumentation:
+  additional_raw: SATB and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Begr%C3%A4bnislied%2C_D.168_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB and piano'
+duration_minutes: 6

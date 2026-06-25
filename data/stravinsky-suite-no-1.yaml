@@ -1,0 +1,31 @@
+id: stravinsky-suite-no-1
+work:
+  composer: Stravinsky, Igor
+  title: Suite No.1
+  ids:
+    imslp: Suite No.1, K045 (Stravinsky, Igor)
+  year: 1917
+formula: 2[1/pic.2] 1 2 2 1111 str
+instrumentation:
+  flute:
+  - doublings:
+    - piccolo
+  - {}
+  oboe: 1
+  clarinet: 2
+  bassoon: 2
+  horn: 1
+  trumpet: 1
+  trombone: 1
+  tuba: 1
+  percussion:
+    instruments:
+    - bass drum
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_No.1%2C_K045_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (1st also piccolo), oboe, 2 clarinets, 2 bassoons,
+    horn, trumpet, trombone, tuba, bass drum, strings'
+duration_minutes: 5

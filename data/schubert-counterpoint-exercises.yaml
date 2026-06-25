@@ -1,0 +1,16 @@
+id: schubert-counterpoint-exercises
+work:
+  composer: Schubert, Franz
+  title: Counterpoint Exercises
+  ids:
+    imslp: Counterpoint Exercises, D.16 (Schubert, Franz)
+  year: 1827
+formula: ''
+instrumentation:
+  additional_raw: keyboard notation
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Counterpoint_Exercises%2C_D.16_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard notation'
+duration_minutes: 2

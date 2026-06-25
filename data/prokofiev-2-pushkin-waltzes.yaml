@@ -1,0 +1,14 @@
+id: prokofiev-2-pushkin-waltzes
+work:
+  composer: Prokofiev, Sergey
+  title: 2 Pushkin Waltzes
+  ids:
+    imslp: 2 Pushkin Waltzes, Op.120 (Prokofiev, Sergey)
+  year: 1949
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Pushkin_Waltzes%2C_Op.120_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

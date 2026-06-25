@@ -1,0 +1,18 @@
+id: schubert-ammenlied-d-122
+work:
+  composer: Schubert, Franz
+  title: Ammenlied, D.122
+  ids:
+    imslp: Ammenlied, D.122 (Schubert, Franz)
+  year: 1814
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ammenlied%2C_D.122_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

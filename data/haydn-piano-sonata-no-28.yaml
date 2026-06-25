@@ -1,0 +1,15 @@
+id: haydn-piano-sonata-no-28
+work:
+  composer: Haydn, Joseph
+  title: Piano Sonata No.28
+  ids:
+    imslp: Keyboard Sonata in E-flat major, Hob.XVI:28 (Haydn, Joseph)
+  year: 1774
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Keyboard_Sonata_in_E-flat_major%2C_Hob.XVI%3A28_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

@@ -1,0 +1,15 @@
+id: haydn-piano-trio-in-c-minor
+work:
+  composer: Haydn, Joseph
+  title: Piano Trio in C minor
+  ids:
+    imslp: Piano Trio in C minor, Hob.XV:13 (Haydn, Joseph)
+  year: 1788
+formula: ''
+instrumentation:
+  additional_raw: violin | cello | harpsichord or piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio_in_C_minor%2C_Hob.XV%3A13_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, harpsichord or piano'

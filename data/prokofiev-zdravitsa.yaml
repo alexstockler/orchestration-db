@@ -1,0 +1,16 @@
+id: prokofiev-zdravitsa
+work:
+  composer: Prokofiev, Sergey
+  title: Zdravitsa
+  ids:
+    imslp: Zdravitsa, Op.85 (Prokofiev, Sergey)
+  year: 1939
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Zdravitsa%2C_Op.85_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus, orchestra'
+duration_minutes: 13

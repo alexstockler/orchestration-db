@@ -1,0 +1,39 @@
+id: stravinsky-renard-histoire-burlesque-chantee-et-jouee
+work:
+  composer: Stravinsky, Igor
+  title: 'Renard: Histoire burlesque chantée et jouée'
+  ids:
+    imslp: Renard, K023 (Stravinsky, Igor)
+  year: 1915
+formula: 1111 2100 tmp cimbalom
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 2
+  trumpet: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tambourines
+    - snare drum
+    - cymbals
+    - bass drum
+  extras:
+  - instrument: cimbalom
+  soloists:
+  - 2 tenors
+  - 2 basses
+  additional_raw: string quintet (2 violins, viola, cello, double bass)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Renard%2C_K023_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices :2 tenors, 2 basses Orchestra :flute (also piccolo),
+    oboe (also English horn), ::clarinet (also clarinet in E), bassoon :2 horns, trumpet,
+    timpani, triangle, tambourines (with and without bells),, snare drum, cymbals,
+    bass drum, cimbalom (or piano), string quintet (2 violins, viola, cello, double
+    bass)'
+duration_minutes: 20

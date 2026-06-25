@@ -1,0 +1,19 @@
+id: haydn-divertimento-in-c-major
+work:
+  composer: Haydn, Joseph
+  title: Divertimento in C major
+  ids:
+    imslp: Divertimento in C major, Hob.II:11 (Haydn, Joseph)
+  year: 1765
+formula: 1100 0000
+instrumentation:
+  flute: 1
+  oboe: 1
+  soloists:
+  - bass
+  additional_raw: 2 violins | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Divertimento_in_C_major%2C_Hob.II%3A11_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, 2 violins, cello, bass'

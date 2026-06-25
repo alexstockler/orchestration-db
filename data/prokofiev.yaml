@@ -1,0 +1,61 @@
+id: prokofiev
+work:
+  composer: Prokofiev, Sergey
+  title: Скифская сюита для большого оркестра
+  ids:
+    imslp: Scythian Suite, Op.20 (Prokofiev, Sergey)
+  year: 1914
+formula: 4[pic.2.3/afl.4] 4[1.2.3.Eh] 4[1.2.3.bcl] 4[1.2.3.cbn] 8441 tmp cel pf 2hp
+  str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - doublings:
+    - alto_flute
+  - {}
+  oboe:
+  - {}
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 8
+  trumpet: 4
+  trombone: 4
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - triangle
+    - bass drum
+    - snare drum
+    - tambourine
+    - glockenspiel
+    - xylophone
+  keyboards:
+  - instrument: celesta
+  - instrument: piano
+  harp: 2
+  strings: str
+  additional_raw: 'unknown doubling in clarinet: e-flat clarinet-flat clarinet | tamtam'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scythian_Suite%2C_Op.20_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra :Piccolo, 3 flutes (3rd also alto flute), 3 oboes,
+    English horn, ::3 clarinets (3rd also E-flat clarinet), bass clarinet, 3 bassoons,
+    contrabassoon, :8 horns, 4 (optionally 5) trumpets (3rd also E-flat trumpet),
+    4 trombones, tuba,, timpani, cymbals, tamtam, triangle, bass drum, snare drum,
+    tambourine,, glockenspiel, xylophone, 2 harps, celesta, piano, strings'
+duration_minutes: 20

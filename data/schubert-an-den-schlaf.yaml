@@ -1,0 +1,18 @@
+id: schubert-an-den-schlaf
+work:
+  composer: Schubert, Franz
+  title: An den Schlaf
+  ids:
+    imslp: An den Schlaf, D.447 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_den_Schlaf%2C_D.447_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

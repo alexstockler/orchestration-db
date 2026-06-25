@@ -1,0 +1,21 @@
+id: haydn-marsch-fur-den-prinzen-von-wales
+work:
+  composer: Haydn, Joseph
+  title: Marsch für den Prinzen von Wales
+  ids:
+    imslp: Marsch für den Prinzen von Wales, Hob.VIII:3 (Haydn, Joseph)
+  year: 1792
+formula: 0 0 2 3[1.2.cbn] 2100
+instrumentation:
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 2
+  trumpet: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marsch_f%C3%BCr_den_Prinzen_von_Wales%2C_Hob.VIII%3A3_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Clarinets, 2 Bassoons, Contrabassoon, 2 Horns, Trumpet'

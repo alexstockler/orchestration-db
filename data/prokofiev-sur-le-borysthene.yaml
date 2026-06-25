@@ -1,0 +1,43 @@
+id: prokofiev-sur-le-borysthene
+work:
+  composer: Prokofiev, Sergey
+  title: Sur le Borysthène
+  ids:
+    imslp: Sur le Borysthène (suite), Op.51bis (Prokofiev, Sergey)
+  year: 1933
+formula: 3[pic.2.3] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 4231 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drum
+    - bass drum
+    - cymbals
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sur_le_Borysth%C3%A8ne_%28suite%29%2C_Op.51bis_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets,,
+    bass clarinet, 2 bassoons, contrabassoon, 4 horns, 2 trumpets, 3 trombones, tuba,,
+    timpani, snare drum, bass drum, cymbals, strings'

@@ -163,6 +163,10 @@ class _ParseState:
         paren_content = paren_match.group(1).strip() if paren_match else ""
         token_base = re.sub(r"\([^)]*\)", "", token).strip()
 
+        # Strip footnote markers (* ...) that sometimes trail after a closing paren,
+        # e.g. "strings (16, 16, 12, 12, 8) *3rd bassoon can alternate..."
+        token_base = re.sub(r"\s*\*.*$", "", token_base).strip()
+
         count, name = _count_and_rest(token_base)
 
         key = _lookup(name) if name else _lookup(token_base)
@@ -195,11 +199,15 @@ class _ParseState:
             return
 
         # --- Strings ---
-        if token_base in ("strings", "string orchestra", "strs") or key in (
+        if token_base in ("strings", "string orchestra", "strs", "str") or key in (
             "violin", "viola", "cello", "double_bass"
         ):
-            if token_base in ("strings", "string orchestra", "strs"):
-                self.inst.strings = Strings(standard=True)
+            if token_base in ("strings", "string orchestra", "strs", "str"):
+                # Capture desk counts like (16, 16, 12, 12, 8) as description
+                desc = ""
+                if paren_content and re.match(r"[\d,. ]+$", paren_content):
+                    desc = paren_content.strip()
+                self.inst.strings = Strings(standard=True, description=desc)
             else:
                 # individual string desks — leave in additional_raw for now
                 self.unrecognised.append(raw_token.strip())

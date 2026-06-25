@@ -1,0 +1,15 @@
+id: haydn-string-quartet-in-b-flat-major
+work:
+  composer: Haydn, Joseph
+  title: String Quartet in B-flat major
+  ids:
+    imslp: String Quartet in B-flat major, Hob.III:1 (Haydn, Joseph)
+  year: 1757
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_in_B-flat_major%2C_Hob.III%3A1_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

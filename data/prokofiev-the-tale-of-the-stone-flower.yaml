@@ -1,0 +1,15 @@
+id: prokofiev-the-tale-of-the-stone-flower
+work:
+  composer: Prokofiev, Sergey
+  title: The Tale of the Stone Flower
+  ids:
+    imslp: The Tale of the Stone Flower, Op.118 (Prokofiev, Sergey)
+  year: 1948
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Tale_of_the_Stone_Flower%2C_Op.118_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'
+duration_minutes: 150

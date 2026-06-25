@@ -1,0 +1,35 @@
+id: stravinsky-ebony-concerto
+work:
+  composer: Stravinsky, Igor
+  title: Ebony Concerto
+  ids:
+    imslp: Ebony Concerto, K074 (Stravinsky, Igor)
+  year: 1945
+formula: 0000 0530 pf hp gtr
+instrumentation:
+  trumpet: 5
+  trombone: 3
+  percussion:
+    instruments:
+    - drums
+  keyboards:
+  - instrument: piano
+  harp: 1
+  extras:
+  - instrument: guitar
+  saxophones:
+  - instrument: tenor_sax
+    count: 2
+  - instrument: baritone_sax
+    count: 1
+  additional_raw: 'B♭ clarinet | Jazz Band: 2 alto saxophones (both doubling B♭ clarinets)
+    | F horn | double bass'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ebony_Concerto%2C_K074_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: B♭ clarinet, Jazz Band: 2 alto saxophones (both doubling
+    B♭ clarinets), 2 tenor saxophones (2nd doubling B♭ clarinet and bass clarinet),
+    baritone saxophone, F horn, 5 trumpets, 3 trombones, piano, harp, guitar, double
+    bass, drums (snare drum, 3 tom-toms, bass drum)'
+duration_minutes: 9

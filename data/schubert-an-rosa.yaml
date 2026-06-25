@@ -1,0 +1,18 @@
+id: schubert-an-rosa
+work:
+  composer: Schubert, Franz
+  title: An Rosa
+  ids:
+    imslp: An Rosa, D.315 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_Rosa%2C_D.315_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

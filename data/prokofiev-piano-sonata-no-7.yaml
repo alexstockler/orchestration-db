@@ -1,0 +1,16 @@
+id: prokofiev-piano-sonata-no-7
+work:
+  composer: Prokofiev, Sergey
+  title: Piano Sonata No.7
+  ids:
+    imslp: Piano Sonata No.7, Op.83 (Prokofiev, Sergey)
+  year: 1939
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.7%2C_Op.83_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

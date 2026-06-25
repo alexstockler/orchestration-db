@@ -1,0 +1,18 @@
+id: schubert-dreifach-ist-der-schritt-der-zeit
+work:
+  composer: Schubert, Franz
+  title: Dreifach ist der Schritt der Zeit
+  ids:
+    imslp: Dreifach ist der Schritt der Zeit, D.43 (Schubert, Franz)
+  year: 1813
+formula: ''
+instrumentation:
+  soloists:
+  - tenors
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dreifach_ist_der_Schritt_der_Zeit%2C_D.43_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 tenors, bass'
+duration_minutes: 4

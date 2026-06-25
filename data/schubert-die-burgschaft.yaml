@@ -1,0 +1,18 @@
+id: schubert-die-burgschaft
+work:
+  composer: Schubert, Franz
+  title: Die Bürgschaft
+  ids:
+    imslp: Die Bürgschaft, D.246 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_B%C3%BCrgschaft%2C_D.246_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,27 @@
+id: schubert-gesange-zur-feier-des-heiligen-opfers-der-messe
+work:
+  composer: Schubert, Franz
+  title: Gesänge zur Feier des heiligen Opfers der Messe
+  ids:
+    imslp: Deutsche Messe, D.872 (Schubert, Franz)
+  year: 1827
+formula: 0222 2230 tmp org
+instrumentation:
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: organ
+  additional_raw: double bass (ad lib.)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Deutsche_Messe%2C_D.872_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets,
+    3 trombones, timpani, double bass (ad lib.), organ'
+duration_minutes: 32

@@ -1,0 +1,18 @@
+id: ravel-frontispice
+work:
+  composer: Ravel, Maurice
+  title: Frontispice
+  ids:
+    imslp: Frontispice, M.70 (Ravel, Maurice)
+  year: 1918
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  additional_raw: 5 hands
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Frontispice%2C_M.70_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 pianos, 5 hands'

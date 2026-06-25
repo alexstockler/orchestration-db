@@ -1,0 +1,26 @@
+id: schubert-hymnus-an-den-heiligen-geist
+work:
+  composer: Schubert, Franz
+  title: Hymnus an den heiligen Geist
+  ids:
+    imslp: Hymnus an den heiligen Geist, D.948 (Schubert, Franz)
+  year: 1828
+formula: 0222 2230
+instrumentation:
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  soloists:
+  - 2 tenors
+  - 2 basses
+  - male chorus (TTBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymnus_an_den_heiligen_Geist%2C_D.948_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: 2 tenors, 2 basses; male chorus (TTBB), Orchestra:
+    (2nd version only) 2 oboes, 2 clarinets (C), 2 bassoons, 2 horns, 2 trumpets (C),
+    3 trombones'

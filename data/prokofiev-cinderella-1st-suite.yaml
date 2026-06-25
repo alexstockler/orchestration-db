@@ -1,0 +1,55 @@
+id: prokofiev-cinderella-1st-suite
+work:
+  composer: Prokofiev, Sergey
+  title: Cinderella (1st suite)
+  ids:
+    imslp: Cinderella (1st suite), Op.107 (Prokofiev, Sergey)
+  year: 1946
+formula: 3[pic.2.3] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 4331 tmp pf hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - castanets
+    - tambourine
+    - snare drum
+    - tam-tam
+    - bass drum
+    - cymbals
+    - tubular bells
+    - glockenspiel
+    - xylophone
+  keyboards:
+  - instrument: piano
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cinderella_%281st_suite%29%2C_Op.107_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets,,
+    bass clarinet, 2 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba,
+    timpani, triangle, castanets, tambourine, snare drum, tam-tam, bass drum, cymbals,
+    tubular bells, glockenspiel, xylophone, harp, piano, strings'
+duration_minutes: 32

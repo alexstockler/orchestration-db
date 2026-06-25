@@ -1,0 +1,15 @@
+id: haydn-minuet-in-c-major
+work:
+  composer: Haydn, Joseph
+  title: Minuet in C major
+  ids:
+    imslp: Minuet in C major, Hob.IX:24 (Haydn, Joseph)
+  year: 1792
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Minuet_in_C_major%2C_Hob.IX%3A24_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: strings (2 violins, basses)'

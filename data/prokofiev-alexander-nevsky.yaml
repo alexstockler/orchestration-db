@@ -1,0 +1,61 @@
+id: prokofiev-alexander-nevsky
+work:
+  composer: Prokofiev, Sergey
+  title: Alexander Nevsky
+  ids:
+    imslp: Alexander Nevsky (cantata), Op.78 (Prokofiev, Sergey)
+  year: 1938
+formula: 3[1.2.pic] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 4331 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - instrument: piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drum
+    - bass drum
+    - cymbals
+    - tambourine
+    - maracas
+    - wood blocks
+    - triangle
+    - tubular bells
+    - glockenspiel
+    - xylophone
+  harp: 1
+  strings: str
+  soloists:
+  - Solo Voice (mezzo-soprano)
+  - Mixed Chorus
+  saxophones:
+  - instrument: tenor_sax
+    count: 1
+  additional_raw: tamtam
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alexander_Nevsky_%28cantata%29%2C_Op.78_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Solo Voice (mezzo-soprano),
+    Mixed Chorus, Orchestra ::2 flutes, piccolo, 2 oboes, English horn, 2 clarinets,
+    bass clarinet, :::tenor saxophone, 2 bassoons, contrabassoon ::4 horns, 3 trumpets,
+    3 trombones, tuba, timpani, snare drum, bass drum, cymbals, tambourine, maracas,
+    wood blocks, triangle, tamtam, tubular bells, glockenspiel, xylophone, harp, strings'
+duration_minutes: 45

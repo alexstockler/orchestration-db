@@ -1,0 +1,16 @@
+id: prokofiev-6-pieces-for-piano
+work:
+  composer: Prokofiev, Sergey
+  title: 6 Pieces for Piano
+  ids:
+    imslp: 6 Pieces for Piano, Op.52 (Prokofiev, Sergey)
+  year: 1930
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Pieces_for_Piano%2C_Op.52_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

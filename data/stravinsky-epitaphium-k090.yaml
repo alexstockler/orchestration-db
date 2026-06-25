@@ -1,0 +1,18 @@
+id: stravinsky-epitaphium-k090
+work:
+  composer: Stravinsky, Igor
+  title: Epitaphium, K090
+  ids:
+    imslp: Epitaphium, K090 (Stravinsky, Igor)
+  year: 1959
+formula: 1010 0000 hp
+instrumentation:
+  flute: 1
+  clarinet: 1
+  harp: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Epitaphium%2C_K090_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, clarinet, harp'
+duration_minutes: 5

@@ -1,0 +1,16 @@
+id: haydn-divertimento-in-a-major
+work:
+  composer: Haydn, Joseph
+  title: Divertimento in A major
+  ids:
+    imslp: Divertimento in A major, Hob.IV:10 (Haydn, Joseph)
+  year: 1784
+formula: ''
+instrumentation:
+  additional_raw: 2 violins (or flute, violin) | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Divertimento_in_A_major%2C_Hob.IV%3A10_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins (or flute, violin), cello'
+duration_minutes: 9

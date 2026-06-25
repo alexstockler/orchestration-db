@@ -1,0 +1,19 @@
+id: ravel-ronsard-a-son-ame
+work:
+  composer: Ravel, Maurice
+  title: Ronsard à son âme
+  ids:
+    imslp: Ronsard à son âme, M.75 (Ravel, Maurice)
+  year: 1923
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ronsard_%C3%A0_son_%C3%A2me%2C_M.75_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 2

@@ -1,0 +1,19 @@
+id: schubert-kaiser-maximilian-auf-der-martinswand-in-tirol
+work:
+  composer: Schubert, Franz
+  title: Kaiser Maximilian auf der Martinswand in Tirol
+  ids:
+    imslp: Kaiser Maximilian auf der Martinswand in Tirol, D.990a (Schubert, Franz)
+  year: 1853
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kaiser_Maximilian_auf_der_Martinswand_in_Tirol%2C_D.990a_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 30

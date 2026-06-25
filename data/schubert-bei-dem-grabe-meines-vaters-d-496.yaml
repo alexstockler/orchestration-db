@@ -1,0 +1,18 @@
+id: schubert-bei-dem-grabe-meines-vaters-d-496
+work:
+  composer: Schubert, Franz
+  title: Bei dem Grabe Meines Vaters, D.496
+  ids:
+    imslp: Bei dem Grabe meines Vaters, D.496 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bei_dem_Grabe_meines_Vaters%2C_D.496_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,16 @@
+id: schubert-gold-ner-schein-d-357
+work:
+  composer: Schubert, Franz
+  title: Gold'ner Schein, D.357
+  ids:
+    imslp: Gold'ner Schein, D.357 (Schubert, Franz)
+  year: 1816
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gold%27ner_Schein%2C_D.357_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

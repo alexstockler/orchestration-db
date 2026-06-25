@@ -1,0 +1,17 @@
+id: schubert-ecossaise-in-e-flat-major
+work:
+  composer: Schubert, Franz
+  title: Ecossaise in E-flat major
+  ids:
+    imslp: Ecossaise in E-flat major, D.511 (Schubert, Franz)
+  year: 1817
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ecossaise_in_E-flat_major%2C_D.511_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

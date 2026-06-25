@@ -1,0 +1,19 @@
+id: haydn-cantilena-pro-adventu-jesu-redemptor
+work:
+  composer: Haydn, Joseph
+  title: 'Cantilena pro Adventu: ''Jesu Redemptor'''
+  ids:
+    imslp: 'Cantilena pro Adventu: ''Jesu Redemptor'', Hob.XXIIId:3 (Haydn, Joseph)'
+  year: 1764
+formula: 0000 2000 str
+instrumentation:
+  horn: 2
+  strings: str
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cantilena_pro_Adventu%3A_%27Jesu_Redemptor%27%2C_Hob.XXIIId%3A3_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 2 horns, strings (2 violins, viola), continuo'

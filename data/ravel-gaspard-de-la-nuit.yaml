@@ -1,0 +1,16 @@
+id: ravel-gaspard-de-la-nuit
+work:
+  composer: Ravel, Maurice
+  title: Gaspard de la nuit
+  ids:
+    imslp: Gaspard de la nuit, M.55 (Ravel, Maurice)
+  year: 1908
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gaspard_de_la_nuit%2C_M.55_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

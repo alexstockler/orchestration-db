@@ -1,0 +1,17 @@
+id: haydn-minna
+work:
+  composer: Haydn, Joseph
+  title: Minna
+  ids:
+    imslp: Minna, Hob.XXVI:23 (Haydn, Joseph)
+  year: 1784
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Minna%2C_Hob.XXVI%3A23_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, keyboard'

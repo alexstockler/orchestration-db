@@ -1,0 +1,19 @@
+id: stravinsky-2-melodies
+work:
+  composer: Stravinsky, Igor
+  title: 2 Mélodies
+  ids:
+    imslp: 2 Songs, K004 (Stravinsky, Igor)
+  year: 1907
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Songs%2C_K004_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 6

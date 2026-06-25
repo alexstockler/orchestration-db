@@ -1,0 +1,17 @@
+id: prokofiev-four-etudes
+work:
+  composer: Prokofiev, Sergey
+  title: Four Etudes
+  ids:
+    imslp: 4 Etudes, Op.2 (Prokofiev, Sergey)
+  year: 1909
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Etudes%2C_Op.2_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 11

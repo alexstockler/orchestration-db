@@ -1,0 +1,18 @@
+id: ravel-sur-l-herbe
+work:
+  composer: Ravel, Maurice
+  title: Sur l'herbe
+  ids:
+    imslp: Sur l'herbe, M.53 (Ravel, Maurice)
+  year: 1907
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sur_l%27herbe%2C_M.53_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,17 @@
+id: haydn-an-iris
+work:
+  composer: Haydn, Joseph
+  title: An Iris
+  ids:
+    imslp: An Iris, Hob.XXVIa:7 (Haydn, Joseph)
+  year: 1781
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_Iris%2C_Hob.XXVIa%3A7_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, keyboard'

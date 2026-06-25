@@ -1,0 +1,18 @@
+id: ravel-vocalise-etude-en-forme-de-habanera
+work:
+  composer: Ravel, Maurice
+  title: Vocalise-étude en forme de Habanera
+  ids:
+    imslp: Vocalise-étude en forme de habanera, M.51 (Ravel, Maurice)
+  year: 1907
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vocalise-%C3%A9tude_en_forme_de_habanera%2C_M.51_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

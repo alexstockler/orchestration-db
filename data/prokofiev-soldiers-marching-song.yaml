@@ -1,0 +1,17 @@
+id: prokofiev-soldiers-marching-song
+work:
+  composer: Prokofiev, Sergey
+  title: Soldiers' Marching Song
+  ids:
+    imslp: Soldiers' Marching Song, Op.121 (Prokofiev, Sergey)
+  year: 1950
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: piano (or mixed chorus (SATB), piano)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Soldiers%27_Marching_Song%2C_Op.121_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano (or mixed chorus (SATB), piano)'

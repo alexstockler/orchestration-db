@@ -1,0 +1,44 @@
+id: ravel-piano-concerto-in-g-major
+work:
+  composer: Ravel, Maurice
+  title: Piano Concerto in G major
+  ids:
+    imslp: Piano Concerto in G major, M.83 (Ravel, Maurice)
+  year: 1929
+formula: 2[1.2/pic] 2[1.2/Eh] 2[Ebcl.2] 2 2110 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  bassoon: 2
+  horn: 2
+  trumpet: 1
+  trombone: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - snare drum
+    - cymbals
+    - bass drum
+    - tam-tam
+    - wood block
+    - whip
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Concerto_in_G_major%2C_M.83_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes (2nd also English
+    horn),, piccolo clarinet, clarinet, 2 bassoons, 2 horns, trumpet, trombone, timpani,
+    triangle, snare drum, cymbals, bass drum, tam-tam, wood block, whip, harp, strings
+    (8, 8, 6, 6, 4)'

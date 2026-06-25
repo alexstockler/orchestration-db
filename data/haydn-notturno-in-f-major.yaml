@@ -1,0 +1,21 @@
+id: haydn-notturno-in-f-major
+work:
+  composer: Haydn, Joseph
+  title: Notturno in F major
+  ids:
+    imslp: Notturno in F major, Hob.II:26 (Haydn, Joseph)
+  year: 1788
+formula: 1100 2000
+instrumentation:
+  flute: 1
+  oboe: 1
+  horn: 2
+  soloists:
+  - bass
+  additional_raw: 2 violins | 2 violas
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Notturno_in_F_major%2C_Hob.II%3A26_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 clarinets (C), 2 horns (F), 2 violas, 2 lire organizzate,
+    bass, revised orchestration: flute, oboe, 2 horns (F), 2 violins, 2 violas, bass'

@@ -1,0 +1,15 @@
+id: haydn-12-german-dances
+work:
+  composer: Haydn, Joseph
+  title: 12 German Dances
+  ids:
+    imslp: 12 German Dances, Hob.IX:10 (Haydn, Joseph)
+  year: 1793
+formula: ''
+instrumentation:
+  additional_raw: Keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_German_Dances%2C_Hob.IX%3A10_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: Keyboard'

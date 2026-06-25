@@ -1,0 +1,15 @@
+id: schubert-ecossaises-d-529
+work:
+  composer: Schubert, Franz
+  title: Ecossaises, D.529
+  ids:
+    imslp: 8 Ecossaises, D.529 (Schubert, Franz)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Ecossaises%2C_D.529_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

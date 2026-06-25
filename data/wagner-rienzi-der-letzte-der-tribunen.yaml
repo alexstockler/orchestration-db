@@ -5,7 +5,7 @@ work:
   ids:
     imslp: Rienzi, WWV 49 (Wagner, Richard)
   year: 1840
-formula: 3[pic.2.3] 2 2 2 4430 tmp
+formula: 3[pic.2.3] 2 2 2 4430 tmp serpent
 instrumentation:
   flute:
   - instrument: piccolo
@@ -24,6 +24,9 @@ instrumentation:
     - triangle
     - cymbals
     - snare drum
+    - tom-tom
+  extras:
+  - instrument: serpent
   soloists:
   - Cola Rienzi
   - Roman Tribune (tenor)
@@ -48,9 +51,9 @@ instrumentation:
   - Soldiers
   - Messengers
   - Populace
-  additional_raw: (contrabassoon*) | serpent* (tuba) | tom-tom | strings :*Possible
-    to also use a contrabassoon in this opera to replace the Serpent and Tuba parts
-    if those instruments are not available.
+  additional_raw: (contrabassoon*) | strings :*Possible to also use a contrabassoon
+    in this opera to replace the Serpent and Tuba parts if those instruments are not
+    available.
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Rienzi%2C_WWV_49_%28Wagner%2C_Richard%29

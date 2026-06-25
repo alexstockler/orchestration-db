@@ -1,0 +1,18 @@
+id: schubert-die-knabenzeit
+work:
+  composer: Schubert, Franz
+  title: Die Knabenzeit
+  ids:
+    imslp: Die Knabenzeit, D.400 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Knabenzeit%2C_D.400_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

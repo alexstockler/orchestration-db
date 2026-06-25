@@ -1,0 +1,19 @@
+id: schubert-glaube-hoffnung-und-liebe-d-954
+work:
+  composer: Schubert, Franz
+  title: Glaube, Hoffnung und Liebe, D.954
+  ids:
+    imslp: Glaube, Hoffnung und Liebe, D.954 (Schubert, Franz)
+formula: 0011 0020
+instrumentation:
+  clarinet: 1
+  bassoon: 1
+  trombone: 2
+  chorus_raw: mixed chorus
+  additional_raw: Soloists — 2 tenors | 2 basses | Orchestra — oboe | horn (B
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Glaube%2C_Hoffnung_und_Liebe%2C_D.954_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Soloists — 2 tenors, 2 basses; mixed chorus (SATB), Orchestra
+    — oboe, clarinet (B), bassoon, horn (B, 2 trombones'

@@ -1,0 +1,17 @@
+id: schubert-alfonso-und-estrella
+work:
+  composer: Schubert, Franz
+  title: Alfonso und Estrella
+  ids:
+    imslp: Alfonso und Estrella, D.732 (Schubert, Franz)
+  year: 1822
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alfonso_und_Estrella%2C_D.732_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

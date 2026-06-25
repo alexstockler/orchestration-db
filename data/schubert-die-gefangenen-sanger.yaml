@@ -1,0 +1,18 @@
+id: schubert-die-gefangenen-sanger
+work:
+  composer: Schubert, Franz
+  title: Die gefangenen Sänger
+  ids:
+    imslp: Die gefangenen Sänger, D.712 (Schubert, Franz)
+  year: 1821
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_gefangenen_S%C3%A4nger%2C_D.712_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

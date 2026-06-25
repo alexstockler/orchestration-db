@@ -1,0 +1,17 @@
+id: prokofiev-war-and-peace
+work:
+  composer: Prokofiev, Sergey
+  title: War and Peace
+  ids:
+    imslp: War and Peace, Op.91 (Prokofiev, Sergey)
+  year: 1942
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/War_and_Peace%2C_Op.91_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

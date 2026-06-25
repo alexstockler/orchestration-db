@@ -1,0 +1,18 @@
+id: schubert-im-abendrot-d-799
+work:
+  composer: Schubert, Franz
+  title: Im Abendrot, D.799
+  ids:
+    imslp: Im Abendrot, D.799 (Schubert, Franz)
+  year: 1825
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Im_Abendrot%2C_D.799_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

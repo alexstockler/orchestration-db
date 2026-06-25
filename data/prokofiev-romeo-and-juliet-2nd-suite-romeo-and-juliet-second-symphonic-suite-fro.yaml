@@ -1,0 +1,53 @@
+id: prokofiev-romeo-and-juliet-2nd-suite-romeo-and-juliet-second-symphonic-suite-fro
+work:
+  composer: Prokofiev, Sergey
+  title: Romeo and Juliet (2nd suite) ; Romeo and Juliet. Second Symphonic Suite from
+    the Vallet
+  ids:
+    imslp: Romeo and Juliet (2nd suite), Op.64ter (Prokofiev, Sergey)
+  year: 1936
+formula: 3[1.2.pic] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 4 3[1.2.cnt] 3 1 tmp+1 pf hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - instrument: piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+  keyboards:
+  - instrument: piano
+  harp: 1
+  strings: str
+  saxophones:
+  - instrument: tenor_sax
+    count: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romeo_and_Juliet_%282nd_suite%29%2C_Op.64ter_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, piccolo, 2 oboes, English horn, 2 clarinets,
+    bass clarinet, tenor saxophone, 2 bassoons, contrabassoon, 4 horns, 2 trumpets,
+    cornet, 3 trombones, tuba, timpani, percussion (snare drum, glockenspiel, tambourine,
+    cymbals, triangle, bass drum, maracas), piano, harp, strings (including viola
+    d''amore)'
+duration_minutes: 32

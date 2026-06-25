@@ -1,0 +1,16 @@
+id: haydn-fantasia
+work:
+  composer: Haydn, Joseph
+  title: Fantasia
+  ids:
+    imslp: Fantasia in C major, Hob.XVII:4 (Haydn, Joseph)
+  year: 1789
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_in_C_major%2C_Hob.XVII%3A4_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

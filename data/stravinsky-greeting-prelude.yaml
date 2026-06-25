@@ -1,0 +1,35 @@
+id: stravinsky-greeting-prelude
+work:
+  composer: Stravinsky, Igor
+  title: Greeting Prelude
+  ids:
+    imslp: Greeting Prelude, K085 (Stravinsky, Igor)
+  year: 1955
+formula: 3[pic.2.3] 2 0 3[1.2.cbn] 4231 tmp pf str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+  keyboards:
+  - instrument: piano
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Greeting_Prelude%2C_K085_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 2 bassoons, contrabassoon,
+    4 horns, 2 trumpets, 3 trombones, tuba, timpani, bass drum, piano, strings'

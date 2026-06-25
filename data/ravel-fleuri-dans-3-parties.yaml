@@ -1,0 +1,15 @@
+id: ravel-fleuri-dans-3-parties
+work:
+  composer: Ravel, Maurice
+  title: Fleuri dans 3 parties
+  ids:
+    imslp: Fleuri dans 3 parties (Ravel, Maurice)
+  year: 1889
+formula: ''
+instrumentation:
+  additional_raw: open (4 voices)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fleuri_dans_3_parties_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: open (4 voices)'

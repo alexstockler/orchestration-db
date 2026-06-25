@@ -1,0 +1,15 @@
+id: haydn-contredanse
+work:
+  composer: Haydn, Joseph
+  title: Contredanse
+  ids:
+    imslp: Contredanse in D major, Hob.XXXIc:17b (Haydn, Joseph)
+  year: 1791
+formula: ''
+instrumentation:
+  additional_raw: Keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Contredanse_in_D_major%2C_Hob.XXXIc%3A17b_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: Keyboard'

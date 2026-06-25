@@ -1,0 +1,17 @@
+id: schubert-lebensbild
+work:
+  composer: Schubert, Franz
+  title: Lebensbild
+  ids:
+    imslp: Lebensbild, D.425 (Schubert, Franz)
+  year: 1816
+formula: ''
+instrumentation:
+  soloists:
+  - tenors
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lebensbild%2C_D.425_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 tenors, bass'

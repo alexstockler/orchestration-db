@@ -1,0 +1,17 @@
+id: haydn-piano-trio-in-d-minor
+work:
+  composer: Haydn, Joseph
+  title: Piano Trio in D minor
+  ids:
+    imslp: Piano Trio in D minor, Hob.XV:23 (Haydn, Joseph)
+  year: 1792
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio_in_D_minor%2C_Hob.XV%3A23_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'

@@ -1,0 +1,19 @@
+id: stravinsky-4-russian-peasant-songs
+work:
+  composer: Stravinsky, Igor
+  title: 4 Russian Peasant Songs
+  ids:
+    imslp: 4 Russian Peasant Songs, K028 (Stravinsky, Igor)
+  year: 1914
+formula: 0000 4000
+instrumentation:
+  horn: 4
+  chorus_raw: female chorus
+  additional_raw: 'Revised: female chorus (SSAA)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Russian_Peasant_Songs%2C_K028_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: Original: female chorus (SSAA), Revised: female chorus
+    (SSAA), 4 horns'
+duration_minutes: 3

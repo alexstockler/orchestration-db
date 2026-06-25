@@ -1,0 +1,16 @@
+id: haydn-divertimento-hob-ii-3
+work:
+  composer: Haydn, Joseph
+  title: Divertimento, Hob.II:3
+  ids:
+    imslp: Divertimento in G major, Hob.II:3 (Haydn, Joseph)
+formula: 0202 2000
+instrumentation:
+  oboe: 2
+  bassoon: 2
+  horn: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Divertimento_in_G_major%2C_Hob.II%3A3_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 bassoons, 2 horns (G)'

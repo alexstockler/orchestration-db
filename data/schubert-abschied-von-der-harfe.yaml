@@ -1,0 +1,18 @@
+id: schubert-abschied-von-der-harfe
+work:
+  composer: Schubert, Franz
+  title: Abschied von der Harfe
+  ids:
+    imslp: Abschied von der Harfe, D.406 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Abschied_von_der_Harfe%2C_D.406_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

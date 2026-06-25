@@ -1,0 +1,17 @@
+id: haydn-auch-die-sprodeste-der-schonen
+work:
+  composer: Haydn, Joseph
+  title: Auch die sprödeste der Schönen
+  ids:
+    imslp: Auch die sprödeste der Schönen, Hob.XXVI:18 (Haydn, Joseph)
+  year: 1784
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Auch_die_spr%C3%B6deste_der_Sch%C3%B6nen%2C_Hob.XXVI%3A18_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, keyboard'

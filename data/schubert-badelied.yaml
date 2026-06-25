@@ -1,0 +1,19 @@
+id: schubert-badelied
+work:
+  composer: Schubert, Franz
+  title: Badelied
+  ids:
+    imslp: Badelied, D.Anh.I/21 (Schubert, Franz)
+  year: 1815
+formula: ''
+instrumentation:
+  soloists:
+  - tenors
+  additional_raw: bass or 2 tenors | 2 basses (instrumentation is uncertain)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Badelied%2C_D.Anh.I/21_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 tenors, bass or 2 tenors, 2 basses (instrumentation is
+    uncertain)'
+duration_minutes: 2

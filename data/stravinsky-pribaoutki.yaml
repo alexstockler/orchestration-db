@@ -1,0 +1,22 @@
+id: stravinsky-pribaoutki
+work:
+  composer: Stravinsky, Igor
+  title: Pribaoutki
+  ids:
+    imslp: Pribaoutki, K020 (Stravinsky, Igor)
+  year: 1914
+formula: 1111 0000
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  soloists:
+  - voice
+  additional_raw: violin | viola | cello | double bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pribaoutki%2C_K020_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, flute, oboe (also English horn), clarinet, bassoon,
+    violin, viola, cello, double bass'

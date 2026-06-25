@@ -1,0 +1,44 @@
+id: prokofiev-symphony-no-7
+work:
+  composer: Prokofiev, Sergey
+  title: Symphony No.7
+  ids:
+    imslp: Symphony No.7, Op.131 (Prokofiev, Sergey)
+  year: 1951
+formula: 3[pic.2.3] 3[1.2.Eh] 3[1.2.bcl] 2 4331 tmp+1 pf hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+  keyboards:
+  - instrument: piano
+  harp: 1
+  strings: str
+  additional_raw: '*(bass drum, triangle, tambourine, snare drum, cymbals, wood blocks,
+    glockenspiel, xylophone)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.7%2C_Op.131_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra :piccolo, 2 flutes, 2 oboes, English horn, 2
+    clarinets, ::bass clarinet, 2 bassoons :4 horns, 3 trumpets, 3 trombones, tuba,
+    timpani, percussion*, piano, harp, strings, *(bass drum, triangle, tambourine,
+    snare drum, cymbals, wood blocks, glockenspiel, xylophone)'
+duration_minutes: 32

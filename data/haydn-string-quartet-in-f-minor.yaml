@@ -1,0 +1,15 @@
+id: haydn-string-quartet-in-f-minor
+work:
+  composer: Haydn, Joseph
+  title: String Quartet in F minor
+  ids:
+    imslp: String Quartet in F minor, Hob.III:35 (Haydn, Joseph)
+  year: 1772
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_in_F_minor%2C_Hob.III%3A35_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

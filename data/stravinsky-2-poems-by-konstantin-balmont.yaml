@@ -1,0 +1,18 @@
+id: stravinsky-2-poems-by-konstantin-balmont
+work:
+  composer: Stravinsky, Igor
+  title: 2 Poems by Konstantin Balmont
+  ids:
+    imslp: 2 Poems by Konstantin Balmont, K013 (Stravinsky, Igor)
+  year: 1911
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Poems_by_Konstantin_Balmont%2C_K013_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

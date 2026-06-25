@@ -1,0 +1,17 @@
+id: prokofiev-winter-bonfire
+work:
+  composer: Prokofiev, Sergey
+  title: Winter Bonfire
+  ids:
+    imslp: Winter Bonfire, Op.122 (Prokofiev, Sergey)
+  year: 1949
+formula: ''
+instrumentation:
+  chorus_raw: children's chorus
+  additional_raw: narrator
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Winter_Bonfire%2C_Op.122_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: narrator, children''s chorus, orchestra'
+duration_minutes: 20

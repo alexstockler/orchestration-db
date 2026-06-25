@@ -1,0 +1,16 @@
+id: haydn-divertimento-divertimento-2
+work:
+  composer: Haydn, Joseph
+  title: Divertimento ; Divertimento 2
+  ids:
+    imslp: Divertimento in G major, Hob.XVI:11 (Haydn, Joseph)
+  year: 1767
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Divertimento_in_G_major%2C_Hob.XVI%3A11_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

@@ -1,0 +1,18 @@
+id: schubert-die-gebusche-d-646
+work:
+  composer: Schubert, Franz
+  title: Die Gebüsche, D.646
+  ids:
+    imslp: Die Gebüsche, D.646 (Schubert, Franz)
+  year: 1819
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Geb%C3%BCsche%2C_D.646_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,18 @@
+id: schubert-jagers-liebeslied
+work:
+  composer: Schubert, Franz
+  title: Jägers Liebeslied
+  ids:
+    imslp: Jägers Liebeslied, D.909 (Schubert, Franz)
+  year: 1827
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/J%C3%A4gers_Liebeslied%2C_D.909_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

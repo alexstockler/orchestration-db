@@ -1,0 +1,16 @@
+id: schubert-4-impromptus
+work:
+  composer: Schubert, Franz
+  title: 4 Impromptus
+  ids:
+    imslp: 4 Impromptus, D.935 (Schubert, Franz)
+  year: 1827
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Impromptus%2C_D.935_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

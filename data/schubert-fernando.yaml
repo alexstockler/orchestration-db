@@ -1,0 +1,15 @@
+id: schubert-fernando
+work:
+  composer: Schubert, Franz
+  title: Fernando
+  ids:
+    imslp: Fernando, D.220 (Schubert, Franz)
+  year: 1815
+formula: ''
+instrumentation:
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fernando%2C_D.220_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, orchestra'

@@ -1,0 +1,18 @@
+id: schubert-die-frohlichkeit-d-262
+work:
+  composer: Schubert, Franz
+  title: Die Fröhlichkeit, D.262
+  ids:
+    imslp: Die Fröhlichkeit, D.262 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Fr%C3%B6hlichkeit%2C_D.262_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

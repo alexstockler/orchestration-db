@@ -1,0 +1,19 @@
+id: prokofiev-5-poems
+work:
+  composer: Prokofiev, Sergey
+  title: 5 Poems
+  ids:
+    imslp: 5 Poems, Op.23 (Prokofiev, Sergey)
+  year: 1915
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Poems%2C_Op.23_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 29

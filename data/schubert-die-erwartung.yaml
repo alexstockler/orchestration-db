@@ -1,0 +1,18 @@
+id: schubert-die-erwartung
+work:
+  composer: Schubert, Franz
+  title: Die Erwartung
+  ids:
+    imslp: Die Erwartung, D.159 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Erwartung%2C_D.159_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

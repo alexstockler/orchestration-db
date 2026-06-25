@@ -1,0 +1,14 @@
+id: prokofiev-cinderella-3rd-suite
+work:
+  composer: Prokofiev, Sergey
+  title: Cinderella (3rd suite)
+  ids:
+    imslp: Cinderella (3rd suite), Op.109 (Prokofiev, Sergey)
+  year: 1946
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cinderella_%283rd_suite%29%2C_Op.109_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

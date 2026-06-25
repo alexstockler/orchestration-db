@@ -1,0 +1,21 @@
+id: haydn-notturno-in-g-major
+work:
+  composer: Haydn, Joseph
+  title: Notturno in G major
+  ids:
+    imslp: Notturno in G major, Hob.II:27 (Haydn, Joseph)
+  year: 1788
+formula: 1100 2000
+instrumentation:
+  flute: 1
+  oboe: 1
+  horn: 2
+  soloists:
+  - bass
+  additional_raw: 2 violins | 2 violas
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Notturno_in_G_major%2C_Hob.II%3A27_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 horns, 2 violins, 2 violas, 2 lire organizzate, bass,
+    revised orchestration: flute, oboe, 2 horns, 2 violins, 2 violas, bass'

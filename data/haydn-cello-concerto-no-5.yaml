@@ -1,0 +1,21 @@
+id: haydn-cello-concerto-no-5
+work:
+  composer: Haydn, Joseph
+  title: Cello Concerto No.5
+  ids:
+    imslp: Cello Concerto No.5 in C major, Hob.VIIb:5 (Haydn, Joseph)
+  year: 1899
+formula: 2222 4000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Concerto_No.5_in_C_major%2C_Hob.VIIb%3A5_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, strings'
+duration_minutes: 20

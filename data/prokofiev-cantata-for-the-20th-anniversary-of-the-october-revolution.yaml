@@ -1,0 +1,18 @@
+id: prokofiev-cantata-for-the-20th-anniversary-of-the-october-revolution
+work:
+  composer: Prokofiev, Sergey
+  title: Cantata for the 20th Anniversary of the October Revolution
+  ids:
+    imslp: Cantata for the 20th Anniversary of the October Revolution, Op.74 (Prokofiev,
+      Sergey)
+  year: 1936
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: speaker
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cantata_for_the_20th_Anniversary_of_the_October_Revolution%2C_Op.74_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: chorus, speaker, orchestra'
+duration_minutes: 45

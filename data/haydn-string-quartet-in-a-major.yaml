@@ -1,0 +1,15 @@
+id: haydn-string-quartet-in-a-major
+work:
+  composer: Haydn, Joseph
+  title: String Quartet in A major
+  ids:
+    imslp: String Quartet in A major, Hob.III:7 (Haydn, Joseph)
+  year: 1757
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_in_A_major%2C_Hob.III%3A7_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

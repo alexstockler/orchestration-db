@@ -1,0 +1,18 @@
+id: haydn-saper-vorrei-se-m-ami-hob-xxva-2
+work:
+  composer: Haydn, Joseph
+  title: Saper vorrei se m'ami, Hob.XXVa:2
+  ids:
+    imslp: Saper vorrei se m'ami, Hob.XXVa:2 (Haydn, Joseph)
+  year: 1796
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Saper_vorrei_se_m%27ami%2C_Hob.XXVa%3A2_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, keyboard'

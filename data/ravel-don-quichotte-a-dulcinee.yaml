@@ -1,0 +1,30 @@
+id: ravel-don-quichotte-a-dulcinee
+work:
+  composer: Ravel, Maurice
+  title: Don Quichotte à Dulcinée
+  ids:
+    imslp: Don Quichotte à Dulcinée, M.84 (Ravel, Maurice)
+  year: 1932
+formula: 2 3[1.2.Eh] 2 2 1100 hp str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 1
+  trumpet: 1
+  percussion:
+    instruments:
+    - castanets
+    - vibraphone
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Don_Quichotte_%C3%A0_Dulcin%C3%A9e%2C_M.84_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, English horn, 2 clarinets, 2 bassoons,
+    horn, trumpet, castanets, vibraphone, harp, strings'

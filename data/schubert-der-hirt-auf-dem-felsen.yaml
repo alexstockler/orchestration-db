@@ -1,0 +1,19 @@
+id: schubert-der-hirt-auf-dem-felsen
+work:
+  composer: Schubert, Franz
+  title: Der Hirt auf dem Felsen
+  ids:
+    imslp: Der Hirt auf dem Felsen, D.965 (Schubert, Franz)
+  year: 1828
+formula: 0010 0000 pf
+instrumentation:
+  clarinet: 1
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Hirt_auf_dem_Felsen%2C_D.965_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, clarinet, piano'

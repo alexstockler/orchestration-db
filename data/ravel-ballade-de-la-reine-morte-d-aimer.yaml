@@ -1,0 +1,19 @@
+id: ravel-ballade-de-la-reine-morte-d-aimer
+work:
+  composer: Ravel, Maurice
+  title: Ballade de la reine morte d'aimer
+  ids:
+    imslp: Ballade de la reine morte d'aimer, M.4 (Ravel, Maurice)
+  year: 1893
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ballade_de_la_reine_morte_d%27aimer%2C_M.4_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 5

@@ -1,0 +1,19 @@
+id: schubert-auf-dem-strom
+work:
+  composer: Schubert, Franz
+  title: Auf dem Strom
+  ids:
+    imslp: Auf dem Strom, D.943 (Schubert, Franz)
+  year: 1828
+formula: 0000 1000 pf
+instrumentation:
+  horn: 1
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Auf_dem_Strom%2C_D.943_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, horn, piano'

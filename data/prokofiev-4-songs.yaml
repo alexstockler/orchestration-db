@@ -1,0 +1,17 @@
+id: prokofiev-4-songs
+work:
+  composer: Prokofiev, Sergey
+  title: 4 Songs
+  ids:
+    imslp: 4 Songs, Op.66b (Prokofiev, Sergey)
+  year: 1935
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice (or mixed chorus (SATB))
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Songs%2C_Op.66b_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (or mixed chorus (SATB)), piano'

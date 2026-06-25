@@ -1,0 +1,18 @@
+id: haydn-the-spirit-s-song
+work:
+  composer: Haydn, Joseph
+  title: The Spirit's Song
+  ids:
+    imslp: The Spirit's Song, Hob.XXVIa:41 (Haydn, Joseph)
+  year: 1801
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Spirit%27s_Song%2C_Hob.XXVIa%3A41_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

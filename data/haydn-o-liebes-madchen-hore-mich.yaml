@@ -1,0 +1,17 @@
+id: haydn-o-liebes-madchen-hore-mich
+work:
+  composer: Haydn, Joseph
+  title: O liebes Mädchen, höre mich
+  ids:
+    imslp: O liebes Mädchen, höre mich, Hob.XXVI:15 (Haydn, Joseph)
+  year: 1784
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_liebes_M%C3%A4dchen%2C_h%C3%B6re_mich%2C_Hob.XXVI%3A15_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, keyboard'

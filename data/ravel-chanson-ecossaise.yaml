@@ -1,0 +1,19 @@
+id: ravel-chanson-ecossaise
+work:
+  composer: Ravel, Maurice
+  title: Chanson écossaise
+  ids:
+    imslp: Chanson écossaise, M.A 12 (Ravel, Maurice)
+  year: 1909
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chanson_%C3%A9cossaise%2C_M.A_12_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 3

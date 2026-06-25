@@ -1,0 +1,20 @@
+id: haydn-berenice-che-fai
+work:
+  composer: Haydn, Joseph
+  title: Berenice, che fai
+  ids:
+    imslp: Berenice, che fai, Hob.XXIVa:10 (Haydn, Joseph)
+  year: 1795
+formula: 2222 2000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Berenice%2C_che_fai%2C_Hob.XXIVa%3A10_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, strings'

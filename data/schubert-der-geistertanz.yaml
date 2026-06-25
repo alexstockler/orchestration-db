@@ -1,0 +1,18 @@
+id: schubert-der-geistertanz
+work:
+  composer: Schubert, Franz
+  title: Der Geistertanz
+  ids:
+    imslp: Der Geistertanz, D.15 (Schubert, Franz)
+  year: 1812
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Geistertanz%2C_D.15_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,17 @@
+id: schubert-allegro-in-f-sharp-minor-and-scherzo-in-d-major
+work:
+  composer: Schubert, Franz
+  title: Allegro in F-sharp minor and Scherzo in D major
+  ids:
+    imslp: Allegro and Scherzo, D.570 (Schubert, Franz)
+  year: 1817
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegro_and_Scherzo%2C_D.570_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 8

@@ -1,0 +1,59 @@
+id: stravinsky-the-rake-s-progress
+work:
+  composer: Stravinsky, Igor
+  title: The Rake's Progress
+  ids:
+    imslp: The Rake's Progress, K078 (Stravinsky, Igor)
+  year: 1947
+formula: 2[1.2/pic] 2[1.2/Eh] 2 2 2200 tmp hpd str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: harpsichord
+  strings: str
+  soloists:
+  - Tom Rakewell
+  - a Rake (tenor)
+  - Anne Trulove
+  - his Betrothed (soprano)
+  - Anne Trulove
+  - his Betrothed (bass-baritone)
+  - Baba the Turk
+  - a Bearded Lady (mezzo-soprano)
+  - Father Trulove
+  - Anne's Father (bass)
+  - Father Trulove
+  - Anne's Father (tenor)
+  - Mother Goose
+  - a Whore (contralto)
+  - Keeper of the Madhouse (bass) Mixed Chorus (SATB) :Whores
+  - Roaring Boys
+  - Servants
+  - Citizens
+  - Madmen
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Rake%27s_Progress%2C_K078_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Tom Rakewell, a Rake (tenor), Anne Trulove, his Betrothed
+    (soprano), Anne Trulove, his Betrothed (bass-baritone), Baba the Turk, a Bearded
+    Lady (mezzo-soprano), Father Trulove, Anne''s Father (bass), Father Trulove, Anne''s
+    Father (tenor), Mother Goose, a Whore (contralto), Keeper of the Madhouse (bass)
+    Mixed Chorus (SATB) :Whores, Roaring Boys, Servants, Citizens, Madmen Orchestra
+    :2 flutes (2nd also piccolo), 2 oboes (2nd also English horn), 2 clarinets, 2
+    bassoons, 2 horns, 2 trumpets, timpani, harpsichord (or piano), strings (4 solo
+    violins, 3 solo violas, 2 solo cellos, solo double bass)'
+duration_minutes: 20

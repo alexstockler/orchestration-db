@@ -5,9 +5,16 @@ work:
   ids:
     imslp: Symphony No.8, GMW 48 (Mahler, Gustav)
   year: 1906
-formula: 4 5[1.2.3.4.Eh] 5[1.2.3.4.bcl] 4 0471 tmp pf harm org hp mand
+formula: 6[pic.pic.3.4.5.6] 5[1.2.3.4.Eh] 5[Ebcl.2.3.4.bcl] 5[1.2.3.4.cbn] 8871 tmp
+  cel pf harm org hp mand
 instrumentation:
-  flute: 4
+  flute:
+  - instrument: piccolo
+  - instrument: piccolo
+  - {}
+  - {}
+  - {}
+  - {}
   oboe:
   - {}
   - {}
@@ -15,21 +22,31 @@ instrumentation:
   - {}
   - instrument: english_horn
   clarinet:
-  - {}
+  - instrument: eflat_clarinet
   - {}
   - {}
   - {}
   - instrument: bass_clarinet
-  bassoon: 4
-  trumpet: 4
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 8
+  trumpet: 8
   trombone: 7
   tuba: 1
   percussion:
     timpani: 1
     instruments:
+    - bass drum
     - triangle
     - tam-tam
+    - bells
+    - glockenspiel
   keyboards:
+  - instrument: celesta
   - instrument: piano
   - instrument: harmonium
   - instrument: organ
@@ -37,14 +54,14 @@ instrumentation:
   extras:
   - instrument: mandolin
   soloists:
-  - sopranos
-  - altos
+  - 3 sopranos
+  - 2 altos
   - tenor
   - baritone
-  additional_raw: 'bass Choruses (SATB) :children''s chorus | 2 mixed choruses Orchestra
-    :2 piccolos (1st also 5th flute) | contrabassoon :8 horns | percussion (2 players):
-    :: bass drum | 3 pairs of cymbals | bells (A, A) | glockenspiel :celesta | strings
-    Off-Stage Orchestra :4 trumpets'
+  - bass Choruses (SATB) :children's chorus
+  - 2 mixed choruses
+  additional_raw: 'percussion (2 players): | 3 pairs of cymbals | strings Off-Stage
+    Orchestra'
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Symphony_No.8%2C_GMW_48_%28Mahler%2C_Gustav%29

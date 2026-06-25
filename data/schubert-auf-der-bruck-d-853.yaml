@@ -1,0 +1,18 @@
+id: schubert-auf-der-bruck-d-853
+work:
+  composer: Schubert, Franz
+  title: Auf der Bruck, D.853
+  ids:
+    imslp: Auf der Bruck, D.853 (Schubert, Franz)
+  year: 1825
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Auf_der_Bruck%2C_D.853_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

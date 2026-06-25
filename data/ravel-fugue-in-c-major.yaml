@@ -1,0 +1,15 @@
+id: ravel-fugue-in-c-major
+work:
+  composer: Ravel, Maurice
+  title: Fugue in C major
+  ids:
+    imslp: Fugue in C major, M.44 (Ravel, Maurice)
+  year: 1905
+formula: ''
+instrumentation:
+  additional_raw: open (4 voices)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_C_major%2C_M.44_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: open (4 voices)'

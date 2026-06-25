@@ -1,0 +1,16 @@
+id: schubert-lacrimoso-son-io
+work:
+  composer: Schubert, Franz
+  title: Lacrimoso son io
+  ids:
+    imslp: Lacrimoso son io, D.131 (Schubert, Franz)
+  year: 1815
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lacrimoso_son_io%2C_D.131_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

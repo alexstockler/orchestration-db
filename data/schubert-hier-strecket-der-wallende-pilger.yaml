@@ -1,0 +1,15 @@
+id: schubert-hier-strecket-der-wallende-pilger
+work:
+  composer: Schubert, Franz
+  title: Hier strecket der wallende Pilger
+  ids:
+    imslp: Hier strecket der wallende Pilger, D.57 (Schubert, Franz)
+  year: 1813
+formula: ''
+instrumentation:
+  additional_raw: 2 Tenors and Bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hier_strecket_der_wallende_Pilger%2C_D.57_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Tenors and Bass'

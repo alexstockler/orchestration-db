@@ -1,0 +1,70 @@
+id: ravel-l-heure-espagnole
+work:
+  composer: Ravel, Maurice
+  title: L'heure espagnole
+  ids:
+    imslp: L'heure espagnole, M.52 (Ravel, Maurice)
+  year: 1907
+formula: 3[pic.2.3] 3[1.2.Eh] 3[1.2.bcl] 2 4231 tmp cel 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drum
+    - bass drum
+    - cymbals
+    - tambourine
+    - tam-tam
+    - triangle
+    - castanets
+    - ratchet
+    - whip
+    - sleigh bells
+    - tubular bells
+    - glockenspiel
+    - xylophone
+  keyboards:
+  - instrument: celesta
+  harp: 2
+  strings: str
+  soloists:
+  - Torquemada
+  - a clockmaker (tenor)
+  - Concepción
+  - Torquemada's wife (mezzo-soprano)
+  - Gonzalve
+  - a student poet (tenor)
+  - Ramiro
+  - a muleteer (baritone)
+  - Don Iñigo Gomez
+  - a banker (bass)
+  additional_raw: sarrusophone | spring (ressort) | 3 clock pendulums
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27heure_espagnole%2C_M.52_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Torquemada, a clockmaker (tenor), Concepción, Torquemada''s
+    wife (mezzo-soprano), Gonzalve, a student poet (tenor), Ramiro, a muleteer (baritone),
+    Don Iñigo Gomez, a banker (bass) Orchestra :piccolo, 2 flutes, 2 oboes, English
+    horn, 2 clarinets, ::bass clarinet, 2 bassoons, sarrusophone :4 horns, 2 trumpets,
+    3 trombones, tuba, timpani, snare drum, bass drum, cymbals, spring (ressort),
+    tambourine, tam-tam,, triangle, castanets, ratchet (crécelle), whip (fouet), sleigh
+    bells (grelots),, tubular bells, glockenspiel, 3 clock pendulums, xylophone, celesta,
+    2 harps, strings'

@@ -1,0 +1,17 @@
+id: schubert-canon-in-c-major
+work:
+  composer: Schubert, Franz
+  title: Canon in C major
+  ids:
+    imslp: Canon in C major, D.deest (Schubert, Franz)
+  year: 1826
+formula: ''
+instrumentation:
+  soloists:
+  - 5 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canon_in_C_major%2C_D.deest_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 5 voices'
+duration_minutes: 2

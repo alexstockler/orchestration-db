@@ -1,0 +1,34 @@
+id: stravinsky-scherzo-a-la-russe
+work:
+  composer: Stravinsky, Igor
+  title: Scherzo à la russe
+  ids:
+    imslp: Scherzo à la russe, K070 (Stravinsky, Igor)
+  year: 1943
+formula: 3[pic.2.3] 2 2 2 4331 tmp+1 pf hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+  keyboards:
+  - instrument: piano
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scherzo_%C3%A0_la_russe%2C_K070_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4
+    horns, 3 trumpets, 3 trombones, tuba, timpani, percussion, harp, piano, strings'
+duration_minutes: 4

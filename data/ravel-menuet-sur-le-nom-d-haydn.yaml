@@ -1,0 +1,16 @@
+id: ravel-menuet-sur-le-nom-d-haydn
+work:
+  composer: Ravel, Maurice
+  title: Menuet sur le nom d'Haydn
+  ids:
+    imslp: Menuet sur le nom d'Haydn, M.58 (Ravel, Maurice)
+  year: 1909
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Menuet_sur_le_nom_d%27Haydn%2C_M.58_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

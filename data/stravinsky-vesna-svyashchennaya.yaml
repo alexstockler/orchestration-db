@@ -1,0 +1,79 @@
+id: stravinsky-vesna-svyashchennaya
+work:
+  composer: Stravinsky, Igor
+  title: Весна священная (Vesna svyashchennaya)
+  ids:
+    imslp: The Rite of Spring, K015 (Stravinsky, Igor)
+  year: 1910
+formula: 5[pic.2.3/pic.4.afl] 5[1.2.3.4/Eh.Eh] 5[Ebcl.2.3/bcl.4.bcl] 5[1.2.3.4/cbn.cbn]
+  8[1.2.3.4.5.6.7.8/Wtu] 5[pictpt.2.3.4/btpt.5] 3 2 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - doublings:
+    - piccolo
+  - {}
+  - instrument: alto_flute
+  oboe:
+  - {}
+  - {}
+  - {}
+  - doublings:
+    - english_horn
+  - instrument: english_horn
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - doublings:
+    - bass_clarinet
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  - instrument: contrabassoon
+  horn:
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - doublings:
+    - wagner_tuba
+  trumpet:
+  - instrument: piccolo_trumpet
+  - {}
+  - {}
+  - doublings:
+    - bass_trumpet
+  - {}
+  trombone: 3
+  tuba: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tambourine
+    - tam-tam
+    - guiro
+    - bass drum
+    - crotales
+    - cymbals
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Rite_of_Spring%2C_K015_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: :piccolo, 3 flutes (3rd also piccolo), alto flute, 4 oboes
+    (4th also english horn), ::english horn, E clarinet, 3 clarinets (3rd also bass
+    clarinet),, bass clarinet, 4 bassoons (4th also contrabassoon), contrabassoon
+    :8 horns (7th, 8th also Wagner tuba), piccolo trumpet, ::4 trumpets (4th also
+    bass trumpet), 3 trombones, 2 tubas :timpani (2 players), triangle, tambourine,
+    tam-tam, guiro, bass drum, crotales, cymbals, strings'
+duration_minutes: 33

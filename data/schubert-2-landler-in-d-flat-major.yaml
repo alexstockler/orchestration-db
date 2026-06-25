@@ -1,0 +1,17 @@
+id: schubert-2-landler-in-d-flat-major
+work:
+  composer: Schubert, Franz
+  title: 2 Ländler in D-flat major
+  ids:
+    imslp: 2 Ländler in D-flat major, D.980c (Schubert, Franz)
+  year: 1821
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_L%C3%A4ndler_in_D-flat_major%2C_D.980c_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 2

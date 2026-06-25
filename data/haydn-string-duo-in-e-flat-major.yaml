@@ -1,0 +1,15 @@
+id: haydn-string-duo-in-e-flat-major
+work:
+  composer: Haydn, Joseph
+  title: String Duo in E-flat major
+  ids:
+    imslp: String Duo in E-flat major, Hob.VI:Anh.2 (Haydn, Joseph)
+  year: 1798
+formula: ''
+instrumentation:
+  additional_raw: 2 violins
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Duo_in_E-flat_major%2C_Hob.VI%3AAnh.2_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins'

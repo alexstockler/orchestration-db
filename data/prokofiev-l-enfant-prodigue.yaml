@@ -1,0 +1,15 @@
+id: prokofiev-l-enfant-prodigue
+work:
+  composer: Prokofiev, Sergey
+  title: L'enfant prodigue
+  ids:
+    imslp: L'enfant prodigue, Op.46 (Prokofiev, Sergey)
+  year: 1928
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27enfant_prodigue%2C_Op.46_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'
+duration_minutes: 35

@@ -1,0 +1,15 @@
+id: haydn-string-duo-in-a-major
+work:
+  composer: Haydn, Joseph
+  title: String Duo in A major
+  ids:
+    imslp: String Duo in A major, Hob.VI:A1 (Haydn, Joseph)
+  year: 1796
+formula: ''
+instrumentation:
+  additional_raw: 2 violins
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Duo_in_A_major%2C_Hob.VI%3AA1_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins'

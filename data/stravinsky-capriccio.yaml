@@ -1,0 +1,41 @@
+id: stravinsky-capriccio
+work:
+  composer: Stravinsky, Igor
+  title: Capriccio
+  ids:
+    imslp: Capriccio, K050 (Stravinsky, Igor)
+  year: 1928
+formula: 3[1.2.3/pic] 3[1.2.Eh] 3[1.2.3/bcl] 2 4231 tmp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - doublings:
+    - bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: 'unknown doubling in clarinet: e-flat clarinet-flat clarinet'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Capriccio%2C_K050_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 2 oboes, English horn,, 3
+    clarinets (2nd also E clarinet, 3rd also bass clarinet), 2 bassoons, 4 horns,
+    2 trumpets, 3 trombones, tuba,, timpani, strings (including solo violin, solo
+    viola, solo cello, solo double bass)'
+duration_minutes: 17

@@ -1,0 +1,18 @@
+id: schubert-gott-im-fruhlinge-d-448
+work:
+  composer: Schubert, Franz
+  title: Gott im Frühlinge, D.448
+  ids:
+    imslp: Gott im Frühlinge, D.448 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_im_Fr%C3%BChlinge%2C_D.448_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,18 @@
+id: schubert-die-befreier-europas-in-paris
+work:
+  composer: Schubert, Franz
+  title: Die Befreier Europas in Paris
+  ids:
+    imslp: Die Befreier Europas in Paris, D.104 (Schubert, Franz)
+  year: 1814
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Befreier_Europas_in_Paris%2C_D.104_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, piano'

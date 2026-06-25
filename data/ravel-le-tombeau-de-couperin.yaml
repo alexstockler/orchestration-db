@@ -1,0 +1,16 @@
+id: ravel-le-tombeau-de-couperin
+work:
+  composer: Ravel, Maurice
+  title: Le tombeau de Couperin
+  ids:
+    imslp: Le tombeau de Couperin, M.68 (Ravel, Maurice)
+  year: 1914
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_tombeau_de_Couperin%2C_M.68_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

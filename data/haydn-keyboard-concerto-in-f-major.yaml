@@ -1,0 +1,17 @@
+id: haydn-keyboard-concerto-in-f-major
+work:
+  composer: Haydn, Joseph
+  title: Keyboard Concerto in F major
+  ids:
+    imslp: Keyboard Concerto in F major, Hob.XVIII:7 (Haydn, Joseph)
+  year: 1766
+formula: pf str
+instrumentation:
+  keyboards:
+  - instrument: piano
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Keyboard_Concerto_in_F_major%2C_Hob.XVIII%3A7_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: piano (or harpsichord), strings (2 violins, cello)'

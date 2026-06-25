@@ -1,0 +1,17 @@
+id: haydn-organ-concerto-in-f-major
+work:
+  composer: Haydn, Joseph
+  title: Organ Concerto in F major
+  ids:
+    imslp: Organ Concerto in F major, Hob.XVIII:F4 (Haydn, Joseph)
+formula: 0000 2000 org str
+instrumentation:
+  horn: 2
+  keyboards:
+  - instrument: organ
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Organ_Concerto_in_F_major%2C_Hob.XVIII%3AF4_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: organ, 2 horns, strings'

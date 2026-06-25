@@ -1,0 +1,15 @@
+id: schubert-gesang-der-geister-uber-den-wassern
+work:
+  composer: Schubert, Franz
+  title: Gesang der Geister über den Wassern
+  ids:
+    imslp: Gesang der Geister über den Wassern, D.538 (Schubert, Franz)
+  year: 1817
+formula: ''
+instrumentation:
+  additional_raw: TTBB voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gesang_der_Geister_%C3%BCber_den_Wassern%2C_D.538_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: TTBB voices'

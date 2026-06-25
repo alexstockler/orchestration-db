@@ -1,0 +1,17 @@
+id: stravinsky-duo-concertant
+work:
+  composer: Stravinsky, Igor
+  title: Duo concertant
+  ids:
+    imslp: Duo concertant, K054 (Stravinsky, Igor)
+  year: 1931
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Duo_concertant%2C_K054_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

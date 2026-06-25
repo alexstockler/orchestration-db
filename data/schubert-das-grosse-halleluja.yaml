@@ -1,0 +1,17 @@
+id: schubert-das-grosse-halleluja
+work:
+  composer: Schubert, Franz
+  title: Das Grosse Halleluja
+  ids:
+    imslp: Das grosse Halleluja, D.442 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: mixed choir
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_grosse_Halleluja%2C_D.442_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed choir, piano'

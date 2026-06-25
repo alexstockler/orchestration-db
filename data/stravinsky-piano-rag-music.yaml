@@ -1,0 +1,16 @@
+id: stravinsky-piano-rag-music
+work:
+  composer: Stravinsky, Igor
+  title: Piano-Rag-Music
+  ids:
+    imslp: Piano-Rag-Music, K032 (Stravinsky, Igor)
+  year: 1919
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano-Rag-Music%2C_K032_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

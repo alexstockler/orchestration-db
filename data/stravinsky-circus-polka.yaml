@@ -1,0 +1,16 @@
+id: stravinsky-circus-polka
+work:
+  composer: Stravinsky, Igor
+  title: Circus Polka
+  ids:
+    imslp: Circus Polka, K064 (Stravinsky, Igor)
+  year: 1942
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Circus_Polka%2C_K064_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

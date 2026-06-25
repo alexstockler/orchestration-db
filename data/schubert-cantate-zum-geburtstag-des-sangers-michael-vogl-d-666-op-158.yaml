@@ -1,0 +1,21 @@
+id: schubert-cantate-zum-geburtstag-des-sangers-michael-vogl-d-666-op-158
+work:
+  composer: Schubert, Franz
+  title: Cantate zum Geburtstag des Sängers Michael Vogl, D.666 (Op.158)
+  ids:
+    imslp: Kantate zum Geburtstag des Sängers Johann Michael Vogl, D.666 (Schubert,
+      Franz)
+  year: 1819
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kantate_zum_Geburtstag_des_S%C3%A4ngers_Johann_Michael_Vogl%2C_D.666_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, bass, piano'

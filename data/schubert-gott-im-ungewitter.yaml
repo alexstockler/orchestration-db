@@ -1,0 +1,16 @@
+id: schubert-gott-im-ungewitter
+work:
+  composer: Schubert, Franz
+  title: Gott im Ungewitter
+  ids:
+    imslp: Gott im Ungewitter, D.985 (Schubert, Franz)
+  year: 1829
+formula: ''
+instrumentation:
+  additional_raw: S/A/T/B - piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_im_Ungewitter%2C_D.985_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: S/A/T/B - piano'
+duration_minutes: 5

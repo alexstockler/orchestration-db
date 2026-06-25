@@ -1,0 +1,16 @@
+id: schubert-allegro-in-a-minor
+work:
+  composer: Schubert, Franz
+  title: Allegro in A minor
+  ids:
+    imslp: Allegro in A minor, D.947 (Schubert, Franz)
+  year: 1828
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegro_in_A_minor%2C_D.947_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4 hands'

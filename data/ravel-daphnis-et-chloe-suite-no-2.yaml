@@ -1,0 +1,61 @@
+id: ravel-daphnis-et-chloe-suite-no-2
+work:
+  composer: Ravel, Maurice
+  title: Daphnis et Chloé Suite No.2
+  ids:
+    imslp: Daphnis et Chloé Suite No.2, M.57b (Ravel, Maurice)
+  year: 1913
+formula: 5[pic.2/pic.3.afl.pic] 3[1.2.Eh] 5[Ebcl.2.3.bcl.Ebcl] 4[1.2.3.cbn] 4431 tmp
+  cel 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - doublings:
+    - piccolo
+  - {}
+  - instrument: alto_flute
+  - instrument: piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  - instrument: eflat_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 4
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tambourine
+    - bass drum
+    - cymbals
+    - snare drum
+    - field drum
+    - castanets
+    - glockenspiel
+  keyboards:
+  - instrument: celesta
+  harp: 2
+  strings: str
+  additional_raw: ''''
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Daphnis_et_Chlo%C3%A9_Suite_No.2%2C_M.57b_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: '' :piccolo (also offstage), 2 flutes (2nd also piccolo),
+    alto flute, 2 oboes, English horn, E clarinet (also offstage), 2 clarinets, bass
+    clarinet, 3 bassoons, contrabassoon, 4 horns, 4 trumpets, 3 trombones, tuba, timpani,
+    triangle, tambourine, bass drum, cymbals, snare drum, field drum, castanets, glockenspiel,,
+    celesta, 2 harps, strings '' :piccolo, E clarinet'

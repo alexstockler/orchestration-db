@@ -1,0 +1,48 @@
+id: stravinsky-symphony-of-psalms
+work:
+  composer: Stravinsky, Igor
+  title: Symphony of Psalms
+  ids:
+    imslp: Symphony of Psalms, K052 (Stravinsky, Igor)
+  year: 1930
+formula: 5[1.2.3.4.5/pic] 5[1.2.3.4.Eh] 0 4[1.2.3.cbn] 4531 tmp pf pf hp
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: english_horn
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 5
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  harp: 1
+  additional_raw: cellos | basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_of_Psalms%2C_K052_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: 5 flutes (5th also piccolo), 4 oboes, English horn, 3 bassoons,
+    contrabassoon, 4 horns, trumpet (D), 4 trumpets, 3 trombones, tuba, timpani, bass
+    drum, 2 pianos, harp, cellos, basses'
+duration_minutes: 22

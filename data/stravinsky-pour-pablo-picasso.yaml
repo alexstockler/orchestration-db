@@ -1,0 +1,16 @@
+id: stravinsky-pour-pablo-picasso
+work:
+  composer: Stravinsky, Igor
+  title: Pour Pablo Picasso
+  ids:
+    imslp: Pour Pablo Picasso (Stravinsky, Igor)
+  year: 1917
+formula: 0010 0000
+instrumentation:
+  clarinet: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pour_Pablo_Picasso_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet'
+duration_minutes: 1

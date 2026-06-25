@@ -1,0 +1,18 @@
+id: ravel-reves
+work:
+  composer: Ravel, Maurice
+  title: Rêves
+  ids:
+    imslp: Rêves, M.79 (Ravel, Maurice)
+  year: 1927
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/R%C3%AAves%2C_M.79_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

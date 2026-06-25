@@ -1,0 +1,16 @@
+id: schubert-4-comic-landler
+work:
+  composer: Schubert, Franz
+  title: 4 Comic Ländler
+  ids:
+    imslp: 4 Comic Ländler, D.354 (Schubert, Franz)
+  year: 1816
+formula: ''
+instrumentation:
+  additional_raw: 2 violins
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Comic_L%C3%A4ndler%2C_D.354_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins'
+duration_minutes: 3

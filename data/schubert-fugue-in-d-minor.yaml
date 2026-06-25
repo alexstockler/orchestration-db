@@ -1,0 +1,17 @@
+id: schubert-fugue-in-d-minor
+work:
+  composer: Schubert, Franz
+  title: Fugue in D minor
+  ids:
+    imslp: Fugue in D minor, D.13 (Schubert, Franz)
+  year: 1812
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_D_minor%2C_D.13_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 3

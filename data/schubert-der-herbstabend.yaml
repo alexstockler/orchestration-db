@@ -1,0 +1,18 @@
+id: schubert-der-herbstabend
+work:
+  composer: Schubert, Franz
+  title: Der Herbstabend
+  ids:
+    imslp: Der Herbstabend, D.405 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Herbstabend%2C_D.405_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

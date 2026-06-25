@@ -5,9 +5,13 @@ work:
   ids:
     imslp: The Queen of Spades, Op.68 (Tchaikovsky, Pyotr)
   year: 1890
-formula: 3 3[1.2.Eh] 3[1.2.bcl] 2 4201 tmp pf hp
+formula: 4[pic.2.3.4] 3[1.2.Eh] 3[1.2.bcl] 2 4201 tmp pf hp
 instrumentation:
-  flute: 3
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  - {}
   oboe:
   - {}
   - {}
@@ -25,17 +29,27 @@ instrumentation:
     instruments:
     - side drum
     - bass drum
+    - drums
   keyboards:
   - instrument: piano
   harp: 1
-  additional_raw: Herman / Герман (1st tenor) | Count Tomsky / Граф Томский (baritone)
-    | Prince Yeletsky / Князь Елецкий (baritone) | Chekalinsky / Чекалинский (tenor)
-    | Surin / Сурин (bass), Chaplitsky / Чаплицкий) (2nd tenor) | Narumov / Нарумов
-    (2nd bass) | Master of Ceremonies / Распорядитель (2nd tenor) | Countess / Графиня
-    (mezzo-soprano) | Liza / Лиза (soprano) | Polina / Полина (contralto) | Governess
-    / Гувернантка (mezzo-soprano) | Masha / Маша (soprano) | Prilepa / Прилепа (soprano)
-    | Milovzor / Милозвор (contralto) | Zlatogor / Златогор (baritone) Mixed Chorus
-    (SATB) | Orchestra :piccolo | strings Offstage :children's trumpets | drums
+  soloists:
+  - Herman / Герман (1st tenor)
+  - Count Tomsky / Граф Томский (baritone)
+  - Prince Yeletsky / Князь Елецкий (baritone)
+  - Chekalinsky / Чекалинский (tenor)
+  - Surin / Сурин (bass), Chaplitsky / Чаплицкий) (2nd tenor)
+  - Narumov / Нарумов (2nd bass)
+  - Master of Ceremonies / Распорядитель (2nd tenor)
+  - Countess / Графиня (mezzo-soprano)
+  - Liza / Лиза (soprano)
+  - Polina / Полина (contralto)
+  - Governess / Гувернантка (mezzo-soprano)
+  - Masha / Маша (soprano)
+  - Prilepa / Прилепа (soprano)
+  - Milovzor / Милозвор (contralto)
+  - Zlatogor / Златогор (baritone) Mixed Chorus (SATB)
+  additional_raw: strings Offstage | children's trumpets
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/The_Queen_of_Spades%2C_Op.68_%28Tchaikovsky%2C_Pyotr%29

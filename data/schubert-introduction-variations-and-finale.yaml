@@ -1,0 +1,16 @@
+id: schubert-introduction-variations-and-finale
+work:
+  composer: Schubert, Franz
+  title: Introduction, Variations and Finale
+  ids:
+    imslp: Introduction, Variations and Finale, D.968a (Schubert, Franz)
+  year: 1824
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Introduction%2C_Variations_and_Finale%2C_D.968a_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'

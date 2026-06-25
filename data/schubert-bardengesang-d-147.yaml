@@ -1,0 +1,17 @@
+id: schubert-bardengesang-d-147
+work:
+  composer: Schubert, Franz
+  title: Bardengesang, D.147
+  ids:
+    imslp: Bardengesang, D.147 (Schubert, Franz)
+  year: 1815
+formula: ''
+instrumentation:
+  soloists:
+  - tenors
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bardengesang%2C_D.147_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 tenors, bass'

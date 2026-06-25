@@ -1,0 +1,17 @@
+id: schubert-gesang-der-geister-uber-den-wassern-3rd-setting-2nd-sketch-d-705
+work:
+  composer: Schubert, Franz
+  title: Gesang der Geister über den Wassern (3rd setting, 2nd sketch), D.705
+  ids:
+    imslp: Gesang der Geister über den Wassern, D.705 (Schubert, Franz)
+  year: 1820
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gesang_der_Geister_%C3%BCber_den_Wassern%2C_D.705_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB), piano'

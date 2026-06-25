@@ -1,0 +1,17 @@
+id: haydn-geistliches-lied
+work:
+  composer: Haydn, Joseph
+  title: Geistliches Lied
+  ids:
+    imslp: Geistliches Lied, Hob.XXVI:17 (Haydn, Joseph)
+  year: 1784
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Geistliches_Lied%2C_Hob.XXVI%3A17_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, keyboard'

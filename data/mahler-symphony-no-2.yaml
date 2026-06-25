@@ -5,7 +5,8 @@ work:
   ids:
     imslp: Symphony No.2, GMW 30 (Mahler, Gustav)
   year: 1888
-formula: 4 4[1.2.3.4/Eh] 3[1.2.3/bcl] 0 0 10[1.2.3.4.5.6.7.8.9.10] 4 1 tmp org 2hp
+formula: 4 4[1.2.3.4/Eh] 5[Ebcl.Ebcl.3/bcl.4.5] 4[1.2.3.4/cbn] 10[1.2.3.4.5.6.7.8.9.10]
+  10[1.2.3.4.5.6.7.8.9.10] 4 1 tmp org 2hp str
 instrumentation:
   flute: 4
   oboe:
@@ -15,10 +16,19 @@ instrumentation:
   - doublings:
     - english_horn
   clarinet:
+  - instrument: eflat_clarinet
+  - instrument: eflat_clarinet
+  - doublings:
+    - bass_clarinet
+  - {}
+  - {}
+  bassoon:
+  - {}
   - {}
   - {}
   - doublings:
-    - bass_clarinet
+    - contrabassoon
+  horn: 10
   trumpet: 10
   trombone: 4
   tuba: 1
@@ -31,11 +41,11 @@ instrumentation:
     - triangle
     - tam-tams
     - glockenspiel
+    - bells
   keyboards:
   - instrument: organ
   harp: 2
-  additional_raw: ::2 piccolo clarinets (2nd also 4th clarinet) | 4 bassoons (3rd,
-    4th also contrabassoon) :6 horns | bells | strings ' :4 horns
+  strings: str
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Symphony_No.2%2C_GMW_30_%28Mahler%2C_Gustav%29

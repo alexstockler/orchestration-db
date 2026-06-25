@@ -1,0 +1,18 @@
+id: prokofiev-the-gambler
+work:
+  composer: Prokofiev, Sergey
+  title: The Gambler
+  ids:
+    imslp: The Gambler, Op.24 (Prokofiev, Sergey)
+  year: 1915
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Gambler%2C_Op.24_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'
+duration_minutes: 130

@@ -1,0 +1,18 @@
+id: schubert-auflosung-d-807
+work:
+  composer: Schubert, Franz
+  title: Auflösung, D.807
+  ids:
+    imslp: Auflösung, D.807 (Schubert, Franz)
+  year: 1824
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aufl%C3%B6sung%2C_D.807_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

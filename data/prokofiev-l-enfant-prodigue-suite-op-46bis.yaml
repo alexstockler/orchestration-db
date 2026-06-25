@@ -1,0 +1,14 @@
+id: prokofiev-l-enfant-prodigue-suite-op-46bis
+work:
+  composer: Prokofiev, Sergey
+  title: L'enfant prodigue (suite), Op.46bis
+  ids:
+    imslp: L'enfant prodigue (suite), Op.46bis (Prokofiev, Sergey)
+  year: 1928
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27enfant_prodigue_%28suite%29%2C_Op.46bis_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

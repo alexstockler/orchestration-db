@@ -1,0 +1,18 @@
+id: ravel-chanson-galante
+work:
+  composer: Ravel, Maurice
+  title: Chanson galante
+  ids:
+    imslp: Chanson galante (Ravel, Maurice)
+  year: 1901
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  - baritone
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chanson_galante_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, baritone, orchestra'

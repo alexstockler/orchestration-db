@@ -1,0 +1,17 @@
+id: schubert-adagio-et-rondo-concertant
+work:
+  composer: Schubert, Franz
+  title: Adagio et rondo concertant
+  ids:
+    imslp: Adagio e Rondo concertante, D.487 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adagio_e_Rondo_concertante%2C_D.487_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola, cello, piano'

@@ -1,0 +1,18 @@
+id: schubert-ins-stille-land
+work:
+  composer: Schubert, Franz
+  title: Ins stille Land
+  ids:
+    imslp: Ins stille Land, D.403 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ins_stille_Land%2C_D.403_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

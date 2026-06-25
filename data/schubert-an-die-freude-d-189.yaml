@@ -1,0 +1,19 @@
+id: schubert-an-die-freude-d-189
+work:
+  composer: Schubert, Franz
+  title: An die Freude, D.189
+  ids:
+    imslp: An die Freude, D.189 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+  additional_raw: unison choir
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_die_Freude%2C_D.189_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, unison choir, piano'

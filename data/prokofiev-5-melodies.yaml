@@ -1,0 +1,19 @@
+id: prokofiev-5-melodies
+work:
+  composer: Prokofiev, Sergey
+  title: 5 Mélodies
+  ids:
+    imslp: 5 Mélodies, Op.35 (Prokofiev, Sergey)
+  year: 1920
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_M%C3%A9lodies%2C_Op.35_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (wordless), piano'
+duration_minutes: 13

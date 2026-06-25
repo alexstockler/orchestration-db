@@ -1,0 +1,17 @@
+id: schubert-german-dance-in-g-major-with-2-trios-and-2-landler-in-e-major
+work:
+  composer: Schubert, Franz
+  title: German Dance in G major with 2 Trios and 2 Ländler in E major
+  ids:
+    imslp: German Dance and 2 Ländler, D.618 (Schubert, Franz)
+  year: 1818
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/German_Dance_and_2_L%C3%A4ndler%2C_D.618_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'
+duration_minutes: 8

@@ -1,0 +1,18 @@
+id: haydn-sextet-in-e-flat-major
+work:
+  composer: Haydn, Joseph
+  title: Sextet in E-flat major
+  ids:
+    imslp: Sextet in E-flat major, Hob.II:40 (Haydn, Joseph)
+  year: 1781
+formula: 0101 1000
+instrumentation:
+  oboe: 1
+  bassoon: 1
+  horn: 1
+  additional_raw: violin | viola | cello ('fondamento')
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sextet_in_E-flat_major%2C_Hob.II%3A40_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, bassoon, horn, violin, viola, cello (''fondamento'')'

@@ -1,0 +1,18 @@
+id: schubert-fruhlingslied
+work:
+  composer: Schubert, Franz
+  title: Frühlingslied
+  ids:
+    imslp: Frühlingslied, D.398 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fr%C3%BChlingslied%2C_D.398_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

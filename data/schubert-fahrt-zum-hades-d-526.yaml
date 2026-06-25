@@ -1,0 +1,18 @@
+id: schubert-fahrt-zum-hades-d-526
+work:
+  composer: Schubert, Franz
+  title: Fahrt zum Hades, D.526
+  ids:
+    imslp: Fahrt zum Hades, D.526 (Schubert, Franz)
+  year: 1817
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fahrt_zum_Hades%2C_D.526_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

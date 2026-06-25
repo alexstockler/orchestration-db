@@ -16,11 +16,12 @@ instrumentation:
     - slapstick
     - tambourine
     - tam-tam
+    - switch
+    - hammer
     - xylophone
   keyboards:
   - instrument: celesta
-  additional_raw: 2 or more off-stage bells | on and off-stage cowbells | switch |
-    hammer
+  additional_raw: 2 or more off-stage bells | on and off-stage cowbells
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Symphony_No.6%2C_GMW_46_%28Mahler%2C_Gustav%29

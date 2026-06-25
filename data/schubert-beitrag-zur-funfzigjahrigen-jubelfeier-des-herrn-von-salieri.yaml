@@ -1,0 +1,21 @@
+id: schubert-beitrag-zur-funfzigjahrigen-jubelfeier-des-herrn-von-salieri
+work:
+  composer: Schubert, Franz
+  title: Beitrag zur fünfzigjährigen Jubelfeier des Herrn von Salieri
+  ids:
+    imslp: Beitrag zur fünfzigjährigen Jubelfeier des Herrn von Salieri, D.407 (Schubert,
+      Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - tenors
+  additional_raw: 2 basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Beitrag_zur_f%C3%BCnfzigj%C3%A4hrigen_Jubelfeier_des_Herrn_von_Salieri%2C_D.407_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 tenors, 2 basses, piano'
+duration_minutes: 6

@@ -1,0 +1,27 @@
+id: schubert-entra-l-uomo-allor-che-nasce-aria-di-abramo
+work:
+  composer: Schubert, Franz
+  title: Entra l'uomo allor che nasce, Aria di Abramo
+  ids:
+    imslp: Entra l'uomo allor che nasce, D.33 (Schubert, Franz)
+  year: 1812
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - soprano
+  - alto
+  - soprano
+  - alto
+  - tenor
+  - soprano
+  - alto
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Entra_l%27uomo_allor_che_nasce%2C_D.33_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (No.1), soprano, alto (No.2), soprano, alto, tenor
+    (No.3), soprano, alto, tenor, bass (Nos.4-6)'
+duration_minutes: 8

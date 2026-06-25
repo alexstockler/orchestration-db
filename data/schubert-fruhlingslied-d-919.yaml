@@ -1,0 +1,17 @@
+id: schubert-fruhlingslied-d-919
+work:
+  composer: Schubert, Franz
+  title: Frühlingslied, D.919
+  ids:
+    imslp: Frühlingslied, D.919 (Schubert, Franz)
+  year: 1827
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: Solo voice &amp
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fr%C3%BChlingslied%2C_D.919_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo voice &amp; piano'

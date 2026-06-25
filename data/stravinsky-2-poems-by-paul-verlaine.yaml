@@ -1,0 +1,18 @@
+id: stravinsky-2-poems-by-paul-verlaine
+work:
+  composer: Stravinsky, Igor
+  title: 2 Poems by Paul Verlaine
+  ids:
+    imslp: 2 Poems by Paul Verlaine, K011 (Stravinsky, Igor)
+  year: 1910
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - baritone
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Poems_by_Paul_Verlaine%2C_K011_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: baritone, piano'

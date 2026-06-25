@@ -1,0 +1,39 @@
+id: prokofiev-romeo-and-juliet-1st-suite
+work:
+  composer: Prokofiev, Sergey
+  title: Romeo and Juliet (1st suite)
+  ids:
+    imslp: Romeo and Juliet (1st suite), Op.64bis (Prokofiev, Sergey)
+  year: 1936
+formula: 0002 0 3[1.2.cnt] 3 1 tmp+1 pf hp str
+instrumentation:
+  bassoon: 2
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+    instruments:
+    - glockenspiel
+    - xylophone
+  keyboards:
+  - instrument: piano
+  harp: 1
+  strings: str
+  saxophones:
+  - instrument: tenor_sax
+    count: 1
+  additional_raw: contrabassoon 4 horns
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romeo_and_Juliet_%281st_suite%29%2C_Op.64bis_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, piccolo, 2 oboes, English horn, 2 clarinets,
+    bass clarinet, :tenor saxophone, 2 bassoons, contrabassoon 4 horns, 2 trumpets,
+    cornet, 3 trombones, tuba, timpani, percussion (snare drum, triangle, tambourine,
+    cymbals, bass drum),, glockenspiel, xylophone, piano, harp, strings'
+duration_minutes: 30

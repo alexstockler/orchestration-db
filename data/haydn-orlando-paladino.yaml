@@ -1,0 +1,52 @@
+id: haydn-orlando-paladino
+work:
+  composer: Haydn, Joseph
+  title: Orlando Paladino
+  ids:
+    imslp: Orlando Paladino, Hob.XXVIII:11 (Haydn, Joseph)
+  year: 1782
+formula: 1202 2200 tmp str
+instrumentation:
+  flute: 1
+  oboe: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - Alcina
+  - a sorceress (soprano)
+  - Angelica
+  - Queen of Cathay (soprano)
+  - Medoro
+  - in love with Angelica (tenor)
+  - Caronte [Charon]
+  - ferryman to the underworld (bass)
+  - Eurilla
+  - a shepherdess (soprano)
+  - Licone
+  - a shepherd (tenor)
+  - Orlando
+  - Paladin of France (tenor)
+  - Pasquale
+  - Orlando's squire (tenor)
+  - Rodomonte
+  - King of Barbaria (bass) :Mixed Chorus (SATB) ::Shepherds
+  - Shepherdesses
+  - Spectres
+  - Savages
+  - 'Saracens :'
+  additional_raw: 2 clarinets? | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Orlando_Paladino%2C_Hob.XXVIII%3A11_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Cast ::Alcina, a sorceress (soprano),
+    Angelica, Queen of Cathay (soprano), Medoro, in love with Angelica (tenor), Caronte
+    [Charon], ferryman to the underworld (bass), Eurilla, a shepherdess (soprano),
+    Licone, a shepherd (tenor), Orlando, Paladin of France (tenor), Pasquale, Orlando''s
+    squire (tenor), Rodomonte, King of Barbaria (bass) :Mixed Chorus (SATB) ::Shepherds,
+    Shepherdesses, Spectres, Savages, Saracens :Orchestra ::flute, 2 oboes, 2 clarinets?,
+    2 bassoons, 2 horns, 2 trumpets, timpani, strings, continuo'

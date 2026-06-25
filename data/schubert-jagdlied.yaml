@@ -1,0 +1,17 @@
+id: schubert-jagdlied
+work:
+  composer: Schubert, Franz
+  title: Jagdlied
+  ids:
+    imslp: Jagdlied, D.521 (Schubert, Franz)
+  year: 1817
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: mixed choir
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jagdlied%2C_D.521_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed choir, piano'

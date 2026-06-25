@@ -1,0 +1,18 @@
+id: schubert-am-tage-aller-seelen
+work:
+  composer: Schubert, Franz
+  title: Am Tage Aller Seelen
+  ids:
+    imslp: Am Tage Aller Seelen, D.343 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Am_Tage_Aller_Seelen%2C_D.343_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

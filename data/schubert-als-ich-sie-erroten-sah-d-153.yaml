@@ -1,0 +1,18 @@
+id: schubert-als-ich-sie-erroten-sah-d-153
+work:
+  composer: Schubert, Franz
+  title: Als ich sie erröten sah, D.153
+  ids:
+    imslp: Als ich sie erröten sah, D.153 (Schubert, Franz)
+  year: 1815
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Als_ich_sie_err%C3%B6ten_sah%2C_D.153_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,19 @@
+id: schubert-der-knabe-in-der-wiege
+work:
+  composer: Schubert, Franz
+  title: Der Knabe in der Wiege
+  ids:
+    imslp: Der Knabe in der Wiege, D.579 (Schubert, Franz)
+  year: 1817
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Knabe_in_der_Wiege%2C_D.579_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 3

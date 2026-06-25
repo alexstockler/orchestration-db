@@ -1,0 +1,17 @@
+id: stravinsky-in-memoriam-dylan-thomas
+work:
+  composer: Stravinsky, Igor
+  title: In Memoriam Dylan Thomas
+  ids:
+    imslp: In memoriam Dylan Thomas, K084 (Stravinsky, Igor)
+  year: 1954
+formula: 0000 0040
+instrumentation:
+  trombone: 4
+  additional_raw: tenor voice | string quartet
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_memoriam_Dylan_Thomas%2C_K084_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor voice, 4 trombones, string quartet'
+duration_minutes: 7

@@ -1,0 +1,18 @@
+id: schubert-julius-an-theone
+work:
+  composer: Schubert, Franz
+  title: Julius an Theone
+  ids:
+    imslp: Julius an Theone, D.419 (Schubert, Franz)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Julius_an_Theone%2C_D.419_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

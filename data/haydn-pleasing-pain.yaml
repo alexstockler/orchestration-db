@@ -1,0 +1,18 @@
+id: haydn-pleasing-pain
+work:
+  composer: Haydn, Joseph
+  title: Pleasing Pain
+  ids:
+    imslp: Pleasing Pain, Hob.XXVIa:29 (Haydn, Joseph)
+  year: 1794
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pleasing_Pain%2C_Hob.XXVIa%3A29_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

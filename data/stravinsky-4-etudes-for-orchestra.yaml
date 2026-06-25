@@ -1,0 +1,42 @@
+id: stravinsky-4-etudes-for-orchestra
+work:
+  composer: Stravinsky, Igor
+  title: 4 Etudes for Orchestra
+  ids:
+    imslp: 4 Etudes for Orchestra, K051 (Stravinsky, Igor)
+  year: 1930
+formula: 3[1.2.3/pic] 3[1.2.3/Eh] 3[Ebcl.2/bcl.3] 2 4441 tmp pf hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - doublings:
+    - english_horn
+  clarinet:
+  - instrument: eflat_clarinet
+  - doublings:
+    - bass_clarinet
+  - {}
+  bassoon: 2
+  horn: 4
+  trumpet: 4
+  trombone: 4
+  tuba: 1
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: piano
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Etudes_for_Orchestra%2C_K051_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 3 oboes (3rd also English
+    horn),, E clarinet, 2 clarinets (2nd also bass clarinet), 2 bassoons, 4 horns,
+    4 trumpets, 4 trombones, tuba, timpani, piano, harp, strings'

@@ -1,0 +1,19 @@
+id: stravinsky-3-histoires-pour-enfants
+work:
+  composer: Stravinsky, Igor
+  title: 3 Histoires pour enfants
+  ids:
+    imslp: 3 Histoires pour enfants, K024 (Stravinsky, Igor)
+  year: 1915
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Histoires_pour_enfants%2C_K024_%28Stravinsky%2C_Igor%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 2

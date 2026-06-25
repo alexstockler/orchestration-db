@@ -1,0 +1,19 @@
+id: schubert-klage-nimmer-langer-trag-ich
+work:
+  composer: Schubert, Franz
+  title: Klage (Nimmer länger trag' ich)
+  ids:
+    imslp: Klage, D.Anh.I/28 (Schubert, Franz)
+  year: 1817
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Klage%2C_D.Anh.I/28_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 2

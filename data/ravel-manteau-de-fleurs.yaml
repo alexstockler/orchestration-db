@@ -1,0 +1,18 @@
+id: ravel-manteau-de-fleurs
+work:
+  composer: Ravel, Maurice
+  title: Manteau de fleurs
+  ids:
+    imslp: Manteau de fleurs, M.39 (Ravel, Maurice)
+  year: 1903
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Manteau_de_fleurs%2C_M.39_%28Ravel%2C_Maurice%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

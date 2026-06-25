@@ -1,0 +1,18 @@
+id: prokofiev-seven-they-are-seven
+work:
+  composer: Prokofiev, Sergey
+  title: Seven, They Are Seven
+  ids:
+    imslp: Seven, They Are Seven, Op.30 (Prokofiev, Sergey)
+  year: 1917
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Seven%2C_They_Are_Seven%2C_Op.30_%28Prokofiev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, mixed chorus, orchestra'
+duration_minutes: 8

@@ -1,0 +1,16 @@
+id: schubert-chor-der-engel
+work:
+  composer: Schubert, Franz
+  title: Chor der Engel
+  ids:
+    imslp: Chor der Engel, D.440 (Schubert, Franz)
+  year: 1816
+formula: ''
+instrumentation:
+  additional_raw: Chorus a capella
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chor_der_Engel%2C_D.440_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Chorus a capella'
+duration_minutes: 3

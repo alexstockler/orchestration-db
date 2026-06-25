@@ -1,0 +1,15 @@
+id: haydn-divertimento-in-d-major
+work:
+  composer: Haydn, Joseph
+  title: Divertimento in D major
+  ids:
+    imslp: Divertimento in D major, Hob.II:D8 (Haydn, Joseph)
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Divertimento_in_D_major%2C_Hob.II%3AD8_%28Haydn%2C_Joseph%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, 2 violins, viola, cello'

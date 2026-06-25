@@ -1,0 +1,18 @@
+id: schubert-das-echo
+work:
+  composer: Schubert, Franz
+  title: Das Echo
+  ids:
+    imslp: Das Echo, D.990c (Schubert, Franz)
+  year: 1826
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Echo%2C_D.990c_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

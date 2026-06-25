@@ -1,0 +1,17 @@
+id: schubert-fantasie
+work:
+  composer: Schubert, Franz
+  title: Fantasie
+  ids:
+    imslp: Fantasie in C major, D.760 (Schubert, Franz)
+  year: 1822
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasie_in_C_major%2C_D.760_%28Schubert%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 20
