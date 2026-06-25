@@ -290,9 +290,18 @@ def works_by_instrument(
 # /query  — ad-hoc read-only SQL
 # ---------------------------------------------------------------------------
 
+_EXAMPLE_SQL = "SELECT c.name, COUNT(w.id) AS works FROM composers c JOIN works w ON w.composer_id = c.id GROUP BY c.name ORDER BY works DESC"
+
+
 class _QueryRequest(BaseModel):
-    sql: str
+    sql: str = _EXAMPLE_SQL
     limit: int = 500
+
+    model_config = {
+        "json_schema_extra": {
+            "example": {"sql": _EXAMPLE_SQL, "limit": 500}
+        }
+    }
 
 
 _UNSAFE = {"insert", "update", "delete", "drop", "alter", "create", "replace", "attach"}
