@@ -1,28 +1,48 @@
 """Orchestration DB — REST API
 
-Run:
+Run locally:
     pip install -r requirements.txt
     uvicorn api.main:app --reload      # http://127.0.0.1:8000
     # Interactive docs: http://127.0.0.1:8000/docs
+
+Authentication:
+    Set API_KEY env var. Every request must include:
+        X-API-Key: <your-key>
+    Unset API_KEY (e.g. local dev) → auth disabled.
 
 For a full SQL query UI (ad-hoc queries, table browsing):
     datasette orchestration.db        # http://127.0.0.1:8001
 """
 from __future__ import annotations
 
+import os
 import sqlite3
 from pathlib import Path
 from typing import Optional
 
-from fastapi import FastAPI, HTTPException, Query
+from fastapi import FastAPI, HTTPException, Query, Security, Depends
+from fastapi.security.api_key import APIKeyHeader
 from fastapi.middleware.cors import CORSMiddleware
 
 from instrdb.db import DB_PATH, get_connection
+
+# ---------------------------------------------------------------------------
+# Auth
+# ---------------------------------------------------------------------------
+
+_API_KEY = os.environ.get("API_KEY")  # None → auth disabled (local dev)
+_key_header = APIKeyHeader(name="X-API-Key", auto_error=False)
+
+
+def _require_key(key: Optional[str] = Security(_key_header)):
+    if _API_KEY and key != _API_KEY:
+        raise HTTPException(status_code=401, detail="Invalid or missing API key")
 
 app = FastAPI(
     title="Orchestration DB",
     description="Queryable database of orchestral instrumentation for the classical repertoire.",
     version="0.1.0",
+    dependencies=[Depends(_require_key)],
 )
 
 app.add_middleware(
