@@ -23,6 +23,7 @@ from typing import Optional
 from fastapi import FastAPI, HTTPException, Query, Security, Depends
 from fastapi.security.api_key import APIKeyHeader
 from fastapi.middleware.cors import CORSMiddleware
+from pydantic import BaseModel
 
 from instrdb.db import DB_PATH, get_connection
 
@@ -47,7 +48,7 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
-    allow_methods=["GET"],
+    allow_methods=["GET", "POST"],
     allow_headers=["*"],
 )
 
@@ -282,6 +283,41 @@ def works_by_instrument(
         "page": page,
         "limit": limit,
         "results": [dict(r) for r in rows],
+    }
+
+
+# ---------------------------------------------------------------------------
+# /query  — ad-hoc read-only SQL
+# ---------------------------------------------------------------------------
+
+class _QueryRequest(BaseModel):
+    sql: str
+    limit: int = 500
+
+
+_UNSAFE = {"insert", "update", "delete", "drop", "alter", "create", "replace", "attach"}
+
+
+@router.post("/query", summary="Run a read-only SQL query against the database")
+def run_query(req: _QueryRequest):
+    first_word = req.sql.strip().split()[0].lower() if req.sql.strip() else ""
+    if first_word in _UNSAFE:
+        raise HTTPException(status_code=400, detail=f"Only SELECT queries are allowed (got: {first_word!r})")
+
+    conn = _db()
+    try:
+        rows = conn.execute(req.sql).fetchmany(req.limit)
+    except Exception as exc:
+        raise HTTPException(status_code=400, detail=str(exc))
+
+    if not rows:
+        return {"columns": [], "rows": [], "count": 0}
+
+    columns = list(rows[0].keys())
+    return {
+        "columns": columns,
+        "rows": [list(r) for r in rows],
+        "count": len(rows),
     }
 
 
