@@ -53,6 +53,23 @@ app.add_middleware(
 )
 
 
+# ---------------------------------------------------------------------------
+# Health (unauthenticated — used by Railway healthcheck)
+# ---------------------------------------------------------------------------
+
+from fastapi.routing import APIRouter
+
+_health_router = APIRouter()
+
+
+@_health_router.get("/health", summary="Healthcheck endpoint (no auth)")
+def health():
+    return {"status": "ok"}
+
+
+app.include_router(_health_router)
+
+
 def _db() -> sqlite3.Connection:
     if not Path(DB_PATH).exists():
         raise HTTPException(
