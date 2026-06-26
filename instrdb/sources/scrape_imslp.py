@@ -206,7 +206,7 @@ def _slugify(composer: str, title: str) -> str:
     last = composer.split(",")[0].strip() if "," in composer else composer
     base = f"{_ascii(last)}-{_ascii(title)}".lower()
     base = re.sub(r"[^a-z0-9]+", "-", base)
-    return base.strip("-")[:80]
+    return base.strip("-")[:80].rstrip("-")
 
 
 def _parse_year(raw: str) -> int | None:
