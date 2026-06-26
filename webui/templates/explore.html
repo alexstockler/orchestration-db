@@ -1,0 +1,420 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Orchestration DB — Explore</title>
+<style>
+  :root {
+    --bg: #f4f6f9; --card: #ffffff; --ink: #15181f; --muted: #5b6472;
+    --line: #d8dee6; --accent: #2f3a56; --accent2: #4a5a80;
+    --good: #2e7d52; --gold: #b08d4f;
+    --wind: #3b6ea8; --brass: #9a5f1a; --perc: #5a357a; --str: #2a7a4f;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--ink);
+    font: 14px/1.5 system-ui,-apple-system,Segoe UI,Roboto,sans-serif; }
+
+  /* ── layout ── */
+  header { background: var(--accent); color: #fff; padding: 18px 28px;
+    display: flex; align-items: baseline; gap: 16px; }
+  header h1 { font: 600 20px/1 ui-serif,Georgia,serif; }
+  header a { color: rgba(255,255,255,.6); font-size: 13px; text-decoration: none; }
+  header a:hover { color: #fff; }
+  .layout { display: flex; min-height: calc(100vh - 57px); }
+  aside { width: 260px; flex-shrink: 0; background: var(--card);
+    border-right: 1px solid var(--line); padding: 20px 18px;
+    overflow-y: auto; position: sticky; top: 0; height: calc(100vh - 57px); }
+  main { flex: 1; padding: 20px 24px; overflow: hidden; }
+
+  /* ── sidebar ── */
+  .filter-group { margin-bottom: 22px; }
+  .filter-group h3 { font-size: 11px; text-transform: uppercase; letter-spacing: .06em;
+    color: var(--muted); margin-bottom: 10px; }
+  .filter-group label { font-size: 12px; color: var(--muted); display: block; margin-bottom: 3px; }
+  .filter-group input[type=text],
+  .filter-group input[type=number],
+  .filter-group select {
+    width: 100%; padding: 7px 9px; border: 1px solid var(--line);
+    border-radius: 7px; font-size: 13px; background: #fafbfc; color: var(--ink); }
+  .filter-group input:focus, .filter-group select:focus {
+    outline: 2px solid var(--accent); outline-offset: 1px; border-color: var(--accent); }
+
+  /* range pair */
+  .range-row { display: flex; gap: 6px; align-items: center; }
+  .range-row input[type=number] { width: 60px; padding: 6px 7px; }
+  .range-row span { color: var(--muted); font-size: 12px; flex-shrink: 0; }
+
+  /* toggle chips */
+  .chip-group { display: flex; gap: 6px; flex-wrap: wrap; }
+  .chip-group input { display: none; }
+  .chip-group label { padding: 4px 12px; border: 1px solid var(--line);
+    border-radius: 999px; font-size: 12px; cursor: pointer; background: #fafbfc; }
+  .chip-group input:checked + label { background: var(--accent); color: #fff; border-color: var(--accent); }
+
+  button.apply { width: 100%; padding: 9px; background: var(--accent); color: #fff;
+    border: none; border-radius: 8px; font-size: 13px; font-weight: 600;
+    cursor: pointer; margin-top: 4px; }
+  button.apply:hover { background: var(--accent2); }
+  button.reset-link { width: 100%; margin-top: 6px; background: none; border: none;
+    color: var(--muted); font-size: 12px; cursor: pointer; text-align: center; }
+  button.reset-link:hover { color: var(--ink); }
+
+  /* ── main area ── */
+  .topbar { display: flex; justify-content: space-between; align-items: center;
+    margin-bottom: 14px; gap: 12px; flex-wrap: wrap; }
+  .topbar .summary { color: var(--muted); font-size: 13px; }
+  .topbar select { padding: 6px 10px; border: 1px solid var(--line);
+    border-radius: 7px; font-size: 13px; background: #fafbfc; }
+
+  /* ── table ── */
+  .tbl-wrap { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  thead th { font-size: 11px; text-transform: uppercase; letter-spacing: .05em;
+    color: var(--muted); padding: 0 10px 10px; text-align: left; white-space: nowrap; }
+  tbody tr { border-bottom: 1px solid var(--line); cursor: pointer; transition: background .1s; }
+  tbody tr:hover { background: #eef2f9; }
+  td { padding: 10px 10px; vertical-align: middle; }
+  td.composer { font-weight: 600; white-space: nowrap; max-width: 180px;
+    overflow: hidden; text-overflow: ellipsis; }
+  td.title { max-width: 260px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  td.year { white-space: nowrap; color: var(--muted); }
+  td.formula { font-family: ui-monospace,monospace; font-size: 12px;
+    white-space: nowrap; max-width: 280px; overflow: hidden; text-overflow: ellipsis; }
+  .size-badges { display: flex; gap: 4px; flex-wrap: nowrap; }
+  .badge { display: inline-block; padding: 2px 7px; border-radius: 4px;
+    font-size: 11px; font-weight: 600; white-space: nowrap; }
+  .badge.w { background: #ddeaf8; color: var(--wind); }
+  .badge.b { background: #faebd7; color: var(--brass); }
+  .badge.p { background: #ede7f6; color: var(--perc); }
+  .badge.s { background: #e0f3ea; color: var(--str); }
+
+  /* ── pager ── */
+  .pager { display: flex; gap: 12px; align-items: center; justify-content: center;
+    margin-top: 20px; }
+  .pager button { padding: 6px 14px; border: 1px solid var(--line);
+    border-radius: 7px; background: var(--card); font-size: 13px; cursor: pointer; }
+  .pager button:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
+  .pager button:disabled { opacity: .4; cursor: default; }
+  .pager .info { color: var(--muted); font-size: 13px; }
+
+  /* ── detail panel ── */
+  .scrim { position: fixed; inset: 0; background: rgba(20,23,30,.35); z-index: 40;
+    display: none; }
+  .scrim.open { display: block; }
+  .panel { position: fixed; top: 0; right: 0; height: 100vh; width: min(540px,92vw);
+    background: var(--card); border-left: 1px solid var(--line);
+    box-shadow: -10px 0 40px rgba(20,23,30,.15); z-index: 50;
+    overflow-y: auto; padding: 28px 28px 60px; transform: translateX(100%);
+    transition: transform .18s ease; }
+  .panel.open { transform: none; }
+  .panel-close { position: absolute; top: 16px; right: 18px; border: none;
+    background: none; font-size: 19px; color: var(--muted); cursor: pointer; }
+  .panel h2 { font: 600 20px/1.2 ui-serif,Georgia,serif; margin-bottom: 4px; }
+  .panel .composer { color: var(--muted); font-size: 14px; margin-bottom: 14px; }
+  .panel .formula-box { font-family: ui-monospace,monospace; font-size: 15px;
+    background: #14171e; color: #eef1f4; border-left: 3px solid var(--gold);
+    padding: 13px 16px; border-radius: 8px; word-break: break-word;
+    white-space: pre-wrap; margin: 14px 0; }
+  .chips { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px; }
+  .chip { display: inline-block; padding: 3px 10px; border-radius: 999px; font-size: 11px;
+    background: #eef1f6; color: var(--accent); font-weight: 600; }
+  .sec { margin: 16px 0; }
+  .sec h3 { font-size: 11px; text-transform: uppercase; letter-spacing: .05em;
+    color: var(--muted); margin-bottom: 6px; }
+  .sec ul { list-style: none; }
+  .sec li { padding: 3px 0; border-bottom: 1px solid #eef1f4; font-size: 13px; }
+  .src-link { font-size: 12px; color: var(--accent); word-break: break-all; }
+  .conf { font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 4px; }
+  .conf.score_verified { background: #ddf0e8; color: var(--good); }
+  .conf.multi_source   { background: #dde8f5; color: var(--wind); }
+  .conf.single_source  { background: #faebd7; color: var(--brass); }
+  .conf.unverified     { background: #f3e8f8; color: var(--perc); }
+
+  /* loading */
+  .loading { text-align: center; padding: 60px; color: var(--muted); font-size: 14px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Orchestration DB</h1>
+  <a href="/">← Ingest console</a>
+</header>
+
+<div class="layout">
+  <!-- ── Filters sidebar ── -->
+  <aside>
+    <form id="filters" onsubmit="return false">
+
+      <div class="filter-group">
+        <h3>Search</h3>
+        <input type="text" id="f_q" placeholder="title, composer, formula…" autocomplete="off">
+      </div>
+
+      <div class="filter-group">
+        <h3>Composer</h3>
+        <select id="f_composer">
+          <option value="">All composers</option>
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <h3>Wind players (total)</h3>
+        <label>Flute + oboe + clarinet + bassoon</label>
+        <div class="range-row">
+          <input type="number" id="f_min_winds" min="0" placeholder="min">
+          <span>–</span>
+          <input type="number" id="f_max_winds" min="0" placeholder="max">
+        </div>
+      </div>
+
+      <div class="filter-group">
+        <h3>Brass players (total)</h3>
+        <label>Horn + trumpet + trombone + tuba</label>
+        <div class="range-row">
+          <input type="number" id="f_min_brass" min="0" placeholder="min">
+          <span>–</span>
+          <input type="number" id="f_max_brass" min="0" placeholder="max">
+        </div>
+      </div>
+
+      <div class="filter-group">
+        <h3>Year</h3>
+        <div class="range-row">
+          <input type="number" id="f_year_from" placeholder="from" min="1600" max="2100">
+          <span>–</span>
+          <input type="number" id="f_year_to" placeholder="to" min="1600" max="2100">
+        </div>
+      </div>
+
+      <div class="filter-group">
+        <h3>Forces</h3>
+        <div class="chip-group">
+          <input type="checkbox" id="f_strings" value="1">
+          <label for="f_strings">Strings</label>
+          <input type="checkbox" id="f_perc" value="1">
+          <label for="f_perc">Percussion</label>
+        </div>
+      </div>
+
+      <button type="submit" class="apply" id="apply_btn">Apply filters</button>
+      <button type="button" class="reset-link" id="reset_btn">Reset</button>
+    </form>
+  </aside>
+
+  <!-- ── Results ── -->
+  <main>
+    <div class="topbar">
+      <div class="summary" id="summary">Loading…</div>
+      <select id="sort_select">
+        <option value="composer">Sort: composer</option>
+        <option value="title">Sort: title</option>
+        <option value="year">Sort: year</option>
+        <option value="formula">Sort: formula</option>
+      </select>
+    </div>
+
+    <div class="tbl-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Composer</th>
+            <th>Title</th>
+            <th>Year</th>
+            <th>Formula</th>
+            <th>Ensemble</th>
+          </tr>
+        </thead>
+        <tbody id="results"></tbody>
+      </table>
+    </div>
+
+    <div id="empty" class="loading" hidden>No works match the current filters.</div>
+
+    <div class="pager" id="pager" hidden>
+      <button id="prev_btn">‹ Prev</button>
+      <span class="info" id="page_info"></span>
+      <button id="next_btn">Next ›</button>
+    </div>
+  </main>
+</div>
+
+<!-- ── Detail panel ── -->
+<div class="scrim" id="scrim"></div>
+<aside class="panel" id="detail_panel" aria-label="Work detail">
+  <button class="panel-close" id="panel_close">✕</button>
+  <div id="panel_body"></div>
+</aside>
+
+<script>
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+const state = { page: 1, sort: 'composer', facetsLoaded: false };
+
+function params() {
+  const p = new URLSearchParams();
+  const q = document.getElementById('f_q').value.trim();
+  if (q) p.set('q', q);
+  const comp = document.getElementById('f_composer').value;
+  if (comp) p.set('composer', comp);
+  const minW = document.getElementById('f_min_winds').value;
+  const maxW = document.getElementById('f_max_winds').value;
+  if (minW) p.set('min_winds', minW);
+  if (maxW) p.set('max_winds', maxW);
+  const minB = document.getElementById('f_min_brass').value;
+  const maxB = document.getElementById('f_max_brass').value;
+  if (minB) p.set('min_brass', minB);
+  if (maxB) p.set('max_brass', maxB);
+  const yf = document.getElementById('f_year_from').value;
+  const yt = document.getElementById('f_year_to').value;
+  if (yf) p.set('year_from', yf);
+  if (yt) p.set('year_to', yt);
+  if (document.getElementById('f_strings').checked) p.set('has_strings', '1');
+  if (document.getElementById('f_perc').checked) p.set('has_perc', '1');
+  p.set('sort', state.sort);
+  p.set('page', state.page);
+  p.set('page_size', 50);
+  return p;
+}
+
+function badge(cls, text) {
+  return `<span class="badge ${cls}">${esc(text)}</span>`;
+}
+
+function ensembleBadges(r) {
+  const parts = [];
+  if (r.wind_count)  parts.push(badge('w', r.wind_count + ' winds'));
+  if (r.brass_count) parts.push(badge('b', r.brass_count + ' brass'));
+  const perc = (r.timpani || 0) + (r.perc_players || 0);
+  if (perc) parts.push(badge('p', 'perc'));
+  if (r.has_strings) parts.push(badge('s', 'str'));
+  return `<div class="size-badges">${parts.join('')}</div>`;
+}
+
+async function load() {
+  document.getElementById('summary').textContent = 'Loading…';
+  document.getElementById('results').innerHTML = '';
+  document.getElementById('pager').hidden = true;
+  const resp = await fetch('/api/explore?' + params());
+  const data = await resp.json();
+
+  if (!state.facetsLoaded) {
+    const sel = document.getElementById('f_composer');
+    data.composers.forEach(c => {
+      const o = document.createElement('option');
+      o.value = c.name; o.textContent = `${c.name} (${c.count})`;
+      sel.appendChild(o);
+    });
+    state.facetsLoaded = true;
+  }
+
+  const tbody = document.getElementById('results');
+  const empty = document.getElementById('empty');
+  const pager = document.getElementById('pager');
+
+  if (!data.rows.length) {
+    tbody.innerHTML = '';
+    empty.hidden = false;
+    pager.hidden = true;
+    document.getElementById('summary').textContent = 'No results';
+    return;
+  }
+  empty.hidden = true;
+
+  const start = (data.page - 1) * data.page_size + 1;
+  const end   = Math.min(data.page * data.page_size, data.total);
+  document.getElementById('summary').textContent =
+    `Showing ${start}–${end} of ${data.total.toLocaleString()} works`;
+
+  tbody.innerHTML = data.rows.map(r => `
+    <tr data-slug="${esc(r.slug)}">
+      <td class="composer" title="${esc(r.composer)}">${esc(r.composer)}</td>
+      <td class="title" title="${esc(r.title)}">${esc(r.title)}</td>
+      <td class="year">${r.year_start ?? ''}</td>
+      <td class="formula" title="${esc(r.formula)}">${esc(r.formula)}</td>
+      <td>${ensembleBadges(r)}</td>
+    </tr>`).join('');
+
+  document.querySelectorAll('tbody tr').forEach(tr =>
+    tr.addEventListener('click', () => openPanel(tr.dataset.slug)));
+
+  const pages = Math.ceil(data.total / data.page_size);
+  pager.hidden = data.total <= data.page_size;
+  document.getElementById('page_info').textContent = `Page ${data.page} of ${pages}`;
+  document.getElementById('prev_btn').disabled = data.page <= 1;
+  document.getElementById('next_btn').disabled = data.page >= pages;
+}
+
+async function openPanel(slug) {
+  const scrim = document.getElementById('scrim');
+  const panel = document.getElementById('detail_panel');
+  const body  = document.getElementById('panel_body');
+
+  body.innerHTML = '<div class="loading">Loading…</div>';
+  scrim.classList.add('open'); panel.classList.add('open');
+
+  const data = await fetch('/api/entry/' + encodeURIComponent(slug)).then(r => r.json());
+  if (!data.ok) { body.innerHTML = '<div class="loading">Not found.</div>'; return; }
+
+  const e = data.entry, w = e.work || {}, p = data.provenance || {};
+
+  const chips = [
+    w.year       ? `<span class="chip">${esc(w.year)}</span>` : '',
+    w.catalog    ? `<span class="chip">${esc(w.catalog)}</span>` : '',
+    e.duration_minutes ? `<span class="chip">${esc(e.duration_minutes)} min</span>` : '',
+    p.confidence ? `<span class="chip conf ${esc(p.confidence)}">${esc(p.confidence.replace('_',' '))}</span>` : '',
+  ].filter(Boolean).join('');
+
+  const sections = (data.sections || []).map(s =>
+    `<div class="sec"><h3>${esc(s.label)}</h3><ul>${
+      s.items.map(i => `<li>${esc(i)}</li>`).join('')
+    }</ul></div>`).join('');
+
+  const provHtml = [
+    p.source ? `<div class="sec"><h3>Source</h3><ul><li>${esc(p.source)}${
+      p.source_url ? ` — <a class="src-link" href="${esc(p.source_url)}" target="_blank" rel="noopener">${esc(p.source_url)}</a>` : ''
+    }</li></ul></div>` : '',
+    p.notes ? `<div class="sec"><h3>Notes</h3><ul><li>${esc(p.notes)}</li></ul></div>` : '',
+  ].filter(Boolean).join('');
+
+  body.innerHTML = `
+    <h2>${esc(w.title || slug)}</h2>
+    <div class="composer">${esc(w.composer || '')}</div>
+    <div class="chips">${chips}</div>
+    <div class="formula-box">${esc(data.formula || '—')}</div>
+    ${sections}
+    ${provHtml}`;
+}
+
+function closePanel() {
+  document.getElementById('scrim').classList.remove('open');
+  document.getElementById('detail_panel').classList.remove('open');
+}
+
+document.getElementById('panel_close').addEventListener('click', closePanel);
+document.getElementById('scrim').addEventListener('click', closePanel);
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closePanel(); });
+
+document.getElementById('filters').addEventListener('submit', () => { state.page = 1; load(); });
+document.getElementById('apply_btn').addEventListener('click',  () => { state.page = 1; load(); });
+document.getElementById('reset_btn').addEventListener('click', () => {
+  document.getElementById('filters').reset();
+  state.page = 1; load();
+});
+document.getElementById('sort_select').addEventListener('change', e => {
+  state.sort = e.target.value; state.page = 1; load();
+});
+document.getElementById('prev_btn').addEventListener('click', () => { state.page--; load(); });
+document.getElementById('next_btn').addEventListener('click', () => { state.page++; load(); });
+
+// live search on Enter / 400ms debounce
+let debounce;
+document.getElementById('f_q').addEventListener('input', () => {
+  clearTimeout(debounce);
+  debounce = setTimeout(() => { state.page = 1; load(); }, 400);
+});
+
+load();
+</script>
+</body>
+</html>
