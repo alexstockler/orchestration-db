@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+{% block title %}SQL Explorer — Orchestration DB{% endblock %}
+
+{% block content %}
+<div class="explore-page">
+  <div class="page-header">
+    <h1>SQL Explorer</h1>
+    <p class="page-sub">Run read-only SELECT queries against the database.</p>
+  </div>
+
+  <details class="schema-hint">
+    <summary>Database schema</summary>
+    <div class="schema-body">
+      <dl class="schema-table-list">
+        <dt><code>works</code></dt>
+        <dd>slug, title, composer_id, catalog, year_start, year_end, duration_minutes, formula, has_strings, timpani, perc_players, harp, publisher, additional_raw, chorus_raw</dd>
+        <dt><code>composers</code></dt>
+        <dd>id, name, slug</dd>
+        <dt><code>work_instruments</code></dt>
+        <dd>work_id, instrument, family, player_count, is_doubling</dd>
+        <dt><code>work_provenance</code></dt>
+        <dd>work_id, source, source_url, confidence, notes</dd>
+        <dt><code>work_external_ids</code></dt>
+        <dd>work_id, source, external_id</dd>
+      </dl>
+    </div>
+  </details>
+
+  <form method="post" action="/explore" class="explore-form">
+    <textarea
+      name="sql"
+      rows="7"
+      class="sql-textarea"
+      spellcheck="false"
+      autocomplete="off"
+    >{{ sql }}</textarea>
+    <div class="explore-controls">
+      <label class="limit-label">
+        Limit
+        <input type="number" name="limit" value="500" min="1" max="2000" class="limit-input">
+        rows
+      </label>
+      <button type="submit" class="btn-primary">Run query</button>
+    </div>
+  </form>
+
+  {% if error %}
+  <div class="error-box">
+    <strong>Error:</strong> {{ error }}
+  </div>
+  {% endif %}
+
+  {% if results is not none %}
+  <div class="query-results">
+    <div class="results-meta">
+      <span class="results-count">{{ results.count }} row{{ 's' if results.count != 1 else '' }}</span>
+    </div>
+    {% if results.rows %}
+    <div class="table-scroll">
+      <table class="results-table">
+        <thead>
+          <tr>{% for col in results.columns %}<th>{{ col }}</th>{% endfor %}</tr>
+        </thead>
+        <tbody>
+          {% for row in results.rows %}
+          <tr>{% for cell in row %}<td>{{ cell if cell is not none else '' }}</td>{% endfor %}</tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    {% else %}
+    <p class="empty">Query returned no rows.</p>
+    {% endif %}
+  </div>
+  {% endif %}
+
+</div>
+{% endblock %}

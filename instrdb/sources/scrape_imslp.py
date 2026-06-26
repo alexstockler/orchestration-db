@@ -20,7 +20,7 @@ Output goes to data/<slug>.yaml. Already-present files are skipped unless
 --force is given. Unrecognised instrumentation fragments are written to
 additional_raw and also logged to stderr for review.
 
-Be polite: requests are throttled to 2/s and responses are cached in
+Be polite: requests are throttled to 4/s and responses are cached in
 .imslp_cache/ so re-runs don't re-hit the server. The rate backs off
 automatically on errors and resets to the base rate after a clean response.
 """
@@ -48,7 +48,7 @@ from .parse_imslp_scoring import parse_imslp_scoring
 API = "https://imslp.org/api.php"
 UA = "orchestration-db/0.1 (open instrumentation database; https://github.com/alexstockler/orchestration-db)"
 CACHE_DIR = Path(".imslp_cache")
-_MIN_DELAY = 0.5   # 2 requests/s
+_MIN_DELAY = 0.25  # 4 requests/s
 _MAX_DELAY = 30.0
 _current_delay = _MIN_DELAY
 

@@ -1,0 +1,115 @@
+{% extends "base.html" %}
+{% block title %}{% if results is not none %}Search results — {% endif %}Orchestration DB{% endblock %}
+
+{% block content %}
+<section class="hero">
+  <h1 class="hero-title">Orchestration DB</h1>
+  <p class="hero-sub">A queryable database of orchestral instrumentation for the classical repertoire.</p>
+
+  <form method="get" action="/" class="search-form">
+    <div class="search-row">
+      <input
+        type="search"
+        name="q"
+        value="{{ q }}"
+        placeholder="Search title or formula…"
+        class="search-input"
+        autocomplete="off"
+      >
+      <button type="submit" class="btn-primary">Search</button>
+    </div>
+    <div class="filter-row">
+      <select name="composer" class="filter-select">
+        <option value="">All composers</option>
+        {% for c in composers %}
+        <option value="{{ c }}"{% if c == selected_composer %} selected{% endif %}>{{ c }}</option>
+        {% endfor %}
+      </select>
+
+      <div class="instrument-wrap">
+        <input
+          type="text"
+          name="instrument"
+          value="{{ selected_instrument }}"
+          placeholder="Instrument (e.g. horn)"
+          list="instrument-list"
+          class="filter-input"
+          autocomplete="off"
+        >
+        <datalist id="instrument-list">
+          {% for inst in instruments %}
+          <option value="{{ inst }}">
+          {% endfor %}
+        </datalist>
+      </div>
+
+      {% if q or selected_composer or selected_instrument %}
+      <a href="/" class="btn-clear">Clear</a>
+      {% endif %}
+    </div>
+  </form>
+</section>
+
+{% if results is not none %}
+<section class="results-section">
+  <div class="results-meta">
+    <span class="results-count">{{ total }} work{{ 's' if total != 1 else '' }}</span>
+    {% if total > limit %}
+    <span class="results-page">page {{ page }} of {{ pages }}</span>
+    {% endif %}
+  </div>
+
+  {% if results %}
+  <ul class="work-list">
+    {% for work in results %}
+    <li class="work-card">
+      <div class="work-card-top">
+        <div class="work-card-title-row">
+          <a href="/browse/works/{{ work.slug }}" class="work-title">{{ work.title }}</a>
+          {% if work.confidence %}
+          <span class="badge badge--{{ work.confidence }}">{{ work.confidence.replace('_', ' ') }}</span>
+          {% endif %}
+        </div>
+        <div class="work-card-meta">
+          <span class="work-composer">{{ work.composer }}</span>
+          {% if work.catalog %}<span class="sep">·</span><span class="work-catalog">{{ work.catalog }}</span>{% endif %}
+          {% if work.year_start %}<span class="sep">·</span><span class="work-year">{{ work.year_start }}</span>{% endif %}
+        </div>
+      </div>
+      {% if work.formula %}
+      <code class="formula">{{ work.formula }}</code>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+
+  {% if pages > 1 %}
+  <nav class="pagination">
+    {% if page > 1 %}
+    <a href="/?{{ base_qs }}&page={{ page - 1 }}" class="btn-page">← Prev</a>
+    {% endif %}
+    <span class="page-info">{{ page }} / {{ pages }}</span>
+    {% if page < pages %}
+    <a href="/?{{ base_qs }}&page={{ page + 1 }}" class="btn-page">Next →</a>
+    {% endif %}
+  </nav>
+  {% endif %}
+
+  {% else %}
+  <p class="empty">No works found — try different filters.</p>
+  {% endif %}
+</section>
+
+{% else %}
+<section class="hints">
+  <h2 class="hints-title">Try searching for…</h2>
+  <ul class="hint-list">
+    <li><a href="/?instrument=contrabassoon">Works requiring contrabassoon</a></li>
+    <li><a href="/?instrument=english_horn">Works requiring english horn</a></li>
+    <li><a href="/?q=2222+4231">Works matching formula 2222 4231…</a></li>
+    <li><a href="/browse/composers">Browse all composers</a></li>
+    <li><a href="/explore">Write your own SQL query</a></li>
+  </ul>
+</section>
+{% endif %}
+{% endblock %}

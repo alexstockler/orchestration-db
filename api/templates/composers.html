@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block title %}Composers — Orchestration DB{% endblock %}
+
+{% block content %}
+<div class="page-header">
+  <h1>Composers</h1>
+  <p class="page-sub">{{ composers | length }} composers in the database</p>
+</div>
+
+<ul class="composer-list">
+  {% for c in composers %}
+  <li class="composer-item">
+    <a href="/?composer={{ c.name | qenc }}" class="composer-name">{{ c.name }}</a>
+    <span class="work-count">{{ c.work_count }} work{{ 's' if c.work_count != 1 else '' }}</span>
+  </li>
+  {% endfor %}
+</ul>
+{% endblock %}

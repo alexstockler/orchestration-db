@@ -23,9 +23,11 @@ from typing import Optional
 from fastapi import FastAPI, HTTPException, Query, Security, Depends
 from fastapi.security.api_key import APIKeyHeader
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
 from instrdb.db import DB_PATH, get_connection
+from api.web import web
 
 # ---------------------------------------------------------------------------
 # Auth
@@ -51,6 +53,12 @@ app.add_middleware(
     allow_methods=["GET", "POST"],
     allow_headers=["*"],
 )
+
+_static_dir = Path(__file__).parent / "static"
+app.mount("/static", StaticFiles(directory=_static_dir), name="static")
+
+# Public HTML pages — no auth required
+app.include_router(web)
 
 # Unauthenticated — used by Railway's healthcheck
 @app.get("/health", include_in_schema=False)
