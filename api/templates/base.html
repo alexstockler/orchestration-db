@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}Orchestration DB{% endblock %}</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav">
+      <a href="/" class="nav-logo">Orchestration DB</a>
+      <ul class="nav-links">
+        <li><a href="/">Search</a></li>
+        <li><a href="/browse/composers">Composers</a></li>
+        <li><a href="/explore">SQL Explorer</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="site-main">
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      Open database of orchestral instrumentation for the classical repertoire.
+      Data: <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="noopener">CC0</a>.
+      Code: <a href="https://github.com/alexstockler/orchestration-db" target="_blank" rel="noopener">GitHub</a>.
+    </p>
+  </footer>
+</body>
+</html>

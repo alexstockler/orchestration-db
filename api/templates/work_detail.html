@@ -1,0 +1,132 @@
+{% extends "base.html" %}
+{% block title %}{{ work.title }} — {{ work.composer_name }} — Orchestration DB{% endblock %}
+
+{% block content %}
+<div class="work-detail">
+
+  <nav class="breadcrumb">
+    <a href="/">Search</a>
+    <span class="sep">›</span>
+    <a href="/?{{ composer_qs }}">{{ work.composer_name }}</a>
+    <span class="sep">›</span>
+    <span>{{ work.title }}</span>
+  </nav>
+
+  <header class="work-detail-header">
+    <h1 class="work-detail-title">{{ work.title }}</h1>
+    <div class="work-detail-meta">
+      <span class="work-composer">{{ work.composer_name }}</span>
+      {% if work.catalog %}<span class="sep">·</span><span>{{ work.catalog }}</span>{% endif %}
+      {% if work.year_start %}
+        <span class="sep">·</span>
+        <span>{{ work.year_start }}{% if work.year_end and work.year_end != work.year_start %}–{{ work.year_end }}{% endif %}</span>
+      {% endif %}
+      {% if work.duration_minutes %}
+        <span class="sep">·</span><span>≈{{ work.duration_minutes }} min</span>
+      {% endif %}
+      {% if best_confidence %}
+      <span class="badge badge--{{ best_confidence }}">{{ best_confidence.replace('_', ' ') }}</span>
+      {% endif %}
+    </div>
+  </header>
+
+  {% if work.formula %}
+  <div class="formula-block">
+    <div class="formula-label">Formula</div>
+    <code class="formula formula--large">{{ work.formula }}</code>
+  </div>
+  {% endif %}
+
+  {% if instruments %}
+  <section class="detail-section">
+    <h2>Instrumentation</h2>
+    {% set primary = instruments | selectattr('is_doubling', 'equalto', 0) | list %}
+    {% set doublings = instruments | selectattr('is_doubling', 'equalto', 1) | list %}
+
+    {% if primary %}
+    <table class="instr-table">
+      <thead>
+        <tr><th>Instrument</th><th>Family</th><th>Players</th></tr>
+      </thead>
+      <tbody>
+        {% for inst in primary %}
+        <tr>
+          <td>{{ inst.instrument }}</td>
+          <td class="dim">{{ inst.family or '—' }}</td>
+          <td>{{ inst.player_count or '—' }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    {% endif %}
+
+    {% if doublings %}
+    <details class="doublings-details">
+      <summary>Doublings ({{ doublings | length }})</summary>
+      <table class="instr-table">
+        <thead>
+          <tr><th>Instrument</th><th>Family</th></tr>
+        </thead>
+        <tbody>
+          {% for inst in doublings %}
+          <tr>
+            <td>{{ inst.instrument }}</td>
+            <td class="dim">{{ inst.family or '—' }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </details>
+    {% endif %}
+  </section>
+  {% endif %}
+
+  {% if work.additional_raw %}
+  <section class="detail-section">
+    <h2>Additional instruments</h2>
+    <p class="raw-text">{{ work.additional_raw }}</p>
+  </section>
+  {% endif %}
+
+  {% if work.chorus_raw %}
+  <section class="detail-section">
+    <h2>Chorus</h2>
+    <p class="raw-text">{{ work.chorus_raw }}</p>
+  </section>
+  {% endif %}
+
+  {% if provenance %}
+  <section class="detail-section">
+    <h2>Sources</h2>
+    <ul class="provenance-list">
+      {% for p in provenance %}
+      <li class="provenance-item">
+        {% if p.confidence %}
+        <span class="badge badge--{{ p.confidence }}">{{ p.confidence.replace('_', ' ') }}</span>
+        {% endif %}
+        {% if p.source_url %}
+          <a href="{{ p.source_url }}" target="_blank" rel="noopener noreferrer">{{ p.source }}</a>
+        {% else %}
+          <span>{{ p.source }}</span>
+        {% endif %}
+        {% if p.notes %}<span class="provenance-notes">— {{ p.notes }}</span>{% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  {% if external_ids %}
+  <section class="detail-section">
+    <h2>External IDs</h2>
+    <dl class="ext-ids">
+      {% for source, eid in external_ids.items() %}
+      <dt>{{ source }}</dt>
+      <dd>{{ eid }}</dd>
+      {% endfor %}
+    </dl>
+  </section>
+  {% endif %}
+
+</div>
+{% endblock %}
