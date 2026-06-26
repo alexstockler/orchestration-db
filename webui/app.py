@@ -23,6 +23,7 @@ sys.path.insert(0, ROOT)
 from instrdb import Instrumentation, render, parse                # noqa: E402
 from instrdb.sources.boosey import parse_scoring                  # noqa: E402
 from instrdb.validate import validate_entry                       # noqa: E402
+from instrdb.db import get_connection                             # noqa: E402
 from webui.library import Library                                 # noqa: E402
 
 DATA_DIR = os.path.join(ROOT, "data")
@@ -193,6 +194,124 @@ def api_refresh():
     """Reload the in-memory index from disk (after external edits)."""
     library.refresh()
     return jsonify(ok=True, total=library.query(page_size=1)["total"])
+
+
+@app.get("/explore")
+def explore():
+    return render_template("explore.html")
+
+
+@app.get("/api/explore")
+def api_explore():
+    """Filterable, paginated work list with pre-computed wind/brass counts."""
+    a = request.args
+    q           = a.get("q", "").strip()
+    composer    = a.get("composer", "").strip()
+    min_winds   = a.get("min_winds", type=int)
+    max_winds   = a.get("max_winds", type=int)
+    min_brass   = a.get("min_brass", type=int)
+    max_brass   = a.get("max_brass", type=int)
+    has_strings = a.get("has_strings")        # "1", "0", or absent
+    has_perc    = a.get("has_perc")           # "1" or absent
+    year_from   = a.get("year_from", type=int)
+    year_to     = a.get("year_to", type=int)
+    sort        = a.get("sort", "composer")
+    page        = max(1, a.get("page", 1, type=int))
+    page_size   = min(100, max(1, a.get("page_size", 50, type=int)))
+
+    conn = get_connection()
+
+    conds, params = [], []
+
+    if q:
+        t = f"%{q.lower()}%"
+        conds.append("(LOWER(w.title) LIKE ? OR LOWER(c.name) LIKE ? OR w.formula LIKE ?)")
+        params += [t, t, t]
+    if composer:
+        conds.append("c.name = ?")
+        params.append(composer)
+    if min_winds is not None:
+        conds.append("COALESCE(pc.wind_count,0) >= ?")
+        params.append(min_winds)
+    if max_winds is not None:
+        conds.append("COALESCE(pc.wind_count,0) <= ?")
+        params.append(max_winds)
+    if min_brass is not None:
+        conds.append("COALESCE(pc.brass_count,0) >= ?")
+        params.append(min_brass)
+    if max_brass is not None:
+        conds.append("COALESCE(pc.brass_count,0) <= ?")
+        params.append(max_brass)
+    if has_strings == "1":
+        conds.append("w.has_strings = 1")
+    elif has_strings == "0":
+        conds.append("w.has_strings = 0")
+    if has_perc == "1":
+        conds.append("(w.timpani > 0 OR w.perc_players > 0)")
+    if year_from is not None:
+        conds.append("w.year_start >= ?")
+        params.append(year_from)
+    if year_to is not None:
+        conds.append("(w.year_start IS NULL OR w.year_start <= ?)")
+        params.append(year_to)
+
+    where = ("WHERE " + " AND ".join(conds)) if conds else ""
+    sort_col = {"title": "w.title", "year": "w.year_start",
+                "formula": "w.formula"}.get(sort, "c.name")
+
+    sql_base = f"""
+        FROM works w
+        JOIN composers c ON c.id = w.composer_id
+        LEFT JOIN (
+            SELECT work_id,
+                   SUM(CASE WHEN family='woodwind' AND is_doubling=0 THEN player_count ELSE 0 END) AS wind_count,
+                   SUM(CASE WHEN family='brass'    AND is_doubling=0 THEN player_count ELSE 0 END) AS brass_count
+            FROM work_instruments GROUP BY work_id
+        ) pc ON pc.work_id = w.id
+        {where}
+    """
+
+    total = conn.execute(f"SELECT COUNT(DISTINCT w.id) {sql_base}", params).fetchone()[0]
+    offset = (page - 1) * page_size
+    rows = conn.execute(f"""
+        SELECT DISTINCT w.slug, w.title, w.formula, w.year_start, w.duration_minutes,
+               w.has_strings, w.timpani, w.perc_players, w.harp,
+               c.name AS composer,
+               COALESCE(pc.wind_count,0) AS wind_count,
+               COALESCE(pc.brass_count,0) AS brass_count
+        {sql_base}
+        ORDER BY {sort_col}, w.title
+        LIMIT ? OFFSET ?
+    """, params + [page_size, offset]).fetchall()
+
+    # Facet: composer list for dropdown
+    composers = conn.execute(
+        "SELECT c.name, COUNT(w.id) AS n FROM composers c "
+        "JOIN works w ON w.composer_id=c.id GROUP BY c.id ORDER BY c.name"
+    ).fetchall()
+
+    # Ranges for sliders
+    ranges = conn.execute("""
+        SELECT
+          MAX(COALESCE(pc.wind_count,0))  AS max_winds,
+          MAX(COALESCE(pc.brass_count,0)) AS max_brass,
+          MIN(w.year_start) AS min_year,
+          MAX(w.year_start) AS max_year
+        FROM works w
+        LEFT JOIN (
+            SELECT work_id,
+                   SUM(CASE WHEN family='woodwind' AND is_doubling=0 THEN player_count ELSE 0 END) AS wind_count,
+                   SUM(CASE WHEN family='brass'    AND is_doubling=0 THEN player_count ELSE 0 END) AS brass_count
+            FROM work_instruments GROUP BY work_id
+        ) pc ON pc.work_id = w.id
+    """).fetchone()
+
+    return jsonify(
+        total=total, page=page, page_size=page_size,
+        rows=[dict(r) for r in rows],
+        composers=[{"name": r[0], "count": r[1]} for r in composers],
+        ranges=dict(ranges),
+    )
 
 
 if __name__ == "__main__":
