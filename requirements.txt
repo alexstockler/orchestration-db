@@ -5,6 +5,3 @@ fastapi
 uvicorn[standard]
 jinja2
 python-multipart
-datasette
-datasette-auth-passwords
-bcrypt

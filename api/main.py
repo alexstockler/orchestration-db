@@ -9,9 +9,6 @@ Authentication:
     Set API_KEY env var. Every request must include:
         X-API-Key: <your-key>
     Unset API_KEY (e.g. local dev) → auth disabled.
-
-For a full SQL query UI (ad-hoc queries, table browsing):
-    datasette orchestration.db        # http://127.0.0.1:8001
 """
 from __future__ import annotations
 
