@@ -1,0 +1,56 @@
+name: Scrape Boosey & Hawkes
+
+on:
+  workflow_dispatch:
+    inputs:
+      composer:
+        description: 'Composer name as on Boosey (e.g. "Shostakovich, Dmitri")'
+        required: true
+        type: string
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install pyyaml playwright
+
+      - name: Install Playwright browsers
+        run: playwright install chromium --with-deps
+
+      - name: Scrape composer
+        run: |
+          python -m instrdb.sources.scrape_boosey \
+            --composer "${{ github.event.inputs.composer }}"
+
+      - name: Check for new files
+        id: check
+        run: |
+          count=$(git status --porcelain data/ | wc -l | tr -d ' ')
+          echo "new_files=$count" >> "$GITHUB_OUTPUT"
+          echo "$count new/modified data files"
+
+      - name: Commit and push
+        if: steps.check.outputs.new_files != '0'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "scrape(boosey): add works for ${{ github.event.inputs.composer }}"
+          git push
+
+      - name: No new data
+        if: steps.check.outputs.new_files == '0'
+        run: echo "Nothing new — all works already present or composer returned no results."
