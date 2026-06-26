@@ -43,7 +43,7 @@
     {% set primary = instruments | selectattr('is_doubling', 'equalto', 0) | list %}
     {% set doublings = instruments | selectattr('is_doubling', 'equalto', 1) | list %}
 
-    {% if primary %}
+    {% if primary or work.has_strings or work.timpani or work.harp %}
     <table class="instr-table">
       <thead>
         <tr><th>Instrument</th><th>Family</th><th>Players</th></tr>
@@ -56,6 +56,27 @@
           <td>{{ inst.player_count or '—' }}</td>
         </tr>
         {% endfor %}
+        {% if work.timpani %}
+        <tr>
+          <td>timpani</td>
+          <td class="dim">percussion</td>
+          <td>{{ work.timpani }}</td>
+        </tr>
+        {% endif %}
+        {% if work.harp %}
+        <tr>
+          <td>harp</td>
+          <td class="dim">harp</td>
+          <td>{{ work.harp }}</td>
+        </tr>
+        {% endif %}
+        {% if work.has_strings %}
+        <tr>
+          <td>strings</td>
+          <td class="dim">strings</td>
+          <td>{{ work.strings_description or '—' }}</td>
+        </tr>
+        {% endif %}
       </tbody>
     </table>
     {% endif %}
