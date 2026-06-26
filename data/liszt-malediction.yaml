@@ -1,0 +1,18 @@
+id: liszt-malediction
+work:
+  composer: Liszt, Franz
+  title: Malédiction
+  ids:
+    imslp: Malédiction, S.121 (Liszt, Franz)
+  year: 1833
+formula: pf str
+instrumentation:
+  keyboards:
+  - instrument: piano
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mal%C3%A9diction%2C_S.121_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano, strings'
+duration_minutes: 15

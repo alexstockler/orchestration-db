@@ -1,0 +1,19 @@
+id: handel-rodrigo
+work:
+  composer: Handel, George Frideric
+  title: Rodrigo
+  ids:
+    imslp: Rodrigo, HWV 5 (Handel, George Frideric)
+  year: 1707
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - 6 voices
+  additional_raw: 2 recorders | continuo.
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rodrigo%2C_HWV_5_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 6 voices (SSSSAT), 2 oboes, 2 recorders, strings, continuo.'

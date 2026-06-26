@@ -1,0 +1,17 @@
+id: vivaldi-gaude-mater-ecclesia
+work:
+  composer: Vivaldi, Antonio
+  title: Gaude Mater Ecclesia
+  ids:
+    imslp: Gaude Mater Ecclesia, RV 613 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gaude_Mater_Ecclesia%2C_RV_613_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, strings, continuo'

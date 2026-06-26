@@ -1,0 +1,17 @@
+id: handel-antiphon-in-d-minor
+work:
+  composer: Handel, George Frideric
+  title: Antiphon in D minor
+  ids:
+    imslp: Antiphon in D minor, HWV 269 (Handel, George Frideric)
+  year: 1734
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Antiphon_in_D_minor%2C_HWV_269_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

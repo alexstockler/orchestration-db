@@ -1,0 +1,17 @@
+id: liszt-album-leaf-osnabruck
+work:
+  composer: Liszt, Franz
+  title: Album-Leaf 'Osnabrück'
+  ids:
+    imslp: Album-Leaf 'Osnabrück', S.165b (Liszt, Franz)
+  year: 1841
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album-Leaf_%27Osnabr%C3%BCck%27%2C_S.165b_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

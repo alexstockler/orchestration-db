@@ -1,0 +1,16 @@
+id: liszt-grande-fantasie-di-bravura-sur-la-clochette
+work:
+  composer: Liszt, Franz
+  title: Grande fantasie di bravura sur La clochette
+  ids:
+    imslp: Grande fantaisie de bravoure sur La clochette, S.420 (Liszt, Franz)
+  year: 1832
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grande_fantaisie_de_bravoure_sur_La_clochette%2C_S.420_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

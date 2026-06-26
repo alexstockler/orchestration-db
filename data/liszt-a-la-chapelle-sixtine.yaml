@@ -1,0 +1,16 @@
+id: liszt-a-la-chapelle-sixtine
+work:
+  composer: Liszt, Franz
+  title: À la Chapelle Sixtine
+  ids:
+    imslp: À la Chapelle Sixtine, S.461 (Liszt, Franz)
+  year: 1862
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%80_la_Chapelle_Sixtine%2C_S.461_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano,'

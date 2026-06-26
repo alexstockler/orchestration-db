@@ -1,0 +1,17 @@
+id: liszt-crux
+work:
+  composer: Liszt, Franz
+  title: Crux!
+  ids:
+    imslp: Crux!, S.35 (Liszt, Franz)
+  year: 1865
+formula: ''
+instrumentation:
+  additional_raw: Male Chorus and Piano (1st version) | Female or Children's Chorus
+    and Piano (2nd version)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Crux%21%2C_S.35_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Male Chorus and Piano (1st version), Female or Children''s
+    Chorus and Piano (2nd version)'

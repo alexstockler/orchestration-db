@@ -1,0 +1,37 @@
+id: handel-esther
+work:
+  composer: Handel, George Frideric
+  title: Esther
+  ids:
+    imslp: Esther, HWV 50a (Handel, George Frideric)
+  year: 1718
+formula: 0202 0100 str
+instrumentation:
+  oboe: 2
+  bassoon: 2
+  trumpet: 1
+  strings: str
+  soloists:
+  - Esther (soprano)
+  - Ahasuerus
+  - King of Persia (tenor)
+  - Mordecai (tenor)
+  - Haman (bass)
+  - Israelite Woman (soprano)
+  - Priest (alto)
+  - First Israelite (tenor)
+  - Second Israelite (bass)
+  - Habdonah (bass)
+  - Persian Officer (bass) Mixed Chorus (SATB) :chorus of israelites
+  - chorus of persian soldiers
+  additional_raw: 2 recorders | continuo (organ, harpsichord, theorbo, harp)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Esther%2C_HWV_50a_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Esther (soprano), Ahasuerus, King of Persia (tenor),
+    Mordecai (tenor), Haman (bass), Israelite Woman (soprano), Priest (alto), First
+    Israelite (tenor), Second Israelite (bass), Habdonah (bass), Persian Officer (bass)
+    Mixed Chorus (SATB) :chorus of israelites, chorus of persian soldiers Orchestra
+    :2 recorders, 2 oboes, 2 bassoons, trumpet, strings, continuo (organ, harpsichord,
+    theorbo, harp)'

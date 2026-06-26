@@ -1,0 +1,23 @@
+id: liszt-psalm-137
+work:
+  composer: Liszt, Franz
+  title: Psalm 137
+  ids:
+    imslp: Psalm 137, S.17 (Liszt, Franz)
+  year: 1864
+formula: org org 2hp
+instrumentation:
+  keyboards:
+  - instrument: organ
+  - instrument: organ
+  harp: 2
+  soloists:
+  - alto
+  chorus_raw: chorus
+  additional_raw: violin | soprano + female chorus (SA) | violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Psalm_137%2C_S.17_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: :: alto; violin, harp (piano), organ (harmonium), : soprano
+    + female chorus (SA); violin, harp (piano), organ (harmonium), : chorus; orchestra'

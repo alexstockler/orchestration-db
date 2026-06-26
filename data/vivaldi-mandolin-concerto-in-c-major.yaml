@@ -1,0 +1,18 @@
+id: vivaldi-mandolin-concerto-in-c-major
+work:
+  composer: Vivaldi, Antonio
+  title: Mandolin Concerto in C major
+  ids:
+    imslp: Mandolin Concerto in C major, RV 425 (Vivaldi, Antonio)
+formula: mand str
+instrumentation:
+  extras:
+  - instrument: mandolin
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mandolin_Concerto_in_C_major%2C_RV_425_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: mandolin, strings, continuo'
+duration_minutes: 7

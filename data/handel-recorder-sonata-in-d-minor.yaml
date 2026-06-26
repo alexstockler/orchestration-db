@@ -1,0 +1,14 @@
+id: handel-recorder-sonata-in-d-minor
+work:
+  composer: Handel, George Frideric
+  title: Recorder Sonata in D minor
+  ids:
+    imslp: Recorder Sonata in D minor, HWV 367a (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: recorder | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Recorder_Sonata_in_D_minor%2C_HWV_367a_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: recorder, continuo'

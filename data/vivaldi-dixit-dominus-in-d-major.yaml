@@ -1,0 +1,23 @@
+id: vivaldi-dixit-dominus-in-d-major
+work:
+  composer: Vivaldi, Antonio
+  title: Dixit Dominus in D major
+  ids:
+    imslp: Dixit Dominus in D major, RV 807 (Vivaldi, Antonio)
+formula: 0002 0100 str
+instrumentation:
+  bassoon: 2
+  trumpet: 1
+  strings: str
+  soloists:
+  - 2 sopranos
+  - contralto
+  - 2 tenors
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dixit_Dominus_in_D_major%2C_RV_807_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal: 2 sopranos, contralto, 2 tenors; mixed chorus (SATB),
+    Orchestra: 2 bassoons, trumpet, strings, continuo'

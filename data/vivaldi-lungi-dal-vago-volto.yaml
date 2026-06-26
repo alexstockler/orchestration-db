@@ -1,0 +1,16 @@
+id: vivaldi-lungi-dal-vago-volto
+work:
+  composer: Vivaldi, Antonio
+  title: Lungi dal vago volto
+  ids:
+    imslp: Lungi dal vago volto, RV 680 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: violin | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lungi_dal_vago_volto%2C_RV_680_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, violin, continuo'

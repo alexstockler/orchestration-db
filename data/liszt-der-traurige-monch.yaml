@@ -1,0 +1,18 @@
+id: liszt-der-traurige-monch
+work:
+  composer: Liszt, Franz
+  title: Der traurige Mönch
+  ids:
+    imslp: Der traurige Mönch, S.348 (Liszt, Franz)
+  year: 1860
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: Narrator
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_traurige_M%C3%B6nch%2C_S.348_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Narrator, Piano'
+duration_minutes: 7

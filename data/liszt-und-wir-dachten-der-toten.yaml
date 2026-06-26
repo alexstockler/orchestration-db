@@ -1,0 +1,16 @@
+id: liszt-und-wir-dachten-der-toten
+work:
+  composer: Liszt, Franz
+  title: Und wir dachten der Toten
+  ids:
+    imslp: Und wir dachten der Toten, S.338 (Liszt, Franz)
+  year: 1871
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Und_wir_dachten_der_Toten%2C_S.338_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

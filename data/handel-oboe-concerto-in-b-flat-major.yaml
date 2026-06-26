@@ -1,0 +1,19 @@
+id: handel-oboe-concerto-in-b-flat-major
+work:
+  composer: Handel, George Frideric
+  title: Oboe Concerto in B-flat major
+  ids:
+    imslp: Oboe Concerto in B-flat major, HWV 302a (Handel, George Frideric)
+  year: 1717
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - oboe
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oboe_Concerto_in_B-flat_major%2C_HWV_302a_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: oboe, Orchestra: strings, continuo'
+duration_minutes: 9

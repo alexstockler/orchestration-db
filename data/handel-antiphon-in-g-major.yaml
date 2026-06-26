@@ -1,0 +1,17 @@
+id: handel-antiphon-in-g-major
+work:
+  composer: Handel, George Frideric
+  title: Antiphon in G major
+  ids:
+    imslp: Antiphon in G major, HWV 273 (Handel, George Frideric)
+  year: 1734
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Antiphon_in_G_major%2C_HWV_273_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

@@ -1,0 +1,38 @@
+id: handel-music-for-the-royal-fireworks
+work:
+  composer: Handel, George Frideric
+  title: Music for the Royal Fireworks
+  ids:
+    imslp: Music for the Royal Fireworks, HWV 351 (Handel, George Frideric)
+  year: 1749
+formula: 0 24[1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.22.23.24] 0 13[1.2.3.4.5.6.7.8.9.10.11.12.cbn]
+  9900 str
+instrumentation:
+  oboe: 24
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 9
+  trumpet: 9
+  percussion:
+    instruments:
+    - snare drum
+  strings: str
+  additional_raw: 3 sets of timpani
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Music_for_the_Royal_Fireworks%2C_HWV_351_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 24 oboes, 12 bassoons, contrabassoon, 9 horns, 9 trumpets,
+    3 sets of timpani, snare drum, strings'

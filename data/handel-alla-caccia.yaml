@@ -1,0 +1,18 @@
+id: handel-alla-caccia
+work:
+  composer: Handel, George Frideric
+  title: Alla caccia
+  ids:
+    imslp: Diana cacciatrice, HWV 79 (Handel, George Frideric)
+  year: 1707
+formula: 0000 0100
+instrumentation:
+  trumpet: 1
+  additional_raw: 2 soprano parts (1st is solo, 2nd is unison chorus) | 2 violins
+    | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Diana_cacciatrice%2C_HWV_79_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 soprano parts (1st is solo, 2nd is unison chorus), trumpet,
+    2 violins, continuo'

@@ -1,0 +1,17 @@
+id: liszt-don-sanche
+work:
+  composer: Liszt, Franz
+  title: Don Sanche
+  ids:
+    imslp: Don Sanche, S.1 (Liszt, Franz)
+  year: 1824
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Don_Sanche%2C_S.1_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

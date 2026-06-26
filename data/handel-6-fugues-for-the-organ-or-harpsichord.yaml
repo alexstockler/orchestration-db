@@ -1,0 +1,15 @@
+id: handel-6-fugues-for-the-organ-or-harpsichord
+work:
+  composer: Handel, George Frideric
+  title: 6 Fugues for the Organ or Harpsichord
+  ids:
+    imslp: 6 Fugues, HWV 605-610 (Handel, George Frideric)
+  year: 1716
+formula: ''
+instrumentation:
+  additional_raw: keyboard (probably harpsichord; see below, Comments)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Fugues%2C_HWV_605-610_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard (probably harpsichord; see below, Comments)'

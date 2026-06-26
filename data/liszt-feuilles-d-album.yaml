@@ -1,0 +1,16 @@
+id: liszt-feuilles-d-album
+work:
+  composer: Liszt, Franz
+  title: Feuilles d'Album
+  ids:
+    imslp: Feuilles d'album, S.165 (Liszt, Franz)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Feuilles_d%27album%2C_S.165_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

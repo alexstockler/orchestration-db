@@ -1,0 +1,16 @@
+id: handel-fugue-in-c-minor
+work:
+  composer: Handel, George Frideric
+  title: Fugue in C minor
+  ids:
+    imslp: Fugue in C minor, HWV 610 (Handel, George Frideric)
+  year: 1716
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_C_minor%2C_HWV_610_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

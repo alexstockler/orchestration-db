@@ -1,0 +1,17 @@
+id: handel-oreste
+work:
+  composer: Handel, George Frideric
+  title: Oreste
+  ids:
+    imslp: Oreste, HWV A11 (Handel, George Frideric)
+  year: 1734
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oreste%2C_HWV_A11_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

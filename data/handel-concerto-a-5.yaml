@@ -1,0 +1,17 @@
+id: handel-concerto-a-5
+work:
+  composer: Handel, George Frideric
+  title: Concerto a 5
+  ids:
+    imslp: Concerto in G minor (Handel, George Frideric)
+  year: 1743
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_in_G_minor_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings (no violas), continuo'

@@ -1,0 +1,17 @@
+id: liszt-dante-fragment-s-701e
+work:
+  composer: Liszt, Franz
+  title: Dante fragment, S.701e
+  ids:
+    imslp: Album-Leaf 'Dante fragment', S.701e (Liszt, Franz)
+  year: 1837
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album-Leaf_%27Dante_fragment%27%2C_S.701e_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

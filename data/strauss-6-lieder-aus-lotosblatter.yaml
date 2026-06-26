@@ -1,0 +1,17 @@
+id: strauss-6-lieder-aus-lotosblatter
+work:
+  composer: Strauss, Richard
+  title: 6 Lieder aus 'Lotosblätter'
+  ids:
+    imslp: 6 Lieder aus 'Lotosblätter', Op.19 (Strauss, Richard)
+  year: 1888
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: high voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Lieder_aus_%27Lotosbl%C3%A4tter%27%2C_Op.19_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: high voice, piano'

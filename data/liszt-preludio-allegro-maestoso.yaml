@@ -1,0 +1,17 @@
+id: liszt-preludio-allegro-maestoso
+work:
+  composer: Liszt, Franz
+  title: Preludio — Allegro maestoso
+  ids:
+    imslp: Preludio — Allegro maestoso, S.692c (Liszt, Franz)
+  year: 1837
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Preludio_%E2%80%94_Allegro_maestoso%2C_S.692c_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

@@ -1,0 +1,19 @@
+id: vivaldi-vengo-a-voi-luci-adorate
+work:
+  composer: Vivaldi, Antonio
+  title: Vengo a voi, luci adorate
+  ids:
+    imslp: Vengo a voi, luci adorate, RV 682 (Vivaldi, Antonio)
+  year: 1734
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vengo_a_voi%2C_luci_adorate%2C_RV_682_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, strings, continuo'
+duration_minutes: 10

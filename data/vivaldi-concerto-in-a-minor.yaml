@@ -1,0 +1,15 @@
+id: vivaldi-concerto-in-a-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto in A minor
+  ids:
+    imslp: Chamber Concerto in A minor, RV 108 (Vivaldi, Antonio)
+  year: 1720
+formula: ''
+instrumentation:
+  additional_raw: recorder | 2 violins | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chamber_Concerto_in_A_minor%2C_RV_108_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: recorder, 2 violins, continuo'

@@ -1,0 +1,16 @@
+id: liszt-bulakhows-russischer-galop
+work:
+  composer: Liszt, Franz
+  title: Bulakhows Russischer Galop
+  ids:
+    imslp: Russischer Galop, S.478 (Liszt, Franz)
+  year: 1843
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Russischer_Galop%2C_S.478_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,17 @@
+id: vivaldi-o-mie-porpora-piu-belle
+work:
+  composer: Vivaldi, Antonio
+  title: O mie porpora più belle
+  ids:
+    imslp: O mie porpora più belle, RV 685 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_mie_porpora_pi%C3%B9_belle%2C_RV_685_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, strings, continuo'

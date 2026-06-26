@@ -1,0 +1,16 @@
+id: liszt-scherzo
+work:
+  composer: Liszt, Franz
+  title: Scherzo
+  ids:
+    imslp: Scherzo in G minor, S.153 (Liszt, Franz)
+  year: 1827
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scherzo_in_G_minor%2C_S.153_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

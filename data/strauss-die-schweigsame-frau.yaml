@@ -1,0 +1,84 @@
+id: strauss-die-schweigsame-frau
+work:
+  composer: Strauss, Richard
+  title: Die schweigsame Frau
+  ids:
+    imslp: Die schweigsame Frau, Op.80 (Strauss, Richard)
+  year: 1932
+formula: 3[1.2.3/pic] 3[1.2.Eh] 4[1.2.3.bcl] 3[1.2.3/cbn] 4330 tmp cel hpd org hp
+  str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: celesta
+  - instrument: harpsichord
+  - instrument: organ
+  harp: 1
+  strings:
+    standard: true
+    description: 14,12,8,8,6
+  soloists:
+  - Sir Morosus
+  - 'a retired admiral: (bass)'
+  - Widow Zimmerlein
+  - 'Sir Morosus''s housekeeper: (contralto)'
+  - Schneidebart
+  - 'a barber: (high baritone)'
+  - Henry Morosus
+  - 'nephew of the admiral: (high tenor)'
+  - Aminta
+  - 'Henry''s wife: (coloratura soprano)'
+  - Isotta
+  - 'opera singer: (coloratura soprano)'
+  - Carlotta
+  - 'opera singer: (mezzo soprano)'
+  - Morbio
+  - 'opera singer: (baritone)'
+  - Vanuzzi
+  - 'opera singer: (low bass)'
+  - Farfallo
+  - 'opera singer: (low bass)'
+  - 'The Parrot: (spoken) Mixed Chorus (SATB) :Actors'
+  - Neighbors
+  additional_raw: 'bass tuba | percussion (3-4): | (snare drum, bass drum, cymbals,
+    tam-tam, triangle, tambourine, ratchet, castanets,, xylophone, bells, glockenspiel)
+    | bagpipes'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_schweigsame_Frau%2C_Op.80_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Sir Morosus, a retired admiral: (bass), Widow Zimmerlein,
+    Sir Morosus''s housekeeper: (contralto), Schneidebart, a barber: (high baritone),
+    Henry Morosus, nephew of the admiral: (high tenor), Aminta, Henry''s wife: (coloratura
+    soprano), Isotta, opera singer: (coloratura soprano), Carlotta, opera singer:
+    (mezzo soprano), Morbio, opera singer: (baritone), Vanuzzi, opera singer: (low
+    bass), Farfallo, opera singer: (low bass), The Parrot: (spoken) Mixed Chorus (SATB)
+    :Actors, Neighbors Orchestra :3 flutes (3rd also piccolo), 2 oboes, English horn,
+    3 clarinets ::bass clarinet, 3 bassoons (3rd also contrabassoon) :4 horns, 3 trumpets,
+    3 trombones, bass tuba :timpani, percussion (3-4):, ::(snare drum, bass drum,
+    cymbals, tam-tam, triangle, tambourine, ratchet, castanets,, xylophone, bells,
+    glockenspiel) :bagpipes, celesta, harpsichord, organ, harp, strings (14,12,8,8,6)'
+duration_minutes: 30

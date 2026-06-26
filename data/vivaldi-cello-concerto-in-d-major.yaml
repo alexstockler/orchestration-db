@@ -1,0 +1,15 @@
+id: vivaldi-cello-concerto-in-d-major
+work:
+  composer: Vivaldi, Antonio
+  title: Cello Concerto in D major
+  ids:
+    imslp: Cello Concerto in D major, RV 403 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: cello | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Concerto_in_D_major%2C_RV_403_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, strings, continuo'

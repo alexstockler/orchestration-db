@@ -1,0 +1,17 @@
+id: handel-allor-ch-io-dissi-addio
+work:
+  composer: Handel, George Frideric
+  title: Allor ch'io dissi addio
+  ids:
+    imslp: Allor ch'io dissi addio, HWV 80 (Handel, George Frideric)
+  year: 1707
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allor_ch%27io_dissi_addio%2C_HWV_80_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Soprano, continuo'

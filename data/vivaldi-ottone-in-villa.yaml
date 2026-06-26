@@ -1,0 +1,15 @@
+id: vivaldi-ottone-in-villa
+work:
+  composer: Vivaldi, Antonio
+  title: Ottone in villa
+  ids:
+    imslp: Ottone in villa, RV 729 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ottone_in_villa%2C_RV_729_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

@@ -1,0 +1,20 @@
+id: handel-organ-concerto-in-g-minor
+work:
+  composer: Handel, George Frideric
+  title: Organ Concerto in G minor
+  ids:
+    imslp: Organ Concerto in G minor, HWV 289 (Handel, George Frideric)
+  year: 1735
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - organ (or harpsichord)
+  additional_raw: '[bassoon] | cembalo'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Organ_Concerto_in_G_minor%2C_HWV_289_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: organ (or harpsichord), Orchestra: 2 oboes, [bassoon],
+    strings, cembalo'

@@ -1,0 +1,17 @@
+id: liszt-album-leaf-detmold
+work:
+  composer: Liszt, Franz
+  title: Album-Leaf 'Detmold'
+  ids:
+    imslp: Album-Leaf 'Detmold', S.164d (Liszt, Franz)
+  year: 1841
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album-Leaf_%27Detmold%27%2C_S.164d_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

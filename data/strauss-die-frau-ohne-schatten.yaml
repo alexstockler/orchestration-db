@@ -1,0 +1,118 @@
+id: strauss-die-frau-ohne-schatten
+work:
+  composer: Strauss, Richard
+  title: Die Frau ohne Schatten
+  ids:
+    imslp: Die Frau ohne Schatten, Op.65 (Strauss, Richard)
+  year: 1914
+formula: 6[1.2.3/pic.4/pic.5.6] 4[1.2.3/Eh.4] 6[Ebcl.2.3.bcl.5.6] 5[1.2.3.4/cbn.5]
+  9 12[1.2.3.4.5.6.7.8.9.10.11.12] 10[1.2.3.4.5.6.7.8.9.10] 1 tmp cel cel 2hp
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  - doublings:
+    - piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - doublings:
+    - english_horn
+  - {}
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  - {}
+  - {}
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  - {}
+  horn: 9
+  trumpet: 12
+  trombone: 10
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - snare drum
+    - rute
+    - sleigh bells
+    - bass drum
+    - tenor drum
+    - triangle
+    - tambourine
+    - castanets
+    - wind machine
+    - thunder machine
+    - tam-tams
+  keyboards:
+  - instrument: celesta
+  - instrument: celesta
+  harp: 2
+  soloists:
+  - 'The Emperor: (tenor)'
+  - The Empress
+  - Keikobad's daughter (high dramatic soprano)
+  - The Nurse
+  - The Empress's guardian (dramatic mezzo-soprano)
+  - The Messenger of Keikobad (high baritone)
+  - The Guardian of the Threshold of the Temple (soprano or countertenor)
+  - The Apparition of a Youth (high tenor)
+  - The Voice of a Falcon (soprano)
+  - A Voice from Above (contralto)
+  - Barak
+  - the Dyer (bass-baritone)
+  - The Dyer's Wife (high dramatic soprano)
+  - The One-eyed Man
+  - Barak's brother (high bass)
+  - The One-Armed Man
+  - Barak's brother (bass)
+  - The Hunchback
+  - Barak's brother (high tenor)
+  - Voices of Six Unborn Children (3 sopranos, 3 contraltos or baritones)
+  - Voices of Three Town Watchmen (3 baritones or basses) Chorus (SATB) :Servants
+    of the Empress
+  - other children and beggar-children
+  - spirit-servants and attendant spirit-voices Pit-
+  additional_raw: 'basset-horn (also clarinet 3) | percussion: | (musical glasses
+    | 5 Chinese gongs | big field drum | tamtam | whip (slapstick), xylophone, glockenspiel,
+    bells) | strings (16-16-6+6-6+6-8) ''* | organ :*On-stage woodwinds and horn may
+    play in pit if necessary | Two of the on-stage trumpets move to the pit for Act
+    III | thus a total of 10 trumpets is required.'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Frau_ohne_Schatten%2C_Op.65_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :The Emperor: (tenor), The Empress, Keikobad''s daughter
+    (high dramatic soprano), The Nurse, The Empress''s guardian (dramatic mezzo-soprano),
+    The Messenger of Keikobad (high baritone), The Guardian of the Threshold of the
+    Temple (soprano or countertenor), The Apparition of a Youth (high tenor), The
+    Voice of a Falcon (soprano), A Voice from Above (contralto), Barak, the Dyer (bass-baritone),
+    The Dyer''s Wife (high dramatic soprano), The One-eyed Man, Barak''s brother (high
+    bass), The One-Armed Man, Barak''s brother (bass), The Hunchback, Barak''s brother
+    (high tenor), Voices of Six Unborn Children (3 sopranos, 3 contraltos or baritones),
+    Voices of Three Town Watchmen (3 baritones or basses) Chorus (SATB) :Servants
+    of the Empress, other children and beggar-children,, spirit-servants and attendant
+    spirit-voices Pit-Orchestra :4 flutes (3rd and 4th also piccolo), 3 oboes (3rd
+    also English horn), piccolo clarinet, 2 clarinets, ::basset-horn (also clarinet
+    3), bass clarinet (also clarinet 4), 4 bassoons (4th also contrabassoon) :8 horns
+    (5-8 also Wagner tuba), 6 trumpets, 4 trombones, tuba, timpani (4), percussion:,
+    ::(musical glasses, 5 Chinese gongs, cymbals, snare drum, rute, sleigh bells,
+    bass drum, tenor drum, big field drum, triangle, tambourine, 2 castanets, tamtam,
+    whip (slapstick), xylophone, glockenspiel, bells) :2 celestas, 2 harps, strings
+    (16-16-6+6-6+6-8) ''* :2 flutes, oboe, 2 clarinets, bassoon, horn, 6 trumpets,
+    6 trombones, wind machine, thunder machine, 4 tam-tams, organ :*On-stage woodwinds
+    and horn may play in pit if necessary. Two of the on-stage trumpets move to the
+    pit for Act III, thus a total of 10 trumpets is required.'
+duration_minutes: 210

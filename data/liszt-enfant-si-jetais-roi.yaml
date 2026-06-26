@@ -1,0 +1,16 @@
+id: liszt-enfant-si-jetais-roi
+work:
+  composer: Liszt, Franz
+  title: Enfant, si j’étais roi
+  ids:
+    imslp: Enfant, si j'étais roi, S.283 (Liszt, Franz)
+  year: 1844
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Enfant%2C_si_j%27%C3%A9tais_roi%2C_S.283_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and piano'

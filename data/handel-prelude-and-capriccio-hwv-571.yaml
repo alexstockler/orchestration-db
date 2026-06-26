@@ -1,0 +1,14 @@
+id: handel-prelude-and-capriccio-hwv-571
+work:
+  composer: Handel, George Frideric
+  title: Prelude and Capriccio, HWV 571
+  ids:
+    imslp: Prelude and Capriccio, HWV 571 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: harpsichord or organ (but see below, Comments)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude_and_Capriccio%2C_HWV_571_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord or organ (but see below, Comments)'

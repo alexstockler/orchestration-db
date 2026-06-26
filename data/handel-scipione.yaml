@@ -1,0 +1,38 @@
+id: handel-scipione
+work:
+  composer: Handel, George Frideric
+  title: Scipione
+  ids:
+    imslp: Publio Cornelio Scipione, HWV 20 (Handel, George Frideric)
+  year: 1726
+formula: 2200 2000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  horn: 2
+  strings: str
+  soloists:
+  - Scipione
+  - commander of the Roman army (alto castrato)
+  - Lucejo
+  - Spanish prince
+  - in disguise in the Roman army (alto castrato)
+  - Lelio
+  - Roman general (tenor)
+  - Berenice
+  - prisoner (soprano)
+  - Armira
+  - prisoner (soprano)
+  - Ernando
+  - King of the Balearic Islands and father to Berenice (bass)
+  additional_raw: 2 recorders | [bassoon] | continuo (cello, lute, harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Publio_Cornelio_Scipione%2C_HWV_20_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Scipione, commander of the Roman army (alto castrato),
+    Lucejo, Spanish prince, in disguise in the Roman army (alto castrato), Lelio,
+    Roman general (tenor), Berenice, prisoner (soprano), Armira, prisoner (soprano),
+    Ernando, King of the Balearic Islands and father to Berenice (bass) Orchestra
+    :2 recorders, 2 flutes, 2 oboes, [bassoon], 2 horns, strings, continuo (cello,
+    lute, harpsichord)'

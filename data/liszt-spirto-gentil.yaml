@@ -1,0 +1,17 @@
+id: liszt-spirto-gentil
+work:
+  composer: Liszt, Franz
+  title: Spirto gentil
+  ids:
+    imslp: Spirto gentil, S.400a (Liszt, Franz)
+  year: 1841
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Spirto_gentil%2C_S.400a_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 7

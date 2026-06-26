@@ -1,0 +1,15 @@
+id: handel-capriccio-in-f-major
+work:
+  composer: Handel, George Frideric
+  title: Capriccio in F major
+  ids:
+    imslp: Capriccio in F major, HWV 481 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Capriccio_in_F_major%2C_HWV_481_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

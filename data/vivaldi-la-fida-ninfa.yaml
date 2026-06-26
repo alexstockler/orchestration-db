@@ -1,0 +1,31 @@
+id: vivaldi-la-fida-ninfa
+work:
+  composer: Vivaldi, Antonio
+  title: La fida ninfa
+  ids:
+    imslp: La fida ninfa, RV 714 (Vivaldi, Antonio)
+formula: 2000 2100 1perc str
+instrumentation:
+  flute: 2
+  horn: 2
+  trumpet: 1
+  percussion:
+    players: 1
+  strings: str
+  soloists:
+  - Licori (Soprano)
+  - Elpina (Alto)
+  - Oralto (Bass)
+  - Morasto (Soprano)
+  - Osmino (Alto)
+  - Narete (Tenor)
+  - Giunone (Alto)
+  - Eolo (Bass)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_fida_ninfa%2C_RV_714_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Licori (Soprano), Elpina (Alto), Oralto (Bass), Morasto
+    (Soprano), Osmino (Alto), Narete (Tenor), Giunone (Alto), Eolo (Bass), Orchestra
+    :2 flutes, trumpet, 2 horns, percussion (tamburi), strings, continuo'

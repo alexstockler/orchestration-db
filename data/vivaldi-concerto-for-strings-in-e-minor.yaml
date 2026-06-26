@@ -1,0 +1,16 @@
+id: vivaldi-concerto-for-strings-in-e-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for Strings in E minor
+  ids:
+    imslp: Concerto for Strings in E minor, RV 133 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_Strings_in_E_minor%2C_RV_133_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: strings, continuo'
+duration_minutes: 7

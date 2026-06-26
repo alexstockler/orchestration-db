@@ -1,0 +1,15 @@
+id: liszt-pater-noster-iv
+work:
+  composer: Liszt, Franz
+  title: Pater noster IV
+  ids:
+    imslp: Pater noster IV, S.22 (Liszt, Franz)
+  year: 1850
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pater_noster_IV%2C_S.22_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

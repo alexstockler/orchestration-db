@@ -1,0 +1,17 @@
+id: handel-semele
+work:
+  composer: Handel, George Frideric
+  title: Semele
+  ids:
+    imslp: Semele, HWV 58 (Handel, George Frideric)
+  year: 1743
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Semele%2C_HWV_58_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

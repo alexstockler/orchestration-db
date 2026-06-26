@@ -1,0 +1,17 @@
+id: strauss-schlichte-weisen
+work:
+  composer: Strauss, Richard
+  title: Schlichte Weisen
+  ids:
+    imslp: Schlichte Weisen, Op.21 (Strauss, Richard)
+  year: 1889
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: high voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Schlichte_Weisen%2C_Op.21_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: high voice, piano'

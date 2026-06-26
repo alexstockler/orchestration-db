@@ -1,0 +1,16 @@
+id: handel-quando-sperasti-o-core-hwv-153
+work:
+  composer: Handel, George Frideric
+  title: Quando sperasti, o core, HWV 153
+  ids:
+    imslp: Quando sperasti, o core, HWV 153 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Quando_sperasti%2C_o_core%2C_HWV_153_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

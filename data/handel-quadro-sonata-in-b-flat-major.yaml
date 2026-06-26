@@ -1,0 +1,18 @@
+id: handel-quadro-sonata-in-b-flat-major
+work:
+  composer: Handel, George Frideric
+  title: Quadro Sonata in B-flat major
+  ids:
+    imslp: Quadro Sonata in B-flat major (Handel, George Frideric)
+formula: 1100 0000
+instrumentation:
+  flute: 1
+  oboe: 1
+  additional_raw: 2 violins | viola | continuo | violin | viola | continuo | violin
+    | viola | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Quadro_Sonata_in_B-flat_major_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, continuo; flute, violin, viola, continuo;
+    oboe, violin, viola, continuo'

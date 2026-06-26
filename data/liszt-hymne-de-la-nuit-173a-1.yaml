@@ -1,0 +1,15 @@
+id: liszt-hymne-de-la-nuit-173a-1
+work:
+  composer: Liszt, Franz
+  title: Hymne de la nuit, 173a/1
+  ids:
+    imslp: Hymne de la nuit, S.173a/1 (Liszt, Franz)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymne_de_la_nuit%2C_S.173a/1_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

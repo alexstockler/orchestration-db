@@ -1,0 +1,15 @@
+id: handel-suite
+work:
+  composer: Handel, George Frideric
+  title: Suite
+  ids:
+    imslp: Suite, HWV 445 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite%2C_HWV_445_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

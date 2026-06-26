@@ -1,0 +1,17 @@
+id: liszt-albumblatter-fur-prinzessin-marie-von-sayn-wittgenstein
+work:
+  composer: Liszt, Franz
+  title: Albumblätter für Prinzessin Marie von Sayn-Wittgenstein
+  ids:
+    imslp: Albumblätter für Prinzessin Marie von Sayn-Wittgenstein, S.166m (Liszt,
+      Franz)
+  year: 1847
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Albumbl%C3%A4tter_f%C3%BCr_Prinzessin_Marie_von_Sayn-Wittgenstein%2C_S.166m_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

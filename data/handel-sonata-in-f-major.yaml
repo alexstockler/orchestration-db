@@ -1,0 +1,15 @@
+id: handel-sonata-in-f-major
+work:
+  composer: Handel, George Frideric
+  title: Sonata in F major
+  ids:
+    imslp: Keyboard Sonata in F major, HWV 427a (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Keyboard_Sonata_in_F_major%2C_HWV_427a_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

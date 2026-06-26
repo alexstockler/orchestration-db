@@ -1,0 +1,16 @@
+id: handel-spande-ancor-a-mio-dispetto
+work:
+  composer: Handel, George Frideric
+  title: Spande ancor a mio dispetto
+  ids:
+    imslp: Spande ancor a mio dispetto, HWV 165 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+  additional_raw: 2 violins | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Spande_ancor_a_mio_dispetto%2C_HWV_165_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, 2 violins, continuo'

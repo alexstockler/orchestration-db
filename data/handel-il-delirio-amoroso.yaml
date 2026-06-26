@@ -1,0 +1,17 @@
+id: handel-il-delirio-amoroso
+work:
+  composer: Handel, George Frideric
+  title: Il delirio amoroso
+  ids:
+    imslp: Il delirio amoroso, HWV 99 (Handel, George Frideric)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  additional_raw: recorder | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_delirio_amoroso%2C_HWV_99_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, recorder, strings, continuo'

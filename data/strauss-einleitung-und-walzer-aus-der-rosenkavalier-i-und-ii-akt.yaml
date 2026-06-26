@@ -1,0 +1,42 @@
+id: strauss-einleitung-und-walzer-aus-der-rosenkavalier-i-und-ii-akt
+work:
+  composer: Strauss, Richard
+  title: Einleitung und Walzer aus 'Der Rosenkavalier' I. und II. Akt.
+  ids:
+    imslp: Walzerfolge No.1 aus 'Der Rosenkavalier', TrV 227c (Strauss, Richard)
+  year: 1944
+formula: 3 3 3[1.2.bhn] 3 4331 tmp 2hp str
+instrumentation:
+  flute: 3
+  oboe: 3
+  clarinet:
+  - {}
+  - {}
+  - instrument: basset_horn
+  bassoon: 3
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - snare drum
+    - triangle
+    - tambourine
+    - glockenspiel
+  harp: 2
+  strings:
+    standard: true
+    description: 16, 16, 12, 10, 8
+  additional_raw: D (or E) clarinet
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Walzerfolge_No.1_aus_%27Der_Rosenkavalier%27%2C_TrV_227c_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes, 3 oboes, D (or E) clarinet, 2 clarinets, basset
+    horn, 3 bassoons, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, bass drum,
+    snare drum, triangle, tambourine, glockenspiel, 2 harps, strings (16, 16, 12,
+    10, 8)'
+duration_minutes: 12

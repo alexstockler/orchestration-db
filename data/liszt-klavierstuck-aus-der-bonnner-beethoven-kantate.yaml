@@ -1,0 +1,16 @@
+id: liszt-klavierstuck-aus-der-bonnner-beethoven-kantate
+work:
+  composer: Liszt, Franz
+  title: Klavierstück aus der Bonnner Beethoven-Kantate
+  ids:
+    imslp: Klavierstück aus der Bonner Beethoven-Kantate, S.507 (Liszt, Franz)
+  year: 1846
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Klavierst%C3%BCck_aus_der_Bonner_Beethoven-Kantate%2C_S.507_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

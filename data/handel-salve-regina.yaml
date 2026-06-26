@@ -1,0 +1,17 @@
+id: handel-salve-regina
+work:
+  composer: Handel, George Frideric
+  title: Salve Regina
+  ids:
+    imslp: Salve Regina, HWV 241 (Handel, George Frideric)
+  year: 1707
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: 2 violins | cello | continuo (organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Salve_Regina%2C_HWV_241_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 2 violins, cello, continuo (organ)'

@@ -1,0 +1,43 @@
+id: strauss-vier-letzte-lieder
+work:
+  composer: Strauss, Richard
+  title: Vier letzte Lieder
+  ids:
+    imslp: 4 Letzte Lieder, TrV 296 (Strauss, Richard)
+  year: 1947
+formula: 4[pic.2.3/pic.4] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 4331 tmp cel str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - doublings:
+    - piccolo
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: celesta
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Letzte_Lieder%2C_TrV_296_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 3 flutes (3rd also 2nd piccolo), 2 oboes, English
+    horn,, 2 clarinets, bass clarinet, 2 bassoons, contrabassoon,, 4 horns, 3 trumpets,
+    3 trombones, tuba, timpani, celesta, strings'

@@ -1,0 +1,17 @@
+id: vivaldi-flute-concerto-in-e-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Flute Concerto in E minor
+  ids:
+    imslp: Flute Concerto in E minor, RV 430 (Vivaldi, Antonio)
+formula: 1000 0000 str
+instrumentation:
+  flute: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flute_Concerto_in_E_minor%2C_RV_430_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, strings, continuo'
+duration_minutes: 7

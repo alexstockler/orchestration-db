@@ -1,0 +1,16 @@
+id: liszt-benediction-et-serment
+work:
+  composer: Liszt, Franz
+  title: Bénédiction et serment
+  ids:
+    imslp: Bénédiction et serment, S.396 (Liszt, Franz)
+  year: 1852
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/B%C3%A9n%C3%A9diction_et_serment%2C_S.396_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

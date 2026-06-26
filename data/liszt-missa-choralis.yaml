@@ -1,0 +1,18 @@
+id: liszt-missa-choralis
+work:
+  composer: Liszt, Franz
+  title: Missa choralis
+  ids:
+    imslp: Missa choralis, S.10 (Liszt, Franz)
+  year: 1859
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Missa_choralis%2C_S.10_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), organ'
+duration_minutes: 32

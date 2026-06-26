@@ -1,0 +1,18 @@
+id: strauss-austria
+work:
+  composer: Strauss, Richard
+  title: Austria
+  ids:
+    imslp: Austria, Op.78 (Strauss, Richard)
+  year: 1930
+formula: 1perc 2hp
+instrumentation:
+  percussion:
+    players: 1
+  harp: 2
+  additional_raw: men's chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Austria%2C_Op.78_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: men''s chorus, percussion, 2 harps, orchestra'

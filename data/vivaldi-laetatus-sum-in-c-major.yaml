@@ -1,0 +1,16 @@
+id: vivaldi-laetatus-sum-in-c-major
+work:
+  composer: Vivaldi, Antonio
+  title: Laetatus sum in C major
+  ids:
+    imslp: Laetatus sum in C major, RV 827 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Laetatus_sum_in_C_major%2C_RV_827_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), strings, continuo'

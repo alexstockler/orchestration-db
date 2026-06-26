@@ -1,0 +1,16 @@
+id: liszt-pio-ix
+work:
+  composer: Liszt, Franz
+  title: Pio IX
+  ids:
+    imslp: Pio IX, S.261 (Liszt, Franz)
+  year: 1863
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pio_IX%2C_S.261_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Organ'

@@ -1,0 +1,41 @@
+id: handel-deborah
+work:
+  composer: Handel, George Frideric
+  title: Deborah
+  ids:
+    imslp: Deborah, HWV 51 (Handel, George Frideric)
+  year: 1733
+formula: 0202 3300 tmp str
+instrumentation:
+  oboe: 2
+  bassoon: 2
+  horn: 3
+  trumpet: 3
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - Deborah (soprano)
+  - Barak
+  - commander of the Israelite army (alto-castrato)
+  - Jael (soprano)
+  - Abinoam (bass)
+  - Israelitish Woman (soprano)
+  - Sisera (alto)
+  - Herald (tenor)
+  - Chief Priest of Israelites (bass)
+  - Chief Priest of Baal (bass) Mixed Chorus (SATB) :priests of baal
+  - priests of the israelites
+  - people and army of israel
+  additional_raw: violette all'ottava | continuo (harpsichord, organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Deborah%2C_HWV_51_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Deborah (soprano), Barak, commander of the Israelite
+    army (alto-castrato), Jael (soprano), Abinoam (bass), Israelitish Woman (soprano),
+    Sisera (alto), Herald (tenor), Chief Priest of Israelites (bass), Chief Priest
+    of Baal (bass) Mixed Chorus (SATB) :priests of baal, priests of the israelites,
+    people and army of israel Orchestra :2 oboes, 2 bassoons (ripieni), 3 horns (C),
+    3 trumpets (C), timpani, violette all''ottava, strings (cello ripieni), continuo
+    (harpsichord, organ)'

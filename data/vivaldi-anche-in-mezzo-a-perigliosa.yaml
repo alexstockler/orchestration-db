@@ -1,0 +1,17 @@
+id: vivaldi-anche-in-mezzo-a-perigliosa
+work:
+  composer: Vivaldi, Antonio
+  title: Anche in mezzo a perigliosa
+  ids:
+    imslp: Anche in mezzo a perigliosa (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Anche_in_mezzo_a_perigliosa_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, strings, continuo'

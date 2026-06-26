@@ -1,0 +1,16 @@
+id: vivaldi-oboe-concerto-in-f-major
+work:
+  composer: Vivaldi, Antonio
+  title: Oboe Concerto in F major
+  ids:
+    imslp: Oboe Concerto in F major, RV 455 (Vivaldi, Antonio)
+formula: 0100 0000 str
+instrumentation:
+  oboe: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oboe_Concerto_in_F_major%2C_RV_455_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, strings, continuo'

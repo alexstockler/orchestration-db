@@ -1,0 +1,16 @@
+id: liszt-petite-valse-favorite
+work:
+  composer: Liszt, Franz
+  title: Petite valse favorite
+  ids:
+    imslp: Petite valse favorite, S.212 (Liszt, Franz)
+  year: 1842
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Petite_valse_favorite%2C_S.212_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

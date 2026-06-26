@@ -1,0 +1,14 @@
+id: vivaldi-concerto-for-violin-and-cello-in-a-major
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for Violin and Cello in A major
+  ids:
+    imslp: Concerto for Violin and Cello in A major, RV 546 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  additional_raw: Violin | Cello (or Viol) | Strings and Continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_Violin_and_Cello_in_A_major%2C_RV_546_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin, Cello (or Viol), Strings and Continuo'

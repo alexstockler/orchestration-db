@@ -1,0 +1,25 @@
+id: handel-messiah
+work:
+  composer: Handel, George Frideric
+  title: Messiah
+  ids:
+    imslp: Messiah, HWV 56 (Handel, George Frideric)
+  year: 1741
+formula: 0200 0200 tmp str
+instrumentation:
+  oboe: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - Solo Voices (2 sopranos, alto, tenor, bass)
+  - Mixed Chorus (SSATB)
+  additional_raw: '[bassoons] | continuo (harpsichord and/or organ)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Messiah%2C_HWV_56_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo Voices (2 sopranos, alto, tenor, bass), Mixed Chorus
+    (SSATB), Orchestra :2 (or 4) oboes, [bassoons], 2 (or 4) trumpets, timpani, strings,
+    continuo (harpsichord and/or organ)'

@@ -1,0 +1,39 @@
+id: handel-sosarme-re-di-media
+work:
+  composer: Handel, George Frideric
+  title: Sosarme, re di Media
+  ids:
+    imslp: Sosarme, re di Media, HWV 30 (Handel, George Frideric)
+  year: 1732
+formula: 0200 2200 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  trumpet: 2
+  strings: str
+  soloists:
+  - Sosarme
+  - King of Media (alto castrato)
+  - Erenice
+  - wife of Haliate (contralto)
+  - Argone
+  - illegitimate son of Haliate (alto castrato)
+  - Melo
+  - son and heir of Haliate (contralto)
+  - Altomaro
+  - counsellor to Sosarme (bass)
+  - Elmira
+  - daughter of Haliate and beloved of Sosarme (soprano)
+  - Haliate
+  - 'King of Lydia (tenor) :'
+  additional_raw: '[bassoon] | continuo (cello, lute, harpsichord)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sosarme%2C_re_di_Media%2C_HWV_30_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra :Cast ::Sosarme, King of Media (alto
+    castrato), Erenice, wife of Haliate (contralto), Argone, illegitimate son of Haliate
+    (alto castrato), Melo, son and heir of Haliate (contralto), Altomaro, counsellor
+    to Sosarme (bass), Elmira, daughter of Haliate and beloved of Sosarme (soprano),
+    Haliate, King of Lydia (tenor) :Orchestra ::2 oboes, [bassoon], 2 horns, 2 trumpets,
+    strings, continuo (cello, lute, harpsichord)'

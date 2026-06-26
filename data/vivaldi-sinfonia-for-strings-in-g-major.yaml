@@ -1,0 +1,15 @@
+id: vivaldi-sinfonia-for-strings-in-g-major
+work:
+  composer: Vivaldi, Antonio
+  title: Sinfonia for Strings in G major
+  ids:
+    imslp: Sinfonia in G major, RV 147 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sinfonia_in_G_major%2C_RV_147_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: strings, continuo'

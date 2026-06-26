@@ -1,0 +1,17 @@
+id: liszt-die-drei-zigeuner-paraphrase-for-violin-and-piano
+work:
+  composer: Liszt, Franz
+  title: Die drei Zigeuner, Paraphrase for Violin and Piano
+  ids:
+    imslp: Die drei Zigeuner, S.383 (Liszt, Franz)
+  year: 1864
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_drei_Zigeuner%2C_S.383_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

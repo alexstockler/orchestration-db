@@ -1,0 +1,15 @@
+id: vivaldi-sinfonia-in-f-major
+work:
+  composer: Vivaldi, Antonio
+  title: Sinfonia in F major
+  ids:
+    imslp: Sinfonia in F major, RV 135 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sinfonia_in_F_major%2C_RV_135_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: strings, continuo'

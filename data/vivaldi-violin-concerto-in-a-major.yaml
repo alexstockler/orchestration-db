@@ -1,0 +1,16 @@
+id: vivaldi-violin-concerto-in-a-major
+work:
+  composer: Vivaldi, Antonio
+  title: Violin Concerto in A major
+  ids:
+    imslp: Concerto for 2 Violins in A major, RV 552 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  additional_raw: solo violin | 2 accompanying violins
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Violins_in_A_major%2C_RV_552_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: violin solo, strings, continuo, echo: solo violin, 2 accompanying
+    violins'
+duration_minutes: 12

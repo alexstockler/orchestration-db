@@ -1,0 +1,15 @@
+id: liszt-der-blinde-sanger
+work:
+  composer: Liszt, Franz
+  title: Der blinde Sänger
+  ids:
+    imslp: Der blinde Sänger, S.350 (Liszt, Franz)
+  year: 1875
+formula: ''
+instrumentation:
+  additional_raw: Narrator and Piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_blinde_S%C3%A4nger%2C_S.350_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Narrator and Piano'

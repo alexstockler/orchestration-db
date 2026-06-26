@@ -1,0 +1,16 @@
+id: liszt-festmarsch-zur-sacularfeier-von-goethes-geburtstag
+work:
+  composer: Liszt, Franz
+  title: Festmarsch zur Säcularfeier von Goethes Geburtstag
+  ids:
+    imslp: Festmarsch zur Säcularfeier von Goethes Geburtstag, S.227 (Liszt, Franz)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Festmarsch_zur_S%C3%A4cularfeier_von_Goethes_Geburtstag%2C_S.227_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

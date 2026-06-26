@@ -1,0 +1,17 @@
+id: liszt-album-leaf-agitato-in-g-major-s-167l-1-album-leaf-agitato-in-g-major-s-167
+work:
+  composer: Liszt, Franz
+  title: Album-Leaf 'Agitato in G major' (S.167l/1), Album-Leaf 'Agitato in G major'
+    (S.167l/2)
+  ids:
+    imslp: 2 Album-Leaves, S.167l (Liszt, Franz)
+  year: 1849
+formula: ''
+instrumentation:
+  additional_raw: Solo piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Album-Leaves%2C_S.167l_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo piano'
+duration_minutes: 1

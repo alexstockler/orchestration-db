@@ -1,0 +1,16 @@
+id: handel-filli-adorata-e-cara
+work:
+  composer: Handel, George Frideric
+  title: Filli adorata e cara
+  ids:
+    imslp: Filli adorata e cara, HWV 114 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Filli_adorata_e_cara%2C_HWV_114_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

@@ -1,0 +1,18 @@
+id: vivaldi-nisi-dominus
+work:
+  composer: Vivaldi, Antonio
+  title: Nisi Dominus
+  ids:
+    imslp: Nisi Dominus, RV 608 (Vivaldi, Antonio)
+  year: 1713
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+  additional_raw: viola d'amore | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nisi_Dominus%2C_RV_608_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, viola d''amore, strings, continuo'

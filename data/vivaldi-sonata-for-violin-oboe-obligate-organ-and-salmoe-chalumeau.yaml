@@ -1,0 +1,17 @@
+id: vivaldi-sonata-for-violin-oboe-obligate-organ-and-salmoe-chalumeau
+work:
+  composer: Vivaldi, Antonio
+  title: Sonata for Violin, Oboe, obligate Organ and Salmoe/Chalumeau
+  ids:
+    imslp: Trio Sonata in C major, RV 779 (Vivaldi, Antonio)
+formula: 0100 0000 org
+instrumentation:
+  oboe: 1
+  keyboards:
+  - instrument: organ
+  additional_raw: violin | chalumeau (ad lib.) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_C_major%2C_RV_779_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, oboe, organ, chalumeau (ad lib.), continuo'

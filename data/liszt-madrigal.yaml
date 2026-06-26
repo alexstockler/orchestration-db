@@ -1,0 +1,17 @@
+id: liszt-madrigal
+work:
+  composer: Liszt, Franz
+  title: Madrigal
+  ids:
+    imslp: Madrigal, S.171b (Liszt, Franz)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Madrigal%2C_S.171b_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 3

@@ -1,0 +1,15 @@
+id: handel-sonatina-in-b-flat-major
+work:
+  composer: Handel, George Frideric
+  title: Sonatina in B-flat major
+  ids:
+    imslp: Keyboard Sonatina in B-flat major, HWV 585 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Keyboard_Sonatina_in_B-flat_major%2C_HWV_585_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

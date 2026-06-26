@@ -1,0 +1,27 @@
+id: handel-amadigi-di-gaula
+work:
+  composer: Handel, George Frideric
+  title: Amadigi di Gaula
+  ids:
+    imslp: Amadigi di Gaula, HWV 11 (Handel, George Frideric)
+  year: 1715
+formula: 0201 0100 str
+instrumentation:
+  oboe: 2
+  bassoon: 1
+  trumpet: 1
+  strings: str
+  soloists:
+  - Amadigi (alto-castrato)
+  - Oriana (soprano)
+  - Melissa (soprano)
+  - Dardano (contralto)
+  - Orgando (soprano)
+  additional_raw: 2 recorders | continuo (cello, lute, harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Amadigi_di_Gaula%2C_HWV_11_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Amadigi (alto-castrato), Oriana (soprano), Melissa
+    (soprano), Dardano (contralto), Orgando (soprano) Orchestra :2 recorders, 2 oboes,
+    bassoon, trumpet, strings, continuo (cello, lute, harpsichord)'

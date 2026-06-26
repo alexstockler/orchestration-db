@@ -1,0 +1,18 @@
+id: liszt-ich-mochte-hingehn
+work:
+  composer: Liszt, Franz
+  title: Ich möchte hingehn
+  ids:
+    imslp: Ich möchte hingehn, S.296 (Liszt, Franz)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ich_m%C3%B6chte_hingehn%2C_S.296_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

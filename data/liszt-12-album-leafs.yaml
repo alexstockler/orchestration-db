@@ -1,0 +1,16 @@
+id: liszt-12-album-leafs
+work:
+  composer: Liszt, Franz
+  title: 12 Album-Leafs
+  ids:
+    imslp: 12 Album-Leaves, S.166d (Liszt, Franz)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Album-Leaves%2C_S.166d_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

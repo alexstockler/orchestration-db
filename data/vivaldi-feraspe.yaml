@@ -1,0 +1,15 @@
+id: vivaldi-feraspe
+work:
+  composer: Vivaldi, Antonio
+  title: Feraspe
+  ids:
+    imslp: Feraspe, RV 713 (Vivaldi, Antonio)
+  year: 1739
+formula: ''
+instrumentation:
+  additional_raw: undetermined (the opera is lost)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Feraspe%2C_RV_713_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: undetermined (the opera is lost)'

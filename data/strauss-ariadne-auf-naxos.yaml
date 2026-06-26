@@ -1,0 +1,69 @@
+id: strauss-ariadne-auf-naxos
+work:
+  composer: Strauss, Richard
+  title: Ariadne auf Naxos
+  ids:
+    imslp: Ariadne auf Naxos, Op.60 (Strauss, Richard)
+  year: 1912
+formula: 2[1.2/pic] 2 2 2 2110 tmp pf cel harm 2hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 1
+  trombone: 1
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: piano
+  - instrument: celesta
+  - instrument: harmonium
+  harp: 2
+  strings: str
+  soloists:
+  - The Prima Donna (soprano)
+  - The Tenor (tenor)
+  - Zerbinetta (coloratura soprano)
+  - Harlequin (baritone)
+  - Scaramuccio (tenor)
+  - Truffaldino (bass)
+  - Brighella (tenor)
+  - The Composer (mezzo-soprano or soprano)
+  - The Music-Master (baritone)
+  - The Dancing-Master (tenor)
+  - A Wigmaker (baritone)
+  - A Footman (bass)
+  - An Officer (tenor)
+  - The Major-Domo (spoken) Cast (Opera) :Ariadne (soprano)
+  - Bacchus (tenor)
+  - Zerbinetta (coloratura soprano)
+  - Harlequin (baritone)
+  - Scaramuccio (tenor)
+  - Truffaldino (bass)
+  - Brighella (tenor)
+  - Naiad (high soprano)
+  - Dryad (contralto)
+  - Echo (soprano) Mixed Chorus (SATB) :Servants
+  additional_raw: 'percussion: | (glockenspiel, tambourine, triangle, snare drum,
+    cymbals, bass drum)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ariadne_auf_Naxos%2C_Op.60_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Revised version Cast (Prologue) :The Prima Donna (soprano),
+    The Tenor (tenor), Zerbinetta (coloratura soprano), Harlequin (baritone), Scaramuccio
+    (tenor), Truffaldino (bass), Brighella (tenor), The Composer (mezzo-soprano or
+    soprano), The Music-Master (baritone), The Dancing-Master (tenor), A Wigmaker
+    (baritone), A Footman (bass), An Officer (tenor), The Major-Domo (spoken) Cast
+    (Opera) :Ariadne (soprano), Bacchus (tenor), Zerbinetta (coloratura soprano),
+    Harlequin (baritone), Scaramuccio (tenor), Truffaldino (bass), Brighella (tenor),
+    Naiad (high soprano), Dryad (contralto), Echo (soprano) Mixed Chorus (SATB) :Servants
+    Orchestra :2 flutes (2nd also piccolo), 2 oboes, 2 clarinets, 2 bassoons, 2 horns,
+    trumpet, trombone, timpani, percussion:, ::(glockenspiel, tambourine, triangle,
+    snare drum, cymbals, bass drum) :piano, celesta, harmonium, 2 harps, strings (6
+    vn, 4 va, 4 vc, 2 db)'

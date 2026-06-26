@@ -1,0 +1,16 @@
+id: handel-overture-in-d-major-hwv-337
+work:
+  composer: Handel, George Frideric
+  title: Overture in D major, HWV 337
+  ids:
+    imslp: Overture in D major, HWV 337 (Handel, George Frideric)
+formula: 1200 0000
+instrumentation:
+  flute: 1
+  oboe: 2
+  additional_raw: violin solo | 3 violins | viola | bassi
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Overture_in_D_major%2C_HWV_337_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, 2 oboes, violin solo, 3 violins, viola, bassi'

@@ -1,0 +1,17 @@
+id: handel-march-for-fife-in-d-major
+work:
+  composer: Handel, George Frideric
+  title: March for Fife in D major
+  ids:
+    imslp: March for Fife in D major, HWV 415 (Handel, George Frideric)
+  year: 1747
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+  additional_raw: pipe
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/March_for_Fife_in_D_major%2C_HWV_415_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: pipe, bass (bassoon)'

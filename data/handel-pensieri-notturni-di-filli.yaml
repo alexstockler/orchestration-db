@@ -1,0 +1,16 @@
+id: handel-pensieri-notturni-di-filli
+work:
+  composer: Handel, George Frideric
+  title: Pensieri notturni di Filli
+  ids:
+    imslp: Pensieri notturni di Filli, HWV 134 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: recorder | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pensieri_notturni_di_Filli%2C_HWV_134_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, recorder, continuo'

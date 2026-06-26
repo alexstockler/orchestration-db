@@ -1,0 +1,15 @@
+id: vivaldi-concerto-for-2-cellos-in-g-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for 2 Cellos in G minor
+  ids:
+    imslp: Concerto for 2 Cellos in G minor, RV 531 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: 2 cellos | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Cellos_in_G_minor%2C_RV_531_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 cellos, strings, continuo'

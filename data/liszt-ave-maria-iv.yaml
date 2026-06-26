@@ -1,0 +1,19 @@
+id: liszt-ave-maria-iv
+work:
+  composer: Liszt, Franz
+  title: Ave Maria IV
+  ids:
+    imslp: Ave Maria IV, S.341 (Liszt, Franz)
+  year: 1881
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_Maria_IV%2C_S.341_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, organ (or harmonium)'
+duration_minutes: 3

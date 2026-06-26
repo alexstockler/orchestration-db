@@ -1,0 +1,39 @@
+id: liszt-2-episoden-aus-lenau-s-faust
+work:
+  composer: Liszt, Franz
+  title: 2 Episoden aus Lenau's Faust
+  ids:
+    imslp: 2 Episoden aus Lenau's Faust, S.110 (Liszt, Franz)
+  year: 1856
+formula: 3[1.2.3/pic] 2[1.2/Eh] 2 2 4231 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - triangle
+    - bell
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Episoden_aus_Lenau%27s_Faust%2C_S.110_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 2 oboes (2nd also English
+    horn), 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani,
+    cymbals, triangle, bell, harp, strings'

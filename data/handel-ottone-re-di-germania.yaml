@@ -1,0 +1,17 @@
+id: handel-ottone-re-di-germania
+work:
+  composer: Handel, George Frideric
+  title: Ottone, re di Germania
+  ids:
+    imslp: Ottone, re di Germania, HWV 15 (Handel, George Frideric)
+  year: 1722
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ottone%2C_re_di_Germania%2C_HWV_15_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra, continuo'

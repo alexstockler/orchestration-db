@@ -1,0 +1,16 @@
+id: liszt-am-grabe-richard-wagners
+work:
+  composer: Liszt, Franz
+  title: Am Grabe Richard Wagners
+  ids:
+    imslp: Am Grabe Richard Wagners, S.135 (Liszt, Franz)
+  year: 1883
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello (harp ad lib.)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Am_Grabe_Richard_Wagners%2C_S.135_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello (harp ad lib.)'
+duration_minutes: 4

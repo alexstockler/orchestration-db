@@ -1,0 +1,15 @@
+id: handel-suite-in-c-major
+work:
+  composer: Handel, George Frideric
+  title: Suite in C major
+  ids:
+    imslp: Suite in C major, HWV 443 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_in_C_major%2C_HWV_443_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

@@ -1,0 +1,15 @@
+id: vivaldi-concerto-for-strings-in-c-major-rv-111
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for Strings in C major, RV 111
+  ids:
+    imslp: Sinfonia in C major, RV 111 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sinfonia_in_C_major%2C_RV_111_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'
+duration_minutes: 5

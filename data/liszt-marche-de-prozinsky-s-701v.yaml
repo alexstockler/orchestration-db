@@ -1,0 +1,16 @@
+id: liszt-marche-de-prozinsky-s-701v
+work:
+  composer: Liszt, Franz
+  title: Marche de Prozinsky, S.701v
+  ids:
+    imslp: Marche de Prozinsky, S.701v (Liszt, Franz)
+  year: 1846
+formula: ''
+instrumentation:
+  additional_raw: Solo piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marche_de_Prozinsky%2C_S.701v_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo piano'
+duration_minutes: 1

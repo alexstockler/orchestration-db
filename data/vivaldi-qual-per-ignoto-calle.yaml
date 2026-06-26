@@ -1,0 +1,16 @@
+id: vivaldi-qual-per-ignoto-calle
+work:
+  composer: Vivaldi, Antonio
+  title: Qual per ignoto calle
+  ids:
+    imslp: Qual per ignoto calle, RV 677 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - contralto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Qual_per_ignoto_calle%2C_RV_677_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: contralto, continuo'

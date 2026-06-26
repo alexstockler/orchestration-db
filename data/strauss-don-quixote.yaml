@@ -1,0 +1,52 @@
+id: strauss-don-quixote
+work:
+  composer: Strauss, Richard
+  title: Don Quixote
+  ids:
+    imslp: Don Quixote, Op.35 (Strauss, Richard)
+  year: 1897
+formula: 3[pic.2.3] 3[1.2.Eh] 3[1.2.bcl] 4[1.2.3.cbn] 6331 tmp hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 6
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - snare drum
+    - cymbals
+    - triangle
+    - tambourine
+    - wind machine
+  harp: 1
+  strings: str
+  additional_raw: 'unknown doubling in clarinet: e-flat clarinet-flat clarinet | tenor
+    tuba (euphonium)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Don_Quixote%2C_Op.35_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets (2nd
+    also E clarinet),, bass clarinet, 3 bassoons, contrabassoon, 6 horns, 3 trumpets,
+    3 trombones, tenor tuba (euphonium), tuba, timpani, bass drum, snare drum, cymbals,
+    triangle, tambourine, wind machine, harp, strings (viola solo)'
+duration_minutes: 35

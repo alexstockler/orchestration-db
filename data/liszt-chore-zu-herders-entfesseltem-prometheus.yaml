@@ -1,0 +1,19 @@
+id: liszt-chore-zu-herders-entfesseltem-prometheus
+work:
+  composer: Liszt, Franz
+  title: Chöre zu Herders Entfesseltem Prometheus
+  ids:
+    imslp: Chöre zu Herders Entfesseltem Prometheus, S.69 (Liszt, Franz)
+  year: 1850
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  - voices
+  chorus_raw: 2 mixed choruses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ch%C3%B6re_zu_Herders_Entfesseltem_Prometheus%2C_S.69_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voices (SATTBB), mixed chorus, orchestra (1st version),
+    voices (SATTBB), 2 mixed choruses, orchestra (2nd/3rd versions)'

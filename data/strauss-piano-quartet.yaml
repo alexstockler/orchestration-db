@@ -1,0 +1,16 @@
+id: strauss-piano-quartet
+work:
+  composer: Strauss, Richard
+  title: Piano Quartet
+  ids:
+    imslp: Piano Quartet, Op.13 (Strauss, Richard)
+  year: 1884
+formula: ''
+instrumentation:
+  additional_raw: Violin | viola | cello | and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quartet%2C_Op.13_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin, viola, cello, and piano'
+duration_minutes: 40

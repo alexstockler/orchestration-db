@@ -1,0 +1,17 @@
+id: handel-carco-sempre-di-gloria
+work:
+  composer: Handel, George Frideric
+  title: Carco sempre di gloria
+  ids:
+    imslp: Carco sempre di gloria, HWV 87 (Handel, George Frideric)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Carco_sempre_di_gloria%2C_HWV_87_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, strings, continuo'

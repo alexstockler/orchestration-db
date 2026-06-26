@@ -1,0 +1,16 @@
+id: handel-flute-sonata-in-a-minor
+work:
+  composer: Handel, George Frideric
+  title: Flute Sonata in A minor
+  ids:
+    imslp: Flute Sonata in A minor, HWV 374 (Handel, George Frideric)
+  year: 1879
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flute_Sonata_in_A_minor%2C_HWV_374_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, continuo'

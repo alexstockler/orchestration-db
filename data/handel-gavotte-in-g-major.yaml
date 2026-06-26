@@ -1,0 +1,16 @@
+id: handel-gavotte-in-g-major
+work:
+  composer: Handel, George Frideric
+  title: Gavotte in G major
+  ids:
+    imslp: Gavotte in G major, HWV 491 (Handel, George Frideric)
+  year: 1705
+formula: ''
+instrumentation:
+  additional_raw: cembalo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gavotte_in_G_major%2C_HWV_491_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: cembalo'
+duration_minutes: 2

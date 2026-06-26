@@ -1,0 +1,19 @@
+id: liszt-comment-disaient-ils
+work:
+  composer: Liszt, Franz
+  title: Comment, disaient-ils
+  ids:
+    imslp: Comment disaient-ils, S.276 (Liszt, Franz)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Comment_disaient-ils%2C_S.276_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 2

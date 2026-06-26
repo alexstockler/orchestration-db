@@ -1,0 +1,17 @@
+id: liszt-album-leaf-fugue-chromatique
+work:
+  composer: Liszt, Franz
+  title: Album-Leaf 'Fugue Chromatique'
+  ids:
+    imslp: Album-Leaf 'Fugue Chromatique', S.167j (Liszt, Franz)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album-Leaf_%27Fugue_Chromatique%27%2C_S.167j_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

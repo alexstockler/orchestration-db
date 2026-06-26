@@ -1,0 +1,16 @@
+id: handel-oboe-sonata-in-c-minor
+work:
+  composer: Handel, George Frideric
+  title: Oboe Sonata in C minor
+  ids:
+    imslp: Oboe Sonata in C minor, HWV 366 (Handel, George Frideric)
+  year: 1727
+formula: 0100 0000
+instrumentation:
+  oboe: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oboe_Sonata_in_C_minor%2C_HWV_366_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, continuo'

@@ -1,0 +1,16 @@
+id: handel-lungi-da-me-pensier-tiranno
+work:
+  composer: Handel, George Frideric
+  title: Lungi da me, pensier tiranno
+  ids:
+    imslp: Lungi da me, pensier tiranno, HWV 125b (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lungi_da_me%2C_pensier_tiranno%2C_HWV_125b_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, continuo'

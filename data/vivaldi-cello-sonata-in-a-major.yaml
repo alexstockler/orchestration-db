@@ -1,0 +1,15 @@
+id: vivaldi-cello-sonata-in-a-major
+work:
+  composer: Vivaldi, Antonio
+  title: Cello Sonata in A major
+  ids:
+    imslp: Cello Sonata in A major (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  additional_raw: cello | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Sonata_in_A_major_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, continuo'
+duration_minutes: 13

@@ -1,0 +1,16 @@
+id: strauss-stimmungsbilder
+work:
+  composer: Strauss, Richard
+  title: Stimmungsbilder
+  ids:
+    imslp: Stimmungsbilder, Op.9 (Strauss, Richard)
+  year: 1884
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Stimmungsbilder%2C_Op.9_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,15 @@
+id: vivaldi-l-inganno-trionfante-in-amore
+work:
+  composer: Vivaldi, Antonio
+  title: L'inganno trionfante in amore
+  ids:
+    imslp: L'inganno trionfante in amore, RV 721 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - 6 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27inganno_trionfante_in_amore%2C_RV_721_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 6 voices, orchestra'

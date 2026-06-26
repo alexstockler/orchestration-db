@@ -1,0 +1,19 @@
+id: handel-an-occasional-oratorio
+work:
+  composer: Handel, George Frideric
+  title: An Occasional Oratorio
+  ids:
+    imslp: An Occasional Oratorio, HWV 62 (Handel, George Frideric)
+  year: 1746
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_Occasional_Oratorio%2C_HWV_62_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, tenor, bass; mixed chorus (SATB), orchestra'

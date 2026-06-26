@@ -1,0 +1,17 @@
+id: handel-concerto-grosso-in-a-minor
+work:
+  composer: Handel, George Frideric
+  title: Concerto Grosso in A minor
+  ids:
+    imslp: Concerto Grosso in A minor, HWV 322 (Handel, George Frideric)
+  year: 1739
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: 2 violins | cello | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_Grosso_in_A_minor%2C_HWV_322_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, cello, strings, continuo'
+duration_minutes: 11

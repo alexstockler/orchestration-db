@@ -1,0 +1,15 @@
+id: vivaldi-l-estro-armonico
+work:
+  composer: Vivaldi, Antonio
+  title: L'Estro Armonico
+  ids:
+    imslp: L'estro armonico, Op.3 (Vivaldi, Antonio)
+  year: 1711
+formula: ''
+instrumentation:
+  additional_raw: various
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27estro_armonico%2C_Op.3_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: various'

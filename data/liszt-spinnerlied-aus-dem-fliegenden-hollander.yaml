@@ -1,0 +1,16 @@
+id: liszt-spinnerlied-aus-dem-fliegenden-hollander
+work:
+  composer: Liszt, Franz
+  title: Spinnerlied aus dem Fliegenden Holländer
+  ids:
+    imslp: Spinnerlied aus dem Fliegenden Holländer, S.440 (Liszt, Franz)
+  year: 1860
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Spinnerlied_aus_dem_Fliegenden_Holl%C3%A4nder%2C_S.440_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

@@ -1,0 +1,16 @@
+id: vivaldi-filiae-maestae-jerusalem
+work:
+  composer: Vivaldi, Antonio
+  title: Filiae Maestae Jerusalem
+  ids:
+    imslp: Filiae maestae Jerusalem, RV 638 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  additional_raw: 2 Violins | Viola | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Filiae_maestae_Jerusalem%2C_RV_638_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: Alto, 2 Violins, Viola, continuo'

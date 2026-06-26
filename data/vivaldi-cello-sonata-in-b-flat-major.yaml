@@ -1,0 +1,15 @@
+id: vivaldi-cello-sonata-in-b-flat-major
+work:
+  composer: Vivaldi, Antonio
+  title: Cello Sonata in B-flat major
+  ids:
+    imslp: Cello Sonata in B-flat major, RV 45 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  additional_raw: cello | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Sonata_in_B-flat_major%2C_RV_45_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, continuo'
+duration_minutes: 10

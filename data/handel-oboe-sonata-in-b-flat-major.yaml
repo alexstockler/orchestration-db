@@ -1,0 +1,16 @@
+id: handel-oboe-sonata-in-b-flat-major
+work:
+  composer: Handel, George Frideric
+  title: Oboe Sonata in B-flat major
+  ids:
+    imslp: Oboe Sonata in B-flat major, HWV 357 (Handel, George Frideric)
+  year: 1707
+formula: 0100 0000
+instrumentation:
+  oboe: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oboe_Sonata_in_B-flat_major%2C_HWV_357_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, continuo'

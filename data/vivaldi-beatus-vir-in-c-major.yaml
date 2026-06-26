@@ -1,0 +1,16 @@
+id: vivaldi-beatus-vir-in-c-major
+work:
+  composer: Vivaldi, Antonio
+  title: Beatus vir in C major
+  ids:
+    imslp: Beatus vir, RV 597 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: 2 mixed choruses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Beatus_vir%2C_RV_597_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voices (see below, Comments), 2 mixed choruses, 2 orchestras'

@@ -1,0 +1,19 @@
+id: handel-berenice
+work:
+  composer: Handel, George Frideric
+  title: Berenice
+  ids:
+    imslp: Berenice, HWV 38 (Handel, George Frideric)
+  year: 1736
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - altos
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Berenice%2C_HWV_38_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, 3 altos, tenor, bass, orchestra'

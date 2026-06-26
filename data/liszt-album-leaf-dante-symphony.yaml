@@ -1,0 +1,17 @@
+id: liszt-album-leaf-dante-symphony
+work:
+  composer: Liszt, Franz
+  title: Album-Leaf 'Dante-Symphony'
+  ids:
+    imslp: Album-Leaf 'Dante-Symphony', S.165e (Liszt, Franz)
+  year: 1858
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album-Leaf_%27Dante-Symphony%27%2C_S.165e_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

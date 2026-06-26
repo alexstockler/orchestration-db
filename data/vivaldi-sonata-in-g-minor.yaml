@@ -1,0 +1,16 @@
+id: vivaldi-sonata-in-g-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Sonata in G minor
+  ids:
+    imslp: Sonata in G minor, RV 28 (Vivaldi, Antonio)
+  year: 1725
+formula: ''
+instrumentation:
+  additional_raw: oboe or violin | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_in_G_minor%2C_RV_28_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe or violin, continuo'
+duration_minutes: 12

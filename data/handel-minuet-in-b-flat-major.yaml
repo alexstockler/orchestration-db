@@ -1,0 +1,14 @@
+id: handel-minuet-in-b-flat-major
+work:
+  composer: Handel, George Frideric
+  title: Minuet in B flat major
+  ids:
+    imslp: Minuet in B flat major, HWV 554 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Minuet_in_B_flat_major%2C_HWV_554_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

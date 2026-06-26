@@ -1,0 +1,17 @@
+id: liszt-introduction-et-polonaise-de-l-opera-i-puritani
+work:
+  composer: Liszt, Franz
+  title: Introduction et Polonaise de l'opéra I puritani
+  ids:
+    imslp: Introduction et Polonaise de l'opéra 'I puritani', S.391 (Liszt, Franz)
+  year: 1840
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Introduction_et_Polonaise_de_l%27op%C3%A9ra_%27I_puritani%27%2C_S.391_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'
+duration_minutes: 6

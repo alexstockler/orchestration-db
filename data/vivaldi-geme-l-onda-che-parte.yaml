@@ -1,0 +1,16 @@
+id: vivaldi-geme-l-onda-che-parte
+work:
+  composer: Vivaldi, Antonio
+  title: Geme l'onda che parte
+  ids:
+    imslp: Geme l'onda che parte, RV 657 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Geme_l%27onda_che_parte%2C_RV_657_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

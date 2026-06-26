@@ -1,0 +1,17 @@
+id: vivaldi-concerto-for-4-violins-and-cello-in-d-major
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for 4 Violins and Cello in D major
+  ids:
+    imslp: Concerto in D major, RV 549 (Vivaldi, Antonio)
+  year: 1711
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: 4 violins | cello (in 1st movement only) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_in_D_major%2C_RV_549_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 violins, cello (in 1st movement only), strings, continuo'
+duration_minutes: 8

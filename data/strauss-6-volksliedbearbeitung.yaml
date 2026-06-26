@@ -1,0 +1,15 @@
+id: strauss-6-volksliedbearbeitung
+work:
+  composer: Strauss, Richard
+  title: 6 Volksliedbearbeitung
+  ids:
+    imslp: 6 Volksliedbearbeitung, TrV 216 (Strauss, Richard)
+  year: 1905
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Volksliedbearbeitung%2C_TrV_216_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Male chorus'

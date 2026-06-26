@@ -1,0 +1,18 @@
+id: vivaldi-concerto-for-2-oboes-in-d-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for 2 Oboes in D minor
+  ids:
+    imslp: Concerto for 2 Oboes in D minor, RV 535 (Vivaldi, Antonio)
+  year: 1724
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - 2 oboes
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Oboes_in_D_minor%2C_RV_535_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: 2 oboes, Orchestra: strings, continuo'

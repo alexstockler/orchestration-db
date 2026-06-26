@@ -1,0 +1,16 @@
+id: vivaldi-concerto-for-strings-in-d-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for Strings in D minor
+  ids:
+    imslp: Concerto for Strings in D minor, RV 127 (Vivaldi, Antonio)
+  year: 1717
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_Strings_in_D_minor%2C_RV_127_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: strings, continuo'

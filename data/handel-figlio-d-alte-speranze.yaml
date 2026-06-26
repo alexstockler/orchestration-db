@@ -1,0 +1,16 @@
+id: handel-figlio-d-alte-speranze
+work:
+  composer: Handel, George Frideric
+  title: Figlio d'alte speranze
+  ids:
+    imslp: Figlio d'alte speranze, HWV 113 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: violin | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Figlio_d%27alte_speranze%2C_HWV_113_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, violin, continuo'

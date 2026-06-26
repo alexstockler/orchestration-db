@@ -1,0 +1,19 @@
+id: liszt-an-den-heiligen-franziskus-von-paula
+work:
+  composer: Liszt, Franz
+  title: An den heiligen Franziskus von Paula
+  ids:
+    imslp: An den heiligen Franziskus von Paula, S.28 (Liszt, Franz)
+  year: 1860
+formula: ''
+instrumentation:
+  soloists:
+  - tenors
+  chorus_raw: male chorus
+  additional_raw: 2 Basses | Harmonium or Organ (+ 3 Trombones , Timpani ad lib.)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_den_heiligen_Franziskus_von_Paula%2C_S.28_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Tenors, 2 Basses, Male Chorus (TTBB), Harmonium or Organ
+    (+ 3 Trombones , Timpani ad lib.)'

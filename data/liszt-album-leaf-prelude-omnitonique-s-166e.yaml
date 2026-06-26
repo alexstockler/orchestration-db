@@ -1,0 +1,16 @@
+id: liszt-album-leaf-prelude-omnitonique-s-166e
+work:
+  composer: Liszt, Franz
+  title: Album-Leaf 'Prélude Omnitonique', S.166e
+  ids:
+    imslp: Album-Leaf 'Prélude Omnitonique', S.166e (Liszt, Franz)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album-Leaf_%27Pr%C3%A9lude_Omnitonique%27%2C_S.166e_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

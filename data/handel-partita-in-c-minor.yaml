@@ -1,0 +1,15 @@
+id: handel-partita-in-c-minor
+work:
+  composer: Handel, George Frideric
+  title: Partita in C minor
+  ids:
+    imslp: Partita in C minor, HWV 444 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Partita_in_C_minor%2C_HWV_444_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

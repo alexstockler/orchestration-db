@@ -1,0 +1,22 @@
+id: handel-o-praise-the-lord-with-one-consent-chandos-anthem-no-9
+work:
+  composer: Handel, George Frideric
+  title: O Praise the Lord with One Consent (Chandos Anthem No.9)
+  ids:
+    imslp: O Praise the Lord with One Consent, HWV 254 (Handel, George Frideric)
+  year: 1717
+formula: 0100 0000
+instrumentation:
+  oboe: 1
+  soloists:
+  - soprano
+  - 2 tenors
+  - bass + mixed chorus (STTB)
+  additional_raw: 2 violins | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_Praise_the_Lord_with_One_Consent%2C_HWV_254_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, 2 tenors, bass + mixed chorus (STTB),
+    Orchestra: oboe, 2 violins, continuo'
+duration_minutes: 16

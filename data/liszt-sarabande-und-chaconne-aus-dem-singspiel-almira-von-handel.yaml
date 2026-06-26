@@ -1,0 +1,16 @@
+id: liszt-sarabande-und-chaconne-aus-dem-singspiel-almira-von-handel
+work:
+  composer: Liszt, Franz
+  title: Sarabande und Chaconne aus dem Singspiel Almira von Händel
+  ids:
+    imslp: Sarabande und Chaconne aus dem Singspiel Almira, S.181 (Liszt, Franz)
+  year: 1879
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sarabande_und_Chaconne_aus_dem_Singspiel_Almira%2C_S.181_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

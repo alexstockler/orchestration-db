@@ -1,0 +1,16 @@
+id: liszt-einsam-bin-ich-nicht-allein
+work:
+  composer: Liszt, Franz
+  title: Einsam bin ich, nicht allein
+  ids:
+    imslp: Einsam bin ich, nicht allein, S.453 (Liszt, Franz)
+  year: 1848
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Einsam_bin_ich%2C_nicht_allein%2C_S.453_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,97 @@
+id: strauss-die-agyptische-helena
+work:
+  composer: Strauss, Richard
+  title: Die ägyptische Helena
+  ids:
+    imslp: Die ägyptische Helena, Op.75 (Strauss, Richard)
+  year: 1924
+formula: 4[1.2.3/pic.4/pic] 9[1.2.Eh.4.5.6.7.8.9] 10[1.2.3.bcl.5.6.7.8.9.10] 3[1.2.3/cbn]
+  10[1.2.3.4.5.6.7.8.9.10] 8 7 1 tmp cel org 2hp
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  bassoon:
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  horn: 10
+  trumpet: 8
+  trombone: 7
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - tam-tam
+    - snare drum
+    - cymbals
+    - glockenspiel
+    - triangle
+    - tambourines
+    - wind machine
+  keyboards:
+  - instrument: celesta
+  - instrument: organ
+  harp: 2
+  soloists:
+  - Helena
+  - wife of Menelaus (soprano)
+  - Menelaus (tenor)
+  - Hermione
+  - daughter of Helena and Menelaus (soprano)
+  - Aithra
+  - the daughter of an Egyptian King
+  - a sorceress (soprano)
+  - Altair (baritone)
+  - Da-Ud
+  - Altair's son (tenor)
+  - Two Servants of Aithra (soprano, mezzo-soprano)
+  - 'Four elves: (2 sopranos, 2 contraltos)'
+  - The omniscient sea-shell (contralto) Mixed Chorus (SATB) :Elves
+  - male and female warriors
+  - slaves
+  - eunuchs Pit-
+  additional_raw: 'percussion: | strings (16,14,10,10,8) '' (Act II)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_%C3%A4gyptische_Helena%2C_Op.75_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Helena, wife of Menelaus (soprano), Menelaus (tenor),
+    Hermione, daughter of Helena and Menelaus (soprano), Aithra, the daughter of an
+    Egyptian King, a sorceress (soprano), Altair (baritone), Da-Ud, Altair''s son
+    (tenor), Two Servants of Aithra (soprano, mezzo-soprano), Four elves: (2 sopranos,
+    2 contraltos), The omniscient sea-shell (contralto) Mixed Chorus (SATB) :Elves,
+    male and female warriors, slaves, eunuchs Pit-Orchestra :4 flutes (3rd and 4th
+    also piccolo), 2 oboes, English horn, ::3 clarinets, bass clarinet (also piccolo
+    clarinet), 3 bassoons (3rd also contrabassoon) :6 horns, 6 trumpets, 3 trombones,
+    tuba, timpani, percussion:, ::bass drum, tam-tam, snare drum, cymbals, glockenspiel
+    :celesta, organ, 2 harps, strings (16,14,10,10,8) '' (Act II) :6 oboes, 6 clarinets,
+    4 horns, 2 trumpets, 4 trombone, timpani, 4 triangle, 2 tambourines, wind machine'
+duration_minutes: 20

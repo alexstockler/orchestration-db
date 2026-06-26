@@ -1,0 +1,16 @@
+id: liszt-romancero-espagnol
+work:
+  composer: Liszt, Franz
+  title: Romancero espagnol
+  ids:
+    imslp: Romancero espagnol, S.695c (Liszt, Franz)
+  year: 1845
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romancero_espagnol%2C_S.695c_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

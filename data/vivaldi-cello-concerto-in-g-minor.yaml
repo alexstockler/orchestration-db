@@ -1,0 +1,15 @@
+id: vivaldi-cello-concerto-in-g-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Cello Concerto in G minor
+  ids:
+    imslp: Cello Concerto in G minor, RV 417 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: cello | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Concerto_in_G_minor%2C_RV_417_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, strings, continuo'

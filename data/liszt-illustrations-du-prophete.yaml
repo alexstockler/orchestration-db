@@ -1,0 +1,16 @@
+id: liszt-illustrations-du-prophete
+work:
+  composer: Liszt, Franz
+  title: Illustrations du Prophète
+  ids:
+    imslp: Illustrations du Prophète, S.414 (Liszt, Franz)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Illustrations_du_Proph%C3%A8te%2C_S.414_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

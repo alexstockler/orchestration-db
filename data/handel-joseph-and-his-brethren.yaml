@@ -1,0 +1,46 @@
+id: handel-joseph-and-his-brethren
+work:
+  composer: Handel, George Frideric
+  title: Joseph and his Brethren
+  ids:
+    imslp: Joseph and His Brethren, HWV 59 (Handel, George Frideric)
+  year: 1743
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - Pharaoh
+  - King of Egypt (bass)
+  - Joseph
+  - an Hebrew (alto)
+  - Reuben
+  - Brother to Joseph (bass)
+  - Simeon
+  - Brother to Joseph (tenor)
+  - Judah
+  - Brother to Joseph (tenor)
+  - Benjamin
+  - Brother to Joseph (soprano)
+  - Potiphera
+  - High Priest of On (alto)
+  - Asenath
+  - Daughter to the High Priest (soprano)
+  - Phanor
+  - Chief Butler to Pharaoh
+  - afterwards Joseph's Steward (contralto) :Mixed Chorus (SATB) ::chorus of Egyptians
+  - chorus of the brethren
+  - 'chorus of Hebrews :'
+  additional_raw: 2 oboes [doubling] 2 flauti traversi | 2 trumpets & timpani | bc.
+    (bassoons)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Joseph_and_His_Brethren%2C_HWV_59_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Cast ::Pharaoh, King of Egypt
+    (bass), Joseph, an Hebrew (alto), Reuben, Brother to Joseph (bass), Simeon, Brother
+    to Joseph (tenor), Judah, Brother to Joseph (tenor), Benjamin, Brother to Joseph
+    (soprano), Potiphera, High Priest of On (alto), Asenath, Daughter to the High
+    Priest (soprano), Phanor, Chief Butler to Pharaoh, afterwards Joseph''s Steward
+    (contralto) :Mixed Chorus (SATB) ::chorus of Egyptians, chorus of the brethren,
+    chorus of Hebrews :Orchestra: ::2 oboes [doubling] 2 flauti traversi, 2 trumpets
+    & timpani, strings, bc. (bassoons)'

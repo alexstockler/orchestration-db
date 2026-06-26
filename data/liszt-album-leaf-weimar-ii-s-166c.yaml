@@ -1,0 +1,16 @@
+id: liszt-album-leaf-weimar-ii-s-166c
+work:
+  composer: Liszt, Franz
+  title: Album-leaf 'Weimar II', S.166c
+  ids:
+    imslp: Album-Leaf 'Weimar II', S.166c (Liszt, Franz)
+  year: 1845
+formula: ''
+instrumentation:
+  additional_raw: Solo piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album-Leaf_%27Weimar_II%27%2C_S.166c_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo piano'
+duration_minutes: 1

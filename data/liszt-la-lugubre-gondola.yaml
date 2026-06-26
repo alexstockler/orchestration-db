@@ -1,0 +1,16 @@
+id: liszt-la-lugubre-gondola
+work:
+  composer: Liszt, Franz
+  title: La lugubre gondola
+  ids:
+    imslp: La lugubre gondola, S.200 (Liszt, Franz)
+  year: 1882
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_lugubre_gondola%2C_S.200_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

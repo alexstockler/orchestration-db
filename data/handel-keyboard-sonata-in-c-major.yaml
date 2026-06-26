@@ -1,0 +1,16 @@
+id: handel-keyboard-sonata-in-c-major
+work:
+  composer: Handel, George Frideric
+  title: Keyboard Sonata in C major
+  ids:
+    imslp: Keyboard Sonata in C major, HWV 577 (Handel, George Frideric)
+  year: 1703
+formula: ''
+instrumentation:
+  additional_raw: keyboard (harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Keyboard_Sonata_in_C_major%2C_HWV_577_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard (harpsichord)'
+duration_minutes: 4

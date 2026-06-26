@@ -1,0 +1,17 @@
+id: liszt-fantasie-uber-motiven-aus-beethovens-ruinen-von-athen
+work:
+  composer: Liszt, Franz
+  title: Fantasie über Motiven aus Beethovens Ruinen von Athen
+  ids:
+    imslp: Fantasie über Motive aus Beethovens Ruinen von Athen, S.122 (Liszt, Franz)
+  year: 1852
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasie_%C3%BCber_Motive_aus_Beethovens_Ruinen_von_Athen%2C_S.122_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano, orchestra'
+duration_minutes: 12

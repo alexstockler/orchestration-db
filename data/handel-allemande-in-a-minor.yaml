@@ -1,0 +1,15 @@
+id: handel-allemande-in-a-minor
+work:
+  composer: Handel, George Frideric
+  title: Allemande in A minor
+  ids:
+    imslp: Allemande in A minor, HWV 478 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allemande_in_A_minor%2C_HWV_478_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

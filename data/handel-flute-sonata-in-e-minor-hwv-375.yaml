@@ -1,0 +1,15 @@
+id: handel-flute-sonata-in-e-minor-hwv-375
+work:
+  composer: Handel, George Frideric
+  title: Flute Sonata in E minor, HWV 375
+  ids:
+    imslp: Flute Sonata in E minor, HWV 375 (Handel, George Frideric)
+  year: 1879
+formula: ''
+instrumentation:
+  additional_raw: '|Tags=sonatas | fl bc'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flute_Sonata_in_E_minor%2C_HWV_375_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: |Tags=sonatas ; fl bc'

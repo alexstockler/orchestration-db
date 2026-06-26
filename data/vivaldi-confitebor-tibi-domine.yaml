@@ -1,0 +1,21 @@
+id: vivaldi-confitebor-tibi-domine
+work:
+  composer: Vivaldi, Antonio
+  title: Confitebor tibi, Domine
+  ids:
+    imslp: Confitebor tibi, Domine, RV 596 (Vivaldi, Antonio)
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - alto
+  - tenor
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Confitebor_tibi%2C_Domine%2C_RV_596_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: alto, tenor, bass, Orchestra: 2 oboes, strings,
+    continuo'

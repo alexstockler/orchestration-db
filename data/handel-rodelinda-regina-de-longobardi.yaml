@@ -1,0 +1,29 @@
+id: handel-rodelinda-regina-de-longobardi
+work:
+  composer: Handel, George Frideric
+  title: Rodelinda, regina de' Longobardi
+  ids:
+    imslp: Rodelinda, regina de' Longobardi, HWV 19 (Handel, George Frideric)
+  year: 1725
+formula: 1200 2000 str
+instrumentation:
+  flute: 1
+  oboe: 2
+  horn: 2
+  strings: str
+  soloists:
+  - Rodelinda (soprano)
+  - Bertarido (alto-castrato)
+  - Grimoaldo (tenor)
+  - Eduige (alto)
+  - Unulfo (alto-castrato)
+  - Garibaldo (bass)
+  additional_raw: 2 recorders | [bassoon] | continuo (cello, lute, harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rodelinda%2C_regina_de%27_Longobardi%2C_HWV_19_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Rodelinda (soprano), Bertarido (alto-castrato), Grimoaldo
+    (tenor), Eduige (alto), Unulfo (alto-castrato), Garibaldo (bass) Orchestra :2
+    recorders, flute, 2 oboes, [bassoon], 2 horns, strings, continuo (cello, lute,
+    harpsichord)'

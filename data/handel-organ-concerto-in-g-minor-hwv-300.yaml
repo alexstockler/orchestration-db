@@ -1,0 +1,15 @@
+id: handel-organ-concerto-in-g-minor-hwv-300
+work:
+  composer: Handel, George Frideric
+  title: Organ Concerto in G minor, HWV 300
+  ids:
+    imslp: Organ Concerto in G minor, HWV 300 (Handel, George Frideric)
+  year: 1740
+formula: ''
+instrumentation:
+  additional_raw: organ or harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Organ_Concerto_in_G_minor%2C_HWV_300_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: organ or harpsichord'

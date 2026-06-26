@@ -1,0 +1,36 @@
+id: liszt-fantasie-uber-ungarische-volksmelodien
+work:
+  composer: Liszt, Franz
+  title: Fantasie über ungarische Volksmelodien
+  ids:
+    imslp: Fantasie über ungarische Volksmelodien, S.123 (Liszt, Franz)
+  year: 1849
+formula: 3[pic.2.3] 2 2 2 2230 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - bass drum
+  strings: str
+  soloists:
+  - Solo - piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasie_%C3%BCber_ungarische_Volksmelodien%2C_S.123_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano and orchestra :Solo - piano, Orchestra ::piccolo,
+    2 flutes, 2 oboes, 2 clarinets (A), 2 bassoons, 2 horns (E/F), 2 trumpets (E/F),
+    3 trombones, timpani, triangle, cymbals, bass drum, strings'
+duration_minutes: 17

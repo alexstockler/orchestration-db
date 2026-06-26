@@ -1,0 +1,17 @@
+id: liszt-annees-de-pelerinage-ii
+work:
+  composer: Liszt, Franz
+  title: Années de pèlerinage II
+  ids:
+    imslp: Années de pèlerinage II, S.161 (Liszt, Franz)
+  year: 1846
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ann%C3%A9es_de_p%C3%A8lerinage_II%2C_S.161_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 46

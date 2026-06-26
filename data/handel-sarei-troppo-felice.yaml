@@ -1,0 +1,16 @@
+id: handel-sarei-troppo-felice
+work:
+  composer: Handel, George Frideric
+  title: Sarei troppo felice
+  ids:
+    imslp: Sarei troppo felice, HWV 157 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sarei_troppo_felice%2C_HWV_157_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

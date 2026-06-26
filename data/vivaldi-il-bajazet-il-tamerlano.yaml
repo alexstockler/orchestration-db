@@ -1,0 +1,27 @@
+id: vivaldi-il-bajazet-il-tamerlano
+work:
+  composer: Vivaldi, Antonio
+  title: Il Bajazet ; Il Tamerlano
+  ids:
+    imslp: Bajazet/Il Tamerlano, RV 703 (Vivaldi, Antonio)
+formula: 0200 2200 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  trumpet: 2
+  strings: str
+  soloists:
+  - Tamerlano (alto, travesti)
+  - Bajazette (tenor)
+  - Asteria (mezzo soprano)
+  - Andronico (soprano, castrato)
+  - Irene (soprano)
+  - Idaspe (soprano, castrato)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bajazet/Il_Tamerlano%2C_RV_703_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Tamerlano (alto, travesti), Bajazette (tenor), Asteria
+    (mezzo soprano), Andronico (soprano, castrato), Irene (soprano), Idaspe (soprano,
+    castrato) Orchestra :2 oboes, 2 horns, 2 trumpets, strings, continuo'

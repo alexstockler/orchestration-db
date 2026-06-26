@@ -1,0 +1,15 @@
+id: handel-prelude-hwv-566
+work:
+  composer: Handel, George Frideric
+  title: Prelude, HWV 566
+  ids:
+    imslp: Prelude in E major, HWV 566 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude_in_E_major%2C_HWV_566_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Harpsichord'

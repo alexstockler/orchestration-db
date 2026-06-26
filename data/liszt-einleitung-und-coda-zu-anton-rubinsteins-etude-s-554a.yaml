@@ -1,0 +1,16 @@
+id: liszt-einleitung-und-coda-zu-anton-rubinsteins-etude-s-554a
+work:
+  composer: Liszt, Franz
+  title: Einleitung und Coda zu Anton Rubinsteins Etude, S.554a
+  ids:
+    imslp: Einleitung und Coda zu Anton Rubinsteins Etude, S.554a (Liszt, Franz)
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Einleitung_und_Coda_zu_Anton_Rubinsteins_Etude%2C_S.554a_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

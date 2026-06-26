@@ -1,0 +1,22 @@
+id: handel-apollo-e-dafne
+work:
+  composer: Handel, George Frideric
+  title: Apollo e Dafne
+  ids:
+    imslp: Apollo e Dafne, HWV 122 (Handel, George Frideric)
+formula: 1201 0000 str
+instrumentation:
+  flute: 1
+  oboe: 2
+  bassoon: 1
+  strings: str
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo (harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Apollo_e_Dafne%2C_HWV_122_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, bass, Orchestra: flute, 2 oboes, bassoon,
+    strings, continuo (harpsichord)'

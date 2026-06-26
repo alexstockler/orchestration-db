@@ -1,0 +1,16 @@
+id: handel-ne-tuoi-lumi-o-bella-clori
+work:
+  composer: Handel, George Frideric
+  title: Ne' tuoi lumi, o bella Clori
+  ids:
+    imslp: Ne' tuoi lumi, o bella Clori, HWV 133 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ne%27_tuoi_lumi%2C_o_bella_Clori%2C_HWV_133_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

@@ -1,0 +1,18 @@
+id: vivaldi-concerto-in-f-major-rv-97
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto in F major, RV 97
+  ids:
+    imslp: Chamber Concerto in F major, RV 97 (Vivaldi, Antonio)
+  year: 1720
+formula: 0201 2000
+instrumentation:
+  oboe: 2
+  bassoon: 1
+  horn: 2
+  additional_raw: viola d'amore | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chamber_Concerto_in_F_major%2C_RV_97_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: viola d''amore, 2 horns, 2 oboes, bassoon, continuo'

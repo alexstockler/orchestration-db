@@ -1,0 +1,16 @@
+id: handel-nel-dolce-tempo
+work:
+  composer: Handel, George Frideric
+  title: Nel dolce tempo
+  ids:
+    imslp: Nel dolce tempo, HWV 135a (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nel_dolce_tempo%2C_HWV_135a_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

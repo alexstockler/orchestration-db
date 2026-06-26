@@ -1,0 +1,21 @@
+id: handel-echeggiate-festeggiate
+work:
+  composer: Handel, George Frideric
+  title: Echeggiate, festeggiate
+  ids:
+    imslp: Echeggiate, festeggiate, HWV 119 (Handel, George Frideric)
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - 3 sopranos
+  - alto
+  - bass
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Echeggiate%2C_festeggiate%2C_HWV_119_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: 3 sopranos, alto, bass, Orchestra: 2 recorders,
+    2 oboes, strings, continuo'

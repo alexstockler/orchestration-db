@@ -1,0 +1,16 @@
+id: handel-fugue-in-b-minor
+work:
+  composer: Handel, George Frideric
+  title: Fugue in B minor
+  ids:
+    imslp: Fugue in B minor, HWV 608 (Handel, George Frideric)
+  year: 1716
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_B_minor%2C_HWV_608_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

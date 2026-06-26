@@ -1,0 +1,16 @@
+id: liszt-buch-der-lieder-i
+work:
+  composer: Liszt, Franz
+  title: Buch der Lieder I
+  ids:
+    imslp: Buch der Lieder I, S.531 (Liszt, Franz)
+  year: 1843
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Buch_der_Lieder_I%2C_S.531_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

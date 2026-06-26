@@ -1,0 +1,96 @@
+id: strauss-der-burger-als-edelmann
+work:
+  composer: Strauss, Richard
+  title: Der Bürger als Edelmann
+  ids:
+    imslp: Der Bürger als Edelmann, TrV 228b (Strauss, Richard)
+  year: 1912
+formula: 2 2[1.2/Eh] 2 2[1.2/cbn] 2110 tmp pf hp str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon:
+  - {}
+  - doublings:
+    - contrabassoon
+  horn: 2
+  trumpet: 1
+  trombone: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - tambourine
+    - triangle
+    - bass drum
+    - snare drum
+    - glockenspiel
+  keyboards:
+  - instrument: piano
+  harp: 1
+  strings: str
+  soloists:
+  - Monsieur Jourdain
+  - a member of the middle classes
+  - Lucile
+  - his daughter
+  - Cleonte
+  - her suitor
+  - Dorante
+  - soldier of fortune
+  - Mascarille
+  - soldier of fortune
+  - Dorimene
+  - a widow
+  - Nicole
+  - a serving woman of Jourdain's
+  - Covielle
+  - a footman of Cleonte's
+  - A Philosopher
+  - A Fencing-Master
+  - A Dancing-Master
+  - A Music-Master
+  - Nerine
+  - frivolous character
+  - Lucette
+  - frivolous character
+  - Charles
+  - their companion
+  - A Master Tailor
+  - His First Journeyman
+  - 2 Female Singers
+  - A Kitchen Boy
+  - A Mufti
+  - A Notary
+  - First Footman to Jourdain
+  - Second Footman to Jourdain Mixed Chorus (SATB) :Turks
+  - Dervishes
+  - Sylphs
+  - Cooks
+  - Kitchen Boys
+  - Maids
+  - Dancing Characters
+  - Singing Characters
+  - Silent Characters
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_B%C3%BCrger_als_Edelmann%2C_TrV_228b_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Monsieur Jourdain, a member of the middle classes,
+    Lucile, his daughter, Cleonte, her suitor, Dorante, soldier of fortune, Mascarille,
+    soldier of fortune, Dorimene, a widow, Nicole, a serving woman of Jourdain''s,
+    Covielle, a footman of Cleonte''s, A Philosopher, A Fencing-Master, A Dancing-Master,
+    A Music-Master, Nerine, frivolous character, Lucette, frivolous character, Charles,
+    their companion, A Master Tailor, His First Journeyman, 2 Female Singers, A Kitchen
+    Boy, A Mufti, A Notary, First Footman to Jourdain, Second Footman to Jourdain
+    Mixed Chorus (SATB) :Turks, Dervishes, Sylphs, Cooks, Kitchen Boys, Maids,, Dancing
+    Characters, Singing Characters, Silent Characters Orchestra :2 flutes (both also
+    piccolos), 2 oboes (2nd also English horn), ::2 clarinets, 2 bassoons (2nd also
+    contrabassoon) :2 horns, trumpet, trombone, timpani, cymbals, tambourine, triangle,
+    bass drum, snare drum, glockenspiel, piano, harp, strings (6 violins, 4 violas,
+    4 cellos, 2 basses)'
+duration_minutes: 65

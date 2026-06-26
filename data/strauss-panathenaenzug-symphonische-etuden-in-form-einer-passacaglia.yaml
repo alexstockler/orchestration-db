@@ -1,0 +1,15 @@
+id: strauss-panathenaenzug-symphonische-etuden-in-form-einer-passacaglia
+work:
+  composer: Strauss, Richard
+  title: Panathenäenzug, ‘symphonische Etüden in Form einer Passacaglia’
+  ids:
+    imslp: Panathenäenzug, Op.74 (Strauss, Richard)
+  year: 1927
+formula: ''
+instrumentation:
+  additional_raw: Piano (left hand) and Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Panathen%C3%A4enzug%2C_Op.74_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (left hand) and Orchestra'

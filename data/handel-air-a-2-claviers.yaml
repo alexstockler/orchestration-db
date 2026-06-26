@@ -1,0 +1,16 @@
+id: handel-air-a-2-claviers
+work:
+  composer: Handel, George Frideric
+  title: Air à 2 Claviers
+  ids:
+    imslp: Air à 2 Claviers, HWV 470 (Handel, George Frideric)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  additional_raw: 2-manual harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Air_%C3%A0_2_Claviers%2C_HWV_470_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 2-manual harpsichord, organ'

@@ -1,0 +1,16 @@
+id: liszt-galop-in-a-minor
+work:
+  composer: Liszt, Franz
+  title: Galop in A minor
+  ids:
+    imslp: Galop in A minor, S.218 (Liszt, Franz)
+  year: 1846
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Galop_in_A_minor%2C_S.218_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

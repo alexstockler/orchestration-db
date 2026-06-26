@@ -1,0 +1,30 @@
+id: handel-partenope
+work:
+  composer: Handel, George Frideric
+  title: Partenope
+  ids:
+    imslp: Partenope, HWV 27 (Handel, George Frideric)
+  year: 1730
+formula: 2200 2100 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  horn: 2
+  trumpet: 1
+  strings: str
+  soloists:
+  - Partenope (soprano)
+  - Arsace (alto castrato)
+  - Rosmira (contralto)
+  - Armindo (contralto)
+  - Emilio (tenor)
+  - Ormonte (bass)
+  additional_raw: '[bassoon] | continuo (cello, lute, harpsichord)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Partenope%2C_HWV_27_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Partenope (soprano), Arsace (alto castrato), Rosmira
+    (contralto), Armindo (contralto), Emilio (tenor), Ormonte (bass) Orchestra :2
+    flutes, 2 oboes, [bassoon], 2 horns, trumpet, strings, continuo (cello, lute,
+    harpsichord)'

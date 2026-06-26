@@ -1,0 +1,18 @@
+id: liszt-es-war-ein-konig-in-thule
+work:
+  composer: Liszt, Franz
+  title: Es war ein König in Thule
+  ids:
+    imslp: Es war ein König in Thule, S.278 (Liszt, Franz)
+  year: 1842
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_war_ein_K%C3%B6nig_in_Thule%2C_S.278_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

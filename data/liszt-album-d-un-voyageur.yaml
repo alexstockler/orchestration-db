@@ -1,0 +1,17 @@
+id: liszt-album-d-un-voyageur
+work:
+  composer: Liszt, Franz
+  title: Album d'un voyageur
+  ids:
+    imslp: Album d'un voyageur, S.156 (Liszt, Franz)
+  year: 1837
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album_d%27un_voyageur%2C_S.156_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'
+duration_minutes: 115

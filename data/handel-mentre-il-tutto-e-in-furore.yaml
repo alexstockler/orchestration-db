@@ -1,0 +1,16 @@
+id: handel-mentre-il-tutto-e-in-furore
+work:
+  composer: Handel, George Frideric
+  title: Mentre il tutto è in furore
+  ids:
+    imslp: Mentre il tutto è in furore, HWV 130 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mentre_il_tutto_%C3%A8_in_furore%2C_HWV_130_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

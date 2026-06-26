@@ -1,0 +1,15 @@
+id: vivaldi-teuzzone
+work:
+  composer: Vivaldi, Antonio
+  title: Teuzzone
+  ids:
+    imslp: Teuzzone, RV 736 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - 8 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Teuzzone%2C_RV_736_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 8 voices, orchestra'

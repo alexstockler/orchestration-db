@@ -1,0 +1,29 @@
+id: strauss-sonatine-no-2
+work:
+  composer: Strauss, Richard
+  title: Sonatine No.2
+  ids:
+    imslp: Sonatine No.2, TrV 291 (Strauss, Richard)
+  year: 1944
+formula: 2 2 5[1.2.3.bhn.bcl] 3[1.2.cbn] 4000
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: basset_horn
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonatine_No.2%2C_TrV_291_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, clarinet (C), 2 clarinets, basset horn,,
+    bass clarinet, 2 bassoons, contrabassoon, 4 horns'
+duration_minutes: 38

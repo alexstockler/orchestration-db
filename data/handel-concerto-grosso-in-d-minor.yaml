@@ -1,0 +1,18 @@
+id: handel-concerto-grosso-in-d-minor
+work:
+  composer: Handel, George Frideric
+  title: Concerto Grosso in D minor
+  ids:
+    imslp: Concerto Grosso in D minor, HWV 316 (Handel, George Frideric)
+  year: 1715
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_Grosso_in_D_minor%2C_HWV_316_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'
+duration_minutes: 11

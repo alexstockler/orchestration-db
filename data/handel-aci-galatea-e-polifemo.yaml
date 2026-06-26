@@ -1,0 +1,19 @@
+id: handel-aci-galatea-e-polifemo
+work:
+  composer: Handel, George Frideric
+  title: Aci, Galatea e Polifemo
+  ids:
+    imslp: Aci, Galatea e Polifemo, HWV 72 (Handel, George Frideric)
+  year: 1708
+formula: 1200 0200
+instrumentation:
+  flute: 1
+  oboe: 2
+  trumpet: 2
+  additional_raw: 2 violins | viola | 2 cellos | continuo (harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aci%2C_Galatea_e_Polifemo%2C_HWV_72_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, 2 oboes, 2 trumpets, 2 violins, viola, 2 cellos,
+    continuo (harpsichord)'

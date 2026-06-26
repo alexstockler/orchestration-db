@@ -1,0 +1,15 @@
+id: vivaldi-il-pastor-fido
+work:
+  composer: Vivaldi, Antonio
+  title: Il pastor fido
+  ids:
+    imslp: Il pastor fido, Op.13 (Vivaldi, Antonio)
+  year: 1737
+formula: ''
+instrumentation:
+  additional_raw: musette (or vielle, recorder, flute, oboe, violin) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_pastor_fido%2C_Op.13_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: musette (or vielle, recorder, flute, oboe, violin), continuo'

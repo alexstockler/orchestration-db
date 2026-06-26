@@ -1,0 +1,16 @@
+id: vivaldi-orlando-finto-pazzo
+work:
+  composer: Vivaldi, Antonio
+  title: Orlando finto pazzo
+  ids:
+    imslp: Orlando finto pazzo, RV 727 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Orlando_finto_pazzo%2C_RV_727_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

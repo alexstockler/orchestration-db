@@ -1,0 +1,16 @@
+id: liszt-harmonies-poetiques-et-religieuses
+work:
+  composer: Liszt, Franz
+  title: Harmonies poétiques et religieuses
+  ids:
+    imslp: Harmonies poétiques et religieuses I, S.154 (Liszt, Franz)
+  year: 1833
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Harmonies_po%C3%A9tiques_et_religieuses_I%2C_S.154_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

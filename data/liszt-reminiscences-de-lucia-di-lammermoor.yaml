@@ -1,0 +1,16 @@
+id: liszt-reminiscences-de-lucia-di-lammermoor
+work:
+  composer: Liszt, Franz
+  title: Réminiscences de 'Lucia di Lammermoor'
+  ids:
+    imslp: Réminiscences de Lucia di Lammermoor, S.397 (Liszt, Franz)
+  year: 1835
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/R%C3%A9miniscences_de_Lucia_di_Lammermoor%2C_S.397_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,18 @@
+id: handel-ah-crudel-nel-pianto-mio
+work:
+  composer: Handel, George Frideric
+  title: Ah, crudel! nel pianto mio
+  ids:
+    imslp: Ah, crudel! nel pianto mio, HWV 78 (Handel, George Frideric)
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ah%2C_crudel%21_nel_pianto_mio%2C_HWV_78_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 2 oboes, strings, continuo'

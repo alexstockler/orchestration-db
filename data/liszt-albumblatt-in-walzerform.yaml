@@ -1,0 +1,17 @@
+id: liszt-albumblatt-in-walzerform
+work:
+  composer: Liszt, Franz
+  title: Albumblatt in Walzerform
+  ids:
+    imslp: Albumblatt in Walzerform, S.166 (Liszt, Franz)
+  year: 1842
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Albumblatt_in_Walzerform%2C_S.166_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'
+duration_minutes: 1

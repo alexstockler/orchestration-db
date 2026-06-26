@@ -1,0 +1,17 @@
+id: vivaldi-longe-mala-umbrae-terrores
+work:
+  composer: Vivaldi, Antonio
+  title: Longe mala, umbrae, terrores
+  ids:
+    imslp: Longe mala, umbrae, terrores, RV 629 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Longe_mala%2C_umbrae%2C_terrores%2C_RV_629_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, strings, continuo'

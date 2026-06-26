@@ -1,0 +1,18 @@
+id: vivaldi-la-farfalletta-s-aggira
+work:
+  composer: Vivaldi, Antonio
+  title: La farfalletta s'aggira
+  ids:
+    imslp: La farfalletta s'aggira, RV 660 (Vivaldi, Antonio)
+  year: 1731
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_farfalletta_s%27aggira%2C_RV_660_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'
+duration_minutes: 12

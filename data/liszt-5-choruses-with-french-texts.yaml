@@ -1,0 +1,16 @@
+id: liszt-5-choruses-with-french-texts
+work:
+  composer: Liszt, Franz
+  title: 5 Choruses with French texts
+  ids:
+    imslp: 5 Choruses with French texts, S.18 (Liszt, Franz)
+  year: 1846
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: unaccompanied
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Choruses_with_French_texts%2C_S.18_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Chorus (SATB), unaccompanied'

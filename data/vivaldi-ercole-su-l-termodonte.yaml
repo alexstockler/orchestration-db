@@ -1,0 +1,16 @@
+id: vivaldi-ercole-su-l-termodonte
+work:
+  composer: Vivaldi, Antonio
+  title: Ercole su 'l Termodonte
+  ids:
+    imslp: Ercole su 'l Termodonte, RV 710 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - 8 voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ercole_su_%27l_Termodonte%2C_RV_710_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 8 voices, mixed chorus (SATB), orchestra'

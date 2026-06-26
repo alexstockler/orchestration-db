@@ -1,0 +1,18 @@
+id: handel-floridante
+work:
+  composer: Handel, George Frideric
+  title: Floridante
+  ids:
+    imslp: Floridante, HWV 14 (Handel, George Frideric)
+  year: 1721
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - altos
+  additional_raw: 2 basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Floridante%2C_HWV_14_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, 2 altos, 2 basses, orchestra'

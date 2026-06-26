@@ -1,0 +1,17 @@
+id: liszt-resignazione
+work:
+  composer: Liszt, Franz
+  title: Resignazione
+  ids:
+    imslp: Resignazione, S.187a/b (Liszt, Franz)
+  year: 1877
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Resignazione%2C_S.187a/b_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 2

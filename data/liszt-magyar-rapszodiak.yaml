@@ -1,0 +1,16 @@
+id: liszt-magyar-rapszodiak
+work:
+  composer: Liszt, Franz
+  title: Magyar rapszódiák
+  ids:
+    imslp: Magyar rapszódiák, S.242 (Liszt, Franz)
+  year: 1846
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Magyar_rapsz%C3%B3di%C3%A1k%2C_S.242_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

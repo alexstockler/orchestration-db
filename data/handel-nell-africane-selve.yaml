@@ -1,0 +1,15 @@
+id: handel-nell-africane-selve
+work:
+  composer: Handel, George Frideric
+  title: Nell'africane selve
+  ids:
+    imslp: Nell'africane selve, HWV 136 (Handel, George Frideric)
+  year: 1708
+formula: ''
+instrumentation:
+  additional_raw: Bass Voice | Continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nell%27africane_selve%2C_HWV_136_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Bass Voice, Continuo'

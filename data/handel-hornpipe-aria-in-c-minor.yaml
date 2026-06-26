@@ -1,0 +1,14 @@
+id: handel-hornpipe-aria-in-c-minor
+work:
+  composer: Handel, George Frideric
+  title: Hornpipe aria in C minor
+  ids:
+    imslp: Hornpipe Aria in C minor, HWV 355 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hornpipe_Aria_in_C_minor%2C_HWV_355_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, basses'

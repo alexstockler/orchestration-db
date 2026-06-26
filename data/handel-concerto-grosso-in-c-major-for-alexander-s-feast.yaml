@@ -1,0 +1,17 @@
+id: handel-concerto-grosso-in-c-major-for-alexander-s-feast
+work:
+  composer: Handel, George Frideric
+  title: Concerto Grosso in C major for Alexander's Feast
+  ids:
+    imslp: Concerto Grosso in C major, HWV 318 (Handel, George Frideric)
+  year: 1736
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_Grosso_in_C_major%2C_HWV_318_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'

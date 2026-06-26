@@ -1,0 +1,15 @@
+id: vivaldi-trio-sonata-in-d-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Trio Sonata in D minor
+  ids:
+    imslp: Trio Sonata in D minor, RV 63 (Vivaldi, Antonio)
+  year: 1705
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_D_minor%2C_RV_63_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, continuo'

@@ -1,0 +1,16 @@
+id: liszt-hungarian-rhapsody-no-15
+work:
+  composer: Liszt, Franz
+  title: Hungarian Rhapsody No.15
+  ids:
+    imslp: Hungarian Rhapsody No.15, S.244/15 (Liszt, Franz)
+  year: 1851
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hungarian_Rhapsody_No.15%2C_S.244/15_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

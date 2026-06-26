@@ -1,0 +1,16 @@
+id: liszt-rondeau-fantastique-sur-un-theme-espagnol
+work:
+  composer: Liszt, Franz
+  title: Rondeau fantastique sur un thème espagnol
+  ids:
+    imslp: Rondeau fantastique sur un thème espagnol, S.252 (Liszt, Franz)
+  year: 1836
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rondeau_fantastique_sur_un_th%C3%A8me_espagnol%2C_S.252_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

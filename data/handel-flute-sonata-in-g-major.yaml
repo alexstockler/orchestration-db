@@ -1,0 +1,16 @@
+id: handel-flute-sonata-in-g-major
+work:
+  composer: Handel, George Frideric
+  title: Flute Sonata in G major
+  ids:
+    imslp: Flute Sonata in G major, HWV 363b (Handel, George Frideric)
+  year: 1727
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flute_Sonata_in_G_major%2C_HWV_363b_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, continuo'

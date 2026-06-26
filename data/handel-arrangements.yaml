@@ -1,0 +1,14 @@
+id: handel-arrangements
+work:
+  composer: Handel, George Frideric
+  title: Arrangements
+  ids:
+    imslp: Arrangements, HWV 456 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Arrangements%2C_HWV_456_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

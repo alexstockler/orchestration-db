@@ -1,0 +1,18 @@
+id: vivaldi-concerto-for-flute-oboe-bassoon-and-strings-in-f-major
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for Flute, Oboe, Bassoon and Strings in F major
+  ids:
+    imslp: Concerto grosso in F major, RV 570 (Vivaldi, Antonio)
+formula: 1101 0000 str
+instrumentation:
+  flute: 1
+  oboe: 1
+  bassoon: 1
+  strings: str
+  additional_raw: violin | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_grosso_in_F_major%2C_RV_570_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, violin, oboe, bassoon, strings, continuo'

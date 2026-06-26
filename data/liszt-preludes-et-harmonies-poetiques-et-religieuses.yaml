@@ -1,0 +1,16 @@
+id: liszt-preludes-et-harmonies-poetiques-et-religieuses
+work:
+  composer: Liszt, Franz
+  title: Préludes et Harmonies poétiques et religieuses
+  ids:
+    imslp: Préludes et Harmonies poétiques et religieuses, S.171d (Liszt, Franz)
+  year: 1845
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pr%C3%A9ludes_et_Harmonies_po%C3%A9tiques_et_religieuses%2C_S.171d_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

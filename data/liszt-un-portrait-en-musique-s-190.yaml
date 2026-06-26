@@ -1,0 +1,16 @@
+id: liszt-un-portrait-en-musique-s-190
+work:
+  composer: Liszt, Franz
+  title: Un portrait en musique, S.190
+  ids:
+    imslp: Un portrait en musique, S.190 (Liszt, Franz)
+  year: 1835
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Un_portrait_en_musique%2C_S.190_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

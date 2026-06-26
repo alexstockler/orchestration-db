@@ -1,0 +1,18 @@
+id: strauss-duett-concertino
+work:
+  composer: Strauss, Richard
+  title: Duett-Concertino
+  ids:
+    imslp: Duett-Concertino, TrV 293 (Strauss, Richard)
+  year: 1947
+formula: 0011 0000 hp str
+instrumentation:
+  clarinet: 1
+  bassoon: 1
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Duett-Concertino%2C_TrV_293_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, bassoon, harp, strings'

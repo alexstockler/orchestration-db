@@ -1,0 +1,17 @@
+id: vivaldi-concerto-for-2-oboes-in-a-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for 2 Oboes in A minor
+  ids:
+    imslp: Concerto for 2 Oboes in A minor, RV 536 (Vivaldi, Antonio)
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Oboes_in_A_minor%2C_RV_536_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'
+duration_minutes: 8

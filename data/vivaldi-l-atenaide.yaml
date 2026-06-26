@@ -1,0 +1,28 @@
+id: vivaldi-l-atenaide
+work:
+  composer: Vivaldi, Antonio
+  title: L'Atenaide
+  ids:
+    imslp: L'Atenaide, RV 702 (Vivaldi, Antonio)
+formula: 2100 0000 str
+instrumentation:
+  flute: 2
+  oboe: 1
+  strings: str
+  soloists:
+  - 7 voices
+  - 'orchestra According to Turin manuscript: :Cast ::Teodosio (S)'
+  - Eudosa/Atenaide (S)
+  - Pulcheria (A)
+  - Varane (A)
+  - Leontino (T)
+  - Marziano (A)
+  - 'Probo (T) :'
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27Atenaide%2C_RV_702_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 7 voices, orchestra According to Turin manuscript: :Cast
+    ::Teodosio (S), Eudosa/Atenaide (S), Pulcheria (A), Varane (A), Leontino (T),
+    Marziano (A), Probo (T) :Orchestra ::2 flutes, (2?) oboes, strings, continuo'

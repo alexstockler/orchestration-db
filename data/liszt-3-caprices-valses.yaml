@@ -1,0 +1,16 @@
+id: liszt-3-caprices-valses
+work:
+  composer: Liszt, Franz
+  title: 3 Caprices-Valses
+  ids:
+    imslp: 3 Caprices-Valses, S.214 (Liszt, Franz)
+  year: 1850
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Caprices-Valses%2C_S.214_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

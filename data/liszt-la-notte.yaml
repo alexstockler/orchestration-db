@@ -1,0 +1,14 @@
+id: liszt-la-notte
+work:
+  composer: Liszt, Franz
+  title: La notte
+  ids:
+    imslp: La notte, S.112/2 (Liszt, Franz)
+  year: 1860
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_notte%2C_S.112/2_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra'

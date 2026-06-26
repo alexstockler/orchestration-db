@@ -1,0 +1,18 @@
+id: handel-alceste
+work:
+  composer: Handel, George Frideric
+  title: Alceste
+  ids:
+    imslp: Alceste, HWV 45 (Handel, George Frideric)
+  year: 1749
+formula: 0200 0200 str
+instrumentation:
+  oboe: 2
+  trumpet: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alceste%2C_HWV_45_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 trumpets, strings, continuo'

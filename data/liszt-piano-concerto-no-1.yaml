@@ -1,0 +1,32 @@
+id: liszt-piano-concerto-no-1
+work:
+  composer: Liszt, Franz
+  title: Piano Concerto No.1
+  ids:
+    imslp: Piano Concerto No.1, S.124 (Liszt, Franz)
+  year: 1835
+formula: 3[pic.2.3] 2 2 2 2230 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Concerto_No.1%2C_S.124_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2
+    horns, 2 trumpets, 3 trombones, timpani, triangle, cymbals, strings'
+duration_minutes: 22

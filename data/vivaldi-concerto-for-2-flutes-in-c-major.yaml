@@ -1,0 +1,16 @@
+id: vivaldi-concerto-for-2-flutes-in-c-major
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for 2 Flutes in C major
+  ids:
+    imslp: Concerto for 2 Flutes in C major, RV 533 (Vivaldi, Antonio)
+formula: 2000 0000 str
+instrumentation:
+  flute: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Flutes_in_C_major%2C_RV_533_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, strings, continuo'

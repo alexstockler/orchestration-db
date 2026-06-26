@@ -1,0 +1,15 @@
+id: liszt-o-roma-nobilis
+work:
+  composer: Liszt, Franz
+  title: O Roma nobilis
+  ids:
+    imslp: O Roma nobilis, S.54 (Liszt, Franz)
+  year: 1879
+formula: ''
+instrumentation:
+  additional_raw: Mixed Chorus and Organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_Roma_nobilis%2C_S.54_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed Chorus and Organ'

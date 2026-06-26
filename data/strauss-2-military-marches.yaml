@@ -1,0 +1,55 @@
+id: strauss-2-military-marches
+work:
+  composer: Strauss, Richard
+  title: 2 Military Marches
+  ids:
+    imslp: 2 Militärmärsche, Op.57 (Strauss, Richard)
+  year: 1906
+formula: 9[pic.2.3.pic.pic.6.7.8.9] 4 7[Ebcl.2.3.4.5.6.7] 4 10[1.2.3.4.5.6.7.8.9.10]
+  6 6 0 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  - instrument: piccolo
+  - instrument: piccolo
+  - {}
+  - {}
+  - {}
+  - {}
+  oboe: 4
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  bassoon: 4
+  horn: 10
+  trumpet: 6
+  trombone: 6
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drum
+    - bass drum
+    - cymbals
+    - triangle
+    - glockenspiel
+    - snare drums
+    - tenor drums
+  strings: str
+  additional_raw: bass tuba
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Milit%C3%A4rm%C3%A4rsche%2C_Op.57_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra (No.1) :piccolo, 2 flutes, 2 oboes, clarinet
+    (E), 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, snare
+    drum, bass drum, cymbals, triangle, glockenspiel, strings , Orchestra (No.2) :2
+    piccolos, 4 flutes, 2 oboes, 2 clarinets (E), 2 clarinets, 2 bassoons, 6 horns,
+    4 trumpets, 3 trombones, bass tuba, timpani, 2 snare drums, 2 tenor drums, bass
+    drum, cymbals, glockenspiel, strings'

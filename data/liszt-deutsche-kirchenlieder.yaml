@@ -1,0 +1,18 @@
+id: liszt-deutsche-kirchenlieder
+work:
+  composer: Liszt, Franz
+  title: Deutsche Kirchenlieder
+  ids:
+    imslp: Deutsche Kirchenlieder, S.669a (Liszt, Franz)
+  year: 1878
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+  additional_raw: Solo Voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Deutsche_Kirchenlieder%2C_S.669a_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo Voice, Mixed Chorus, Organ (+ Piano ad lib.)'

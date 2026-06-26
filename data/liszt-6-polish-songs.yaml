@@ -1,0 +1,16 @@
+id: liszt-6-polish-songs
+work:
+  composer: Liszt, Franz
+  title: 6 Polish Songs
+  ids:
+    imslp: 6 Polish Songs, S.480 (Liszt, Franz)
+  year: 1857
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Polish_Songs%2C_S.480_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

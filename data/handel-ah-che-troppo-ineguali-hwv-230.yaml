@@ -1,0 +1,17 @@
+id: handel-ah-che-troppo-ineguali-hwv-230
+work:
+  composer: Handel, George Frideric
+  title: Ah! che troppo ineguali, HWV 230
+  ids:
+    imslp: Ah! che troppo ineguali, HWV 230 (Handel, George Frideric)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ah%21_che_troppo_ineguali%2C_HWV_230_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Soprano, strings, continuo'

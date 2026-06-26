@@ -1,0 +1,16 @@
+id: liszt-stabat-mater-s-172b
+work:
+  composer: Liszt, Franz
+  title: Stabat Mater, S.172b
+  ids:
+    imslp: Stabat Mater, S.172b (Liszt, Franz)
+  year: 1847
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Stabat_Mater%2C_S.172b_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

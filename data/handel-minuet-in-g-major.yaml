@@ -1,0 +1,17 @@
+id: handel-minuet-in-g-major
+work:
+  composer: Handel, George Frideric
+  title: Minuet in G major
+  ids:
+    imslp: Minuet in G major, HWV 422 (Handel, George Frideric)
+formula: 0200 2000
+instrumentation:
+  oboe: 2
+  horn: 2
+  soloists:
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Minuet_in_G_major%2C_HWV_422_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 horns, bass (bassoon)'

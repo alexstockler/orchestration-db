@@ -1,0 +1,16 @@
+id: liszt-landler-in-d-major
+work:
+  composer: Liszt, Franz
+  title: Ländler in D major
+  ids:
+    imslp: Ländler in D major, S.211a (Liszt, Franz)
+  year: 1879
+formula: ''
+instrumentation:
+  additional_raw: Solo piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%C3%A4ndler_in_D_major%2C_S.211a_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo piano'
+duration_minutes: 2

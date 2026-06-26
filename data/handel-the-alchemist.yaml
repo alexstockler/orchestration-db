@@ -1,0 +1,16 @@
+id: handel-the-alchemist
+work:
+  composer: Handel, George Frideric
+  title: The Alchemist
+  ids:
+    imslp: The Alchemist, HWV 43 (Handel, George Frideric)
+  year: 1707
+formula: 0200 0000
+instrumentation:
+  oboe: 2
+  additional_raw: 2 violins | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Alchemist%2C_HWV_43_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 violins, continuo'

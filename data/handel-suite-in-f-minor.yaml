@@ -1,0 +1,16 @@
+id: handel-suite-in-f-minor
+work:
+  composer: Handel, George Frideric
+  title: Suite in F minor
+  ids:
+    imslp: Suite in F minor, HWV 433 (Handel, George Frideric)
+  year: 1720
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_in_F_minor%2C_HWV_433_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

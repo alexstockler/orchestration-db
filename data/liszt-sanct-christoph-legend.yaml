@@ -1,0 +1,22 @@
+id: liszt-sanct-christoph-legend
+work:
+  composer: Liszt, Franz
+  title: Sanct Christoph Legend
+  ids:
+    imslp: Sankt Christoph, S.47 (Liszt, Franz)
+  year: 1881
+formula: pf org hp
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: organ
+  harp: 1
+  soloists:
+  - baritone
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sankt_Christoph%2C_S.47_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: baritone, female chorus (SSA), piano, organ (or harmonium),
+    harp (ad lib.)'

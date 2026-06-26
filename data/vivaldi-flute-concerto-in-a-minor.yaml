@@ -1,0 +1,16 @@
+id: vivaldi-flute-concerto-in-a-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Flute Concerto in A minor
+  ids:
+    imslp: Flute Concerto in A minor, RV 440 (Vivaldi, Antonio)
+formula: 1000 0000 str
+instrumentation:
+  flute: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flute_Concerto_in_A_minor%2C_RV_440_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, strings, continuo'

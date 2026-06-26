@@ -1,0 +1,16 @@
+id: liszt-in-festo-transfigurationis-domini-nostri-jesu-christi
+work:
+  composer: Liszt, Franz
+  title: In festo transfigurationis Domini nostri Jesu Christi
+  ids:
+    imslp: In festo transfigurationis Domini nostri Jesu Christi, S.188 (Liszt, Franz)
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_festo_transfigurationis_Domini_nostri_Jesu_Christi%2C_S.188_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

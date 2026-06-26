@@ -1,0 +1,16 @@
+id: liszt-a-magyarok-istene
+work:
+  composer: Liszt, Franz
+  title: A Magyarok Istene
+  ids:
+    imslp: A magyarok Istene, S.339 (Liszt, Franz)
+  year: 1881
+formula: ''
+instrumentation:
+  additional_raw: Baritone voice (with Male Chorus, ad lib,) and Piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_magyarok_Istene%2C_S.339_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Baritone voice (with Male Chorus, ad lib,) and Piano'
+duration_minutes: 4

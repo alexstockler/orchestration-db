@@ -1,0 +1,33 @@
+id: liszt-orpheus
+work:
+  composer: Liszt, Franz
+  title: Orpheus
+  ids:
+    imslp: Orpheus, S.98 (Liszt, Franz)
+  year: 1853
+formula: 3[pic.2.3] 3[1.2.Eh] 2 2 4231 tmp 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  harp: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Orpheus%2C_S.98_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets,
+    2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani, 2 harps, strings'

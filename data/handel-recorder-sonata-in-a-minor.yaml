@@ -1,0 +1,15 @@
+id: handel-recorder-sonata-in-a-minor
+work:
+  composer: Handel, George Frideric
+  title: Recorder Sonata in A minor
+  ids:
+    imslp: Recorder Sonata in A minor, HWV 362 (Handel, George Frideric)
+  year: 1727
+formula: ''
+instrumentation:
+  additional_raw: recorder | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Recorder_Sonata_in_A_minor%2C_HWV_362_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: recorder, continuo'

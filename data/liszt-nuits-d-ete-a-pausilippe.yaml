@@ -1,0 +1,16 @@
+id: liszt-nuits-d-ete-a-pausilippe
+work:
+  composer: Liszt, Franz
+  title: Nuits d'été à Pausilippe
+  ids:
+    imslp: Nuits d'été à Pausilippe, S.399 (Liszt, Franz)
+  year: 1838
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nuits_d%27%C3%A9t%C3%A9_%C3%A0_Pausilippe%2C_S.399_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

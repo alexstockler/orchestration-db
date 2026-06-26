@@ -1,0 +1,15 @@
+id: strauss-symphony-no-1-trv-94
+work:
+  composer: Strauss, Richard
+  title: Symphony No.1, TrV 94
+  ids:
+    imslp: Symphony No.1, TrV 94 (Strauss, Richard)
+  year: 1880
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.1%2C_TrV_94_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'
+duration_minutes: 34

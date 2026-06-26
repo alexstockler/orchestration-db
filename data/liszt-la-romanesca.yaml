@@ -1,0 +1,16 @@
+id: liszt-la-romanesca
+work:
+  composer: Liszt, Franz
+  title: La romanesca
+  ids:
+    imslp: La romanesca, S.252a/b (Liszt, Franz)
+  year: 1839
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_romanesca%2C_S.252a/b_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

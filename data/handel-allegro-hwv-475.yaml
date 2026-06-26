@@ -1,0 +1,15 @@
+id: handel-allegro-hwv-475
+work:
+  composer: Handel, George Frideric
+  title: Allegro, HWV 475
+  ids:
+    imslp: Allegro in D minor, HWV 475 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegro_in_D_minor%2C_HWV_475_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

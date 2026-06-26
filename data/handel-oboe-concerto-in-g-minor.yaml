@@ -1,0 +1,17 @@
+id: handel-oboe-concerto-in-g-minor
+work:
+  composer: Handel, George Frideric
+  title: Oboe Concerto in G minor
+  ids:
+    imslp: Oboe Concerto in G minor, HWV 287 (Handel, George Frideric)
+  year: 1704
+formula: 0100 0000 str
+instrumentation:
+  oboe: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oboe_Concerto_in_G_minor%2C_HWV_287_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, strings, continuo'

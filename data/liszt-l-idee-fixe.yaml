@@ -1,0 +1,16 @@
+id: liszt-l-idee-fixe
+work:
+  composer: Liszt, Franz
+  title: L'idée fixe
+  ids:
+    imslp: L'idée fixe, S.470a/1 (Liszt, Franz)
+  year: 1833
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27id%C3%A9e_fixe%2C_S.470a/1_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

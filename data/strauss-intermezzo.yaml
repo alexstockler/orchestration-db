@@ -1,0 +1,82 @@
+id: strauss-intermezzo
+work:
+  composer: Strauss, Richard
+  title: Intermezzo
+  ids:
+    imslp: Intermezzo, Op.72 (Strauss, Richard)
+  year: 1919
+formula: 2[1.2/pic] 2[1.2/Eh] 2[1.2/bcl] 2 3220 tmp pf harm hp
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet:
+  - {}
+  - doublings:
+    - bass_clarinet
+  bassoon: 2
+  horn: 3
+  trumpet: 2
+  trombone: 2
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: piano
+  - instrument: harmonium
+  harp: 1
+  soloists:
+  - Robert Storch
+  - 'a conductor and composer: (baritone)'
+  - Christine Storch
+  - 'Robert''s wife: (soprano)'
+  - Anna
+  - 'the chambermaid of the Storches: (soprano)'
+  - 'Baron Lummer: (tenor)'
+  - Resi
+  - 'a young girl: soprano'
+  - 'The notary: (baritone)'
+  - 'The notary''s wife: (soprano)'
+  - Stroh
+  - another conductor
+  - 'and skat partner of Storch: (tenor)'
+  - A commercial counselor
+  - 'and skat partner: (baritone)'
+  - A legal counsellor
+  - 'and skat partner: (baritone)'
+  - A singer
+  - 'and skat partner: (bass)'
+  - Franzl
+  - 'the Storch''s son: (boy, spoken)'
+  - Fanny
+  - 'the Storch''s cook: (spoken)'
+  - Marie and Therese
+  - 'maids: (spoken)'
+  - Young girl
+  - Chambermaid
+  - Housemaid (silent roles)
+  additional_raw: 'percussion: | (cymbals (crash and suspended), snare drum, triangle,
+    bass drum, sleigh bells) | strings (11,9,5,5,3) :(Note: 2nd bassoon must play
+    low A in Act 2)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Intermezzo%2C_Op.72_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Robert Storch, a conductor and composer: (baritone),
+    Christine Storch, Robert''s wife: (soprano), Anna, the chambermaid of the Storches:
+    (soprano), Baron Lummer: (tenor), Resi, a young girl: soprano, The notary: (baritone),
+    The notary''s wife: (soprano), Stroh, another conductor, and skat partner of Storch:
+    (tenor), A commercial counselor, and skat partner: (baritone), A legal counsellor,
+    and skat partner: (baritone), A singer, and skat partner: (bass), Franzl, the
+    Storch''s son: (boy, spoken), Fanny, the Storch''s cook: (spoken), Marie and Therese,
+    maids: (spoken), Young girl, Chambermaid, Housemaid (silent roles) Orchestra :2
+    flutes (2nd also piccolo), 2 oboes (2nd also English horn), ::2 clarinets (2nd
+    also bass clarinet), 2 bassoons (see note at bottom of instrumentation) :3 horns,
+    2 trumpets, 2 trombones :timpani, percussion: ::(cymbals (crash and suspended),
+    snare drum, triangle, bass drum, sleigh bells) :piano, harmonium, harp, strings
+    (11,9,5,5,3) :(Note: 2nd bassoon must play low A in Act 2)'
+duration_minutes: 120

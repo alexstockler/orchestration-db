@@ -1,0 +1,16 @@
+id: liszt-2-lieder-von-robert-schumann
+work:
+  composer: Liszt, Franz
+  title: 2 Lieder von Robert Schumann
+  ids:
+    imslp: 2 Lieder von Robert Schumann, S.567 (Liszt, Franz)
+  year: 1861
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Lieder_von_Robert_Schumann%2C_S.567_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

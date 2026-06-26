@@ -1,0 +1,15 @@
+id: handel-allemande-in-b-minor
+work:
+  composer: Handel, George Frideric
+  title: Allemande in B minor
+  ids:
+    imslp: Allemande in B minor, HWV 479 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allemande_in_B_minor%2C_HWV_479_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

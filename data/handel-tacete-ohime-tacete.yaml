@@ -1,0 +1,17 @@
+id: handel-tacete-ohime-tacete
+work:
+  composer: Handel, George Frideric
+  title: Tacete ohimè tacete
+  ids:
+    imslp: Tacete ohimè tacete, HWV 196 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tacete_ohim%C3%A8_tacete%2C_HWV_196_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, bass, continuo'

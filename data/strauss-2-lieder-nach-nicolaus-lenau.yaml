@@ -1,0 +1,18 @@
+id: strauss-2-lieder-nach-nicolaus-lenau
+work:
+  composer: Strauss, Richard
+  title: 2 Lieder nach Nicolaus Lenau
+  ids:
+    imslp: 2 Lieder, Op.26 (Strauss, Richard)
+  year: 1891
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Lieder%2C_Op.26_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

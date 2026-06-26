@@ -1,0 +1,20 @@
+id: vivaldi-concerto-for-2-violins-and-cello-in-g-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for 2 Violins and Cello in G minor
+  ids:
+    imslp: Concerto in G minor, RV 578 (Vivaldi, Antonio)
+  year: 1711
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - 2 violins
+  - cello
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_in_G_minor%2C_RV_578_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: 2 violins, cello, Orchestra: strings, continuo'
+duration_minutes: 10

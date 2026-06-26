@@ -1,0 +1,15 @@
+id: handel-chaconne-with-49-variations-hwv-484
+work:
+  composer: Handel, George Frideric
+  title: Chaconne with 49 variations, HWV 484
+  ids:
+    imslp: Chaconne with 49 variations, HWV 484 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chaconne_with_49_variations%2C_HWV_484_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Harpsichord'

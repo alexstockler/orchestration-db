@@ -1,0 +1,17 @@
+id: liszt-spanisches-standchen
+work:
+  composer: Liszt, Franz
+  title: Spanisches Ständchen
+  ids:
+    imslp: Spanisches Ständchen, S.487 (Liszt, Franz)
+  year: 1999
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Spanisches_St%C3%A4ndchen%2C_S.487_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 4

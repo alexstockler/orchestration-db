@@ -1,0 +1,26 @@
+id: handel-siroe-re-di-persia
+work:
+  composer: Handel, George Frideric
+  title: Siroe, re di Persia
+  ids:
+    imslp: Siroe, re di Persia, HWV 24 (Handel, George Frideric)
+  year: 1728
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - Siroe (alto-castrato)
+  - Emira (soprano)
+  - Laodice (soprano)
+  - Medarse (alto-castrato)
+  - Cosroe Boschi (bass)
+  - Arasse (bass)
+  additional_raw: '[bassoons] | continuo (cello, lute, harpsichord)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Siroe%2C_re_di_Persia%2C_HWV_24_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Siroe (alto-castrato), Emira (soprano), Laodice (soprano),
+    Medarse (alto-castrato), Cosroe Boschi (bass), Arasse (bass) Orchestra :2 oboes,
+    [bassoons], strings, continuo (cello, lute, harpsichord)'

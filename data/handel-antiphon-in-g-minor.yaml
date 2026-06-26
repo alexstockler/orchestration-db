@@ -1,0 +1,17 @@
+id: handel-antiphon-in-g-minor
+work:
+  composer: Handel, George Frideric
+  title: Antiphon in G minor
+  ids:
+    imslp: Antiphon in G minor, HWV 271 (Handel, George Frideric)
+  year: 1734
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Antiphon_in_G_minor%2C_HWV_271_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

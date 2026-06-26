@@ -1,0 +1,15 @@
+id: vivaldi-rosilena-ed-oronta
+work:
+  composer: Vivaldi, Antonio
+  title: Rosilena ed Oronta
+  ids:
+    imslp: Rosilena ed Oronta, RV 730 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rosilena_ed_Oronta%2C_RV_730_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra (see below, Comments)'

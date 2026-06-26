@@ -1,0 +1,19 @@
+id: liszt-pater-noster-i
+work:
+  composer: Liszt, Franz
+  title: Pater noster I
+  ids:
+    imslp: Pater noster I, S.21 (Liszt, Franz)
+  year: 1846
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: male chorus
+  additional_raw: Organ ad lib. (1st version)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pater_noster_I%2C_S.21_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Male Chorus (TTBB), Organ ad lib. (1st version), Male Chorus
+    (TTBB), Organ (2nd version)'

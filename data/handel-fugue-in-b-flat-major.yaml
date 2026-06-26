@@ -1,0 +1,16 @@
+id: handel-fugue-in-b-flat-major
+work:
+  composer: Handel, George Frideric
+  title: Fugue in B-flat major
+  ids:
+    imslp: Fugue in B-flat major, HWV 607 (Handel, George Frideric)
+  year: 1716
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_B-flat_major%2C_HWV_607_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord (or organ)'

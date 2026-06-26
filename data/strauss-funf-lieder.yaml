@@ -1,0 +1,16 @@
+id: strauss-funf-lieder
+work:
+  composer: Strauss, Richard
+  title: Fünf Lieder
+  ids:
+    imslp: 5 Lieder, Op.39 (Strauss, Richard)
+  year: 1897
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Lieder%2C_Op.39_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

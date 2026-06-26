@@ -1,0 +1,16 @@
+id: liszt-reminiscences-des-puritains-de-bellini
+work:
+  composer: Liszt, Franz
+  title: Réminiscences des Puritains de Bellini
+  ids:
+    imslp: Réminiscences des Puritains de Bellini, S.390 (Liszt, Franz)
+  year: 1836
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/R%C3%A9miniscences_des_Puritains_de_Bellini%2C_S.390_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

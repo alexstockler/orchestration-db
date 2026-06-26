@@ -1,0 +1,15 @@
+id: handel-sonata-a-4
+work:
+  composer: Handel, George Frideric
+  title: Sonata à 4
+  ids:
+    imslp: Concerto a quattro in D minor (Handel, George Frideric)
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  additional_raw: violin | bassoon/cello | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_a_quattro_in_D_minor_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, violin, bassoon/cello, continuo'

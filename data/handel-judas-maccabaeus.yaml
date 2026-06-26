@@ -1,0 +1,40 @@
+id: handel-judas-maccabaeus
+work:
+  composer: Handel, George Frideric
+  title: Judas Maccabaeus
+  ids:
+    imslp: Judas Maccabaeus, HWV 63 (Handel, George Frideric)
+  year: 1746
+formula: 2202 2300 tmp org str
+instrumentation:
+  flute: 2
+  oboe: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 3
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: organ
+  strings: str
+  soloists:
+  - Judas Maccabaeus (tenor)
+  - Simon
+  - his Brother (bass)
+  - Israelite Woman (soprano)
+  - Israelite Man (mezzo-soprano)
+  - Eupolemus
+  - the Jewish Ambassador to Rome (alto)
+  - First Messenger (alto)
+  - Second Messenger (bass) Mixed Chorus (SATB) :Israelites
+  - Youths
+  - Virgins
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Judas_Maccabaeus%2C_HWV_63_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Roles :Judas Maccabaeus (tenor), Simon, his Brother (bass),
+    Israelite Woman (soprano), Israelite Man (mezzo-soprano), Eupolemus, the Jewish
+    Ambassador to Rome (alto), First Messenger (alto), Second Messenger (bass) Mixed
+    Chorus (SATB) :Israelites, Youths, Virgins Orchestra :2 flutes, 2 oboes, 2 bassoons,
+    2 horns, 3 trumpets, timpani, organ, strings'

@@ -1,0 +1,17 @@
+id: liszt-kavallerie-geschwind-marsch
+work:
+  composer: Liszt, Franz
+  title: Kavallerie Geschwind-Marsch
+  ids:
+    imslp: Kavallerie-Geschwindmarsch, S.460 (Liszt, Franz)
+  year: 1870
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kavallerie-Geschwindmarsch%2C_S.460_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 3

@@ -1,0 +1,15 @@
+id: liszt-il-m-aimait-tant
+work:
+  composer: Liszt, Franz
+  title: Il m'aimait tant
+  ids:
+    imslp: Il m'aimait tant, S.271 (Liszt, Franz)
+  year: 1840
+formula: ''
+instrumentation:
+  additional_raw: Soprano (or Mezzo-soprano) and Piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_m%27aimait_tant%2C_S.271_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Soprano (or Mezzo-soprano) and Piano'

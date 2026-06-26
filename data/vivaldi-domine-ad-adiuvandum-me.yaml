@@ -1,0 +1,19 @@
+id: vivaldi-domine-ad-adiuvandum-me
+work:
+  composer: Vivaldi, Antonio
+  title: Domine ad adiuvandum me
+  ids:
+    imslp: Domine ad adiuvandum me, RV 593 (Vivaldi, Antonio)
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  chorus_raw: mixed chorus
+  additional_raw: '2 orchestras: #solo soprano | continuo (organo) #mixed chorus (SATB)
+    | continuo (organo)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Domine_ad_adiuvandum_me%2C_RV_593_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 orchestras: #solo soprano, mixed chorus (SATB), 2 oboes,
+    strings, continuo (organo) #mixed chorus (SATB), strings, continuo (organo)'

@@ -1,0 +1,16 @@
+id: liszt-praludium-und-fuge-uber-den-namen-bach
+work:
+  composer: Liszt, Franz
+  title: Präludium und Fuge über den Namen BACH
+  ids:
+    imslp: Präludium und Fuge über den Namen BACH, S.260 (Liszt, Franz)
+  year: 1855
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pr%C3%A4ludium_und_Fuge_%C3%BCber_den_Namen_BACH%2C_S.260_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

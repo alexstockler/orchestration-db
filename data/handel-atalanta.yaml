@@ -1,0 +1,32 @@
+id: handel-atalanta
+work:
+  composer: Handel, George Frideric
+  title: Atalanta
+  ids:
+    imslp: Atalanta, HWV 35 (Handel, George Frideric)
+  year: 1735
+formula: 0200 2300 tmp str
+instrumentation:
+  oboe: 2
+  horn: 2
+  trumpet: 3
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - Atalanta (soprano)
+  - Meleagro (soprano castrato)
+  - Irene (contralto)
+  - Aminta (tenor)
+  - Nicandro (bass)
+  - Mercurio [Mercury]
+  - the messenger god (bass)
+  additional_raw: '[bassoon] | continuo (cello, lute, harpsichord)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Atalanta%2C_HWV_35_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Atalanta (soprano), Meleagro (soprano castrato),
+    Irene (contralto), Aminta (tenor), Nicandro (bass), Mercurio [Mercury], the messenger
+    god (bass) Orchestra :2 oboes, [bassoon], 2 horns, 3 trumpets, timpani, strings,
+    continuo (cello, lute, harpsichord)'

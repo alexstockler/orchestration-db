@@ -1,0 +1,15 @@
+id: handel-impertinence
+work:
+  composer: Handel, George Frideric
+  title: Impertinence
+  ids:
+    imslp: Impertinence, HWV 494 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Impertinence%2C_HWV_494_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

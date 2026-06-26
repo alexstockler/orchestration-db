@@ -1,0 +1,14 @@
+id: handel-allegro-in-c-major
+work:
+  composer: Handel, George Frideric
+  title: Allegro in C major
+  ids:
+    imslp: Allegro in C major, HWV 473 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: music box
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegro_in_C_major%2C_HWV_473_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: music box'

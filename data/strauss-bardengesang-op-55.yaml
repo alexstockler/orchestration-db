@@ -1,0 +1,34 @@
+id: strauss-bardengesang-op-55
+work:
+  composer: Strauss, Richard
+  title: Bardengesang, Op.55
+  ids:
+    imslp: Bardengesang, Op.55 (Strauss, Richard)
+  year: 1906
+formula: 4 2 4 3[1.2.cbn] 6431 tmp+1 4hp str
+instrumentation:
+  flute: 4
+  oboe: 2
+  clarinet: 4
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 6
+  trumpet: 4
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+  harp: 4
+  strings: str
+  soloists:
+  - male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bardengesang%2C_Op.55_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: male chorus, Orchestra: 4 flutes, 2 oboes, 4 clarinets
+    (2 E, 2 B), 2 bassoons, contrabassoon, 6 horns, 4 trumpets, 3 trombones, tuba,
+    percussion, timpani, 4 harps, strings'

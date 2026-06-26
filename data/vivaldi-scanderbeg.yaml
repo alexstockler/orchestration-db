@@ -1,0 +1,15 @@
+id: vivaldi-scanderbeg
+work:
+  composer: Vivaldi, Antonio
+  title: Scanderbeg
+  ids:
+    imslp: Scanderbeg, RV 732 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scanderbeg%2C_RV_732_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra (see below, Comments)'

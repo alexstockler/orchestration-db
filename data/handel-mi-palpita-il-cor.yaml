@@ -1,0 +1,16 @@
+id: handel-mi-palpita-il-cor
+work:
+  composer: Handel, George Frideric
+  title: Mi palpita il cor
+  ids:
+    imslp: Mi palpita il cor, HWV 132a (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mi_palpita_il_cor%2C_HWV_132a_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

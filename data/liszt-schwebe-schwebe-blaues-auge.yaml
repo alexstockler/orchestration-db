@@ -1,0 +1,18 @@
+id: liszt-schwebe-schwebe-blaues-auge
+work:
+  composer: Liszt, Franz
+  title: Schwebe, schwebe, blaues Auge
+  ids:
+    imslp: Schwebe, schwebe, blaues Auge, S.305 (Liszt, Franz)
+  year: 1845
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Schwebe%2C_schwebe%2C_blaues_Auge%2C_S.305_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

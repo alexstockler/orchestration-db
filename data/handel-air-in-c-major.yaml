@@ -1,0 +1,14 @@
+id: handel-air-in-c-major
+work:
+  composer: Handel, George Frideric
+  title: Air in C major
+  ids:
+    imslp: Air in C major, HWV 457 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Air_in_C_major%2C_HWV_457_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

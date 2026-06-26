@@ -1,0 +1,15 @@
+id: vivaldi-l-artabano
+work:
+  composer: Vivaldi, Antonio
+  title: L'Artabano
+  ids:
+    imslp: L'Artabano, RV 706-d (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27Artabano%2C_RV_706-d_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

@@ -1,0 +1,16 @@
+id: vivaldi-concerto-for-2-violins-in-b-flat-major
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for 2 Violins in B-flat major
+  ids:
+    imslp: Concerto for 2 Violins in B-flat major, RV 524 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: 2 violins | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Violins_in_B-flat_major%2C_RV_524_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, strings, continuo'
+duration_minutes: 11

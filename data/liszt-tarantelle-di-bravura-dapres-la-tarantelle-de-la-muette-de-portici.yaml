@@ -1,0 +1,17 @@
+id: liszt-tarantelle-di-bravura-dapres-la-tarantelle-de-la-muette-de-portici
+work:
+  composer: Liszt, Franz
+  title: Tarantelle di bravura d’après la tarantelle de La muette de Portici
+  ids:
+    imslp: Tarantelle di bravura d'après la tarantelle de 'La muette de Portici',
+      S.386 (Liszt, Franz)
+  year: 1846
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tarantelle_di_bravura_d%27apr%C3%A8s_la_tarantelle_de_%27La_muette_de_Portici%27%2C_S.386_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

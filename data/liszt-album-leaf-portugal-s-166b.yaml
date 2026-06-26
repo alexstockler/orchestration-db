@@ -1,0 +1,17 @@
+id: liszt-album-leaf-portugal-s-166b
+work:
+  composer: Liszt, Franz
+  title: Album-Leaf "Portugal", S.166b
+  ids:
+    imslp: Album-Leaf 'Portugal', S.166b (Liszt, Franz)
+  year: 1845
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album-Leaf_%27Portugal%27%2C_S.166b_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano solo'
+duration_minutes: 1

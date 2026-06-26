@@ -1,0 +1,15 @@
+id: vivaldi-concerto-for-viola-d-amore-in-d-major
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for Viola d'amore in D major
+  ids:
+    imslp: Viola d'amore Concerto in D major, RV 392 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: viola d'amore | basso continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Viola_d%27amore_Concerto_in_D_major%2C_RV_392_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: viola d''amore, strings, basso continuo'

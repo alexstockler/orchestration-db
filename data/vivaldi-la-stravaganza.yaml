@@ -1,0 +1,18 @@
+id: vivaldi-la-stravaganza
+work:
+  composer: Vivaldi, Antonio
+  title: La stravaganza
+  ids:
+    imslp: La stravaganza, Op.4 (Vivaldi, Antonio)
+  year: 1716
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - violin
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_stravaganza%2C_Op.4_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: violin, Orchestra: strings, continuo'

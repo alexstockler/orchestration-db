@@ -1,0 +1,16 @@
+id: handel-clori-ove-sei
+work:
+  composer: Handel, George Frideric
+  title: Clori, ove sei?
+  ids:
+    imslp: Clori, ove sei?, HWV 93 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Clori%2C_ove_sei%3F%2C_HWV_93_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

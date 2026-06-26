@@ -1,0 +1,16 @@
+id: liszt-hungarian-rhapsody-no-9
+work:
+  composer: Liszt, Franz
+  title: Hungarian Rhapsody No.9
+  ids:
+    imslp: Hungarian Rhapsody No.9, S.244/9 (Liszt, Franz)
+  year: 1847
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hungarian_Rhapsody_No.9%2C_S.244/9_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

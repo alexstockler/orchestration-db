@@ -1,0 +1,16 @@
+id: strauss-daphne-etude
+work:
+  composer: Strauss, Richard
+  title: Daphne-Etude
+  ids:
+    imslp: Daphne-Etude, TrV 272b (Strauss, Richard)
+  year: 1945
+formula: ''
+instrumentation:
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Daphne-Etude%2C_TrV_272b_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: violin'
+duration_minutes: 1

@@ -1,0 +1,42 @@
+id: handel-almira
+work:
+  composer: Handel, George Frideric
+  title: Almira
+  ids:
+    imslp: Almira, HWV 1 (Handel, George Frideric)
+  year: 1705
+formula: 2200 0300 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  trumpet: 3
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - Almira
+  - Queen of Castilia (soprano)
+  - Edilia
+  - a Princess (soprano)
+  - Consalvo
+  - Almira's guardian (bass)
+  - Osman
+  - his son (tenor)
+  - Fernando
+  - an orphan (tenor)
+  - Raymondo
+  - King of Mauretania (bass)
+  - Bellante
+  - Princess of Aranda (soprano)
+  - Tabarco (tenor) :Mixed Chorus (SATB)
+  additional_raw: '[bassoon] | viola da bracchio solo | continuo (cello, lute, harpsichord)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Almira%2C_HWV_1_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Cast ::Almira, Queen of Castilia
+    (soprano), Edilia, a Princess (soprano), Consalvo, Almira''s guardian (bass),
+    Osman, his son (tenor), Fernando, an orphan (tenor), Raymondo, King of Mauretania
+    (bass), Bellante, Princess of Aranda (soprano), Tabarco (tenor) :Mixed Chorus
+    (SATB), Orchestra ::2 flutes, 2 oboes, [bassoon], 3 trumpets, timpani, viola da
+    bracchio solo, strings (violins à 3), continuo (cello, lute, harpsichord)'

@@ -1,0 +1,14 @@
+id: handel-concerto-in-d-major
+work:
+  composer: Handel, George Frideric
+  title: Concerto in D major
+  ids:
+    imslp: Concerto in D major (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: '|Tags=concertos | 2hn 2vn str bc'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_in_D_major_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: |Tags=concertos ; 2hn 2vn str bc'

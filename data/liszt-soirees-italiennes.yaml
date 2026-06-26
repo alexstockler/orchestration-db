@@ -1,0 +1,16 @@
+id: liszt-soirees-italiennes
+work:
+  composer: Liszt, Franz
+  title: Soirées italiennes
+  ids:
+    imslp: Soirées italiennes, S.411 (Liszt, Franz)
+  year: 1838
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Soir%C3%A9es_italiennes%2C_S.411_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

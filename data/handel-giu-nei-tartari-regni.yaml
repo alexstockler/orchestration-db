@@ -1,0 +1,15 @@
+id: handel-giu-nei-tartari-regni
+work:
+  composer: Handel, George Frideric
+  title: Giù nei Tartari Regni
+  ids:
+    imslp: Giù nei Tartari Regni, HWV 187 (Handel, George Frideric)
+  year: 1707
+formula: ''
+instrumentation:
+  additional_raw: Soprano Voice | Bass Voice | Continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gi%C3%B9_nei_Tartari_Regni%2C_HWV_187_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Soprano Voice, Bass Voice, Continuo'

@@ -1,0 +1,27 @@
+id: liszt-psalm-13
+work:
+  composer: Liszt, Franz
+  title: Psalm 13
+  ids:
+    imslp: Psalm 13, S.13 (Liszt, Franz)
+  year: 1855
+formula: 2222 4231 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Psalm_13%2C_S.13_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2
+    trumpets, 3 trombones, tuba, timpani, strings'
+duration_minutes: 24

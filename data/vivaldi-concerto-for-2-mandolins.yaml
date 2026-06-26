@@ -1,0 +1,19 @@
+id: vivaldi-concerto-for-2-mandolins
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for 2 Mandolins
+  ids:
+    imslp: Concerto for 2 Mandolins in G major, RV 532 (Vivaldi, Antonio)
+  year: 1740
+formula: mand str
+instrumentation:
+  extras:
+  - instrument: mandolin
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Mandolins_in_G_major%2C_RV_532_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 mandolins, strings, continuo'
+duration_minutes: 12

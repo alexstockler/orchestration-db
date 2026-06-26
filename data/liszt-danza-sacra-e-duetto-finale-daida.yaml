@@ -1,0 +1,16 @@
+id: liszt-danza-sacra-e-duetto-finale-daida
+work:
+  composer: Liszt, Franz
+  title: Danza sacra e duetto finale d’Aida
+  ids:
+    imslp: Danza sacra e duetto finale d'Aida, S.436 (Liszt, Franz)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Danza_sacra_e_duetto_finale_d%27Aida%2C_S.436_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

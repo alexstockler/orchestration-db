@@ -1,0 +1,16 @@
+id: vivaldi-canta-in-prato-rv-636
+work:
+  composer: Vivaldi, Antonio
+  title: Canta in prato, RV 636
+  ids:
+    imslp: Canta in prato, RV 636 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: 2 or 4 oboes | 2 strings | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canta_in_prato%2C_RV_636_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 2 or 4 oboes, 2 strings, continuo'

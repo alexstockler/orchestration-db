@@ -1,0 +1,15 @@
+id: liszt-album-leaf-in-a-major-friska
+work:
+  composer: Liszt, Franz
+  title: Album-Leaf in A major 'Friska'
+  ids:
+    imslp: Album-Leaf 'Friska', S.166k (Liszt, Franz)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album-Leaf_%27Friska%27%2C_S.166k_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

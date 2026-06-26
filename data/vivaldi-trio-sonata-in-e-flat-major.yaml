@@ -1,0 +1,15 @@
+id: vivaldi-trio-sonata-in-e-flat-major
+work:
+  composer: Vivaldi, Antonio
+  title: Trio Sonata in E flat major
+  ids:
+    imslp: Trio Sonata in E flat major, RV 65 (Vivaldi, Antonio)
+  year: 1705
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_E_flat_major%2C_RV_65_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, continuo'

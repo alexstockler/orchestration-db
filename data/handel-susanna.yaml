@@ -1,0 +1,17 @@
+id: handel-susanna
+work:
+  composer: Handel, George Frideric
+  title: Susanna
+  ids:
+    imslp: Susanna, HWV 66 (Handel, George Frideric)
+  year: 1748
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Susanna%2C_HWV_66_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

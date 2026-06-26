@@ -1,0 +1,14 @@
+id: handel-haec-est-regina-virginum
+work:
+  composer: Handel, George Frideric
+  title: Haec est Regina virginum
+  ids:
+    imslp: Haec est Regina virginum, HWV 235 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: '|Tags=antiphons | sop str bc | la'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Haec_est_Regina_virginum%2C_HWV_235_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: |Tags=antiphons ; sop str bc ; la'

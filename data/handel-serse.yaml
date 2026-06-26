@@ -1,0 +1,30 @@
+id: handel-serse
+work:
+  composer: Handel, George Frideric
+  title: Serse
+  ids:
+    imslp: Largo from 'Xerxes' (Handel, George Frideric)
+  year: 1737
+formula: 2200 2100
+instrumentation:
+  flute: 2
+  oboe: 2
+  horn: 2
+  trumpet: 1
+  soloists:
+  - Serse [Xerxes] (tenor, originally soprano)
+  - Arsameme [Arsamenes] (tenor, originally soprano)
+  - Amastre [Amastris] (alto)
+  - Romilda (soprano)
+  - Atalanta (soprano)
+  - Ariodate (bass)
+  - Elviro (basso)
+  additional_raw: '[bassoon] | 3 violins | viola | continuo (cello, bass, harpsichord)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Largo_from_%27Xerxes%27_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Serse [Xerxes] (tenor, originally soprano), Arsameme
+    [Arsamenes] (tenor, originally soprano), Amastre [Amastris] (alto), Romilda (soprano),
+    Atalanta (soprano), Ariodate (bass), Elviro (basso) Orchestra :2 flutes, 2 oboes,
+    [bassoon], 2 horns, trumpet, 3 violins, viola, continuo (cello, bass, harpsichord)'

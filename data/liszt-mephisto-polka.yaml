@@ -1,0 +1,16 @@
+id: liszt-mephisto-polka
+work:
+  composer: Liszt, Franz
+  title: Mephisto Polka
+  ids:
+    imslp: Mephisto Polka, S.217 (Liszt, Franz)
+  year: 1882
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mephisto_Polka%2C_S.217_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

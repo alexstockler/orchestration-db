@@ -1,0 +1,16 @@
+id: handel-alpestre-monte
+work:
+  composer: Handel, George Frideric
+  title: Alpestre monte
+  ids:
+    imslp: Alpestre monte, HWV 81 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: 2 violins | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alpestre_monte%2C_HWV_81_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 2 violins, continuo'

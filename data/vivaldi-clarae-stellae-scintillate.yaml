@@ -1,0 +1,18 @@
+id: vivaldi-clarae-stellae-scintillate
+work:
+  composer: Vivaldi, Antonio
+  title: Clarae stellae, scintillate
+  ids:
+    imslp: Clarae stellae, scintillate, RV 625 (Vivaldi, Antonio)
+  year: 1715
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Clarae_stellae%2C_scintillate%2C_RV_625_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, strings, continuo'

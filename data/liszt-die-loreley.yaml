@@ -1,0 +1,19 @@
+id: liszt-die-loreley
+work:
+  composer: Liszt, Franz
+  title: Die Loreley
+  ids:
+    imslp: Die Loreley, S.273 (Liszt, Franz)
+  year: 1841
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Loreley%2C_S.273_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 6

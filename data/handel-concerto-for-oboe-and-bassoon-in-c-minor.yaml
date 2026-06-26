@@ -1,0 +1,17 @@
+id: handel-concerto-for-oboe-and-bassoon-in-c-minor
+work:
+  composer: Handel, George Frideric
+  title: Concerto for Oboe and Bassoon in C minor
+  ids:
+    imslp: Concerto for Oboe and Bassoon, HWV Anh.B 308 (Handel, George Frideric)
+formula: 0101 0000 str
+instrumentation:
+  oboe: 1
+  bassoon: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_Oboe_and_Bassoon%2C_HWV_Anh.B_308_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe (or flute or violin), bassoon, strings, continuo'

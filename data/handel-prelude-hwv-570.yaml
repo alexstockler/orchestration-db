@@ -1,0 +1,15 @@
+id: handel-prelude-hwv-570
+work:
+  composer: Handel, George Frideric
+  title: Prelude, HWV 570
+  ids:
+    imslp: Prelude, HWV 570 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude%2C_HWV_570_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

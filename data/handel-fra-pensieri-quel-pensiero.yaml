@@ -1,0 +1,16 @@
+id: handel-fra-pensieri-quel-pensiero
+work:
+  composer: Handel, George Frideric
+  title: Fra pensieri quel pensiero
+  ids:
+    imslp: Fra pensieri quel pensiero, HWV 115 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fra_pensieri_quel_pensiero%2C_HWV_115_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, continuo'

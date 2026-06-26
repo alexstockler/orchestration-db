@@ -1,0 +1,17 @@
+id: handel-have-mercy-upon-me-o-god
+work:
+  composer: Handel, George Frideric
+  title: Have Mercy upon me, O God
+  ids:
+    imslp: Have Mercy upon Me, O God, HWV 248 (Handel, George Frideric)
+  year: 1717
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Have_Mercy_upon_Me%2C_O_God%2C_HWV_248_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

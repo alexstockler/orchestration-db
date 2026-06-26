@@ -1,0 +1,15 @@
+id: vivaldi-cello-sonata-in-f-major
+work:
+  composer: Vivaldi, Antonio
+  title: Cello Sonata in F major
+  ids:
+    imslp: Cello Sonata in F major, RV 41 (Vivaldi, Antonio)
+  year: 1740
+formula: ''
+instrumentation:
+  additional_raw: cello | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Sonata_in_F_major%2C_RV_41_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, continuo'

@@ -1,0 +1,15 @@
+id: vivaldi-trio-sonata-in-f-major-rv-69
+work:
+  composer: Vivaldi, Antonio
+  title: Trio Sonata in F major, RV 69
+  ids:
+    imslp: Trio Sonata in F major, RV 69 (Vivaldi, Antonio)
+  year: 1705
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_F_major%2C_RV_69_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, continuo'

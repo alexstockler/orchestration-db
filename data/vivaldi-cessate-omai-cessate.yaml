@@ -1,0 +1,17 @@
+id: vivaldi-cessate-omai-cessate
+work:
+  composer: Vivaldi, Antonio
+  title: Cessate, omai cessate
+  ids:
+    imslp: Cessate, omai cessate, RV 684 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cessate%2C_omai_cessate%2C_RV_684_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, strings, continuo'

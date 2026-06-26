@@ -1,0 +1,21 @@
+id: strauss-wiener-philharmoniker-fanfare
+work:
+  composer: Strauss, Richard
+  title: Wiener Philharmoniker Fanfare
+  ids:
+    imslp: Wiener Philharmoniker Fanfare, TrV 248 (Strauss, Richard)
+  year: 1924
+formula: 0000 8662 tmp
+instrumentation:
+  horn: 8
+  trumpet: 6
+  trombone: 6
+  tuba: 2
+  percussion:
+    timpani: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Wiener_Philharmoniker_Fanfare%2C_TrV_248_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: 8 horns, 6 trumpets, 6 trombones, 2 tubas, 2 timpani'
+duration_minutes: 3

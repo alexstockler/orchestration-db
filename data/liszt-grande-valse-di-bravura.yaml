@@ -1,0 +1,16 @@
+id: liszt-grande-valse-di-bravura
+work:
+  composer: Liszt, Franz
+  title: Grande valse di bravura
+  ids:
+    imslp: Grande valse di bravura, S.209 (Liszt, Franz)
+  year: 1836
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grande_valse_di_bravura%2C_S.209_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

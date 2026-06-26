@@ -1,0 +1,16 @@
+id: liszt-do-not-reproach-me-s-340a
+work:
+  composer: Liszt, Franz
+  title: Do not reproach me, S.340a
+  ids:
+    imslp: Do Not Reproach Me, S.340a (Liszt, Franz)
+  year: 1866
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Do_Not_Reproach_Me%2C_S.340a_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

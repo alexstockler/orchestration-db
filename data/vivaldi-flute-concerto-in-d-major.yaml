@@ -1,0 +1,17 @@
+id: vivaldi-flute-concerto-in-d-major
+work:
+  composer: Vivaldi, Antonio
+  title: Flute Concerto in D major
+  ids:
+    imslp: Flute Concerto in D major, RV 427 (Vivaldi, Antonio)
+formula: 1000 0000 str
+instrumentation:
+  flute: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flute_Concerto_in_D_major%2C_RV_427_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, strings, continuo'
+duration_minutes: 12

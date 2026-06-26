@@ -1,0 +1,17 @@
+id: handel-del-bel-idolo-mio
+work:
+  composer: Handel, George Frideric
+  title: Del bel idolo mio
+  ids:
+    imslp: Del bel idolo mio, HWV 104 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Del_bel_idolo_mio%2C_HWV_104_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'
+duration_minutes: 11

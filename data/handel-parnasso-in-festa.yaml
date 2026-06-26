@@ -1,0 +1,17 @@
+id: handel-parnasso-in-festa
+work:
+  composer: Handel, George Frideric
+  title: Parnasso in festa
+  ids:
+    imslp: Parnasso in festa, HWV 73 (Handel, George Frideric)
+  year: 1734
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Parnasso_in_festa%2C_HWV_73_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

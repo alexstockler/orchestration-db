@@ -1,0 +1,15 @@
+id: liszt-klavierstuck-in-es-dur
+work:
+  composer: Liszt, Franz
+  title: Klavierstück in Es-Dur
+  ids:
+    imslp: Klavierstück, S.695h (Liszt, Franz)
+formula: ''
+instrumentation:
+  additional_raw: Solo piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Klavierst%C3%BCck%2C_S.695h_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo piano'
+duration_minutes: 1

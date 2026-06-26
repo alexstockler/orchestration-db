@@ -1,0 +1,16 @@
+id: handel-sento-la-che-ristretto
+work:
+  composer: Handel, George Frideric
+  title: Sento là che ristretto
+  ids:
+    imslp: Sento là che ristretto, HWV 161b (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sento_l%C3%A0_che_ristretto%2C_HWV_161b_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

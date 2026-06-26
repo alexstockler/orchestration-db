@@ -1,0 +1,18 @@
+id: liszt-s-il-est-un-charmant-gazon
+work:
+  composer: Liszt, Franz
+  title: S'il est un charmant gazon
+  ids:
+    imslp: S'il est un charmant gazon, S.284 (Liszt, Franz)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/S%27il_est_un_charmant_gazon%2C_S.284_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

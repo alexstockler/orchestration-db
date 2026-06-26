@@ -1,0 +1,18 @@
+id: handel-let-thy-hand-be-strengthened
+work:
+  composer: Handel, George Frideric
+  title: Let Thy Hand Be Strengthened
+  ids:
+    imslp: Let Thy Hand Be Strengthened, HWV 259 (Handel, George Frideric)
+  year: 1727
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: '[bassoon] | continuo (organ)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Let_Thy_Hand_Be_Strengthened%2C_HWV_259_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, [bassoon], strings, continuo (organ)'
+duration_minutes: 8

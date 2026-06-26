@@ -1,0 +1,16 @@
+id: vivaldi-dorilla-in-tempe
+work:
+  composer: Vivaldi, Antonio
+  title: Dorilla in Tempe
+  ids:
+    imslp: Dorilla in Tempe, RV 709 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dorilla_in_Tempe%2C_RV_709_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

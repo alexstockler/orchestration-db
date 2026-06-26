@@ -1,0 +1,16 @@
+id: liszt-2-transcriptions-d-apres-rossini
+work:
+  composer: Liszt, Franz
+  title: 2 Transcriptions d'après Rossini
+  ids:
+    imslp: 2 Transcriptions d'après Rossini, S.553 (Liszt, Franz)
+  year: 1847
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Transcriptions_d%27apr%C3%A8s_Rossini%2C_S.553_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

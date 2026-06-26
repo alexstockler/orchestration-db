@@ -1,0 +1,19 @@
+id: liszt-album-leaf-12-einleitungs-takten-zur-harmonie-poetique-benediction-de-dieu
+work:
+  composer: Liszt, Franz
+  title: 'Album-Leaf ''12 Einleitungs Takten zur Harmonie poetique: Bénédiction de
+    Dieu dans la solitude'', S.166x'
+  ids:
+    imslp: 'Album-Leaf ''12 Einleitungs Takten zur Harmonie poetique: Bénédiction
+      de Dieu dans la solitude'', S.166x (Liszt, Franz)'
+  year: 1883
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album-Leaf_%2712_Einleitungs_Takten_zur_Harmonie_poetique%3A_B%C3%A9n%C3%A9diction_de_Dieu_dans_la_solitude%27%2C_S.166x_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

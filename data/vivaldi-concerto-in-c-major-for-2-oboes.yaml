@@ -1,0 +1,18 @@
+id: vivaldi-concerto-in-c-major-for-2-oboes
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto in C major for 2 Oboes
+  ids:
+    imslp: Concerto for 2 Oboes in C major, RV 534 (Vivaldi, Antonio)
+  year: 1717
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Oboes_in_C_major%2C_RV_534_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'
+duration_minutes: 10

@@ -1,0 +1,16 @@
+id: handel-se-pari-e-la-tua-fe-hwv-158a
+work:
+  composer: Handel, George Frideric
+  title: Se pari è la tua fè, HWV 158a
+  ids:
+    imslp: Se pari è la tua fè, HWV 158a (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Se_pari_%C3%A8_la_tua_f%C3%A8%2C_HWV_158a_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Soprano, continuo'

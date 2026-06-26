@@ -1,0 +1,15 @@
+id: strauss-2-gesange
+work:
+  composer: Strauss, Richard
+  title: 2 Gesänge
+  ids:
+    imslp: 2 Gesänge, Op.34 (Strauss, Richard)
+  year: 1897
+formula: ''
+instrumentation:
+  additional_raw: 16-part chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Ges%C3%A4nge%2C_Op.34_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: 16-part chorus'

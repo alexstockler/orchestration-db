@@ -1,0 +1,16 @@
+id: handel-e-partirai-mia-vita
+work:
+  composer: Handel, George Frideric
+  title: E partirai, mia vita?
+  ids:
+    imslp: E partirai, mia vita, HWV 111 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/E_partirai%2C_mia_vita%2C_HWV_111_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

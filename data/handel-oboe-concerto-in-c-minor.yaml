@@ -1,0 +1,16 @@
+id: handel-oboe-concerto-in-c-minor
+work:
+  composer: Handel, George Frideric
+  title: Oboe concerto in C minor
+  ids:
+    imslp: Oboe concerto in C minor (Handel, George Frideric)
+  year: 1741
+formula: 0100 0000
+instrumentation:
+  oboe: 1
+  additional_raw: strings and continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oboe_concerto_in_C_minor_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Oboe, strings and continuo'

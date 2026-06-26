@@ -1,0 +1,19 @@
+id: handel-splenda-l-alba-in-oriente
+work:
+  composer: Handel, George Frideric
+  title: Splenda l'alba in oriente
+  ids:
+    imslp: Splenda l'alba in oriente, HWV 166 (Handel, George Frideric)
+formula: 2100 0000 str
+instrumentation:
+  flute: 2
+  oboe: 1
+  strings: str
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Splenda_l%27alba_in_oriente%2C_HWV_166_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, 2 flutes, oboe, strings, continuo'

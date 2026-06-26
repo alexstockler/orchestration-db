@@ -1,0 +1,15 @@
+id: handel-sonatina-in-g-major
+work:
+  composer: Handel, George Frideric
+  title: Sonatina in G major
+  ids:
+    imslp: Keyboard Sonatina in G major, HWV 582 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Keyboard_Sonatina_in_G_major%2C_HWV_582_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

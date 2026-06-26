@@ -1,0 +1,17 @@
+id: vivaldi-sum-in-medio-tempestatum
+work:
+  composer: Vivaldi, Antonio
+  title: Sum in medio tempestatum
+  ids:
+    imslp: Sum in medio tempestatum, RV 632 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sum_in_medio_tempestatum%2C_RV_632_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, strings, continuo'

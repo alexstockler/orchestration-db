@@ -1,0 +1,16 @@
+id: vivaldi-usignoletto-bello
+work:
+  composer: Vivaldi, Antonio
+  title: Usignoletto bello
+  ids:
+    imslp: Usignoletto bello, RV 796 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Usignoletto_bello%2C_RV_796_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

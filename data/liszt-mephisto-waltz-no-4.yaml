@@ -1,0 +1,16 @@
+id: liszt-mephisto-waltz-no-4
+work:
+  composer: Liszt, Franz
+  title: Mephisto Waltz No.4
+  ids:
+    imslp: Mephisto Waltz No.4, S.216b (Liszt, Franz)
+  year: 1885
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mephisto_Waltz_No.4%2C_S.216b_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano solo'

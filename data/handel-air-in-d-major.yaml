@@ -1,0 +1,14 @@
+id: handel-air-in-d-major
+work:
+  composer: Handel, George Frideric
+  title: Air in D major
+  ids:
+    imslp: Air in D major (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: cembalo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Air_in_D_major_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: cembalo'

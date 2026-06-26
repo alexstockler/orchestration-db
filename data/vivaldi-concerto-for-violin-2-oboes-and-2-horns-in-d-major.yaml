@@ -1,0 +1,19 @@
+id: vivaldi-concerto-for-violin-2-oboes-and-2-horns-in-d-major
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for Violin, 2 Oboes and 2 Horns in D major
+  ids:
+    imslp: Concerto in D major, RV 562 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - 2 oboes
+  - 2 horns
+  - violin
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_in_D_major%2C_RV_562_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: 2 oboes, 2 horns, violin, Orchestra: strings, continuo'

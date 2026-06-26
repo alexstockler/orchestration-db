@@ -1,0 +1,17 @@
+id: liszt-festgesang-zur-eroffnung-der-zehnten-allgemeinen-deutschen-lehrerversammlu
+work:
+  composer: Liszt, Franz
+  title: Festgesang zur Eröffnung der zehnten allgemeinen deutschen Lehrerversammlung
+  ids:
+    imslp: Festgesang, S.26 (Liszt, Franz)
+  year: 1858
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Festgesang%2C_S.26_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Male Chorus, Organ (ad lib.)'

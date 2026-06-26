@@ -1,0 +1,16 @@
+id: vivaldi-cello-sonata-in-e-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Cello Sonata in E minor
+  ids:
+    imslp: Cello Sonata in E minor, RV 40 (Vivaldi, Antonio)
+  year: 1720
+formula: ''
+instrumentation:
+  additional_raw: cello | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Sonata_in_E_minor%2C_RV_40_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, continuo'
+duration_minutes: 10

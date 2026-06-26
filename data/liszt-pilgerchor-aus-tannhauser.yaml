@@ -1,0 +1,17 @@
+id: liszt-pilgerchor-aus-tannhauser
+work:
+  composer: Liszt, Franz
+  title: Pilgerchor aus Tannhäuser
+  ids:
+    imslp: Pilgerchor aus Tannhäuser, S.443 (Liszt, Franz)
+  year: 1861
+formula: pf org
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pilgerchor_aus_Tannh%C3%A4user%2C_S.443_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano solo; organ'

@@ -1,0 +1,16 @@
+id: handel-ditemi-o-piante
+work:
+  composer: Handel, George Frideric
+  title: Ditemi, o piante
+  ids:
+    imslp: Ditemi, o piante, HWV 107 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ditemi%2C_o_piante%2C_HWV_107_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

@@ -1,0 +1,16 @@
+id: liszt-trauervorspiel-und-trauermarsch
+work:
+  composer: Liszt, Franz
+  title: Trauervorspiel und Trauermarsch
+  ids:
+    imslp: Trauervorspiel und Trauermarsch, S.206 (Liszt, Franz)
+  year: 1885
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trauervorspiel_und_Trauermarsch%2C_S.206_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

@@ -1,0 +1,16 @@
+id: liszt-les-sabeennes
+work:
+  composer: Liszt, Franz
+  title: Les Sabéennes
+  ids:
+    imslp: Les Sabéennes, S.408 (Liszt, Franz)
+  year: 1865
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_Sab%C3%A9ennes%2C_S.408_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

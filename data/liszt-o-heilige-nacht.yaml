@@ -1,0 +1,19 @@
+id: liszt-o-heilige-nacht
+work:
+  composer: Liszt, Franz
+  title: O heilige Nacht
+  ids:
+    imslp: O heilige Nacht, S.49 (Liszt, Franz)
+  year: 1881
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - tenor solo
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_heilige_Nacht%2C_S.49_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Tenor solo, Female Chorus (SSA), Organ (or Harmonium)'

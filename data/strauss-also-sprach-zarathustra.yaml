@@ -1,0 +1,57 @@
+id: strauss-also-sprach-zarathustra
+work:
+  composer: Strauss, Richard
+  title: Also sprach Zarathustra
+  ids:
+    imslp: Also sprach Zarathustra, Op.30 (Strauss, Richard)
+  year: 1896
+formula: 4[pic.2.3/pic.4] 4[1.2.3.Eh] 4[Ebcl.2.3.bcl] 4[1.2.3.cbn] 6432 tmp org 2hp
+  str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - doublings:
+    - piccolo
+  - {}
+  oboe:
+  - {}
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 6
+  trumpet: 4
+  trombone: 3
+  tuba: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - triangle
+    - glockenspiel
+    - bell
+  keyboards:
+  - instrument: organ
+  harp: 2
+  strings:
+    standard: true
+    description: 16.16.12.12.8
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Also_sprach_Zarathustra%2C_Op.30_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 3 flutes (3rd also piccolo), 3 oboes, English
+    horn,, E clarinet, 2 clarinets, bass clarinet, 3 bassoons, contrabassoon, 6 horns,
+    4 trumpets, 3 trombones, 2 tubas, timpani, bass drum, cymbals, triangle, glockenspiel,
+    bell (low E),, organ, 2 harps, strings (16.16.12.12.8)'

@@ -1,0 +1,16 @@
+id: liszt-technische-studien
+work:
+  composer: Liszt, Franz
+  title: Technische Studien
+  ids:
+    imslp: Technische Studien, S.146 (Liszt, Franz)
+  year: 1868
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Technische_Studien%2C_S.146_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

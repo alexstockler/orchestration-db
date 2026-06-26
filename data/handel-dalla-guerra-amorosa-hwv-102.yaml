@@ -1,0 +1,14 @@
+id: handel-dalla-guerra-amorosa-hwv-102
+work:
+  composer: Handel, George Frideric
+  title: Dalla guerra amorosa, HWV 102
+  ids:
+    imslp: Dalla guerra amorosa, HWV 102a (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: bass voice | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dalla_guerra_amorosa%2C_HWV_102a_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: bass voice, continuo'

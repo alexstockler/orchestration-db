@@ -1,0 +1,43 @@
+id: handel-saul
+work:
+  composer: Handel, George Frideric
+  title: Saul
+  ids:
+    imslp: Saul, HWV 53 (Handel, George Frideric)
+  year: 1738
+formula: 2202 0230 tmp org hp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  bassoon: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: organ
+  harp: 1
+  strings: str
+  soloists:
+  - Merab (soprano)
+  - Michal (soprano)
+  - David (alto)
+  - Jonathan (tenor)
+  - Abner (tenor)
+  - Witch of Endor (tenor or soprano)
+  - Amalekite (tenor)
+  - High Priest (tenor)
+  - Saul (bass)
+  - Doeg (bass)
+  - Apparition of Samuel (bass)
+  - Abiathar (bass) Mixed Chorus (SATB)
+  additional_raw: carillons | theorbo | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Saul%2C_HWV_53_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Merab (soprano), Michal (soprano), David (alto),
+    Jonathan (tenor), Abner (tenor), Witch of Endor (tenor or soprano), Amalekite
+    (tenor), High Priest (tenor), Saul (bass), Doeg (bass), Apparition of Samuel (bass),
+    Abiathar (bass) Mixed Chorus (SATB), Orchestra :2 flutes, 2 oboes, 2 bassoons,
+    2 trumpets, 3 trombones, timpani, carillons, harp, theorbo, organ, strings, continuo'

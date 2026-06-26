@@ -1,0 +1,46 @@
+id: handel-alexander-balus
+work:
+  composer: Handel, George Frideric
+  title: Alexander Balus
+  ids:
+    imslp: Alexander Balus, HWV 65 (Handel, George Frideric)
+  year: 1747
+formula: 0200 2200 tmp hp mand
+instrumentation:
+  oboe: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  harp: 1
+  extras:
+  - instrument: mandolin
+  soloists:
+  - Alexander Balus
+  - King of Syria (alto)
+  - Ptolemee
+  - King of Egypt (bass)
+  - Jonathan
+  - Chief of the Jews (tenor)
+  - Cleopatra
+  - Daughter to Ptolemee (soprano)
+  - Aspasia
+  - her Confident (soprano)
+  - A Sycophant Courtier (tenor)
+  - Messenger (tenor)
+  - Another Messenger (bass) Mixed Chorus (SATB) :Israelites
+  - Asiates
+  - Ruffians
+  additional_raw: 2 recorders | [bassoon] | strings (3 violins | viola | continuo
+    (harpsichord and/or organ))
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alexander_Balus%2C_HWV_65_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Alexander Balus, King of Syria (alto), Ptolemee,
+    King of Egypt (bass), Jonathan, Chief of the Jews (tenor), Cleopatra, Daughter
+    to Ptolemee (soprano), Aspasia, her Confident (soprano), A Sycophant Courtier
+    (tenor), Messenger (tenor), Another Messenger (bass) Mixed Chorus (SATB) :Israelites,
+    Asiates, Ruffians Orchestra :2 recorders, 2 oboes, [bassoon], 2 horns, 2 trumpets,,
+    timpani, harp, mandolin, strings (3 violins, viola, continuo (harpsichord and/or
+    organ))'

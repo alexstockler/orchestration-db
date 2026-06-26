@@ -1,0 +1,18 @@
+id: handel-no-se-emendera-jamas
+work:
+  composer: Handel, George Frideric
+  title: No se emenderá jamás
+  ids:
+    imslp: No se emenderá jamás, HWV 140 (Handel, George Frideric)
+formula: gtr
+instrumentation:
+  extras:
+  - instrument: guitar
+  soloists:
+  - soprano
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/No_se_emender%C3%A1_jam%C3%A1s%2C_HWV_140_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, guitar, bass'

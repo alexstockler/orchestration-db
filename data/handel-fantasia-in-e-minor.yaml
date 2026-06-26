@@ -1,0 +1,14 @@
+id: handel-fantasia-in-e-minor
+work:
+  composer: Handel, George Frideric
+  title: Fantasia in E minor
+  ids:
+    imslp: Fantasia in E minor (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_in_E_minor_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

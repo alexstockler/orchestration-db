@@ -1,0 +1,15 @@
+id: liszt-anima-christi-sanctifica-me
+work:
+  composer: Liszt, Franz
+  title: Anima Christi sanctifica me
+  ids:
+    imslp: Anima Christi sanctifica me, S.46 (Liszt, Franz)
+  year: 1874
+formula: ''
+instrumentation:
+  additional_raw: Male Chorus and Organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Anima_Christi_sanctifica_me%2C_S.46_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Male Chorus and Organ'

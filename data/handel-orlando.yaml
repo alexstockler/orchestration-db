@@ -1,0 +1,32 @@
+id: handel-orlando
+work:
+  composer: Handel, George Frideric
+  title: Orlando
+  ids:
+    imslp: Orlando, HWV 31 (Handel, George Frideric)
+  year: 1732
+formula: 0200 2000 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  strings: str
+  soloists:
+  - Orlando
+  - a knight (alto castrato)
+  - Angelica
+  - Queen of Cathay (soprano)
+  - Medoro
+  - an African prince (contralto)
+  - Dorinda
+  - a shepherdess (soprano)
+  - Zoroastro
+  - a magician (bass)
+  additional_raw: 2 recorders | [bassoon] | continuo (cello, lute, harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Orlando%2C_HWV_31_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Orlando, a knight (alto castrato), Angelica, Queen
+    of Cathay (soprano), Medoro, an African prince (contralto), Dorinda, a shepherdess
+    (soprano), Zoroastro, a magician (bass) Orchestra :2 recorders, 2 oboes, [bassoon],
+    2 horns, strings, continuo (cello, lute, harpsichord)'

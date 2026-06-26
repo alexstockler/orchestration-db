@@ -1,0 +1,16 @@
+id: liszt-lieder-von-robert-und-clara-schumann
+work:
+  composer: Liszt, Franz
+  title: Lieder von Robert und Clara Schumann
+  ids:
+    imslp: Lieder von Robert und Clara Schumann, S.569 (Liszt, Franz)
+  year: 1874
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lieder_von_Robert_und_Clara_Schumann%2C_S.569_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

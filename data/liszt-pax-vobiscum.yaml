@@ -1,0 +1,17 @@
+id: liszt-pax-vobiscum
+work:
+  composer: Liszt, Franz
+  title: Pax vobiscum!
+  ids:
+    imslp: Pax vobiscum!, S.64 (Liszt, Franz)
+  year: 1885
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pax_vobiscum%21%2C_S.64_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB), organ (ad lib.)'

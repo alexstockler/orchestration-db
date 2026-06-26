@@ -1,0 +1,16 @@
+id: liszt-blume-und-duft
+work:
+  composer: Liszt, Franz
+  title: Blume und Duft
+  ids:
+    imslp: Blume und Duft, S.324 (Liszt, Franz)
+  year: 1854
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Blume_und_Duft%2C_S.324_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

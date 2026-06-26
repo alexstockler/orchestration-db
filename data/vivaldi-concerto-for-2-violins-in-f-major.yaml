@@ -1,0 +1,17 @@
+id: vivaldi-concerto-for-2-violins-in-f-major
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for 2 Violins in F major
+  ids:
+    imslp: Concerto for 2 Violins in F major, RV 765 (Vivaldi, Antonio)
+  year: 1725
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: 2 violins | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Violins_in_F_major%2C_RV_765_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, strings, continuo'
+duration_minutes: 7

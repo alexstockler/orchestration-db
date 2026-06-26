@@ -1,0 +1,29 @@
+id: vivaldi-catone-in-utica
+work:
+  composer: Vivaldi, Antonio
+  title: Catone in Utica
+  ids:
+    imslp: Catone in Utica, RV 705 (Vivaldi, Antonio)
+  year: 1737
+formula: 0000 2200 str
+instrumentation:
+  horn: 2
+  trumpet: 2
+  strings: str
+  soloists:
+  - voices
+  - 'orchestra (according to Turin holograph manuscript) *Cast: ::Catone (tenor)'
+  - Cesare (soprano castrato)
+  - Marzia (contralto)
+  - Emilia (soprano)
+  - Arbace (soprano castrato)
+  - Fulvio (contralto, travesti) *
+  additional_raw: (2 oboes) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Catone_in_Utica%2C_RV_705_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra (according to Turin holograph manuscript)
+    *Cast: ::Catone (tenor), Cesare (soprano castrato), Marzia (contralto), Emilia
+    (soprano), Arbace (soprano castrato), Fulvio (contralto, travesti) *Orchestra:
+    :: 2 trumpets, 2 horns, (2 oboes), strings, continuo'

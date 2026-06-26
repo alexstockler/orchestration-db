@@ -1,0 +1,16 @@
+id: liszt-reminiscences-de-la-juive
+work:
+  composer: Liszt, Franz
+  title: Réminiscences de La juive
+  ids:
+    imslp: Réminiscences de La juive, S.409a (Liszt, Franz)
+  year: 1835
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/R%C3%A9miniscences_de_La_juive%2C_S.409a_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

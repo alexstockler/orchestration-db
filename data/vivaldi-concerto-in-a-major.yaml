@@ -1,0 +1,19 @@
+id: vivaldi-concerto-in-a-major
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto in A major
+  ids:
+    imslp: Concerto in A major, RV 585 (Vivaldi, Antonio)
+formula: org str
+instrumentation:
+  keyboards:
+  - instrument: organ
+  strings: str
+  additional_raw: Coro 1 - 2 recorders | 2 violins | cello | continuo | Coro 2 - 2
+    recorders | 2 violins | cello | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_in_A_major%2C_RV_585_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: Coro 1 - 2 recorders, 2 violins, cello, strings, continuo,
+    Coro 2 - 2 recorders, 2 violins, cello, organ, strings, continuo'

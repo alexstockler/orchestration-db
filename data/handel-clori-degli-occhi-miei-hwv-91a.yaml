@@ -1,0 +1,16 @@
+id: handel-clori-degli-occhi-miei-hwv-91a
+work:
+  composer: Handel, George Frideric
+  title: Clori, degli occhi miei, HWV 91a
+  ids:
+    imslp: Clori, degli occhi miei, HWV 91a (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Clori%2C_degli_occhi_miei%2C_HWV_91a_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, continuo'

@@ -1,0 +1,16 @@
+id: handel-dolc-e-pur-d-amor-l-affanno
+work:
+  composer: Handel, George Frideric
+  title: Dolc' è pur d'amor l'affanno
+  ids:
+    imslp: Dolc' è pur d'amor l'affanno, HWV 109a (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dolc%27_%C3%A8_pur_d%27amor_l%27affanno%2C_HWV_109a_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, continuo'

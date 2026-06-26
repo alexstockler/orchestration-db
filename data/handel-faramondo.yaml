@@ -1,0 +1,18 @@
+id: handel-faramondo
+work:
+  composer: Handel, George Frideric
+  title: Faramondo
+  ids:
+    imslp: Faramondo, HWV 39 (Handel, George Frideric)
+  year: 1737
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - altos
+  additional_raw: 2 basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Faramondo%2C_HWV_39_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 sopranos, 2 altos, 2 basses, orchestra'

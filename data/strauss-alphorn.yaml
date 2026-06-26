@@ -1,0 +1,20 @@
+id: strauss-alphorn
+work:
+  composer: Strauss, Richard
+  title: Alphorn
+  ids:
+    imslp: Alphorn, TrV 64 (Strauss, Richard)
+  year: 1878
+formula: 0000 1000 pf
+instrumentation:
+  horn: 1
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alphorn%2C_TrV_64_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, horn (E), piano'
+duration_minutes: 6

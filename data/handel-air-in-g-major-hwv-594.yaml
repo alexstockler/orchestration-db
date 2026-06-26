@@ -1,0 +1,14 @@
+id: handel-air-in-g-major-hwv-594
+work:
+  composer: Handel, George Frideric
+  title: Air in G major, HWV 594
+  ids:
+    imslp: Air in G major, HWV 594 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: music box
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Air_in_G_major%2C_HWV_594_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: music box'

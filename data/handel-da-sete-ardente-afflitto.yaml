@@ -1,0 +1,16 @@
+id: handel-da-sete-ardente-afflitto
+work:
+  composer: Handel, George Frideric
+  title: Da sete ardente afflitto
+  ids:
+    imslp: Da sete ardente afflitto, HWV 100 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Da_sete_ardente_afflitto%2C_HWV_100_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

@@ -1,0 +1,16 @@
+id: liszt-cavatine-de-robert-le-diable
+work:
+  composer: Liszt, Franz
+  title: Cavatine de Robert le diable
+  ids:
+    imslp: Cavatine de Robert le Diable, S.412a (Liszt, Franz)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cavatine_de_Robert_le_Diable%2C_S.412a_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 5

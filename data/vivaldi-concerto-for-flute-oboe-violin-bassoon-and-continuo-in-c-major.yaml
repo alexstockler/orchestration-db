@@ -1,0 +1,18 @@
+id: vivaldi-concerto-for-flute-oboe-violin-bassoon-and-continuo-in-c-major
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for Flute, Oboe, Violin, Bassoon and Continuo in C major
+  ids:
+    imslp: Chamber Concerto in C major, RV 88 (Vivaldi, Antonio)
+formula: 1101 0000
+instrumentation:
+  flute: 1
+  oboe: 1
+  bassoon: 1
+  additional_raw: violin | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chamber_Concerto_in_C_major%2C_RV_88_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, violin, bassoon, continuo'
+duration_minutes: 11

@@ -1,0 +1,17 @@
+id: handel-mi-palpita-il-cor-hwv-132b
+work:
+  composer: Handel, George Frideric
+  title: Mi palpita il cor, HWV 132b
+  ids:
+    imslp: Mi palpita il cor, HWV 132b (Handel, George Frideric)
+formula: 0100 0000
+instrumentation:
+  oboe: 1
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mi_palpita_il_cor%2C_HWV_132b_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Soprano, oboe, continuo'

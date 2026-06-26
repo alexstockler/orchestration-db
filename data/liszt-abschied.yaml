@@ -1,0 +1,17 @@
+id: liszt-abschied
+work:
+  composer: Liszt, Franz
+  title: Abschied
+  ids:
+    imslp: Abschied, S.251 (Liszt, Franz)
+  year: 1885
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Abschied%2C_S.251_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 4

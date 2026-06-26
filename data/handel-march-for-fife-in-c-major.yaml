@@ -1,0 +1,16 @@
+id: handel-march-for-fife-in-c-major
+work:
+  composer: Handel, George Frideric
+  title: March for Fife in C major
+  ids:
+    imslp: March for Fife in C major, HWV 414 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+  additional_raw: pipe
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/March_for_Fife_in_C_major%2C_HWV_414_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: pipe, bass (bassoon)'

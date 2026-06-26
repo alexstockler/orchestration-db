@@ -1,0 +1,19 @@
+id: liszt-inno-a-maria-vergine
+work:
+  composer: Liszt, Franz
+  title: Inno a Maria Vergine
+  ids:
+    imslp: Inno a Maria Vergine, S.39 (Liszt, Franz)
+  year: 1869
+formula: hp
+instrumentation:
+  harp: 1
+  chorus_raw: mixed chorus
+  additional_raw: Harp and Organ (1st version) | Harmonium (or Organ) and Piano 4
+    hands (2nd version)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Inno_a_Maria_Vergine%2C_S.39_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed Chorus (SATB), Harp and Organ (1st version), Mixed
+    Chorus, Harp, Harmonium (or Organ) and Piano 4 hands (2nd version)'

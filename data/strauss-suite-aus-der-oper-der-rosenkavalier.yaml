@@ -1,0 +1,57 @@
+id: strauss-suite-aus-der-oper-der-rosenkavalier
+work:
+  composer: Strauss, Richard
+  title: Suite aus der Oper 'Der Rosenkavalier'
+  ids:
+    imslp: Der Rosenkavalier, suite, TrV 227d (Strauss, Richard)
+  year: 1945
+formula: 3[1.2.3/pic] 3[1.2.3/Eh] 5[Ebcl.2.3.4.bcl] 3[1.2.3/cbn] 4331 tmp cel 2hp
+  str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - doublings:
+    - english_horn
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - snare drum
+    - tambourine
+    - cymbals
+    - bass drum
+    - glockenspiel
+  keyboards:
+  - instrument: celesta
+  harp: 2
+  strings: str
+  additional_raw: rattle
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Rosenkavalier%2C_suite%2C_TrV_227d_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 3 oboes (3rd also English
+    horn), E clarinet,, 3 clarinets, bass clarinet, 3 bassoons (3rd also contrabassoon),
+    4 horns, 3 trumpets, 3 trombones, tuba, timpani, triangle, snare drum, tambourine,
+    rattle, cymbals, bass drum, glockenspiel, celesta, 2 harps, strings'

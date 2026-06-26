@@ -1,0 +1,15 @@
+id: liszt-4-lieder-von-franz-schubert-s-375
+work:
+  composer: Liszt, Franz
+  title: 4 Lieder von Franz Schubert, S.375
+  ids:
+    imslp: 4 Lieder von Franz Schubert, S.375 (Liszt, Franz)
+  year: 1860
+formula: ''
+instrumentation:
+  additional_raw: Voice and Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Lieder_von_Franz_Schubert%2C_S.375_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Orchestra'

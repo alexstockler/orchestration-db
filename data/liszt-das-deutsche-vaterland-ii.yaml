@@ -1,0 +1,15 @@
+id: liszt-das-deutsche-vaterland-ii
+work:
+  composer: Liszt, Franz
+  title: Das deutsche Vaterland II
+  ids:
+    imslp: Das deutsche Vaterland II, S.74/2 (Liszt, Franz)
+  year: 1848
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_deutsche_Vaterland_II%2C_S.74/2_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

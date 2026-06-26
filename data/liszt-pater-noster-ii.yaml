@@ -1,0 +1,15 @@
+id: liszt-pater-noster-ii
+work:
+  composer: Liszt, Franz
+  title: Pater noster II
+  ids:
+    imslp: Pater noster II, S.29 (Liszt, Franz)
+  year: 1860
+formula: ''
+instrumentation:
+  additional_raw: Mixed Choir and Organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pater_noster_II%2C_S.29_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed Choir and Organ'

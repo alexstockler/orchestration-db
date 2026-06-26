@@ -1,0 +1,77 @@
+id: strauss-friedenstag
+work:
+  composer: Strauss, Richard
+  title: Friedenstag
+  ids:
+    imslp: Friedenstag, Op.81 (Strauss, Richard)
+  year: 1935
+formula: 3[1.2.3/pic] 3[1.2.Eh] 4[1.2.3.bcl] 4[1.2.3.cbn] 6540 tmp org
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 6
+  trumpet: 5
+  trombone: 4
+  percussion:
+    timpani: 1
+    instruments:
+    - glockenspiel
+  keyboards:
+  - instrument: organ
+  soloists:
+  - 'Commandant of the beleaguered town: (baritone)'
+  - Maria
+  - 'the commandant''s wife: (soprano)'
+  - 'A Sergeant-Major: (bass)'
+  - 'A corporal: (baritone or tenor)'
+  - 'A private soldier: (tenor)'
+  - 'A musketeer: (bass)'
+  - 'A bugler: (bass)'
+  - 'An officer: (baritone)'
+  - 'A front-line officer: (baritone)'
+  - 'A Piedmontese: (tenor)'
+  - The Holsteiner
+  - 'commanding the besieging army: (bass)'
+  - 'The burgomaster (Mayor): (tenor)'
+  - 'The bishop: (baritone)'
+  - 'A woman of the people: (soprano) Mixed Chorus (SATB) :Soldiers of the garrison
+    and of the besieging army'
+  - elders of the town and
+  - women of the deputation to the commandant
+  - townspeople Pit
+  additional_raw: 'bass tuba | percussion: | (Bass drum, snare drum, tenor drum, tam-tam)
+    | strings (16,16,12,10,8) On-Stage Orchestra'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Friedenstag%2C_Op.81_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Commandant of the beleaguered town: (baritone), Maria,
+    the commandant''s wife: (soprano), A Sergeant-Major: (bass), A corporal: (baritone
+    or tenor), A private soldier: (tenor), A musketeer: (bass), A bugler: (bass),
+    An officer: (baritone), A front-line officer: (baritone), A Piedmontese: (tenor),
+    The Holsteiner, commanding the besieging army: (bass), The burgomaster (Mayor):
+    (tenor), The bishop: (baritone), A woman of the people: (soprano) Mixed Chorus
+    (SATB) :Soldiers of the garrison and of the besieging army, elders of the town
+    and, women of the deputation to the commandant, townspeople Pit Orchestra :3 flutes
+    (3rd also piccolo), 2 oboes, English horn, clarinet (C), 2 clarinets ::bass clarinet,
+    3 bassoons, contrabassoon :6 horns, 4 trumpets, 4 trombones, bass tuba :timpani,
+    percussion: ::(Bass drum, snare drum, tenor drum, tam-tam) :strings (16,16,12,10,8)
+    On-Stage Orchestra :Trumpet, glockenspiel, organ'
+duration_minutes: 80

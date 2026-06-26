@@ -1,0 +1,16 @@
+id: handel-lungi-dal-mio-bel-nume
+work:
+  composer: Handel, George Frideric
+  title: Lungi dal mio bel nume
+  ids:
+    imslp: Lungi dal mio bel nume, HWV 127a (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lungi_dal_mio_bel_nume%2C_HWV_127a_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

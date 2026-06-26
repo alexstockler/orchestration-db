@@ -1,0 +1,16 @@
+id: handel-clori-mia-bella-clori
+work:
+  composer: Handel, George Frideric
+  title: Clori, mia bella Clori
+  ids:
+    imslp: Clori, mia bella Clori, HWV 92 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: 2 violins | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Clori%2C_mia_bella_Clori%2C_HWV_92_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 2 violins, continuo'

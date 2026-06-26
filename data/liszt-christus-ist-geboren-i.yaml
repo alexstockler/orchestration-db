@@ -1,0 +1,17 @@
+id: liszt-christus-ist-geboren-i
+work:
+  composer: Liszt, Franz
+  title: Christus ist geboren I
+  ids:
+    imslp: Christus ist geboren, S.31 (Liszt, Franz)
+  year: 1863
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Christus_ist_geboren%2C_S.31_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), organ'

@@ -1,0 +1,16 @@
+id: strauss-piano-sonata
+work:
+  composer: Strauss, Richard
+  title: Piano Sonata
+  ids:
+    imslp: Piano Sonata, Op.5 (Strauss, Richard)
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata%2C_Op.5_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,18 @@
+id: handel-concerto-grosso-in-g-major
+work:
+  composer: Handel, George Frideric
+  title: Concerto Grosso in G major
+  ids:
+    imslp: Concerto Grosso in G major, HWV 314 (Handel, George Frideric)
+  year: 1717
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  additional_raw: 'Ripieno: strings | continuo (bassoon, keyboard)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_Grosso_in_G_major%2C_HWV_314_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Concertino: flute (or oboe), Ripieno: strings, continuo
+    (bassoon, keyboard)'
+duration_minutes: 8

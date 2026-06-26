@@ -1,0 +1,15 @@
+id: liszt-o-salutaris-hostia-i
+work:
+  composer: Liszt, Franz
+  title: O salutaris hostia I
+  ids:
+    imslp: O salutaris hostia I, S.40 (Liszt, Franz)
+  year: 1869
+formula: ''
+instrumentation:
+  additional_raw: Female Chorus (SSAA) and Organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_salutaris_hostia_I%2C_S.40_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Female Chorus (SSAA) and Organ'

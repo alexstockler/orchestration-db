@@ -1,0 +1,32 @@
+id: vivaldi-juditha-triumphans
+work:
+  composer: Vivaldi, Antonio
+  title: Juditha Triumphans
+  ids:
+    imslp: Juditha Triumphans, RV 644 (Vivaldi, Antonio)
+  year: 1716
+formula: 0220 0200 tmp org mand
+instrumentation:
+  oboe: 2
+  clarinet: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: organ
+  extras:
+  - instrument: mandolin
+  soloists:
+  - 2 sopranos
+  - 3 contraltos
+  - female chorus (SATB [sic])
+  additional_raw: 2 recorders | soprano chalumeau | 4 theorbs | strings (including
+    viola d'amore and 5 violas all'inglese (violas da gamba))
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Juditha_Triumphans%2C_RV_644_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: 2 sopranos, 3 contraltos, female chorus (SATB [sic]),
+    Orchestra: 2 recorders, 2 oboes, soprano chalumeau, 2 clarinets, 2 trumpets, mandolin,
+    4 theorbs, timpani, strings (including viola d''amore and 5 violas all''inglese
+    (violas da gamba)), organ'

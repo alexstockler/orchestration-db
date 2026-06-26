@@ -1,0 +1,15 @@
+id: handel-aria-in-c-minor
+work:
+  composer: Handel, George Frideric
+  title: Aria in C minor
+  ids:
+    imslp: Aria in C minor, HWV 459 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aria_in_C_minor%2C_HWV_459_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

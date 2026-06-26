@@ -1,0 +1,16 @@
+id: handel-occhi-miei-che-faceste
+work:
+  composer: Handel, George Frideric
+  title: Occhi miei che faceste?
+  ids:
+    imslp: Occhi miei che faceste?, HWV 146 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Occhi_miei_che_faceste%3F%2C_HWV_146_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

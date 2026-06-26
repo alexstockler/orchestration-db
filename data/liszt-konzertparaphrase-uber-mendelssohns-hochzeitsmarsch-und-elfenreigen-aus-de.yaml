@@ -1,0 +1,19 @@
+id: liszt-konzertparaphrase-uber-mendelssohns-hochzeitsmarsch-und-elfenreigen-aus-de
+work:
+  composer: Liszt, Franz
+  title: Konzertparaphrase über Mendelssohns Hochzeitsmarsch und Elfenreigen aus der
+    Musik zu Shakespeares Sommernachtstraum
+  ids:
+    imslp: Concert Paraphrase on Mendelssohn's 'Sommernachtstraum', S.410 (Liszt,
+      Franz)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concert_Paraphrase_on_Mendelssohn%27s_%27Sommernachtstraum%27%2C_S.410_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 10

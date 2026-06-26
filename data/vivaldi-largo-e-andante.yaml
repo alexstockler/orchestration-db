@@ -1,0 +1,15 @@
+id: vivaldi-largo-e-andante
+work:
+  composer: Vivaldi, Antonio
+  title: Largo e andante
+  ids:
+    imslp: Largo e Andante, RV 746 (Vivaldi, Antonio)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Largo_e_Andante%2C_RV_746_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

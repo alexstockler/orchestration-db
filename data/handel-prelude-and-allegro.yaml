@@ -1,0 +1,15 @@
+id: handel-prelude-and-allegro
+work:
+  composer: Handel, George Frideric
+  title: Prelude and Allegro
+  ids:
+    imslp: Prelude and Allegro, HWV 576 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude_and_Allegro%2C_HWV_576_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

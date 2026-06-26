@@ -1,0 +1,17 @@
+id: liszt-der-todesengel
+work:
+  composer: Liszt, Franz
+  title: Der Todesengel
+  ids:
+    imslp: Der Todesengel, S.190a (Liszt, Franz)
+  year: 1871
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Todesengel%2C_S.190a_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 3

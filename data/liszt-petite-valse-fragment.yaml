@@ -1,0 +1,17 @@
+id: liszt-petite-valse-fragment
+work:
+  composer: Liszt, Franz
+  title: Petite Valse (Fragment)
+  ids:
+    imslp: Petite Valse, S.695e (Liszt, Franz)
+  year: 1884
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Petite_Valse%2C_S.695e_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 2

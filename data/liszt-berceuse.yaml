@@ -1,0 +1,16 @@
+id: liszt-berceuse
+work:
+  composer: Liszt, Franz
+  title: Berceuse
+  ids:
+    imslp: Berceuse, S.174 (Liszt, Franz)
+  year: 1854
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Berceuse%2C_S.174_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

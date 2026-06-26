@@ -1,0 +1,16 @@
+id: handel-partenza-di-g-b
+work:
+  composer: Handel, George Frideric
+  title: Partenza di G.B.
+  ids:
+    imslp: Partenza di G.B., HWV 168 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Partenza_di_G.B.%2C_HWV_168_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

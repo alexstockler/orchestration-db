@@ -1,0 +1,17 @@
+id: handel-laudate-pueri-dominum
+work:
+  composer: Handel, George Frideric
+  title: Laudate pueri Dominum
+  ids:
+    imslp: Laudate pueri Dominum, HWV 236 (Handel, George Frideric)
+  year: 1706
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: 2 violins | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Laudate_pueri_Dominum%2C_HWV_236_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 2 violins, continuo'

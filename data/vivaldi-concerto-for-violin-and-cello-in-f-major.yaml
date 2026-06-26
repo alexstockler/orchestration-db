@@ -1,0 +1,16 @@
+id: vivaldi-concerto-for-violin-and-cello-in-f-major
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for Violin and Cello in F major
+  ids:
+    imslp: Concerto for Violin and Cello in F major, RV 544 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: violin | cello | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_Violin_and_Cello_in_F_major%2C_RV_544_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, strings, continuo'
+duration_minutes: 10

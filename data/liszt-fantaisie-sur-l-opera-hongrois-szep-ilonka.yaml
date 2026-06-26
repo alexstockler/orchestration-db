@@ -1,0 +1,16 @@
+id: liszt-fantaisie-sur-l-opera-hongrois-szep-ilonka
+work:
+  composer: Liszt, Franz
+  title: Fantaisie sur l'opéra hongrois Szép Ilonka
+  ids:
+    imslp: Fantaisie sur l'opéra hongroise Szép Ilonka, S.417 (Liszt, Franz)
+  year: 1865
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantaisie_sur_l%27op%C3%A9ra_hongroise_Sz%C3%A9p_Ilonka%2C_S.417_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

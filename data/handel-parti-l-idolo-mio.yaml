@@ -1,0 +1,17 @@
+id: handel-parti-l-idolo-mio
+work:
+  composer: Handel, George Frideric
+  title: Partì, l'idolo mio
+  ids:
+    imslp: Partì, l'idolo mio, HWV 147 (Handel, George Frideric)
+  year: 1710
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Part%C3%AC%2C_l%27idolo_mio%2C_HWV_147_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

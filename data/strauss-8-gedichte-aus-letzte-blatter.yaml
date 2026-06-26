@@ -1,0 +1,17 @@
+id: strauss-8-gedichte-aus-letzte-blatter
+work:
+  composer: Strauss, Richard
+  title: 8 Gedichte aus "Letzte Blätter"
+  ids:
+    imslp: 8 Gedichte aus 'Letzte Blätter', Op.10 (Strauss, Richard)
+  year: 1885
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: high voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Gedichte_aus_%27Letzte_Bl%C3%A4tter%27%2C_Op.10_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: high voice, piano (orchestrated later)'

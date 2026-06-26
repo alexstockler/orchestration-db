@@ -1,0 +1,19 @@
+id: handel-let-god-arise
+work:
+  composer: Handel, George Frideric
+  title: Let God Arise
+  ids:
+    imslp: Let God Arise, HWV 256a (Handel, George Frideric)
+  year: 1717
+formula: 0101 0000 str
+instrumentation:
+  oboe: 1
+  bassoon: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Let_God_Arise%2C_HWV_256a_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, bassoon, strings, continuo'
+duration_minutes: 25

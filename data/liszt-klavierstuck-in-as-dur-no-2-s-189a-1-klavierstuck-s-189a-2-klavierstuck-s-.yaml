@@ -1,0 +1,17 @@
+id: liszt-klavierstuck-in-as-dur-no-2-s-189a-1-klavierstuck-s-189a-2-klavierstuck-s-
+work:
+  composer: Liszt, Franz
+  title: Klavierstück in As-dur No.2 (S.189a/1), Klavierstück (S.189a/2), Klavierstück
+    (S.189a/3)
+  ids:
+    imslp: Klavierstücke, S.189a (Liszt, Franz)
+  year: 1845
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Klavierst%C3%BCcke%2C_S.189a_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

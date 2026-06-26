@@ -1,0 +1,16 @@
+id: handel-nella-stagion-che-di-viole-e-rose
+work:
+  composer: Handel, George Frideric
+  title: Nella stagion che di viole e rose
+  ids:
+    imslp: Nella stagion che di viole e rose, HWV 137 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nella_stagion_che_di_viole_e_rose%2C_HWV_137_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

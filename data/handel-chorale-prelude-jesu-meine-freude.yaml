@@ -1,0 +1,14 @@
+id: handel-chorale-prelude-jesu-meine-freude
+work:
+  composer: Handel, George Frideric
+  title: Chorale prelude "Jesu, meine Freude"
+  ids:
+    imslp: Chorale, HWV 480 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chorale%2C_HWV_480_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

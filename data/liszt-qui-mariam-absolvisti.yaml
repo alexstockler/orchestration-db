@@ -1,0 +1,18 @@
+id: liszt-qui-mariam-absolvisti
+work:
+  composer: Liszt, Franz
+  title: Qui Mariam absolvisti
+  ids:
+    imslp: Qui Mariam absolvisti, S.65 (Liszt, Franz)
+  year: 1885
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+  additional_raw: Baritone voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Qui_Mariam_absolvisti%2C_S.65_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Baritone voice, Mixed Chorus, Organ (or Harmonium)'

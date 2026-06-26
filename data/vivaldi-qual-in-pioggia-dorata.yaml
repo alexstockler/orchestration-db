@@ -1,0 +1,18 @@
+id: vivaldi-qual-in-pioggia-dorata
+work:
+  composer: Vivaldi, Antonio
+  title: Qual in pioggia dorata
+  ids:
+    imslp: Qual in pioggia dorata, RV 686 (Vivaldi, Antonio)
+formula: 0000 2000 str
+instrumentation:
+  horn: 2
+  strings: str
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Qual_in_pioggia_dorata%2C_RV_686_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, 2 horns, strings, continuo'

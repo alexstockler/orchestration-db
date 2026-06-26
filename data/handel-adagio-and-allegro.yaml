@@ -1,0 +1,22 @@
+id: handel-adagio-and-allegro
+work:
+  composer: Handel, George Frideric
+  title: Adagio and Allegro
+  ids:
+    imslp: Adagio and Allegro, HWV 338 (Handel, George Frideric)
+  year: 1722
+formula: ''
+instrumentation:
+  soloists:
+  - 'Solo: [in Adagio only] flute'
+  - lute
+  - violin
+  - cello
+  - double bass
+  additional_raw: 2 oboes + 2 violins | violas | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adagio_and_Allegro%2C_HWV_338_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: [in Adagio only] flute, lute, violin, cello, double
+    bass, Orchestra: 2 oboes + 2 violins, violas, continuo'

@@ -1,0 +1,14 @@
+id: handel-minuet-in-f-major-hwv-519
+work:
+  composer: Handel, George Frideric
+  title: Minuet in F major, HWV 519
+  ids:
+    imslp: Minuet in F major, HWV 519 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Minuet_in_F_major%2C_HWV_519_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

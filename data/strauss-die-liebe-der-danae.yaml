@@ -1,0 +1,86 @@
+id: strauss-die-liebe-der-danae
+work:
+  composer: Strauss, Richard
+  title: Die Liebe der Danae
+  ids:
+    imslp: Die Liebe der Danae, Op.83 (Strauss, Richard)
+  year: 1938
+formula: 4[pic.2/pic.3/pic.4] 3[1.2.Eh] 5[Ebcl.2.3.bhn.bcl] 4[1.2.3.cbn] 6440 tmp
+  cel pf 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - doublings:
+    - piccolo
+  - doublings:
+    - piccolo
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - instrument: basset_horn
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 6
+  trumpet: 4
+  trombone: 4
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: celesta
+  - instrument: piano
+  harp: 2
+  strings:
+    standard: true
+    description: 16,16,12,10,8
+  soloists:
+  - 'Jupiter: (baritone)'
+  - 'Merkur (Mercury): (tenor)'
+  - Pollux
+  - 'King of Eos: (tenor)'
+  - Danae
+  - 'Pollux''s daughter: (soprano)'
+  - Xanthe
+  - 'Pollux''s servant: (soprano)'
+  - Midas
+  - 'King of Lydia: (tenor)'
+  - Semele
+  - 'a Queen: (soprano)'
+  - Europa
+  - 'a Queen: (soprano)'
+  - Alkmene
+  - 'a Queen: (mezzo soprano)'
+  - Leda
+  - 'a Queen: (contralto)'
+  - Four Kings
+  - 'nephews to Pollux: (2 tenors, 2 basses)'
+  - 'Four Guards (Watchmen): (basses) Mixed Chorus (SATB) :Creditors'
+  - servants and followers of Pollux and Danae
+  - people
+  additional_raw: 'bass tuba | percussion (2 players): | (bass drum, snare drum, tenor
+    drum, cymbals, triangle, tambourine, tam-tam, glockenspiel)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Liebe_der_Danae%2C_Op.83_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Jupiter: (baritone), Merkur (Mercury): (tenor), Pollux,
+    King of Eos: (tenor), Danae, Pollux''s daughter: (soprano), Xanthe, Pollux''s
+    servant: (soprano), Midas, King of Lydia: (tenor), Semele, a Queen: (soprano),
+    Europa, a Queen: (soprano), Alkmene, a Queen: (mezzo soprano), Leda, a Queen:
+    (contralto), Four Kings, nephews to Pollux: (2 tenors, 2 basses), Four Guards
+    (Watchmen): (basses) Mixed Chorus (SATB) :Creditors, servants and followers of
+    Pollux and Danae, people Orchestra :piccolo, 3 flutes (2nd and 3rd also piccolo),
+    2 oboes, english horn,, clarinet (E), 2 clarinets ::basset horn, bass clarinet,
+    3 bassoons, contrabassoon :6 horns , 4 trumpets, 4 trombones, bass tuba :timpani,
+    percussion (2 players): ::(bass drum, snare drum, tenor drum, cymbals, triangle,
+    tambourine, tam-tam, glockenspiel) :celesta, piano, 2 harps, strings (16,16,12,10,8)'
+duration_minutes: 180

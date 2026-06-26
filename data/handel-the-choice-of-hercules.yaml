@@ -1,0 +1,19 @@
+id: handel-the-choice-of-hercules
+work:
+  composer: Handel, George Frideric
+  title: The Choice of Hercules
+  ids:
+    imslp: The Choice of Hercules, HWV 69 (Handel, George Frideric)
+  year: 1750
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: Cast | Hercules (alto) | Pleasure (soprano) | Virtue (alto) | An
+    Attendant on Pleasure (tenor)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Choice_of_Hercules%2C_HWV_69_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Cast ::Hercules (alto), Pleasure
+    (soprano), Virtue (alto), An Attendant on Pleasure (tenor) :Mixed Chorus (SATB)
+    :Orchestra'

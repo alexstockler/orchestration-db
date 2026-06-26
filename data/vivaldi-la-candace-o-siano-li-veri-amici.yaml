@@ -1,0 +1,14 @@
+id: vivaldi-la-candace-o-siano-li-veri-amici
+work:
+  composer: Vivaldi, Antonio
+  title: La Candace, o siano Li veri amici
+  ids:
+    imslp: La Candace o siano Li veri amici, RV 704 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  additional_raw: '|Tags=opera seria | librettos | it'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_Candace_o_siano_Li_veri_amici%2C_RV_704_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: |Tags=opera seria ; librettos ; it'

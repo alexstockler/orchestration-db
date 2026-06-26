@@ -1,0 +1,16 @@
+id: liszt-grand-galop-chromatique
+work:
+  composer: Liszt, Franz
+  title: Grand galop chromatique
+  ids:
+    imslp: Grand galop chromatique, S.219 (Liszt, Franz)
+  year: 1838
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grand_galop_chromatique%2C_S.219_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

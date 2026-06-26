@@ -1,0 +1,18 @@
+id: liszt-die-seligkeiten
+work:
+  composer: Liszt, Franz
+  title: Die Seligkeiten
+  ids:
+    imslp: Die Seligkeiten, S.25 (Liszt, Franz)
+  year: 1859
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+  additional_raw: Baritone voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Seligkeiten%2C_S.25_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Baritone voice, Mixed Chorus, Organ (ad lib.)'

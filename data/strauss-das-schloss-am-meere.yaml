@@ -1,0 +1,15 @@
+id: strauss-das-schloss-am-meere
+work:
+  composer: Strauss, Richard
+  title: Das Schloss am Meere
+  ids:
+    imslp: Das Schloss am Meere, TrV 191 (Strauss, Richard)
+  year: 1899
+formula: ''
+instrumentation:
+  additional_raw: Piano and narrator
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Schloss_am_Meere%2C_TrV_191_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano and narrator'

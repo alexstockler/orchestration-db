@@ -1,0 +1,18 @@
+id: strauss-deutsche-motette
+work:
+  composer: Strauss, Richard
+  title: Deutsche Motette
+  ids:
+    imslp: Deutsche Motette, Op.62 (Strauss, Richard)
+  year: 1913
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  additional_raw: tenor bass + mixed chorus (4 x SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Deutsche_Motette%2C_Op.62_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Soprano, alto, tenor bass + mixed chorus (4 x SATB)'

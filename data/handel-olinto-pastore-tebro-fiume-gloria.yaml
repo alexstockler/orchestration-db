@@ -1,0 +1,18 @@
+id: handel-olinto-pastore-tebro-fiume-gloria
+work:
+  composer: Handel, George Frideric
+  title: Olinto pastore, Tebro fiume, Gloria
+  ids:
+    imslp: Olinto pastore, Tebro fiume, Gloria, HWV 143 (Handel, George Frideric)
+formula: 0000 0100
+instrumentation:
+  trumpet: 1
+  soloists:
+  - sopranos
+  - alto
+  additional_raw: 2 violins | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Olinto_pastore%2C_Tebro_fiume%2C_Gloria%2C_HWV_143_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, alto, trumpet, 2 violins, continuo'

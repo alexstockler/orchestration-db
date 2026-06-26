@@ -1,0 +1,16 @@
+id: vivaldi-indarno-cerca-la-tortorella
+work:
+  composer: Vivaldi, Antonio
+  title: Indarno cerca la tortorella
+  ids:
+    imslp: Indarno cerca la tortorella, RV 659 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Indarno_cerca_la_tortorella%2C_RV_659_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

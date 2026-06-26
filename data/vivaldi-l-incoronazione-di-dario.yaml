@@ -1,0 +1,16 @@
+id: vivaldi-l-incoronazione-di-dario
+work:
+  composer: Vivaldi, Antonio
+  title: L'incoronazione di Dario
+  ids:
+    imslp: L'incoronazione di Dario, RV 719 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27incoronazione_di_Dario%2C_RV_719_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

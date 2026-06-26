@@ -1,0 +1,17 @@
+id: liszt-apparitions
+work:
+  composer: Liszt, Franz
+  title: Apparitions
+  ids:
+    imslp: Apparitions, S.155 (Liszt, Franz)
+  year: 1834
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Apparitions%2C_S.155_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'
+duration_minutes: 18

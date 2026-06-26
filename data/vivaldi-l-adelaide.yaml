@@ -1,0 +1,15 @@
+id: vivaldi-l-adelaide
+work:
+  composer: Vivaldi, Antonio
+  title: L'Adelaide
+  ids:
+    imslp: L'Adelaide, RV 695 (Vivaldi, Antonio)
+  year: 1735
+formula: ''
+instrumentation:
+  additional_raw: undetermined (the score is listed as lost)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27Adelaide%2C_RV_695_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: undetermined (the score is listed as lost)'

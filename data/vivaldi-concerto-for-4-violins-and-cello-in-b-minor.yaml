@@ -1,0 +1,16 @@
+id: vivaldi-concerto-for-4-violins-and-cello-in-b-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for 4 Violins and Cello in B minor
+  ids:
+    imslp: Concerto in B minor, RV 580 (Vivaldi, Antonio)
+  year: 1711
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: 4 violins | cello | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_in_B_minor%2C_RV_580_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 violins, cello, strings, continuo'

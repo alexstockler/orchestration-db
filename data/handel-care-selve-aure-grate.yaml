@@ -1,0 +1,17 @@
+id: handel-care-selve-aure-grate
+work:
+  composer: Handel, George Frideric
+  title: Care selve, aure grate
+  ids:
+    imslp: Care selve, aure grate, HWV 88 (Handel, George Frideric)
+  year: 1707
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Care_selve%2C_aure_grate%2C_HWV_88_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

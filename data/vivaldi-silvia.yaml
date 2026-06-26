@@ -1,0 +1,16 @@
+id: vivaldi-silvia
+work:
+  composer: Vivaldi, Antonio
+  title: Silvia
+  ids:
+    imslp: La Silvia, RV 734 (Vivaldi, Antonio)
+  year: 1721
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_Silvia%2C_RV_734_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra (see below, Comments)'

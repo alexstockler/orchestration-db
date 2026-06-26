@@ -1,0 +1,17 @@
+id: liszt-notturno
+work:
+  composer: Liszt, Franz
+  title: Notturno
+  ids:
+    imslp: Notturno, S.698b (Liszt, Franz)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Notturno%2C_S.698b_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

@@ -1,0 +1,41 @@
+id: liszt-requiem
+work:
+  composer: Liszt, Franz
+  title: Requiem
+  ids:
+    imslp: Agnus Dei della Messa da Requiem di Giuseppe Verdi, S.437 (Liszt, Franz)
+  year: 1874
+formula: 3[1.2.3/pic] 2 2 4 4830 tmp ophicleide str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 4
+  horn: 4
+  trumpet: 8
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+  extras:
+  - instrument: ophicleide
+  strings: str
+  soloists:
+  - soprano
+  - mezzo-soprano
+  - tenor
+  - bass Mixed Chorus (8 parts)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Agnus_Dei_della_Messa_da_Requiem_di_Giuseppe_Verdi%2C_S.437_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo Voices :soprano, mezzo-soprano, tenor, bass Mixed
+    Chorus (8 parts), Orchestra :3 flutes (3rd also piccolo), 2 oboes, 2 clarinets,
+    4 bassoons, 4 horns, 4 trumpets, 3 trombones, ophicleide (tuba), timpani, bass
+    drum, strings '' :4 trumpets'
+duration_minutes: 90

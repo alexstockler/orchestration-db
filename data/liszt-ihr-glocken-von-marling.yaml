@@ -1,0 +1,16 @@
+id: liszt-ihr-glocken-von-marling
+work:
+  composer: Liszt, Franz
+  title: Ihr Glocken von Marling
+  ids:
+    imslp: Ihr Glocken von Marling, S.328 (Liszt, Franz)
+  year: 1874
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ihr_Glocken_von_Marling%2C_S.328_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

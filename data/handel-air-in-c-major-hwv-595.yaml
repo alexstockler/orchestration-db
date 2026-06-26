@@ -1,0 +1,14 @@
+id: handel-air-in-c-major-hwv-595
+work:
+  composer: Handel, George Frideric
+  title: Air in C major, HWV 595
+  ids:
+    imslp: Air in C major, HWV 595 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: music box
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Air_in_C_major%2C_HWV_595_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: music box'

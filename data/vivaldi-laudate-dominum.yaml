@@ -1,0 +1,17 @@
+id: vivaldi-laudate-dominum
+work:
+  composer: Vivaldi, Antonio
+  title: Laudate Dominum
+  ids:
+    imslp: Laudate Dominum, RV 606 (Vivaldi, Antonio)
+  year: 1713
+formula: str
+instrumentation:
+  strings: str
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Laudate_Dominum%2C_RV_606_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), strings, continuo'

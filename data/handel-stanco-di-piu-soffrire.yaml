@@ -1,0 +1,16 @@
+id: handel-stanco-di-piu-soffrire
+work:
+  composer: Handel, George Frideric
+  title: Stanco di più soffrire
+  ids:
+    imslp: Stanco di più soffrire, HWV 167a (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Stanco_di_pi%C3%B9_soffrire%2C_HWV_167a_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, continuo'

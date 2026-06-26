@@ -1,0 +1,34 @@
+id: liszt-die-glocken-des-strassburger-munsters
+work:
+  composer: Liszt, Franz
+  title: Die Glocken des Strassburger Münsters
+  ids:
+    imslp: Die Glocken des Strassburger Münsters, S.6 (Liszt, Franz)
+  year: 1868
+formula: 2222 4231 tmp org 2hp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+  keyboards:
+  - instrument: organ
+  harp: 2
+  strings: str
+  additional_raw: deep bell (or tamtam)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Glocken_des_Strassburger_M%C3%BCnsters%2C_S.6_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets (B), 2 bassoons, 4 horns
+    (E/F), 2 trumpets (E/F), 3 trombones, tuba, timpani, cymbals, deep bell (or tamtam),
+    2 harps, organ, strings'
+duration_minutes: 15

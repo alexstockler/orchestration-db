@@ -1,0 +1,16 @@
+id: handel-8-great-suites-1720
+work:
+  composer: Handel, George Frideric
+  title: 8 Great Suites (1720)
+  ids:
+    imslp: 8 Great Suites, HWV 426-433 (Handel, George Frideric)
+  year: 1720
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Great_Suites%2C_HWV_426-433_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

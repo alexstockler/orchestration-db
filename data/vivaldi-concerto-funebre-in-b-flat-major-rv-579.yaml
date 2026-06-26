@@ -1,0 +1,16 @@
+id: vivaldi-concerto-funebre-in-b-flat-major-rv-579
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto funebre in B-flat major, RV 579
+  ids:
+    imslp: Concerto funebre in B-flat major, RV 579 (Vivaldi, Antonio)
+formula: 0100 0000 str
+instrumentation:
+  oboe: 1
+  strings: str
+  additional_raw: violin | chalumeau | 3 viole all'inglese
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_funebre_in_B-flat_major%2C_RV_579_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, oboe, chalumeau, 3 viole all''inglese, strings'

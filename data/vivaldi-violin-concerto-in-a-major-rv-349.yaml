@@ -1,0 +1,15 @@
+id: vivaldi-violin-concerto-in-a-major-rv-349
+work:
+  composer: Vivaldi, Antonio
+  title: Violin Concerto in A major, RV 349
+  ids:
+    imslp: Violin Concerto in A major, RV 349 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: violin | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Concerto_in_A_major%2C_RV_349_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, strings, continuo'

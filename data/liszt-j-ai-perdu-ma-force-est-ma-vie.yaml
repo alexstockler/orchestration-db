@@ -1,0 +1,16 @@
+id: liszt-j-ai-perdu-ma-force-est-ma-vie
+work:
+  composer: Liszt, Franz
+  title: J'ai perdu ma force est ma vie
+  ids:
+    imslp: J'ai perdu ma force et ma vie, S.327 (Liszt, Franz)
+  year: 1872
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/J%27ai_perdu_ma_force_et_ma_vie%2C_S.327_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

@@ -1,0 +1,15 @@
+id: vivaldi-la-costanza-trionfante-degl-amori-e-degl-odii
+work:
+  composer: Vivaldi, Antonio
+  title: La costanza trionfante degl'amori e degl'odii
+  ids:
+    imslp: La costanza trionfante degl'amori e degl'odii, RV 706 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_costanza_trionfante_degl%27amori_e_degl%27odii%2C_RV_706_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

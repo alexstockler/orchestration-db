@@ -1,0 +1,29 @@
+id: handel-arianna-in-creta
+work:
+  composer: Handel, George Frideric
+  title: Arianna in Creta
+  ids:
+    imslp: Arianna in Creta, HWV 32 (Handel, George Frideric)
+  year: 1733
+formula: 1200 2000 str
+instrumentation:
+  flute: 1
+  oboe: 2
+  horn: 2
+  strings: str
+  soloists:
+  - Arianna (soprano)
+  - Teseo (mezzo-soprano castrato)
+  - Carilda (contralto)
+  - Alceste (mezzp-soprano castrato)
+  - Tauride (contralto)
+  - Minos (bass)
+  additional_raw: '[bassoon] | continuo (harpsichord, lute, cello)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Arianna_in_Creta%2C_HWV_32_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Arianna (soprano), Teseo (mezzo-soprano castrato),
+    Carilda (contralto), Alceste (mezzp-soprano castrato), Tauride (contralto), Minos
+    (bass) Orchestra :flute, 2 oboes, [bassoon], 2 horns, strings, continuo (harpsichord,
+    lute, cello)'

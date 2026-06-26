@@ -1,0 +1,28 @@
+id: vivaldi-armida-al-campo-d-egitto
+work:
+  composer: Vivaldi, Antonio
+  title: Armida al campo d'Egitto
+  ids:
+    imslp: Armida al campo d'Egitto, RV 699 (Vivaldi, Antonio)
+  year: 1718
+formula: 0000 2000 str
+instrumentation:
+  horn: 2
+  strings: str
+  soloists:
+  - 'According to Turin autograph manuscript: *Cast: Armida (A)'
+  - Califfo (B)
+  - Osmira (S)
+  - Erminia (S)
+  - Emireno (S)
+  - Adrasto (A)
+  - Tisaferno (A) *Mixed Chorus (SAB) *
+  additional_raw: solo violin | solo cello | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Armida_al_campo_d%27Egitto%2C_RV_699_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: According to Turin autograph manuscript: *Cast: Armida
+    (A), Califfo (B), Osmira (S), Erminia (S), Emireno (S), Adrasto (A), Tisaferno
+    (A) *Mixed Chorus (SAB) *Orchestra: solo violin, solo cello, 2 horns, strings,
+    continuo'

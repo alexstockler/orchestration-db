@@ -1,0 +1,17 @@
+id: liszt-2-sketches-from-1829-s-692p
+work:
+  composer: Liszt, Franz
+  title: 2 Sketches from 1829, S.692p
+  ids:
+    imslp: 2 Sketches from 1829, S.692p (Liszt, Franz)
+  year: 1829
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Sketches_from_1829%2C_S.692p_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 2

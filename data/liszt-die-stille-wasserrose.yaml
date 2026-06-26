@@ -1,0 +1,18 @@
+id: liszt-die-stille-wasserrose
+work:
+  composer: Liszt, Franz
+  title: Die stille Wasserrose
+  ids:
+    imslp: Die stille Wasserrose, S.321 (Liszt, Franz)
+  year: 1860
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_stille_Wasserrose%2C_S.321_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

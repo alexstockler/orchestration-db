@@ -1,0 +1,16 @@
+id: liszt-etudes-d-execution-transcendante-d-apres-paganini
+work:
+  composer: Liszt, Franz
+  title: Études d'exécution transcendante d'après Paganini
+  ids:
+    imslp: Études d'exécution transcendante d'après Paganini, S.140 (Liszt, Franz)
+  year: 1838
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%89tudes_d%27ex%C3%A9cution_transcendante_d%27apr%C3%A8s_Paganini%2C_S.140_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

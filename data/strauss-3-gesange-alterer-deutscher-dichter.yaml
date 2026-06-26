@@ -1,0 +1,17 @@
+id: strauss-3-gesange-alterer-deutscher-dichter
+work:
+  composer: Strauss, Richard
+  title: 3 Gesänge älterer deutscher Dichter
+  ids:
+    imslp: 3 Gesänge älterer deutscher Dichter, Op.43 (Strauss, Richard)
+  year: 1899
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: high voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Ges%C3%A4nge_%C3%A4lterer_deutscher_Dichter%2C_Op.43_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: high voice, piano'

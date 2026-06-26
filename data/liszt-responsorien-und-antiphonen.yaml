@@ -1,0 +1,15 @@
+id: liszt-responsorien-und-antiphonen
+work:
+  composer: Liszt, Franz
+  title: Responsorien und Antiphonen
+  ids:
+    imslp: Responsorien und Antiphonen, S.30 (Liszt, Franz)
+  year: 1860
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Responsorien_und_Antiphonen%2C_S.30_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Male Chorus (+ Organ ad lib.)'

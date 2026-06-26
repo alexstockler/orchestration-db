@@ -1,0 +1,16 @@
+id: liszt-grandes-etudes
+work:
+  composer: Liszt, Franz
+  title: Grandes Etudes
+  ids:
+    imslp: Grandes études, S.137 (Liszt, Franz)
+  year: 1837
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grandes_%C3%A9tudes%2C_S.137_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

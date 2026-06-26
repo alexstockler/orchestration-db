@@ -1,0 +1,16 @@
+id: liszt-ballade-no-2
+work:
+  composer: Liszt, Franz
+  title: Ballade No.2
+  ids:
+    imslp: Ballade No.2, S.171 (Liszt, Franz)
+  year: 1853
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ballade_No.2%2C_S.171_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

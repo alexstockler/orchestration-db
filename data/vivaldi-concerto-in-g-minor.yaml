@@ -1,0 +1,16 @@
+id: vivaldi-concerto-in-g-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto in G minor
+  ids:
+    imslp: Chamber Concerto in G minor, RV 103 (Vivaldi, Antonio)
+formula: 0101 0000
+instrumentation:
+  oboe: 1
+  bassoon: 1
+  additional_raw: recorder
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chamber_Concerto_in_G_minor%2C_RV_103_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: recorder, oboe, bassoon'

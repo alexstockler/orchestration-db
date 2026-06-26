@@ -1,0 +1,29 @@
+id: vivaldi-arsilda-regina-di-ponto
+work:
+  composer: Vivaldi, Antonio
+  title: Arsilda, regina di Ponto
+  ids:
+    imslp: Arsilda, regina di Ponto, RV 700 (Vivaldi, Antonio)
+formula: 2000 2200 str
+instrumentation:
+  flute: 2
+  horn: 2
+  trumpet: 2
+  strings: str
+  soloists:
+  - Arsilda (alto)
+  - Lisea (alto)
+  - Mirinda (soprano)
+  - Barzane (soprano, castrato)
+  - Tamese (tenor)
+  - Cisardo (bass)
+  - Nicandro (soprano) Mixed Chorus (SATB) (see below, Comments)
+  additional_raw: 2 solo violins | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Arsilda%2C_regina_di_Ponto%2C_RV_700_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Arsilda (alto), Lisea (alto), Mirinda (soprano),
+    Barzane (soprano, castrato), Tamese (tenor), Cisardo (bass), Nicandro (soprano)
+    Mixed Chorus (SATB) (see below, Comments), Orchestra :2 flutes, 2 trumpets, 2
+    horns, 2 solo violins, strings, continuo'

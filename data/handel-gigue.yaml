@@ -1,0 +1,15 @@
+id: handel-gigue
+work:
+  composer: Handel, George Frideric
+  title: Gigue
+  ids:
+    imslp: Gigue, HWV 492 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gigue%2C_HWV_492_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

@@ -1,0 +1,16 @@
+id: liszt-marche-funebre-de-dom-sebastien-de-donizetti
+work:
+  composer: Liszt, Franz
+  title: Marche funèbre de Dom Sébastien de Donizetti
+  ids:
+    imslp: Marche funèbre de Dom Sébastien de Donizetti, S.402 (Liszt, Franz)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marche_fun%C3%A8bre_de_Dom_S%C3%A9bastien_de_Donizetti%2C_S.402_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

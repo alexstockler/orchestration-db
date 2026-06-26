@@ -1,0 +1,35 @@
+id: liszt-eine-faust-symphonie-in-drei-charakterbildern
+work:
+  composer: Liszt, Franz
+  title: Eine Faust Symphonie (in drei Charakterbildern)
+  ids:
+    imslp: Faust Symphony, S.108 (Liszt, Franz)
+  year: 1854
+formula: 3[1.2.3/pic] 2 2 2 4330 tmp org hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - triangle
+  keyboards:
+  - instrument: organ
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Faust_Symphony%2C_S.108_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 2 oboes, 2 clarinets, 2 bassoons,
+    4 horns, 3 trumpets, 3 trombones, timpani, cymbals, triangle, organ, harp, strings'

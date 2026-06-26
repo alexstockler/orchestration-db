@@ -1,0 +1,16 @@
+id: handel-siete-rose-rugiadose
+work:
+  composer: Handel, George Frideric
+  title: Siete rose rugiadose
+  ids:
+    imslp: Siete rose rugiadose, HWV 162 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Siete_rose_rugiadose%2C_HWV_162_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, continuo'

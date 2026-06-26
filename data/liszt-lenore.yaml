@@ -1,0 +1,15 @@
+id: liszt-lenore
+work:
+  composer: Liszt, Franz
+  title: Lenore
+  ids:
+    imslp: Lenore, S.346 (Liszt, Franz)
+  year: 1857
+formula: ''
+instrumentation:
+  additional_raw: Narrator and Piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lenore%2C_S.346_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Narrator and Piano'

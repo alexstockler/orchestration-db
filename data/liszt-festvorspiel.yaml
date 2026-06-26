@@ -1,0 +1,16 @@
+id: liszt-festvorspiel
+work:
+  composer: Liszt, Franz
+  title: Festvorspiel
+  ids:
+    imslp: Festvorspiel, S.226 (Liszt, Franz)
+  year: 1856
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Festvorspiel%2C_S.226_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

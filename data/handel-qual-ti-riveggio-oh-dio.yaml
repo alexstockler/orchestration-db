@@ -1,0 +1,19 @@
+id: handel-qual-ti-riveggio-oh-dio
+work:
+  composer: Handel, George Frideric
+  title: Qual ti riveggio, oh Dio
+  ids:
+    imslp: Qual ti riveggio, oh Dio, HWV 150 (Handel, George Frideric)
+  year: 1707
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Qual_ti_riveggio%2C_oh_Dio%2C_HWV_150_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 2 oboes, strings, continuo'

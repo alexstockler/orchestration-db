@@ -1,0 +1,15 @@
+id: liszt-mihi-autem-adhaerere
+work:
+  composer: Liszt, Franz
+  title: Mihi autem adhaerere
+  ids:
+    imslp: Mihi autem adhaerere, S.37 (Liszt, Franz)
+  year: 1868
+formula: ''
+instrumentation:
+  additional_raw: Male Chorus (TTBB) and Organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mihi_autem_adhaerere%2C_S.37_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Male Chorus (TTBB) and Organ'

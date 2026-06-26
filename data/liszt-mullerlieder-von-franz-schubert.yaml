@@ -1,0 +1,16 @@
+id: liszt-mullerlieder-von-franz-schubert
+work:
+  composer: Liszt, Franz
+  title: Müllerlieder von Franz Schubert
+  ids:
+    imslp: Müllerlieder von Franz Schubert, S.565 (Liszt, Franz)
+  year: 1846
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/M%C3%BCllerlieder_von_Franz_Schubert%2C_S.565_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,18 @@
+id: strauss-sinnspruch
+work:
+  composer: Strauss, Richard
+  title: Sinnspruch
+  ids:
+    imslp: Sinnspruch, TrV 239 (Strauss, Richard)
+  year: 1919
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sinnspruch%2C_TrV_239_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

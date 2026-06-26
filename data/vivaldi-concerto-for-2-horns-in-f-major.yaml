@@ -1,0 +1,16 @@
+id: vivaldi-concerto-for-2-horns-in-f-major
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for 2 Horns in F major
+  ids:
+    imslp: Concerto for 2 Horns in F major, RV 538 (Vivaldi, Antonio)
+formula: 0000 2000 str
+instrumentation:
+  horn: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Horns_in_F_major%2C_RV_538_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 horns (in F), strings, continuo'

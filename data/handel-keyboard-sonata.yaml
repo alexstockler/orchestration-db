@@ -1,0 +1,17 @@
+id: handel-keyboard-sonata
+work:
+  composer: Handel, George Frideric
+  title: Keyboard Sonata
+  ids:
+    imslp: Keyboard Sonata in G minor, HWV 580 (Handel, George Frideric)
+  year: 1707
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Keyboard_Sonata_in_G_minor%2C_HWV_580_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: organ (or harpsichord)'
+duration_minutes: 2

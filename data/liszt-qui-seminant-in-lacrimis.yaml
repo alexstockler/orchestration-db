@@ -1,0 +1,16 @@
+id: liszt-qui-seminant-in-lacrimis
+work:
+  composer: Liszt, Franz
+  title: Qui seminant in lacrimis
+  ids:
+    imslp: Qui seminant in lacrimis, S.63 (Liszt, Franz)
+  year: 1884
+formula: ''
+instrumentation:
+  additional_raw: Mixed Chorus (SATTB) and Organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Qui_seminant_in_lacrimis%2C_S.63_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed Chorus (SATTB) and Organ'
+duration_minutes: 3

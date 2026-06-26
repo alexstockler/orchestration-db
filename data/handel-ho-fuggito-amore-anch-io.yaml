@@ -1,0 +1,16 @@
+id: handel-ho-fuggito-amore-anch-io
+work:
+  composer: Handel, George Frideric
+  title: Ho fuggito Amore anch'io
+  ids:
+    imslp: Ho fuggito Amore anch'io, HWV 118 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ho_fuggito_Amore_anch%27io%2C_HWV_118_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, continuo'

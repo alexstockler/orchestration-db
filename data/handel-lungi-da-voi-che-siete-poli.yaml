@@ -1,0 +1,16 @@
+id: handel-lungi-da-voi-che-siete-poli
+work:
+  composer: Handel, George Frideric
+  title: Lungi da voi, che siete poli
+  ids:
+    imslp: Lungi da voi, che siete poli, HWV 126c (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lungi_da_voi%2C_che_siete_poli%2C_HWV_126c_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, continuo'

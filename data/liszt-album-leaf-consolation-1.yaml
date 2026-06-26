@@ -1,0 +1,17 @@
+id: liszt-album-leaf-consolation-1
+work:
+  composer: Liszt, Franz
+  title: Album-Leaf 'Consolation 1'
+  ids:
+    imslp: Album-Leaf 'Consolation 1', S.165a (Liszt, Franz)
+  year: 1870
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album-Leaf_%27Consolation_1%27%2C_S.165a_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

@@ -1,0 +1,17 @@
+id: vivaldi-in-turbato-mare-irato
+work:
+  composer: Vivaldi, Antonio
+  title: In turbato mare irato
+  ids:
+    imslp: In turbato mare irato, RV 627 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_turbato_mare_irato%2C_RV_627_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, strings, continuo'

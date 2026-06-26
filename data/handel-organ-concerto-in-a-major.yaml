@@ -1,0 +1,19 @@
+id: handel-organ-concerto-in-a-major
+work:
+  composer: Handel, George Frideric
+  title: Organ Concerto in A major
+  ids:
+    imslp: Organ Concerto in A major, HWV 296a (Handel, George Frideric)
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - organ
+  additional_raw: continuo (bassoon, cellos/basses, harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Organ_Concerto_in_A_major%2C_HWV_296a_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: organ, Orchestra: 2 oboes, strings, continuo (bassoon,
+    cellos/basses, harpsichord)'

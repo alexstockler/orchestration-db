@@ -1,0 +1,15 @@
+id: handel-sonatina-in-a-minor
+work:
+  composer: Handel, George Frideric
+  title: Sonatina in A minor
+  ids:
+    imslp: Keyboard Sonatina in A minor, HWV 584 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Keyboard_Sonatina_in_A_minor%2C_HWV_584_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Harpsichord'

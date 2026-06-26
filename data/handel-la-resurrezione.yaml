@@ -1,0 +1,19 @@
+id: handel-la-resurrezione
+work:
+  composer: Handel, George Frideric
+  title: La resurrezione
+  ids:
+    imslp: La resurrezione, HWV 47 (Handel, George Frideric)
+  year: 1708
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - alto
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_resurrezione%2C_HWV_47_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, alto, tenor, bass, orchestra'

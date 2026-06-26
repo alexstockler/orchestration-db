@@ -1,0 +1,16 @@
+id: liszt-elegy-no-1
+work:
+  composer: Liszt, Franz
+  title: Elegy No.1
+  ids:
+    imslp: Elegy No.1, S.196 (Liszt, Franz)
+  year: 1874
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Elegy_No.1%2C_S.196_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

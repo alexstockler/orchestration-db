@@ -1,0 +1,17 @@
+id: handel-in-the-lord-put-i-my-trust
+work:
+  composer: Handel, George Frideric
+  title: In the Lord put I my Trust
+  ids:
+    imslp: In the Lord put I my Trust, HWV 247 (Handel, George Frideric)
+  year: 1717
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus and orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_the_Lord_put_I_my_Trust%2C_HWV_247_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices, chorus and orchestra'

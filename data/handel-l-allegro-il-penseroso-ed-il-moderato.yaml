@@ -1,0 +1,17 @@
+id: handel-l-allegro-il-penseroso-ed-il-moderato
+work:
+  composer: Handel, George Frideric
+  title: L'Allegro, il Penseroso, ed il Moderato
+  ids:
+    imslp: L'Allegro, il Penseroso ed il Moderato, HWV 55 (Handel, George Frideric)
+  year: 1740
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27Allegro%2C_il_Penseroso_ed_il_Moderato%2C_HWV_55_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

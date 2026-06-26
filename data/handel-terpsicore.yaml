@@ -1,0 +1,16 @@
+id: handel-terpsicore
+work:
+  composer: Handel, George Frideric
+  title: Terpsicore
+  ids:
+    imslp: Il pastor fido, HWV 8b/c (Handel, George Frideric)
+  year: 1734
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_pastor_fido%2C_HWV_8b/c_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

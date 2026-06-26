@@ -1,0 +1,18 @@
+id: strauss-munchen
+work:
+  composer: Strauss, Richard
+  title: München
+  ids:
+    imslp: München, TrV 274 (Strauss, Richard)
+  year: 1939
+formula: hp str
+instrumentation:
+  harp: 1
+  strings: str
+  additional_raw: 3-3-3-3 4-3-3-1 Percussion
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/M%C3%BCnchen%2C_TrV_274_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: 3-3-3-3 4-3-3-1 Percussion, Harp, Strings'
+duration_minutes: 9

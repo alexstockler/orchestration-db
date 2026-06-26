@@ -1,0 +1,15 @@
+id: vivaldi-concerto-for-2-violins-in-e-flat-major
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for 2 Violins in E-flat major
+  ids:
+    imslp: Concerto for 2 Violins in E-flat major, RV 515 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: 2 violins | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Violins_in_E-flat_major%2C_RV_515_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, strings, continuo'

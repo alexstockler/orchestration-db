@@ -1,0 +1,17 @@
+id: vivaldi-stabat-mater
+work:
+  composer: Vivaldi, Antonio
+  title: Stabat Mater
+  ids:
+    imslp: Stabat Mater, RV 621 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - contralto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Stabat_Mater%2C_RV_621_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: contralto, strings, continuo'

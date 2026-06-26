@@ -1,0 +1,17 @@
+id: liszt-2-album-leaves-s-163f
+work:
+  composer: Liszt, Franz
+  title: 2 Album-Leaves, S.163f
+  ids:
+    imslp: 2 Album-Leaves, S.163f (Liszt, Franz)
+  year: 1840
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Album-Leaves%2C_S.163f_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

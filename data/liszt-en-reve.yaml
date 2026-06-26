@@ -1,0 +1,16 @@
+id: liszt-en-reve
+work:
+  composer: Liszt, Franz
+  title: En rêve
+  ids:
+    imslp: En rêve, S.207 (Liszt, Franz)
+  year: 1885
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/En_r%C3%AAve%2C_S.207_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

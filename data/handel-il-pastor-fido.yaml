@@ -1,0 +1,18 @@
+id: handel-il-pastor-fido
+work:
+  composer: Handel, George Frideric
+  title: Il pastor fido
+  ids:
+    imslp: Il pastor fido, HWV 8a (Handel, George Frideric)
+  year: 1712
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - altos
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_pastor_fido%2C_HWV_8a_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 sopranos, 2 altos, bass, orchestra'

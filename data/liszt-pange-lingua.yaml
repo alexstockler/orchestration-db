@@ -1,0 +1,16 @@
+id: liszt-pange-lingua
+work:
+  composer: Liszt, Franz
+  title: Pange Lingua
+  ids:
+    imslp: Pange Lingua, S.183a (Liszt, Franz)
+  year: 1878
+formula: ''
+instrumentation:
+  additional_raw: Piano/harmonium
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pange_Lingua%2C_S.183a_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano/harmonium'
+duration_minutes: 1

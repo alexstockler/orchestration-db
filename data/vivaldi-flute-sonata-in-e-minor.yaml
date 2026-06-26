@@ -1,0 +1,15 @@
+id: vivaldi-flute-sonata-in-e-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Flute Sonata in E minor
+  ids:
+    imslp: Flute Sonata in E minor, RV 50 (Vivaldi, Antonio)
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flute_Sonata_in_E_minor%2C_RV_50_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, continuo'

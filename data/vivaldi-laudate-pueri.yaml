@@ -1,0 +1,19 @@
+id: vivaldi-laudate-pueri
+work:
+  composer: Vivaldi, Antonio
+  title: Laudate pueri
+  ids:
+    imslp: Laudate pueri, RV 601 (Vivaldi, Antonio)
+formula: 1200 0000 str
+instrumentation:
+  flute: 1
+  oboe: 2
+  strings: str
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Laudate_pueri%2C_RV_601_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, flute, 2 oboes, strings, continuo'

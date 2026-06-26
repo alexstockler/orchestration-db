@@ -1,0 +1,16 @@
+id: liszt-einst
+work:
+  composer: Liszt, Franz
+  title: Einst
+  ids:
+    imslp: Einst, S.332 (Liszt, Franz)
+  year: 1878
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Einst%2C_S.332_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

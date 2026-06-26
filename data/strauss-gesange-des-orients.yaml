@@ -1,0 +1,19 @@
+id: strauss-gesange-des-orients
+work:
+  composer: Strauss, Richard
+  title: Gesänge des Orients
+  ids:
+    imslp: Gesänge des Orients, Op.77 (Strauss, Richard)
+  year: 1928
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ges%C3%A4nge_des_Orients%2C_Op.77_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'
+duration_minutes: 16

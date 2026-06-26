@@ -1,0 +1,16 @@
+id: handel-air-in-a-major
+work:
+  composer: Handel, George Frideric
+  title: Air in A major
+  ids:
+    imslp: Air in A major, HWV 468 (Handel, George Frideric)
+  year: 1705
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Air_in_A_major%2C_HWV_468_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

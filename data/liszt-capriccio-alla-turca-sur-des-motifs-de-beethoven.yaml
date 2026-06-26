@@ -1,0 +1,16 @@
+id: liszt-capriccio-alla-turca-sur-des-motifs-de-beethoven
+work:
+  composer: Liszt, Franz
+  title: Capriccio alla turca sur des motifs de Beethoven
+  ids:
+    imslp: Capriccio alla turca sur des motifs de Beethoven, S.388 (Liszt, Franz)
+  year: 1846
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Capriccio_alla_turca_sur_des_motifs_de_Beethoven%2C_S.388_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

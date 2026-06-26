@@ -1,0 +1,18 @@
+id: strauss-andante-in-c-major
+work:
+  composer: Strauss, Richard
+  title: Andante in C major
+  ids:
+    imslp: Andante in C major, TrV 155 (Strauss, Richard)
+  year: 1888
+formula: 0000 1000 pf
+instrumentation:
+  horn: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_in_C_major%2C_TrV_155_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: horn, piano'
+duration_minutes: 4

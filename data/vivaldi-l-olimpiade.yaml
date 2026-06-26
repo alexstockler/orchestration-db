@@ -1,0 +1,26 @@
+id: vivaldi-l-olimpiade
+work:
+  composer: Vivaldi, Antonio
+  title: L'Olimpiade
+  ids:
+    imslp: L'Olimpiade, RV 725 (Vivaldi, Antonio)
+formula: 0000 2000 str
+instrumentation:
+  horn: 2
+  strings: str
+  soloists:
+  - Clistene (tenor)
+  - Aristea (contralto)
+  - Argene (soprano)
+  - Megacle (soprano, castrato)
+  - Licida (mezzo soprano, travesti)
+  - Aminta (soprano, castrato)
+  - Alcandro (bass) Mixed Chorus (SATB) *
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27Olimpiade%2C_RV_725_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Clistene (tenor), Aristea (contralto), Argene (soprano),
+    Megacle (soprano, castrato), Licida (mezzo soprano, travesti), Aminta (soprano,
+    castrato), Alcandro (bass) Mixed Chorus (SATB) *Orchestra :2 horns, strings, continuo'

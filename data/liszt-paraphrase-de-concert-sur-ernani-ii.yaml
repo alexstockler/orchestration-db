@@ -1,0 +1,16 @@
+id: liszt-paraphrase-de-concert-sur-ernani-ii
+work:
+  composer: Liszt, Franz
+  title: Paraphrase de concert sur Ernani II
+  ids:
+    imslp: Paraphrase de concert sur Ernani II, S.432 (Liszt, Franz)
+  year: 1859
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Paraphrase_de_concert_sur_Ernani_II%2C_S.432_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

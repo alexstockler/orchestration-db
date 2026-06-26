@@ -1,0 +1,17 @@
+id: liszt-klavierstuck-in-es-moll
+work:
+  composer: Liszt, Franz
+  title: Klavierstück in Es-moll
+  ids:
+    imslp: Klavierstück, S.692n (Liszt, Franz)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Klavierst%C3%BCck%2C_S.692n_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

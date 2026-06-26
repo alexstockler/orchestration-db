@@ -1,0 +1,18 @@
+id: liszt-ein-fichtenbaum-steht-einsam-ii
+work:
+  composer: Liszt, Franz
+  title: Ein Fichtenbaum steht einsam II
+  ids:
+    imslp: Ein Fichtenbaum steht einsam II, S.309bis (Liszt, Franz)
+  year: 1860
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ein_Fichtenbaum_steht_einsam_II%2C_S.309bis_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'

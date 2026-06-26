@@ -1,0 +1,17 @@
+id: liszt-phantasiestuck-uber-motive-aus-rienzi
+work:
+  composer: Liszt, Franz
+  title: Phantasiestück über Motive aus 'Rienzi'
+  ids:
+    imslp: Phantasiestück über Motive aus 'Rienzi', S.439 (Liszt, Franz)
+  year: 1859
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Phantasiest%C3%BCck_%C3%BCber_Motive_aus_%27Rienzi%27%2C_S.439_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'
+duration_minutes: 9

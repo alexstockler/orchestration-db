@@ -1,0 +1,15 @@
+id: handel-fantasia-in-c
+work:
+  composer: Handel, George Frideric
+  title: Fantasia in C
+  ids:
+    imslp: Fantasia in C major, HWV 490 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_in_C_major%2C_HWV_490_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

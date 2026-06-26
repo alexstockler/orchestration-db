@@ -1,0 +1,14 @@
+id: vivaldi-cello-sonata-in-e-flat-major
+work:
+  composer: Vivaldi, Antonio
+  title: Cello Sonata in E-flat major
+  ids:
+    imslp: Cello Sonata in E-flat major, RV 39 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  additional_raw: cello | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Sonata_in_E-flat_major%2C_RV_39_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, continuo'

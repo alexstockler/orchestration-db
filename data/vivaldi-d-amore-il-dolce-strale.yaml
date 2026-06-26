@@ -1,0 +1,17 @@
+id: vivaldi-d-amore-il-dolce-strale
+work:
+  composer: Vivaldi, Antonio
+  title: D'amore il dolce strale
+  ids:
+    imslp: D'amore il dolce strale, RV 749.6 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/D%27amore_il_dolce_strale%2C_RV_749.6_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, strings, continuo'

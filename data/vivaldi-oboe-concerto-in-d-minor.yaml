@@ -1,0 +1,18 @@
+id: vivaldi-oboe-concerto-in-d-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Oboe Concerto in D minor
+  ids:
+    imslp: Oboe Concerto in D minor, RV 454 (Vivaldi, Antonio)
+  year: 1738
+formula: 0100 0000 str
+instrumentation:
+  oboe: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oboe_Concerto_in_D_minor%2C_RV_454_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, strings, continuo'
+duration_minutes: 8

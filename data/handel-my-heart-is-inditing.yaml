@@ -1,0 +1,22 @@
+id: handel-my-heart-is-inditing
+work:
+  composer: Handel, George Frideric
+  title: My Heart is Inditing
+  ids:
+    imslp: My Heart is Inditing, HWV 261 (Handel, George Frideric)
+  year: 1727
+formula: 0200 0300 tmp str
+instrumentation:
+  oboe: 2
+  trumpet: 3
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: '[bassoon] | continuo (organ)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/My_Heart_is_Inditing%2C_HWV_261_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, [bassoon], 3 trumpets, timpani, strings, continuo
+    (organ)'
+duration_minutes: 12

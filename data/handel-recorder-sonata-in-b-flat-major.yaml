@@ -1,0 +1,14 @@
+id: handel-recorder-sonata-in-b-flat-major
+work:
+  composer: Handel, George Frideric
+  title: Recorder Sonata in B-flat major
+  ids:
+    imslp: Recorder Sonata in B-flat major, HWV 377 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: recorder | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Recorder_Sonata_in_B-flat_major%2C_HWV_377_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: recorder, continuo'

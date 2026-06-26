@@ -1,0 +1,16 @@
+id: handel-suite-in-d-minor
+work:
+  composer: Handel, George Frideric
+  title: Suite in D minor
+  ids:
+    imslp: Suite in D minor, HWV 436 (Handel, George Frideric)
+  year: 1733
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_in_D_minor%2C_HWV_436_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

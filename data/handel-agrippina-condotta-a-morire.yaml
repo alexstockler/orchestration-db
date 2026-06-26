@@ -1,0 +1,16 @@
+id: handel-agrippina-condotta-a-morire
+work:
+  composer: Handel, George Frideric
+  title: Agrippina condotta a morire
+  ids:
+    imslp: Agrippina condotta a morire, HWV 110 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: 2 violins | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Agrippina_condotta_a_morire%2C_HWV_110_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 2 violins, continuo'

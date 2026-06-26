@@ -1,0 +1,17 @@
+id: liszt-grande-fantaisie-sur-la-tyrolienne-de-l-opera-la-fiancee-de-auber
+work:
+  composer: Liszt, Franz
+  title: Grande fantaisie sur la tyrolienne de l'opéra La fiancée de Auber
+  ids:
+    imslp: Grande fantaisie sur la tyrolienne de l'opéra 'La fiancée' de Auber, S.385
+      (Liszt, Franz)
+  year: 1829
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grande_fantaisie_sur_la_tyrolienne_de_l%27op%C3%A9ra_%27La_fianc%C3%A9e%27_de_Auber%2C_S.385_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

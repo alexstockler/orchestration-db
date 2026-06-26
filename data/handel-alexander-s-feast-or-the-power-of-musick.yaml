@@ -1,0 +1,17 @@
+id: handel-alexander-s-feast-or-the-power-of-musick
+work:
+  composer: Handel, George Frideric
+  title: Alexander's Feast, or the Power of Musick
+  ids:
+    imslp: Alexander's Feast, HWV 75 (Handel, George Frideric)
+  year: 1736
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alexander%27s_Feast%2C_HWV_75_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

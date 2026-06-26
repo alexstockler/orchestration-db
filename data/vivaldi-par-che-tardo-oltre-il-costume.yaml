@@ -1,0 +1,16 @@
+id: vivaldi-par-che-tardo-oltre-il-costume
+work:
+  composer: Vivaldi, Antonio
+  title: Par che tardo oltre il costume
+  ids:
+    imslp: Par che tardo oltre il costume, RV 662 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Par_che_tardo_oltre_il_costume%2C_RV_662_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

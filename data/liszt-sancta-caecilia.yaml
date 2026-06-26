@@ -1,0 +1,15 @@
+id: liszt-sancta-caecilia
+work:
+  composer: Liszt, Franz
+  title: Sancta Caecilia
+  ids:
+    imslp: Sancta Caecilia, S.343 (Liszt, Franz)
+  year: 1880
+formula: ''
+instrumentation:
+  additional_raw: Alto Voice and Organ (or Harmonium)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sancta_Caecilia%2C_S.343_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Alto Voice and Organ (or Harmonium)'

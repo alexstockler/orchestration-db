@@ -1,0 +1,17 @@
+id: liszt-pensees-nocturne
+work:
+  composer: Liszt, Franz
+  title: Pensées (Nocturne)
+  ids:
+    imslp: Pensées, S.168b (Liszt, Franz)
+  year: 1845
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pens%C3%A9es%2C_S.168b_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 2

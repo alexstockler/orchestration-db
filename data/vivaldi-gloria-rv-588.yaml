@@ -1,0 +1,17 @@
+id: vivaldi-gloria-rv-588
+work:
+  composer: Vivaldi, Antonio
+  title: Gloria, RV 588
+  ids:
+    imslp: Gloria in D major, RV 588 (Vivaldi, Antonio)
+  year: 1713
+formula: 0000 0100 str
+instrumentation:
+  trumpet: 1
+  strings: str
+  additional_raw: SSAT | SATB chorus / 2 oboes | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gloria_in_D_major%2C_RV_588_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: SSAT, SATB chorus / 2 oboes, trumpet, strings, continuo'

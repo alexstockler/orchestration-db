@@ -1,0 +1,14 @@
+id: handel-air-in-a-minor
+work:
+  composer: Handel, George Frideric
+  title: Air in A minor
+  ids:
+    imslp: Air in A minor, HWV 604 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: music box
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Air_in_A_minor%2C_HWV_604_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: music box'

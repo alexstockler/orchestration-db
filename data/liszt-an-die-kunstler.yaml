@@ -1,0 +1,44 @@
+id: liszt-an-die-kunstler
+work:
+  composer: Liszt, Franz
+  title: An die Künstler
+  ids:
+    imslp: An die Künstler, S.70 (Liszt, Franz)
+  year: 1853
+formula: 2220 0430 org
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  trumpet: 4
+  trombone: 3
+  keyboards:
+  - instrument: organ
+  soloists:
+  - 2 tenors
+  - 2 basses + male chorus (TTBB)
+  - 'wind band: 2 piccolo clarinets (E)'
+  - 2 clarinets (A)
+  - 2 bassoons + 2 horns (E)
+  - 2 cornets (B)
+  - cornet (low E)
+  - 3 trombones
+  - 2 tenorhorns
+  - tuba + timpani (instrumentation by )
+  - ': Voices: 2 tenors'
+  - 2 basses + male chorus (TTBB)
+  additional_raw: '2 bassoons + 4 horns (E) | tuba + timpani | cymbals + harp + strings
+    | Voices: 2 tenors | 2 basses + male chorus (TTBB)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_die_K%C3%BCnstler%2C_S.70_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: : Voices: 2 tenors, 2 basses + male chorus (TTBB); wind
+    band: 2 piccolo clarinets (E), 2 clarinets (A), 2 bassoons + 2 horns (E), 2 cornets
+    (B), cornet (low E), 3 trombones, 2 tenorhorns, tuba + timpani (instrumentation
+    by ), : Voices: 2 tenors, 2 basses + male chorus (TTBB); Orchestra: 2 flutes,
+    2 oboes, 2 clarinets (A), 2 bassoons + 4 horns (E), 4 trumpets (E), 3 trombones,
+    tuba + timpani, cymbals + harp + strings, : Voices: 2 tenors, 2 basses + male
+    chorus (TTBB); Organ, Orchestra (orchestral force is similar to S.70/2; organ
+    is not included in published edition and added in 1859)'
+duration_minutes: 13

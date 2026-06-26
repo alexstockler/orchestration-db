@@ -1,0 +1,17 @@
+id: liszt-o-du-mein-holder-abendstern
+work:
+  composer: Liszt, Franz
+  title: O du mein holder Abendstern
+  ids:
+    imslp: O du mein holder Abendstern, S.444 (Liszt, Franz)
+  year: 1848
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_du_mein_holder_Abendstern%2C_S.444_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 9

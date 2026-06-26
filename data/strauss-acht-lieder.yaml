@@ -1,0 +1,18 @@
+id: strauss-acht-lieder
+work:
+  composer: Strauss, Richard
+  title: Acht Lieder
+  ids:
+    imslp: 8 Lieder, Op.49 (Strauss, Richard)
+  year: 1900
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Lieder%2C_Op.49_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

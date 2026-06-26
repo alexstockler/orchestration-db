@@ -1,0 +1,17 @@
+id: liszt-ave-maris-stella
+work:
+  composer: Liszt, Franz
+  title: Ave maris stella
+  ids:
+    imslp: Ave maris stella, S.34 (Liszt, Franz)
+  year: 1865
+formula: ''
+instrumentation:
+  additional_raw: Mixed Chorus (SSTB) and Organ (1st version) | Male Chorus (TTBB)
+    and Organ (2nd version)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_maris_stella%2C_S.34_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed Chorus (SSTB) and Organ (1st version), Male Chorus
+    (TTBB) and Organ (2nd version)'

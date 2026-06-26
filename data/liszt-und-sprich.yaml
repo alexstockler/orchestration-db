@@ -1,0 +1,16 @@
+id: liszt-und-sprich
+work:
+  composer: Liszt, Franz
+  title: Und sprich
+  ids:
+    imslp: Und sprich, S.329 (Liszt, Franz)
+  year: 1875
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Und_sprich%2C_S.329_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

@@ -1,0 +1,33 @@
+id: liszt-festmarsch-nach-motiven-von-e-h-z-s-c-g
+work:
+  composer: Liszt, Franz
+  title: Festmarsch nach Motiven von E.H.z.S.-C.-G.
+  ids:
+    imslp: Festmarsch nach Motiven von E.H.z.S.-C.-G., S.116 (Liszt, Franz)
+  year: 1858
+formula: 3[pic.2.3] 2 2 0 0 2 3[1.2.btbn] 0
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  trumpet: 2
+  trombone:
+  - {}
+  - {}
+  - instrument: bass_trombone
+  percussion:
+    instruments:
+    - bass drum
+    - snare drum
+  additional_raw: 2 bassoons + 4 horns (F) | tuba + timpani | cymbals + strings
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Festmarsch_nach_Motiven_von_E.H.z.S.-C.-G.%2C_S.116_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: piccolo, 2 flutes, 2 oboes, 2 clarinets (A),
+    2 bassoons + 4 horns (F), 2 trumpets (F), 2 tenor trombones, bass trombone, tuba
+    + timpani, bass drum, snare drum, cymbals + strings'
+duration_minutes: 6

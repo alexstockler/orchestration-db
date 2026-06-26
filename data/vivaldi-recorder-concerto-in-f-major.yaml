@@ -1,0 +1,16 @@
+id: vivaldi-recorder-concerto-in-f-major
+work:
+  composer: Vivaldi, Antonio
+  title: Recorder Concerto in F major
+  ids:
+    imslp: Recorder Concerto in F major, RV 442 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: recorder | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Recorder_Concerto_in_F_major%2C_RV_442_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: recorder, strings, continuo'
+duration_minutes: 10

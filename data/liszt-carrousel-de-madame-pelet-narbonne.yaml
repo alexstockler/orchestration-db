@@ -1,0 +1,15 @@
+id: liszt-carrousel-de-madame-pelet-narbonne
+work:
+  composer: Liszt, Franz
+  title: Carrousel de Madame Pelet-Narbonne
+  ids:
+    imslp: Carrousel de Madame Pelet-Narbonne, S.214a (Liszt, Franz)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Carrousel_de_Madame_Pelet-Narbonne%2C_S.214a_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

@@ -1,0 +1,17 @@
+id: vivaldi-violin-concerto-in-a-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Violin Concerto in A minor
+  ids:
+    imslp: Violin Concerto in A minor, RV 355 (Vivaldi, Antonio)
+  year: 1700
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: Violin | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Concerto_in_A_minor%2C_RV_355_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin, strings, continuo'
+duration_minutes: 10

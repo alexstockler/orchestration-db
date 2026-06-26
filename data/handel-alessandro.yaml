@@ -1,0 +1,30 @@
+id: handel-alessandro
+work:
+  composer: Handel, George Frideric
+  title: Alessandro
+  ids:
+    imslp: Alessandro, HWV 21 (Handel, George Frideric)
+  year: 1726
+formula: 0200 2200 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  trumpet: 2
+  strings: str
+  soloists:
+  - Alessandro (alto castrato)
+  - Rossane (soprano)
+  - Lisaura (soprano)
+  - Tassile (alto castrato)
+  - Clito (bass)
+  - Leonato (tenor)
+  - Cleone (contralto) Male Chorus (TTBB)
+  additional_raw: 2 recorders | [bassoon] | continuo (cello, lute, harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alessandro%2C_HWV_21_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Alessandro (alto castrato), Rossane (soprano), Lisaura
+    (soprano), Tassile (alto castrato), Clito (bass), Leonato (tenor), Cleone (contralto)
+    Male Chorus (TTBB), Orchestra :2 recorders, 2 oboes, [bassoon], 2 horns, 2 trumpets,
+    strings, continuo (cello, lute, harpsichord)'

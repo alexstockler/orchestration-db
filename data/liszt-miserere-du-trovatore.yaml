@@ -1,0 +1,16 @@
+id: liszt-miserere-du-trovatore
+work:
+  composer: Liszt, Franz
+  title: Miserere du Trovatore
+  ids:
+    imslp: Miserere du Trovatore, S.433 (Liszt, Franz)
+  year: 1859
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Miserere_du_Trovatore%2C_S.433_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

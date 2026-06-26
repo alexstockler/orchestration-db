@@ -1,0 +1,18 @@
+id: strauss-4-lieder-von-carl-busse-und-richard-dehmel
+work:
+  composer: Strauss, Richard
+  title: 4 Lieder von Carl Busse und Richard Dehmel
+  ids:
+    imslp: 4 Lieder, Op.31 (Strauss, Richard)
+  year: 1886
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Lieder%2C_Op.31_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

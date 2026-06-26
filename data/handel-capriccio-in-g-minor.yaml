@@ -1,0 +1,15 @@
+id: handel-capriccio-in-g-minor
+work:
+  composer: Handel, George Frideric
+  title: Capriccio in G minor
+  ids:
+    imslp: Capriccio in G minor, HWV 483 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Capriccio_in_G_minor%2C_HWV_483_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

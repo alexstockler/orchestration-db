@@ -1,0 +1,16 @@
+id: vivaldi-violin-concerto-in-c-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Violin Concerto in C minor
+  ids:
+    imslp: Violin Concerto in C minor, RV 196 (Vivaldi, Antonio)
+  year: 1716
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: violin | Continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Concerto_in_C_minor%2C_RV_196_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, strings, Continuo'

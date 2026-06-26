@@ -1,0 +1,17 @@
+id: vivaldi-alvilda
+work:
+  composer: Vivaldi, Antonio
+  title: Alvilda
+  ids:
+    imslp: Alvilda regina de' Goti, RV Anh.88 (Vivaldi, Antonio)
+  year: 1731
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alvilda_regina_de%27_Goti%2C_RV_Anh.88_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra (gleaned from the libretto)'

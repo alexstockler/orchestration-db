@@ -1,0 +1,16 @@
+id: strauss-an-den-baum-daphne
+work:
+  composer: Strauss, Richard
+  title: An den Baum Daphne
+  ids:
+    imslp: An den Baum Daphne, TrV 272a (Strauss, Richard)
+  year: 1943
+formula: ''
+instrumentation:
+  chorus_raw: boys' chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_den_Baum_Daphne%2C_TrV_272a_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 mixed choruses, boys'' chorus'
+duration_minutes: 16

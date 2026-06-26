@@ -1,0 +1,16 @@
+id: liszt-reminiscences-de-lucrezia-borgia
+work:
+  composer: Liszt, Franz
+  title: Réminiscences de Lucrezia Borgia
+  ids:
+    imslp: Réminiscences de Lucrezia Borgia, S.400 (Liszt, Franz)
+  year: 1848
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/R%C3%A9miniscences_de_Lucrezia_Borgia%2C_S.400_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,17 @@
+id: liszt-album-leaf-pressburg-i
+work:
+  composer: Liszt, Franz
+  title: Album-Leaf 'Pressburg I'
+  ids:
+    imslp: Album-Leaf 'Pressburg I', S.163c (Liszt, Franz)
+  year: 1839
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album-Leaf_%27Pressburg_I%27%2C_S.163c_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

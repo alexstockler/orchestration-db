@@ -1,0 +1,16 @@
+id: handel-l-aure-grate-il-fresco-rio
+work:
+  composer: Handel, George Frideric
+  title: L'aure grate, il fresco rio
+  ids:
+    imslp: L'aure grate, il fresco rio, HWV 121a (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27aure_grate%2C_il_fresco_rio%2C_HWV_121a_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, continuo'

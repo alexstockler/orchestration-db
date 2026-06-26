@@ -1,0 +1,17 @@
+id: vivaldi-sinfonia-in-d-major
+work:
+  composer: Vivaldi, Antonio
+  title: Sinfonia in D major
+  ids:
+    imslp: Sinfonia in D major, RV 786 (Vivaldi, Antonio)
+  year: 1730
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sinfonia_in_D_major%2C_RV_786_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: strings, continuo'
+duration_minutes: 7

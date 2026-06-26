@@ -1,0 +1,14 @@
+id: handel-gigue-in-b-flat-major
+work:
+  composer: Handel, George Frideric
+  title: Gigue in B flat major
+  ids:
+    imslp: Gigue in B-flat major, HWV 413 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gigue_in_B-flat_major%2C_HWV_413_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, basses'

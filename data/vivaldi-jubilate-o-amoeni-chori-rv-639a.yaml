@@ -1,0 +1,17 @@
+id: vivaldi-jubilate-o-amoeni-chori-rv-639a
+work:
+  composer: Vivaldi, Antonio
+  title: Jubilate, o amoeni chori, RV 639a
+  ids:
+    imslp: Jubilate, o amoeni chori, RV 639a (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  additional_raw: basso continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jubilate%2C_o_amoeni_chori%2C_RV_639a_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, strings, basso continuo'

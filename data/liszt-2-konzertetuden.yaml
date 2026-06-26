@@ -1,0 +1,16 @@
+id: liszt-2-konzertetuden
+work:
+  composer: Liszt, Franz
+  title: 2 Konzertetüden
+  ids:
+    imslp: 2 Konzertetüden, S.145 (Liszt, Franz)
+  year: 1862
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Konzertet%C3%BCden%2C_S.145_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

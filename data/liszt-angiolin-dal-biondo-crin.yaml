@@ -1,0 +1,19 @@
+id: liszt-angiolin-dal-biondo-crin
+work:
+  composer: Liszt, Franz
+  title: Angiolin dal biondo crin
+  ids:
+    imslp: Angiolin dal biondo crin, S.269 (Liszt, Franz)
+  year: 1839
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Angiolin_dal_biondo_crin%2C_S.269_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 5

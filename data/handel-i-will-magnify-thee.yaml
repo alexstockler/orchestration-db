@@ -1,0 +1,23 @@
+id: handel-i-will-magnify-thee
+work:
+  composer: Handel, George Frideric
+  title: I Will Magnify Thee
+  ids:
+    imslp: I Will Magnify Thee, HWV 250a (Handel, George Frideric)
+  year: 1717
+formula: 0101 0000 org str
+instrumentation:
+  oboe: 1
+  bassoon: 1
+  keyboards:
+  - instrument: organ
+  strings: str
+  soloists:
+  - soprano
+  - tenor + mixed chorus (STB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/I_Will_Magnify_Thee%2C_HWV_250a_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, tenor + mixed chorus (STB), Orchestra:
+    oboe, bassoon, strings, organ'

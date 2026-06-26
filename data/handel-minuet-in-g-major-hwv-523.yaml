@@ -1,0 +1,14 @@
+id: handel-minuet-in-g-major-hwv-523
+work:
+  composer: Handel, George Frideric
+  title: Minuet in G major, HWV 523
+  ids:
+    imslp: Minuet in G major, HWV 523 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Minuet_in_G_major%2C_HWV_523_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

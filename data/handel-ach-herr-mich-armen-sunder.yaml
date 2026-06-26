@@ -1,0 +1,22 @@
+id: handel-ach-herr-mich-armen-sunder
+work:
+  composer: Handel, George Frideric
+  title: Ach Herr, mich armen Sünder
+  ids:
+    imslp: Ach Herr, mich armen Sünder (Handel, George Frideric)
+  year: 1719
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  additional_raw: 2 violins or oboes | 2 violas | basso continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach_Herr%2C_mich_armen_S%C3%BCnder_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, 2 violins or oboes, 2 violas,
+    basso continuo'
+duration_minutes: 25

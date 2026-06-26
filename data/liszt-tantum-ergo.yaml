@@ -1,0 +1,17 @@
+id: liszt-tantum-ergo
+work:
+  composer: Liszt, Franz
+  title: Tantum ergo
+  ids:
+    imslp: Tantum ergo, S.42 (Liszt, Franz)
+  year: 1869
+formula: ''
+instrumentation:
+  additional_raw: Female Chorus (SSAA) + Organ (1st version) | Male (TTBB) Chorus
+    + Organ (2nd version)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tantum_ergo%2C_S.42_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Female Chorus (SSAA) + Organ (1st version), Male (TTBB)
+    Chorus + Organ (2nd version)'

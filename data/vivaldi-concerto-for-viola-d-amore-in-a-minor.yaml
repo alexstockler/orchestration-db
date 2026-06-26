@@ -1,0 +1,15 @@
+id: vivaldi-concerto-for-viola-d-amore-in-a-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for Viola d'amore in A minor
+  ids:
+    imslp: Viola d'amore Concerto in A minor, RV 397 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: viola d'amore | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Viola_d%27amore_Concerto_in_A_minor%2C_RV_397_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: viola d''amore, strings, continuo'

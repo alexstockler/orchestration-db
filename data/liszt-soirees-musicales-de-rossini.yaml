@@ -1,0 +1,16 @@
+id: liszt-soirees-musicales-de-rossini
+work:
+  composer: Liszt, Franz
+  title: Soirées musicales de Rossini
+  ids:
+    imslp: Soirées musicales de Rossini, S.424 (Liszt, Franz)
+  year: 1837
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Soir%C3%A9es_musicales_de_Rossini%2C_S.424_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

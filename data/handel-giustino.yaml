@@ -1,0 +1,19 @@
+id: handel-giustino
+work:
+  composer: Handel, George Frideric
+  title: Giustino
+  ids:
+    imslp: Giustino, HWV 37 (Handel, George Frideric)
+  year: 1736
+formula: ''
+instrumentation:
+  additional_raw: Anastasio (soprano-castrato) | Arianna (soprano) | Giustino (alto-castrato)
+    | Leocasta (alto) | Amanzio (alto) | Vitaliano (tenor) | Polidarte (bass) | La
+    Fortuna (boy soprano) Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Giustino%2C_HWV_37_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Anastasio (soprano-castrato), Arianna (soprano),
+    Giustino (alto-castrato), Leocasta (alto), Amanzio (alto), Vitaliano (tenor),
+    Polidarte (bass), La Fortuna (boy soprano) Orchestra'

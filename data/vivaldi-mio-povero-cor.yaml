@@ -1,0 +1,20 @@
+id: vivaldi-mio-povero-cor
+work:
+  composer: Vivaldi, Antonio
+  title: Mio povero cor
+  ids:
+    imslp: Mio cor, povero cor, RV 690 (Vivaldi, Antonio)
+formula: 0200 2000 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  strings: str
+  soloists:
+  - 3 voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mio_cor%2C_povero_cor%2C_RV_690_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices (2 sopranos, bass), 2 oboes, 2 horns, strings,
+    continuo'

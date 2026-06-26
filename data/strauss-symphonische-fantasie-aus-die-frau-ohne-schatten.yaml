@@ -1,0 +1,58 @@
+id: strauss-symphonische-fantasie-aus-die-frau-ohne-schatten
+work:
+  composer: Strauss, Richard
+  title: Symphonische Fantasie aus Die Frau ohne Schatten
+  ids:
+    imslp: Sinfonische Fantasie aus 'Die Frau ohne Schatten', TrV 234a (Strauss, Richard)
+formula: 4[1.2.3/pic.4/pic] 3[1.2.Eh] 5[1.2.3.bhn.bcl] 4[1.2.3.cbn] 4331 tmp cel org
+  2hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: basset_horn
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - tambourine
+    - castanets
+    - cymbals
+    - xylophone
+    - glockenspiel
+  keyboards:
+  - instrument: celesta
+  - instrument: organ
+  harp: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sinfonische_Fantasie_aus_%27Die_Frau_ohne_Schatten%27%2C_TrV_234a_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 flutes (3rd and 4th also piccolo), 2 oboes, English horn,,
+    clarinet (C), 2 clarinets (B), basset horn, bass clarinet (B), 3 bassoons, contrabassoon,
+    4 horns (F), 3 trumpets (C), 3 trombones, tuba, timpani, bass drum, tambourine,
+    castanets, cymbals, xylophone, glockenspiel,, celesta, organ, 2 harps, strings'
+duration_minutes: 21

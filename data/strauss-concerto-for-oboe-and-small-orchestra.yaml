@@ -1,0 +1,23 @@
+id: strauss-concerto-for-oboe-and-small-orchestra
+work:
+  composer: Strauss, Richard
+  title: Concerto for Oboe and Small Orchestra
+  ids:
+    imslp: Oboe Concerto, TrV 292 (Strauss, Richard)
+  year: 1945
+formula: 2 1[Eh] 2 2 2000 str
+instrumentation:
+  flute: 2
+  oboe:
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oboe_Concerto%2C_TrV_292_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, English horn, 2 clarinets, 2 bassoons, 2 horns,
+    strings'
+duration_minutes: 25

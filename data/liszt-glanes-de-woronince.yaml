@@ -1,0 +1,16 @@
+id: liszt-glanes-de-woronince
+work:
+  composer: Liszt, Franz
+  title: Glanes de Woronince
+  ids:
+    imslp: Glanes de Woronince, S.249 (Liszt, Franz)
+  year: 1847
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Glanes_de_Woronince%2C_S.249_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

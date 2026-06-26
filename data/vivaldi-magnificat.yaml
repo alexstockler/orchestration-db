@@ -1,0 +1,18 @@
+id: vivaldi-magnificat
+work:
+  composer: Vivaldi, Antonio
+  title: Magnificat
+  ids:
+    imslp: Magnificat, RV 610 (Vivaldi, Antonio)
+  year: 1717
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Magnificat%2C_RV_610_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'
+duration_minutes: 15

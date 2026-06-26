@@ -1,0 +1,16 @@
+id: vivaldi-tra-l-erbe-i-zeffiri
+work:
+  composer: Vivaldi, Antonio
+  title: Tra l'erbe, i zeffiri
+  ids:
+    imslp: Tra l'erbe, i zeffiri, RV 669 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tra_l%27erbe%2C_i_zeffiri%2C_RV_669_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

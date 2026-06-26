@@ -1,0 +1,17 @@
+id: handel-crudel-tiranno-amor
+work:
+  composer: Handel, George Frideric
+  title: Crudel tiranno amor
+  ids:
+    imslp: Crudel tiranno amor, HWV 97 (Handel, George Frideric)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Crudel_tiranno_amor%2C_HWV_97_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, strings, continuo'

@@ -1,0 +1,14 @@
+id: vivaldi-sonata-for-violin-cello-and-continuo-in-g-major
+work:
+  composer: Vivaldi, Antonio
+  title: Sonata for Violin, Cello and Continuo in G major
+  ids:
+    imslp: Trio Sonata in G major, RV 820 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  additional_raw: violin | cello | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_G_major%2C_RV_820_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, continuo'

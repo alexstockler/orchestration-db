@@ -1,0 +1,17 @@
+id: liszt-album-leaf-andante
+work:
+  composer: Liszt, Franz
+  title: Album-Leaf 'Andante'
+  ids:
+    imslp: Album-Leaf 'Andante', S.167r (Liszt, Franz)
+  year: 1850
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album-Leaf_%27Andante%27%2C_S.167r_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 2

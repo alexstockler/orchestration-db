@@ -1,0 +1,17 @@
+id: vivaldi-concerto-for-violin-2-oboes-2-horns-and-bassoon-in-f-major
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for Violin, 2 Oboes, 2 Horns and Bassoon in F major
+  ids:
+    imslp: Concerto in F major, RV 568 (Vivaldi, Antonio)
+formula: 0000 2000 str
+instrumentation:
+  horn: 2
+  strings: str
+  additional_raw: Solo - 2 oboes | violin | Orchestra - bassoon | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_in_F_major%2C_RV_568_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo - 2 oboes, 2 horns, violin, Orchestra - bassoon, strings,
+    continuo'

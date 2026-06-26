@@ -1,0 +1,16 @@
+id: liszt-prelude-a-la-polka-d-alexandre-porfiryevitch-borodine
+work:
+  composer: Liszt, Franz
+  title: Prélude á la Polka d'Alexandre Porfiryevitch Borodine
+  ids:
+    imslp: Prélude à la Polka d'Alexandre Porfiryevitch Borodine, S.207a (Liszt, Franz)
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pr%C3%A9lude_%C3%A0_la_Polka_d%27Alexandre_Porfiryevitch_Borodine%2C_S.207a_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,17 @@
+id: liszt-impromptu-brillant-sur-des-themes-de-rossini-et-spontini
+work:
+  composer: Liszt, Franz
+  title: Impromptu brillant sur des thèmes de Rossini et Spontini
+  ids:
+    imslp: Impromptu brillant sur des thèmes de Rossini et Spontini, S.150 (Liszt,
+      Franz)
+  year: 1824
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Impromptu_brillant_sur_des_th%C3%A8mes_de_Rossini_et_Spontini%2C_S.150_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

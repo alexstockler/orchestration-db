@@ -1,0 +1,16 @@
+id: liszt-album-leaf-s-165k
+work:
+  composer: Liszt, Franz
+  title: Album-Leaf, S.165k
+  ids:
+    imslp: Album-Leaf, S.165k (Liszt, Franz)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album-Leaf%2C_S.165k_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

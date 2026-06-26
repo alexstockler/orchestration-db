@@ -1,0 +1,17 @@
+id: liszt-album-leaf-petofi-szellemenek-s-167z-1-album-leaf-magyar-kiraly-dal-s-167z
+work:
+  composer: Liszt, Franz
+  title: Album-leaf 'Petőfi szellemenek', (S.167z/1), Album-leaf 'Magyar Király-dal'
+    (S.167z/2)
+  ids:
+    imslp: 2 Album-Leaves, S.167z (Liszt, Franz)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Album-Leaves%2C_S.167z_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

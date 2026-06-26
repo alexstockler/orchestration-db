@@ -1,0 +1,17 @@
+id: liszt-romance-oubliee
+work:
+  composer: Liszt, Franz
+  title: Romance oubliée
+  ids:
+    imslp: Romance oubliée, S.527 (Liszt, Franz)
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romance_oubli%C3%A9e%2C_S.527_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 6

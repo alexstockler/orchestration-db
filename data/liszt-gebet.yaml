@@ -1,0 +1,17 @@
+id: liszt-gebet
+work:
+  composer: Liszt, Franz
+  title: Gebet
+  ids:
+    imslp: Gebet, S.265 (Liszt, Franz)
+  year: 1879
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gebet%2C_S.265_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: organ (or harmonium)'
+duration_minutes: 2

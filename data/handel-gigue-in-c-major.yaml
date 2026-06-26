@@ -1,0 +1,14 @@
+id: handel-gigue-in-c-major
+work:
+  composer: Handel, George Frideric
+  title: Gigue in C major
+  ids:
+    imslp: Gigue in C major, HWV 589 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: music box
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gigue_in_C_major%2C_HWV_589_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: music box'

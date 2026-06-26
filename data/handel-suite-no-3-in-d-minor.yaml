@@ -1,0 +1,16 @@
+id: handel-suite-no-3-in-d-minor
+work:
+  composer: Handel, George Frideric
+  title: Suite No.3 in D minor
+  ids:
+    imslp: Suite in D minor, HWV 428 (Handel, George Frideric)
+  year: 1720
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_in_D_minor%2C_HWV_428_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord (see comments below)'

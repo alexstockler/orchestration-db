@@ -1,0 +1,16 @@
+id: handel-flute-sonata-in-b-minor
+work:
+  composer: Handel, George Frideric
+  title: Flute Sonata in B minor
+  ids:
+    imslp: Flute Sonata in B minor, HWV 367b (Handel, George Frideric)
+  year: 1727
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flute_Sonata_in_B_minor%2C_HWV_367b_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, continuo'

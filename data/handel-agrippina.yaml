@@ -1,0 +1,16 @@
+id: handel-agrippina
+work:
+  composer: Handel, George Frideric
+  title: Agrippina
+  ids:
+    imslp: Agrippina, HWV 6 (Handel, George Frideric)
+  year: 1709
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Agrippina%2C_HWV_6_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

@@ -1,0 +1,16 @@
+id: handel-cuopre-tal-volta-il-cielo
+work:
+  composer: Handel, George Frideric
+  title: Cuopre tal volta il cielo
+  ids:
+    imslp: Cuopre tal volta il cielo, HWV 98 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+  additional_raw: 2 violins | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cuopre_tal_volta_il_cielo%2C_HWV_98_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, 2 violins, continuo'

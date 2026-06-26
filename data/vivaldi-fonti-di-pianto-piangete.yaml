@@ -1,0 +1,16 @@
+id: vivaldi-fonti-di-pianto-piangete
+work:
+  composer: Vivaldi, Antonio
+  title: Fonti di pianto piangete
+  ids:
+    imslp: Fonti di pianto piangete, RV 656 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fonti_di_pianto_piangete%2C_RV_656_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

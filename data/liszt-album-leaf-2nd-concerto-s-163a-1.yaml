@@ -1,0 +1,17 @@
+id: liszt-album-leaf-2nd-concerto-s-163a-1
+work:
+  composer: Liszt, Franz
+  title: Album-Leaf '2nd Concerto', S.163a/1
+  ids:
+    imslp: Album-Leaf '2nd Concerto', S.163a/1 (Liszt, Franz)
+  year: 1828
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album-Leaf_%272nd_Concerto%27%2C_S.163a/1_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

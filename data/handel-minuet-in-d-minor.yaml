@@ -1,0 +1,14 @@
+id: handel-minuet-in-d-minor
+work:
+  composer: Handel, George Frideric
+  title: Minuet in D minor
+  ids:
+    imslp: Minuet in D minor, HWV 462 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Minuet_in_D_minor%2C_HWV_462_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

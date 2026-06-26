@@ -1,0 +1,15 @@
+id: vivaldi-artabano-re-de-parti
+work:
+  composer: Vivaldi, Antonio
+  title: Artabano, re de' Parti
+  ids:
+    imslp: Artabano, re de' Parti, RV 706-b (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Artabano%2C_re_de%27_Parti%2C_RV_706-b_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

@@ -1,0 +1,16 @@
+id: handel-chaconne-in-g-major
+work:
+  composer: Handel, George Frideric
+  title: Chaconne in G major
+  ids:
+    imslp: Chaconne in G major, HWV 435 (Handel, George Frideric)
+  year: 1733
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chaconne_in_G_major%2C_HWV_435_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

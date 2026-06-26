@@ -1,0 +1,16 @@
+id: liszt-ballade-no-1
+work:
+  composer: Liszt, Franz
+  title: Ballade No.1
+  ids:
+    imslp: Ballade No.1, S.170 (Liszt, Franz)
+  year: 1845
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ballade_No.1%2C_S.170_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,16 @@
+id: handel-oboe-sonata-in-f-major
+work:
+  composer: Handel, George Frideric
+  title: Oboe Sonata in F major
+  ids:
+    imslp: Oboe Sonata in F major, HWV 363a (Handel, George Frideric)
+  year: 1711
+formula: 0100 0000
+instrumentation:
+  oboe: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oboe_Sonata_in_F_major%2C_HWV_363a_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, continuo'

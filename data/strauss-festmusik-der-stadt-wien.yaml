@@ -1,0 +1,20 @@
+id: strauss-festmusik-der-stadt-wien
+work:
+  composer: Strauss, Richard
+  title: Festmusik der Stadt Wien
+  ids:
+    imslp: Festmusik der Stadt Wien, TrV 286 (Strauss, Richard)
+  year: 1942
+formula: 0000 0 10[1.2.3.4.5.6.7.8.9.10] 6 2 tmp
+instrumentation:
+  trumpet: 10
+  trombone: 6
+  tuba: 2
+  percussion:
+    timpani: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Festmusik_der_Stadt_Wien%2C_TrV_286_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: 10 trumpets, 6 trombones, 2 tubas, timpani'
+duration_minutes: 13

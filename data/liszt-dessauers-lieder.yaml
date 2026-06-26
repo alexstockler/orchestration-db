@@ -1,0 +1,17 @@
+id: liszt-dessauers-lieder
+work:
+  composer: Liszt, Franz
+  title: Dessauers Lieder
+  ids:
+    imslp: Dessauers Lieder, S.485 (Liszt, Franz)
+  year: 1846
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dessauers_Lieder%2C_S.485_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 9

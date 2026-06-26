@@ -1,0 +1,17 @@
+id: vivaldi-cur-sagittas-cur-tela-cur-faces
+work:
+  composer: Vivaldi, Antonio
+  title: Cur sagittas, cur tela, cur faces
+  ids:
+    imslp: Cur sagittas, cur tela, cur faces, RV 637 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cur_sagittas%2C_cur_tela%2C_cur_faces%2C_RV_637_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, strings, continuo'

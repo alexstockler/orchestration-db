@@ -1,0 +1,96 @@
+id: strauss-salome
+work:
+  composer: Strauss, Richard
+  title: Salome
+  ids:
+    imslp: Salome, Op.54 (Strauss, Richard)
+  year: 1903
+formula: 4[pic.2.3.4] 4[1.2.Eh.heck] 6[Ebcl.2.3.4.5.bcl] 4[1.2.3.cbn] 6441 cel harm
+  org 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  - instrument: heckelphone
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 6
+  trumpet: 4
+  trombone: 4
+  tuba: 1
+  percussion:
+    instruments:
+    - snare drum
+    - bass drum
+    - cymbals
+    - triangle
+    - tam-tam
+    - tambourine
+    - castanets
+    - glockenspiel
+  keyboards:
+  - instrument: celesta
+  - instrument: harmonium
+  - instrument: organ
+  harp: 2
+  strings: str
+  soloists:
+  - Herodes (Herod)
+  - Tetrarch of Judaea and Perea (tenor)
+  - Herodias
+  - his wife (and sister-in-law) (mezzo-soprano)
+  - Salome
+  - his step-daughter (and niece) (soprano)
+  - Jochanaan (John the Baptist) (baritone)
+  - Narraboth
+  - Captain of the Guard (tenor)
+  - The Page of Herodias (contralto)
+  - First Jew (tenor)
+  - Second Jew (tenor)
+  - Third Jew (tenor)
+  - Fourth Jew (tenor)
+  - Fifth Jew (bass)
+  - First Nazarene (bass)
+  - Second Nazarene (tenor)
+  - First Soldier (bass)
+  - Second Soldier (bass)
+  - A Cappadocian (bass)
+  - A Slave (soprano/tenor) Chorus :Royal guests (Egyptians and Romans)
+  - and entourage
+  - servants
+  - soldiers (all silent) Pit-
+  additional_raw: timpani (5 drums) percussion (8-9 players) | xylophone '
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Salome%2C_Op.54_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Herodes (Herod), Tetrarch of Judaea and Perea (tenor),
+    Herodias, his wife (and sister-in-law) (mezzo-soprano), Salome, his step-daughter
+    (and niece) (soprano), Jochanaan (John the Baptist) (baritone), Narraboth, Captain
+    of the Guard (tenor), The Page of Herodias (contralto), First Jew (tenor), Second
+    Jew (tenor), Third Jew (tenor), Fourth Jew (tenor), Fifth Jew (bass), First Nazarene
+    (bass), Second Nazarene (tenor), First Soldier (bass), Second Soldier (bass),
+    A Cappadocian (bass), A Slave (soprano/tenor) Chorus :Royal guests (Egyptians
+    and Romans), and entourage, servants, soldiers (all silent) Pit-Orchestra :piccolo,
+    3 flutes, 2 oboes, English horn, heckelphone, E clarinet, ::4 clarinets, bass
+    clarinet, 3 bassoons, contrabassoon :6 horns, 4 trumpets, 4 trombones, tuba, timpani
+    (5 drums) percussion (8-9 players), celesta, 2 harps, strings (16,16,10-12,10,8)
+    :: snare drum, bass drum, cymbals, triangle, tam-tam, tambourine, castanets, glockenspiel,
+    xylophone '' ::harmonium, organ'
+duration_minutes: 100

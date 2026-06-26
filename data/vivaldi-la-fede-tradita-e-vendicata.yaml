@@ -1,0 +1,15 @@
+id: vivaldi-la-fede-tradita-e-vendicata
+work:
+  composer: Vivaldi, Antonio
+  title: La fede tradita e vendicata
+  ids:
+    imslp: La fede tradita e vendicata, RV 712 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - 6 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_fede_tradita_e_vendicata%2C_RV_712_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 6 voices, orchestra'

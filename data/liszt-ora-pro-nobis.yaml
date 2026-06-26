@@ -1,0 +1,16 @@
+id: liszt-ora-pro-nobis
+work:
+  composer: Liszt, Franz
+  title: Ora pro nobis
+  ids:
+    imslp: Ora pro nobis, S.262 (Liszt, Franz)
+  year: 1864
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ora_pro_nobis%2C_S.262_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Organ'

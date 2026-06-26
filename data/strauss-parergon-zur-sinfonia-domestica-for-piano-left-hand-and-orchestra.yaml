@@ -1,0 +1,39 @@
+id: strauss-parergon-zur-sinfonia-domestica-for-piano-left-hand-and-orchestra
+work:
+  composer: Strauss, Richard
+  title: Parergon zur Sinfonia Domestica for piano left hand and orchestra
+  ids:
+    imslp: Parergon, Op.73 (Strauss, Richard)
+  year: 1925
+formula: 2 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 5231 tmp hp str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 5
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  harp: 1
+  strings: str
+  soloists:
+  - piano left-hand
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Parergon%2C_Op.73_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: piano left-hand, Orchestra: 2 flutes, 2 oboes, English
+    horn, 2 clarinets,, bass clarinet, 2 bassoons, contrabassoon, 5 horns, 2 trumpets,
+    3 trombones, tuba, timpani, harp, strings'

@@ -1,0 +1,17 @@
+id: vivaldi-argippo
+work:
+  composer: Vivaldi, Antonio
+  title: Argippo
+  ids:
+    imslp: Argippo (Vivaldi, Antonio)
+  year: 1730
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Argippo_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

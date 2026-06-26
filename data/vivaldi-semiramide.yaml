@@ -1,0 +1,17 @@
+id: vivaldi-semiramide
+work:
+  composer: Vivaldi, Antonio
+  title: Semiramide
+  ids:
+    imslp: Semiramide, RV 733 (Vivaldi, Antonio)
+  year: 1731
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Semiramide%2C_RV_733_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra (the surviving opera is incomplete, so
+    it is not possible to say whether there is a chorus)'

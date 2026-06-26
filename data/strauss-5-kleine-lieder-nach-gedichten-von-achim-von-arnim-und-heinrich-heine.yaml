@@ -1,0 +1,18 @@
+id: strauss-5-kleine-lieder-nach-gedichten-von-achim-von-arnim-und-heinrich-heine
+work:
+  composer: Strauss, Richard
+  title: 5 kleine Lieder nach Gedichten von Achim von Arnim und Heinrich Heine
+  ids:
+    imslp: 5 Kleine Lieder, Op.69 (Strauss, Richard)
+  year: 1918
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Kleine_Lieder%2C_Op.69_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

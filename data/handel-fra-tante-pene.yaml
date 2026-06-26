@@ -1,0 +1,16 @@
+id: handel-fra-tante-pene
+work:
+  composer: Handel, George Frideric
+  title: Fra tante pene
+  ids:
+    imslp: Fra tante pene, HWV 116 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fra_tante_pene%2C_HWV_116_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

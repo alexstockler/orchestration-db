@@ -1,0 +1,17 @@
+id: liszt-concerto-pathetique
+work:
+  composer: Liszt, Franz
+  title: Concerto pathétique
+  ids:
+    imslp: Concerto pathétique, S.258 (Liszt, Franz)
+  year: 1865
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_path%C3%A9tique%2C_S.258_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 pianos'

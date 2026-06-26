@@ -1,0 +1,51 @@
+id: strauss-japanische-festmusik
+work:
+  composer: Strauss, Richard
+  title: Japanische Festmusik
+  ids:
+    imslp: Japanische Festmusik, Op.84 (Strauss, Richard)
+  year: 1940
+formula: 3[1.2.3/pic] 3[1.2.Eh] 5[1.2.3.4.bcl] 4[1.2.3.cbn] 8402 tmp cel org 2hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 8
+  trumpet: 4
+  tuba: 2
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: celesta
+  - instrument: organ
+  harp: 2
+  strings: str
+  additional_raw: 4 trombones (+ 4 trombones (ad lib.)) | 14 tuned temple gongs |
+    various percussion
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Japanische_Festmusik%2C_Op.84_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 2 oboes, English horn, 2 clarinets
+    (C), 2 clarinets (B), bass clarinet, 3 bassoons, contrabassoon, 8 horns (+ 2 horns
+    ad lib.), 4 trumpets (+ 3 trumpets ad lib.),, 4 trombones (+ 4 trombones (ad lib.)),
+    2 tubas, timpani, 14 tuned temple gongs, various percussion, celesta, organ (ad
+    lib.), 2 harps, strings'
+duration_minutes: 14

@@ -1,0 +1,15 @@
+id: liszt-o-meer-im-abendstrahl
+work:
+  composer: Liszt, Franz
+  title: O Meer im Abendstrahl
+  ids:
+    imslp: O Meer im Abendstrahl, S.344 (Liszt, Franz)
+  year: 1881
+formula: ''
+instrumentation:
+  additional_raw: Soprano and Alto voices with Piano (or Harmonium)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_Meer_im_Abendstrahl%2C_S.344_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Soprano and Alto voices with Piano (or Harmonium)'

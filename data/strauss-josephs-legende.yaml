@@ -1,0 +1,98 @@
+id: strauss-josephs-legende
+work:
+  composer: Strauss, Richard
+  title: Josephs-Legende
+  ids:
+    imslp: Josephs-Legende, Op.63 (Strauss, Richard)
+  year: 1912
+formula: 5[pic.2.3/pic.4.5] 4[1.2.3/Eh.heck] 4[Ebcl.2/cbcl.3.bcl] 4[1.2.3.4/cbn] 6440
+  tmp cel org pf 4hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - doublings:
+    - piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - doublings:
+    - english_horn
+  - instrument: heckelphone
+  clarinet:
+  - instrument: eflat_clarinet
+  - doublings:
+    - contrabass_clarinet
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  horn: 6
+  trumpet: 4
+  trombone: 4
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tambourine
+    - snare drum
+    - xylophone
+    - castanets
+    - bass drum
+    - wind machine
+    - tam-tam
+  keyboards:
+  - instrument: celesta
+  - instrument: organ
+  - instrument: piano
+  harp: 4
+  strings: str
+  soloists:
+  - Potiphar
+  - Potiphar's Wife
+  - Their Favorite Slave
+  - Potiphar's Guests
+  - Potiphar's Caretaker
+  - Potiphar's Servants
+  - Guards and Slaves
+  - A Sheik
+  - His 8 Companions
+  - His Young Servant
+  - 3 Veiled
+  - Servants of the Veiled
+  - 2 Auditors
+  - Shulamite
+  - a Dancer
+  - 6 Boxers
+  - Their Companion
+  - Joseph
+  - a 15 Year Old Shepherd Boy
+  - 6 Boys
+  - His Playmates
+  - Potiphar's Executioners
+  - A Male
+  - all Clad in Gold
+  - Archangel
+  additional_raw: tenor tuba | bass tuba | large and small/piccolo cymbals
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Josephs-Legende%2C_Op.63_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Dancers :Potiphar, Potiphar''s Wife, Their Favorite Slave,
+    Potiphar''s Guests, Potiphar''s Caretaker, Potiphar''s Servants, Guards and Slaves,
+    A Sheik, His 8 Companions, His Young Servant, 3 Veiled, Servants of the Veiled,
+    2 Auditors, Shulamite, a Dancer, 6 Boxers, Their Companion, Joseph, a 15 Year
+    Old Shepherd Boy, 6 Boys, His Playmates, Potiphar''s Executioners, A Male, all
+    Clad in Gold, Archangel Orchestra :piccolo, 4 flutes (3rd also 2nd piccolo), 3
+    oboes (3rd also English horn), heckelphone,, piccolo clarinet (D), 2 clarinets
+    (2nd also contrabass clarinet), , bass clarinet, 4 bassoons (4th also contrabassoon),
+    6 horns, 4 trumpets, 4 trombones, tenor tuba, bass tuba, timpani, triangle, tambourine,
+    snare drum, xylophone,, castanets (2-4 pairs), bass drum, large and small/piccolo
+    cymbals, wind machine, tam-tam, (4) celesta(s), organ, piano, 4 harps, strings
+    (vn: 10, 10, 10; va: 8, 8; vc: 6, 6; db: 8)'

@@ -1,0 +1,15 @@
+id: handel-prelude-hwv-575
+work:
+  composer: Handel, George Frideric
+  title: Prelude, HWV 575
+  ids:
+    imslp: Prelude in A minor, HWV 575 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude_in_A_minor%2C_HWV_575_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Harpsichord'

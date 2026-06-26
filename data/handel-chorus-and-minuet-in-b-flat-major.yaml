@@ -1,0 +1,14 @@
+id: handel-chorus-and-minuet-in-b-flat-major
+work:
+  composer: Handel, George Frideric
+  title: Chorus and Minuet in B-flat major
+  ids:
+    imslp: Chorus and Minuet in B-flat major, HWV 344 (Handel, George Frideric)
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chorus_and_Minuet_in_B-flat_major%2C_HWV_344_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'

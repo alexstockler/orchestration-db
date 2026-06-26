@@ -1,0 +1,24 @@
+id: strauss-zweites-konzert-in-es-dur-fur-horn-und-orchester
+work:
+  composer: Strauss, Richard
+  title: Zweites Konzert in Es-dur für Horn und Orchester
+  ids:
+    imslp: Horn Concerto No.2, TrV 283 (Strauss, Richard)
+  year: 1942
+formula: 2222 2200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Horn_Concerto_No.2%2C_TrV_283_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2
+    trumpets, timpani, strings'

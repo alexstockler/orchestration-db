@@ -1,0 +1,18 @@
+id: vivaldi-credo
+work:
+  composer: Vivaldi, Antonio
+  title: Credo
+  ids:
+    imslp: Credo, RV 591 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - 4 voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Credo%2C_RV_591_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices, strings, continuo'
+duration_minutes: 10

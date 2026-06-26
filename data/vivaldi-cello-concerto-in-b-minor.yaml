@@ -1,0 +1,17 @@
+id: vivaldi-cello-concerto-in-b-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Cello Concerto in B minor
+  ids:
+    imslp: Cello Concerto in B minor, RV 424 (Vivaldi, Antonio)
+  year: 1729
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: cello | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Concerto_in_B_minor%2C_RV_424_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, strings, continuo'
+duration_minutes: 11

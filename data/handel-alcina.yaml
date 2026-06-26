@@ -1,0 +1,31 @@
+id: handel-alcina
+work:
+  composer: Handel, George Frideric
+  title: Alcina
+  ids:
+    imslp: Alcina, HWV 34 (Handel, George Frideric)
+  year: 1735
+formula: 2201 2000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  bassoon: 1
+  horn: 2
+  strings: str
+  soloists:
+  - Alcina (soprano)
+  - Morgana (soprano)
+  - Oberto (boy soprano)
+  - Ruggiero (mezzo-soprano castrato)
+  - Bradamante (alto)
+  - Oronte (tenor)
+  - Melisso (bass) Mixed Chorus (SSATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alcina%2C_HWV_34_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Alcina (soprano), Morgana (soprano), Oberto (boy
+    soprano), Ruggiero (mezzo-soprano castrato), Bradamante (alto), Oronte (tenor),
+    Melisso (bass) Mixed Chorus (SSATB), Orchestra :2 flutes, 2 oboes, bassoon, 2
+    horns, strings (with violin, cello soli), continuo'

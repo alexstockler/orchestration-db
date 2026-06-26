@@ -1,0 +1,16 @@
+id: liszt-historische-ungarische-bildnisse
+work:
+  composer: Liszt, Franz
+  title: Historische ungarische Bildnisse
+  ids:
+    imslp: Historische ungarische Bildnisse, S.205 (Liszt, Franz)
+  year: 1885
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Historische_ungarische_Bildnisse%2C_S.205_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

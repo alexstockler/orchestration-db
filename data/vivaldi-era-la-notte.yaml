@@ -1,0 +1,16 @@
+id: vivaldi-era-la-notte
+work:
+  composer: Vivaldi, Antonio
+  title: Era la notte
+  ids:
+    imslp: Era la notte, RV 655 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Era_la_notte%2C_RV_655_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

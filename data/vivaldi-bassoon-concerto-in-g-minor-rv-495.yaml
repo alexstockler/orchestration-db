@@ -1,0 +1,17 @@
+id: vivaldi-bassoon-concerto-in-g-minor-rv-495
+work:
+  composer: Vivaldi, Antonio
+  title: Bassoon Concerto in G minor, RV 495
+  ids:
+    imslp: Bassoon Concerto in G minor, RV 495 (Vivaldi, Antonio)
+formula: 0001 0000 str
+instrumentation:
+  bassoon: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bassoon_Concerto_in_G_minor%2C_RV_495_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: bassoon, strings, continuo'
+duration_minutes: 9

@@ -1,0 +1,17 @@
+id: liszt-rosario
+work:
+  composer: Liszt, Franz
+  title: Rosario
+  ids:
+    imslp: Rosario, S.56 (Liszt, Franz)
+  year: 1879
+formula: ''
+instrumentation:
+  additional_raw: Mixed Chorus (SATB) and Organ (or Harmonium) (Nos.1 to 3) | Baritone
+    voice or Male Chorus and Organ (or Harmonium)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rosario%2C_S.56_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed Chorus (SATB) and Organ (or Harmonium) (Nos.1 to
+    3), Baritone voice or Male Chorus and Organ (or Harmonium)'

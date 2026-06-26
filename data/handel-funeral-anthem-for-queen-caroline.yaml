@@ -1,0 +1,24 @@
+id: handel-funeral-anthem-for-queen-caroline
+work:
+  composer: Handel, George Frideric
+  title: Funeral Anthem for Queen Caroline
+  ids:
+    imslp: Funeral Anthem for Queen Caroline, HWV 264 (Handel, George Frideric)
+  year: 1737
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Funeral_Anthem_for_Queen_Caroline%2C_HWV_264_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, alto, tenor, bass; mixed chorus (SATB),
+    Orchestra: 2 oboes, strings, continuo'

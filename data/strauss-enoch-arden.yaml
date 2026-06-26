@@ -1,0 +1,17 @@
+id: strauss-enoch-arden
+work:
+  composer: Strauss, Richard
+  title: Enoch Arden
+  ids:
+    imslp: Enoch Arden, Op.38 (Strauss, Richard)
+  year: 1898
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: narrator
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Enoch_Arden%2C_Op.38_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: narrator, piano'

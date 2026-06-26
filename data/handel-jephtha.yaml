@@ -1,0 +1,21 @@
+id: handel-jephtha
+work:
+  composer: Handel, George Frideric
+  title: Jephtha
+  ids:
+    imslp: Jephtha, HWV 70 (Handel, George Frideric)
+  year: 1751
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: Cast | Jephtha (tenor) | Iphis | his daughter (soprano) | Storgè
+    | his wife (mezzo-soprano) | Zebul | his brother (bass) | Hamor | in love with
+    Iphis (alto) | Angel (soprano) | israelites | priests | virgins
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jephtha%2C_HWV_70_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Cast ::Jephtha (tenor), Iphis,
+    his daughter (soprano), Storgè, his wife (mezzo-soprano), Zebul, his brother (bass),
+    Hamor, in love with Iphis (alto), Angel (soprano) :Mixed Chorus (SATB) ::israelites,
+    priests, virgins :Orchestra'

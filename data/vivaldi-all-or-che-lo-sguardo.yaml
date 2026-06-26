@@ -1,0 +1,16 @@
+id: vivaldi-all-or-che-lo-sguardo
+work:
+  composer: Vivaldi, Antonio
+  title: All'or che lo sguardo
+  ids:
+    imslp: All'or che lo sguardo, RV 650 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/All%27or_che_lo_sguardo%2C_RV_650_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

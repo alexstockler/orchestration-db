@@ -1,0 +1,16 @@
+id: liszt-huldigungsmarsch
+work:
+  composer: Liszt, Franz
+  title: Huldigungsmarsch
+  ids:
+    imslp: Huldigungsmarsch, S.228 (Liszt, Franz)
+  year: 1853
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Huldigungsmarsch%2C_S.228_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

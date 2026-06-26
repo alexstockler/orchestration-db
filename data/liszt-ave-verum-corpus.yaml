@@ -1,0 +1,18 @@
+id: liszt-ave-verum-corpus
+work:
+  composer: Liszt, Franz
+  title: Ave verum corpus
+  ids:
+    imslp: Ave verum corpus, S.44 (Liszt, Franz)
+  year: 1871
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_verum_corpus%2C_S.44_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB); mixed chorus (SATB), organ (ad lib.)'
+duration_minutes: 4

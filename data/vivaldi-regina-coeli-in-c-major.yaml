@@ -1,0 +1,18 @@
+id: vivaldi-regina-coeli-in-c-major
+work:
+  composer: Vivaldi, Antonio
+  title: Regina coeli in C major
+  ids:
+    imslp: Regina coeli, RV 615 (Vivaldi, Antonio)
+formula: 0000 0200 str
+instrumentation:
+  trumpet: 2
+  strings: str
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Regina_coeli%2C_RV_615_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, 2 trumpets, strings, continuo'

@@ -1,0 +1,16 @@
+id: handel-suite-no-2-in-f-major
+work:
+  composer: Handel, George Frideric
+  title: Suite No.2 in F major
+  ids:
+    imslp: Suite in F major, HWV 427 (Handel, George Frideric)
+  year: 1720
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_in_F_major%2C_HWV_427_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord (see comments below)'

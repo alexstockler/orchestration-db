@@ -1,0 +1,18 @@
+id: handel-se-tu-non-lasci-amore
+work:
+  composer: Handel, George Frideric
+  title: Se tu non lasci amore
+  ids:
+    imslp: Se tu non lasci amore, HWV 193 (Handel, George Frideric)
+  year: 1722
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Se_tu_non_lasci_amore%2C_HWV_193_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, continuo'

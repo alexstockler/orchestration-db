@@ -1,0 +1,16 @@
+id: handel-la-bianca-rosa-hwv-160a
+work:
+  composer: Handel, George Frideric
+  title: La bianca rosa, HWV 160a
+  ids:
+    imslp: La bianca rosa, HWV 160a (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_bianca_rosa%2C_HWV_160a_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Soprano, continuo'

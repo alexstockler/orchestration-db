@@ -1,0 +1,16 @@
+id: liszt-alte-deutsche-geistliche-weisen
+work:
+  composer: Liszt, Franz
+  title: Alte deutsche geistliche Weisen
+  ids:
+    imslp: Alte deutsche geistliche Weisen, S.50 (Liszt, Franz)
+  year: 1878
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alte_deutsche_geistliche_Weisen%2C_S.50_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed Chorus, keyboard'

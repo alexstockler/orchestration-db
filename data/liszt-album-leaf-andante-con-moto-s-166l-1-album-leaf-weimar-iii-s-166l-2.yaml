@@ -1,0 +1,16 @@
+id: liszt-album-leaf-andante-con-moto-s-166l-1-album-leaf-weimar-iii-s-166l-2
+work:
+  composer: Liszt, Franz
+  title: Album-leaf 'Andante con moto' (S.166l/1), Album-leaf 'Weimar III' (S.166l/2)
+  ids:
+    imslp: 2 Album-Leaves, S.166l (Liszt, Franz)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Album-Leaves%2C_S.166l_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

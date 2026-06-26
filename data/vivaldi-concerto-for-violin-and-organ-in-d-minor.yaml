@@ -1,0 +1,17 @@
+id: vivaldi-concerto-for-violin-and-organ-in-d-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for Violin and Organ in D minor
+  ids:
+    imslp: Concerto for Violin and Organ in D minor, RV 541 (Vivaldi, Antonio)
+formula: org str
+instrumentation:
+  keyboards:
+  - instrument: organ
+  strings: str
+  additional_raw: violin | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_Violin_and_Organ_in_D_minor%2C_RV_541_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, organ, strings, continuo'

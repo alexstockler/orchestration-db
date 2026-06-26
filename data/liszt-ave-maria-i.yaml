@@ -1,0 +1,20 @@
+id: liszt-ave-maria-i
+work:
+  composer: Liszt, Franz
+  title: Ave Maria I
+  ids:
+    imslp: Ave Maria I, S.20 (Liszt, Franz)
+  year: 1846
+formula: org org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_Maria_I%2C_S.20_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed Chorus (SSATTB), Organ (ad lib.) (1st version), Mixed
+    Chorus (SSTB), Organ (2nd version)'
+duration_minutes: 5

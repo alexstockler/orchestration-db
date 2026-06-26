@@ -1,0 +1,15 @@
+id: liszt-andante-sensibilissimo
+work:
+  composer: Liszt, Franz
+  title: Andante sensibilissimo
+  ids:
+    imslp: Andante sensibilissimo, S.701c (Liszt, Franz)
+  year: 1880
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_sensibilissimo%2C_S.701c_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

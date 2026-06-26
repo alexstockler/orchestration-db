@@ -1,0 +1,16 @@
+id: handel-qualor-crudele-si-mi-vaga-dori
+work:
+  composer: Handel, George Frideric
+  title: Qualor, crudele sì mi vaga Dori
+  ids:
+    imslp: Qualor, crudele sì ma vaga Dori, HWV 151 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Qualor%2C_crudele_s%C3%AC_ma_vaga_Dori%2C_HWV_151_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, continuo'

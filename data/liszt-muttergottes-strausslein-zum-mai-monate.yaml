@@ -1,0 +1,16 @@
+id: liszt-muttergottes-strausslein-zum-mai-monate
+work:
+  composer: Liszt, Franz
+  title: Muttergottes-Sträusslein zum Mai-Monate
+  ids:
+    imslp: Muttergottes-Sträusslein zum Mai-Monate, S.316 (Liszt, Franz)
+  year: 1857
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Muttergottes-Str%C3%A4usslein_zum_Mai-Monate%2C_S.316_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

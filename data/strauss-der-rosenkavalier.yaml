@@ -1,0 +1,136 @@
+id: strauss-der-rosenkavalier
+work:
+  composer: Strauss, Richard
+  title: Der Rosenkavalier
+  ids:
+    imslp: Der Rosenkavalier, Op.59 (Strauss, Richard)
+  year: 1909
+formula: 5[1.2.3/pic.4.5] 4[1.2.3/Eh.4] 7[1.2.3.bcl.5.6.7] 5[1.2.3/cbn.4.5] 6430 tmp+1
+  cel harm pf 2hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - doublings:
+    - english_horn
+  - {}
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  - {}
+  - {}
+  - {}
+  bassoon:
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  - {}
+  - {}
+  horn: 6
+  trumpet: 4
+  trombone: 3
+  percussion:
+    timpani: 1
+    players: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - triangle
+    - tambourine
+    - glockenspiel
+    - ratchet
+    - snare drum
+    - castanets
+  keyboards:
+  - instrument: celesta
+  - instrument: harmonium
+  - instrument: piano
+  harp: 2
+  strings: str
+  soloists:
+  - The Marschallin (Feldmarschallin)
+  - Princess Marie Thérèse von Werdenberg (soprano)
+  - Octavian
+  - Count Rofrano
+  - Marie's young lover (Quinquin) (soprano / mezzo-soprano)
+  - Baron Ochs of Lerchenau
+  - the Marschallin's cousin (bass)
+  - Herr von Faninal
+  - Sophie's rich parvenu father (baritone)
+  - Sophie of Faninal
+  - Herr von Faninal's daughter (soprano)
+  - Marianne Leitmetzerin
+  - Herr von Faninal's duenna (soprano)
+  - Valzacchi
+  - an Italian intriguer (tenor)
+  - Annina
+  - Valzacchi's niece and companion (alto)
+  - A Notary (bass)
+  - An Italian Singer (tenor)
+  - 3 Noble Orphans (soprano, mezzo-soprano, alto)
+  - A Milliner (soprano)
+  - An Animal Vendor (tenor)
+  - Faninal's Major-Domo (tenor)
+  - The Marschallin's Major-Domo (tenor)
+  - 4 Footmen of the Marschallin (lackeys) (2 tenors, 2 basses)
+  - 4 Waiters (tenor, 3 basses)
+  - A Police Commissioner (inspector) (bass)
+  - 'An Inn-Keeper: (tenor)'
+  - A Flautist (silent role)
+  - A Cook (silent role)
+  - A Hairdresser and his assistant (silent role)
+  - A Scholar (silent role)
+  - A Noble Widow (silent role)
+  - Mahomet Mime (silent role)
+  - Mohammed
+  - the Marschallin's black page (silent role) Mixed Chorus (SATB) :Footmen
+  - couriers
+  - heyducks*
+  - cookboys
+  - guests
+  - musicians
+  - 2 watchmen
+  - servants
+  - hired decievers children
+  - constables
+  additional_raw: 'unknown doubling in clarinet: e-flat clarinet-flat clarinet | bass
+    tuba | jingle bells | strings (16,16,12,10,8) reduce when necessary) '' (third
+    act) | small drum'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Rosenkavalier%2C_Op.59_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :The Marschallin (Feldmarschallin), Princess Marie
+    Thérèse von Werdenberg (soprano), Octavian, Count Rofrano, Marie''s young lover
+    (Quinquin) (soprano / mezzo-soprano), Baron Ochs of Lerchenau, the Marschallin''s
+    cousin (bass), Herr von Faninal, Sophie''s rich parvenu father (baritone), Sophie
+    of Faninal, Herr von Faninal''s daughter (soprano), Marianne Leitmetzerin, Herr
+    von Faninal''s duenna (soprano), Valzacchi, an Italian intriguer (tenor) , Annina,
+    Valzacchi''s niece and companion (alto), A Notary (bass), An Italian Singer (tenor),
+    3 Noble Orphans (soprano, mezzo-soprano, alto), A Milliner (soprano), An Animal
+    Vendor (tenor), Faninal''s Major-Domo (tenor), The Marschallin''s Major-Domo (tenor),
+    4 Footmen of the Marschallin (lackeys) (2 tenors, 2 basses), 4 Waiters (tenor,
+    3 basses), A Police Commissioner (inspector) (bass), An Inn-Keeper: (tenor), A
+    Flautist (silent role), A Cook (silent role), A Hairdresser and his assistant
+    (silent role), A Scholar (silent role), A Noble Widow (silent role), Mahomet Mime
+    (silent role), Mohammed, the Marschallin''s black page (silent role) Mixed Chorus
+    (SATB) :Footmen, couriers, heyducks*, cookboys, guests, musicians,, 2 watchmen,
+    servants, hired decievers children, constables Orchestra :3 flutes (3rd also piccolo),
+    3 oboes (3rd also English horn), 3 clarinets (3rd also E clarinet), ::bass clarinet
+    (also basset horn), 3 bassoons (3rd also contrabassoon) :4 horns, 3 trumpets,
+    3 trombones, bass tuba, timpani, percussion (3 players) :: bass drum, cymbals,
+    triangle, tambourine, glockenspiel, ratchet, snare drum, jingle bells, castanets
+    :celesta, 2 harps, strings (16,16,12,10,8) reduce when necessary) '' (third act)
+    :2 flutes, oboe, 3 clarinets, 2 bassoons, 2 horns, trumpet, small drum, harmonium,
+    piano, strings (5 soloists, double if necessary)'
+duration_minutes: 30

@@ -1,0 +1,17 @@
+id: handel-languia-di-bocca-lusinghiera
+work:
+  composer: Handel, George Frideric
+  title: Languia di bocca lusinghiera
+  ids:
+    imslp: Languia di bocca lusinghiera, HWV 123 (Handel, George Frideric)
+formula: 0100 0000
+instrumentation:
+  oboe: 1
+  soloists:
+  - soprano
+  additional_raw: violin | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Languia_di_bocca_lusinghiera%2C_HWV_123_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, oboe, violin, continuo'

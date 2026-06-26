@@ -1,0 +1,95 @@
+id: strauss-arabella
+work:
+  composer: Strauss, Richard
+  title: Arabella
+  ids:
+    imslp: Arabella, Op.79 (Strauss, Richard)
+  year: 1930
+formula: 3[1.2.3/pic] 3[1.2.Eh] 4[Ebcl.2.3.bcl] 3[1.2.3/cbn] 4331 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  harp: 1
+  strings:
+    standard: true
+    description: 16, 14, 10, 10, 8
+  soloists:
+  - Count Waldner
+  - father of Arabella and Zdenka
+  - a retired cavalry officer (bass)
+  - Adelaide
+  - mother of Arabella and Zdenka
+  - Waldner's wife (mezzo-soprano)
+  - Arabella
+  - daughter of Count Waldner (soprano)
+  - Zdenka
+  - Arabella's younger sister (soprano)
+  - Mandryka
+  - a Croatian landowner (baritone)
+  - Matteo
+  - a young officer (tenor)
+  - Count Elemer
+  - one of Arabella's suitors (tenor)
+  - Count Dominik
+  - one of Arabella's suitors (baritone)
+  - Count Lamoral
+  - one of Arabella's suitors (bass)
+  - The Fiakermilli
+  - belle of the Coachmen's Ball (colorarura soprano)
+  - A fortune-teller (soprano)
+  - 3 Players (basses)
+  - Welko (spoken)
+  - Djura (spoken)
+  - Jankel (spoken)
+  - Mandryka's servants (spoken)
+  - Hotel porter (spoken)
+  - Arabella's companion (silent)
+  - A doctor (silent)
+  - A Groom (silent)
+  - A waiter (silent)
+  - A chaperone (silent) Mixed Chorus (SATB) :Cabmen
+  - Ball Guests
+  - Hotel Guests
+  - Waiters
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Arabella%2C_Op.79_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Count Waldner, father of Arabella and Zdenka, a retired
+    cavalry officer (bass), Adelaide, mother of Arabella and Zdenka, Waldner''s wife
+    (mezzo-soprano), Arabella, daughter of Count Waldner (soprano), Zdenka, Arabella''s
+    younger sister (soprano), Mandryka, a Croatian landowner (baritone), Matteo, a
+    young officer (tenor), Count Elemer, one of Arabella''s suitors (tenor), Count
+    Dominik, one of Arabella''s suitors (baritone), Count Lamoral, one of Arabella''s
+    suitors (bass), The Fiakermilli, belle of the Coachmen''s Ball (colorarura soprano),
+    A fortune-teller (soprano), 3 Players (basses), Welko (spoken), Djura (spoken),
+    Jankel (spoken), Mandryka''s servants (spoken), Hotel porter (spoken), Arabella''s
+    companion (silent), A doctor (silent), A Groom (silent), A waiter (silent), A
+    chaperone (silent) Mixed Chorus (SATB) :Cabmen, Ball Guests, Hotel Guests, Waiters
+    Orchestra :3 flutes (3rd also piccolo), 2 oboes, English horn, piccolo clarinet,
+    ::2 clarinets, bass clarinet, 3 bassoons (3rd also contrabassoon) :4 horns, 3
+    trumpets, 3 trombones, tuba, timpani, harp, strings (16, 14, 10, 10, 8)'
+duration_minutes: 30

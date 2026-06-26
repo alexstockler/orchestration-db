@@ -1,0 +1,16 @@
+id: liszt-polonaises-de-l-oratorio-st-stanislaus-s-519
+work:
+  composer: Liszt, Franz
+  title: Polonaises de l'oratorio St. Stanislaus, S.519
+  ids:
+    imslp: Polonaises de l'oratorio St. Stanislaus, S.519 (Liszt, Franz)
+  year: 1875
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Polonaises_de_l%27oratorio_St._Stanislaus%2C_S.519_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

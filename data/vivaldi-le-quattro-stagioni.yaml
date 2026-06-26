@@ -1,0 +1,16 @@
+id: vivaldi-le-quattro-stagioni
+work:
+  composer: Vivaldi, Antonio
+  title: Le quattro stagioni
+  ids:
+    imslp: Le quattro stagioni (Vivaldi, Antonio)
+  year: 1725
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: violin | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_quattro_stagioni_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, strings, continuo'

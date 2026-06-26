@@ -1,0 +1,17 @@
+id: liszt-epithalam-s-129
+work:
+  composer: Liszt, Franz
+  title: Epithalam, S.129
+  ids:
+    imslp: Epithalam, S.129 (Liszt, Franz)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Epithalam%2C_S.129_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, Piano'

@@ -1,0 +1,15 @@
+id: handel-allemande-hwv-476
+work:
+  composer: Handel, George Frideric
+  title: Allemande, HWV 476
+  ids:
+    imslp: Allemande in F major, HWV 476 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allemande_in_F_major%2C_HWV_476_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

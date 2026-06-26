@@ -1,0 +1,18 @@
+id: liszt-magyar-kiraly-dal
+work:
+  composer: Liszt, Franz
+  title: Magyar király-dal
+  ids:
+    imslp: Magyar király-dal, S.340 (Liszt, Franz)
+  year: 1883
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Magyar_kir%C3%A1ly-dal%2C_S.340_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,18 @@
+id: handel-deidamia
+work:
+  composer: Handel, George Frideric
+  title: Deidamia
+  ids:
+    imslp: Deidamia, HWV 42 (Handel, George Frideric)
+  year: 1740
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - alto
+  additional_raw: 2 basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Deidamia%2C_HWV_42_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 sopranos, alto, 2 basses, orchestra'

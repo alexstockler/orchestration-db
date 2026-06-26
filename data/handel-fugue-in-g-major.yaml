@@ -1,0 +1,16 @@
+id: handel-fugue-in-g-major
+work:
+  composer: Handel, George Frideric
+  title: Fugue in G major
+  ids:
+    imslp: Fugue in G major, HWV 606 (Handel, George Frideric)
+  year: 1716
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_G_major%2C_HWV_606_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

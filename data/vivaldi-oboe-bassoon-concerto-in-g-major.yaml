@@ -1,0 +1,18 @@
+id: vivaldi-oboe-bassoon-concerto-in-g-major
+work:
+  composer: Vivaldi, Antonio
+  title: Oboe & Bassoon Concerto in G major
+  ids:
+    imslp: Concerto for Oboe and Bassoon in G major, RV 545 (Vivaldi, Antonio)
+formula: 0101 0000 str
+instrumentation:
+  oboe: 1
+  bassoon: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_Oboe_and_Bassoon_in_G_major%2C_RV_545_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, bassoon, strings, continuo'
+duration_minutes: 10

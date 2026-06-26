@@ -1,0 +1,15 @@
+id: vivaldi-cunegonda
+work:
+  composer: Vivaldi, Antonio
+  title: Cunegonda
+  ids:
+    imslp: Cunegonda, RV 707 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cunegonda%2C_RV_707_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra (see below, Comments)'

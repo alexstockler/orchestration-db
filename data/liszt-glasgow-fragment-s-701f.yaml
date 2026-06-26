@@ -1,0 +1,16 @@
+id: liszt-glasgow-fragment-s-701f
+work:
+  composer: Liszt, Franz
+  title: Glasgow fragment, S.701f
+  ids:
+    imslp: Album-leaf 'Glasgow fragment', S.701f (Liszt, Franz)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album-leaf_%27Glasgow_fragment%27%2C_S.701f_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 2

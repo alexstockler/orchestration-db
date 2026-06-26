@@ -1,0 +1,16 @@
+id: strauss-metamorphosen
+work:
+  composer: Strauss, Richard
+  title: Metamorphosen
+  ids:
+    imslp: Metamorphosen, TrV 290 (Strauss, Richard)
+  year: 1945
+formula: ''
+instrumentation:
+  additional_raw: 10 violins | 5 violas | 5 cellos | 3 basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Metamorphosen%2C_TrV_290_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: 10 violins, 5 violas, 5 cellos, 3 basses'
+duration_minutes: 30

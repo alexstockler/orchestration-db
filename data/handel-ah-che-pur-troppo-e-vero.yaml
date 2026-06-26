@@ -1,0 +1,16 @@
+id: handel-ah-che-pur-troppo-e-vero
+work:
+  composer: Handel, George Frideric
+  title: Ah, che pur troppo è vero
+  ids:
+    imslp: Ah, che pur troppo è vero, HWV 77 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ah%2C_che_pur_troppo_%C3%A8_vero%2C_HWV_77_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

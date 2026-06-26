@@ -1,0 +1,19 @@
+id: handel-ariodante
+work:
+  composer: Handel, George Frideric
+  title: Ariodante
+  ids:
+    imslp: Ariodante, HWV 33 (Handel, George Frideric)
+  year: 1734
+formula: ''
+instrumentation:
+  additional_raw: Ariodante (mezzo-soprano/castrato) | Ginevra (soprano) | Dalinda
+    (soprano) | Polinesso (alto) | Lurcanio (tenor) | King of Scotland (bass) | Odoardo
+    (tenor) Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ariodante%2C_HWV_33_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Ariodante (mezzo-soprano/castrato), Ginevra (soprano),
+    Dalinda (soprano), Polinesso (alto), Lurcanio (tenor), King of Scotland (bass),
+    Odoardo (tenor) Orchestra'

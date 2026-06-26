@@ -1,0 +1,22 @@
+id: liszt-in-domum-domini-ibimus
+work:
+  composer: Liszt, Franz
+  title: In domum Domini ibimus
+  ids:
+    imslp: In domum Domini ibimus, S.57 (Liszt, Franz)
+  year: 1884
+formula: 0000 0220 tmp org
+instrumentation:
+  trumpet: 2
+  trombone: 2
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_domum_Domini_ibimus%2C_S.57_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), 2 trumpets, 2 trombones, timpani,
+    organ'

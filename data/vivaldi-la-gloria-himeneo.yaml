@@ -1,0 +1,19 @@
+id: vivaldi-la-gloria-himeneo
+work:
+  composer: Vivaldi, Antonio
+  title: La Gloria Himeneo
+  ids:
+    imslp: Gloria e Himeneo, RV 687 (Vivaldi, Antonio)
+  year: 1967
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gloria_e_Himeneo%2C_RV_687_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, strings, continuo'

@@ -1,0 +1,16 @@
+id: liszt-requiem-fur-die-orgel
+work:
+  composer: Liszt, Franz
+  title: Requiem für die Orgel
+  ids:
+    imslp: Requiem für die Orgel, S.266 (Liszt, Franz)
+  year: 1883
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Requiem_f%C3%BCr_die_Orgel%2C_S.266_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

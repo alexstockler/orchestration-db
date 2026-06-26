@@ -1,0 +1,40 @@
+id: strauss-divertimento-aus-klavierstucke-von-francois-couperin
+work:
+  composer: Strauss, Richard
+  title: Divertimento aus Klavierstücke von François Couperin
+  ids:
+    imslp: Divertimento aus Klavierstücke von François Couperin, Op.86 (Strauss, Richard)
+  year: 1941
+formula: 2 3[1.2.Eh] 2 2 2110 tmp cel hpd org hp str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 1
+  trombone: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tambourine
+    - cymbals
+    - bass drum
+  keyboards:
+  - instrument: celesta
+  - instrument: harpsichord
+  - instrument: organ
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Divertimento_aus_Klavierst%C3%BCcke_von_Fran%C3%A7ois_Couperin%2C_Op.86_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, English horn, 2 clarinets, 2 bassoons,
+    2 horns, trumpet, trombone, timpani, triangle, tambourine, cymbals, bass drum,
+    celesta, harpsichord, organ, harp, strings (3-6, 3-6, 2-4, 2-4, 2)'
+duration_minutes: 32

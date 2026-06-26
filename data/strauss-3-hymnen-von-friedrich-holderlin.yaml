@@ -1,0 +1,17 @@
+id: strauss-3-hymnen-von-friedrich-holderlin
+work:
+  composer: Strauss, Richard
+  title: 3 Hymnen von Friedrich Hölderlin
+  ids:
+    imslp: 3 Hymnen von Friedrich Hölderlin, Op.71 (Strauss, Richard)
+  year: 1921
+formula: ''
+instrumentation:
+  additional_raw: high voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Hymnen_von_Friedrich_H%C3%B6lderlin%2C_Op.71_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: high voice, orchestra (Piccolo, 3 flutes, 2 oboes, English
+    horn, C-clarinet, 2 clarinets in B, bass clarinet, 3 bassoons, 4 horns, 3 trumpets,
+    3 trombones, tuba, timpani, celesta, 2 harps, strings)'

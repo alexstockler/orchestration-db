@@ -1,0 +1,17 @@
+id: vivaldi-concerto-for-two-trumpets
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for Two Trumpets
+  ids:
+    imslp: Concerto for 2 Trumpets in C major, RV 537 (Vivaldi, Antonio)
+  year: 1950
+formula: 0000 0200 str
+instrumentation:
+  trumpet: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Trumpets_in_C_major%2C_RV_537_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 trumpets, strings, continuo'

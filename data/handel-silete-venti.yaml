@@ -1,0 +1,16 @@
+id: handel-silete-venti
+work:
+  composer: Handel, George Frideric
+  title: Silete venti
+  ids:
+    imslp: Silete venti, HWV 242 (Handel, George Frideric)
+  year: 1724
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Silete_venti%2C_HWV_242_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, orchestra (oboe, strings, continuo)'

@@ -1,0 +1,17 @@
+id: handel-look-down-harmonious-saint
+work:
+  composer: Handel, George Frideric
+  title: Look down, harmonious saint
+  ids:
+    imslp: Look down, harmonious saint, HWV 124 (Handel, George Frideric)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - tenor
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Look_down%2C_harmonious_saint%2C_HWV_124_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, strings, continuo'

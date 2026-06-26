@@ -1,0 +1,16 @@
+id: liszt-4-album-leaves
+work:
+  composer: Liszt, Franz
+  title: 4 Album-Leaves
+  ids:
+    imslp: 4 Album-Leaves, S.164s (Liszt, Franz)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Album-Leaves%2C_S.164s_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

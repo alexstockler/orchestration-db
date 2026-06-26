@@ -1,0 +1,16 @@
+id: handel-nice-che-fa-che-pensa
+work:
+  composer: Handel, George Frideric
+  title: Nice, che fa? che pensa?
+  ids:
+    imslp: Nice, che fa? che pensa?, HWV 138 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nice%2C_che_fa%3F_che_pensa%3F%2C_HWV_138_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

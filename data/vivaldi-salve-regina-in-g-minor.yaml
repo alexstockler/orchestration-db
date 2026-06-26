@@ -1,0 +1,17 @@
+id: vivaldi-salve-regina-in-g-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Salve Regina in G minor
+  ids:
+    imslp: Salve Regina in G minor, RV 618 (Vivaldi, Antonio)
+  year: 1720
+formula: 0200 0000
+instrumentation:
+  oboe: 2
+  additional_raw: Solo alto | basso continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Salve_Regina_in_G_minor%2C_RV_618_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo alto, 2 string orchestras, 2 oboes, basso continuo'
+duration_minutes: 15

@@ -1,0 +1,16 @@
+id: liszt-rakoczi-marsch-s-692d
+work:
+  composer: Liszt, Franz
+  title: Rákóczi-Marsch, S.692d
+  ids:
+    imslp: Rákóczi-Marsch, S.692d (Liszt, Franz)
+  year: 1839
+formula: ''
+instrumentation:
+  additional_raw: Solo piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/R%C3%A1k%C3%B3czi-Marsch%2C_S.692d_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo piano'
+duration_minutes: 2

@@ -1,0 +1,16 @@
+id: vivaldi-oboe-concerto-in-a-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Oboe Concerto in A minor
+  ids:
+    imslp: Oboe Concerto in A minor, RV 461 (Vivaldi, Antonio)
+formula: 0100 0000 str
+instrumentation:
+  oboe: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oboe_Concerto_in_A_minor%2C_RV_461_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, strings, continuo'

@@ -1,0 +1,16 @@
+id: handel-suite-in-c-minor
+work:
+  composer: Handel, George Frideric
+  title: Suite in C minor
+  ids:
+    imslp: Suite in C minor, HWV 446 (Handel, George Frideric)
+formula: hpd hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_in_C_minor%2C_HWV_446_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 harpsichords'

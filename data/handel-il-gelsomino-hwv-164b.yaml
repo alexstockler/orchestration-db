@@ -1,0 +1,16 @@
+id: handel-il-gelsomino-hwv-164b
+work:
+  composer: Handel, George Frideric
+  title: Il Gelsomino, HWV 164b
+  ids:
+    imslp: Il Gelsomino, HWV 164b (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_Gelsomino%2C_HWV_164b_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

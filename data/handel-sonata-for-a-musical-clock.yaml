@@ -1,0 +1,15 @@
+id: handel-sonata-for-a-musical-clock
+work:
+  composer: Handel, George Frideric
+  title: Sonata for a Musical Clock
+  ids:
+    imslp: Sonata for a Musical Clock, HWV 578 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: musical clock (organ, harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_for_a_Musical_Clock%2C_HWV_578_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: musical clock (organ, harpsichord)'
+duration_minutes: 7

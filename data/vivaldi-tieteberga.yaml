@@ -1,0 +1,15 @@
+id: vivaldi-tieteberga
+work:
+  composer: Vivaldi, Antonio
+  title: Tieteberga
+  ids:
+    imslp: Tieteberga, RV 737 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tieteberga%2C_RV_737_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

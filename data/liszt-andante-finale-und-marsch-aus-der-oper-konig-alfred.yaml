@@ -1,0 +1,17 @@
+id: liszt-andante-finale-und-marsch-aus-der-oper-konig-alfred
+work:
+  composer: Liszt, Franz
+  title: Andante Finale und Marsch aus der Oper König Alfred
+  ids:
+    imslp: Andante Finale und Marsch aus der Oper König Alfred, S.421 (Liszt, Franz)
+  year: 1853
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_Finale_und_Marsch_aus_der_Oper_K%C3%B6nig_Alfred%2C_S.421_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'
+duration_minutes: 8

@@ -1,0 +1,15 @@
+id: vivaldi-sinfonia-in-g-major
+work:
+  composer: Vivaldi, Antonio
+  title: Sinfonia in G major
+  ids:
+    imslp: Sinfonia/Concerto for Strings in G major, RV 146 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sinfonia/Concerto_for_Strings_in_G_major%2C_RV_146_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: strings, continuo'

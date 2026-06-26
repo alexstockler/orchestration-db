@@ -1,0 +1,14 @@
+id: handel-adagio-and-allegro-in-a-major
+work:
+  composer: Handel, George Frideric
+  title: Adagio and Allegro in A major
+  ids:
+    imslp: Adagio and Allegro in A major, HWV 406 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: violin solo | 2 violins | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adagio_and_Allegro_in_A_major%2C_HWV_406_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: violin solo, 2 violins, continuo'

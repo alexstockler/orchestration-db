@@ -1,0 +1,16 @@
+id: liszt-bulow-marsch
+work:
+  composer: Liszt, Franz
+  title: Bülow-Marsch
+  ids:
+    imslp: Bülow-Marsch, S.230 (Liszt, Franz)
+  year: 1883
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/B%C3%BClow-Marsch%2C_S.230_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

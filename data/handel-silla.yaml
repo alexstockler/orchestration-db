@@ -1,0 +1,17 @@
+id: handel-silla
+work:
+  composer: Handel, George Frideric
+  title: Silla
+  ids:
+    imslp: Silla, HWV 10 (Handel, George Frideric)
+  year: 1713
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Silla%2C_HWV_10_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

@@ -1,0 +1,16 @@
+id: handel-overture-in-d-major
+work:
+  composer: Handel, George Frideric
+  title: Overture in D major
+  ids:
+    imslp: Overture in D major, HWV 424 (Handel, George Frideric)
+  year: 1741
+formula: 0020 1000
+instrumentation:
+  clarinet: 2
+  horn: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Overture_in_D_major%2C_HWV_424_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 clarinets, horn'

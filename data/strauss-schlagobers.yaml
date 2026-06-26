@@ -1,0 +1,20 @@
+id: strauss-schlagobers
+work:
+  composer: Strauss, Richard
+  title: Schlagobers
+  ids:
+    imslp: Schlagobers, Op.70 (Strauss, Richard)
+  year: 1922
+formula: cel 2hp str
+instrumentation:
+  keyboards:
+  - instrument: celesta
+  harp: 2
+  strings: str
+  additional_raw: 4-3-4-4 4-3-3-1 Percussion
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Schlagobers%2C_Op.70_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: 4-3-4-4 4-3-3-1 Percussion, Celesta, 2 Harps, Strings'
+duration_minutes: 15

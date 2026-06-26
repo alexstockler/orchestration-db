@@ -1,0 +1,16 @@
+id: liszt-rhapsodie-espagnole
+work:
+  composer: Liszt, Franz
+  title: Rhapsodie espagnole
+  ids:
+    imslp: Rhapsodie espagnole, S.254 (Liszt, Franz)
+  year: 1858
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rhapsodie_espagnole%2C_S.254_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,32 @@
+id: handel-admeto
+work:
+  composer: Handel, George Frideric
+  title: Admeto
+  ids:
+    imslp: Admeto, HWV 22 (Handel, George Frideric)
+  year: 1726
+formula: 1200 2000 str
+instrumentation:
+  flute: 1
+  oboe: 2
+  horn: 2
+  strings: str
+  soloists:
+  - Alceste (soprano)
+  - Antigona (soprano)
+  - Admeto (alto-castrato)
+  - Ercole (bass)
+  - Trasimede (alto-castrato)
+  - Orindo (contralto)
+  - Meraspe (baritone)
+  - Apollo (bass)
+  - A voice (baritone)
+  additional_raw: continuo (cello, lute, harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Admeto%2C_HWV_22_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Alceste (soprano), Antigona (soprano), Admeto (alto-castrato),
+    Ercole (bass), Trasimede (alto-castrato), Orindo (contralto), Meraspe (baritone),
+    Apollo (bass), A voice (baritone) Orchestra :flute, 2 oboes, 2 horns, strings
+    (3 violins), continuo (cello, lute, harpsichord)'

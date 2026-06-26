@@ -1,0 +1,16 @@
+id: vivaldi-concerto-for-viola-d-amore-and-lute-in-d-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for Viola d'amore and Lute in D Minor
+  ids:
+    imslp: Concerto for Viola d'amore and Lute in D minor, RV 540 (Vivaldi, Antonio)
+  year: 1960
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: viola d'amore | lute | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_Viola_d%27amore_and_Lute_in_D_minor%2C_RV_540_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: viola d''amore, lute, strings, continuo'

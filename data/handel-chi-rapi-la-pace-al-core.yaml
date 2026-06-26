@@ -1,0 +1,16 @@
+id: handel-chi-rapi-la-pace-al-core
+work:
+  composer: Handel, George Frideric
+  title: Chi rapì la pace al core
+  ids:
+    imslp: Chi rapì la pace al core, HWV 90 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chi_rap%C3%AC_la_pace_al_core%2C_HWV_90_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

@@ -1,0 +1,17 @@
+id: vivaldi-invicti-bellate
+work:
+  composer: Vivaldi, Antonio
+  title: Invicti, bellate
+  ids:
+    imslp: Invicti, bellate, RV 628 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Invicti%2C_bellate%2C_RV_628_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, strings, continuo'

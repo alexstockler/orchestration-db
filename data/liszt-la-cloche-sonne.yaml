@@ -1,0 +1,16 @@
+id: liszt-la-cloche-sonne
+work:
+  composer: Liszt, Franz
+  title: La cloche sonne
+  ids:
+    imslp: La cloche sonne, S.238 (Liszt, Franz)
+  year: 1850
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_cloche_sonne%2C_S.238_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

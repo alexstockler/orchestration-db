@@ -1,0 +1,16 @@
+id: liszt-reminiscences-de-don-juan
+work:
+  composer: Liszt, Franz
+  title: Réminiscences de Don Juan
+  ids:
+    imslp: Réminiscences de Don Juan, S.418 (Liszt, Franz)
+  year: 1841
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/R%C3%A9miniscences_de_Don_Juan%2C_S.418_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

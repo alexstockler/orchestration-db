@@ -1,0 +1,16 @@
+id: liszt-zwei-stucke-aus-tannhauser-und-lohengrin
+work:
+  composer: Liszt, Franz
+  title: Zwei Stücke aus Tannhäuser und Lohengrin
+  ids:
+    imslp: 2 Stücke aus Tannhäuser und Lohengrin, S.445 (Liszt, Franz)
+  year: 1852
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_St%C3%BCcke_aus_Tannh%C3%A4user_und_Lohengrin%2C_S.445_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

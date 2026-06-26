@@ -1,0 +1,16 @@
+id: handel-o-lucenti-o-sereni-occhi-hwv-144
+work:
+  composer: Handel, George Frideric
+  title: O lucenti, o sereni occhi, HWV 144
+  ids:
+    imslp: O lucenti, o sereni occhi, HWV 144 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_lucenti%2C_o_sereni_occhi%2C_HWV_144_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

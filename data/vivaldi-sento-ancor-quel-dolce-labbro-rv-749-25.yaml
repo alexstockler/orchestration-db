@@ -1,0 +1,16 @@
+id: vivaldi-sento-ancor-quel-dolce-labbro-rv-749-25
+work:
+  composer: Vivaldi, Antonio
+  title: Sento ancor quel dolce labbro, RV 749.25
+  ids:
+    imslp: Sento ancor quel dolce labbro, RV 749.25 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sento_ancor_quel_dolce_labbro%2C_RV_749.25_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, strings'

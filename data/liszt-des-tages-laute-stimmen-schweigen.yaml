@@ -1,0 +1,16 @@
+id: liszt-des-tages-laute-stimmen-schweigen
+work:
+  composer: Liszt, Franz
+  title: Des Tages laute Stimmen schweigen
+  ids:
+    imslp: Des Tages laute Stimmen schweigen, S.337 (Liszt, Franz)
+  year: 1880
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Des_Tages_laute_Stimmen_schweigen%2C_S.337_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

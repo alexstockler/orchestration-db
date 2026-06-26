@@ -1,0 +1,16 @@
+id: handel-chaconne-in-g-with-62-variations
+work:
+  composer: Handel, George Frideric
+  title: Chaconne in G (with 62 variations)
+  ids:
+    imslp: Chaconne in G major, HWV 442 (Handel, George Frideric)
+  year: 1705
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chaconne_in_G_major%2C_HWV_442_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

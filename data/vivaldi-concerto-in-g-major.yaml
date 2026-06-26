@@ -1,0 +1,17 @@
+id: vivaldi-concerto-in-g-major
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto in G major
+  ids:
+    imslp: Chamber Concerto in G major, RV 101 (Vivaldi, Antonio)
+  year: 1720
+formula: 0101 0000
+instrumentation:
+  oboe: 1
+  bassoon: 1
+  additional_raw: recorder | violin | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chamber_Concerto_in_G_major%2C_RV_101_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: recorder, oboe, bassoon, violin, continuo'

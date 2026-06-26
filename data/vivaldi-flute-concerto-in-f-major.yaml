@@ -1,0 +1,18 @@
+id: vivaldi-flute-concerto-in-f-major
+work:
+  composer: Vivaldi, Antonio
+  title: Flute Concerto in F major
+  ids:
+    imslp: Flute Concerto in F major, RV 433 (Vivaldi, Antonio)
+  year: 1729
+formula: 1000 0000 str
+instrumentation:
+  flute: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flute_Concerto_in_F_major%2C_RV_433_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, strings, continuo'
+duration_minutes: 9

@@ -1,0 +1,17 @@
+id: liszt-te-deum-i
+work:
+  composer: Liszt, Franz
+  title: Te Deum I
+  ids:
+    imslp: Te Deum I, S.24 (Liszt, Franz)
+  year: 1853
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Te_Deum_I%2C_S.24_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Male Chorus, Organ'

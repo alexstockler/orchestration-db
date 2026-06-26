@@ -1,0 +1,15 @@
+id: handel-prelude-hwv-563
+work:
+  composer: Handel, George Frideric
+  title: Prelude, HWV 563
+  ids:
+    imslp: Prelude, HWV 563 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude%2C_HWV_563_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Harpsichord'

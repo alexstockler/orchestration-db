@@ -1,0 +1,16 @@
+id: handel-figli-del-mesto-cor-hwv-112
+work:
+  composer: Handel, George Frideric
+  title: Figli del mesto cor, HWV 112
+  ids:
+    imslp: Figli del mesto cor, HWV 112 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Figli_del_mesto_cor%2C_HWV_112_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, continuo'

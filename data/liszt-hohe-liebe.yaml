@@ -1,0 +1,16 @@
+id: liszt-hohe-liebe
+work:
+  composer: Liszt, Franz
+  title: Hohe Liebe
+  ids:
+    imslp: Hohe Liebe, S.307 (Liszt, Franz)
+  year: 1850
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hohe_Liebe%2C_S.307_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

@@ -1,0 +1,75 @@
+id: strauss-daphne
+work:
+  composer: Strauss, Richard
+  title: Daphne
+  ids:
+    imslp: Daphne, Op.82 (Strauss, Richard)
+  year: 1936
+formula: 3[1.2.3/pic] 3[1.2.Eh] 6[1.2.3.4.bhn.bcl] 4[1.2.3.cbn] 4330 tmp org 2hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: basset_horn
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: organ
+  harp: 2
+  strings:
+    standard: true
+    description: 16,16,12,10,8
+  soloists:
+  - Daphne
+  - 'daughter of Peneios and Gaea: (soprano)'
+  - Peneios
+  - a fisherman
+  - 'father of Daphne: (bass)'
+  - Gaea
+  - Peneios wife
+  - 'mother of Daphne: (contralto)'
+  - Leukippos
+  - 'a shepherd: (tenor)'
+  - Apollo (tenor)
+  - '1st Shepherd: (baritone)'
+  - '2nd Shepherd: (tenor)'
+  - '3rd Shepherd: (bass)'
+  - '4th Shepherd: (bass)'
+  - '1st Maid (Girl): (soprano)'
+  - '2nd Maid (Girl): (soprano)'
+  additional_raw: 'alphorn | bass tuba | percussion: | (bass drum, cymbals, triangle,
+    tambourine, tam-tam)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Daphne%2C_Op.82_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Daphne, daughter of Peneios and Gaea: (soprano),
+    Peneios, a fisherman, father of Daphne: (bass), Gaea, Peneios wife, mother of
+    Daphne: (contralto), Leukippos, a shepherd: (tenor), Apollo (tenor), 1st Shepherd:
+    (baritone), 2nd Shepherd: (tenor), 3rd Shepherd: (bass), 4th Shepherd: (bass),
+    1st Maid (Girl): (soprano), 2nd Maid (Girl): (soprano) Orchestra :3 flutes (3rd
+    also piccolo), 2 oboes, English horn, clarinet (C), 3 clarinets ::basset horn,
+    bass clarinet, 3 bassoons, contrabassoon :4 horns, alphorn, 3 trumpets, 3 trombones,
+    bass tuba :timpani, percussion: ::(bass drum, cymbals, triangle, tambourine, tam-tam)
+    :organ, 2 harps, strings (16,16,12,10,8)'
+duration_minutes: 105

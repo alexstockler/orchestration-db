@@ -1,0 +1,17 @@
+id: liszt-fantasie-uber-themen-aus-mozarts-figaro-und-don-giovanni
+work:
+  composer: Liszt, Franz
+  title: Fantasie über Themen aus Mozarts Figaro und Don Giovanni
+  ids:
+    imslp: Fantasie über Themen aus Mozarts Figaro und Don Giovanni, S.697 (Liszt,
+      Franz)
+  year: 1842
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasie_%C3%BCber_Themen_aus_Mozarts_Figaro_und_Don_Giovanni%2C_S.697_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,15 @@
+id: vivaldi-sinfonia-for-strings-in-b-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Sinfonia for Strings in B minor
+  ids:
+    imslp: Sinfonia in B minor, RV 168 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sinfonia_in_B_minor%2C_RV_168_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: strings, continuo'

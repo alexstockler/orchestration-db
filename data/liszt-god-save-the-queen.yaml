@@ -1,0 +1,16 @@
+id: liszt-god-save-the-queen
+work:
+  composer: Liszt, Franz
+  title: God Save the Queen
+  ids:
+    imslp: God Save the Queen, S.235 (Liszt, Franz)
+  year: 1841
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/God_Save_the_Queen%2C_S.235_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,18 @@
+id: liszt-oh-quand-je-dors
+work:
+  composer: Liszt, Franz
+  title: Oh! quand je dors
+  ids:
+    imslp: Oh! quand je dors, S.282 (Liszt, Franz)
+  year: 1842
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oh%21_quand_je_dors%2C_S.282_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

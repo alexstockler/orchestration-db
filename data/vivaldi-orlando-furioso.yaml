@@ -1,0 +1,15 @@
+id: vivaldi-orlando-furioso
+work:
+  composer: Vivaldi, Antonio
+  title: Orlando furioso
+  ids:
+    imslp: Orlando furioso, RV 819 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Orlando_furioso%2C_RV_819_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

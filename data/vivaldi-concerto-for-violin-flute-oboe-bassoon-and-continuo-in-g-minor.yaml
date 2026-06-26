@@ -1,0 +1,18 @@
+id: vivaldi-concerto-for-violin-flute-oboe-bassoon-and-continuo-in-g-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for Violin, Flute, Oboe, Bassoon and Continuo in G minor
+  ids:
+    imslp: Chamber Concerto in G minor, RV 107 (Vivaldi, Antonio)
+formula: 1101 0000
+instrumentation:
+  flute: 1
+  oboe: 1
+  bassoon: 1
+  additional_raw: violin | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chamber_Concerto_in_G_minor%2C_RV_107_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, violin, bassoon, continuo'
+duration_minutes: 10

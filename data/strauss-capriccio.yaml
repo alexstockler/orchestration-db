@@ -1,0 +1,78 @@
+id: strauss-capriccio
+work:
+  composer: Strauss, Richard
+  title: Capriccio
+  ids:
+    imslp: Capriccio, Op.85 (Strauss, Richard)
+  year: 1940
+formula: 3[1.2.3/pic] 3[1.2.Eh] 5[1.2.3.bhn.bcl] 3[1.2.3/cbn] 4230 tmp hpd hpd 2hp
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: basset_horn
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+  keyboards:
+  - instrument: harpsichord
+  - instrument: harpsichord
+  harp: 2
+  soloists:
+  - Countess Madeleine
+  - a young widow (soprano)
+  - Clairon
+  - an actress (contralto)
+  - Flamand
+  - a musician (tenor)
+  - Olivier
+  - a poet (baritone)
+  - The Count
+  - brother of Countess Madeleine (baritone)
+  - La Roche
+  - a theatre director (bass)
+  - Monsieur Taupe
+  - a prompter (tenor)
+  - '2 Italian singers: (soprano, tenor)'
+  - Major-domo (bass)
+  - '8 servants: (4 tenors, 4 basses)'
+  - 'A young dancer: (silent role) Mixed Chorus (SATB) :Musicians and servants Pit'
+  additional_raw: strings (16,16,10,10,6) On-Stage Ensemble | violin | cello Backstage
+    Ensemble | String Sextet (2 violins, 2 violas, 2 cellos)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Capriccio%2C_Op.85_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Countess Madeleine, a young widow (soprano), Clairon,
+    an actress (contralto), Flamand, a musician (tenor), Olivier, a poet (baritone),
+    The Count, brother of Countess Madeleine (baritone), La Roche, a theatre director
+    (bass), Monsieur Taupe, a prompter (tenor), 2 Italian singers: (soprano, tenor),
+    Major-domo (bass), 8 servants: (4 tenors, 4 basses), A young dancer: (silent role)
+    Mixed Chorus (SATB) :Musicians and servants Pit Orchestra :3 flutes (3rd also
+    piccolo), 2 oboes, English horn, clarinet (C), 2 clarinets ::basset horn, bass
+    clarinet, 3 bassoons (3rd also contrabassoon) :4 horns, 2 trumpets, 3 trombones,
+    timpani, bass drum, cymbals, harpsichord, 2 harps, strings (16,16,10,10,6) On-Stage
+    Ensemble :harpsichord, violin, cello Backstage Ensemble :String Sextet (2 violins,
+    2 violas, 2 cellos)'
+duration_minutes: 130

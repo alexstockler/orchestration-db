@@ -1,0 +1,17 @@
+id: liszt-magyar-tempo
+work:
+  composer: Liszt, Franz
+  title: Magyar Tempo
+  ids:
+    imslp: Magyar Tempo, S.241b (Liszt, Franz)
+  year: 1840
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Magyar_Tempo%2C_S.241b_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

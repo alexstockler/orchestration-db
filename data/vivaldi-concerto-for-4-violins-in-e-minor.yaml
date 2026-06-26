@@ -1,0 +1,17 @@
+id: vivaldi-concerto-for-4-violins-in-e-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for 4 Violins in E minor
+  ids:
+    imslp: Concerto for 4 Violins in E minor, RV 550 (Vivaldi, Antonio)
+  year: 1711
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: 4 violins | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_4_Violins_in_E_minor%2C_RV_550_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 violins, strings, continuo'
+duration_minutes: 7

@@ -1,0 +1,16 @@
+id: handel-menuet-in-d-minor
+work:
+  composer: Handel, George Frideric
+  title: Menuet in D minor
+  ids:
+    imslp: Menuet in D minor (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Menuet_in_D_minor_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Harpsichord'
+duration_minutes: 1

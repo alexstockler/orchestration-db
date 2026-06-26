@@ -1,0 +1,38 @@
+id: strauss-4-sinfonische-zwischenspiele-aus-intermezzo
+work:
+  composer: Strauss, Richard
+  title: 4 Sinfonische Zwischenspiele aus Intermezzo
+  ids:
+    imslp: 4 Sinfonische Zwischenspiele aus Intermezzo, TrV 246a (Strauss, Richard)
+  year: 1924
+formula: 2 2[1.2/Eh] 2 2 3220 tmp pf hp str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 3
+  trumpet: 2
+  trombone: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - bass drum
+    - snare drum
+    - triangle
+  keyboards:
+  - instrument: piano
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Sinfonische_Zwischenspiele_aus_Intermezzo%2C_TrV_246a_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes (2nd also English horn), 2 clarinets,
+    2 bassoons, 3 horns, 2 trumpets, 2 trombones, timpani, cymbals, bass drum, snare
+    drum, triangle, piano, harp, strings'
+duration_minutes: 25

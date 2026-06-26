@@ -1,0 +1,16 @@
+id: liszt-album-leaf-apparition-1-s-166z
+work:
+  composer: Liszt, Franz
+  title: Album-Leaf 'Apparition 1', S.166z
+  ids:
+    imslp: Album-Leaf 'Apparition 1', S.166z (Liszt, Franz)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album-Leaf_%27Apparition_1%27%2C_S.166z_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

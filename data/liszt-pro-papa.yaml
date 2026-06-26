@@ -1,0 +1,15 @@
+id: liszt-pro-papa
+work:
+  composer: Liszt, Franz
+  title: Pro Papa
+  ids:
+    imslp: Pro Papa, S.59 (Liszt, Franz)
+  year: 1880
+formula: ''
+instrumentation:
+  additional_raw: Male Chorus and Organ (No.1) | Mixed Chous and Organ (No.2)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pro_Papa%2C_S.59_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Male Chorus and Organ (No.1), Mixed Chous and Organ (No.2)'

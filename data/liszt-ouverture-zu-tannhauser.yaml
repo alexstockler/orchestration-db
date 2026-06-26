@@ -1,0 +1,16 @@
+id: liszt-ouverture-zu-tannhauser
+work:
+  composer: Liszt, Franz
+  title: Ouvertüre zu Tannhäuser
+  ids:
+    imslp: Ouvertüre zu Tannhäuser, S.442 (Liszt, Franz)
+  year: 1847
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ouvert%C3%BCre_zu_Tannh%C3%A4user%2C_S.442_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

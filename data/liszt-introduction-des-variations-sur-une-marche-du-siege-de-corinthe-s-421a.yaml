@@ -1,0 +1,18 @@
+id: liszt-introduction-des-variations-sur-une-marche-du-siege-de-corinthe-s-421a
+work:
+  composer: Liszt, Franz
+  title: Introduction des Variations sur une marche du Siège de Corinthe, S.421a
+  ids:
+    imslp: Introduction des Variations sur une marche du Siège de Corinthe, S.421a
+      (Liszt, Franz)
+  year: 1830
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Introduction_des_Variations_sur_une_marche_du_Si%C3%A8ge_de_Corinthe%2C_S.421a_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 3

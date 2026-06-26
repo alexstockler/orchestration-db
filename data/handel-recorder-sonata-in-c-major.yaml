@@ -1,0 +1,15 @@
+id: handel-recorder-sonata-in-c-major
+work:
+  composer: Handel, George Frideric
+  title: Recorder Sonata in C major
+  ids:
+    imslp: Recorder Sonata in C major, HWV 365 (Handel, George Frideric)
+  year: 1727
+formula: ''
+instrumentation:
+  additional_raw: recorder | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Recorder_Sonata_in_C_major%2C_HWV_365_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: recorder, continuo'

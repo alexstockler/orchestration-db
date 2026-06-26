@@ -1,0 +1,18 @@
+id: strauss-violin-sonata
+work:
+  composer: Strauss, Richard
+  title: Violin Sonata
+  ids:
+    imslp: Violin Sonata, Op.18 (Strauss, Richard)
+  year: 1887
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata%2C_Op.18_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 30

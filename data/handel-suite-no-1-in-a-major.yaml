@@ -1,0 +1,17 @@
+id: handel-suite-no-1-in-a-major
+work:
+  composer: Handel, George Frideric
+  title: Suite No.1 in A major
+  ids:
+    imslp: Suite in A major, HWV 426 (Handel, George Frideric)
+  year: 1720
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+  additional_raw: see comments below
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_in_A_major%2C_HWV_426_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord; see comments below'

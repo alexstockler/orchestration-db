@@ -1,0 +1,17 @@
+id: vivaldi-non-in-pratis
+work:
+  composer: Vivaldi, Antonio
+  title: Non in pratis
+  ids:
+    imslp: Non in pratis aut in hortis, RV 641 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Non_in_pratis_aut_in_hortis%2C_RV_641_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, strings, continuo'

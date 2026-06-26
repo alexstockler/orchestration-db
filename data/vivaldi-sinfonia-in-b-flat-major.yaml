@@ -1,0 +1,17 @@
+id: vivaldi-sinfonia-in-b-flat-major
+work:
+  composer: Vivaldi, Antonio
+  title: Sinfonia in B-flat major
+  ids:
+    imslp: Sinfonia in B-flat major, RV 162 (Vivaldi, Antonio)
+  year: 1720
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sinfonia_in_B-flat_major%2C_RV_162_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: strings, continuo'
+duration_minutes: 5

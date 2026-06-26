@@ -1,0 +1,45 @@
+id: liszt-dante-symphony
+work:
+  composer: Liszt, Franz
+  title: Dante Symphony
+  ids:
+    imslp: Dante Symphony, S.109 (Liszt, Franz)
+  year: 1855
+formula: 3[pic.2.3] 3[1.2.Eh] 3[1.2.bcl] 2 4231 tmp harm 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 2
+    instruments:
+    - cymbals
+    - tam-tam
+    - bass drum
+  keyboards:
+  - instrument: harmonium
+  harp: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dante_Symphony%2C_S.109_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: 31 parts :piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets,
+    bass clarinet, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, 2 timpani,
+    cymbals, tam-tam, bass drum, harmonium, 2 harps (may be substituted with piano),
+    strings'
+duration_minutes: 50

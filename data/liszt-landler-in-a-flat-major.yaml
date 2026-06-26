@@ -1,0 +1,16 @@
+id: liszt-landler-in-a-flat-major
+work:
+  composer: Liszt, Franz
+  title: Ländler in A flat major
+  ids:
+    imslp: Ländler in A-flat major, S.211 (Liszt, Franz)
+  year: 1843
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%C3%A4ndler_in_A-flat_major%2C_S.211_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

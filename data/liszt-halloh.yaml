@@ -1,0 +1,16 @@
+id: liszt-halloh
+work:
+  composer: Liszt, Franz
+  title: Halloh!
+  ids:
+    imslp: Halloh!, S.404 (Liszt, Franz)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Halloh%21%2C_S.404_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

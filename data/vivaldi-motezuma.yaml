@@ -1,0 +1,16 @@
+id: vivaldi-motezuma
+work:
+  composer: Vivaldi, Antonio
+  title: Motezuma
+  ids:
+    imslp: Motezuma, RV 723 (Vivaldi, Antonio)
+  year: 1733
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Motezuma%2C_RV_723_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

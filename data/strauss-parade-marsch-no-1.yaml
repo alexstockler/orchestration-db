@@ -1,0 +1,16 @@
+id: strauss-parade-marsch-no-1
+work:
+  composer: Strauss, Richard
+  title: Parade-Marsch No.1
+  ids:
+    imslp: Parade-Marsch No.1, TrV 213 (Strauss, Richard)
+  year: 1905
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Parade-Marsch_No.1%2C_TrV_213_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

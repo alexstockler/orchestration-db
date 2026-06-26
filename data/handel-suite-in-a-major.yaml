@@ -1,0 +1,15 @@
+id: handel-suite-in-a-major
+work:
+  composer: Handel, George Frideric
+  title: Suite in A major
+  ids:
+    imslp: Suite in A major, HWV 454 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_in_A_major%2C_HWV_454_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

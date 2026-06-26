@@ -1,0 +1,17 @@
+id: liszt-album-leaf-quasi-mazurek
+work:
+  composer: Liszt, Franz
+  title: Album-Leaf 'Quasi Mazurek'
+  ids:
+    imslp: Album-Leaf 'Quasi Mazurek', S.163e (Liszt, Franz)
+  year: 1843
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album-Leaf_%27Quasi_Mazurek%27%2C_S.163e_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

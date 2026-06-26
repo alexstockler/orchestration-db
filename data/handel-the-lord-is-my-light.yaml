@@ -1,0 +1,21 @@
+id: handel-the-lord-is-my-light
+work:
+  composer: Handel, George Frideric
+  title: The Lord is my Light
+  ids:
+    imslp: The Lord is My Light, HWV 255 (Handel, George Frideric)
+  year: 1717
+formula: 2100 0000
+instrumentation:
+  flute: 2
+  oboe: 1
+  soloists:
+  - soprano
+  - 2 tenors + mixed chorus (STTTB)
+  additional_raw: 2 violins | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Lord_is_My_Light%2C_HWV_255_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, 2 tenors + mixed chorus (STTTB), Orchestra:
+    2 flutes, oboes, 2 violins, continuo'

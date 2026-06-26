@@ -1,0 +1,17 @@
+id: handel-antiphon-in-a-minor
+work:
+  composer: Handel, George Frideric
+  title: Antiphon in A minor
+  ids:
+    imslp: Antiphon in A minor, HWV 274 (Handel, George Frideric)
+  year: 1734
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Antiphon_in_A_minor%2C_HWV_274_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

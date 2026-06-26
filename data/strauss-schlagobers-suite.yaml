@@ -1,0 +1,20 @@
+id: strauss-schlagobers-suite
+work:
+  composer: Strauss, Richard
+  title: Schlagobers Suite
+  ids:
+    imslp: Suite from 'Schlagobers', TrV 243a (Strauss, Richard)
+  year: 1923
+formula: cel 2hp str
+instrumentation:
+  keyboards:
+  - instrument: celesta
+  harp: 2
+  strings: str
+  additional_raw: 4-3-4-4 4-3-3-1 Percussion
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_from_%27Schlagobers%27%2C_TrV_243a_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: 4-3-4-4 4-3-3-1 Percussion, Celesta, 2 Harps, Strings'
+duration_minutes: 48

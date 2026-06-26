@@ -1,0 +1,51 @@
+id: strauss-till-eulenspiegels-lustige-streiche
+work:
+  composer: Strauss, Richard
+  title: Till Eulenspiegels lustige Streiche
+  ids:
+    imslp: Till Eulenspiegels lustige Streiche, Op.28 (Strauss, Richard)
+  year: 1895
+formula: 4[pic.2.3.4] 4[1.2.3.Eh] 4[Ebcl.2.3.bcl] 4[1.2.3.cbn] 8631 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 8
+  trumpet: 6
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - snare drum
+    - cymbals
+    - triangle
+  strings: str
+  additional_raw: large ratchet
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Till_Eulenspiegels_lustige_Streiche%2C_Op.28_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 3 flutes, 3 oboes, English horn, piccolo clarinet,,
+    2 clarinets, bass clarinet, 3 bassoons, contrabassoon, 8 horns (5-8 ad lib.),
+    6 trumpets (4-6 ad lib.), 3 trombones, tuba, timpani, bass drum, snare drum, cymbals,
+    triangle, large ratchet, strings'
+duration_minutes: 20

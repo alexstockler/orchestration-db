@@ -1,0 +1,16 @@
+id: handel-concerto-in-f-major
+work:
+  composer: Handel, George Frideric
+  title: Concerto in F major
+  ids:
+    imslp: Concerto in F major, HWV 302b (Handel, George Frideric)
+formula: 0200 2000 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_in_F_major%2C_HWV_302b_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 horns, strings'

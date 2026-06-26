@@ -1,0 +1,19 @@
+id: handel-tamerlano
+work:
+  composer: Handel, George Frideric
+  title: Tamerlano
+  ids:
+    imslp: Tamerlano, HWV 18 (Handel, George Frideric)
+  year: 1724
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - altos
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tamerlano%2C_HWV_18_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 3 altos, tenor, bass, orchestra'

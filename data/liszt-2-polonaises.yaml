@@ -1,0 +1,16 @@
+id: liszt-2-polonaises
+work:
+  composer: Liszt, Franz
+  title: 2 Polonaises
+  ids:
+    imslp: 2 Polonaises, S.223 (Liszt, Franz)
+  year: 1850
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Polonaises%2C_S.223_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,16 @@
+id: liszt-hungarian-rhapsody-no-17
+work:
+  composer: Liszt, Franz
+  title: Hungarian Rhapsody No.17
+  ids:
+    imslp: Hungarian Rhapsody No.17, S.244/17 (Liszt, Franz)
+  year: 1884
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hungarian_Rhapsody_No.17%2C_S.244/17_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

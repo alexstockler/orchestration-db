@@ -1,0 +1,16 @@
+id: strauss-thema-und-15-improvisationen-mit-fuge
+work:
+  composer: Strauss, Richard
+  title: Thema und 15 Improvisationen mit Fuge
+  ids:
+    imslp: Thema und 15 Improvisationen mit Fuge, TrV 130 (Strauss, Richard)
+  year: 1884
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Thema_und_15_Improvisationen_mit_Fuge%2C_TrV_130_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

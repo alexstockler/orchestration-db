@@ -1,0 +1,40 @@
+id: liszt-heroide-funebre
+work:
+  composer: Liszt, Franz
+  title: Héroïde funèbre
+  ids:
+    imslp: Héroïde funèbre, S.102 (Liszt, Franz)
+  year: 1854
+formula: 3[pic.2.3] 3[1.2.Eh] 2 2 4231 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drum
+    - tam-tam
+    - cymbals
+    - bass drum
+    - bells
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/H%C3%A9ro%C3%AFde_fun%C3%A8bre%2C_S.102_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets,
+    2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani, snare drum, tam-tam,
+    cymbals, bass drum, 2 bells, strings'
+duration_minutes: 24

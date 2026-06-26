@@ -1,0 +1,17 @@
+id: liszt-concerto-sans-orchestre
+work:
+  composer: Liszt, Franz
+  title: Concerto sans orchestre
+  ids:
+    imslp: Concerto sans orchestre, S.524a (Liszt, Franz)
+  year: 1839
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_sans_orchestre%2C_S.524a_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 20

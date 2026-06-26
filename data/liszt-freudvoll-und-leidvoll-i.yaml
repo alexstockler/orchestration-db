@@ -1,0 +1,18 @@
+id: liszt-freudvoll-und-leidvoll-i
+work:
+  composer: Liszt, Franz
+  title: Freudvoll und leidvoll I
+  ids:
+    imslp: Freudvoll und leidvoll I, S.280 (Liszt, Franz)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Freudvoll_und_leidvoll_I%2C_S.280_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

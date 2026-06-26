@@ -1,0 +1,16 @@
+id: vivaldi-oboe-sonata-in-c-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Oboe Sonata in C minor
+  ids:
+    imslp: Oboe Sonata in C minor, RV 53 (Vivaldi, Antonio)
+  year: 1951
+formula: 0100 0000
+instrumentation:
+  oboe: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oboe_Sonata_in_C_minor%2C_RV_53_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, continuo'

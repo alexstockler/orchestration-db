@@ -1,0 +1,15 @@
+id: vivaldi-nerone-fatto-cesare
+work:
+  composer: Vivaldi, Antonio
+  title: Nerone fatto Cesare
+  ids:
+    imslp: Nerone fatto Cesare, RV 724 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nerone_fatto_Cesare%2C_RV_724_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

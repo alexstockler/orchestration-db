@@ -1,0 +1,18 @@
+id: liszt-der-du-von-dem-himmel-bist
+work:
+  composer: Liszt, Franz
+  title: Der du von dem Himmel bist
+  ids:
+    imslp: Der du von dem Himmel bist, S.279 (Liszt, Franz)
+  year: 1842
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_du_von_dem_Himmel_bist%2C_S.279_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

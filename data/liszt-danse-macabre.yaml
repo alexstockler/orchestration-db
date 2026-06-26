@@ -1,0 +1,40 @@
+id: liszt-danse-macabre
+work:
+  composer: Liszt, Franz
+  title: Danse macabre
+  ids:
+    imslp: Danse Macabre, S.555 (Liszt, Franz)
+  year: 1874
+formula: 3[pic.2.3] 2 2 2 4231 tmp hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - bass drum
+    - xylophone
+  harp: 1
+  strings: str
+  additional_raw: violin solo (scordatura (G, D, A, E)) | (*) Harp may be substituted
+    with bell or tam-tam.
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Danse_Macabre%2C_S.555_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4
+    horns (2 natural, 2 chromatic), 2 trumpets, 3 trombones, tuba, timpani, triangle,
+    cymbals, bass drum, xylophone, harp*, violin solo (scordatura (G, D, A, E)), strings,
+    (*) Harp may be substituted with bell or tam-tam.'
+duration_minutes: 8

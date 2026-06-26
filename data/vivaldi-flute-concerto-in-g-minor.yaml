@@ -1,0 +1,18 @@
+id: vivaldi-flute-concerto-in-g-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Flute Concerto in G minor
+  ids:
+    imslp: Flute Concerto in G minor, RV 439 (Vivaldi, Antonio)
+  year: 1729
+formula: 1000 0000 str
+instrumentation:
+  flute: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flute_Concerto_in_G_minor%2C_RV_439_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, strings, continuo'
+duration_minutes: 7

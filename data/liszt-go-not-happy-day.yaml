@@ -1,0 +1,18 @@
+id: liszt-go-not-happy-day
+work:
+  composer: Liszt, Franz
+  title: Go Not, Happy Day
+  ids:
+    imslp: Go Not, Happy Day, S.335 (Liszt, Franz)
+  year: 1879
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Go_Not%2C_Happy_Day%2C_S.335_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,16 @@
+id: liszt-csardas-macabre
+work:
+  composer: Liszt, Franz
+  title: Csárdás macabre
+  ids:
+    imslp: Csárdás macabre, S.224 (Liszt, Franz)
+  year: 1881
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cs%C3%A1rd%C3%A1s_macabre%2C_S.224_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

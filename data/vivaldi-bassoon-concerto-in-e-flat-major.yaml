@@ -1,0 +1,17 @@
+id: vivaldi-bassoon-concerto-in-e-flat-major
+work:
+  composer: Vivaldi, Antonio
+  title: Bassoon Concerto in E-flat major
+  ids:
+    imslp: Bassoon Concerto in E-flat major, RV 483 (Vivaldi, Antonio)
+  year: 1720
+formula: 0001 0000 str
+instrumentation:
+  bassoon: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bassoon_Concerto_in_E-flat_major%2C_RV_483_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: bassoon, strings, continuo'

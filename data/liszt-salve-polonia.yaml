@@ -1,0 +1,14 @@
+id: liszt-salve-polonia
+work:
+  composer: Liszt, Franz
+  title: Salve Polonia
+  ids:
+    imslp: Salve Polonia, S.113/2 (Liszt, Franz)
+  year: 1884
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Salve_Polonia%2C_S.113/2_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra'

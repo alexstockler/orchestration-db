@@ -1,0 +1,16 @@
+id: handel-dimmi-o-mio-cor
+work:
+  composer: Handel, George Frideric
+  title: Dimmi, o mio cor
+  ids:
+    imslp: Dimmi, o mio cor, HWV 106 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dimmi%2C_o_mio_cor%2C_HWV_106_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

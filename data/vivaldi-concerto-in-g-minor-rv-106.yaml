@@ -1,0 +1,16 @@
+id: vivaldi-concerto-in-g-minor-rv-106
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto in G minor, RV 106
+  ids:
+    imslp: Chamber Concerto in G minor, RV 106 (Vivaldi, Antonio)
+formula: 1001 0000
+instrumentation:
+  flute: 1
+  bassoon: 1
+  additional_raw: violin | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chamber_Concerto_in_G_minor%2C_RV_106_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, violin, bassoon, continuo'

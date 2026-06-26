@@ -1,0 +1,15 @@
+id: handel-recorder-sonata-in-g-minor
+work:
+  composer: Handel, George Frideric
+  title: Recorder Sonata in G minor
+  ids:
+    imslp: Recorder Sonata in G minor, HWV 360 (Handel, George Frideric)
+  year: 1727
+formula: ''
+instrumentation:
+  additional_raw: recorder | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Recorder_Sonata_in_G_minor%2C_HWV_360_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: recorder, continuo'

@@ -1,0 +1,18 @@
+id: liszt-o-salutaris-hostia-ii
+work:
+  composer: Liszt, Franz
+  title: O salutaris hostia II
+  ids:
+    imslp: O salutaris hostia II, S.43 (Liszt, Franz)
+  year: 1869
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_salutaris_hostia_II%2C_S.43_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus, organ (ad lib.)'
+duration_minutes: 3

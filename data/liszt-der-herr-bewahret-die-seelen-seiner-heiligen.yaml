@@ -1,0 +1,22 @@
+id: liszt-der-herr-bewahret-die-seelen-seiner-heiligen
+work:
+  composer: Liszt, Franz
+  title: Der Herr bewahret die Seelen seiner Heiligen
+  ids:
+    imslp: Der Herr bewahret die Seelen seiner Heiligen, S.48 (Liszt, Franz)
+  year: 1860
+formula: 0000 0031 tmp
+instrumentation:
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  chorus_raw: mixed chorus
+  additional_raw: Organ + 2 trumpets
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Herr_bewahret_die_Seelen_seiner_Heiligen%2C_S.48_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed Chorus (SATB), Organ + 2 trumpets, 3 trombones, tuba,
+    timpani'
+duration_minutes: 2

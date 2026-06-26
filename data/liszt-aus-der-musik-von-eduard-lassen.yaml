@@ -1,0 +1,15 @@
+id: liszt-aus-der-musik-von-eduard-lassen
+work:
+  composer: Liszt, Franz
+  title: Aus der Musik von Eduard Lassen
+  ids:
+    imslp: Aus der Musik von Eduard Lassen, S.496 (Liszt, Franz)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aus_der_Musik_von_Eduard_Lassen%2C_S.496_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

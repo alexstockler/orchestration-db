@@ -1,0 +1,19 @@
+id: liszt-christus-ist-geboren-ii
+work:
+  composer: Liszt, Franz
+  title: Christus ist geboren II
+  ids:
+    imslp: Christus ist geboren, S.32 (Liszt, Franz)
+  year: 1863
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: female chorus
+  additional_raw: organ or harmonium
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Christus_ist_geboren%2C_S.32_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), organ or harmonium, male chorus (TTBB),
+    organ (ad lib.), female chorus (SSA)'

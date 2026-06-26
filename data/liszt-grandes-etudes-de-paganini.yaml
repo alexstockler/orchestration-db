@@ -1,0 +1,16 @@
+id: liszt-grandes-etudes-de-paganini
+work:
+  composer: Liszt, Franz
+  title: Grandes études de Paganini
+  ids:
+    imslp: Grandes études de Paganini, S.141 (Liszt, Franz)
+  year: 1851
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grandes_%C3%A9tudes_de_Paganini%2C_S.141_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,15 @@
+id: vivaldi-sonata-for-recorder-bassoon-and-continuo
+work:
+  composer: Vivaldi, Antonio
+  title: Sonata for Recorder, Bassoon and Continuo
+  ids:
+    imslp: Sonata for Recorder, Bassoon and Continuo, RV 86 (Vivaldi, Antonio)
+formula: 0001 0000
+instrumentation:
+  bassoon: 1
+  additional_raw: recorder | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_for_Recorder%2C_Bassoon_and_Continuo%2C_RV_86_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: recorder, bassoon, continuo'

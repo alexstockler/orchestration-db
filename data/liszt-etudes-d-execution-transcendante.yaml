@@ -1,0 +1,16 @@
+id: liszt-etudes-d-execution-transcendante
+work:
+  composer: Liszt, Franz
+  title: Études d'exécution transcendante
+  ids:
+    imslp: Études d'exécution transcendante, S.139 (Liszt, Franz)
+  year: 1851
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%89tudes_d%27ex%C3%A9cution_transcendante%2C_S.139_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

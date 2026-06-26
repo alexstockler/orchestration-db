@@ -1,0 +1,15 @@
+id: handel-o-come-let-us-sing-unto-the-lord-chandos-anthem-no-8
+work:
+  composer: Handel, George Frideric
+  title: O Come, Let Us Sing unto the Lord (Chandos Anthem No.8)
+  ids:
+    imslp: O Come, Let Us Sing unto the Lord, HWV 253 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  chorus_raw: chorus and orchestra
+  additional_raw: Vocal Soloists (soprano, 2 tenors)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_Come%2C_Let_Us_Sing_unto_the_Lord%2C_HWV_253_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal Soloists (soprano, 2 tenors), Chorus and Orchestra'

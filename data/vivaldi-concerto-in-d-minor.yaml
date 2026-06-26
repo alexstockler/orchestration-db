@@ -1,0 +1,23 @@
+id: vivaldi-concerto-in-d-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto in D minor
+  ids:
+    imslp: Concerto in D minor, RV 566 (Vivaldi, Antonio)
+  year: 1720
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - 2 recorders
+  - 2 oboes
+  - bassoon
+  - 2 violins
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_in_D_minor%2C_RV_566_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: 2 recorders, 2 oboes, bassoon, 2 violins, Orchestra:
+    strings, continuo'
+duration_minutes: 8

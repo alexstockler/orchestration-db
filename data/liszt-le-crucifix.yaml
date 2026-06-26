@@ -1,0 +1,15 @@
+id: liszt-le-crucifix
+work:
+  composer: Liszt, Franz
+  title: Le Crucifix
+  ids:
+    imslp: Le crucifix, S.342 (Liszt, Franz)
+  year: 1879
+formula: ''
+instrumentation:
+  additional_raw: Alto voice and Piano (or Harmonium)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_crucifix%2C_S.342_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Alto voice and Piano (or Harmonium)'

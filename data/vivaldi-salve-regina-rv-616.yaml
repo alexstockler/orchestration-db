@@ -1,0 +1,16 @@
+id: vivaldi-salve-regina-rv-616
+work:
+  composer: Vivaldi, Antonio
+  title: Salve Regina, RV 616
+  ids:
+    imslp: Salve Regina, RV 616 (Vivaldi, Antonio)
+  year: 1730
+formula: ''
+instrumentation:
+  additional_raw: Alto voice and double string orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Salve_Regina%2C_RV_616_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: Alto voice and double string orchestra'
+duration_minutes: 20

@@ -1,0 +1,17 @@
+id: handel-suite-in-b-flat-major
+work:
+  composer: Handel, George Frideric
+  title: Suite in B flat major
+  ids:
+    imslp: Suite in B flat major, HWV 352 (Handel, George Frideric)
+formula: 0201 0000 str
+instrumentation:
+  oboe: 2
+  bassoon: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_in_B_flat_major%2C_HWV_352_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, bassoon, strings, continuo'

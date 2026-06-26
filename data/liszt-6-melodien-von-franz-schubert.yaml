@@ -1,0 +1,16 @@
+id: liszt-6-melodien-von-franz-schubert
+work:
+  composer: Liszt, Franz
+  title: 6 Melodien von Franz Schubert
+  ids:
+    imslp: 6 Melodien von Franz Schubert, S.563 (Liszt, Franz)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Melodien_von_Franz_Schubert%2C_S.563_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

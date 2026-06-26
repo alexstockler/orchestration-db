@@ -1,0 +1,16 @@
+id: vivaldi-concerto-for-2-oboes-and-violin-in-d-major
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for 2 Oboes and Violin in D major
+  ids:
+    imslp: Concerto for 2 Oboes in D major, RV 563 (Vivaldi, Antonio)
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Oboes_in_D_major%2C_RV_563_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'

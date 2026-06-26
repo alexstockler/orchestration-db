@@ -1,0 +1,16 @@
+id: handel-non-sospirar-non-piangere
+work:
+  composer: Handel, George Frideric
+  title: Non sospirar, non piangere
+  ids:
+    imslp: Non sospirar, non piangere, HWV 141 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Non_sospirar%2C_non_piangere%2C_HWV_141_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

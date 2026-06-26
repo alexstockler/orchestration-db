@@ -1,0 +1,16 @@
+id: vivaldi-perfidissimo-cor
+work:
+  composer: Vivaldi, Antonio
+  title: Perfidissimo cor
+  ids:
+    imslp: Perfidissimo cor, RV 674 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - contralto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Perfidissimo_cor%2C_RV_674_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: contralto, continuo'

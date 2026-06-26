@@ -1,0 +1,18 @@
+id: vivaldi-concerto-in-f-major-rv-99
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto in F major, RV 99
+  ids:
+    imslp: Chamber Concerto in F major, RV 99 (Vivaldi, Antonio)
+  year: 1720
+formula: 1101 0000
+instrumentation:
+  flute: 1
+  oboe: 1
+  bassoon: 1
+  additional_raw: violin | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chamber_Concerto_in_F_major%2C_RV_99_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, bassoon, violin, continuo'

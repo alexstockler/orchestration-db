@@ -1,0 +1,17 @@
+id: liszt-andantino-pour-emile-et-charlotte-loudon
+work:
+  composer: Liszt, Franz
+  title: Andantino pour Emile et Charlotte Loudon
+  ids:
+    imslp: Album-Leaf 'Andantino', S.163a/2 (Liszt, Franz)
+  year: 1828
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album-Leaf_%27Andantino%27%2C_S.163a/2_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'
+duration_minutes: 2

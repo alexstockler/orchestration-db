@@ -1,0 +1,16 @@
+id: liszt-feierlicher-marsch-zum-heiligen-gral-aus-parsifal
+work:
+  composer: Liszt, Franz
+  title: Feierlicher Marsch zum heiligen Gral aus Parsifal
+  ids:
+    imslp: Feierlicher Marsch zum heiligen Gral aus Parsifal, S.450 (Liszt, Franz)
+  year: 1882
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Feierlicher_Marsch_zum_heiligen_Gral_aus_Parsifal%2C_S.450_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,15 @@
+id: handel-air-in-c-minor
+work:
+  composer: Handel, George Frideric
+  title: Air in C minor
+  ids:
+    imslp: Air in C minor, HWV 458 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Air_in_C_minor%2C_HWV_458_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

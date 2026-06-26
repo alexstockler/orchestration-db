@@ -1,0 +1,16 @@
+id: liszt-ave-maria-ii
+work:
+  composer: Liszt, Franz
+  title: Ave Maria II
+  ids:
+    imslp: Ave Maria II, S.38 (Liszt, Franz)
+  year: 1869
+formula: ''
+instrumentation:
+  additional_raw: Mixed Chorus and Organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_Maria_II%2C_S.38_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed Chorus and Organ'
+duration_minutes: 6

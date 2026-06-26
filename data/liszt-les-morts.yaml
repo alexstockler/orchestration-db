@@ -1,0 +1,28 @@
+id: liszt-les-morts
+work:
+  composer: Liszt, Franz
+  title: Les morts
+  ids:
+    imslp: Les morts, S.112/1 (Liszt, Franz)
+  year: 1860
+formula: 2220 0230
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    instruments:
+    - snare drum
+    - cymbals
+  soloists:
+  - male chorus (TTBB) ad lib.
+  additional_raw: 2 bassoons + 4 horns (E) | tuba + timpani | bass drum + harp + strings
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_morts%2C_S.112/1_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: male chorus (TTBB) ad lib., Orchestra: 2 flutes,
+    2 oboes, 2 clarinets (A), 2 bassoons + 4 horns (E), 2 trumpets (E), 3 trombones,
+    tuba + timpani, snare drum, cymbals, bass drum + harp + strings'

@@ -1,0 +1,16 @@
+id: handel-sinfonia-in-b-flat-major
+work:
+  composer: Handel, George Frideric
+  title: Sinfonia in B-flat major
+  ids:
+    imslp: Sinfonia in B-flat major, HWV 339 (Handel, George Frideric)
+  year: 1707
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sinfonia_in_B-flat_major%2C_HWV_339_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: strings, continuo'

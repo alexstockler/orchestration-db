@@ -1,0 +1,19 @@
+id: liszt-septem-sacramenta
+work:
+  composer: Liszt, Franz
+  title: Septem Sacramenta
+  ids:
+    imslp: Septem sacramenta, S.52 (Liszt, Franz)
+  year: 1878
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+  additional_raw: Mezzo-soprano and Baritone voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Septem_sacramenta%2C_S.52_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Mezzo-soprano and Baritone voices, Mixed Chorus (SATB),
+    Organ (or harmonium)'

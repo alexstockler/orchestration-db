@@ -1,0 +1,16 @@
+id: handel-minuet-in-g-minor
+work:
+  composer: Handel, George Frideric
+  title: Minuet in G minor
+  ids:
+    imslp: Minuet in G minor, HWV 434/4 (Handel, George Frideric)
+  year: 1710
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Minuet_in_G_minor%2C_HWV_434/4_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

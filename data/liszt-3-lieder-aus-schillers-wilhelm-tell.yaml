@@ -1,0 +1,18 @@
+id: liszt-3-lieder-aus-schillers-wilhelm-tell
+work:
+  composer: Liszt, Franz
+  title: 3 Lieder aus Schillers Wilhelm Tell
+  ids:
+    imslp: 3 Lieder aus Schillers "Wilhelm Tell", S.292 (Liszt, Franz)
+  year: 1845
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Lieder_aus_Schillers_%22Wilhelm_Tell%22%2C_S.292_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,16 @@
+id: handel-qualor-l-egre-pupille
+work:
+  composer: Handel, George Frideric
+  title: Qualor l'egre pupille
+  ids:
+    imslp: Qualor l'egre pupille, HWV 152 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Qualor_l%27egre_pupille%2C_HWV_152_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

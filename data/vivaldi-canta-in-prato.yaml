@@ -1,0 +1,17 @@
+id: vivaldi-canta-in-prato
+work:
+  composer: Vivaldi, Antonio
+  title: Canta in prato
+  ids:
+    imslp: Canta in prato, ride in monte, RV 623 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canta_in_prato%2C_ride_in_monte%2C_RV_623_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, strings, continuo'

@@ -1,0 +1,19 @@
+id: handel-hercules
+work:
+  composer: Handel, George Frideric
+  title: Hercules
+  ids:
+    imslp: Hercules, HWV 60 (Handel, George Frideric)
+  year: 1744
+formula: ''
+instrumentation:
+  additional_raw: Hercules (bass) | Dejanira | wife of Hercules (mezzo-soprano) |
+    Iole | daughter of the King of Oechalia (soprano) | Hyllus | son of Hercules (tenor)
+    | Lichas | a herald (contralto) Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hercules%2C_HWV_60_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Hercules (bass), Dejanira, wife of Hercules (mezzo-soprano),
+    Iole, daughter of the King of Oechalia (soprano), Hyllus, son of Hercules (tenor),
+    Lichas, a herald (contralto) Orchestra'

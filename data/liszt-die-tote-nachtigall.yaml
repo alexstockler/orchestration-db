@@ -1,0 +1,16 @@
+id: liszt-die-tote-nachtigall
+work:
+  composer: Liszt, Franz
+  title: Die tote Nachtigall
+  ids:
+    imslp: Die tote Nachtigall, S.291 (Liszt, Franz)
+  year: 1843
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_tote_Nachtigall%2C_S.291_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

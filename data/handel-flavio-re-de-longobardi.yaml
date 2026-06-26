@@ -1,0 +1,18 @@
+id: handel-flavio-re-de-longobardi
+work:
+  composer: Handel, George Frideric
+  title: Flavio, re de' Longobardi
+  ids:
+    imslp: Flavio, re de' Longobardi, HWV 16 (Handel, George Frideric)
+  year: 1723
+formula: ''
+instrumentation:
+  additional_raw: Flavio (alto-castrato) | Guido (alto-castrato) | Emilia (soprano)
+    | Vitige (soprano) | Teodata (contralto) | Lotarioi (bass) | Ugone (tenor) Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flavio%2C_re_de%27_Longobardi%2C_HWV_16_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Flavio (alto-castrato), Guido (alto-castrato), Emilia
+    (soprano), Vitige (soprano), Teodata (contralto), Lotarioi (bass), Ugone (tenor)
+    Orchestra'

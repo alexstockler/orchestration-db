@@ -1,0 +1,110 @@
+id: strauss-elektra
+work:
+  composer: Strauss, Richard
+  title: Elektra
+  ids:
+    imslp: Elektra, Op.58 (Strauss, Richard)
+  year: 1906
+formula: 4[pic.2.3/pic.4] 4[1.2.3/Eh.heck] 8[Ebcl.2.3.4.5.bhn.bhn.bcl] 4[1.2.3.cbn]
+  8 7[1.2.3.4.5.6.btpt] 4[1.2.3.cbtbn] 1 tmp+1 cel 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - doublings:
+    - piccolo
+  - {}
+  oboe:
+  - {}
+  - {}
+  - doublings:
+    - english_horn
+  - instrument: heckelphone
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: basset_horn
+  - instrument: basset_horn
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 8
+  trumpet:
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: bass_trumpet
+  trombone:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabass_trombone
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+    instruments:
+    - snare drum
+    - bass drum
+    - cymbals
+    - tam-tam
+    - triangle
+    - whip
+    - tambourine
+    - castanets
+    - glockenspiel
+  keyboards:
+  - instrument: celesta
+  harp: 2
+  strings: str
+  soloists:
+  - Klytemnestra
+  - widow of Agamemnon (mezzo soprano)
+  - Elektra
+  - daughter of Klytemnestra (soprano), Chrysothemis, daughter of Klytemnestra, sister
+    of Elektra) (soprano)
+  - Aegisth (Aegisthus)
+  - Klytemnestra's paramour (tenor)
+  - Orest (Orestes)
+  - son of Agamemnon and Klytemnestra (baritone)
+  - Tutor to Orest (baritone)
+  - Confidante of Klytemnestra (soprano)
+  - Trainbearer of Klytemnestra (soprano)
+  - A young servant (tenor)
+  - An old servant (bass)
+  - An overseer (soprano)
+  - 1st Maid (contralto)
+  - 2nd Maid (soprano)
+  - 3rd Maid (mezzo soprano)
+  - 4th Maid (soprano)
+  - 5th Maid (soprano) Chorus (SATB) :Men and women of the household (servants)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Elektra%2C_Op.58_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Klytemnestra, widow of Agamemnon (mezzo soprano),
+    Elektra, daughter of Klytemnestra (soprano), Chrysothemis, daughter of Klytemnestra,
+    sister of Elektra) (soprano), Aegisth (Aegisthus), Klytemnestra''s paramour (tenor),
+    Orest (Orestes), son of Agamemnon and Klytemnestra (baritone), Tutor to Orest
+    (baritone), Confidante of Klytemnestra (soprano), Trainbearer of Klytemnestra
+    (soprano), A young servant (tenor), An old servant (bass), An overseer (soprano),
+    1st Maid (contralto), 2nd Maid (soprano), 3rd Maid (mezzo soprano) , 4th Maid
+    (soprano), 5th Maid (soprano) Chorus (SATB) :Men and women of the household (servants)
+    Orchestra :piccolo (also 4th flute), 3 flutes (3rd also 2nd piccolo), ::3 oboes
+    (3rd also English horn), heckelphone, piccolo clarinet, 4 clarinets,, 2 basset
+    horns, bass clarinet, 3 bassoons, contrabassoon :8 horns (horns 5-8 also Wagner
+    tubas), 6 trumpets, bass trumpet,, 3 trombones, contrabass trombone, tuba, timpani
+    (2 players, 6-8 drums), percussion (3-4 players) ::snare drum, bass drum (with
+    switch), cymbals, tam-tam, triangle, whip,, tambourine, castanets, glockenspiel
+    :celesta (ad. lib.), 2 harps, strings (8-8-8 violins, 6-6-6 violas, 6-6 cellos,
+    8 basses)'
+duration_minutes: 105

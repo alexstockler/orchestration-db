@@ -1,0 +1,14 @@
+id: vivaldi-ipermestra
+work:
+  composer: Vivaldi, Antonio
+  title: Ipermestra
+  ids:
+    imslp: Ipermestra, RV 722 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  additional_raw: '|Tags=opera seria | librettos | it'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ipermestra%2C_RV_722_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: |Tags=opera seria ; librettos ; it'

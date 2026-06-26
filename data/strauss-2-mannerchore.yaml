@@ -1,0 +1,15 @@
+id: strauss-2-mannerchore
+work:
+  composer: Strauss, Richard
+  title: 2 Männerchöre
+  ids:
+    imslp: 2 Männerchöre, Op.42 (Strauss, Richard)
+  year: 1899
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_M%C3%A4nnerch%C3%B6re%2C_Op.42_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus'

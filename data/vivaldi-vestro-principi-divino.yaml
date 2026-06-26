@@ -1,0 +1,17 @@
+id: vivaldi-vestro-principi-divino
+work:
+  composer: Vivaldi, Antonio
+  title: Vestro Principi divino
+  ids:
+    imslp: Vestro Principi divino, RV 633 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vestro_Principi_divino%2C_RV_633_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, strings, continuo'

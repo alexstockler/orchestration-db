@@ -1,0 +1,15 @@
+id: strauss-die-gottin-im-putzzimmer
+work:
+  composer: Strauss, Richard
+  title: Die Göttin im Putzzimmer
+  ids:
+    imslp: Die Göttin im Putzzimmer, TrV 267 (Strauss, Richard)
+  year: 1935
+formula: ''
+instrumentation:
+  additional_raw: double mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_G%C3%B6ttin_im_Putzzimmer%2C_TrV_267_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: double mixed chorus'

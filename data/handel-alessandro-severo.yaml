@@ -1,0 +1,17 @@
+id: handel-alessandro-severo
+work:
+  composer: Handel, George Frideric
+  title: Alessandro Severo
+  ids:
+    imslp: Alessandro Severo, HWV A13 (Handel, George Frideric)
+  year: 1738
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alessandro_Severo%2C_HWV_A13_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra, continuo'

@@ -1,0 +1,16 @@
+id: liszt-marche-et-cavatine-de-lucie-de-lammermoor-s-398
+work:
+  composer: Liszt, Franz
+  title: Marche et Cavatine de Lucie de Lammermoor, S.398
+  ids:
+    imslp: Marche et Cavatine de Lucie de Lammermoor, S.398 (Liszt, Franz)
+  year: 1835
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marche_et_Cavatine_de_Lucie_de_Lammermoor%2C_S.398_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

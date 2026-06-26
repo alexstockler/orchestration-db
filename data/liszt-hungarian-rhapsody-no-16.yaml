@@ -1,0 +1,16 @@
+id: liszt-hungarian-rhapsody-no-16
+work:
+  composer: Liszt, Franz
+  title: Hungarian Rhapsody No.16
+  ids:
+    imslp: Hungarian Rhapsody No.16, S.244/16 (Liszt, Franz)
+  year: 1882
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hungarian_Rhapsody_No.16%2C_S.244/16_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

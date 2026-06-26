@@ -1,0 +1,19 @@
+id: strauss-die-tageszeiten
+work:
+  composer: Strauss, Richard
+  title: Die Tageszeiten
+  ids:
+    imslp: Die Tageszeiten, Op.76 (Strauss, Richard)
+  year: 1928
+formula: org str
+instrumentation:
+  keyboards:
+  - instrument: organ
+  strings: str
+  additional_raw: 3-3-4-3 4-2-3-1 Percussion | Men's Chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Tageszeiten%2C_Op.76_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: 3-3-4-3 4-2-3-1 Percussion, Organ, Men''s Chorus, Strings'
+duration_minutes: 27

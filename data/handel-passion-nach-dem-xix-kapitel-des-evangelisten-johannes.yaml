@@ -1,0 +1,24 @@
+id: handel-passion-nach-dem-xix-kapitel-des-evangelisten-johannes
+work:
+  composer: Handel, George Frideric
+  title: Passion nach dem XIX. Kapitel des Evangelisten Johannes
+  ids:
+    imslp: Passion nach dem Evang. Johannes, HG 9 (Handel, George Frideric)
+  year: 1704
+formula: 2200 0000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  strings: str
+  soloists:
+  - Soloists (SSATTB) ::Pilate (alto)
+  - Evangelist (tenor)
+  - 'Jesus (bass) :Chorus (SATTB) :'
+  additional_raw: violin solo | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Passion_nach_dem_Evang._Johannes%2C_HG_9_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra :Soloists (SSATTB) ::Pilate
+    (alto), Evangelist (tenor), Jesus (bass) :Chorus (SATTB) :Orchestra ::2 flutes,
+    2 oboes, violin solo, strings, continuo'

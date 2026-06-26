@@ -1,0 +1,15 @@
+id: handel-courante
+work:
+  composer: Handel, George Frideric
+  title: Courante
+  ids:
+    imslp: Courante in B minor, HWV 489 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Courante_in_B_minor%2C_HWV_489_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

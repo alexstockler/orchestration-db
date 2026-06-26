@@ -1,0 +1,17 @@
+id: handel-mi-palpita-il-cor-hwv-132c
+work:
+  composer: Handel, George Frideric
+  title: Mi palpita il cor, HWV 132c
+  ids:
+    imslp: Mi palpita il cor, HWV 132c (Handel, George Frideric)
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mi_palpita_il_cor%2C_HWV_132c_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Alto, flute, continuo'

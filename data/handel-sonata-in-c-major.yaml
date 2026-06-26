@@ -1,0 +1,14 @@
+id: handel-sonata-in-c-major
+work:
+  composer: Handel, George Frideric
+  title: Sonata in C major
+  ids:
+    imslp: Sonata in C major, HWV 598 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: music box
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_in_C_major%2C_HWV_598_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: music box'

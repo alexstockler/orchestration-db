@@ -1,0 +1,16 @@
+id: liszt-marche-heroique-s-510
+work:
+  composer: Liszt, Franz
+  title: Marche héroïque, S.510
+  ids:
+    imslp: Marche héroïque, S.510 (Liszt, Franz)
+  year: 1847
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marche_h%C3%A9ro%C3%AFque%2C_S.510_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

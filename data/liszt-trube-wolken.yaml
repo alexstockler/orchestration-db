@@ -1,0 +1,16 @@
+id: liszt-trube-wolken
+work:
+  composer: Liszt, Franz
+  title: Trübe Wolken
+  ids:
+    imslp: Trübe Wolken, S.199 (Liszt, Franz)
+  year: 1881
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tr%C3%BCbe_Wolken%2C_S.199_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

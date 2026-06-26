@@ -1,0 +1,16 @@
+id: liszt-fantaisie-romantique-sur-deux-melodies-suisses
+work:
+  composer: Liszt, Franz
+  title: Fantaisie romantique sur deux mélodies suisses
+  ids:
+    imslp: Fantaisie romantique sur deux mélodies suisses, S.157 (Liszt, Franz)
+  year: 1835
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantaisie_romantique_sur_deux_m%C3%A9lodies_suisses%2C_S.157_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

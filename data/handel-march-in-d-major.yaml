@@ -1,0 +1,17 @@
+id: handel-march-in-d-major
+work:
+  composer: Handel, George Frideric
+  title: March in D major
+  ids:
+    imslp: March in D major, HWV 345 (Handel, George Frideric)
+formula: 0000 0100
+instrumentation:
+  trumpet: 1
+  soloists:
+  - bass
+  additional_raw: 2 violins
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/March_in_D_major%2C_HWV_345_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: trumpet, 2 violins, bass'

@@ -1,0 +1,17 @@
+id: liszt-mazurka-pour-piano-composee-par-un-amateur-de-st-petersbourg
+work:
+  composer: Liszt, Franz
+  title: Mazurka pour piano composeé par un amateur de St Pétersbourg
+  ids:
+    imslp: Mazurka pour piano composeé par un amateur de St Pétersbourg, S.384 (Liszt,
+      Franz)
+  year: 1868
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mazurka_pour_piano_compose%C3%A9_par_un_amateur_de_St_P%C3%A9tersbourg%2C_S.384_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

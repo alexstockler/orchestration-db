@@ -1,0 +1,16 @@
+id: handel-passepied-in-c-major
+work:
+  composer: Handel, George Frideric
+  title: Passepied in C major
+  ids:
+    imslp: Passepied in C major, HWV 559 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Passepied_in_C_major%2C_HWV_559_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'
+duration_minutes: 1

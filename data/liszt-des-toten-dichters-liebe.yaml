@@ -1,0 +1,15 @@
+id: liszt-des-toten-dichters-liebe
+work:
+  composer: Liszt, Franz
+  title: Des toten Dichters Liebe
+  ids:
+    imslp: Des toten Dichters Liebe, S.349 (Liszt, Franz)
+  year: 1874
+formula: ''
+instrumentation:
+  additional_raw: Narrator and Piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Des_toten_Dichters_Liebe%2C_S.349_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Narrator and Piano'

@@ -1,0 +1,16 @@
+id: handel-suite-no-6-in-f-sharp-minor
+work:
+  composer: Handel, George Frideric
+  title: Suite No.6 in F-sharp minor
+  ids:
+    imslp: Suite in F-sharp minor, HWV 431 (Handel, George Frideric)
+  year: 1720
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_in_F-sharp_minor%2C_HWV_431_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

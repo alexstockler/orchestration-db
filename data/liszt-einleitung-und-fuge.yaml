@@ -1,0 +1,17 @@
+id: liszt-einleitung-und-fuge
+work:
+  composer: Liszt, Franz
+  title: Einleitung und Fuge
+  ids:
+    imslp: Einleitung und Fuge (Liszt, Franz)
+  year: 1860
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Einleitung_und_Fuge_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 5

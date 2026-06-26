@@ -1,0 +1,15 @@
+id: handel-fugue
+work:
+  composer: Handel, George Frideric
+  title: Fugue
+  ids:
+    imslp: Fugue in F major, HWV 611 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_F_major%2C_HWV_611_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

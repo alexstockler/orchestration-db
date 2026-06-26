@@ -1,0 +1,16 @@
+id: liszt-illustrations-de-l-opera-l-africaine
+work:
+  composer: Liszt, Franz
+  title: Illustrations de l'opéra L'Africaine
+  ids:
+    imslp: Illustrations de l'opéra L'Africaine, S.415 (Liszt, Franz)
+  year: 1865
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Illustrations_de_l%27op%C3%A9ra_L%27Africaine%2C_S.415_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

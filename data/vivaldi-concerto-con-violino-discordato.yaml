@@ -1,0 +1,17 @@
+id: vivaldi-concerto-con-violino-discordato
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto con violino discordato
+  ids:
+    imslp: Violin Concerto in B-flat major, RV 583 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - violin (with scordatura)
+  additional_raw: 4 violins | 2 violas | continuo (cellos, basses, harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Concerto_in_B-flat_major%2C_RV_583_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: violin (with scordatura), Orchestra: 4 violins, 2
+    violas, continuo (cellos, basses, harpsichord)'

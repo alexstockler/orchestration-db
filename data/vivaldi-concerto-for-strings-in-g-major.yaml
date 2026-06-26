@@ -1,0 +1,15 @@
+id: vivaldi-concerto-for-strings-in-g-major
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for Strings in G major
+  ids:
+    imslp: Concerto for Strings in G major, RV 145 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_Strings_in_G_major%2C_RV_145_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: strings, continuo'

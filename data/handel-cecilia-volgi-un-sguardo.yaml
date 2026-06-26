@@ -1,0 +1,18 @@
+id: handel-cecilia-volgi-un-sguardo
+work:
+  composer: Handel, George Frideric
+  title: Cecilia, volgi un sguardo
+  ids:
+    imslp: Cecilia, volgi un sguardo, HWV 89 (Handel, George Frideric)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  - tenor
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cecilia%2C_volgi_un_sguardo%2C_HWV_89_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, tenor, Orchestra: strings, continuo'

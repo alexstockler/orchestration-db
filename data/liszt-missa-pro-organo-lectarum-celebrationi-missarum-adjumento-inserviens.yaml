@@ -1,0 +1,18 @@
+id: liszt-missa-pro-organo-lectarum-celebrationi-missarum-adjumento-inserviens
+work:
+  composer: Liszt, Franz
+  title: Missa pro organo lectarum celebrationi missarum adjumento inserviens
+  ids:
+    imslp: Missa pro organo lectarum celebrationi missarum adjumento inserviens, S.264
+      (Liszt, Franz)
+  year: 1879
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Missa_pro_organo_lectarum_celebrationi_missarum_adjumento_inserviens%2C_S.264_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 18

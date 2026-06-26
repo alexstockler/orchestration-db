@@ -1,0 +1,16 @@
+id: strauss-string-quartet-in-a-major
+work:
+  composer: Strauss, Richard
+  title: String Quartet in A major
+  ids:
+    imslp: String Quartet in A major, Op.2 (Strauss, Richard)
+  year: 1881
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_in_A_major%2C_Op.2_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 30

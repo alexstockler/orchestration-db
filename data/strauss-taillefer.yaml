@@ -1,0 +1,58 @@
+id: strauss-taillefer
+work:
+  composer: Strauss, Richard
+  title: Taillefer
+  ids:
+    imslp: Taillefer, Op.52 (Strauss, Richard)
+  year: 1903
+formula: 6[pic.pic.3.4.5.6] 6[1.2.3.4.Eh.Eh] 8[1.2.3.4.5.6.bcl.bcl] 5[1.2.3.4.cbn]
+  8642 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - instrument: piccolo
+  - {}
+  - {}
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: english_horn
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 8
+  trumpet: 6
+  trombone: 4
+  tuba: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drums
+    - military drums
+    - cymbals
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Taillefer%2C_Op.52_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 piccolos, 4 flutes, 4 oboes, 2 English horns, 2 clarinets
+    (D), 4 clarinets, 2 bass clarinets, 4 bassoons, contrabassoon, 8 horns, 6 trumpets,
+    4 trombones, 2 tubas, timpani, 2 snare drums, 2 military drums, cymbals, strings'
+duration_minutes: 18

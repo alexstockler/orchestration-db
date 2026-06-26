@@ -1,0 +1,16 @@
+id: vivaldi-concerto-la-pastorella-for-recorder-oboe-and-violin-in-d-major
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto La Pastorella for Recorder, Oboe and Violin in D major
+  ids:
+    imslp: Chamber Concerto in D major, RV 95 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  additional_raw: RV95a is three violins, cello and bass)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chamber_Concerto_in_D_major%2C_RV_95_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: recorder, oboe, violin, bassoon, continuo (the difference
+    between RV95 and RV95a is the instrumentation: RV95a is three violins, cello and
+    bass)'

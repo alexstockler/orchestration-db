@@ -1,0 +1,17 @@
+id: handel-o-sing-unto-the-lord-a-new-song
+work:
+  composer: Handel, George Frideric
+  title: O Sing unto the Lord a New Song
+  ids:
+    imslp: O Sing unto the Lord a New Song, HWV 249a (Handel, George Frideric)
+  year: 1712
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus and orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_Sing_unto_the_Lord_a_New_Song%2C_HWV_249a_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices, chorus and orchestra'

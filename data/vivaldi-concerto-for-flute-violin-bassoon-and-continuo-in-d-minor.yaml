@@ -1,0 +1,17 @@
+id: vivaldi-concerto-for-flute-violin-bassoon-and-continuo-in-d-minor
+work:
+  composer: Vivaldi, Antonio
+  title: Concerto for Flute, Violin, Bassoon and Continuo in D minor
+  ids:
+    imslp: Chamber Concerto in D minor, RV 96 (Vivaldi, Antonio)
+formula: 1001 0000
+instrumentation:
+  flute: 1
+  bassoon: 1
+  additional_raw: violin | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chamber_Concerto_in_D_minor%2C_RV_96_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, bassoon, violin, continuo'
+duration_minutes: 10

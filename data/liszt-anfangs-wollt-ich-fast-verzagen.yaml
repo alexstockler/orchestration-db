@@ -1,0 +1,19 @@
+id: liszt-anfangs-wollt-ich-fast-verzagen
+work:
+  composer: Liszt, Franz
+  title: Anfangs wollt' ich fast verzagen
+  ids:
+    imslp: Anfangs wollt' ich fast verzagen, S.311 (Liszt, Franz)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Anfangs_wollt%27_ich_fast_verzagen%2C_S.311_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 2

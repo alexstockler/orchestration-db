@@ -1,0 +1,20 @@
+id: handel-ode-for-the-birthday-of-queen-anne
+work:
+  composer: Handel, George Frideric
+  title: Ode for the Birthday of Queen Anne
+  ids:
+    imslp: Ode for the Birthday of Queen Anne, HWV 74 (Handel, George Frideric)
+  year: 1713
+formula: 0200 0100 str
+instrumentation:
+  oboe: 2
+  trumpet: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ode_for_the_Birthday_of_Queen_Anne%2C_HWV_74_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo Voices (soprano, alto, tenor, bass), Mixed Chorus
+    (SSAATTBB), Orchestra :2 oboes, Trumpet, strings, continuo'
+duration_minutes: 25

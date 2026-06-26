@@ -1,0 +1,14 @@
+id: handel-minuet-in-f-major-hwv-513
+work:
+  composer: Handel, George Frideric
+  title: Minuet in F major, HWV 513
+  ids:
+    imslp: Minuet in F major, HWV 513 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Minuet_in_F_major%2C_HWV_513_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

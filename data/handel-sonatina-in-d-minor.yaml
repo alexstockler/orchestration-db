@@ -1,0 +1,15 @@
+id: handel-sonatina-in-d-minor
+work:
+  composer: Handel, George Frideric
+  title: Sonatina in D minor
+  ids:
+    imslp: Keyboard Sonatina in D minor, HWV 581 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Keyboard_Sonatina_in_D_minor%2C_HWV_581_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

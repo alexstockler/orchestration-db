@@ -1,0 +1,17 @@
+id: liszt-cadenza-s-695f
+work:
+  composer: Liszt, Franz
+  title: Cadenza, S.695f
+  ids:
+    imslp: Cadenza, S.695f (Liszt, Franz)
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cadenza%2C_S.695f_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

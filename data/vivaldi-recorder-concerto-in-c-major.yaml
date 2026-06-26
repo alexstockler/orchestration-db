@@ -1,0 +1,16 @@
+id: vivaldi-recorder-concerto-in-c-major
+work:
+  composer: Vivaldi, Antonio
+  title: Recorder Concerto in C major
+  ids:
+    imslp: Recorder Concerto in C major, RV 443 (Vivaldi, Antonio)
+  year: 1728
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: recorder | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Recorder_Concerto_in_C_major%2C_RV_443_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: recorder, strings, continuo'

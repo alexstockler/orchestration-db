@@ -1,0 +1,15 @@
+id: vivaldi-trio-sonata-in-b-flat-major
+work:
+  composer: Vivaldi, Antonio
+  title: Trio Sonata in B flat major
+  ids:
+    imslp: Trio Sonata in B flat major, RV 78 (Vivaldi, Antonio)
+  year: 1705
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_B_flat_major%2C_RV_78_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, continuo'

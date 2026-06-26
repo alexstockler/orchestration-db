@@ -1,0 +1,17 @@
+id: vivaldi-o-qui-coeli-terraeque-sereitas
+work:
+  composer: Vivaldi, Antonio
+  title: O qui coeli terraeque sereitas
+  ids:
+    imslp: O qui coeli terraeque serenitas, RV 631 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_qui_coeli_terraeque_serenitas%2C_RV_631_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, strings, continuo'

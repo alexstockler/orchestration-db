@@ -1,0 +1,16 @@
+id: handel-irene-idolo-mio
+work:
+  composer: Handel, George Frideric
+  title: Irene, idolo mio
+  ids:
+    imslp: Irene, idolo mio, HWV 120b (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Irene%2C_idolo_mio%2C_HWV_120b_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, continuo'

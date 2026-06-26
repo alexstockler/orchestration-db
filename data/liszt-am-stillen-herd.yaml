@@ -1,0 +1,17 @@
+id: liszt-am-stillen-herd
+work:
+  composer: Liszt, Franz
+  title: Am stillen Herd
+  ids:
+    imslp: Am stillen Herd, S.448 (Liszt, Franz)
+  year: 1871
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Am_stillen_Herd%2C_S.448_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'
+duration_minutes: 9

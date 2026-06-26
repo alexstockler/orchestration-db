@@ -1,0 +1,16 @@
+id: liszt-der-gluckliche
+work:
+  composer: Liszt, Franz
+  title: Der Glückliche
+  ids:
+    imslp: Der Glückliche, S.334 (Liszt, Franz)
+  year: 1878
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Gl%C3%BCckliche%2C_S.334_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

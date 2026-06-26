@@ -1,0 +1,15 @@
+id: handel-prelude
+work:
+  composer: Handel, George Frideric
+  title: Prelude
+  ids:
+    imslp: Prelude, HWV 572 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude%2C_HWV_572_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

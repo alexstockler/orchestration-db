@@ -1,0 +1,17 @@
+id: handel-as-parts-the-hart
+work:
+  composer: Handel, George Frideric
+  title: As Parts the Hart
+  ids:
+    imslp: As Pants the Hart, HWV 251 (Handel, George Frideric)
+  year: 1713
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/As_Pants_the_Hart%2C_HWV_251_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

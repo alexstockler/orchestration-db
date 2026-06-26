@@ -1,0 +1,15 @@
+id: handel-prelude-and-allegro-in-g-minor
+work:
+  composer: Handel, George Frideric
+  title: Prelude and Allegro in G minor
+  ids:
+    imslp: Prelude and Allegro in G minor, HWV 574 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude_and_Allegro_in_G_minor%2C_HWV_574_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

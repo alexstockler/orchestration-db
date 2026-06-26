@@ -1,0 +1,57 @@
+id: strauss-festliches-praeludium-fur-grosses-orchester-und-orgel
+work:
+  composer: Strauss, Richard
+  title: 'Festliches Praeludium: für grosses Orchester und Orgel'
+  ids:
+    imslp: Festliches Präludium, Op.61 (Strauss, Richard)
+  year: 1913
+formula: 5[pic.2.3.4.5] 5[1.2.3.4.heck] 5[Ebcl.2.3.4.5] 5[1.2.3.4.cbn] 8441 tmp org
+  str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: heckelphone
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - {}
+  - {}
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 8
+  trumpet: 4
+  trombone: 4
+  tuba: 1
+  percussion:
+    timpani: 2
+    instruments:
+    - cymbals
+    - bass drum
+  keyboards:
+  - instrument: organ
+  strings:
+    standard: true
+    description: 20,20,12,12,10,10,12
+  additional_raw: 6 (or 12) offstage trumpets
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Festliches_Pr%C3%A4ludium%2C_Op.61_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 4 flutes, 4 oboes, heckelphone,, E clarinet, 4
+    clarinets, 4 bassoons, contrabassoon,, 8 horns, 4 trumpets, 6 (or 12) offstage
+    trumpets, 4 trombones, tuba, 2 timpani (2 players), cymbals, bass drum, organ,
+    strings (20,20,12,12,10,10,12)'

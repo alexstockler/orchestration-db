@@ -1,0 +1,16 @@
+id: strauss-konigsmarsch
+work:
+  composer: Strauss, Richard
+  title: Königsmarsch
+  ids:
+    imslp: Königsmarsch, TrV 217 (Strauss, Richard)
+  year: 1906
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/K%C3%B6nigsmarsch%2C_TrV_217_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

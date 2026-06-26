@@ -1,0 +1,16 @@
+id: liszt-album-leaf-serenade-album-leaf-serenade
+work:
+  composer: Liszt, Franz
+  title: Album-Leaf 'Serenade', Album-Leaf 'Serenade'
+  ids:
+    imslp: 2 Album-Leaves, S.166g (Liszt, Franz)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Album-Leaves%2C_S.166g_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

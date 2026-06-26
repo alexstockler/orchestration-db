@@ -1,0 +1,16 @@
+id: vivaldi-recorder-sonata-in-g-major
+work:
+  composer: Vivaldi, Antonio
+  title: Recorder Sonata in G major
+  ids:
+    imslp: Recorder Sonata in G major, RV 806 (Vivaldi, Antonio)
+  year: 1716
+formula: ''
+instrumentation:
+  additional_raw: recorder | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Recorder_Sonata_in_G_major%2C_RV_806_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: recorder, continuo'
+duration_minutes: 7

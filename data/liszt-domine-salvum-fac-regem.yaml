@@ -1,0 +1,19 @@
+id: liszt-domine-salvum-fac-regem
+work:
+  composer: Liszt, Franz
+  title: Domine salvum fac regem
+  ids:
+    imslp: Domine salvum fac regem, S.23 (Liszt, Franz)
+  year: 1853
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - tenor
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Domine_salvum_fac_regem%2C_S.23_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, male chorus, organ'

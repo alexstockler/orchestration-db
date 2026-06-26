@@ -1,0 +1,16 @@
+id: liszt-ungarische-nationalmelodien-s-243
+work:
+  composer: Liszt, Franz
+  title: Ungarische Nationalmelodien, S.243
+  ids:
+    imslp: Ungarische Nationalmelodien, S.243 (Liszt, Franz)
+  year: 1840
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ungarische_Nationalmelodien%2C_S.243_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

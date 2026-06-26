@@ -1,0 +1,16 @@
+id: liszt-schubert-s-impromptus-revised-and-edited-by-franz-liszt
+work:
+  composer: Liszt, Franz
+  title: Schubert's Impromptus [revised and edited by Franz Liszt]
+  ids:
+    imslp: Schubert's Impromptus, S.565b (Liszt, Franz)
+  year: 1868
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Schubert%27s_Impromptus%2C_S.565b_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

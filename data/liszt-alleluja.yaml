@@ -1,0 +1,17 @@
+id: liszt-alleluja
+work:
+  composer: Liszt, Franz
+  title: Alleluja
+  ids:
+    imslp: Alleluja, S.183/1 (Liszt, Franz)
+  year: 1862
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alleluja%2C_S.183/1_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 3

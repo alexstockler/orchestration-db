@@ -1,0 +1,17 @@
+id: liszt-album-leaf-fragment-d-etude-d-apres-paganini
+work:
+  composer: Liszt, Franz
+  title: Album-Leaf 'Fragment d'Étude, d'apres Paganini'
+  ids:
+    imslp: Album-Leaf 'Fragment d'Étude, d'apres Paganini', S.166u (Liszt, Franz)
+  year: 1838
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album-Leaf_%27Fragment_d%27%C3%89tude%2C_d%27apres_Paganini%27%2C_S.166u_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

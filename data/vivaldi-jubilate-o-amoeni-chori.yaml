@@ -1,0 +1,18 @@
+id: vivaldi-jubilate-o-amoeni-chori
+work:
+  composer: Vivaldi, Antonio
+  title: Jubilate, o amoeni chori
+  ids:
+    imslp: Jubilate, o amoeni chori, RV 639 (Vivaldi, Antonio)
+  year: 1713
+formula: 0200 0100 str
+instrumentation:
+  oboe: 2
+  trumpet: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jubilate%2C_o_amoeni_chori%2C_RV_639_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, trumpet, strings, continuo'

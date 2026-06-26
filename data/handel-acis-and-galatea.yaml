@@ -1,0 +1,17 @@
+id: handel-acis-and-galatea
+work:
+  composer: Handel, George Frideric
+  title: Acis and Galatea
+  ids:
+    imslp: Acis and Galatea, HWV 49 (Handel, George Frideric)
+  year: 1718
+formula: ''
+instrumentation:
+  additional_raw: Galatea (soprano) | Acis (tenor) | Damon (tenor or soprano) | Polyphemus
+    (bass) Mixed Chorus | Shepherds and Nymphs Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Acis_and_Galatea%2C_HWV_49_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Galatea (soprano), Acis (tenor), Damon (tenor or
+    soprano), Polyphemus (bass) Mixed Chorus :Shepherds and Nymphs Orchestra'

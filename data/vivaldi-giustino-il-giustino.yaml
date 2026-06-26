@@ -1,0 +1,16 @@
+id: vivaldi-giustino-il-giustino
+work:
+  composer: Vivaldi, Antonio
+  title: Giustino ; Il Giustino
+  ids:
+    imslp: Giustino, RV 717 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Giustino%2C_RV_717_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

@@ -1,0 +1,17 @@
+id: liszt-grande-paraphrase-de-la-marche-de-donizetti-pour-le-sultan-abdul-medjid-kh
+work:
+  composer: Liszt, Franz
+  title: Grande paraphrase de la Marche de Donizetti pour le Sultan Abdul-Medjid Khan
+  ids:
+    imslp: Grande paraphrase de la Marche pour le Sultan Abdul-Medjid Khan, S.403
+      (Liszt, Franz)
+  year: 1847
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grande_paraphrase_de_la_Marche_pour_le_Sultan_Abdul-Medjid_Khan%2C_S.403_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

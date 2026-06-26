@@ -1,0 +1,39 @@
+id: handel-rinaldo
+work:
+  composer: Handel, George Frideric
+  title: Rinaldo
+  ids:
+    imslp: Rinaldo, HWV 7a (Handel, George Frideric)
+  year: 1711
+formula: 2201 0400 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  bassoon: 1
+  trumpet: 4
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - Goffredo (mezzo)
+  - Almirena (soprano)
+  - Eustazio (alto-castrato)
+  - Rinaldo (soprano)
+  - Aroldo
+  - Herald (tenor)
+  - Argante (bass)
+  - Armida (soprano)
+  - Donna (soprano)
+  - Sirene (soprano)
+  - Mago
+  - Christian magician (alto-castrato)
+  additional_raw: flageolet | harpsichord obbl | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rinaldo%2C_HWV_7a_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Goffredo (mezzo), Almirena (soprano), Eustazio (alto-castrato),
+    Rinaldo (soprano), Aroldo, Herald (tenor), Argante (bass), Armida (soprano), Donna
+    (soprano), Sirene (soprano), Mago, Christian magician (alto-castrato) Orchestra
+    :flageolet, 2 flutes, 2 oboes, bassoon, 4 trumpets, timpani, harpsichord obbl,
+    strings, continuo'

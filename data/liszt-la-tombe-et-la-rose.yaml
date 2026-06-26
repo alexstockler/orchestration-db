@@ -1,0 +1,18 @@
+id: liszt-la-tombe-et-la-rose
+work:
+  composer: Liszt, Franz
+  title: La tombe et la rose
+  ids:
+    imslp: La tombe et la rose, S.285 (Liszt, Franz)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_tombe_et_la_rose%2C_S.285_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

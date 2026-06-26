@@ -1,0 +1,16 @@
+id: handel-overture-in-b-flat-major
+work:
+  composer: Handel, George Frideric
+  title: Overture in B flat major
+  ids:
+    imslp: Overture in B flat major, HWV 336 (Handel, George Frideric)
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Overture_in_B_flat_major%2C_HWV_336_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'

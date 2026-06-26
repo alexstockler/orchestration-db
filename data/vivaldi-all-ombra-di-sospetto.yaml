@@ -1,0 +1,16 @@
+id: vivaldi-all-ombra-di-sospetto
+work:
+  composer: Vivaldi, Antonio
+  title: All'ombra di sospetto
+  ids:
+    imslp: All'ombra di sospetto, RV 678 (Vivaldi, Antonio)
+  year: 1970
+formula: ''
+instrumentation:
+  additional_raw: Soprano voice + flute | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/All%27ombra_di_sospetto%2C_RV_678_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: Soprano voice + flute, continuo'
+duration_minutes: 712

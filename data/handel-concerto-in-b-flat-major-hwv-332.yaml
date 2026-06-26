@@ -1,0 +1,17 @@
+id: handel-concerto-in-b-flat-major-hwv-332
+work:
+  composer: Handel, George Frideric
+  title: Concerto in B-flat major, HWV 332
+  ids:
+    imslp: Concerto in B-flat major, HWV 332 (Handel, George Frideric)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - 4 oboes
+  - 2 bassoons (in 2 choirs)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_in_B-flat_major%2C_HWV_332_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo:4 oboes, 2 bassoons (in 2 choirs), Orchestra: strings'

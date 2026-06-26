@@ -1,0 +1,16 @@
+id: vivaldi-scherza-di-fronda-in-fronda
+work:
+  composer: Vivaldi, Antonio
+  title: Scherza di fronda in fronda
+  ids:
+    imslp: Scherza di fronda in fronda, RV 663 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scherza_di_fronda_in_fronda%2C_RV_663_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

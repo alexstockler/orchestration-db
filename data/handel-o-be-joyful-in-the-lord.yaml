@@ -1,0 +1,20 @@
+id: handel-o-be-joyful-in-the-lord
+work:
+  composer: Handel, George Frideric
+  title: O be Joyful in the Lord
+  ids:
+    imslp: O be Joyful in the Lord, HWV 246 (Handel, George Frideric)
+  year: 1717
+formula: 0101 0000 str
+instrumentation:
+  oboe: 1
+  bassoon: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_be_Joyful_in_the_Lord%2C_HWV_246_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices (soprano, tenor, bass), Mixed Chorus (STB), Orchestra
+    :oboe, bassoon, strings (no violas), continuo'
+duration_minutes: 20

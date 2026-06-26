@@ -1,0 +1,19 @@
+id: handel-aminta-e-fillide
+work:
+  composer: Handel, George Frideric
+  title: Aminta e Fillide
+  ids:
+    imslp: Aminta e Fillide, HWV 83 (Handel, George Frideric)
+  year: 1708
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - sopranos
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aminta_e_Fillide%2C_HWV_83_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, strings, continuo'
+duration_minutes: 45

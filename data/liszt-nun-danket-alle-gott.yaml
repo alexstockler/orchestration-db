@@ -1,0 +1,24 @@
+id: liszt-nun-danket-alle-gott
+work:
+  composer: Liszt, Franz
+  title: Nun danket alle Gott
+  ids:
+    imslp: Nun danket alle Gott, S.61 (Liszt, Franz)
+  year: 1883
+formula: 0000 0231 tmp org
+instrumentation:
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: organ
+  additional_raw: Mixed or Male Chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nun_danket_alle_Gott%2C_S.61_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed or Male Chorus, 2 Trumpets, 3 Trombones, Tuba, Timpani,
+    Organ'
+duration_minutes: 6

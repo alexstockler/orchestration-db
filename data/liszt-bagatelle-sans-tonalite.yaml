@@ -1,0 +1,16 @@
+id: liszt-bagatelle-sans-tonalite
+work:
+  composer: Liszt, Franz
+  title: Bagatelle sans tonalité
+  ids:
+    imslp: Bagatelle sans tonalité, S.216a (Liszt, Franz)
+  year: 1885
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bagatelle_sans_tonalit%C3%A9%2C_S.216a_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

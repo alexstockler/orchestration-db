@@ -1,0 +1,19 @@
+id: handel-organ-concerto-in-d-minor
+work:
+  composer: Handel, George Frideric
+  title: Organ Concerto in D minor
+  ids:
+    imslp: Organ Concerto in D minor, HWV 304 (Handel, George Frideric)
+  year: 1746
+formula: org str
+instrumentation:
+  keyboards:
+  - instrument: organ
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Organ_Concerto_in_D_minor%2C_HWV_304_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: organ, strings, continuo'
+duration_minutes: 12

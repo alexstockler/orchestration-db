@@ -1,0 +1,16 @@
+id: liszt-buch-der-lieder-ii
+work:
+  composer: Liszt, Franz
+  title: Buch der Lieder II
+  ids:
+    imslp: Buch der Lieder II, S.535–540 (Liszt, Franz)
+  year: 1847
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Buch_der_Lieder_II%2C_S.535%E2%80%93540_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

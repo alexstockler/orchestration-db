@@ -1,0 +1,15 @@
+id: handel-sing-unto-god
+work:
+  composer: Handel, George Frideric
+  title: Sing unto God
+  ids:
+    imslp: Sing unto God, HWV 263 (Handel, George Frideric)
+  year: 1736
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sing_unto_God%2C_HWV_263_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus, orchestra'

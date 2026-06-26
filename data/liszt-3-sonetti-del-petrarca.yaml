@@ -1,0 +1,18 @@
+id: liszt-3-sonetti-del-petrarca
+work:
+  composer: Liszt, Franz
+  title: 3 Sonetti del Petrarca
+  ids:
+    imslp: 3 Sonetti del Petrarca, S.270 (Liszt, Franz)
+  year: 1842
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Sonetti_del_Petrarca%2C_S.270_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

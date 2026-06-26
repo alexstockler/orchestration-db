@@ -1,0 +1,16 @@
+id: handel-solitudini-care-amata-liberta
+work:
+  composer: Handel, George Frideric
+  title: Solitudini care, amata libertà
+  ids:
+    imslp: Solitudini care, amata libertà, HWV 163 (Handel, George Frideric)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Solitudini_care%2C_amata_libert%C3%A0%2C_HWV_163_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

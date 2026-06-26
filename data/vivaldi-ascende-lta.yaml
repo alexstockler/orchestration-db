@@ -1,0 +1,16 @@
+id: vivaldi-ascende-lta
+work:
+  composer: Vivaldi, Antonio
+  title: Ascende læta
+  ids:
+    imslp: Ascende læta, RV 635 (Vivaldi, Antonio)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: 2 violins | viola | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ascende_l%C3%A6ta%2C_RV_635_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 2 violins, viola, continuo'

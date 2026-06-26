@@ -1,0 +1,15 @@
+id: vivaldi-violin-concerto-in-b-flat-major-rv-367
+work:
+  composer: Vivaldi, Antonio
+  title: Violin Concerto in B-flat major, RV 367
+  ids:
+    imslp: Violin Concerto in B-flat major, RV 367 (Vivaldi, Antonio)
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: violin | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Concerto_in_B-flat_major%2C_RV_367_%28Vivaldi%2C_Antonio%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, strings, continuo'

@@ -1,0 +1,16 @@
+id: liszt-die-macht-der-musik
+work:
+  composer: Liszt, Franz
+  title: Die Macht der Musik
+  ids:
+    imslp: Die Macht der Musik, S.302 (Liszt, Franz)
+  year: 1848
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Macht_der_Musik%2C_S.302_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

@@ -1,0 +1,16 @@
+id: liszt-r-w-venezia
+work:
+  composer: Liszt, Franz
+  title: R.W. - Venezia
+  ids:
+    imslp: R.W. - Venezia, S.201 (Liszt, Franz)
+  year: 1883
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/R.W._-_Venezia%2C_S.201_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

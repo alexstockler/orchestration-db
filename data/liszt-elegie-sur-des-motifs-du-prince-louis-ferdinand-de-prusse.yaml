@@ -1,0 +1,17 @@
+id: liszt-elegie-sur-des-motifs-du-prince-louis-ferdinand-de-prusse
+work:
+  composer: Liszt, Franz
+  title: Élégie sur des motifs du Prince Louis Ferdinand de Prusse
+  ids:
+    imslp: Élégie sur des motifs du Prince Louis Ferdinand de Prusse, S.168 (Liszt,
+      Franz)
+  year: 1842
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%89l%C3%A9gie_sur_des_motifs_du_Prince_Louis_Ferdinand_de_Prusse%2C_S.168_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

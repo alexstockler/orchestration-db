@@ -1,0 +1,16 @@
+id: liszt-chanson-du-bearn
+work:
+  composer: Liszt, Franz
+  title: Chanson du Béarn
+  ids:
+    imslp: Chanson du Béarn, S.236/2 (Liszt, Franz)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chanson_du_B%C3%A9arn%2C_S.236/2_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

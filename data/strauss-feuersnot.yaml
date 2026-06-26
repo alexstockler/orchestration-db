@@ -1,0 +1,93 @@
+id: strauss-feuersnot
+work:
+  composer: Strauss, Richard
+  title: Feuersnot
+  ids:
+    imslp: Feuersnot, Op.50 (Strauss, Richard)
+  year: 1900
+formula: 3[1.2.3/pic] 3[1.2.3/Eh] 3 3[1.2.3/cbn] 4330 tmp+1 harm 3hp
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 3
+  bassoon:
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  percussion:
+    timpani: 1
+    players: 1
+    instruments:
+    - snare drums
+  keyboards:
+  - instrument: harmonium
+  harp: 3
+  soloists:
+  - Schweiker von Gundelfingen
+  - 'the bailiff: (low tenor)'
+  - Ortolf Sentlinger
+  - 'the mayor: (low bass)'
+  - Diemut
+  - 'Ortolf''s daughter: (high soprano/dramatic)'
+  - Elsbeth
+  - 'Ortolf''s friend: (mezzo-soprano)'
+  - Wigelis
+  - 'Ortolf''s friend: (low contralto)'
+  - Margret
+  - 'Ortolf''s friend: (high soprano)'
+  - Kunrad
+  - 'the alchemist: (high baritone)'
+  - Jörg Pöschel
+  - 'the Leitgeb: (low bass)'
+  - Hämmerlein
+  - 'the haberdasher: (baritone)'
+  - Kofel
+  - 'the blacksmith: (bass)'
+  - Kunz Gilgenstock
+  - 'the baker and brewer: (bass)'
+  - Ortlieb Tulbeck
+  - 'the cooper: (high tenor)'
+  - Ursula
+  - 'his wife: (contralto)'
+  - Ruger Asbeck
+  - 'the potter: (tenor)'
+  - Walpurg
+  - 'his wife: (high soprano) Men and Children''s Chorus (SATB) :Citizens'
+  - Women
+  - Children
+  - Retainers
+  additional_raw: 'bass tuba | (bass drum, snare drum, triangle, cymbals, castanets,
+    tambourine, glockenspiel) | strings (16,16,12,10,8) Incidental music | percussion:
+    glockenspiel | violin | cello'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Feuersnot%2C_Op.50_%28Strauss%2C_Richard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Schweiker von Gundelfingen, the bailiff: (low tenor),
+    Ortolf Sentlinger, the mayor: (low bass), Diemut, Ortolf''s daughter: (high soprano/dramatic),
+    Elsbeth, Ortolf''s friend: (mezzo-soprano), Wigelis, Ortolf''s friend: (low contralto),
+    Margret, Ortolf''s friend: (high soprano), Kunrad, the alchemist: (high baritone),
+    Jörg Pöschel, the Leitgeb: (low bass), Hämmerlein, the haberdasher: (baritone),
+    Kofel, the blacksmith: (bass), Kunz Gilgenstock, the baker and brewer: (bass),
+    Ortlieb Tulbeck, the cooper: (high tenor), Ursula, his wife: (contralto), Ruger
+    Asbeck, the potter: (tenor), Walpurg, his wife: (high soprano) Men and Children''s
+    Chorus (SATB) :Citizens, Women, Children, Retainers Orchestra :3 flutes (3rd doubles
+    piccolo), 3 oboes (3rd doubles English horn) ::2 clarinets, clarinet (D) (also
+    bass clarinet), 3 bassoons (3rd doubles contrabassoon) :4 horns, 3 trumpets, 3
+    trombones, bass tuba, timpani, percussion, ::(bass drum, snare drum, triangle,
+    cymbals, castanets, tambourine, glockenspiel) :2 harps, strings (16,16,12,10,8)
+    Incidental music :percussion: glockenspiel, 2 snare drums, harmonium, harp, violin,
+    cello'
+duration_minutes: 70

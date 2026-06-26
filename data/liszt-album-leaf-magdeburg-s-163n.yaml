@@ -1,0 +1,17 @@
+id: liszt-album-leaf-magdeburg-s-163n
+work:
+  composer: Liszt, Franz
+  title: Album-Leaf 'Magdeburg', S.163n
+  ids:
+    imslp: Album-Leaf 'Magdeburg', S.163n (Liszt, Franz)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album-Leaf_%27Magdeburg%27%2C_S.163n_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 1

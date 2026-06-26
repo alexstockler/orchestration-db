@@ -1,0 +1,15 @@
+id: handel-preludium-hwv-567
+work:
+  composer: Handel, George Frideric
+  title: Preludium, HWV 567
+  ids:
+    imslp: Preludium, HWV 567 (Handel, George Frideric)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Preludium%2C_HWV_567_%28Handel%2C_George_Frideric%29
+  confidence: single_source
+  notes: 'Instrumentation: Harpsichord'

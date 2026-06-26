@@ -1,0 +1,17 @@
+id: liszt-annees-de-pelerinage-ii-supplement
+work:
+  composer: Liszt, Franz
+  title: Années de pèlerinage II, Supplément
+  ids:
+    imslp: Années de pèlerinage II, Supplément, S.162 (Liszt, Franz)
+  year: 1859
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ann%C3%A9es_de_p%C3%A8lerinage_II%2C_Suppl%C3%A9ment%2C_S.162_%28Liszt%2C_Franz%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 17
