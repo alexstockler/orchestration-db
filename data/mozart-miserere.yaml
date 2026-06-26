@@ -1,0 +1,16 @@
+id: mozart-miserere
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Miserere
+  ids:
+    imslp: Miserere in A minor, K.85/73s (Mozart, Wolfgang Amadeus)
+  year: 1772
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Miserere_in_A_minor%2C_K.85/73s_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (ATB), continuo'

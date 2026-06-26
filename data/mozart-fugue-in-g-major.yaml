@@ -1,0 +1,16 @@
+id: mozart-fugue-in-g-major
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Fugue in G major
+  ids:
+    imslp: Fugue in G major, K.Anh.41/375g (Mozart, Wolfgang Amadeus)
+  year: 1776
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_G_major%2C_K.Anh.41/375g_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

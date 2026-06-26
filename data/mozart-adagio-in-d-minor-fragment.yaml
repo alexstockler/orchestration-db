@@ -1,0 +1,16 @@
+id: mozart-adagio-in-d-minor-fragment
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Adagio in D minor (fragment)
+  ids:
+    imslp: Adagio in D minor, K.Anh.35/593a (Mozart, Wolfgang Amadeus)
+  year: 1790
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adagio_in_D_minor%2C_K.Anh.35/593a_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: Organ'

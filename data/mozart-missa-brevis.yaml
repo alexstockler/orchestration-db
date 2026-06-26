@@ -1,0 +1,18 @@
+id: mozart-missa-brevis
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Missa brevis
+  ids:
+    imslp: Missa brevis in B-flat major, K.275/272b (Mozart, Wolfgang Amadeus)
+  year: 1772
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+  chorus_raw: mixed chorus
+  additional_raw: 2 violins | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Missa_brevis_in_B-flat_major%2C_K.275/272b_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (SATB), mixed chorus (SATB), 2 violins, continuo'

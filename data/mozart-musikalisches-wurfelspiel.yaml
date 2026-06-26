@@ -1,0 +1,15 @@
+id: mozart-musikalisches-wurfelspiel
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Musikalisches Würfelspiel
+  ids:
+    imslp: Musikalisches Würfelspiel, K.516f (Mozart, Wolfgang Amadeus)
+  year: 1787
+formula: ''
+instrumentation:
+  additional_raw: keyboard (?)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Musikalisches_W%C3%BCrfelspiel%2C_K.516f_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard (?)'

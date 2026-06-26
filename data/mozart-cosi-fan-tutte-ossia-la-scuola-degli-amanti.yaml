@@ -1,0 +1,35 @@
+id: mozart-cosi-fan-tutte-ossia-la-scuola-degli-amanti
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Cosi fan tutte, ossia La scuola degli amanti
+  ids:
+    imslp: Così fan tutte, K.588 (Mozart, Wolfgang Amadeus)
+  year: 1789
+formula: 2222 2200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - Fiordiligi (soprano)
+  - Dorabella (mezzo-soprano)
+  - Guglielmo (baritone)
+  - Ferrando (tenor)
+  - Despina (soprano)
+  - Don Alfonso (bass) Mixed Chorus :soldiers
+  - servants
+  - sailors
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cos%C3%AC_fan_tutte%2C_K.588_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Fiordiligi (soprano), Dorabella (mezzo-soprano),
+    Guglielmo (baritone), Ferrando (tenor), Despina (soprano), Don Alfonso (bass)
+    Mixed Chorus :soldiers, servants, sailors Orchestra :2 flutes, 2 oboes, 2 clarinets,
+    2 bassoons, 2 horns, 2 trumpets, timpani, strings'

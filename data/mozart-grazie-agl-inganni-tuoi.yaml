@@ -1,0 +1,18 @@
+id: mozart-grazie-agl-inganni-tuoi
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Grazie agl'inganni tuoi
+  ids:
+    imslp: Grazie agl'inganni tuoi, K.532/Anh.A 54 (Mozart, Wolfgang Amadeus)
+  year: 1784
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grazie_agl%27inganni_tuoi%2C_K.532/Anh.A_54_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, bass'

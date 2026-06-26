@@ -1,0 +1,19 @@
+id: mozart-komm-liebe-zither-komm
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Komm, liebe Zither, komm
+  ids:
+    imslp: Komm, liebe Zither komm, K.351/367b (Mozart, Wolfgang Amadeus)
+  year: 1780
+formula: mand
+instrumentation:
+  extras:
+  - instrument: mandolin
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Komm%2C_liebe_Zither_komm%2C_K.351/367b_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, mandolin'
+duration_minutes: 2

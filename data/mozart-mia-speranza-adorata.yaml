@@ -1,0 +1,19 @@
+id: mozart-mia-speranza-adorata
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Mia speranza adorata
+  ids:
+    imslp: Mia speranza adorata, K.416 (Mozart, Wolfgang Amadeus)
+  year: 1783
+formula: 0202 2000 str
+instrumentation:
+  oboe: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mia_speranza_adorata%2C_K.416_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 bassoons, 2 horns, strings'
+duration_minutes: 5

@@ -1,0 +1,16 @@
+id: mozart-piano-sonata-no-13
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Piano Sonata No.13
+  ids:
+    imslp: Piano Sonata No.13 in B-flat major, K.333/315c (Mozart, Wolfgang Amadeus)
+  year: 1783
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.13_in_B-flat_major%2C_K.333/315c_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,16 @@
+id: mozart-adagio
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Adagio
+  ids:
+    imslp: Adagio in B minor, K.540 (Mozart, Wolfgang Amadeus)
+  year: 1788
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adagio_in_B_minor%2C_K.540_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

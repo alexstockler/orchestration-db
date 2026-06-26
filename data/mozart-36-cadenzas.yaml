@@ -1,0 +1,16 @@
+id: mozart-36-cadenzas
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: 36 Cadenzas
+  ids:
+    imslp: 36 Cadenzas, K.624/626a (Mozart, Wolfgang Amadeus)
+  year: 1768
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/36_Cadenzas%2C_K.624/626a_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

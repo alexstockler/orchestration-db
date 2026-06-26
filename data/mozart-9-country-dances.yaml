@@ -1,0 +1,26 @@
+id: mozart-9-country-dances
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: 9 Country Dances
+  ids:
+    imslp: 9 Country Dances, K.510/Anh.C 13.02 (Mozart, Wolfgang Amadeus)
+  year: 1787
+formula: 0220 2200 tmp str
+instrumentation:
+  oboe: 2
+  clarinet: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - bass drum
+  strings: str
+  additional_raw: 2 flutes/piccolos
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/9_Country_Dances%2C_K.510/Anh.C_13.02_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra :2 flutes/piccolos, 2 oboes, 2 clarinets, 2 horns,
+    2 trumpets, timpani, cymbals, bass drum, strings (no violas)'

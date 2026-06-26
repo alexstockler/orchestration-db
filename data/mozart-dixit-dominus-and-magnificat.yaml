@@ -1,0 +1,24 @@
+id: mozart-dixit-dominus-and-magnificat
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Dixit Dominus and Magnificat
+  ids:
+    imslp: Dixit Dominus and Magnificat, K.193/186g (Mozart, Wolfgang Amadeus)
+  year: 1774
+formula: 0000 0200 tmp str
+instrumentation:
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - soprano
+  - tenor
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dixit_Dominus_and_Magnificat%2C_K.193/186g_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, tenor; mixed chorus (SATB), Orchestra:
+    2 trumpets, timpani, strings, continuo'

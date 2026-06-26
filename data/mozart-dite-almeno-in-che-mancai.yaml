@@ -1,0 +1,20 @@
+id: mozart-dite-almeno-in-che-mancai
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Dite almeno, in che mancai
+  ids:
+    imslp: Dite almeno, in che mancai, K.479 (Mozart, Wolfgang Amadeus)
+  year: 1785
+formula: 0222 2000 str
+instrumentation:
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dite_almeno%2C_in_che_mancai%2C_K.479_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 clarinets (B), 2 bassoons, 2 horns (E), strings'
+duration_minutes: 6

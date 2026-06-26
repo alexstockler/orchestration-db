@@ -1,0 +1,16 @@
+id: mozart-2-piano-pieces-k-629
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: 2 Piano Pieces, K.629
+  ids:
+    imslp: 2 Piano Pieces, K.629 (Mozart, Wolfgang Amadeus)
+  year: 1765
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Piano_Pieces%2C_K.629_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,16 @@
+id: mozart-canon-for-4-voices
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Canon for 4 Voices
+  ids:
+    imslp: Canon for 4 Voices in A major, K.561 (Mozart, Wolfgang Amadeus)
+  year: 1788
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canon_for_4_Voices_in_A_major%2C_K.561_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices'

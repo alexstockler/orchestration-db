@@ -1,0 +1,16 @@
+id: mozart-clarinet-quintet
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Clarinet Quintet
+  ids:
+    imslp: Clarinet Quintet in A major, K.581 (Mozart, Wolfgang Amadeus)
+  year: 1789
+formula: 0010 0000
+instrumentation:
+  clarinet: 1
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Clarinet_Quintet_in_A_major%2C_K.581_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, 2 violins, viola, cello'

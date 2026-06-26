@@ -1,0 +1,16 @@
+id: mozart-ganz-kleine-nachtmusik
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Ganz kleine Nachtmusik
+  ids:
+    imslp: Ganz kleine Nachtmusik, K.648 (Mozart, Wolfgang Amadeus)
+  year: 1765
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ganz_kleine_Nachtmusik%2C_K.648_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, cello'
+duration_minutes: 13

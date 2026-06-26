@@ -1,0 +1,26 @@
+id: mozart-movement-to-a-piano-concerto-in-c-k-anh-59-k-459a-k-466a
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Movement to a Piano Concerto in C, K. Anh. 59/K. 459a/K. 466a
+  ids:
+    imslp: Movement to a Piano Concerto in C, K. Anh. 59/K. 459a/K. 466a (Mozart,
+      Wolfgang Amadeus)
+  year: 1784
+formula: 1101 1000 pf
+instrumentation:
+  flute: 1
+  oboe: 1
+  bassoon: 1
+  horn: 1
+  keyboards:
+  - instrument: piano
+  soloists:
+  - bass
+  additional_raw: Violin I | Violin II | Viola
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Movement_to_a_Piano_Concerto_in_C%2C_K._Anh._59/K._459a/K._466a_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: Flutes, Oboes, Bassoons, Horn, Piano, Violin I, Violin
+    II, Viola, Bass'
+duration_minutes: 2

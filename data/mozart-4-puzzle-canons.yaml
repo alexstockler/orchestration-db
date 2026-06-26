@@ -1,0 +1,17 @@
+id: mozart-4-puzzle-canons
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: 4 Puzzle Canons
+  ids:
+    imslp: 4 Puzzle Canons, K.73r (Mozart, Wolfgang Amadeus)
+  year: 1770
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Puzzle_Canons%2C_K.73r_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: voices'
+duration_minutes: 7

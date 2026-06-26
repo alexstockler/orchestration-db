@@ -1,0 +1,20 @@
+id: mozart-dir-seele-des-weltalls
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Dir, Seele des Weltalls
+  ids:
+    imslp: Dir, Seele des Weltalls, K.429/468a (Mozart, Wolfgang Amadeus)
+  year: 1790
+formula: 1210 2000 str
+instrumentation:
+  flute: 1
+  oboe: 2
+  clarinet: 1
+  horn: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dir%2C_Seele_des_Weltalls%2C_K.429/468a_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, 2 oboes, clarinet, 2 horns, strings, continuo'

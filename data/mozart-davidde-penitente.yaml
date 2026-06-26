@@ -1,0 +1,27 @@
+id: mozart-davidde-penitente
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Davidde Penitente
+  ids:
+    imslp: Davidde penitente, K.469 (Mozart, Wolfgang Amadeus)
+  year: 1785
+formula: 2222 2030 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - 2 sopranos
+  - tenor Mixed Chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Davidde_penitente%2C_K.469_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices :2 sopranos, tenor Mixed Chorus (SATB), Orchestra
+    :2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 3 trombones, timpani, strings'

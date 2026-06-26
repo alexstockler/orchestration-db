@@ -1,0 +1,17 @@
+id: mozart-fantasia
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Fantasia
+  ids:
+    imslp: Fantasia in C minor, K.396/385f (Mozart, Wolfgang Amadeus)
+  year: 1782
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_in_C_minor%2C_K.396/385f_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

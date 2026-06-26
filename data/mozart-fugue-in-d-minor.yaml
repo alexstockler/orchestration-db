@@ -1,0 +1,15 @@
+id: mozart-fugue-in-d-minor
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Fugue in D minor
+  ids:
+    imslp: Fugue in D minor, K.660 (Mozart, Wolfgang Amadeus)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_D_minor%2C_K.660_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

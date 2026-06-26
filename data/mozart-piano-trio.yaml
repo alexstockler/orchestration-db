@@ -1,0 +1,17 @@
+id: mozart-piano-trio
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Piano Trio
+  ids:
+    imslp: Piano Trio in B-flat major, K.502 (Mozart, Wolfgang Amadeus)
+  year: 1786
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio_in_B-flat_major%2C_K.502_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'

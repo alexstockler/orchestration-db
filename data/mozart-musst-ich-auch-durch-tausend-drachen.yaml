@@ -1,0 +1,24 @@
+id: mozart-musst-ich-auch-durch-tausend-drachen
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Müsst' ich auch durch tausend Drachen
+  ids:
+    imslp: Müsst' ich auch durch tausend Drachen, K.435/416b (Mozart, Wolfgang Amadeus)
+  year: 1783
+formula: 1111 1100 tmp str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 1
+  trumpet: 1
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/M%C3%BCsst%27_ich_auch_durch_tausend_Drachen%2C_K.435/416b_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: flute(s), oboe(s), clarinet(s) (A), bassoons, horn(s) (D),
+    trumpet(s) (D), timpani, strings'

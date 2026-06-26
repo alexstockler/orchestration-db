@@ -1,0 +1,15 @@
+id: mozart-notturno
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Notturno
+  ids:
+    imslp: Notturno in D major, K.286/269a (Mozart, Wolfgang Amadeus)
+  year: 1776
+formula: ''
+instrumentation:
+  additional_raw: 4 orchestras (each consists of 2 horns (D), strings)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Notturno_in_D_major%2C_K.286/269a_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 orchestras (each consists of 2 horns (D), strings)'

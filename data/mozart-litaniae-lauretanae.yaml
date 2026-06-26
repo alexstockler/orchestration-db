@@ -1,0 +1,18 @@
+id: mozart-litaniae-lauretanae
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Litaniae Lauretanae
+  ids:
+    imslp: Litaniae Lauretanae, K.109/74e (Mozart, Wolfgang Amadeus)
+  year: 1771
+formula: 0000 0030 str
+instrumentation:
+  trombone: 3
+  strings: str
+  additional_raw: continuo (organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Litaniae_Lauretanae%2C_K.109/74e_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 trombones (ad lib.), strings (no violas), continuo (organ)'
+duration_minutes: 11

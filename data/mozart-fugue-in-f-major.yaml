@@ -1,0 +1,16 @@
+id: mozart-fugue-in-f-major
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Fugue in F major
+  ids:
+    imslp: Fugue in F major, K.375h (Mozart, Wolfgang Amadeus)
+  year: 1782
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_F_major%2C_K.375h_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

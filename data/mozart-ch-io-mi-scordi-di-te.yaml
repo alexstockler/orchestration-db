@@ -1,0 +1,19 @@
+id: mozart-ch-io-mi-scordi-di-te
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Ch'io mi scordi di te?
+  ids:
+    imslp: Ch'io mi scordi di te?, K.505 (Mozart, Wolfgang Amadeus)
+  year: 1786
+formula: 0022 2000 str
+instrumentation:
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ch%27io_mi_scordi_di_te%3F%2C_K.505_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 clarinets, 2 bassoons, 2 horns, strings'
+duration_minutes: 10

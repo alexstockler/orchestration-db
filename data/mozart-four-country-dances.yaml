@@ -1,0 +1,14 @@
+id: mozart-four-country-dances
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Four Country Dances
+  ids:
+    imslp: 4 Country Dances, K.269b (Mozart, Wolfgang Amadeus)
+  year: 1776
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Country_Dances%2C_K.269b_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

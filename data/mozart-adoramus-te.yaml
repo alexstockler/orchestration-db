@@ -1,0 +1,16 @@
+id: mozart-adoramus-te
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Adoramus te
+  ids:
+    imslp: Adoramus te, K.327/Anh.A 10 (Mozart, Wolfgang Amadeus)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adoramus_te%2C_K.327/Anh.A_10_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus, organ'

@@ -1,0 +1,16 @@
+id: mozart-minuet-in-f-major-k-anh-32
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Minuet in F-Major K.Anh.32
+  ids:
+    imslp: Minuet in F major, K.Anh.32 (Mozart, Wolfgang Amadeus)
+  year: 1759
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Minuet_in_F_major%2C_K.Anh.32_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

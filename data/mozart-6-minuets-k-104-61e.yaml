@@ -1,0 +1,15 @@
+id: mozart-6-minuets-k-104-61e
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: 6 Minuets, K.104/61e
+  ids:
+    imslp: 6 Minuets, K.104/61e (Mozart, Wolfgang Amadeus)
+  year: 1771
+formula: ''
+instrumentation:
+  additional_raw: '|Tags=minuets | orch'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Minuets%2C_K.104/61e_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: |Tags=minuets ; orch'

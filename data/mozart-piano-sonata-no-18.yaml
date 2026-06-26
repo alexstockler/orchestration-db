@@ -1,0 +1,16 @@
+id: mozart-piano-sonata-no-18
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Piano Sonata No.18
+  ids:
+    imslp: Piano Sonata No.18 in D major, K.576 (Mozart, Wolfgang Amadeus)
+  year: 1789
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.18_in_D_major%2C_K.576_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

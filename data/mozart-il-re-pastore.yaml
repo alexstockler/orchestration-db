@@ -1,0 +1,43 @@
+id: mozart-il-re-pastore
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Il rè pastore
+  ids:
+    imslp: Il rè pastore, K.208 (Mozart, Wolfgang Amadeus)
+  year: 1775
+formula: 2202 4200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - Aminta
+  - a shepherd
+  - rightful heir to Sidon (soprano castrato/tenor)
+  - Elisa
+  - Phoenician shepherdess (soprano)
+  - Tamiri
+  - daughter of the deposed tyrant
+  - Stratone (mezzo-soprano)
+  - Agenore
+  - Sidonian aristocrat (tenor/baritone)
+  - Alessandro
+  - King of Macedonia (tenor) Mixed Chorus (SATB) :Alexander's guard
+  - officers and soldiers
+  - Sidon people
+  additional_raw: continuo (harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_r%C3%A8_pastore%2C_K.208_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Aminta, a shepherd, rightful heir to Sidon (soprano
+    castrato/tenor), Elisa, Phoenician shepherdess (soprano), Tamiri, daughter of
+    the deposed tyrant, Stratone (mezzo-soprano), Agenore, Sidonian aristocrat (tenor/baritone),
+    Alessandro, King of Macedonia (tenor) Mixed Chorus (SATB) :Alexander''s guard,
+    officers and soldiers, Sidon people Orchestra :2 flutes, 2 oboes (both also English
+    horn), 2 bassoons, 4 horns, 2 trumpets, timpani, strings, continuo (harpsichord)'

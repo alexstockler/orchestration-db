@@ -1,0 +1,15 @@
+id: mozart-6-landlerishe-tanze
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: 6 Ländlerishe Tänze
+  ids:
+    imslp: 6 Ländlerische Tänze, K.606 (Mozart, Wolfgang Amadeus)
+  year: 1791
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_L%C3%A4ndlerische_T%C3%A4nze%2C_K.606_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: strings (no violas)'

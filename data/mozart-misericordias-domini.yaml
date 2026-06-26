@@ -1,0 +1,17 @@
+id: mozart-misericordias-domini
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Misericordias Domini
+  ids:
+    imslp: Misericordias Domini, K.222/205a (Mozart, Wolfgang Amadeus)
+  year: 1775
+formula: str
+instrumentation:
+  strings: str
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Misericordias_Domini%2C_K.222/205a_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), strings, continuo'

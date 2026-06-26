@@ -1,0 +1,16 @@
+id: mozart-flute-quartet-in-g-major
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Flute Quartet in G major
+  ids:
+    imslp: Flute Quartet in G major, K.285a (Mozart, Wolfgang Amadeus)
+  year: 1778
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  additional_raw: violin | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flute_Quartet_in_G_major%2C_K.285a_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, violin, viola, cello'

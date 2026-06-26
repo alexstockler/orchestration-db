@@ -1,0 +1,18 @@
+id: mozart-or-che-il-dover
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Or che il dover
+  ids:
+    imslp: Or che il dover, K.36/33i (Mozart, Wolfgang Amadeus)
+  year: 1766
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - tenor
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Or_che_il_dover%2C_K.36/33i_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, strings'
+duration_minutes: 10

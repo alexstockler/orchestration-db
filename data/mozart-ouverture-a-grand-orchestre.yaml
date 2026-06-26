@@ -1,0 +1,14 @@
+id: mozart-ouverture-a-grand-orchestre
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Ouverture à grand orchestre
+  ids:
+    imslp: Ouverture in B-flat major, K.Anh.C 11.05 (Mozart, Wolfgang Amadeus)
+  year: 1800
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ouverture_in_B-flat_major%2C_K.Anh.C_11.05_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra'

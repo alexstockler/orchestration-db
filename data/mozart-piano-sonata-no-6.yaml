@@ -1,0 +1,16 @@
+id: mozart-piano-sonata-no-6
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Piano Sonata No.6
+  ids:
+    imslp: Piano Sonata No.6 in D major, K.284/205b (Mozart, Wolfgang Amadeus)
+  year: 1775
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.6_in_D_major%2C_K.284/205b_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

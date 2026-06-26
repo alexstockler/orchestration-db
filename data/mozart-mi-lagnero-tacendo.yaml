@@ -1,0 +1,21 @@
+id: mozart-mi-lagnero-tacendo
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Mi lagnerò tacendo
+  ids:
+    imslp: Mi lagnerò tacendo, K.437/Anh.A 47/04 (Mozart, Wolfgang Amadeus)
+  year: 1783
+formula: 0 0 3[1.2.bhn] 0 0000
+instrumentation:
+  clarinet:
+  - {}
+  - {}
+  - instrument: basset_horn
+  soloists:
+  - sopranos
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mi_lagner%C3%B2_tacendo%2C_K.437/Anh.A_47/04_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, bass, 2 clarinets (A), basset horn (G)'

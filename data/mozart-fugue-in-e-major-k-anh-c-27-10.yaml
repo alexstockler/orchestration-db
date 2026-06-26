@@ -1,0 +1,15 @@
+id: mozart-fugue-in-e-major-k-anh-c-27-10
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Fugue in E major, K.Anh.C 27.10
+  ids:
+    imslp: Fugue in E major, K.Anh.C 27.10 (Mozart, Wolfgang Amadeus)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_E_major%2C_K.Anh.C_27.10_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

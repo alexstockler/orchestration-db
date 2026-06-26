@@ -1,0 +1,18 @@
+id: mozart-die-alte
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Die Alte
+  ids:
+    imslp: Die Alte, K.517 (Mozart, Wolfgang Amadeus)
+  year: 1787
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Alte%2C_K.517_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

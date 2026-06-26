@@ -1,0 +1,20 @@
+id: mozart-cosi-dunque-tradisci
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Così dunque tradisci
+  ids:
+    imslp: Così dunque tradisci, K.432/421a (Mozart, Wolfgang Amadeus)
+  year: 1783
+formula: 2202 2000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cos%C3%AC_dunque_tradisci%2C_K.432/421a_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 bassoons, 2 horns, strings'
+duration_minutes: 4

@@ -1,0 +1,17 @@
+id: mozart-fugue
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Fugue
+  ids:
+    imslp: Fugue in C minor, K.426 (Mozart, Wolfgang Amadeus)
+  year: 1783
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_C_minor%2C_K.426_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 pianos'

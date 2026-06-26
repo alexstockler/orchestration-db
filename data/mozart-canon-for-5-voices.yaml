@@ -1,0 +1,16 @@
+id: mozart-canon-for-5-voices
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Canon for 5 Voices
+  ids:
+    imslp: Canon for 5 Voices in A major, K.73i (Mozart, Wolfgang Amadeus)
+  year: 1772
+formula: ''
+instrumentation:
+  soloists:
+  - 5 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canon_for_5_Voices_in_A_major%2C_K.73i_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 5 voices'

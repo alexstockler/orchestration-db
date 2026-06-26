@@ -1,0 +1,27 @@
+id: mozart-4-minuets
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: 4 Minuets
+  ids:
+    imslp: 4 Minuets, K.601 (Mozart, Wolfgang Amadeus)
+  year: 1791
+formula: 3[pic.2.3] 2 2 2 2000 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: lira
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Minuets%2C_K.601_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2
+    horns, timpani, lira, strings (no violas)'

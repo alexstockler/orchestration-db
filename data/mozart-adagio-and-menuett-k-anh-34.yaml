@@ -1,0 +1,15 @@
+id: mozart-adagio-and-menuett-k-anh-34
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Adagio and Menuett, K.Anh.34
+  ids:
+    imslp: Adagio and Menuett, K.Anh.34 (Mozart, Wolfgang Amadeus)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adagio_and_Menuett%2C_K.Anh.34_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

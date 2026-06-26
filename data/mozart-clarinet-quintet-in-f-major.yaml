@@ -1,0 +1,18 @@
+id: mozart-clarinet-quintet-in-f-major
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Clarinet Quintet in F major
+  ids:
+    imslp: Clarinet Quintet in F major, K.Anh.90/580b (Mozart, Wolfgang Amadeus)
+  year: 1789
+formula: 0 0 2[1.bhn] 0 0000
+instrumentation:
+  clarinet:
+  - {}
+  - instrument: basset_horn
+  additional_raw: violin | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Clarinet_Quintet_in_F_major%2C_K.Anh.90/580b_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet (C), basset horn, violin, viola, cello'

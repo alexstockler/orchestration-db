@@ -1,0 +1,19 @@
+id: mozart-ah-spiegarti-o-dio
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Ah, spiegarti, o Dio
+  ids:
+    imslp: Ah, spiegarti, o Dio, K.178/417e (Mozart, Wolfgang Amadeus)
+  year: 1772
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: surviving in a reduction for piano only
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ah%2C_spiegarti%2C_o_Dio%2C_K.178/417e_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, orchestra, surviving in a reduction for piano
+    only'
+duration_minutes: 3

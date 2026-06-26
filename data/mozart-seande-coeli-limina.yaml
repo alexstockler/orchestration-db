@@ -1,0 +1,15 @@
+id: mozart-seande-coeli-limina
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Seande coeli limina
+  ids:
+    imslp: Scande coeli limina, K.34 (Mozart, Wolfgang Amadeus)
+  year: 1766
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scande_coeli_limina%2C_K.34_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), orchestra'

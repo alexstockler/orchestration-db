@@ -1,0 +1,22 @@
+id: mozart-piano-concerto-no-13
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Piano Concerto No.13
+  ids:
+    imslp: Piano Concerto No.13 in C major, K.415/387b (Mozart, Wolfgang Amadeus)
+  year: 1783
+formula: 0202 2200 tmp str
+instrumentation:
+  oboe: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Concerto_No.13_in_C_major%2C_K.415/387b_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 bassoons, 2 horns, 2 trumpets, timpani, strings'
+duration_minutes: 23

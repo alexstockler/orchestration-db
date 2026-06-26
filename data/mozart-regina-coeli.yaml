@@ -1,0 +1,20 @@
+id: mozart-regina-coeli
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Regina Coeli
+  ids:
+    imslp: Regina coeli in B-flat major, K.127 (Mozart, Wolfgang Amadeus)
+  year: 1772
+formula: 0100 1000 str
+instrumentation:
+  oboe: 1
+  horn: 1
+  strings: str
+  chorus_raw: mixed chorus
+  additional_raw: Continuo (including Organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Regina_coeli_in_B-flat_major%2C_K.127_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed Chorus (SATB), Oboe, Horn (B), Strings, Continuo
+    (including Organ)'

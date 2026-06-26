@@ -1,0 +1,19 @@
+id: mozart-un-bacio-di-mano
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Un bacio di mano
+  ids:
+    imslp: Un bacio di mano, K.541 (Mozart, Wolfgang Amadeus)
+  year: 1788
+formula: 1202 2000 str
+instrumentation:
+  flute: 1
+  oboe: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Un_bacio_di_mano%2C_K.541_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, 2 oboes, 2 bassoons, 2 horns (F), strings'

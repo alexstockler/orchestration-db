@@ -1,0 +1,17 @@
+id: mozart-kleiner-trauermarsch-in-c-minor
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Kleiner Trauermarsch in C minor
+  ids:
+    imslp: Kleiner Trauermarsch in C minor, K.453a (Mozart, Wolfgang Amadeus)
+  year: 1784
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kleiner_Trauermarsch_in_C_minor%2C_K.453a_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 5

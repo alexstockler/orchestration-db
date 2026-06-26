@@ -1,0 +1,16 @@
+id: mozart-8-minuets
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: 8 Minuets
+  ids:
+    imslp: 8 Minuets, K.315a/315g (Mozart, Wolfgang Amadeus)
+  year: 1779
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Minuets%2C_K.315a/315g_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

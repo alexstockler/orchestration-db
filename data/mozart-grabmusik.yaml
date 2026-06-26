@@ -1,0 +1,17 @@
+id: mozart-grabmusik
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Grabmusik
+  ids:
+    imslp: Grabmusik, K.42/35a (Mozart, Wolfgang Amadeus)
+  year: 1767
+formula: 0000 2000 str
+instrumentation:
+  horn: 2
+  strings: str
+  additional_raw: (2 oboes)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grabmusik%2C_K.42/35a_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: (2 oboes), 2 horns, strings'

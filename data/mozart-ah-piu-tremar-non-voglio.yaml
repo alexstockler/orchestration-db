@@ -1,0 +1,17 @@
+id: mozart-ah-piu-tremar-non-voglio
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Ah, più tremar non voglio
+  ids:
+    imslp: Ah, più tremar non voglio, K.71 (Mozart, Wolfgang Amadeus)
+  year: 1769
+formula: 0200 2000 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ah%2C_pi%C3%B9_tremar_non_voglio%2C_K.71_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 horns, strings'

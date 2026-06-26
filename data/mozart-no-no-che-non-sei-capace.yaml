@@ -1,0 +1,20 @@
+id: mozart-no-no-che-non-sei-capace
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: No, no, che non sei capace
+  ids:
+    imslp: No, no, che non sei capace, K.419 (Mozart, Wolfgang Amadeus)
+  year: 1783
+formula: 0200 2200 tmp str
+instrumentation:
+  oboe: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/No%2C_no%2C_che_non_sei_capace%2C_K.419_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 horns, 2 trumpets, timpani, strings'

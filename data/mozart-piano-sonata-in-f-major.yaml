@@ -1,0 +1,16 @@
+id: mozart-piano-sonata-in-f-major
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Piano Sonata in F major
+  ids:
+    imslp: Piano Sonata in F major, K.Anh.30/590b (Mozart, Wolfgang Amadeus)
+  year: 1787
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_in_F_major%2C_K.Anh.30/590b_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

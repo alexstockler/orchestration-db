@@ -1,0 +1,15 @@
+id: mozart-fuge-in-g-major-for-string-trio
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Fuge in G major for String Trio
+  ids:
+    imslp: Fugue in G major, K.443/404b (Mozart, Wolfgang Amadeus)
+  year: 1782
+formula: ''
+instrumentation:
+  additional_raw: violin | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_G_major%2C_K.443/404b_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola, cello'

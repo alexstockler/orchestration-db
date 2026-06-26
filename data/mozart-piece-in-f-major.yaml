@@ -1,0 +1,17 @@
+id: mozart-piece-in-f-major
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Piece in F major
+  ids:
+    imslp: Piece in F major, K.33b (Mozart, Wolfgang Amadeus)
+  year: 1766
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piece_in_F_major%2C_K.33b_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: piano (or harpsichord)'
+duration_minutes: 1

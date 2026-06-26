@@ -1,0 +1,19 @@
+id: mozart-clarice-cara-mia-sposa
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Clarice cara mia sposa
+  ids:
+    imslp: Clarice cara mia sposa, K.256 (Mozart, Wolfgang Amadeus)
+  year: 1776
+formula: 0200 2000 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  strings: str
+  additional_raw: '[bassoon]'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Clarice_cara_mia_sposa%2C_K.256_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, [bassoon], 2 horns, strings'
+duration_minutes: 2

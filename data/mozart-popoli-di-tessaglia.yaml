@@ -1,0 +1,19 @@
+id: mozart-popoli-di-tessaglia
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Popoli di Tessaglia
+  ids:
+    imslp: Popoli di Tessaglia, K.316/300b (Mozart, Wolfgang Amadeus)
+  year: 1779
+formula: 0101 2000 str
+instrumentation:
+  oboe: 1
+  bassoon: 1
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Popoli_di_Tessaglia%2C_K.316/300b_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, bassoon, 2 horns, strings'
+duration_minutes: 10

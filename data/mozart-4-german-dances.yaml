@@ -1,0 +1,19 @@
+id: mozart-4-german-dances
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: 4 German Dances
+  ids:
+    imslp: 4 German Dances, K.602 (Mozart, Wolfgang Amadeus)
+  year: 1791
+formula: 0220 0000
+instrumentation:
+  oboe: 2
+  clarinet: 2
+  additional_raw: 2 flutes/piccolo | 2 bassoons + 2 horns | 2 trumpets + timpani +
+    strings (no violas)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_German_Dances%2C_K.602_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: 2 flutes/piccolo, 2 oboes, 2 clarinets, 2 bassoons
+    + 2 horns, 2 trumpets + timpani + strings (no violas)'

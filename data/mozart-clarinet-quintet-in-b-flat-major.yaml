@@ -1,0 +1,16 @@
+id: mozart-clarinet-quintet-in-b-flat-major
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Clarinet Quintet in B-flat major
+  ids:
+    imslp: Clarinet Quintet in B-flat major, K.Anh.91/516c (Mozart, Wolfgang Amadeus)
+  year: 1787
+formula: 0010 0000
+instrumentation:
+  clarinet: 1
+  additional_raw: 2 violins | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Clarinet_Quintet_in_B-flat_major%2C_K.Anh.91/516c_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet (B), 2 violins, viola, cello'

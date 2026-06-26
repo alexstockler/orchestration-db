@@ -1,0 +1,15 @@
+id: mozart-7-minuets
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: 7 Minuets
+  ids:
+    imslp: 7 Minuets, K.61b (Mozart, Wolfgang Amadeus)
+  year: 1769
+formula: ''
+instrumentation:
+  additional_raw: basso" does not denote double bass)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Minuets%2C_K.61b_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, cello ("basso" does not denote double bass)'

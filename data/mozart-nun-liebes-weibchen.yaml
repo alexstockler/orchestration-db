@@ -1,0 +1,23 @@
+id: mozart-nun-liebes-weibchen
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Nun, liebes Weibchen
+  ids:
+    imslp: Nun, liebes Weibchen, K.625/592a/Anh.A 64 (Mozart, Wolfgang Amadeus)
+  year: 1790
+formula: 1202 2000 str
+instrumentation:
+  flute: 1
+  oboe: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+  soloists:
+  - Voices - soprano
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nun%2C_liebes_Weibchen%2C_K.625/592a/Anh.A_64_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: voices and orchestra :Voices - soprano, bass, Orchestra
+    ::flute, 2 oboes, 2 bassoons, 2 horns (F), strings'

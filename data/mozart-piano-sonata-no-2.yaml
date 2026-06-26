@@ -1,0 +1,17 @@
+id: mozart-piano-sonata-no-2
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Piano Sonata No.2
+  ids:
+    imslp: Piano Sonata No.2 in F major, K.280/189e (Mozart, Wolfgang Amadeus)
+  year: 1774
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.2_in_F_major%2C_K.280/189e_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 15

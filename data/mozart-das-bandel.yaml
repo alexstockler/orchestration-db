@@ -1,0 +1,20 @@
+id: mozart-das-bandel
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Das Bandel
+  ids:
+    imslp: Das Bandel, K.441 (Mozart, Wolfgang Amadeus)
+  year: 1783
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Bandel%2C_K.441_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, bass, piano, originally: soprano, tenor,
+    bass, strings'

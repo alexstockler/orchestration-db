@@ -1,0 +1,44 @@
+id: mozart-la-finta-semplice
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: La finta semplice
+  ids:
+    imslp: La finta semplice, K.51/46a (Mozart, Wolfgang Amadeus)
+  year: 1768
+formula: 2202 2000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+  soloists:
+  - Fracasso
+  - a Hungarian captain lodging with Cassandro (tenor)
+  - Rosina
+  - Francasso's sister
+  - a baroness (soprano)
+  - Cassandro
+  - a tyrannical misogynist (bass)
+  - Polidoro
+  - Francasso's timid brother (tenor)
+  - Giacinta
+  - their sister
+  - evidently no longer young (mezzo-soprano)
+  - Simone
+  - Fracasso's orderly
+  - in love with Ninetta (bass)
+  - Ninetta
+  - 'Giacinta''s maid (soprano) :'
+  additional_raw: continuo (harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_finta_semplice%2C_K.51/46a_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra :Cast ::Fracasso, a Hungarian captain
+    lodging with Cassandro (tenor), Rosina, Francasso''s sister, a baroness (soprano),
+    Cassandro, a tyrannical misogynist (bass), Polidoro, Francasso''s timid brother
+    (tenor), Giacinta, their sister, evidently no longer young (mezzo-soprano), Simone,
+    Fracasso''s orderly, in love with Ninetta (bass), Ninetta, Giacinta''s maid (soprano)
+    :Orchestra ::2 flutes, 2 oboes (both also English horn), 2 bassoons, 2 horns (both
+    also Corni di caccia), strings, continuo (harpsichord)'

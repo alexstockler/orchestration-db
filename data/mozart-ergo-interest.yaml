@@ -1,0 +1,19 @@
+id: mozart-ergo-interest
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Ergo interest
+  ids:
+    imslp: Ergo interest, K.143/73a (Mozart, Wolfgang Amadeus)
+  year: 1773
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  additional_raw: continuo (cello, basses, organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ergo_interest%2C_K.143/73a_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice: soprano, Orchestra: strings, continuo (cello, basses,
+    organ)'

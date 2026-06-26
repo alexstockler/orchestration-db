@@ -1,0 +1,16 @@
+id: mozart-basset-horn-concerto
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Basset Horn Concerto
+  ids:
+    imslp: Basset Horn Concerto, K.584b/621b (Mozart, Wolfgang Amadeus)
+  year: 1791
+formula: 0 0 1[bhn] 0 0000
+instrumentation:
+  clarinet:
+  - instrument: basset_horn
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Basset_Horn_Concerto%2C_K.584b/621b_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: basset horn, orchestra'

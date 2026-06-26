@@ -1,0 +1,19 @@
+id: mozart-con-ossequio-con-rispetto
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Con ossequio, con rispetto
+  ids:
+    imslp: Con ossequio, con rispetto, K.210 (Mozart, Wolfgang Amadeus)
+  year: 1775
+formula: 0200 2000 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  strings: str
+  additional_raw: '[bassoon]'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Con_ossequio%2C_con_rispetto%2C_K.210_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, [bassoon], 2 horns, strings'
+duration_minutes: 3

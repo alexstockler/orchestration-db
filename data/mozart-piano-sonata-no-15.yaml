@@ -1,0 +1,16 @@
+id: mozart-piano-sonata-no-15
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Piano Sonata No.15
+  ids:
+    imslp: Piano Sonata No.15 in F major, K.533/494 (Mozart, Wolfgang Amadeus)
+  year: 1786
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.15_in_F_major%2C_K.533/494_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,19 @@
+id: mozart-ah-lo-previdi
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Ah, lo previdi
+  ids:
+    imslp: Ah, lo previdi, K.272 (Mozart, Wolfgang Amadeus)
+  year: 1777
+formula: 0200 2000 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  strings: str
+  additional_raw: '[bassoon]'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ah%2C_lo_previdi%2C_K.272_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, [bassoon], 2 horns, strings'
+duration_minutes: 13

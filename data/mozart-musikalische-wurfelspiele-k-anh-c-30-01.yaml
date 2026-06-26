@@ -1,0 +1,15 @@
+id: mozart-musikalische-wurfelspiele-k-anh-c-30-01
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Musikalische Würfelspiele, K.Anh.C.30.01
+  ids:
+    imslp: Musikalische Würfelspiele, K.Anh.C.30.01 (Mozart, Wolfgang Amadeus)
+  year: 1790
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Musikalische_W%C3%BCrfelspiele%2C_K.Anh.C.30.01_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

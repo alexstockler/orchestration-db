@@ -1,0 +1,16 @@
+id: mozart-piano-sonata-no-11
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Piano Sonata No.11
+  ids:
+    imslp: Piano Sonata No.11 in A major, K.331/300i (Mozart, Wolfgang Amadeus)
+  year: 1783
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.11_in_A_major%2C_K.331/300i_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,19 @@
+id: mozart-nehmt-meinen-dank
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Nehmt meinen Dank
+  ids:
+    imslp: Nehmt meinen Dank, K.383 (Mozart, Wolfgang Amadeus)
+  year: 1782
+formula: 1101 0000 str
+instrumentation:
+  flute: 1
+  oboe: 1
+  bassoon: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nehmt_meinen_Dank%2C_K.383_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, bassoon, strings'
+duration_minutes: 3

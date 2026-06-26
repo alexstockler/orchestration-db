@@ -1,0 +1,18 @@
+id: mozart-die-betrogene-welt
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Die betrogene Welt
+  ids:
+    imslp: Die betrogene Welt, K.474 (Mozart, Wolfgang Amadeus)
+  year: 1785
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_betrogene_Welt%2C_K.474_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

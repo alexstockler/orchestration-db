@@ -1,0 +1,19 @@
+id: mozart-a-berenice
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: A Berenice
+  ids:
+    imslp: A Berenice, K.70/61c (Mozart, Wolfgang Amadeus)
+  year: 1767
+formula: 0200 2000 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  strings: str
+  additional_raw: '[bassoon]'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_Berenice%2C_K.70/61c_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, [bassoon], 2 horns, strings'
+duration_minutes: 12

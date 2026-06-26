@@ -1,0 +1,16 @@
+id: mozart-inter-natos-mulierum
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Inter natos mulierum
+  ids:
+    imslp: Inter natos mulierum, K.72/74f (Mozart, Wolfgang Amadeus)
+  year: 1777
+formula: str
+instrumentation:
+  strings: str
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Inter_natos_mulierum%2C_K.72/74f_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: chorus, strings (no violas)'

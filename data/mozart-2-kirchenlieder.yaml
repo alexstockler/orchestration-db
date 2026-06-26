@@ -1,0 +1,18 @@
+id: mozart-2-kirchenlieder
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: 2 Kirchenlieder
+  ids:
+    imslp: 2 Kirchenlieder, K.343/336c (Mozart, Wolfgang Amadeus)
+  year: 1779
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Kirchenlieder%2C_K.343/336c_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

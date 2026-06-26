@@ -1,0 +1,38 @@
+id: mozart-l-oca-del-cairo
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: L'oca del Cairo
+  ids:
+    imslp: L'oca del Cairo, K.422 (Mozart, Wolfgang Amadeus)
+  year: 1783
+formula: 0202 2200 str
+instrumentation:
+  oboe: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  strings: str
+  soloists:
+  - Don Pippo (bass)
+  - Donna Pantea
+  - Don Pippo's wife
+  - believed to be dead (soprano)
+  - Celidora (soprano)
+  - Biondello (tenor)
+  - Calandrino
+  - Donna Pantea's nephew (tenor)
+  - Lavina
+  - Celidora's companion (soprano)
+  - Chichibio
+  - Don Pippo's major-domo (bass)
+  - 'Auretta (soprano) :'
+  additional_raw: continuo (harpsichord/fortepiano)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27oca_del_Cairo%2C_K.422_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra :Cast ::Don Pippo (bass), Donna Pantea,
+    Don Pippo''s wife, believed to be dead (soprano), Celidora (soprano), Biondello
+    (tenor), Calandrino, Donna Pantea''s nephew (tenor), Lavina, Celidora''s companion
+    (soprano), Chichibio, Don Pippo''s major-domo (bass), Auretta (soprano) :Orchestra
+    ::2 oboes, 2 bassoons, 2 horns (F/E/C/B), 2 trumpets (C), strings, continuo (harpsichord/fortepiano)'

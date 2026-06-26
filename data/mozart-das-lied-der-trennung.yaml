@@ -1,0 +1,18 @@
+id: mozart-das-lied-der-trennung
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Das Lied der Trennung
+  ids:
+    imslp: Das Lied der Trennung, K.519 (Mozart, Wolfgang Amadeus)
+  year: 1787
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Lied_der_Trennung%2C_K.519_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

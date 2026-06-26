@@ -1,0 +1,16 @@
+id: mozart-adagio-in-f-major
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Adagio in F major
+  ids:
+    imslp: Adagio in F major, K.Anh.93/484c (Mozart, Wolfgang Amadeus)
+  year: 1785
+formula: 0010 0000
+instrumentation:
+  clarinet: 1
+  additional_raw: 3 bassett horns
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adagio_in_F_major%2C_K.Anh.93/484c_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, 3 bassett horns'

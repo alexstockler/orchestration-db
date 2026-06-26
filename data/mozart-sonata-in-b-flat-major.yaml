@@ -1,0 +1,16 @@
+id: mozart-sonata-in-b-flat-major
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Sonata in B-flat major
+  ids:
+    imslp: Piano Sonata in B-flat major, K.Anh.31/569a (Mozart, Wolfgang Amadeus)
+  year: 1787
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_in_B-flat_major%2C_K.Anh.31/569a_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

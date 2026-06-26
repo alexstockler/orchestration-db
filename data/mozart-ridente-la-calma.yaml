@@ -1,0 +1,17 @@
+id: mozart-ridente-la-calma
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Ridente la calma
+  ids:
+    imslp: Ridente la calma, K.152/210a (Mozart, Wolfgang Amadeus)
+  year: 1775
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ridente_la_calma%2C_K.152/210a_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, orchestra'
+duration_minutes: 4

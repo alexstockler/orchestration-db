@@ -1,0 +1,16 @@
+id: mozart-piano-sonata-no-8
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Piano Sonata No.8
+  ids:
+    imslp: Piano Sonata No.8 in A minor, K.310/300d (Mozart, Wolfgang Amadeus)
+  year: 1778
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.8_in_A_minor%2C_K.310/300d_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

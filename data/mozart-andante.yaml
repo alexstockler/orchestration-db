@@ -1,0 +1,16 @@
+id: mozart-andante
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Andante
+  ids:
+    imslp: Andante in B-flat major, K.9b/5b (Mozart, Wolfgang Amadeus)
+  year: 1763
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_in_B-flat_major%2C_K.9b/5b_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

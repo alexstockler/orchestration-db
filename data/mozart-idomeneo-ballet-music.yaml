@@ -1,0 +1,24 @@
+id: mozart-idomeneo-ballet-music
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Idomeneo, ballet music
+  ids:
+    imslp: Idomeneo, ballet music, K.367 (Mozart, Wolfgang Amadeus)
+  year: 1781
+formula: 2222 2200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Idomeneo%2C_ballet_music%2C_K.367_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 17 parts :2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2
+    horns, 2 trumpets, timpani, strings'

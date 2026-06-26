@@ -1,0 +1,16 @@
+id: mozart-ein-musikalischer-spa
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Ein musikalischer Spaß
+  ids:
+    imslp: Ein musikalischer Spaß, K.522 (Mozart, Wolfgang Amadeus)
+  year: 1787
+formula: 0000 2000
+instrumentation:
+  horn: 2
+  additional_raw: 2 violins | viola | open bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ein_musikalischer_Spa%C3%9F%2C_K.522_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 horns, 2 violins, viola, open bass'

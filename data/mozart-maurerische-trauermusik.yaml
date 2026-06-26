@@ -1,0 +1,25 @@
+id: mozart-maurerische-trauermusik
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Maurerische Trauermusik
+  ids:
+    imslp: Maurerische Trauermusik, K.477/479a (Mozart, Wolfgang Amadeus)
+  year: 1785
+formula: 0 2 4[1.bhn.bhn.bhn] 1[cbn] 2000 str
+instrumentation:
+  oboe: 2
+  clarinet:
+  - {}
+  - instrument: basset_horn
+  - instrument: basset_horn
+  - instrument: basset_horn
+  bassoon:
+  - instrument: contrabassoon
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Maurerische_Trauermusik%2C_K.477/479a_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, clarinet, 3 basset horns, contrabassoon, 2 horns,
+    strings'

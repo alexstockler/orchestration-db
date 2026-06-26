@@ -1,0 +1,15 @@
+id: mozart-adagio-and-allegro
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Adagio and Allegro
+  ids:
+    imslp: Adagio and Allegro in F minor, K.594 (Mozart, Wolfgang Amadeus)
+  year: 1790
+formula: ''
+instrumentation:
+  additional_raw: musical clock")
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adagio_and_Allegro_in_F_minor%2C_K.594_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: mechanical organ ("musical clock")'

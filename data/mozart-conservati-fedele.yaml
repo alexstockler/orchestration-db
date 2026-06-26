@@ -1,0 +1,18 @@
+id: mozart-conservati-fedele
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Conservati fedele
+  ids:
+    imslp: Conservati fedele, K.23 (Mozart, Wolfgang Amadeus)
+  year: 1765
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Conservati_fedele%2C_K.23_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, strings'
+duration_minutes: 7

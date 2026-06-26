@@ -1,0 +1,20 @@
+id: mozart-caro-mio-druck-und-schluck
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Caro mio Druck und Schluck
+  ids:
+    imslp: Caro mio Druck und Schluck, K.Anh.5/571a (Mozart, Wolfgang Amadeus)
+  year: 1789
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - tenors
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Caro_mio_Druck_und_Schluck%2C_K.Anh.5/571a_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 2 tenors, bass, piano'

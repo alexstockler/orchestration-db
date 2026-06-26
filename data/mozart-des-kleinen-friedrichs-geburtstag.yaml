@@ -1,0 +1,18 @@
+id: mozart-des-kleinen-friedrichs-geburtstag
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Des kleinen Friedrichs Geburtstag
+  ids:
+    imslp: Des kleinen Friedrichs Geburtstag, K.529 (Mozart, Wolfgang Amadeus)
+  year: 1787
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Des_kleinen_Friedrichs_Geburtstag%2C_K.529_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

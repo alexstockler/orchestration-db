@@ -1,0 +1,18 @@
+id: mozart-flute-concerto
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Flute Concerto
+  ids:
+    imslp: Flute Concerto in D major, K.314/285d (Mozart, Wolfgang Amadeus)
+  year: 1778
+formula: 0200 2000 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flute_Concerto_in_D_major%2C_K.314/285d_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 horns, strings'
+duration_minutes: 16

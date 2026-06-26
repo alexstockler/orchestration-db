@@ -1,0 +1,18 @@
+id: mozart-6-country-dances
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: 6 Country Dances
+  ids:
+    imslp: 6 Country Dances, K.462/448b (Mozart, Wolfgang Amadeus)
+  year: 1784
+formula: 0200 2000 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Country_Dances%2C_K.462/448b_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 horns, strings (no violas)'
+duration_minutes: 7

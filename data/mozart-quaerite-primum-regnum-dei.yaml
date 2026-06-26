@@ -1,0 +1,15 @@
+id: mozart-quaerite-primum-regnum-dei
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Quaerite primum regnum Dei
+  ids:
+    imslp: Quaerite primum regnum Dei, K.86/73v (Mozart, Wolfgang Amadeus)
+  year: 1770
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Quaerite_primum_regnum_Dei%2C_K.86/73v_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

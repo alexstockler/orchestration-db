@@ -1,0 +1,18 @@
+id: mozart-daphne-deine-rosenwangen
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Daphne, deine Rosenwangen
+  ids:
+    imslp: Daphne, deine Rosenwangen, K.52/46c (Mozart, Wolfgang Amadeus)
+  year: 1768
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Daphne%2C_deine_Rosenwangen%2C_K.52/46c_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

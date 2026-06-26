@@ -1,0 +1,17 @@
+id: mozart-church-sonata-no-2
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Church Sonata No.2
+  ids:
+    imslp: Church Sonata in B-flat major, K.68/41i (Mozart, Wolfgang Amadeus)
+  year: 1772
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  additional_raw: 2 violins | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Church_Sonata_in_B-flat_major%2C_K.68/41i_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, cello, organ'

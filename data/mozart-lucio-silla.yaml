@@ -1,0 +1,44 @@
+id: mozart-lucio-silla
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Lucio Silla
+  ids:
+    imslp: Lucio Silla, K.135 (Mozart, Wolfgang Amadeus)
+  year: 1772
+formula: 2202 2200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - Lucio Silla
+  - dictator of Rome (tenor)
+  - Celia
+  - sister of Lucio Silla (soprano)
+  - Giunia [Junia]
+  - betrothed to Cecilio (soprano)
+  - Cecilio [Cecilius]
+  - Roman senator in exile (soprano/castrato)
+  - Lucio [Lucius] Cinna
+  - friend of Cecilio (soprano)
+  - Aufidio (Aufidius)
+  - tribune and friend of Lucio Silla (tenor) Mixed Chorus (SATB) :Guards
+  - Nobles
+  - Senators
+  - People
+  additional_raw: continuo (harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lucio_Silla%2C_K.135_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Lucio Silla, dictator of Rome (tenor), Celia, sister
+    of Lucio Silla (soprano), Giunia [Junia], betrothed to Cecilio (soprano), Cecilio
+    [Cecilius], Roman senator in exile (soprano/castrato), Lucio [Lucius] Cinna, friend
+    of Cecilio (soprano), Aufidio (Aufidius), tribune and friend of Lucio Silla (tenor)
+    Mixed Chorus (SATB) :Guards, Nobles, Senators, People Orchestra :2 flutes, 2 oboes,
+    2 bassoons, 2 horns, 2 trumpets, timpani, strings, continuo (harpsichord)'

@@ -1,0 +1,22 @@
+id: mozart-5-divertimentos
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: 5 Divertimentos
+  ids:
+    imslp: 5 Divertimentos, K.Anh.229/439b (Mozart, Wolfgang Amadeus)
+  year: 1783
+formula: 0 0 4[bhn.bhn.3.4] 1 0000
+instrumentation:
+  clarinet:
+  - instrument: basset_horn
+  - instrument: basset_horn
+  - {}
+  - {}
+  bassoon: 1
+  additional_raw: 3 basset horns or | bassoon or
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Divertimentos%2C_K.Anh.229/439b_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 basset horns or, 2 basset horns, bassoon or, 2 clarinets,
+    bassoon'

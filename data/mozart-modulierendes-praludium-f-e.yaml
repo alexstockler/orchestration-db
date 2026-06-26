@@ -1,0 +1,16 @@
+id: mozart-modulierendes-praludium-f-e
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Modulierendes Präludium (F-e)
+  ids:
+    imslp: Modulierendes Präludium (F-e), K.671 (Mozart, Wolfgang Amadeus)
+  year: 1776
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Modulierendes_Pr%C3%A4ludium_%28F-e%29%2C_K.671_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

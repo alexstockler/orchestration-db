@@ -1,0 +1,17 @@
+id: mozart-allegro-in-d-major
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Allegro in D major
+  ids:
+    imslp: Allegro in D major, K.626b/16 (Mozart, Wolfgang Amadeus)
+  year: 1766
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegro_in_D_major%2C_K.626b/16_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 2

@@ -1,0 +1,18 @@
+id: mozart-kommet-her-ihr-frechen-sunder
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Kommet her, ihr frechen Sünder
+  ids:
+    imslp: Kommet her, ihr frechen Sünder, K.146/317b (Mozart, Wolfgang Amadeus)
+  year: 1779
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  additional_raw: continuo (or organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kommet_her%2C_ihr_frechen_S%C3%BCnder%2C_K.146/317b_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal: soprano, Orchestra: strings, continuo (or organ)'

@@ -1,0 +1,16 @@
+id: mozart-canon-for-6-voices
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Canon for 6 Voices
+  ids:
+    imslp: Canon for 6 Voices in B-flat major, K.231/382c (Mozart, Wolfgang Amadeus)
+  year: 1782
+formula: ''
+instrumentation:
+  soloists:
+  - 6 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canon_for_6_Voices_in_B-flat_major%2C_K.231/382c_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 6 voices'

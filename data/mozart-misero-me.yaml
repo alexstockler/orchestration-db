@@ -1,0 +1,19 @@
+id: mozart-misero-me
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Misero me
+  ids:
+    imslp: Misero me, K.77/73e (Mozart, Wolfgang Amadeus)
+  year: 1770
+formula: 0202 2000 str
+instrumentation:
+  oboe: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Misero_me%2C_K.77/73e_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 bassoons, 2 horns, strings'
+duration_minutes: 13

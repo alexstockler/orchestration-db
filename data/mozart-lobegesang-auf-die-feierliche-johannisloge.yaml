@@ -1,0 +1,20 @@
+id: mozart-lobegesang-auf-die-feierliche-johannisloge
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Lobegesang auf die feierliche Johannisloge
+  ids:
+    imslp: Lobegesang auf die feierliche Johannisloge, K.148/125h (Mozart, Wolfgang
+      Amadeus)
+  year: 1772
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lobegesang_auf_die_feierliche_Johannisloge%2C_K.148/125h_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 4

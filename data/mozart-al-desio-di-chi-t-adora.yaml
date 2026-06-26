@@ -1,0 +1,19 @@
+id: mozart-al-desio-di-chi-t-adora
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Al desio, di chi t'adora
+  ids:
+    imslp: Al desio, di chi t'adora, K.577 (Mozart, Wolfgang Amadeus)
+  year: 1789
+formula: 0001 1000 str
+instrumentation:
+  bassoon: 1
+  horn: 1
+  strings: str
+  additional_raw: 2 bassett horns
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Al_desio%2C_di_chi_t%27adora%2C_K.577_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 bassett horns, bassoon, horn, strings'
+duration_minutes: 7

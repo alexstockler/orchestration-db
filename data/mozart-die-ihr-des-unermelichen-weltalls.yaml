@@ -1,0 +1,18 @@
+id: mozart-die-ihr-des-unermelichen-weltalls
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Die ihr des unermeßlichen Weltalls
+  ids:
+    imslp: Die ihr des unermeßlichen Weltalls, K.619 (Mozart, Wolfgang Amadeus)
+  year: 1791
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_ihr_des_unerme%C3%9Flichen_Weltalls%2C_K.619_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,18 @@
+id: mozart-adagio-und-fuge
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Adagio und Fuge
+  ids:
+    imslp: Adagio and Fugue in C minor, K.546 (Mozart, Wolfgang Amadeus)
+  year: 1788
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | viola | cello (or string orchestra, the cello part provides
+    a complete bass line)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adagio_and_Fugue_in_C_minor%2C_K.546_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello (or string orchestra, the cello
+    part provides a complete bass line)'
+duration_minutes: 10

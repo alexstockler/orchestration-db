@@ -1,0 +1,50 @@
+id: mozart-der-schauspieldirektor
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Der Schauspieldirektor
+  ids:
+    imslp: Der Schauspieldirektor, K.486 (Mozart, Wolfgang Amadeus)
+  year: 1786
+formula: 2222 2200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - Frank
+  - an impresario [Schauspieldirektor] (spoken)
+  - Eiler
+  - a banker (spoken)
+  - Buff
+  - a buffo singer (bass)
+  - Monsieur Vogelsang
+  - a singer (tenor)
+  - Madame Herz
+  - a singer (soprano)
+  - Mademoiselle Silberklang
+  - a singer (soprano)
+  - Herz
+  - an actor (spoken)
+  - Madame Pfeil
+  - an actress (spoken)
+  - Madame Krone
+  - an actress (spoken)
+  - Madame Vogelsang
+  - an actress (spoken)
+  additional_raw: continuo (harpsichord/fortepiano)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Schauspieldirektor%2C_K.486_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Frank, an impresario [Schauspieldirektor] (spoken),
+    Eiler, a banker (spoken), Buff, a buffo singer (bass), Monsieur Vogelsang, a singer
+    (tenor), Madame Herz, a singer (soprano), Mademoiselle Silberklang, a singer (soprano),
+    Herz, an actor (spoken), Madame Pfeil, an actress (spoken), Madame Krone, an actress
+    (spoken), Madame Vogelsang, an actress (spoken) Orchestra :2 flutes, 2 oboes,
+    2 clarinets, 2 bassoons, 2 horns, 2 trumpets, timpani, strings, continuo (harpsichord/fortepiano)'

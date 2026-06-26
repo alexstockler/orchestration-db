@@ -1,0 +1,33 @@
+id: mozart-apollo-et-hyacinthus
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Apollo et Hyacinthus
+  ids:
+    imslp: Apollo et Hyacinthus, K.38 (Mozart, Wolfgang Amadeus)
+  year: 1767
+formula: 0200 2000 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  strings: str
+  soloists:
+  - Oebalus
+  - King of Lacedaemonia (tenor)
+  - Melia
+  - daughter of Oebalus (soprano)
+  - Hyacinthus
+  - son of Oebalus (soprano)
+  - Apollo (alto)
+  - Zephyrus
+  - friend of Hyacinthus (soprano)
+  - 2 Priests (basses) Mixed Chorus (SATB)
+  additional_raw: continuo (harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Apollo_et_Hyacinthus%2C_K.38_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Oebalus, King of Lacedaemonia (tenor), Melia, daughter
+    of Oebalus (soprano), Hyacinthus, son of Oebalus (soprano), Apollo (alto), Zephyrus,
+    friend of Hyacinthus (soprano), 2 Priests (basses) Mixed Chorus (SATB), Orchestra
+    :2 oboes, 2 horns, strings, continuo (harpsichord)'
+duration_minutes: 75

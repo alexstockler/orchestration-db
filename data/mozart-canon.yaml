@@ -1,0 +1,16 @@
+id: mozart-canon
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Canon
+  ids:
+    imslp: Canon for 2 Voices in C minor, K.230/382b (Mozart, Wolfgang Amadeus)
+  year: 1782
+formula: ''
+instrumentation:
+  soloists:
+  - 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canon_for_2_Voices_in_C_minor%2C_K.230/382b_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices'

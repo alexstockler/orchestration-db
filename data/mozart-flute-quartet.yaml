@@ -1,0 +1,16 @@
+id: mozart-flute-quartet
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Flute Quartet
+  ids:
+    imslp: Flute Quartet in A major, K.298 (Mozart, Wolfgang Amadeus)
+  year: 1786
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  additional_raw: violin | viola | cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flute_Quartet_in_A_major%2C_K.298_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, violin, viola, cello'

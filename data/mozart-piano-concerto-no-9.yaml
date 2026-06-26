@@ -1,0 +1,18 @@
+id: mozart-piano-concerto-no-9
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Piano Concerto No.9
+  ids:
+    imslp: Piano Concerto No.9 in E-flat major, K.271 (Mozart, Wolfgang Amadeus)
+  year: 1777
+formula: 0200 2000 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Concerto_No.9_in_E-flat_major%2C_K.271_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 horns, strings'
+duration_minutes: 32

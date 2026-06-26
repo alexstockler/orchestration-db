@@ -1,0 +1,15 @@
+id: mozart-andante-variato-k-anh-138
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Andante variato, K.Anh.138
+  ids:
+    imslp: Andante variato, K.Anh.138 (Mozart, Wolfgang Amadeus)
+  year: 1805
+formula: ''
+instrumentation:
+  additional_raw: harpsichord or piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_variato%2C_K.Anh.138_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord or piano'

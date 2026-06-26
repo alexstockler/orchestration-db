@@ -1,0 +1,15 @@
+id: mozart-pastorale-variee-avec-cadenza
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Pastorale Variée, avec cadenza
+  ids:
+    imslp: Pastorale Variée, avec cadenza (Mozart, Wolfgang Amadeus)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pastorale_Vari%C3%A9e%2C_avec_cadenza_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

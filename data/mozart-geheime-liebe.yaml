@@ -1,0 +1,18 @@
+id: mozart-geheime-liebe
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Geheime Liebe
+  ids:
+    imslp: Geheime Liebe, K.150/125e (Mozart, Wolfgang Amadeus)
+  year: 1772
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Geheime_Liebe%2C_K.150/125e_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

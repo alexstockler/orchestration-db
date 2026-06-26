@@ -1,0 +1,20 @@
+id: mozart-alcandro-lo-confesso
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Alcandro, lo confesso
+  ids:
+    imslp: Alcandro, lo confesso, K.294 (Mozart, Wolfgang Amadeus)
+  year: 1778
+formula: 2022 2000 str
+instrumentation:
+  flute: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alcandro%2C_lo_confesso%2C_K.294_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 clarinets, 2 bassoons, 2 horns, strings'
+duration_minutes: 9

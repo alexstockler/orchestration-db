@@ -1,0 +1,15 @@
+id: mozart-divertimento
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Divertimento
+  ids:
+    imslp: Divertimento in B-flat major, K.137/125b (Mozart, Wolfgang Amadeus)
+  year: 1772
+formula: ''
+instrumentation:
+  additional_raw: 2 violins | violas | basso (cello)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Divertimento_in_B-flat_major%2C_K.137/125b_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, violas, basso (cello)'

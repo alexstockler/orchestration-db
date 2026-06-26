@@ -1,0 +1,16 @@
+id: mozart-allegro-assai-in-b-flat-major
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Allegro assai in B-flat major
+  ids:
+    imslp: Allegro assai in B-flat major, K.Anh.95/484b (Mozart, Wolfgang Amadeus)
+  year: 1785
+formula: 0020 3000
+instrumentation:
+  clarinet: 2
+  horn: 3
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegro_assai_in_B-flat_major%2C_K.Anh.95/484b_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 clarinets, 3 horns'

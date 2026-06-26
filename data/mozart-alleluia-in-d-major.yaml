@@ -1,0 +1,14 @@
+id: mozart-alleluia-in-d-major
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Alleluia in D major
+  ids:
+    imslp: Alleluia in D major (Mozart, Wolfgang Amadeus)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alleluia_in_D_major_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

@@ -1,0 +1,16 @@
+id: mozart-canon-for-3-voices
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Canon for 3 Voices
+  ids:
+    imslp: Canon for 3 Voices in B-flat major, K.233/382d (Mozart, Wolfgang Amadeus)
+  year: 1782
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canon_for_3_Voices_in_B-flat_major%2C_K.233/382d_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

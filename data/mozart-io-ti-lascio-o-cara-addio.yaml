@@ -1,0 +1,19 @@
+id: mozart-io-ti-lascio-o-cara-addio
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Io ti lascio, o cara, addio
+  ids:
+    imslp: Io ti lascio, o cara, addio, K.Anh.245/621a (Mozart, Wolfgang Amadeus)
+  year: 1791
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Io_ti_lascio%2C_o_cara%2C_addio%2C_K.Anh.245/621a_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 4

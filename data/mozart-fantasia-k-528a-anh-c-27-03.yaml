@@ -1,0 +1,16 @@
+id: mozart-fantasia-k-528a-anh-c-27-03
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: Fantasia, K.528a/Anh.C 27.03
+  ids:
+    imslp: Fantasia, K.528a/Anh.C 27.03 (Mozart, Wolfgang Amadeus)
+  year: 1787
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia%2C_K.528a/Anh.C_27.03_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: Organ'

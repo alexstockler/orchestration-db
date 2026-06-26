@@ -1,0 +1,18 @@
+id: mozart-march
+work:
+  composer: Mozart, Wolfgang Amadeus
+  title: March
+  ids:
+    imslp: March in C major, K.214 (Mozart, Wolfgang Amadeus)
+  year: 1775
+formula: 0200 2200 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  trumpet: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/March_in_C_major%2C_K.214_%28Mozart%2C_Wolfgang_Amadeus%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra :2 oboes, 2 horns (C), 2 trumpet (C), strings'
