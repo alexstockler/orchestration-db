@@ -131,8 +131,7 @@ def index(
         base_qs_parts["instrument"] = instrument
     base_qs = urllib.parse.urlencode(base_qs_parts)
 
-    return _templates.TemplateResponse("index.html", {
-        "request": request,
+    return _templates.TemplateResponse(request, "index.html", {
         "composers": composers,
         "instruments": instruments,
         "results": results,
@@ -161,8 +160,7 @@ def composers_page(request: Request):
         GROUP BY c.id
         ORDER BY c.name
     """).fetchall()
-    return _templates.TemplateResponse("composers.html", {
-        "request": request,
+    return _templates.TemplateResponse(request, "composers.html", {
         "composers": [dict(r) for r in rows],
     })
 
@@ -183,9 +181,7 @@ def work_detail(request: Request, slug: str):
     """, (slug,)).fetchone()
 
     if not work:
-        return _templates.TemplateResponse(
-            "404.html", {"request": request}, status_code=404
-        )
+        return _templates.TemplateResponse(request, "404.html", {}, status_code=404)
 
     work = dict(work)
 
@@ -210,8 +206,7 @@ def work_detail(request: Request, slug: str):
 
     best_confidence = provenance[0]["confidence"] if provenance else None
 
-    return _templates.TemplateResponse("work_detail.html", {
-        "request": request,
+    return _templates.TemplateResponse(request, "work_detail.html", {
         "work": work,
         "instruments": [dict(r) for r in instruments],
         "provenance": [dict(r) for r in provenance],
@@ -234,8 +229,7 @@ def explore_get(request: Request):
         "GROUP BY c.name\n"
         "ORDER BY works DESC"
     )
-    return _templates.TemplateResponse("explore.html", {
-        "request": request,
+    return _templates.TemplateResponse(request, "explore.html", {
         "sql": default_sql,
         "results": None,
         "error": None,
@@ -267,8 +261,7 @@ async def explore_post(
         except Exception as exc:
             error = str(exc)
 
-    return _templates.TemplateResponse("explore.html", {
-        "request": request,
+    return _templates.TemplateResponse(request, "explore.html", {
         "sql": sql,
         "results": results,
         "error": error,
