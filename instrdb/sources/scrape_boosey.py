@@ -2,14 +2,17 @@
 """Boosey & Hawkes catalogue scraper.
 
 Two-phase approach:
-  1. Enumerate: Playwright drives the JS-rendered listing page → collect musicids.
-  2. Fetch: plain HTTP to each cat_detail page (works without JS).
+  1. Enumerate: Wikidata SPARQL → collect Boosey musicids via P856 website URLs.
+  2. Fetch: plain HTTP to each cat_detail page.
 
 Usage:
-    # Fetch all orchestral works for a composer:
-    python -m instrdb.sources.scrape_boosey --composer "Shostakovich, Dmitri"
+    # Fetch all works for a composer (auto-looks up Wikidata QID):
+    python -m instrdb.sources.scrape_boosey --composer "Britten, Benjamin"
 
-    # Fetch specific musicids directly (no Playwright needed):
+    # Supply the QID explicitly to skip the name lookup:
+    python -m instrdb.sources.scrape_boosey --composer "Britten, Benjamin" --qid Q7315
+
+    # Fetch specific musicids directly:
     python -m instrdb.sources.scrape_boosey 6803 6144
 
     # Dry-run — parse and print without writing:
@@ -43,18 +46,20 @@ from .boosey import parse_scoring
 # Constants
 # ---------------------------------------------------------------------------
 
-DETAIL_URL  = "https://www.boosey.com/pages/cr/catalogue/cat_detail?musicid={}"
-LISTING_URL = "https://www.boosey.com/pages/cr/catalogue/ps/powersearch_results"
+DETAIL_URL     = "https://www.boosey.com/pages/cr/catalogue/cat_detail?musicid={}"
+WIKIDATA_SPARQL = "https://query.wikidata.org/sparql"
 
-# Orchestra-relevant classification group IDs (from Boosey's URL scheme)
-ORCH_GROUPS = "14068,14069,14070,14071,14074"
-
-UA_PLAIN = (
+# Browser-like UA for Boosey (plain-text bots are often blocked)
+UA_BOOSEY = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
     "AppleWebKit/537.36 (KHTML, like Gecko) "
     "Chrome/124.0.0.0 Safari/537.36 orchestration-db/0.1"
 )
-UA_PLAYWRIGHT = "orchestration-db/0.1 (open instrumentation database; https://github.com/alexstockler/orchestration-db)"
+# Transparent UA for Wikidata
+UA_WIKIDATA = (
+    "orchestration-db/0.1 (open instrumentation database; "
+    "https://github.com/alexstockler/orchestration-db)"
+)
 
 CACHE_DIR   = Path(".boosey_cache")
 _MIN_DELAY  = 0.5   # 2 req/s — polite for a publisher site
@@ -80,7 +85,7 @@ def _fetch_detail_html(musicid: int) -> str:
 
     CACHE_DIR.mkdir(exist_ok=True)
     url = DETAIL_URL.format(musicid)
-    req = urllib.request.Request(url, headers={"User-Agent": UA_PLAIN})
+    req = urllib.request.Request(url, headers={"User-Agent": UA_BOOSEY})
 
     for attempt in range(5):
         time.sleep(_current_delay)
@@ -219,78 +224,121 @@ def build_entry(musicid: int) -> dict | None:
 
 
 # ---------------------------------------------------------------------------
-# Playwright enumeration
+# Wikidata SPARQL enumeration
 # ---------------------------------------------------------------------------
 
-def list_composer_works(composer_name: str) -> list[int]:
-    """Use Playwright to enumerate musicids for a composer.
-
-    Navigates the JS-rendered listing page, clicking 'Show more' until
-    exhausted, then collects all musicid links.
-    """
-    try:
-        from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
-    except ImportError:
-        print(
-            "[error] Playwright is not installed. Run: pip install playwright && playwright install chromium",
-            file=sys.stderr,
-        )
-        sys.exit(1)
-
-    params = urllib.parse.urlencode({
-        "Filters": f"Composer:{composer_name}",
-        "DL_ClassificationGroupIDs": ORCH_GROUPS,
+def _sparql_query(query: str) -> list[dict]:
+    """Run a SPARQL query against Wikidata and return the bindings list."""
+    import urllib.error
+    params = urllib.parse.urlencode({"query": query, "format": "json"})
+    url = f"{WIKIDATA_SPARQL}?{params}"
+    req = urllib.request.Request(url, headers={
+        "User-Agent": UA_WIKIDATA,
+        "Accept": "application/sparql-results+json",
     })
-    url = f"{LISTING_URL}?{params}"
-    print(f"Enumerating: {url}", file=sys.stderr)
-
-    musicids: set[int] = set()
-
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        page = browser.new_page(user_agent=UA_PLAYWRIGHT)
-        page.goto(url, wait_until="domcontentloaded", timeout=60_000)
-
-        # Wait for at least one result link to appear (or timeout gracefully)
+    delay = 2.0
+    for attempt in range(5):
+        time.sleep(delay)
         try:
-            page.wait_for_selector("a[href*='musicid=']", timeout=20_000)
-        except PWTimeout:
-            print(f"  [warn] no results appeared for {composer_name!r}", file=sys.stderr)
-            browser.close()
-            return []
+            with urllib.request.urlopen(req, timeout=60) as r:
+                data = json.loads(r.read())
+            return data.get("results", {}).get("bindings", [])
+        except urllib.error.HTTPError as exc:
+            if exc.code == 429:
+                retry_after = int(exc.headers.get("Retry-After", delay * 2))
+                print(f"  [warn] Wikidata rate-limited; waiting {retry_after}s…", file=sys.stderr)
+                delay = min(retry_after, 120)
+            else:
+                raise
+    raise RuntimeError("Wikidata SPARQL rate-limit exceeded after 5 retries")
 
-        # Click "Show more" / "Load more" until it disappears
-        while True:
-            # Collect musicids currently visible
-            for a in page.query_selector_all("a[href*='musicid=']"):
-                href = a.get_attribute("href") or ""
-                m = re.search(r"musicid=(\d+)", href)
-                if m:
-                    musicids.add(int(m.group(1)))
 
-            # Try to find a load-more button
-            btn = page.query_selector(
-                "button:has-text('Show more'), button:has-text('Load more'), "
-                ".show-more, .load-more, [class*='show-more'], [class*='load-more']"
+def _qid_from_uri(uri: str) -> str | None:
+    m = re.search(r"/(Q\d+)$", uri)
+    return m.group(1) if m else None
+
+
+def lookup_composer_qid(composer_name: str) -> str | None:
+    """Find a composer's Wikidata QID by name ("Lastname, Firstname")."""
+    parts = [p.strip() for p in composer_name.split(",", 1)]
+    label = f"{parts[1]} {parts[0]}" if len(parts) == 2 else parts[0]
+
+    query = f"""
+    SELECT ?composer WHERE {{
+      ?composer wdt:P31 wd:Q5 ;
+                rdfs:label "{label}"@en .
+    }}
+    LIMIT 1
+    """
+    bindings = _sparql_query(query)
+    if not bindings:
+        return None
+    return _qid_from_uri(bindings[0].get("composer", {}).get("value", ""))
+
+
+def list_composer_works(composer_name: str, qid: str | None = None) -> list[int]:
+    """Enumerate Boosey musicids for a composer via Wikidata SPARQL.
+
+    Queries for works by the composer that have an official website (P856)
+    pointing to boosey.com, then extracts musicid from the URL.
+
+    Falls back to works with publisher=Boosey & Hawkes (P123=Q1249726) that
+    also have a Boosey URL via P856 on the work itself.
+    """
+    if not qid:
+        print(f"Looking up Wikidata QID for {composer_name!r}…", file=sys.stderr)
+        qid = lookup_composer_qid(composer_name)
+        if not qid:
+            print(
+                f"  [error] Could not find Wikidata QID for {composer_name!r}.\n"
+                f"  Pass --qid Q<number> to specify it directly.\n"
+                f"  Find it at: https://www.wikidata.org/w/index.php?search={urllib.parse.quote(composer_name)}",
+                file=sys.stderr,
             )
-            if not btn or not btn.is_visible():
-                break
-            btn.click()
-            try:
-                page.wait_for_load_state("networkidle", timeout=15_000)
-            except PWTimeout:
-                page.wait_for_timeout(2000)  # fallback: just wait 2s
+            return []
+        print(f"  QID: {qid}", file=sys.stderr)
 
-        # Final sweep after last page load
-        for a in page.query_selector_all("a[href*='musicid=']"):
-            href = a.get_attribute("href") or ""
+    # Primary: works with a boosey.com P856 URL
+    query = f"""
+    SELECT DISTINCT ?url WHERE {{
+      ?work wdt:P86 wd:{qid} ;
+            wdt:P856 ?url .
+      FILTER(CONTAINS(STR(?url), "boosey.com"))
+    }}
+    """
+    musicids: set[int] = set()
+    for binding in _sparql_query(query):
+        href = binding.get("url", {}).get("value", "")
+        m = re.search(r"musicid=(\d+)", href)
+        if m:
+            musicids.add(int(m.group(1)))
+
+    # Secondary: works where the composer is listed but the Boosey URL is on
+    # a different statement (e.g. via the work's sitelinks or P953)
+    if not musicids:
+        query2 = f"""
+        SELECT DISTINCT ?url WHERE {{
+          ?work wdt:P86 wd:{qid} ;
+                wdt:P953 ?url .
+          FILTER(CONTAINS(STR(?url), "boosey.com"))
+        }}
+        """
+        for binding in _sparql_query(query2):
+            href = binding.get("url", {}).get("value", "")
             m = re.search(r"musicid=(\d+)", href)
             if m:
                 musicids.add(int(m.group(1)))
 
-        browser.close()
-
-    print(f"  Found {len(musicids)} musicids for {composer_name!r}", file=sys.stderr)
+    print(
+        f"  Found {len(musicids)} Boosey musicid(s) via Wikidata for {composer_name!r} ({qid})",
+        file=sys.stderr,
+    )
+    if not musicids:
+        print(
+            f"  Tip: check https://www.wikidata.org/wiki/{qid} — "
+            f"works may lack P856/P953 Boosey URLs in Wikidata.",
+            file=sys.stderr,
+        )
     return sorted(musicids)
 
 
@@ -314,7 +362,8 @@ def main():
     ap = argparse.ArgumentParser(description="Scrape Boosey & Hawkes instrumentation data")
     ap.add_argument("musicids", nargs="*", type=int, help="Boosey musicid(s) to fetch directly")
     ap.add_argument("--composer", action="append", default=[],
-                    help="Fetch all orchestral works for a composer (repeatable); requires Playwright")
+                    help="Fetch all works for a composer via Wikidata (repeatable)")
+    ap.add_argument("--qid", help="Wikidata QID for the composer (e.g. Q7315) — skips name lookup; applies to the first --composer")
     ap.add_argument("--out-dir", default="data", help="Output directory (default: data/)")
     ap.add_argument("--force",   action="store_true", help="Overwrite existing files")
     ap.add_argument("--dry-run", action="store_true", help="Parse and print without writing files")
@@ -322,8 +371,9 @@ def main():
 
     ids: list[int] = list(args.musicids)
 
-    for composer in args.composer:
-        ids.extend(list_composer_works(composer))
+    for i, composer in enumerate(args.composer):
+        qid = args.qid if i == 0 else None
+        ids.extend(list_composer_works(composer, qid=qid))
 
     if not ids:
         ap.print_help()

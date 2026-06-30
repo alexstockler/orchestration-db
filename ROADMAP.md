@@ -1,159 +1,140 @@
 # Roadmap
 
-Current state: **~6,043 works** across 42 composers, all ingested from IMSLP
-via the MediaWiki API. Scraper, instrumentation parser, validator, and local
-web UI are all working.
+## Current state (2026-06-30)
+
+**~7,814 works** across 54 composers. Fully deployed at
+`https://orchestration-db-production.up.railway.app`.
+
+### What's done
+
+- **IMSLP scraper** — MediaWiki API, cached, rate-limited, ~54 composers ingested
+- **Instrumentation parser** — Daniels-style formula + structured YAML model;
+  handles solo strings, off-stage instruments, optional/ad lib. instruments
+- **SQLite schema** — `works`, `composers`, `work_instruments`,
+  `work_external_ids`, `work_provenance`
+- **Migration** — `python -m instrdb.migrate` loads all YAML into the DB;
+  runs automatically on Railway deploy
+- **FastAPI** — `/works`, `/composers`, `/instruments`, `/works/{slug}`,
+  `/query` (ad-hoc read-only SQL); OpenAPI docs at `/docs`
+- **Web UI** — HTML search/browse at `/`
+- **Railway deployment** — auto-deploys on push to `main`
+
+---
 
 ## Ingestion log
 
-| Date | Composers added | Works written |
+| Date | Composers added | Works |
 |---|---|---|
-| (initial) | Beethoven, Brahms, Mahler, Tchaikovsky, Bruckner, Sibelius, Dvořák, Schumann, Mendelssohn, Saint-Saëns, Rimsky-Korsakov, Grieg, Debussy, Wagner, Andriessen, Bach, Bartók, Berlioz, Elgar, Handel, Haydn, Hindemith, Janáček, Liszt, Mozart, Nielsen, Prokofiev, Rachmaninoff, Ravel, Schubert, Shostakovich, Strauss R., Stravinsky, Vaughan Williams, Verdi, Vivaldi, Wagner | ~5,466 |
-| 2026-06-30 | Holst (72), Puccini (25), Bizet (80), Fauré (115), Franck (93) | +385 → **6,043** |
-| 2026-06-30 | Respighi (68), Smetana (78), Kodály (47) | +193 → **6,236** |
-| 2026-06-30 | Mussorgsky (77), Borodin (31), Gounod (242), Glazunov (119), Scriabin (79), Weber (104), Massenet (287), Offenbach (143), Lalo (36), Delibes (71) | +1,189 → **7,425** |
+| (initial) | Beethoven, Brahms, Mahler, Tchaikovsky, Bruckner, Sibelius, Dvořák, Schumann, Mendelssohn, Saint-Saëns, Rimsky-Korsakov, Grieg, Debussy, Wagner, Andriessen, Bach, Bartók, Berlioz, Elgar, Handel, Haydn, Hindemith, Janáček, Liszt, Mozart, Nielsen, Prokofiev, Rachmaninoff, Ravel, Schubert, Shostakovich, Strauss R., Stravinsky, Vaughan Williams, Verdi, Vivaldi | ~5,466 |
+| 2026-06-30 | Holst, Puccini, Bizet, Fauré, Franck | +385 → 6,043 |
+| 2026-06-30 | Respighi, Smetana, Kodály | +193 → 6,236 |
+| 2026-06-30 | Mussorgsky, Borodin, Gounod, Glazunov, Scriabin, Weber, Massenet, Offenbach, Lalo, Delibes | +1,189 → 7,425 |
+| 2026-06-30 | Parser improvements re-parse (solo strings, offstage, optional) | 7,814 re-parsed |
 
-**Notes on composers not yet ingested:**
-- **Britten, Benjamin** — 0 works on IMSLP; died 1976, in copyright until ~2047. Needs publisher scraping (Boosey & Hawkes).
-- **Copland, Aaron** — already ingested (10 early public-domain works). Major works (Appalachian Spring, Fanfare, etc.) are still in copyright; need publisher scraping.
-- **Messiaen, Olivier** — died 1992, in copyright for decades. Not viable via IMSLP.
-- **Barber, Samuel** — died 1981, in copyright. Not viable via IMSLP.
-
-**Next composers to add via IMSLP (public domain, good coverage):**
-
-| Composer | Notes |
-|---|---|
-| Walton, William | Some early works on IMSLP |
-| Holmboe, Vagn | Public domain, Danish symphonist |
-| Zemlinsky, Alexander | Public domain, good IMSLP coverage |
-| Korngold, Erich Wolfgang | Some early works on IMSLP |
-| Martinů, Bohuslav | Public domain, decent IMSLP coverage |
-| Wolf, Hugo | Public domain, good IMSLP coverage |
-| Loewe, Carl | Public domain |
-| Spohr, Louis | Public domain, large catalog |
-
-**Known parser gaps (items landing in `additional_raw` / `[review]`):**
-
-- Solo string instruments (`violin`, `cello`, `viola`) — chamber/solo works;
-  need a model decision on how to represent desk-count vs. solo
-- `2 bassoons + 2 horns` compound tokens
-- `N voices` / `1-4 voices` ranges
-- Stage/off-stage instrument annotations (`Off-stage Instruments`)
-- Novel percussion tokens: `jingles`, `fonica (= vibraphone)`, `tugboat siren`,
-  `auto horn`, `carillon`, `tavolette`, Chinese tuned gongs
-- Military-band instruments: `soprano cornet`, `E clarinet`, `bass saxophone`
-- `N+M` notation for non-bassoon families
+**IMSLP name quirks to remember:**
+- Russian composers: `Aleksandr` not `Alexander` (Borodin, Glazunov, Scriabin)
+- `Prokofiev, Sergey` · `Rachmaninoff, Sergei` · `Shostakovich, Dmitry`
+- Accented names must be passed exactly: `Fauré, Gabriel` · `Dvořák, Antonín` etc.
 
 ---
 
-## Recommended order
+## What's next
 
-### 1. Architecture & API  ← do this first
+### 1. Publisher scraping — Boosey & Hawkes  ← active
 
-The YAML-flat-file approach is fine for a few thousand entries but will become
-a bottleneck as the dataset grows and we add publisher data. Designing the
-backend now avoids a painful migration later and shapes how clients will consume
-the data.
+`scrape_boosey.py` exists and the detail-page fetcher works (plain HTTP).
+The only missing piece is **enumeration**: getting the list of musicids for a
+composer without browser automation.
 
-**Tasks**
+**Fix**: replace the Playwright listing-page scraper with a Wikidata SPARQL
+query. Wikidata property **P5099** = Boosey & Hawkes catalogue number.
 
-- [ ] Choose a database (SQLite for dev, Postgres for prod is a safe default;
-      consider DuckDB if the primary workload is analytical queries)
-- [ ] Define the relational schema — key tables: `works`, `composers`,
-      `instruments`, `work_instruments` (join), `sources` (provenance per row)
-- [ ] Write a migration script that loads existing YAML files into the DB
-- [ ] Design a REST (or GraphQL) API — initial useful endpoints:
-  - `GET /works?composer=Mahler&instrument=horn` — filter by instrument
-  - `GET /works/:id` — full entry with provenance
-  - `GET /composers` — index
-  - `GET /instruments` — canonical instrument list
-  - `GET /formula/:formula` — works matching a Daniels-style formula
-- [ ] Pick a framework (FastAPI is a natural fit given the Python codebase)
-- [ ] Replace the Flask web UI's file-system library with DB queries
-- [ ] Write an OpenAPI spec so API consumers know what to expect
+```sparql
+SELECT ?work ?bh WHERE {
+  ?work wdt:P86 wd:Q<composer_qid> .
+  ?work wdt:P5099 ?bh .
+}
+```
 
-**Why first:** every subsequent workstream (more IMSLP data, publisher scraping)
-produces rows that need to land somewhere. Building the target first means each
-new data source slots straight in, rather than being piled onto a flat-file
-directory and migrated later.
+Query the Wikidata SPARQL endpoint (`https://query.wikidata.org/sparql`),
+collect musicids, then pass them to the existing `build_entry(musicid)` detail
+fetcher. No browser needed.
 
----
+**Composers to prioritise** (large in-copyright catalogues):
+| Composer | Wikidata QID | Notes |
+|---|---|---|
+| Britten, Benjamin | Q7315 | Core Boosey catalogue |
+| Shostakovich, Dmitri | Q80726 | Many works in copyright |
+| Prokofiev, Sergei | Q80330 | Ditto |
+| Copland, Aaron | Q128505 | Major works not on IMSLP |
+| Bartók, Béla | Q83326 | Some works still in copyright |
+| Stravinsky, Igor | Q7314 | Later works in copyright |
 
-### 2. Expand IMSLP coverage  ← run in parallel with (1)
+**After Boosey is working**, the same Wikidata-enumeration pattern applies to:
 
-The scraper and parser are proven. This can continue incrementally while the
-backend is being designed — new YAML files accumulate and get bulk-loaded once
-the DB is ready.
-
-**Composers still to add (suggested priority — large catalogs or high search
-value first)**
-
-| Composer | Approx. works |
-|---|---|
-| Haydn, Joseph | ~750 |
-| Mozart, Wolfgang Amadeus | ~600 |
-| Schubert, Franz | ~900 |
-| Liszt, Franz | ~700 |
-| Ravel, Maurice | ~80 |
-| Stravinsky, Igor | ~100 |
-| Prokofiev, Sergei | ~130 |
-| Shostakovich, Dmitri | ~150 |
-| Bartók, Béla | ~90 |
-| Handel, George Frideric | ~600 |
-| Vivaldi, Antonio | ~500 |
-| Strauss, Richard | ~200 |
-| Elgar, Edward | ~150 |
-| Vaughan Williams, Ralph | ~100 |
-
-**Parser improvements still outstanding**
-
-- Chamber string instruments (`violin`, `cello`, `viola` as solo/desk entries)
-  currently land in `additional_raw` — decide on a model representation for
-  chamber/solo works
-- Cyrillic work titles produce an empty ASCII slug (Rimsky-Korsakov edge case)
-  — fall back to the IMSLP page name
-- Compound tokens like `2 bassoons + 2 horns`, `N voices` ranges (`1-4 voices`)
-- `N+M` instrument notation for non-bassoon families
-
----
-
-### 3. Publisher scraping  ← start after architecture is stable
-
-In-copyright contemporary works won't appear on IMSLP. Publisher catalogues
-are the source, but each requires a different approach.
-
-**Boosey & Hawkes** (`scrape_boosey.py` already exists)
-- Detail pages are server-side rendered — the scraper already works
-- The *listing* pages are JS-rendered; enumeration needs Playwright to collect
-  `musicid` links before fetching detail pages
-- Classification group IDs already documented in `scrape_boosey.py`
-
-**Other publishers to consider**
-
-| Publisher | Notes |
-|---|---|
-| Chester Music / Music Sales | Similar catalogue structure to Boosey |
-| Universal Edition | Has a well-structured public catalogue |
-| Schott Music | Good online catalogue |
-| G. Ricordi | Italian repertoire, Puccini / Verdi etc. |
-| Edition Peters | Broad 20th-century catalogue |
+| Publisher | Wikidata property | Notes |
+|---|---|---|
+| Chester Music / Music Sales | P5101 | Similar detail-page structure |
+| Universal Edition | P5895 | Well-structured catalogue |
+| Schott Music | P5893 | Good online catalogue |
+| G. Ricordi | P5094 | Italian repertoire |
+| Edition Peters | P5892 | Broad 20th-century catalogue |
 
 **Legal / ethical notes**
-- Instrumentation facts are not copyrightable; catalogue text and descriptions
-  are — scrape only the scoring field
-- Always cache, rate-limit, and identify the crawler in User-Agent
-- Check robots.txt per publisher before scraping
-- Consider reaching out to publishers directly; some may provide data feeds
+- Instrumentation facts are not copyrightable — scrape only the scoring field
+- Always cache, rate-limit, and send a descriptive User-Agent
+- Check `robots.txt` per publisher before scraping
 
 ---
 
-## Parking lot (not yet prioritised)
+### 2. More IMSLP composers  ← run any time
 
-- **Deduplication** across sources — same work on both IMSLP and a publisher
-  catalogue needs a canonical ID (Wikidata `Q` numbers are a good anchor)
-- **Search / similarity** — "find works with the same instrumentation as
-  Mahler 5" is a natural query once there's a real DB
-- **Confidence scoring** — some IMSLP entries have thin instrumentation fields;
-  cross-referencing a second source would raise confidence
-- **Public API / hosted version** — once the data is substantial enough to be
-  useful to external tools (DAWs, library systems, music education apps)
+All public domain (died before 1954). Run with:
+`python -m instrdb.sources.scrape_imslp --composer "Name, Firstname" --out-dir data`
+
+| Composer | Died | Notes |
+|---|---|---|
+| Zemlinsky, Alexander | 1942 | IMSLP uses "Zemlinsky, Alexander von" |
+| Wolf, Hugo | 1903 | Large song catalog |
+| Spohr, Louis | 1859 | 9 symphonies, large catalog |
+| Loewe, Carl | 1869 | |
+| Martinů, Bohuslav | 1959 | Some works PD in Canada only |
+| Chabrier, Emmanuel | 1894 | España etc. |
+| Balakirev, Mily | 1910 | IMSLP: "Balakirev, Mily" |
+
+---
+
+### 3. Deduplication
+
+When a work appears in both IMSLP and a publisher catalogue, they should share
+a canonical record rather than creating duplicates.
+
+- **Anchor**: Wikidata Q number — already stored in `work_external_ids` when
+  IMSLP includes it (many do). Publisher scraping adds the catalogue ID to the
+  same record.
+- **Confidence**: a work confirmed by two sources gets `multi_source` confidence
+  in `work_provenance`; three or more gets `score_verified`.
+- **Schema**: `work_external_ids` already supports multiple source rows per work.
+  The migration needs a merge step: if a new YAML's Wikidata ID matches an
+  existing work, add a provenance row rather than inserting a duplicate.
+
+---
+
+### 4. migrate.py improvements needed
+
+- `solo_strings` dict not yet written to the DB — add a `work_solo_strings` table
+  or fold into `work_instruments` with a `is_solo=1` flag
+- `offstage` is stored as raw Python list repr (`"['carillon']"`) — should
+  serialise to JSON or a proper `work_offstage` table
+- `optional` flag on `Player` not yet propagated to `work_instruments`
+
+---
+
+## Parking lot
+
+- **Formula search** — `GET /formula/3222+4331` finds works with that exact
+  instrumentation; currently only free-text `q=` on formula string
+- **Similarity** — "find works with same instrumentation as Mahler 5"
+- **Confidence scoring UI** — surface `multi_source` vs `single_source` in
+  search results
+- **Public data dump** — nightly CSV/JSON export for external tools
