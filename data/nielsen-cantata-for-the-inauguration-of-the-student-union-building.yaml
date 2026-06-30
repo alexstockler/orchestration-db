@@ -1,0 +1,26 @@
+id: nielsen-cantata-for-the-inauguration-of-the-student-union-building
+work:
+  composer: Nielsen, Carl
+  title: Cantata for the Inauguration of the Student Union Building
+  ids:
+    imslp: Studentersamfundets Bygnings Cantata, CNW 104 (Nielsen, Carl)
+  year: 1901
+formula: 0000 2000 pf
+instrumentation:
+  horn: 2
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - baritone
+  - mens chorus (TB)
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Studentersamfundets_Bygnings_Cantata%2C_CNW_104_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, baritone, mens chorus (TB), Orchestra:
+    2 horns (F/E), 2 violins, viola, cello, piano'

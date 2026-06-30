@@ -1,0 +1,18 @@
+id: hindemith-videt-joannes-jesum
+work:
+  composer: Hindemith, Paul
+  title: Videt Joannes Jesum
+  ids:
+    imslp: Videt Joannes Jesum venientem (Hindemith, Paul)
+  year: 1959
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice (soprano or tenor)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Videt_Joannes_Jesum_venientem_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (soprano or tenor), piano'
+duration_minutes: 4

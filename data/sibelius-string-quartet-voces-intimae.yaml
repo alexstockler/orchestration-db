@@ -7,7 +7,9 @@ work:
   year: 1908
 formula: ''
 instrumentation:
-  additional_raw: 2 Violins | Viola and Cello
+  solo_strings:
+    violin: 2
+  additional_raw: Viola and Cello
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/String_Quartet_%E2%80%98Voces_intimae%E2%80%99%2C_Op.56_%28Sibelius%2C_Jean%29

@@ -1,0 +1,15 @@
+id: lalo-romance-serenade
+work:
+  composer: Lalo, Édouard
+  title: Romance-sérénade
+  ids:
+    imslp: Romance-sérénade (Lalo, Édouard)
+  year: 1879
+formula: ''
+instrumentation:
+  additional_raw: Violin and Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romance-s%C3%A9r%C3%A9nade_%28Lalo%2C_%C3%89douard%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin and Orchestra'

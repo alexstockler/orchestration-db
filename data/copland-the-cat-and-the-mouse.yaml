@@ -1,0 +1,17 @@
+id: copland-the-cat-and-the-mouse
+work:
+  composer: Copland, Aaron
+  title: The Cat and the Mouse
+  ids:
+    imslp: The Cat and the Mouse (Copland, Aaron)
+  year: 1920
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Cat_and_the_Mouse_%28Copland%2C_Aaron%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 3

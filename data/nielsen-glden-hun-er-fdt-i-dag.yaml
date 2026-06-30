@@ -1,0 +1,17 @@
+id: nielsen-glden-hun-er-fdt-i-dag
+work:
+  composer: Nielsen, Carl
+  title: Glæden hun er født i dag
+  ids:
+    imslp: Glæden hun er født i dag, CNW 169 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gl%C3%A6den_hun_er_f%C3%B8dt_i_dag%2C_CNW_169_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano or 4 voices (voices in piano score)'

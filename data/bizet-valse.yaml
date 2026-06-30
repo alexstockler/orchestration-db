@@ -1,0 +1,16 @@
+id: bizet-valse
+work:
+  composer: Bizet, Georges
+  title: Valse
+  ids:
+    imslp: Valse, WD 43 (Bizet, Georges)
+  year: 1851
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Valse%2C_WD_43_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

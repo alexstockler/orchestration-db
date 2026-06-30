@@ -1,0 +1,28 @@
+id: bartok-music-for-strings-percussion-and-celesta
+work:
+  composer: Bartók, Béla
+  title: Music for Strings, Percussion and Celesta
+  ids:
+    imslp: Music for Strings, Percussion and Celesta, Sz.106 (Bartók, Béla)
+  year: 1936
+formula: tmp cel pf hp str
+instrumentation:
+  percussion:
+    timpani: 1
+    instruments:
+    - xylophone
+    - snare drum
+    - cymbals
+    - tam-tam
+    - bass drum
+  keyboards:
+  - instrument: celesta
+  - instrument: piano
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Music_for_Strings%2C_Percussion_and_Celesta%2C_Sz.106_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: timpani, xylophone, snare drum, cymbals, tam-tam,
+    bass drum, harp, celesta, strings, piano'

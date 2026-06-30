@@ -1,0 +1,21 @@
+id: gounod-convent-mass-in-c
+work:
+  composer: Gounod, Charles
+  title: Convent Mass in C
+  ids:
+    imslp: Convent Mass in C (Gounod, Charles)
+  year: 1889
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Convent_Mass_in_C_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, organ or orchestra'

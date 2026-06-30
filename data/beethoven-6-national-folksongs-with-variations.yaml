@@ -5,11 +5,12 @@ work:
   ids:
     imslp: 6 National Airs with Variations, Op.105 (Beethoven, Ludwig van)
   year: 1818
-formula: pf
+formula: 1000 0000 pf
 instrumentation:
+  flute:
+  - optional: true
   keyboards:
   - instrument: piano
-  additional_raw: flute (or violin) ad lib.
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/6_National_Airs_with_Variations%2C_Op.105_%28Beethoven%2C_Ludwig_van%29

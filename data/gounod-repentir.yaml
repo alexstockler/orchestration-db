@@ -1,0 +1,17 @@
+id: gounod-repentir
+work:
+  composer: Gounod, Charles
+  title: Repentir
+  ids:
+    imslp: Repentir, CG 434 (Gounod, Charles)
+  year: 1893
+formula: ''
+instrumentation:
+  soloists:
+  - mezzo-soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Repentir%2C_CG_434_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: mezzo-soprano, orchestra'
+duration_minutes: 5

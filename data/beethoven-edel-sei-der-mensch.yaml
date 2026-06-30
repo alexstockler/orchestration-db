@@ -7,7 +7,8 @@ work:
   year: 1823
 formula: ''
 instrumentation:
-  additional_raw: 6 voices
+  soloists:
+  - 6 voices
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Edel_sei_der_Mensch%2C_WoO_185_%28Beethoven%2C_Ludwig_van%29

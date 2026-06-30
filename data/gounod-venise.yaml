@@ -1,0 +1,18 @@
+id: gounod-venise
+work:
+  composer: Gounod, Charles
+  title: Venise
+  ids:
+    imslp: Venise, CG 468 (Gounod, Charles)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Venise%2C_CG_468_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano 4 hands'

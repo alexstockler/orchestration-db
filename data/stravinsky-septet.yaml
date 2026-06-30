@@ -12,7 +12,10 @@ instrumentation:
   horn: 1
   keyboards:
   - instrument: piano
-  additional_raw: violin | viola | cello
+  solo_strings:
+    violin: 1
+    viola: 1
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Septet%2C_K080_%28Stravinsky%2C_Igor%29

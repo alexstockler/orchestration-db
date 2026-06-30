@@ -1,0 +1,17 @@
+id: lalo-piano-trio-no-3
+work:
+  composer: Lalo, Édouard
+  title: Piano Trio No.3
+  ids:
+    imslp: Piano Trio No.3, Op.26 (Lalo, Édouard)
+  year: 1880
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio_No.3%2C_Op.26_%28Lalo%2C_%C3%89douard%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin, Cello and Piano'

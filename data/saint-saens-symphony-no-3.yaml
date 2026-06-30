@@ -5,7 +5,7 @@ work:
   ids:
     imslp: Symphony No.3, Op.78 (Saint-Saëns, Camille)
   year: 1886
-formula: 3[1.2.3/pic] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 4331 tmp org pf pf str
+formula: 3[1.2.3/pic] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 4331 tmp org pf str
 instrumentation:
   flute:
   - {}
@@ -36,7 +36,6 @@ instrumentation:
     - bass drum
   keyboards:
   - instrument: organ
-  - instrument: piano
   - instrument: piano
   strings: str
 provenance:

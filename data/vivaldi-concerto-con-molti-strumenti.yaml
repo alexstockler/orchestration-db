@@ -8,7 +8,9 @@ work:
 formula: str
 instrumentation:
   strings: str
-  additional_raw: in trombe marina" | cello | continuo
+  solo_strings:
+    cello: 1
+  additional_raw: in trombe marina" | continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Concerto_in_C_major%2C_RV_558_%28Vivaldi%2C_Antonio%29

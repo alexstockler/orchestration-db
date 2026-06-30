@@ -1,0 +1,18 @@
+id: nielsen-the-fights-in-stefan-borg-s-house
+work:
+  composer: Nielsen, Carl
+  title: The Fights in Stefan Borg's House
+  ids:
+    imslp: Kampene i Stefan Borgs hjem, CNW 5 (Nielsen, Carl)
+  year: 1901
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kampene_i_Stefan_Borgs_hjem%2C_CNW_5_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

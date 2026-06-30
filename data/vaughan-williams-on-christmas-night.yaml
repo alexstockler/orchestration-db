@@ -1,0 +1,24 @@
+id: vaughan-williams-on-christmas-night
+work:
+  composer: Vaughan Williams, Ralph
+  title: On Christmas Night
+  ids:
+    imslp: On Christmas Night (Vaughan Williams, Ralph)
+  year: 1919
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+  additional_raw: unison voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/On_Christmas_Night_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: unison voices, piano ; mixed chorus (SATB) ; soprano, alto,
+    tenor, bass'

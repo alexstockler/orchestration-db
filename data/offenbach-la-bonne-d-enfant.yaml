@@ -1,0 +1,15 @@
+id: offenbach-la-bonne-d-enfant
+work:
+  composer: Offenbach, Jacques
+  title: La bonne d'enfant
+  ids:
+    imslp: La bonne d'enfant (Offenbach, Jacques)
+  year: 1856
+formula: ''
+instrumentation:
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_bonne_d%27enfant_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, orchestra'

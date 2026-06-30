@@ -1,0 +1,15 @@
+id: bach-der-tag-der-ist-so-freudenreich
+work:
+  composer: Bach, Johann Sebastian
+  title: Der Tag, der ist so freudenreich
+  ids:
+    imslp: Der Tag, der ist so freudenreich, BWV 294 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Tag%2C_der_ist_so_freudenreich%2C_BWV_294_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

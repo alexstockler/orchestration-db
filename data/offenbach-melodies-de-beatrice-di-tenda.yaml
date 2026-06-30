@@ -1,0 +1,16 @@
+id: offenbach-melodies-de-beatrice-di-tenda
+work:
+  composer: Offenbach, Jacques
+  title: Mélodies de Beatrice di Tenda
+  ids:
+    imslp: Mélodies de Beatrice di Tenda (Offenbach, Jacques)
+  year: 1857
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/M%C3%A9lodies_de_Beatrice_di_Tenda_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: cello'

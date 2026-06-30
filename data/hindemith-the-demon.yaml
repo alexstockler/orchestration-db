@@ -1,0 +1,28 @@
+id: hindemith-the-demon
+work:
+  composer: Hindemith, Paul
+  title: The Demon
+  ids:
+    imslp: Der Dämon, Op.28 (Hindemith, Paul)
+  year: 1922
+formula: 1010 1100 pf
+instrumentation:
+  flute: 1
+  clarinet: 1
+  horn: 1
+  trumpet: 1
+  keyboards:
+  - instrument: piano
+  soloists:
+  - bass
+  solo_strings:
+    viola: 1
+    cello: 1
+  additional_raw: violin I | violin II
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_D%C3%A4mon%2C_Op.28_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: flute (also piccolo), clarinet (B), horn (F), trumpet (B),
+    piano, violin I, violin II, viola, cello, bass (all solo parts)'
+duration_minutes: 35

@@ -1,0 +1,17 @@
+id: offenbach-meuniere-et-fermiere
+work:
+  composer: Offenbach, Jacques
+  title: Meunière et fermière
+  ids:
+    imslp: Meunière et fermière (Offenbach, Jacques)
+  year: 1846
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 2 soprano voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Meuni%C3%A8re_et_fermi%C3%A8re_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 soprano voices, piano'

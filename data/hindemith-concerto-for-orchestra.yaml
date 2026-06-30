@@ -1,0 +1,35 @@
+id: hindemith-concerto-for-orchestra
+work:
+  composer: Hindemith, Paul
+  title: Concerto for Orchestra
+  ids:
+    imslp: Concerto for Orchestra, Op.38 (Hindemith, Paul)
+  year: 1925
+formula: 2 2 3[Ebcl.2.bcl] 2 3220 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 3
+  trumpet: 2
+  trombone: 2
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: 'contrabassoon + | bass tuba | percussion (3 players: snare drum,
+    medium large drum, bass drum with cymbals, tambourine, triangle, wood block, whip
+    ) +'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_Orchestra%2C_Op.38_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: 2 flutes (both also piccolo), 2 oboes, clarinet
+    (E),, clarinet (B), bass clarinet (B), 2 bassoons, contrabassoon +, 3 horns (F),
+    2 trumpets (C), 2 trombones, bass tuba + timpani (2 drums),, percussion (3 players:
+    snare drum, medium large drum, bass drum with cymbals, tambourine, triangle, wood
+    block, whip ) +, strings'
+duration_minutes: 12

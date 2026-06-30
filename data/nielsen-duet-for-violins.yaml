@@ -1,0 +1,16 @@
+id: nielsen-duet-for-violins
+work:
+  composer: Nielsen, Carl
+  title: Duet for Violins
+  ids:
+    imslp: Violin Duet, CNW 48 (Nielsen, Carl)
+  year: 1880
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Duet%2C_CNW_48_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins'

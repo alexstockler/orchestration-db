@@ -6,7 +6,7 @@ work:
     imslp: Music at Welhavens Grave, EG 165 (Grieg, Edvard)
 formula: ''
 instrumentation:
-  additional_raw: male choir
+  chorus_raw: male choir
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Music_at_Welhavens_Grave%2C_EG_165_%28Grieg%2C_Edvard%29

@@ -1,0 +1,21 @@
+id: gounod-oh-that-we-two-were-maying
+work:
+  composer: Gounod, Charles
+  title: Oh! That We Two Were Maying
+  ids:
+    imslp: Oh! That We Two Were Maying, CG 417 (Gounod, Charles)
+  year: 1871
+formula: pf harm
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: harmonium
+  soloists:
+  - voice
+  solo_strings:
+    viola: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oh%21_That_We_Two_Were_Maying%2C_CG_417_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano; viola, harmonium (ad lib.)'

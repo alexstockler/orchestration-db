@@ -1,0 +1,16 @@
+id: offenbach-madame-l-archiduc
+work:
+  composer: Offenbach, Jacques
+  title: Madame l'archiduc
+  ids:
+    imslp: Madame l'archiduc (Offenbach, Jacques)
+  year: 1874
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Madame_l%27archiduc_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

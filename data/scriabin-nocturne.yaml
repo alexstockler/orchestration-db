@@ -1,0 +1,16 @@
+id: scriabin-nocturne
+work:
+  composer: Scriabin, Aleksandr
+  title: Nocturne
+  ids:
+    imslp: Nocturne (Scriabin, Aleksandr)
+  year: 1886
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nocturne_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

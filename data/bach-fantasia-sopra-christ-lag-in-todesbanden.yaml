@@ -1,0 +1,16 @@
+id: bach-fantasia-sopra-christ-lag-in-todesbanden
+work:
+  composer: Bach, Johann Sebastian
+  title: Fantasia sopra 'Christ lag in Todesbanden'
+  ids:
+    imslp: Fantasia sopra 'Christ lag in Todesbanden', BWV 718 (Bach, Johann Sebastian)
+  year: 1847
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_sopra_%27Christ_lag_in_Todesbanden%27%2C_BWV_718_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

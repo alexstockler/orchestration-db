@@ -1,0 +1,18 @@
+id: bach-ein-herz-das-seinen-jesum-lebend-wei
+work:
+  composer: Bach, Johann Sebastian
+  title: Ein Herz, das seinen Jesum lebend weiß
+  ids:
+    imslp: Ein Herz, das seinen Jesum lebend weiß, BWV 134 (Bach, Johann Sebastian)
+  year: 1724
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo (organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ein_Herz%2C_das_seinen_Jesum_lebend_wei%C3%9F%2C_BWV_134_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo (organ)'
+duration_minutes: 30

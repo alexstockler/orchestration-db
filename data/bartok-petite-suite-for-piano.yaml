@@ -1,0 +1,16 @@
+id: bartok-petite-suite-for-piano
+work:
+  composer: Bartók, Béla
+  title: Petite Suite for Piano
+  ids:
+    imslp: Petite suite, Sz.105 (Bartók, Béla)
+  year: 1936
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Petite_suite%2C_Sz.105_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

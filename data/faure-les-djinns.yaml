@@ -1,0 +1,16 @@
+id: faure-les-djinns
+work:
+  composer: Fauré, Gabriel
+  title: Les Djinns
+  ids:
+    imslp: Les Djinns, Op.12 (Fauré, Gabriel)
+  year: 1875
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_Djinns%2C_Op.12_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: chorus, orchestra'
+duration_minutes: 4

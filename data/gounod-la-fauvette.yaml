@@ -1,0 +1,18 @@
+id: gounod-la-fauvette
+work:
+  composer: Gounod, Charles
+  title: La fauvette
+  ids:
+    imslp: La fauvette, CG 383 (Gounod, Charles)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_fauvette%2C_CG_383_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

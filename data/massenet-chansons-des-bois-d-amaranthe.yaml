@@ -1,0 +1,18 @@
+id: massenet-chansons-des-bois-d-amaranthe
+work:
+  composer: Massenet, Jules
+  title: Chansons des bois d'amaranthe
+  ids:
+    imslp: Chansons des bois d'amaranthe (Massenet, Jules)
+  year: 1901
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chansons_des_bois_d%27amaranthe_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (SATBar), piano'

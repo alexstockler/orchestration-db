@@ -1,0 +1,18 @@
+id: mussorgsky-sorochyntsi-fair
+work:
+  composer: Mussorgsky, Modest
+  title: Sorochyntsi Fair
+  ids:
+    imslp: Sorochinsky Fair (Mussorgsky, Modest)
+  year: 1874
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sorochinsky_Fair_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'
+duration_minutes: 100

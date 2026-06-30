@@ -1,0 +1,15 @@
+id: bach-allemande
+work:
+  composer: Bach, Johann Sebastian
+  title: Allemande
+  ids:
+    imslp: Allemande in C minor, BWV 834 (Bach, Johann Sebastian)
+  year: 1894
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allemande_in_C_minor%2C_BWV_834_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

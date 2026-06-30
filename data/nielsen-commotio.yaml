@@ -1,0 +1,16 @@
+id: nielsen-commotio
+work:
+  composer: Nielsen, Carl
+  title: Commotio
+  ids:
+    imslp: Commotio, Op.58 (Nielsen, Carl)
+  year: 1931
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Commotio%2C_Op.58_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

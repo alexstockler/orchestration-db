@@ -52,7 +52,7 @@ ABBREV = {
     # additional auxiliaries seen in publisher catalogues
     "recorder": "rec", "tenor_horn": "thn", "alto_trumpet": "atpt",
     "soprano_sax": "ssx", "alto_sax": "asx", "tenor_sax": "tsx",
-    "baritone_sax": "barsx",
+    "baritone_sax": "barsx", "bass_sax": "bsx",
     "violin": "vln", "viola": "vla", "cello": "vlc", "double_bass": "db",
     # historical / rare instruments that appear in 19th-century scores
     "serpent": "serpent", "ophicleide": "ophicleide", "posthorn": "posthorn",

@@ -5,7 +5,7 @@ work:
   ids:
     imslp: Ein deutsches Requiem, Op.45 (Brahms, Johannes)
   year: 1865
-formula: 3[pic.2.3] 2 2 3[1.2.cbn] 4231 tmp org hp str
+formula: 3[pic.2.3] 2 2 3[1.2.cbn] 4231 tmp org str
 instrumentation:
   flute:
   - instrument: piccolo
@@ -17,6 +17,7 @@ instrumentation:
   - {}
   - {}
   - instrument: contrabassoon
+    optional: true
   horn: 4
   trumpet: 2
   trombone: 3
@@ -25,8 +26,8 @@ instrumentation:
     timpani: 1
   keyboards:
   - instrument: organ
-  harp: 1
   strings: str
+  additional_raw: harp (doubled ad lib.)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Ein_deutsches_Requiem%2C_Op.45_%28Brahms%2C_Johannes%29

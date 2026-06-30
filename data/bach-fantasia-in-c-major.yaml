@@ -1,0 +1,16 @@
+id: bach-fantasia-in-c-major
+work:
+  composer: Bach, Johann Sebastian
+  title: Fantasia in C major
+  ids:
+    imslp: Fantasia in C major, BWV 573 (Bach, Johann Sebastian)
+  year: 1722
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_in_C_major%2C_BWV_573_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

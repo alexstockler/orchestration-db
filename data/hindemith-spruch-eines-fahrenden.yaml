@@ -1,0 +1,16 @@
+id: hindemith-spruch-eines-fahrenden
+work:
+  composer: Hindemith, Paul
+  title: Spruch eines Fahrenden
+  ids:
+    imslp: Spruch eines Fahrenden (Hindemith, Paul)
+  year: 1928
+formula: ''
+instrumentation:
+  additional_raw: 3-part female or children's chorus (or equal voices)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Spruch_eines_Fahrenden_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: 3-part female or children''s chorus (or equal voices)'
+duration_minutes: 1

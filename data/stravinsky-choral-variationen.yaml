@@ -19,7 +19,9 @@ instrumentation:
   trumpet: 3
   trombone: 3
   harp: 1
-  additional_raw: violas | basses (also 3 solo basses)
+  solo_strings:
+    viola: 1
+  additional_raw: basses (also 3 solo basses)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Choral-Variationen%2C_K087_%28Stravinsky%2C_Igor%29

@@ -1,0 +1,17 @@
+id: offenbach-les-bavards
+work:
+  composer: Offenbach, Jacques
+  title: Les bavards
+  ids:
+    imslp: Les bavards (Offenbach, Jacques)
+  year: 1863
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_bavards_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

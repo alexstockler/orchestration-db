@@ -1,0 +1,65 @@
+id: verdi-simon-boccanegra
+work:
+  composer: Verdi, Giuseppe
+  title: Simon Boccanegra
+  ids:
+    imslp: Simon Boccanegra (Verdi, Giuseppe)
+  year: 1857
+formula: 2[pic.2] 2 3[1.2.bcl] 2 4 6 7 1[cimb] tmp hp
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 2
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 6
+  trombone: 7
+  tuba:
+  - instrument: cimbasso
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - drums
+    - bell
+  harp: 1
+  soloists:
+  - Simon Boccanegra
+  - primo doge di Genova (Baritone)
+  - Maria Boccanegra
+  - sua figlia
+  - sotto il nome di Amelia Grimaldi (Soprano)
+  - Jacopo Fiesco
+  - sotto il nome d'Andrea (Bass)
+  - Gabriele Adorno
+  - gentiluomo genovese (Tenor)
+  - Paolo Albiani
+  - cortigiano favorito del Doge (Baritone)
+  - Pietro
+  - altro cortigiano (Baritone)
+  - Un Capitano dei balestrieri (Tenor)
+  - Un'Ancella di Amelia (Mezzo-soprano) :Mixed Chorus ::Soldati
+  - Marinai
+  - Popolo
+  - Senatori
+  - Corte del Doge
+  - 'etc. :'
+  additional_raw: Strings :'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Simon_Boccanegra_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Cast ::Simon Boccanegra, primo
+    doge di Genova (Baritone), Maria Boccanegra, sua figlia, sotto il nome di Amelia
+    Grimaldi (Soprano), Jacopo Fiesco, sotto il nome d''Andrea (Bass), Gabriele Adorno,
+    gentiluomo genovese (Tenor), Paolo Albiani, cortigiano favorito del Doge (Baritone),
+    Pietro, altro cortigiano (Baritone), Un Capitano dei balestrieri (Tenor), Un''Ancella
+    di Amelia (Mezzo-soprano) :Mixed Chorus ::Soldati, Marinai, Popolo, Senatori,
+    Corte del Doge, etc. :Orchestra ::Piccolo, Flute, 2 Oboes, 2 Clarinets, Bass Clarinet,
+    2 Bassoons ::4 Horns, 2 Trumpets, 3 Trombones, Cimbasso ::Timpani, Bass Drum,
+    Strings :'' ::4 Trumpets, 4 Trombones, 2 Drums, Bell, Harp'

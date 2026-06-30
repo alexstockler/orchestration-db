@@ -7,8 +7,9 @@ work:
   year: 1890
 formula: ''
 instrumentation:
+  soloists:
+  - voices
   chorus_raw: mixed chorus
-  additional_raw: voices | orchestra
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Rodrigue_et_Chim%C3%A8ne%2C_CD_80_%28Debussy%2C_Claude%29

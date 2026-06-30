@@ -1,0 +1,19 @@
+id: glazunov-memorial-cantata
+work:
+  composer: Glazunov, Aleksandr
+  title: Memorial Cantata
+  ids:
+    imslp: Memorial Cantata, Op.65 (Glazunov, Aleksandr)
+  year: 1899
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  chorus_raw: chorus and orchestra
+  additional_raw: Mezzo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Memorial_Cantata%2C_Op.65_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: Mezzo, Tenor, Chorus and Orchestra'
+duration_minutes: 15

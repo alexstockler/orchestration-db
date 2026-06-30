@@ -1,0 +1,16 @@
+id: massenet-prelude-en-ut-majeur
+work:
+  composer: Massenet, Jules
+  title: Prélude en ut majeur
+  ids:
+    imslp: Prélude in C major (Massenet, Jules)
+  year: 1912
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pr%C3%A9lude_in_C_major_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Organ'

@@ -1,0 +1,21 @@
+id: holst-choral-hymns-from-the-rig-veda
+work:
+  composer: Holst, Gustav
+  title: Choral Hymns from the Rig Veda
+  ids:
+    imslp: Choral Hymns from the Rig Veda, Op.26 (Holst, Gustav)
+formula: ''
+instrumentation:
+  additional_raw: Group 1 | H.97 - chorus and orchestra. | Group 2 | H.98 - female
+    voices and orchestra (also arr, for piano with opt, violins) | Group 3 | H.99
+    - female voices and harp (piano) | Group 4 | H.100 - male voices and piano (also
+    arr, strings with opt brass)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Choral_Hymns_from_the_Rig_Veda%2C_Op.26_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: chorus (or voices) with various accompaniments :Group 1,
+    H.97 - chorus and orchestra., Group 2, H.98 - female voices and orchestra (also
+    arr. for piano with opt. violins), Group 3, H.99 - female voices and harp (piano),
+    Group 4, H.100 - male voices and piano (also arr. strings with opt brass)'
+duration_minutes: 40

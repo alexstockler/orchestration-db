@@ -1,0 +1,18 @@
+id: faure-c-est-la-paix
+work:
+  composer: Fauré, Gabriel
+  title: C'est la paix
+  ids:
+    imslp: C'est la paix, Op.114 (Fauré, Gabriel)
+  year: 1919
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/C%27est_la_paix%2C_Op.114_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

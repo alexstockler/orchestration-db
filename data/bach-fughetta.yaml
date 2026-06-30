@@ -1,0 +1,15 @@
+id: bach-fughetta
+work:
+  composer: Bach, Johann Sebastian
+  title: Fughetta
+  ids:
+    imslp: Fughetta in C minor, BWV 961 (Bach, Johann Sebastian)
+  year: 1712
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fughetta_in_C_minor%2C_BWV_961_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

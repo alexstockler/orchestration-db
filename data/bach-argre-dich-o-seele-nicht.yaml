@@ -1,0 +1,19 @@
+id: bach-argre-dich-o-seele-nicht
+work:
+  composer: Bach, Johann Sebastian
+  title: Ärgre dich, o Seele, nicht
+  ids:
+    imslp: Ärgre dich, o Seele, nicht, BWV 186 (Bach, Johann Sebastian)
+  year: 1723
+formula: 0201 0000 str
+instrumentation:
+  oboe: 2
+  bassoon: 1
+  strings: str
+  additional_raw: taille (English horn) | continuo (harpsichord and/or organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%84rgre_dich%2C_o_Seele%2C_nicht%2C_BWV_186_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, taille (English horn), bassoon, strings, continuo
+    (harpsichord and/or organ)'

@@ -1,0 +1,18 @@
+id: nielsen-har-i-nu-tnder-i-riven-sat-cnw-407
+work:
+  composer: Nielsen, Carl
+  title: Har I nu Tænder i Riven sat, CNW 407
+  ids:
+    imslp: Har I nu Tænder i Riven sat, CNW 407 (Nielsen, Carl)
+  year: 1926
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Har_I_nu_T%C3%A6nder_i_Riven_sat%2C_CNW_407_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

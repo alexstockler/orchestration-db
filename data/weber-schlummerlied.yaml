@@ -1,0 +1,17 @@
+id: weber-schlummerlied
+work:
+  composer: Weber, Carl Maria von
+  title: Schlummerlied
+  ids:
+    imslp: Schlummerlied, Op.68 No.4 (Weber, Carl Maria von)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Schlummerlied%2C_Op.68_No.4_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

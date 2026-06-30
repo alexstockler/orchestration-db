@@ -1,0 +1,18 @@
+id: mussorgsky-mephistopheless-song-in-auerbachs-cellar
+work:
+  composer: Mussorgsky, Modest
+  title: Mephistopheles’s Song in Auerbach’s Cellar
+  ids:
+    imslp: Mephistopheles's Song in Auerbach's Cellar (Mussorgsky, Modest)
+  year: 1879
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mephistopheles%27s_Song_in_Auerbach%27s_Cellar_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,16 @@
+id: franck-prelude-aria-et-final
+work:
+  composer: Franck, César
+  title: Prelude, Aria et Final
+  ids:
+    imslp: Prélude, aria et final (Franck, César)
+  year: 1887
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pr%C3%A9lude%2C_aria_et_final_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

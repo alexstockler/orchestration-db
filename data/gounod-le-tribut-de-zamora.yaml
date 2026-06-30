@@ -1,0 +1,18 @@
+id: gounod-le-tribut-de-zamora
+work:
+  composer: Gounod, Charles
+  title: Le tribut de Zamora
+  ids:
+    imslp: Le tribut de Zamora, CG 12 (Gounod, Charles)
+  year: 1878
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_tribut_de_Zamora%2C_CG_12_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'
+duration_minutes: 20

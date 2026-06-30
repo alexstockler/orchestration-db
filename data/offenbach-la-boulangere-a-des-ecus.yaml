@@ -1,0 +1,16 @@
+id: offenbach-la-boulangere-a-des-ecus
+work:
+  composer: Offenbach, Jacques
+  title: La boulangère a des écus
+  ids:
+    imslp: La boulangère a des écus (Offenbach, Jacques)
+  year: 1875
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_boulang%C3%A8re_a_des_%C3%A9cus_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

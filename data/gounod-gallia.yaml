@@ -1,0 +1,17 @@
+id: gounod-gallia
+work:
+  composer: Gounod, Charles
+  title: Gallia
+  ids:
+    imslp: Gallia, CG 40 (Gounod, Charles)
+  year: 1871
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gallia%2C_CG_40_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

@@ -1,0 +1,17 @@
+id: mussorgsky-salammbo
+work:
+  composer: Mussorgsky, Modest
+  title: Salammbô
+  ids:
+    imslp: Salammbô (Mussorgsky, Modest)
+  year: 1863
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Salammb%C3%B4_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

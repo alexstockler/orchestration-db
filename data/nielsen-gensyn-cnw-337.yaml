@@ -1,0 +1,18 @@
+id: nielsen-gensyn-cnw-337
+work:
+  composer: Nielsen, Carl
+  title: Gensyn, CNW 337
+  ids:
+    imslp: Gensyn, CNW 337 (Nielsen, Carl)
+  year: 1930
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gensyn%2C_CNW_337_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

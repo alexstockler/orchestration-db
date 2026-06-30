@@ -1,0 +1,18 @@
+id: lalo-six-melodies-avec-accompagnement-de-piano
+work:
+  composer: Lalo, Édouard
+  title: Six mélodies avec accompagnement de piano
+  ids:
+    imslp: 6 Mélodies, Op.17 (Lalo, Édouard)
+  year: 1856
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_M%C3%A9lodies%2C_Op.17_%28Lalo%2C_%C3%89douard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

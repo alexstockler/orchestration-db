@@ -1,0 +1,27 @@
+id: glazunov-intermezzo-romantico
+work:
+  composer: Glazunov, Aleksandr
+  title: Intermezzo romantico
+  ids:
+    imslp: Intermezzo romantico, Op.69 (Glazunov, Aleksandr)
+  year: 1900
+formula: 3222 4231 tmp str
+instrumentation:
+  flute: 3
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Intermezzo_romantico%2C_Op.69_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2
+    trumpets, 3 trombones, tuba, timpani, strings'
+duration_minutes: 11

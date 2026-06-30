@@ -1,0 +1,16 @@
+id: nielsen-melody
+work:
+  composer: Nielsen, Carl
+  title: Melody
+  ids:
+    imslp: Melodi, CNW 97 (Nielsen, Carl)
+  year: 1929
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Melodi%2C_CNW_97_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

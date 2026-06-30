@@ -1,0 +1,15 @@
+id: massenet-le-moulin
+work:
+  composer: Massenet, Jules
+  title: Le moulin
+  ids:
+    imslp: Le moulin (Massenet, Jules)
+  year: 1866
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_moulin_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

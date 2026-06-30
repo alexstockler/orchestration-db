@@ -1,0 +1,16 @@
+id: bach-fantasia-and-fugue-in-c-minor
+work:
+  composer: Bach, Johann Sebastian
+  title: Fantasia and Fugue in C minor
+  ids:
+    imslp: Fantasia and Fugue in C minor, BWV 562 (Bach, Johann Sebastian)
+  year: 1730
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_and_Fugue_in_C_minor%2C_BWV_562_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

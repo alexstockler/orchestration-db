@@ -1,0 +1,18 @@
+id: gounod-quanti-mai
+work:
+  composer: Gounod, Charles
+  title: Quanti mai
+  ids:
+    imslp: Quanti mai, CG 432 (Gounod, Charles)
+  year: 1871
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Quanti_mai%2C_CG_432_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

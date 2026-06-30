@@ -1,0 +1,16 @@
+id: massenet-valse-folle
+work:
+  composer: Massenet, Jules
+  title: Valse folle
+  ids:
+    imslp: Valse folle (Massenet, Jules)
+  year: 1898
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Valse_folle_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

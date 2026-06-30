@@ -1,0 +1,15 @@
+id: bartok-4-old-hungarian-folksongs
+work:
+  composer: Bartók, Béla
+  title: 4 Old Hungarian Folksongs
+  ids:
+    imslp: 4 Old Hungarian Folksongs, Sz.50 (Bartók, Béla)
+  year: 1910
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Old_Hungarian_Folksongs%2C_Sz.50_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

@@ -1,0 +1,18 @@
+id: faure-le-bourgeois-gentilhomme
+work:
+  composer: Fauré, Gabriel
+  title: Le Bourgeois gentilhomme
+  ids:
+    imslp: Le Bourgeois gentilhomme, N 118 (Fauré, Gabriel)
+  year: 1893
+formula: 1110 0000 str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_Bourgeois_gentilhomme%2C_N_118_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, clarinet, strings'

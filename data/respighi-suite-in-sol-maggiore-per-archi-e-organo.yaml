@@ -1,0 +1,18 @@
+id: respighi-suite-in-sol-maggiore-per-archi-e-organo
+work:
+  composer: Respighi, Ottorino
+  title: Suite in Sol Maggiore per Archi e Organo
+  ids:
+    imslp: Suite in G major, P.58 (Respighi, Ottorino)
+  year: 1905
+formula: org str
+instrumentation:
+  keyboards:
+  - instrument: organ
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_in_G_major%2C_P.58_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: organ, strings'
+duration_minutes: 23

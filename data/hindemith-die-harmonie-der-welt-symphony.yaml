@@ -1,0 +1,47 @@
+id: hindemith-die-harmonie-der-welt-symphony
+work:
+  composer: Hindemith, Paul
+  title: Die Harmonie der Welt Symphony
+  ids:
+    imslp: Die Harmonie der Welt Symphony (Hindemith, Paul)
+  year: 1951
+formula: 2[1.2/pic] 2 3[1.2.bcl] 3[1.2.cbn] 4231 tmp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - tenor drum
+    - snare drum
+    - cymbals
+    - triangle
+    - tambourine
+  strings: str
+  additional_raw: 3 to 5 Percussion players (bass drum | wooden drum | tam-tam (gong),
+    tubular bells, glockenspiel)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Harmonie_der_Welt_Symphony_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra :2 flutes (2nd also piccolo), 2 oboes, 2 clarinets
+    (B), ::bass clarinet (B), 2 bassoons, contrabassoon :4 horns (F), 2 trumpets (B),
+    3 trombones, tuba :Timpani, 3 to 5 Percussion players (bass drum, tenor drum,
+    wooden drum, snare drum, cymbals,, triangle, tambourine, tam-tam (gong), tubular
+    bells, glockenspiel), strings'
+duration_minutes: 34

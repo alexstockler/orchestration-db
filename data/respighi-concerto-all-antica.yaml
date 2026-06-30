@@ -1,0 +1,17 @@
+id: respighi-concerto-all-antica
+work:
+  composer: Respighi, Ottorino
+  title: Concerto all'antica
+  ids:
+    imslp: Concerto all'antica (Respighi, Ottorino)
+  year: 1908
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_all%27antica_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, orchestra'
+duration_minutes: 30

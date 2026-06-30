@@ -12,7 +12,10 @@ instrumentation:
   - instrument: piano
   soloists:
   - bass
-  additional_raw: 2 violins | viola | cello
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Septet%2C_Op.65_%28Saint-Sa%C3%ABns%2C_Camille%29

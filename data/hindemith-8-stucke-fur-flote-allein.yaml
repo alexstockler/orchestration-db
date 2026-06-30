@@ -1,0 +1,16 @@
+id: hindemith-8-stucke-fur-flote-allein
+work:
+  composer: Hindemith, Paul
+  title: 8 Stücke für Flöte allein
+  ids:
+    imslp: 8 Pieces for Solo Flute (Hindemith, Paul)
+  year: 1927
+formula: 1000 0000
+instrumentation:
+  flute: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Pieces_for_Solo_Flute_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Flute'
+duration_minutes: 7

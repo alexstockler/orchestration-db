@@ -7,7 +7,9 @@ work:
 formula: str
 instrumentation:
   strings: str
-  additional_raw: 2 violins | continuo
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Concerto_for_2_Violins_in_E-flat_major%2C_RV_515_%28Vivaldi%2C_Antonio%29

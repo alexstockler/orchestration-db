@@ -1,0 +1,67 @@
+id: gounod-faust
+work:
+  composer: Gounod, Charles
+  title: Faust
+  ids:
+    imslp: Faust, CG 4 (Gounod, Charles)
+  year: 1856
+formula: 3[pic.2.3] 3[1.2.Eh] 2 2 4 6[1.2.cnt.cnt.5.6] 6[1.2.3.atbn.atbn.6] 0 tmp
+  org 4hp
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  trombone:
+  - {}
+  - {}
+  - {}
+  - instrument: alto_trombone
+  - instrument: alto_trombone
+  - {}
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - snare drum
+    - bass drum
+    - cymbals
+    - tam-tam
+  keyboards:
+  - instrument: organ
+  harp: 4
+  soloists:
+  - Margarethe (soprano)
+  - Marthe (soprano)
+  - Siebel (soprano)
+  - Valentin (baritone)
+  - Brander (baritone)
+  - Mephistopheles (bass)
+  - Faust (tenor) Mixed Chorus
+  additional_raw: strings On-stage Instruments | soprano saxhorn | bass saxhorn |
+    contrabass saxhorn
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Faust%2C_CG_4_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Margarethe (soprano), Marthe (soprano), Siebel (soprano),
+    Valentin (baritone), Brander (baritone), Mephistopheles (bass), Faust (tenor)
+    Mixed Chorus, Orchestra :piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets,
+    2 bassoons,, 4 horns, 2 trumpets, 3 trombones, timpani, triangle, snare drum,
+    bass drum, cymbals, tam-tam, 4 harps, organ, strings On-stage Instruments :soprano
+    saxhorn, 2 cornets, 2 trumpets, 2 alto trombones, tenor trombone, bass saxhorn,
+    contrabass saxhorn'

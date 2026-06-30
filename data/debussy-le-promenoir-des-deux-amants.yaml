@@ -9,7 +9,8 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: voice
+  soloists:
+  - voice
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Le_promenoir_des_deux_amants%2C_CD_129_%28Debussy%2C_Claude%29

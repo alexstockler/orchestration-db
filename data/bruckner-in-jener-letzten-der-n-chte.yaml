@@ -9,7 +9,8 @@ formula: org
 instrumentation:
   keyboards:
   - instrument: organ
-  additional_raw: voice
+  soloists:
+  - voice
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/In_jener_letzten_der_N%C3%A4chte%2C_WAB_17_%28Bruckner%2C_Anton%29

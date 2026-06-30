@@ -1,0 +1,15 @@
+id: gounod-la-reine-du-matin
+work:
+  composer: Gounod, Charles
+  title: La reine du matin
+  ids:
+    imslp: La reine du matin, CG 7c (Gounod, Charles)
+  year: 1853
+formula: ''
+instrumentation:
+  additional_raw: 4 equal voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_reine_du_matin%2C_CG_7c_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 equal voices'

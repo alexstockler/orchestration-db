@@ -9,7 +9,8 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: cello
+  solo_strings:
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Cello_Sonata_No.2%2C_Op.58_%28Mendelssohn%2C_Felix%29

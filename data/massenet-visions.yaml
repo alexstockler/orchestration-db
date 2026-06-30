@@ -1,0 +1,38 @@
+id: massenet-visions
+work:
+  composer: Massenet, Jules
+  title: Visions
+  ids:
+    imslp: Visions (Massenet, Jules)
+  year: 1891
+formula: 3[1.2.pic] 2 0 2 0031 tmp harm hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - instrument: piccolo
+  oboe: 2
+  bassoon: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 3
+    instruments:
+    - bass drum
+    - cymbals
+    - triangle
+    - tam-tam
+  keyboards:
+  - instrument: harmonium
+  harp: 1
+  strings: str
+  additional_raw: 'english hn. | 2 clarinets in A | bass cl. | sarrusophone (or contrabassoon)
+    | 4 horns in F | 3 trumpets in C | Offstage: soprano voice | solo violin | electrophone'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Visions_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra:, 2 flutes, piccolo, 2 oboes, english hn., 2
+    clarinets in A, bass cl., 2 bassoons, sarrusophone (or contrabassoon), 4 horns
+    in F, 3 trumpets in C, 3 trombones, tuba, 3 timpani, bass drum, cymbals, triangle,
+    tam-tam, strings, Offstage: soprano voice, solo violin, harp, harmonium, electrophone'

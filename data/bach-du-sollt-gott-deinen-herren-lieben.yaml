@@ -1,0 +1,18 @@
+id: bach-du-sollt-gott-deinen-herren-lieben
+work:
+  composer: Bach, Johann Sebastian
+  title: Du sollt Gott, deinen Herren, lieben
+  ids:
+    imslp: Du sollt Gott, deinen Herren, lieben, BWV 77 (Bach, Johann Sebastian)
+  year: 1723
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: trumpet [da tirarsi] | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Du_sollt_Gott%2C_deinen_Herren%2C_lieben%2C_BWV_77_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, trumpet [da tirarsi], strings, continuo'
+duration_minutes: 17

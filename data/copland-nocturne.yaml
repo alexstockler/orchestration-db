@@ -1,0 +1,19 @@
+id: copland-nocturne
+work:
+  composer: Copland, Aaron
+  title: Nocturne
+  ids:
+    imslp: Nocturne (Copland, Aaron)
+  year: 1926
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nocturne_%28Copland%2C_Aaron%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 5

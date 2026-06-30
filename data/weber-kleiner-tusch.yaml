@@ -1,0 +1,15 @@
+id: weber-kleiner-tusch
+work:
+  composer: Weber, Carl Maria von
+  title: Kleiner Tusch
+  ids:
+    imslp: Kleiner Tusch, J.47a (Weber, Carl Maria von)
+  year: 1806
+formula: 0000 0 20[1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20] 0 0
+instrumentation:
+  trumpet: 20
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kleiner_Tusch%2C_J.47a_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: 20 trumpets'

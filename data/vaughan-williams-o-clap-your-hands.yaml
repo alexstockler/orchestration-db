@@ -1,0 +1,30 @@
+id: vaughan-williams-o-clap-your-hands
+work:
+  composer: Vaughan Williams, Ralph
+  title: O Clap Your Hands
+  ids:
+    imslp: O Clap Your Hands (Vaughan Williams, Ralph)
+  year: 1920
+formula: 0000 0131 tmp org org
+instrumentation:
+  trumpet: 1
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+  keyboards:
+  - instrument: organ
+  - instrument: organ
+  chorus_raw: mixed chorus
+  additional_raw: alternate version 1 | alternate version 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_Clap_Your_Hands_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), piccolo, 2 flutes, 2 oboes, 2 clarinets,
+    2 bassoons, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, cymbals, strings
+    :alternate version 1: mixed chorus (SATB), trumpets, 3 trombones, tuba, timpani,
+    cymbals, organ :alternate version 2: mixed chorus (SATB), organ'
+duration_minutes: 3

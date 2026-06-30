@@ -1,0 +1,17 @@
+id: weber-der-erste-ton
+work:
+  composer: Weber, Carl Maria von
+  title: Der Erste Ton
+  ids:
+    imslp: Der Erste Ton, J.58 (Weber, Carl Maria von)
+  year: 1808
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Erste_Ton%2C_J.58_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (spoken), mixed chorus (SATB), orchestra'

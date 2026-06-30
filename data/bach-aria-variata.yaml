@@ -1,0 +1,16 @@
+id: bach-aria-variata
+work:
+  composer: Bach, Johann Sebastian
+  title: Aria variata
+  ids:
+    imslp: Aria variata in A minor, BWV 989 (Bach, Johann Sebastian)
+  year: 1714
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aria_variata_in_A_minor%2C_BWV_989_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'
+duration_minutes: 20

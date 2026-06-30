@@ -1,0 +1,16 @@
+id: glazunov-suite-on-the-name-sascha
+work:
+  composer: Glazunov, Aleksandr
+  title: Suite on the Name 'Sascha'
+  ids:
+    imslp: Suite on the Name 'Sascha', Op.2 (Glazunov, Aleksandr)
+  year: 1883
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_on_the_Name_%27Sascha%27%2C_Op.2_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

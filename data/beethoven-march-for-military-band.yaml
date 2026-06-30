@@ -5,13 +5,18 @@ work:
   ids:
     imslp: March for Military Band, WoO 24 (Beethoven, Ludwig van)
   year: 1816
-formula: 2[pic.pic] 2 4 3[1.2.cbn] 6820
+formula: 2[pic.pic] 2 5[Ebcl.2.3.4.5] 3[1.2.cbn] 6820 serpent
 instrumentation:
   flute:
   - instrument: piccolo
   - instrument: piccolo
   oboe: 2
-  clarinet: 4
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - {}
+  - {}
   bassoon:
   - {}
   - {}
@@ -25,7 +30,8 @@ instrumentation:
     - cymbals
     - snare drum
     - bass drum
-  additional_raw: piccolo clarinet | serpent
+  extras:
+  - instrument: serpent
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/March_for_Military_Band%2C_WoO_24_%28Beethoven%2C_Ludwig_van%29

@@ -1,0 +1,56 @@
+id: vaughan-williams-job
+work:
+  composer: Vaughan Williams, Ralph
+  title: Job
+  ids:
+    imslp: Job (Vaughan Williams, Ralph)
+  year: 1927
+formula: 3[1.2.3/pic] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 4331 tmp org 2hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - snare drum
+    - cymbals
+    - bass drum
+    - xylophone
+    - glockenspiel
+    - tam-tam
+  keyboards:
+  - instrument: organ
+  harp: 2
+  strings: str
+  saxophones:
+  - instrument: alto_sax
+    count: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Job_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo, alto flute), 2 oboes, English
+    horn, 2 clarinets, bass clarinet (also 3rd clarinet), 2 bassoons, contrabassoon,
+    alto saxophone, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, triangle, snare
+    drum, cymbals, bass drum, xylophone, glockenspiel, tam-tam, 2 harps, organ, strings'
+duration_minutes: 46

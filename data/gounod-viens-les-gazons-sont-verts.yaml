@@ -1,0 +1,18 @@
+id: gounod-viens-les-gazons-sont-verts
+work:
+  composer: Gounod, Charles
+  title: Viens, les gazons sont verts
+  ids:
+    imslp: Viens, les gazons sont verts, CG 390a (Gounod, Charles)
+  year: 1875
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Viens%2C_les_gazons_sont_verts%2C_CG_390a_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

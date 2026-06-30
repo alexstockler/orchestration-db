@@ -1,0 +1,19 @@
+id: nielsen-studie-efter-naturen
+work:
+  composer: Nielsen, Carl
+  title: Studie efter Naturen
+  ids:
+    imslp: Studie efter Naturen, CNW 303 (Nielsen, Carl)
+  year: 1916
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Studie_efter_Naturen%2C_CNW_303_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 2

@@ -1,25 +1,24 @@
 id: mozart-symphony-40-k550
 work:
-  composer: "Mozart, Wolfgang Amadeus"
-  title: "Symphony No. 40 in G minor"
-  catalog: "K. 550"
+  composer: Mozart, Wolfgang Amadeus
+  title: Symphony No. 40 in G minor
+  catalog: K. 550
   year: 1788
-  movements: ["Molto allegro", "Andante", "Menuetto: Allegretto", "Allegro assai"]
+  movements:
+  - Molto allegro
+  - Andante
+  - 'Menuetto: Allegretto'
+  - Allegro assai
   ids:
-    wikidata: null   # TODO: link QID
+    wikidata: null
     imslp: null
 version:
-  label: "Revised version with clarinets"
-formula: "1222 2000 str"
+  label: Revised version with clarinets
+formula: ''
 duration_minutes: 33
 instrumentation:
-  flute: 1
-  oboe: 2
-  clarinet: 2
-  bassoon: 2
-  horn: 2
-  strings: str
+  additional_raw: Second (revised) version adds 2 clarinets | oboe parts reduced accordingly.
 provenance:
   source: score
   confidence: score_verified
-  notes: "Second (revised) version adds 2 clarinets; oboe parts reduced accordingly."
+  notes: Second (revised) version adds 2 clarinets; oboe parts reduced accordingly.

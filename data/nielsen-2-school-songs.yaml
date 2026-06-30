@@ -1,0 +1,15 @@
+id: nielsen-2-school-songs
+work:
+  composer: Nielsen, Carl
+  title: 2 School Songs
+  ids:
+    imslp: 2 School Songs, FS 138 (Nielsen, Carl)
+  year: 1929
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_School_Songs%2C_FS_138_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

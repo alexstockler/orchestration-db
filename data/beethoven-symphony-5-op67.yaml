@@ -1,33 +1,25 @@
 id: beethoven-symphony-5-op67
 work:
-  composer: "Beethoven, Ludwig van"
-  title: "Symphony No. 5 in C minor"
-  catalog: "Op. 67"
+  composer: Beethoven, Ludwig van
+  title: Symphony No. 5 in C minor
+  catalog: Op. 67
   year: 1808
   ids:
     wikidata: null
     imslp: null
-formula: "2[1.2/pic] 2 2 3[1.2.cbn] 2230 tmp str"
+formula: 1[pic] 0 0 0 0000
 duration_minutes: 33
 instrumentation:
   flute:
-    - {}
-    - {doublings: [piccolo]}
-  oboe: 2
-  clarinet: 2
-  bassoon:
-    - {}
-    - {}
-    - {instrument: contrabassoon}
-  horn: 2
-  trumpet: 2
-  trombone: 3
-  percussion: {timpani: 1}
-  strings: str
+  - instrument: piccolo
+  additional_raw: contrabassoon and 3 trombones appear in the finale only | Piccolo
+    modelled here as doubled by the 2nd flute | some editions treat it as a separate
+    chair | Verify desired convention before mass import.
 provenance:
   source: score
   confidence: single_source
-  notes: >
-    Piccolo, contrabassoon and 3 trombones appear in the finale only. Piccolo
-    modelled here as doubled by the 2nd flute; some editions treat it as a
-    separate chair. Verify desired convention before mass import.
+  notes: 'Piccolo, contrabassoon and 3 trombones appear in the finale only. Piccolo
+    modelled here as doubled by the 2nd flute; some editions treat it as a separate
+    chair. Verify desired convention before mass import.
+
+    '

@@ -1,0 +1,17 @@
+id: bach-die-bitt-re-leidenszeit-beginnet-abermal
+work:
+  composer: Bach, Johann Sebastian
+  title: Die bitt're Leidenszeit beginnet abermal
+  ids:
+    imslp: Die bittre Leidenszeit beginnet abermal, BWV 450 (Bach, Johann Sebastian)
+  year: 1735
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_bittre_Leidenszeit_beginnet_abermal%2C_BWV_450_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

@@ -1,0 +1,61 @@
+id: respighi-i-pini-di-roma
+work:
+  composer: Respighi, Ottorino
+  title: I Pini di Roma
+  ids:
+    imslp: Pini di Roma (Respighi, Ottorino)
+  year: 1924
+formula: 3[1.2.3/pic] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 4 4 3 1[cimb] tmp org pf cel
+  hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 4
+  trombone: 3
+  tuba:
+  - instrument: cimbasso
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - snare drum
+    - cymbals
+    - tam-tam
+    - triangle
+    - ratchet
+    - tambourine
+    - glockenspiel
+  keyboards:
+  - instrument: organ
+  - instrument: piano
+  - instrument: celesta
+  harp: 1
+  strings: str
+  additional_raw: 2 small cymbals | gramophone | 6 buccine | (2 sopranos, 2 tenors,
+    2 basses; usually played on 2 cornets, 2 flugelhorns, 2 euphoniums)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pini_di_Roma_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: :3 flutes (3rd also piccolo), 2 oboes, English horn, 2
+    clarinets, ::bass clarinet, 2 bassoons, contrabassoon :4 horns, 3 trumpets, 3
+    trombones, cimbasso (tuba), timpani, bass drum, snare drum, cymbals, 2 small cymbals,,
+    tam-tam, triangle, ratchet, tambourine, glockenspiel, organ, piano, celesta, gramophone,
+    harp, strings '' :trumpet (tromba interna), 6 buccine, (2 sopranos, 2 tenors,
+    2 basses; usually played on 2 cornets, 2 flugelhorns, 2 euphoniums)'

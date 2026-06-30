@@ -1,0 +1,15 @@
+id: nielsen-du-gav-os-de-blomster-som-lyste-imod-os
+work:
+  composer: Nielsen, Carl
+  title: Du gav os de Blomster, som lyste imod os
+  ids:
+    imslp: Du gav os de Blomster, som lyste imod os, CNW 379 (Nielsen, Carl)
+  year: 1924
+formula: ''
+instrumentation:
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Du_gav_os_de_Blomster%2C_som_lyste_imod_os%2C_CNW_379_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SSA)'

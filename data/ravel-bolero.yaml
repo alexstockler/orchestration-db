@@ -5,8 +5,8 @@ work:
   ids:
     imslp: Boléro, M.81 (Ravel, Maurice)
   year: 1928
-formula: 3[pic.2.3] 3[1.2/obda.Eh] 4[Ebcl.2.3.bcl] 2 4 4[pictpt.2.3.4] 3 1 tmp cel
-  hp
+formula: 3[pic.2.3] 3[1.2/obda.Eh] 4[Ebcl.2.3.bcl] 2 4 4[pictpt.2.3.4] 3 1 tmp+1 cel
+  hp str
 instrumentation:
   flute:
   - instrument: piccolo
@@ -33,6 +33,7 @@ instrumentation:
   tuba: 1
   percussion:
     timpani: 1
+    players: 1
     instruments:
     - bass drum
     - cymbals
@@ -40,16 +41,16 @@ instrumentation:
   keyboards:
   - instrument: celesta
   harp: 1
+  strings: str
   saxophones:
   - instrument: soprano_sax
     count: 1
-  additional_raw: 'contrabassoon sopranino saxophone | percussion* (4 players) | strings
-    *Further comments: # The E-flat clarinet part can be done by one of the clarinets
-    | i.e | only 3 players are needed. # Percussion: 2 snare drums | Although not
-    listed at the front of the score | the last 6 bars of the work show a line for
-    Gr.C. (Grosse Caisse = bass drum.) # The saxophone parts are usually played by
-    two players: the first playing the sopranino and soprano passages with a soprano
-    saxophone and the second playing only the tenor saxophone.'
+  additional_raw: 'contrabassoon sopranino saxophone | i.e | only 3 players are needed.
+    # Percussion: 2 snare drums | Although not listed at the front of the score |
+    the last 6 bars of the work show a line for Gr.C. (Grosse Caisse = bass drum.)
+    # The saxophone parts are usually played by two players: the first playing the
+    sopranino and soprano passages with a soprano saxophone and the second playing
+    only the tenor saxophone.'
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Bol%C3%A9ro%2C_M.81_%28Ravel%2C_Maurice%29

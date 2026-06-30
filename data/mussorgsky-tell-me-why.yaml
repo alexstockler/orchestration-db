@@ -1,0 +1,19 @@
+id: mussorgsky-tell-me-why
+work:
+  composer: Mussorgsky, Modest
+  title: Tell Me Why
+  ids:
+    imslp: Tell Me Why (Mussorgsky, Modest)
+  year: 1858
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tell_Me_Why_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'
+duration_minutes: 5

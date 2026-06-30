@@ -1,0 +1,19 @@
+id: mussorgsky-blow-winds-wild-winds
+work:
+  composer: Mussorgsky, Modest
+  title: Blow Winds, Wild Winds
+  ids:
+    imslp: Blow Winds, Wild Winds (Mussorgsky, Modest)
+  year: 1864
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Blow_Winds%2C_Wild_Winds_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'
+duration_minutes: 5

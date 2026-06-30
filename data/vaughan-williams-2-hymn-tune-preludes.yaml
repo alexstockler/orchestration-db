@@ -1,0 +1,21 @@
+id: vaughan-williams-2-hymn-tune-preludes
+work:
+  composer: Vaughan Williams, Ralph
+  title: 2 Hymn-Tune Preludes
+  ids:
+    imslp: 2 Hymn-Tune Preludes (Vaughan Williams, Ralph)
+  year: 1936
+formula: 1111 1000 str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Hymn-Tune_Preludes_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, clarinet, bassoon, horn, strings'
+duration_minutes: 8

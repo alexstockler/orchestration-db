@@ -1,0 +1,17 @@
+id: nielsen-som-den-gyldne-sol-frembryder
+work:
+  composer: Nielsen, Carl
+  title: Som den gyldne Sol frembryder
+  ids:
+    imslp: Som den gyldne Sol frembryder, CNW 195 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Som_den_gyldne_Sol_frembryder%2C_CNW_195_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

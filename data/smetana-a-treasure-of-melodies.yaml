@@ -1,0 +1,16 @@
+id: smetana-a-treasure-of-melodies
+work:
+  composer: Smetana, Bedřich
+  title: A Treasure of Melodies
+  ids:
+    imslp: Poklad melodií, JB 1:49 (Smetana, Bedřich)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Poklad_melodi%C3%AD%2C_JB_1%3A49_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: 1 piano'

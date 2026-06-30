@@ -6,7 +6,10 @@ work:
     imslp: String Quartet No.1, Op.50 (Prokofiev, Sergey)
 formula: ''
 instrumentation:
-  additional_raw: 2 violins | viola | cello
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/String_Quartet_No.1%2C_Op.50_%28Prokofiev%2C_Sergey%29

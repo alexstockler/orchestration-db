@@ -9,7 +9,8 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: voice
+  soloists:
+  - voice
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/We_Have_Not_Far_to_Walk%2C_TH_100/2_%28Tchaikovsky%2C_Pyotr%29

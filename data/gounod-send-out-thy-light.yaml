@@ -1,0 +1,15 @@
+id: gounod-send-out-thy-light
+work:
+  composer: Gounod, Charles
+  title: Send out thy light
+  ids:
+    imslp: Send out thy light, CG 197a (Gounod, Charles)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Send_out_thy_light%2C_CG_197a_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), keyboard'

@@ -5,10 +5,13 @@ work:
   ids:
     imslp: Piano Trio in F major, Hob.XV:2 (Haydn, Joseph)
   year: 1769
-formula: ''
+formula: hpd
 instrumentation:
-  additional_raw: violin | cello | harpsichord or piano (see discussion, Comments,
-    for sources)
+  keyboards:
+  - instrument: harpsichord
+  solo_strings:
+    violin: 1
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Piano_Trio_in_F_major%2C_Hob.XV%3A2_%28Haydn%2C_Joseph%29

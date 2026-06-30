@@ -1,0 +1,15 @@
+id: bach-duetto-no-3-in-g-major
+work:
+  composer: Bach, Johann Sebastian
+  title: Duetto No.3 in G major
+  ids:
+    imslp: Duetto No.3 in G major, BWV 804 (Bach, Johann Sebastian)
+  year: 1739
+formula: ''
+instrumentation:
+  additional_raw: keyboard (organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Duetto_No.3_in_G_major%2C_BWV_804_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard (organ)'

@@ -1,0 +1,18 @@
+id: nielsen-hjemlige-jul-straaler-du-nu
+work:
+  composer: Nielsen, Carl
+  title: Hjemlige Jul, straaler Du nu!
+  ids:
+    imslp: Hjemlige Jul, straaler Du nu!, CNW 314 (Nielsen, Carl)
+  year: 1923
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hjemlige_Jul%2C_straaler_Du_nu%21%2C_CNW_314_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -9,7 +9,8 @@ formula: 1000 0000 hp
 instrumentation:
   flute: 1
   harp: 1
-  additional_raw: viola
+  solo_strings:
+    viola: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Sonata_for_Flute%2C_Viola_and_Harp%2C_CD_145_%28Debussy%2C_Claude%29

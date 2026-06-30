@@ -1,0 +1,31 @@
+id: berlioz-chant-sacre
+work:
+  composer: Berlioz, Hector
+  title: Chant sacré
+  ids:
+    imslp: Chant sacré, H 44 (Berlioz, Hector)
+  year: 1829
+formula: 2 2 4[1.2.bcl.bcl] 2 4030 tmp+1
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trombone: 3
+  percussion:
+    timpani: 1
+    players: 1
+  additional_raw: strings 6 solo wind instruments
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chant_sacr%C3%A9%2C_H_44_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SSTTBB), piano, mixed chorus (SSTTBB), orchestra
+    :2 flutes, 2 oboes, 2 clarinets, 2 bass clarinets, 2 bassoons, 4 horns, 3 trombones,
+    timpani, percussion, strings 6 solo wind instruments, orchestra (lost)'
+duration_minutes: 5

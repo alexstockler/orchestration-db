@@ -1,0 +1,16 @@
+id: nielsen-har-nogen-lyst-at-kende
+work:
+  composer: Nielsen, Carl
+  title: Har nogen Lyst at kende
+  ids:
+    imslp: Har nogen Lyst at kende, CNW 174 (Nielsen, Carl)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: piano / 4 voices (voices in piano score)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Har_nogen_Lyst_at_kende%2C_CNW_174_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano / 4 voices (voices in piano score)'

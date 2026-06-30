@@ -1,0 +1,16 @@
+id: mussorgsky-intermezzo-in-modo-classico
+work:
+  composer: Mussorgsky, Modest
+  title: Intermezzo in Modo Classico
+  ids:
+    imslp: Intermezzo in modo classico (Mussorgsky, Modest)
+  year: 1860
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Intermezzo_in_modo_classico_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

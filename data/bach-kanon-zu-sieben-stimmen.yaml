@@ -1,0 +1,15 @@
+id: bach-kanon-zu-sieben-stimmen
+work:
+  composer: Bach, Johann Sebastian
+  title: Kanon zu sieben Stimmen
+  ids:
+    imslp: Canon in F major, BWV 1078 (Bach, Johann Sebastian)
+  year: 1749
+formula: ''
+instrumentation:
+  additional_raw: 7 instruments | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canon_in_F_major%2C_BWV_1078_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 7 instruments, continuo'

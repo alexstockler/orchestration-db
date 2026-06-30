@@ -1,0 +1,18 @@
+id: gounod-l-ame-de-la-morte
+work:
+  composer: Gounod, Charles
+  title: L'âme de la morte
+  ids:
+    imslp: L'âme de la morte, CG 398a (Gounod, Charles)
+  year: 1860
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27%C3%A2me_de_la_morte%2C_CG_398a_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

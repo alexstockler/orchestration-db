@@ -1,0 +1,16 @@
+id: scriabin-2-nocturnes
+work:
+  composer: Scriabin, Aleksandr
+  title: 2 Nocturnes
+  ids:
+    imslp: 2 Nocturnes, Op.5 (Scriabin, Aleksandr)
+  year: 1890
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Nocturnes%2C_Op.5_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

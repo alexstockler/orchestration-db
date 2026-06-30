@@ -1,0 +1,32 @@
+id: hindemith-amor-and-psyche
+work:
+  composer: Hindemith, Paul
+  title: Amor and Psyche
+  ids:
+    imslp: Amor and Psyche (Hindemith, Paul)
+  year: 1943
+formula: 2[pic.2] 2 2 2 2220 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - glockenspiel
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Amor_and_Psyche_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, flute, 2 oboes, 2 clarinets, 2 bassoons, 2 horns,
+    2 trumpets, 2 trombones, timpani, triangle, cymbals, glockenspiel, strings'
+duration_minutes: 7

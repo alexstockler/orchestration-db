@@ -1,0 +1,17 @@
+id: verdi-jerusalem
+work:
+  composer: Verdi, Giuseppe
+  title: Jérusalem
+  ids:
+    imslp: Jérusalem (Verdi, Giuseppe)
+  year: 1847
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/J%C3%A9rusalem_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

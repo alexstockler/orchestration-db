@@ -1,0 +1,15 @@
+id: bach-dich-loben-die-lieblichen-strahlen-der-sonne
+work:
+  composer: Bach, Johann Sebastian
+  title: Dich loben die lieblichen Strahlen der Sonne
+  ids:
+    imslp: Dich loben die lieblichen Strahlen der Sonne, BWV Anh.6 (Bach, Johann Sebastian)
+  year: 1719
+formula: ''
+instrumentation:
+  additional_raw: unknown
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dich_loben_die_lieblichen_Strahlen_der_Sonne%2C_BWV_Anh.6_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: unknown'

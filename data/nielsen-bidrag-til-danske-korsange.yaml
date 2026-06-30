@@ -1,0 +1,15 @@
+id: nielsen-bidrag-til-danske-korsange
+work:
+  composer: Nielsen, Carl
+  title: Bidrag til 'Danske Korsange'
+  ids:
+    imslp: Pieces for 'Danske Korsange', FS 54 (Nielsen, Carl)
+  year: 1913
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pieces_for_%27Danske_Korsange%27%2C_FS_54_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

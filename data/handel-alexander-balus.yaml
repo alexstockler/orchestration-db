@@ -31,8 +31,10 @@ instrumentation:
   - Another Messenger (bass) Mixed Chorus (SATB) :Israelites
   - Asiates
   - Ruffians
-  additional_raw: 2 recorders | [bassoon] | strings (3 violins | viola | continuo
-    (harpsichord and/or organ))
+  solo_strings:
+    viola: 1
+  additional_raw: 2 recorders | [bassoon] | strings (3 violins | continuo (harpsichord
+    and/or organ))
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Alexander_Balus%2C_HWV_65_%28Handel%2C_George_Frideric%29

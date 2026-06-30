@@ -1,0 +1,16 @@
+id: janacek-in-the-mists
+work:
+  composer: Janáček, Leoš
+  title: In the Mists
+  ids:
+    imslp: V mlhách (Janáček, Leoš)
+  year: 1913
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/V_mlh%C3%A1ch_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

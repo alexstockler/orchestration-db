@@ -1,0 +1,96 @@
+id: puccini-tosca
+work:
+  composer: Puccini, Giacomo
+  title: Tosca
+  ids:
+    imslp: Tosca, SC 69 (Puccini, Giacomo)
+  year: 1895
+formula: 4[1.2/pic.3/pic.4] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 8 3 7[1.2.3.btbn.5.6.7]
+  0 tmp+1 cel org 2hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  - doublings:
+    - piccolo
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 8
+  trumpet: 3
+  trombone:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_trombone
+  - {}
+  - {}
+  - {}
+  percussion:
+    timpani: 1
+    players: 1
+    instruments:
+    - bass drum
+    - triangle
+    - cymbals
+    - tam-tam
+    - bells
+    - drums
+    - rifles
+    - cannon
+  keyboards:
+  - instrument: celesta
+  - instrument: organ
+  harp: 2
+  strings: str
+  soloists:
+  - Floria Tosca
+  - nota cantante (soprano)
+  - Mario Cavaradossi
+  - pittore (tenor)
+  - Il barone Scarpia
+  - capo della polizia (baritone)
+  - Cesare Angelotti
+  - prigioniero politico evaso (basso)
+  - Il Sagrestano (basso)
+  - Spoletta
+  - un agente di polizia (tenor)
+  - Sciarrone
+  - un altro agente (basso)
+  - Un carceriere (basso)
+  - 'Un pastore (speaking) Mixed Chorus : Soldati'
+  - Birri
+  - Dame
+  - Nobili
+  - Borghesi
+  - Popolo
+  solo_strings:
+    viola: 1
+  additional_raw: small bells (campanelli)
+  offstage:
+  - carillon
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tosca%2C_SC_69_%28Puccini%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Floria Tosca, nota cantante (soprano), Mario Cavaradossi,
+    pittore (tenor), Il barone Scarpia, capo della polizia (baritone), Cesare Angelotti,
+    prigioniero politico evaso (basso), Il Sagrestano (basso), Spoletta, un agente
+    di polizia (tenor), Sciarrone, un altro agente (basso), Un carceriere (basso),
+    Un pastore (speaking) Mixed Chorus : Soldati, Birri, Dame, Nobili, Borghesi, Popolo
+    Orchestra :3 flutes (2nd and 3rd also piccolo), 2 oboes, English horn, ::2 clarinets,
+    bass clarinet, 2 bassoons, contrabassoon :4 horns, 3 trumpets, 3 trombones, bass
+    trombone, timpani, percussion, celesta, harp, strings :: bass drum, triangle,
+    cymbals, tam-tam, small bells (campanelli), carillon Offstage :flute, viola, harp,
+    4 horns, 3 trombones, bells, organ, 2 drums, rifles, cannon'

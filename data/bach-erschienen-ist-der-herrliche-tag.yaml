@@ -1,0 +1,16 @@
+id: bach-erschienen-ist-der-herrliche-tag
+work:
+  composer: Bach, Johann Sebastian
+  title: Erschienen ist der herrliche Tag
+  ids:
+    imslp: Erschienen ist der herrliche Tag, BWV 629 (Bach, Johann Sebastian)
+  year: 1716
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erschienen_ist_der_herrliche_Tag%2C_BWV_629_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

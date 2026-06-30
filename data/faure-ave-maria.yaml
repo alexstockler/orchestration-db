@@ -1,0 +1,17 @@
+id: faure-ave-maria
+work:
+  composer: Fauré, Gabriel
+  title: Ave Maria
+  ids:
+    imslp: Ave Maria, Op.93 (Fauré, Gabriel)
+  year: 1906
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  additional_raw: organ/piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_Maria%2C_Op.93_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, organ/piano'

@@ -1,0 +1,15 @@
+id: gounod-pastorale-pour-piano
+work:
+  composer: Gounod, Charles
+  title: Pastorale pour piano
+  ids:
+    imslp: Pastorale, CG 192d (Gounod, Charles)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pastorale%2C_CG_192d_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

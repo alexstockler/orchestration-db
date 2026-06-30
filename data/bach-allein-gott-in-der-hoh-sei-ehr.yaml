@@ -1,0 +1,15 @@
+id: bach-allein-gott-in-der-hoh-sei-ehr
+work:
+  composer: Bach, Johann Sebastian
+  title: Allein Gott in der Höh sei Ehr
+  ids:
+    imslp: Allein Gott in der Höh sei Ehr, BWV Anh.48 (Bach, Johann Sebastian)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allein_Gott_in_der_H%C3%B6h_sei_Ehr%2C_BWV_Anh.48_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

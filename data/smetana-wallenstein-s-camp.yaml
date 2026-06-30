@@ -1,0 +1,36 @@
+id: smetana-wallenstein-s-camp
+work:
+  composer: Smetana, Bedřich
+  title: Wallenstein's Camp
+  ids:
+    imslp: Wallensteins Lager, Op.14 (Smetana, Bedřich)
+  year: 1858
+formula: 3[pic.2.3] 2 2 2 4231 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - bass drum
+    - snare drum
+    - triangle
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Wallensteins_Lager%2C_Op.14_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: piccolo, 2 flutes, 2 oboes, 2 clarinets (A),
+    2 bassoons + 4 horns (2 in D, 2 in F), 2 trumpets (D), 3 trombones, tuba + timpani,
+    cymbals, bass drum, snare drum, triangle + strings'
+duration_minutes: 15

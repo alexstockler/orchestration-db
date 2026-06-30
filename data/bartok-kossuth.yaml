@@ -1,0 +1,61 @@
+id: bartok-kossuth
+work:
+  composer: Bartók, Béla
+  title: Kossuth
+  ids:
+    imslp: Kossuth, Sz.21 (Bartók, Béla)
+  year: 1903
+formula: 4[pic/pic.2.3.4] 4[1.2.3.Eh] 4[Ebcl.2.3.bcl] 4[1.2.3.cbn] 8 5[1.2.3.4.btpt]
+  3 1 tmp 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+    doublings:
+    - piccolo
+  - {}
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 8
+  trumpet:
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: bass_trumpet
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - triangle
+    - snare drum
+    - bass drum
+    - tam-tam
+  harp: 2
+  strings: str
+  additional_raw: 2 tenor tubas
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kossuth%2C_Sz.21_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 3 flutes (1st also piccolo), 3 oboes, english
+    horn, E clarinet, 2 clarinets, bass clarinet, 3 bassoons, contrabassoon, 8 horns,
+    4 trumpets, bass trumpet, 3 trombones, 2 tenor tubas, tuba, timpani, cymbals,
+    triangle, snare drum, bass drum, tam-tam, 2 harps, strings'
+duration_minutes: 20

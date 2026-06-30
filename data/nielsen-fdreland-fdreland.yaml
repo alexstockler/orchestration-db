@@ -1,0 +1,18 @@
+id: nielsen-fdreland-fdreland
+work:
+  composer: Nielsen, Carl
+  title: Fædreland! Fædreland!
+  ids:
+    imslp: Fædreland! Fædreland!, CNW 142 (Nielsen, Carl)
+  year: 1907
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/F%C3%A6dreland%21_F%C3%A6dreland%21%2C_CNW_142_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

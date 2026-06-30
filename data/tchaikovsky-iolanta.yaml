@@ -5,9 +5,13 @@ work:
   ids:
     imslp: Iolanta, Op.69 (Tchaikovsky, Pyotr)
   year: 1891
-formula: 3 3[1.2.Eh] 2 2 4231 tmp 2hp str
+formula: 4[pic.2.3.4] 3[1.2.Eh] 2 2 4231 tmp 2hp str
 instrumentation:
-  flute: 3
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  - {}
   oboe:
   - {}
   - {}
@@ -22,11 +26,17 @@ instrumentation:
     timpani: 1
   harp: 2
   strings: str
-  additional_raw: King René (Король Рене) (bass) | Robert (Роберт) (baritone) | Vaudemont
-    (Водемон) (tenor) | Ibn-Hakkia (Эбн-Хакиа) (baritone) | Almerik (Альмерик) (tenor)
-    | Bertrand (Бертран) (bass) | Iolanta (Иоланта) (soprano) | Marta (Марта) (contralto)
-    | Brigitta (Бригитта) (soprano) | Laura (Лаура) (mezzo-soprano) Mixed Chorus (SATB)
-    | Orchestra :piccolo
+  soloists:
+  - King René (Король Рене) (bass)
+  - Robert (Роберт) (baritone)
+  - Vaudemont (Водемон) (tenor)
+  - Ibn-Hakkia (Эбн-Хакиа) (baritone)
+  - Almerik (Альмерик) (tenor)
+  - Bertrand (Бертран) (bass)
+  - Iolanta (Иоланта) (soprano)
+  - Marta (Марта) (contralto)
+  - Brigitta (Бригитта) (soprano)
+  - Laura (Лаура) (mezzo-soprano) Mixed Chorus (SATB)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Iolanta%2C_Op.69_%28Tchaikovsky%2C_Pyotr%29

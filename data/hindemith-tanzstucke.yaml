@@ -1,0 +1,17 @@
+id: hindemith-tanzstucke
+work:
+  composer: Hindemith, Paul
+  title: Tanzstücke
+  ids:
+    imslp: Tanzstücke, Op.19 (Hindemith, Paul)
+  year: 1919
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tanzst%C3%BCcke%2C_Op.19_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 14

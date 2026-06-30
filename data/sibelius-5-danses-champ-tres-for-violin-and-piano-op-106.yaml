@@ -7,7 +7,8 @@ work:
   year: 1924
 formula: ''
 instrumentation:
-  additional_raw: Violin and Piano
+  solo_strings:
+    violin: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/5_Danses_champ%C3%AAtres%2C_Op.106_%28Sibelius%2C_Jean%29

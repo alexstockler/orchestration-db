@@ -1,0 +1,19 @@
+id: mussorgsky-what-are-words-of-love-to-you
+work:
+  composer: Mussorgsky, Modest
+  title: What are Words of Love to You?
+  ids:
+    imslp: What are Words of Love to You? (Mussorgsky, Modest)
+  year: 1860
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/What_are_Words_of_Love_to_You%3F_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'
+duration_minutes: 2

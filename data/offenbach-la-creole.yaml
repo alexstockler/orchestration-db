@@ -1,0 +1,16 @@
+id: offenbach-la-creole
+work:
+  composer: Offenbach, Jacques
+  title: La créole
+  ids:
+    imslp: La créole (Offenbach, Jacques)
+  year: 1875
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_cr%C3%A9ole_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

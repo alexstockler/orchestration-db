@@ -1,0 +1,15 @@
+id: bach-fugue-in-d-minor-bwv-anh-100
+work:
+  composer: Bach, Johann Sebastian
+  title: Fugue in D minor, BWV Anh.100
+  ids:
+    imslp: Fugue in D minor, BWV Anh.100 (Bach, Johann Sebastian)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_D_minor%2C_BWV_Anh.100_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

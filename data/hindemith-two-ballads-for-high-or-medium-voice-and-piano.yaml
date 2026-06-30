@@ -1,0 +1,19 @@
+id: hindemith-two-ballads-for-high-or-medium-voice-and-piano
+work:
+  composer: Hindemith, Paul
+  title: Two Ballads for high or medium voice and piano
+  ids:
+    imslp: 2 Ballads (Hindemith, Paul)
+  year: 1942
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Ballads_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 5

@@ -1,0 +1,16 @@
+id: faure-impromptu-no-4
+work:
+  composer: Fauré, Gabriel
+  title: Impromptu No.4
+  ids:
+    imslp: Impromptu No.4, Op.91 (Fauré, Gabriel)
+  year: 1905
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Impromptu_No.4%2C_Op.91_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

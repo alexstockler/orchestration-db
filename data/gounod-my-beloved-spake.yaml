@@ -1,0 +1,20 @@
+id: gounod-my-beloved-spake
+work:
+  composer: Gounod, Charles
+  title: My Beloved Spake
+  ids:
+    imslp: My Beloved Spake, CG 411 (Gounod, Charles)
+  year: 1871
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/My_Beloved_Spake%2C_CG_411_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, cello, piano'

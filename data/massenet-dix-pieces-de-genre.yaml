@@ -1,0 +1,17 @@
+id: massenet-dix-pieces-de-genre
+work:
+  composer: Massenet, Jules
+  title: Dix pièces de genre
+  ids:
+    imslp: 10 Pièces de genre, Op.10 (Massenet, Jules)
+  year: 1866
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/10_Pi%C3%A8ces_de_genre%2C_Op.10_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 20

@@ -1,0 +1,15 @@
+id: nielsen-til-snapsen-i-bel-canto
+work:
+  composer: Nielsen, Carl
+  title: Til Snapsen i 'Bel Canto'
+  ids:
+    imslp: Til Snapsen i 'Bel Canto', CNW 360 (Nielsen, Carl)
+  year: 1909
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Til_Snapsen_i_%27Bel_Canto%27%2C_CNW_360_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

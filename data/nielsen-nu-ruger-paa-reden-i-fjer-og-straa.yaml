@@ -1,0 +1,19 @@
+id: nielsen-nu-ruger-paa-reden-i-fjer-og-straa
+work:
+  composer: Nielsen, Carl
+  title: Nu ruger paa Reden i Fjer og Straa
+  ids:
+    imslp: Nu ruger paa Reden i Fjer og Straa, CNW 389 (Nielsen, Carl)
+  year: 1926
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nu_ruger_paa_Reden_i_Fjer_og_Straa%2C_CNW_389_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SSAA), voice, piano (1929, )'

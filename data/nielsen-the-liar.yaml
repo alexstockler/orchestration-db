@@ -1,0 +1,17 @@
+id: nielsen-the-liar
+work:
+  composer: Nielsen, Carl
+  title: The Liar
+  ids:
+    imslp: Løgneren, CNW 16 (Nielsen, Carl)
+  year: 1917
+formula: hp
+instrumentation:
+  harp: 1
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%C3%B8gneren%2C_CNW_16_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, harp'

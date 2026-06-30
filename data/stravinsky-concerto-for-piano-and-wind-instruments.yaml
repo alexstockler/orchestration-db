@@ -25,7 +25,8 @@ instrumentation:
   tuba: 1
   percussion:
     timpani: 1
-  additional_raw: double bass
+  solo_strings:
+    double_bass: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Concerto_for_Piano_and_Wind_Instruments%2C_K042_%28Stravinsky%2C_Igor%29

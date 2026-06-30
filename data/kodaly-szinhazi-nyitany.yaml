@@ -1,0 +1,15 @@
+id: kodaly-szinhazi-nyitany
+work:
+  composer: Kodály, Zoltán
+  title: Színházi nyitány
+  ids:
+    imslp: Színházi nyitány, K.58 (Kodály, Zoltán)
+  year: 1927
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sz%C3%ADnh%C3%A1zi_nyit%C3%A1ny%2C_K.58_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'
+duration_minutes: 12

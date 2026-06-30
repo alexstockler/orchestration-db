@@ -7,7 +7,8 @@ work:
   year: 1947
 formula: ''
 instrumentation:
-  additional_raw: violin
+  solo_strings:
+    violin: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Sonata_for_Solo_Violin%2C_Op.115_%28Prokofiev%2C_Sergey%29

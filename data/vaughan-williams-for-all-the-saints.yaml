@@ -1,0 +1,18 @@
+id: vaughan-williams-for-all-the-saints
+work:
+  composer: Vaughan Williams, Ralph
+  title: For All the Saints
+  ids:
+    imslp: For All the Saints (Vaughan Williams, Ralph)
+  year: 1906
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/For_All_the_Saints_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, organ'

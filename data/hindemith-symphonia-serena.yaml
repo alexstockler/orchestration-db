@@ -1,0 +1,53 @@
+id: hindemith-symphonia-serena
+work:
+  composer: Hindemith, Paul
+  title: Symphonia serena
+  ids:
+    imslp: Symphonia serena (Hindemith, Paul)
+  year: 1946
+formula: 3[pic.2.3] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 4221 tmp+1 cel
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 2
+  trombone: 2
+  tuba: 1
+  percussion:
+    timpani: 2
+    players: 1
+    instruments:
+    - snare drum
+    - cymbals
+    - suspended cymbal
+    - triangle
+    - tambourine
+    - wood blocks
+    - glockenspiel
+  keyboards:
+  - instrument: celesta
+  additional_raw: strings (one violin and one viola backstage) :[*] bass drum
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphonia_serena_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets (A),
+    bass clarinet (A), 2 bassoons, contrabassoon, 4 horns (F), 2 trumpets (B), 2 trombones,
+    tuba, 2 timpani, percussion* (3 players), celesta, strings (one violin and one
+    viola backstage) :[*] bass drum, snare drum, cymbals, suspended cymbal,, triangle,
+    tambourine, wood blocks, glockenspiel'
+duration_minutes: 25

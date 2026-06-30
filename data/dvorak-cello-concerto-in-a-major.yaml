@@ -9,7 +9,8 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: cello
+  solo_strings:
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Cello_Concerto_in_A_major%2C_B.10_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29

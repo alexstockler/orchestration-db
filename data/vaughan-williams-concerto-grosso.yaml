@@ -1,0 +1,17 @@
+id: vaughan-williams-concerto-grosso
+work:
+  composer: Vaughan Williams, Ralph
+  title: Concerto Grosso
+  ids:
+    imslp: Concerto Grosso (Vaughan Williams, Ralph)
+  year: 1950
+formula: ''
+instrumentation:
+  additional_raw: string orchestra (concertino, tutti and easy accompaniment ad lib.)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_Grosso_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: string orchestra (concertino, tutti and easy accompaniment
+    ad lib.)'
+duration_minutes: 15

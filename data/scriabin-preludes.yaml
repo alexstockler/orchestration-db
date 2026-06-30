@@ -1,0 +1,16 @@
+id: scriabin-preludes
+work:
+  composer: Scriabin, Aleksandr
+  title: Préludes
+  ids:
+    imslp: 5 Preludes, Op.16 (Scriabin, Aleksandr)
+  year: 1895
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Preludes%2C_Op.16_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

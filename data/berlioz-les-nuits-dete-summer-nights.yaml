@@ -1,0 +1,27 @@
+id: berlioz-les-nuits-dete-summer-nights
+work:
+  composer: Berlioz, Hector
+  title: Les nuits d’été (Summer Nights)
+  ids:
+    imslp: Les nuits d'été, H 81 (Berlioz, Hector)
+  year: 1840
+formula: 2122 3000 hp str
+instrumentation:
+  flute: 2
+  oboe: 1
+  clarinet: 2
+  bassoon: 2
+  horn: 3
+  harp: 1
+  strings: str
+  soloists:
+  - voice
+  - piano (see comments)
+  - arranged for voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_nuits_d%27%C3%A9t%C3%A9%2C_H_81_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano (see comments); arranged for voice, orchestra
+    :2 flutes, oboe, 2 clarinets, 2 bassoons, 3 horns, harp, strings'
+duration_minutes: 30

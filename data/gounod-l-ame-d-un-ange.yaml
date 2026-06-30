@@ -1,0 +1,18 @@
+id: gounod-l-ame-d-un-ange
+work:
+  composer: Gounod, Charles
+  title: L'âme d'un ange
+  ids:
+    imslp: L'âme d'un ange, CG 398b (Gounod, Charles)
+  year: 1863
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27%C3%A2me_d%27un_ange%2C_CG_398b_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

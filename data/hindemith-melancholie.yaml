@@ -1,0 +1,20 @@
+id: hindemith-melancholie
+work:
+  composer: Hindemith, Paul
+  title: Melancholie
+  ids:
+    imslp: Melancholie, Op.13 (Hindemith, Paul)
+  year: 1917
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+  additional_raw: voice (soprano or mezzo-soprano)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Melancholie%2C_Op.13_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (soprano or mezzo-soprano), 2 violins, viola, cello'
+duration_minutes: 12

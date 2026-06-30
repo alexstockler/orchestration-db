@@ -1,0 +1,18 @@
+id: gounod-chanter-et-souffrir
+work:
+  composer: Gounod, Charles
+  title: Chanter et souffrir
+  ids:
+    imslp: Chanter et souffrir, CG 362 (Gounod, Charles)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chanter_et_souffrir%2C_CG_362_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,16 @@
+id: weber-6-ecossaises
+work:
+  composer: Weber, Carl Maria von
+  title: 6 Ecossaises
+  ids:
+    imslp: 6 Ecossaises, J.29-34 (Weber, Carl Maria von)
+  year: 1802
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Ecossaises%2C_J.29-34_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

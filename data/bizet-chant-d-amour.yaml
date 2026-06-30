@@ -1,0 +1,18 @@
+id: bizet-chant-d-amour
+work:
+  composer: Bizet, Georges
+  title: Chant d'amour
+  ids:
+    imslp: Chant d'amour (Bizet, Georges)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chant_d%27amour_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,18 @@
+id: bizet-apres-l-hiver
+work:
+  composer: Bizet, Georges
+  title: Après l'hiver
+  ids:
+    imslp: Après l'hiver (Bizet, Georges)
+  year: 1867
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Apr%C3%A8s_l%27hiver_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

@@ -1,0 +1,15 @@
+id: janacek-suite-for-strings
+work:
+  composer: Janáček, Leoš
+  title: Suite for strings
+  ids:
+    imslp: Suite for Strings (Janáček, Leoš)
+  year: 1926
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_for_Strings_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: string orchestra'
+duration_minutes: 20

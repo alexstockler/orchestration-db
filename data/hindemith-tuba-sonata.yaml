@@ -1,0 +1,18 @@
+id: hindemith-tuba-sonata
+work:
+  composer: Hindemith, Paul
+  title: Tuba Sonata
+  ids:
+    imslp: Tuba Sonata (Hindemith, Paul)
+  year: 1955
+formula: 0000 0001 pf
+instrumentation:
+  tuba: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tuba_Sonata_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: tuba, piano'
+duration_minutes: 12

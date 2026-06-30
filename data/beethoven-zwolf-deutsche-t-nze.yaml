@@ -5,7 +5,7 @@ work:
   ids:
     imslp: 12 German Dances, WoO 8 (Beethoven, Ludwig van)
   year: 1795
-formula: 3[pic.2.3] 2 2 2 2200 tmp str
+formula: 3[pic.2.3] 2 2 2 2200 tmp posthorn str
 instrumentation:
   flute:
   - instrument: piccolo
@@ -22,8 +22,9 @@ instrumentation:
     - triangle
     - tambourine
     - bass drum
+  extras:
+  - instrument: posthorn
   strings: str
-  additional_raw: posthorn
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/12_German_Dances%2C_WoO_8_%28Beethoven%2C_Ludwig_van%29

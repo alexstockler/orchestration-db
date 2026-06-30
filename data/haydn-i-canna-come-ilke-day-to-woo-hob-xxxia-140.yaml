@@ -9,7 +9,9 @@ formula: ''
 instrumentation:
   soloists:
   - voice
-  additional_raw: violin | keyboard (including figured bass)
+  solo_strings:
+    violin: 1
+  additional_raw: keyboard (including figured bass)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Lass%2C_gin_ye_lo%27e_me%2C_tell_me_now%2C_Hob.XXXIa%3A140_%28Haydn%2C_Joseph%29

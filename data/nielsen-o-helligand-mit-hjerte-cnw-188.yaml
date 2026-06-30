@@ -1,0 +1,17 @@
+id: nielsen-o-helligand-mit-hjerte-cnw-188
+work:
+  composer: Nielsen, Carl
+  title: O Helligånd ! mit Hjerte, CNW 188
+  ids:
+    imslp: O Helligånd ! mit Hjerte, CNW 188 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_Hellig%C3%A5nd_%21_mit_Hjerte%2C_CNW_188_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

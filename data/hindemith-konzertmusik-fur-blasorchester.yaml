@@ -1,0 +1,46 @@
+id: hindemith-konzertmusik-fur-blasorchester
+work:
+  composer: Hindemith, Paul
+  title: Konzertmusik für Blasorchester
+  ids:
+    imslp: Konzertmusik für Blasorchester, Op.41 (Hindemith, Paul)
+  year: 1926
+formula: 1[pic] 1 4[Ebcl.2.3.4] 0 4[1.2.Wtu.Wtu] 5[flhn.flhn.3.4.5] 3 0
+instrumentation:
+  flute:
+  - instrument: piccolo
+  oboe: 1
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - {}
+  horn:
+  - {}
+  - {}
+  - instrument: wagner_tuba
+  - instrument: wagner_tuba
+  trumpet:
+  - instrument: flugelhorn
+  - instrument: flugelhorn
+  - {}
+  - {}
+  - {}
+  trombone: 3
+  percussion:
+    instruments:
+    - snare drum
+    - bass drum
+    - cymbals
+  soloists:
+  - baritone
+  additional_raw: 2 or 3 bass and contrabass tubas
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Konzertmusik_f%C3%BCr_Blasorchester%2C_Op.41_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Wind Ensemble :piccolo (also flute), oboe, clarinet (E),
+    3 clarinets (B) :2 flugelhorns (B), 2 horns (F), 2 wagner tubas (B), baritone
+    (B.C.) ::3 trumpets (B), 3 trombones, 2 or 3 bass and contrabass tubas :snare
+    drum, bass drum, cymbals'
+duration_minutes: 15

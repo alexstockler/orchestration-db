@@ -1,0 +1,16 @@
+id: borodin-to-the-people-at-home
+work:
+  composer: Borodin, Aleksandr
+  title: To the People at Home
+  ids:
+    imslp: To the People at Home (Borodin, Aleksandr)
+  year: 1881
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/To_the_People_at_Home_%28Borodin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, orchestra'

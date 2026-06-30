@@ -1,0 +1,16 @@
+id: franck-quasi-marcia
+work:
+  composer: Franck, César
+  title: Quasi Marcia
+  ids:
+    imslp: Quasi marcia, Op.22 (Franck, César)
+  year: 1862
+formula: harm
+instrumentation:
+  keyboards:
+  - instrument: harmonium
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Quasi_marcia%2C_Op.22_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: Harmonium'

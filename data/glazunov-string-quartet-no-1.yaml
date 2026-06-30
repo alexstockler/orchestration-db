@@ -1,0 +1,18 @@
+id: glazunov-string-quartet-no-1
+work:
+  composer: Glazunov, Aleksandr
+  title: String Quartet No.1
+  ids:
+    imslp: String Quartet No.1, Op.1 (Glazunov, Aleksandr)
+  year: 1882
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.1%2C_Op.1_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

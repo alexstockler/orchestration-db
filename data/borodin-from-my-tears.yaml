@@ -1,0 +1,18 @@
+id: borodin-from-my-tears
+work:
+  composer: Borodin, Aleksandr
+  title: From My Tears
+  ids:
+    imslp: From My Tears (Borodin, Aleksandr)
+  year: 1870
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/From_My_Tears_%28Borodin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

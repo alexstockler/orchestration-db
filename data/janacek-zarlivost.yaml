@@ -1,0 +1,39 @@
+id: janacek-zarlivost
+work:
+  composer: Janáček, Leoš
+  title: Žárlivost
+  ids:
+    imslp: Žárlivost, JW 6/10 (Janáček, Leoš)
+  year: 1894
+formula: 2[1.2/pic] 3[1.2.Eh] 3[1.2.bcl] 2 4231 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  harp: 1
+  strings: str
+  additional_raw: glockenspiel/celesta
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C5%BD%C3%A1rlivost%2C_JW_6/10_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes, English horn,, 2
+    clarinets, bass clarinet, 2 bassoons,, 4 horns, 2 trumpets, 3 trombones, tuba,,
+    timpani, glockenspiel/celesta, harp, strings'
+duration_minutes: 6

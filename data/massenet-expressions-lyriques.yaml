@@ -1,0 +1,18 @@
+id: massenet-expressions-lyriques
+work:
+  composer: Massenet, Jules
+  title: Expressions lyriques
+  ids:
+    imslp: Expressions lyriques (Massenet, Jules)
+  year: 1902
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Expressions_lyriques_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (declamation and vocalization), piano'

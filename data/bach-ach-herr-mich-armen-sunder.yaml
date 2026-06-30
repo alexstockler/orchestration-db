@@ -1,0 +1,16 @@
+id: bach-ach-herr-mich-armen-sunder
+work:
+  composer: Bach, Johann Sebastian
+  title: Ach Herr, mich armen Sünder
+  ids:
+    imslp: Ach Herr, mich armen Sünder, BWV 742 (Bach, Johann Sebastian)
+  year: 1704
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach_Herr%2C_mich_armen_S%C3%BCnder%2C_BWV_742_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

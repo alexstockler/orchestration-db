@@ -5,7 +5,8 @@ work:
   ids:
     imslp: Symphony No.1, GMW 11 (Mahler, Gustav)
   year: 1884
-formula: 4[1.2.3.4/pic] 4[1.2.3/Eh.4] 4[1.2.3/bcl.4] 3[1.2.3/cbn] 7431 tmp hp str
+formula: 4[1.2.3.4/pic] 4[1.2.3/Eh.4] 4[1.2.3/bcl.4/Ebcl] 3[1.2.3/cbn] 7431 tmp hp
+  str
 instrumentation:
   flute:
   - {}
@@ -24,7 +25,8 @@ instrumentation:
   - {}
   - doublings:
     - bass_clarinet
-  - {}
+  - doublings:
+    - eflat_clarinet
   bassoon:
   - {}
   - {}
@@ -43,7 +45,6 @@ instrumentation:
     - bass drum
   harp: 1
   strings: str
-  additional_raw: 'unknown doubling in clarinet: e'
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Symphony_No.1%2C_GMW_11_%28Mahler%2C_Gustav%29

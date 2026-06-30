@@ -1,0 +1,19 @@
+id: franck-string-quartet
+work:
+  composer: Franck, César
+  title: String Quartet
+  ids:
+    imslp: String Quartet (Franck, César)
+  year: 1889
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 45

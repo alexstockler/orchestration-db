@@ -1,0 +1,14 @@
+id: delibes-la-source
+work:
+  composer: Delibes, Léo
+  title: La source
+  ids:
+    imslp: La source (Delibes, Léo)
+  year: 1866
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_source_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

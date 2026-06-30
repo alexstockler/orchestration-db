@@ -1,0 +1,17 @@
+id: nielsen-morgendug-der-sagte-bver-cnw-241
+work:
+  composer: Nielsen, Carl
+  title: Morgendug, der sagte bæver, CNW 241
+  ids:
+    imslp: Morgendug, der sagte bæver, CNW 241 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Morgendug%2C_der_sagte_b%C3%A6ver%2C_CNW_241_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

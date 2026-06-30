@@ -1,0 +1,16 @@
+id: gounod-sicut-cervus
+work:
+  composer: Gounod, Charles
+  title: Sicut cervus
+  ids:
+    imslp: Sicut cervus, CG 148 (Gounod, Charles)
+  year: 1868
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sicut_cervus%2C_CG_148_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voices or mixed chorus (SATB)'

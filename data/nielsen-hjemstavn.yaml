@@ -1,0 +1,18 @@
+id: nielsen-hjemstavn
+work:
+  composer: Nielsen, Carl
+  title: Hjemstavn
+  ids:
+    imslp: Hjemstavn, CNW 332 (Nielsen, Carl)
+  year: 1929
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hjemstavn%2C_CNW_332_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

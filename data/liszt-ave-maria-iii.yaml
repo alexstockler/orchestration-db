@@ -5,9 +5,10 @@ work:
   ids:
     imslp: Ave Maria III, S.60 (Liszt, Franz)
   year: 1883
-formula: ''
+formula: org
 instrumentation:
-  additional_raw: Organ or Harmonium (+ Alto voice, Female Chorus ad lib.)
+  keyboards:
+  - instrument: organ
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Ave_Maria_III%2C_S.60_%28Liszt%2C_Franz%29

@@ -1,0 +1,47 @@
+id: glazunov-rhapsodie-orientale
+work:
+  composer: Glazunov, Aleksandr
+  title: Rhapsodie Orientale
+  ids:
+    imslp: Rhapsodie orientale, Op.29 (Glazunov, Aleksandr)
+  year: 1889
+formula: 3[1.2.3/pic] 3[1.2.Eh] 4[1.2.3/Ebcl.bcl] 2 4331 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - doublings:
+    - eflat_clarinet
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tambourine
+    - side drum
+    - cymbals
+    - bass drum
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rhapsodie_orientale%2C_Op.29_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 2 oboes, English horn,, 3
+    clarinets (3rd also piccolo clarinet), bass clarinet, 2 bassoons,, 4 horns, 3
+    trumpets, 3 trombones, tuba, timpani, triangle, tambourine, side drum, cymbals,
+    bass drum, harp, strings'

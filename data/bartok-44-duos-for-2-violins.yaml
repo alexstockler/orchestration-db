@@ -1,0 +1,16 @@
+id: bartok-44-duos-for-2-violins
+work:
+  composer: Bartók, Béla
+  title: 44 Duos for 2 Violins
+  ids:
+    imslp: 44 Duos for 2 Violins, Sz.98 (Bartók, Béla)
+  year: 1931
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/44_Duos_for_2_Violins%2C_Sz.98_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins'

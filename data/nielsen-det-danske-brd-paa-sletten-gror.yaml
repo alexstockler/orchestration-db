@@ -1,0 +1,18 @@
+id: nielsen-det-danske-brd-paa-sletten-gror
+work:
+  composer: Nielsen, Carl
+  title: Det danske Brød paa Sletten gror
+  ids:
+    imslp: Det danske Brød paa Sletten gror, CNW 252 (Nielsen, Carl)
+  year: 1921
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Det_danske_Br%C3%B8d_paa_Sletten_gror%2C_CNW_252_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

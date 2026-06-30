@@ -1,0 +1,19 @@
+id: gounod-messe-a-grand-orchestre
+work:
+  composer: Gounod, Charles
+  title: Messe à grand orchestre
+  ids:
+    imslp: Messe à grand orchestre, CG 55 (Gounod, Charles)
+  year: 1840
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  - tenor
+  chorus_raw: male choir
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Messe_%C3%A0_grand_orchestre%2C_CG_55_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, tenor, male choir, orchestra'
+duration_minutes: 38

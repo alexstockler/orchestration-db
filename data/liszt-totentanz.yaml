@@ -5,7 +5,7 @@ work:
   ids:
     imslp: Totentanz, S.126 (Liszt, Franz)
   year: 1847
-formula: 3[pic.2.3] 2 2 0 0230
+formula: 3[pic.2.3] 2 2 2 2231 tmp+1 str
 instrumentation:
   flute:
   - instrument: piccolo
@@ -13,12 +13,17 @@ instrumentation:
   - {}
   oboe: 2
   clarinet: 2
+  bassoon: 2
+  horn: 2
   trumpet: 2
   trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+  strings: str
   soloists:
   - piano
-  additional_raw: 2 bassoons + 2 horns (in D/D and F in version 2) | tuba + timpani
-    | percussion + strings
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Totentanz%2C_S.126_%28Liszt%2C_Franz%29

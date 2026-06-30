@@ -1,0 +1,16 @@
+id: gounod-pater-noster
+work:
+  composer: Gounod, Charles
+  title: Pater noster
+  ids:
+    imslp: Pater noster, CG 138 (Gounod, Charles)
+  year: 1878
+formula: ''
+instrumentation:
+  soloists:
+  - 6 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pater_noster%2C_CG_138_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: 6 voices or mixed chorus (SAATTB)'

@@ -1,0 +1,28 @@
+id: verdi-un-ballo-in-maschera
+work:
+  composer: Verdi, Giuseppe
+  title: Un ballo in maschera
+  ids:
+    imslp: Un ballo in maschera (Verdi, Giuseppe)
+  year: 1859
+formula: 0000 1000
+instrumentation:
+  horn: 1
+  chorus_raw: mixed chorus
+  additional_raw: Cast | Gustavo | Re di Svezia (Tenor) | Renato | suo segretario
+    e sposo di Amelia (Baritone) | Amelia | moglie di Renato (Soprano) | Ulrica |
+    Zingara (Mezzo-Soprano) | Oscar | paggio (Soprano) | Cristiano | marinaio (Bass)
+    | nemico del re (Bass) | Ribbing | nemico del re (Bass) | Giudice (Tenor) | Servitore
+    di Amelia (Tenor) | Nobili | deputati | guardie | seguaci di Horn e Ribbing |
+    marinai | popolani di Svezia | servi | Maschere e coppie di danzatori
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Un_ballo_in_maschera_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra :Cast ::Gustavo, Re di
+    Svezia (Tenor), Renato, suo segretario e sposo di Amelia (Baritone), Amelia, moglie
+    di Renato (Soprano), Ulrica, Zingara (Mezzo-Soprano), Oscar, paggio (Soprano),
+    Cristiano, marinaio (Bass), Horn, nemico del re (Bass), Ribbing, nemico del re
+    (Bass), Giudice (Tenor), Servitore di Amelia (Tenor) :Mixed Chorus ::Nobili, deputati,
+    guardie, seguaci di Horn e Ribbing, marinai,, popolani di Svezia, servi, Maschere
+    e coppie di danzatori :Orchestra'

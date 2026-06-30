@@ -1,0 +1,20 @@
+id: gounod-messe-dite-de-clovis
+work:
+  composer: Gounod, Charles
+  title: Messe dite de Clovis
+  ids:
+    imslp: Messe dite de Clovis, CG 62 (Gounod, Charles)
+  year: 1890
+formula: 0000 0040 org
+instrumentation:
+  trombone: 4
+  keyboards:
+  - instrument: organ
+  chorus_raw: satb choir
+  additional_raw: with 4 trumpets | 2 organs (chœur et grande orgue) in Prélude.
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Messe_dite_de_Clovis%2C_CG_62_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB choir, organ; with 4 trumpets, 4 trombones, 2 organs
+    (chœur et grande orgue) in Prélude.'

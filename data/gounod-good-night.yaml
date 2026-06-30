@@ -1,0 +1,18 @@
+id: gounod-good-night
+work:
+  composer: Gounod, Charles
+  title: Good Night
+  ids:
+    imslp: Good Night, CG 386 (Gounod, Charles)
+  year: 1871
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Good_Night%2C_CG_386_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

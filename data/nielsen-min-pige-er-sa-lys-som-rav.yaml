@@ -1,0 +1,17 @@
+id: nielsen-min-pige-er-sa-lys-som-rav
+work:
+  composer: Nielsen, Carl
+  title: Min Pige er så lys som Rav
+  ids:
+    imslp: Min Pige er så lys som Rav, CNW 231 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Min_Pige_er_s%C3%A5_lys_som_Rav%2C_CNW_231_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

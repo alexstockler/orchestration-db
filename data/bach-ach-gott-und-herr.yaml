@@ -1,0 +1,15 @@
+id: bach-ach-gott-und-herr
+work:
+  composer: Bach, Johann Sebastian
+  title: Ach Gott und Herr
+  ids:
+    imslp: Ach Gott und Herr, BWV 693 (Bach, Johann Sebastian)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach_Gott_und_Herr%2C_BWV_693_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

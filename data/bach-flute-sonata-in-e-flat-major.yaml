@@ -1,0 +1,17 @@
+id: bach-flute-sonata-in-e-flat-major
+work:
+  composer: Bach, Johann Sebastian
+  title: Flute Sonata in E-flat major
+  ids:
+    imslp: Flute Sonata in E-flat major, BWV 1031 (Bach, Johann Sebastian)
+  year: 1730
+formula: 1000 0000 hpd
+instrumentation:
+  flute: 1
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flute_Sonata_in_E-flat_major%2C_BWV_1031_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, harpsichord'

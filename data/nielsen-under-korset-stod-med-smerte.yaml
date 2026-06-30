@@ -1,0 +1,17 @@
+id: nielsen-under-korset-stod-med-smerte
+work:
+  composer: Nielsen, Carl
+  title: Under korset stod med smerte
+  ids:
+    imslp: Under korset stod med smerte, CNW 198 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Under_korset_stod_med_smerte%2C_CNW_198_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

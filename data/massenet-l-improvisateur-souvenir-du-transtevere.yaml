@@ -1,0 +1,18 @@
+id: massenet-l-improvisateur-souvenir-du-transtevere
+work:
+  composer: Massenet, Jules
+  title: 'L''improvisateur: souvenir du Transtevère'
+  ids:
+    imslp: L'improvisateur (Massenet, Jules)
+  year: 1864
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27improvisateur_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

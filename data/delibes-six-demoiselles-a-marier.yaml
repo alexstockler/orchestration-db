@@ -1,0 +1,15 @@
+id: delibes-six-demoiselles-a-marier
+work:
+  composer: Delibes, Léo
+  title: Six demoiselles à marier
+  ids:
+    imslp: Six demoiselles à marier (Delibes, Léo)
+  year: 1856
+formula: ''
+instrumentation:
+  additional_raw: Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Six_demoiselles_%C3%A0_marier_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, Orchestra'

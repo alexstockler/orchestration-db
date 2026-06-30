@@ -1,0 +1,18 @@
+id: smetana-string-quartet-no-2
+work:
+  composer: Smetana, Bedřich
+  title: String Quartet No.2
+  ids:
+    imslp: String Quartet No.2, JB 1:124 (Smetana, Bedřich)
+  year: 1882
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.2%2C_JB_1%3A124_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

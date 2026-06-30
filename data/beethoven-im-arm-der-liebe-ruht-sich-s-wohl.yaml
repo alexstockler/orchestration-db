@@ -7,7 +7,8 @@ work:
   year: 1795
 formula: ''
 instrumentation:
-  additional_raw: 3 voices
+  soloists:
+  - 3 voices
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Im_Arm_der_Liebe_ruht_sich%27s_wohl%2C_WoO_159_%28Beethoven%2C_Ludwig_van%29

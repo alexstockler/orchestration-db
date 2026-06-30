@@ -1,0 +1,52 @@
+id: vaughan-williams-sir-john-in-love
+work:
+  composer: Vaughan Williams, Ralph
+  title: Sir John In Love
+  ids:
+    imslp: Sir John in Love (Vaughan Williams, Ralph)
+  year: 1928
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  - chorus
+  - 'orchestra Cast: :Sir John Falstaff (baritone)'
+  - Anne Page (soprano)
+  - Mistress Page (soprano)
+  - Mistress Ford (soprano)
+  - Mistress Quickly (contralto)
+  - Fenton (tenor)
+  - Doctor Caius (tenor)
+  - Frank Ford (bass)
+  - Robert Shallow (tenor or baritone)
+  - Sir Hugh Evans (baritone)
+  - Master Slender (tenor)
+  - Simple (tenor or baritone)
+  - Master George Page (baritone)
+  - Bardolph (tenor)
+  - Corporal Nym (baritone)
+  - Ancient Pistol (bass)
+  - Rugby (bass)
+  - The Host of the 'Garter Inn' (baritone)
+  - Robin (non-singing)
+  - John (baritone)
+  - 'Robert (baritone) Voices: :3 sopranos'
+  - 1 contralto
+  - 4-6 tenors
+  - 7-9 baritones
+  - 3 basses
+  - mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sir_John_in_Love_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra Cast: :Sir John Falstaff (baritone),
+    Anne Page (soprano), Mistress Page (soprano), Mistress Ford (soprano), Mistress
+    Quickly (contralto), Fenton (tenor), Doctor Caius (tenor), Frank Ford (bass),
+    Robert Shallow (tenor or baritone), Sir Hugh Evans (baritone), Master Slender
+    (tenor), Simple (tenor or baritone), Master George Page (baritone), Bardolph (tenor),
+    Corporal Nym (baritone), Ancient Pistol (bass), Rugby (bass), The Host of the
+    ''Garter Inn'' (baritone), Robin (non-singing), John (baritone), Robert (baritone)
+    Voices: :3 sopranos, 1 contralto, 4-6 tenors, 7-9 baritones, 3 basses, mixed chorus
+    (SATB) Orchestra:'
+duration_minutes: 14

@@ -1,0 +1,16 @@
+id: bach-capriccio
+work:
+  composer: Bach, Johann Sebastian
+  title: Capriccio
+  ids:
+    imslp: Capriccio in E major, BWV 993 (Bach, Johann Sebastian)
+  year: 1707
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Capriccio_in_E_major%2C_BWV_993_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'
+duration_minutes: 8

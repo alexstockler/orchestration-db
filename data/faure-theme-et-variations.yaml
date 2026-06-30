@@ -1,0 +1,17 @@
+id: faure-theme-et-variations
+work:
+  composer: Fauré, Gabriel
+  title: Thème et variations
+  ids:
+    imslp: Thème et variations, Op.73 (Fauré, Gabriel)
+  year: 1895
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Th%C3%A8me_et_variations%2C_Op.73_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 18

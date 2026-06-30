@@ -5,14 +5,15 @@ work:
   ids:
     imslp: Symphony No.7, GMW 47 (Mahler, Gustav)
   year: 1904
-formula: 5[pic.2.3.4.5] 4[1.2.3.Eh] 5[1.2.3.4.bcl] 4[1.2.3.cbn] 4331 tmp 2hp mand
-  gtr str
+formula: 5[pic.2.3.4/pic.5] 4[1.2.3.Eh] 5[Ebcl.2.3.4.bcl] 4[1.2.3.cbn] 4331 tmp 2hp
+  mand gtr str
 instrumentation:
   flute:
   - instrument: piccolo
   - {}
   - {}
-  - {}
+  - doublings:
+    - piccolo
   - {}
   oboe:
   - {}
@@ -20,7 +21,7 @@ instrumentation:
   - {}
   - instrument: english_horn
   clarinet:
-  - {}
+  - instrument: eflat_clarinet
   - {}
   - {}
   - {}
@@ -37,6 +38,7 @@ instrumentation:
   percussion:
     timpani: 1
     instruments:
+    - tenor horn
     - snare drum
     - bass drum
     - cymbals
@@ -44,13 +46,14 @@ instrumentation:
     - tam-tam
     - cowbells
     - glockenspiel
+    - rute
     - tambourine
+    - bells
   harp: 2
   extras:
   - instrument: mandolin
   - instrument: guitar
   strings: str
-  additional_raw: 'unknown doubling in flute: 2nd piccolo | tenor horn | rute | bells'
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Symphony_No.7%2C_GMW_47_%28Mahler%2C_Gustav%29

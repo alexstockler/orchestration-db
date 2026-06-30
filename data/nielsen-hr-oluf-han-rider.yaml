@@ -1,0 +1,17 @@
+id: nielsen-hr-oluf-han-rider
+work:
+  composer: Nielsen, Carl
+  title: Hr. Oluf han rider
+  ids:
+    imslp: Hr. Oluf han rider, CNW 7 (Nielsen, Carl)
+  year: 1906
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus and orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hr._Oluf_han_rider%2C_CNW_7_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus and orchestra'

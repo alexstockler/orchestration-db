@@ -1,0 +1,23 @@
+id: bartok-roman-nepi-tancok-zenekarra
+work:
+  composer: Bartók, Béla
+  title: Román népi táncok, zenekarra
+  ids:
+    imslp: Romanian Folk Dances (orchestra), Sz.68 (Bartók, Béla)
+  year: 1917
+formula: 2[1.2/pic] 0 2 2 2000 str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romanian_Folk_Dances_%28orchestra%29%2C_Sz.68_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 clarinets, 2 bassoons, 2
+    horns, strings'

@@ -1,0 +1,17 @@
+id: lalo-fantaisie-originale-pour-le-violon-avec-accompagnement-de-piano
+work:
+  composer: Lalo, Édouard
+  title: Fantaisie originale pour le violon avec accompagnement de piano
+  ids:
+    imslp: Fantaisie originale, Op.1 (Lalo, Édouard)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantaisie_originale%2C_Op.1_%28Lalo%2C_%C3%89douard%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

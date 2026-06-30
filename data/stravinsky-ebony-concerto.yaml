@@ -22,8 +22,10 @@ instrumentation:
     count: 2
   - instrument: baritone_sax
     count: 1
+  solo_strings:
+    double_bass: 1
   additional_raw: 'B♭ clarinet | Jazz Band: 2 alto saxophones (both doubling B♭ clarinets)
-    | F horn | double bass'
+    | F horn'
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Ebony_Concerto%2C_K074_%28Stravinsky%2C_Igor%29

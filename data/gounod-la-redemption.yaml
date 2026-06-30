@@ -1,0 +1,17 @@
+id: gounod-la-redemption
+work:
+  composer: Gounod, Charles
+  title: La Rédemption
+  ids:
+    imslp: La Rédemption, CG 32 (Gounod, Charles)
+  year: 1882
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_R%C3%A9demption%2C_CG_32_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

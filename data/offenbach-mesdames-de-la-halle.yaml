@@ -1,0 +1,15 @@
+id: offenbach-mesdames-de-la-halle
+work:
+  composer: Offenbach, Jacques
+  title: Mesdames de la Halle
+  ids:
+    imslp: Mesdames de la Halle (Offenbach, Jacques)
+  year: 1858
+formula: ''
+instrumentation:
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mesdames_de_la_Halle_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, orchestra'

@@ -1,0 +1,15 @@
+id: mussorgsky-the-destruction-of-sennacherib
+work:
+  composer: Mussorgsky, Modest
+  title: The Destruction of Sennacherib
+  ids:
+    imslp: The Destruction of Sennacherib (Mussorgsky, Modest)
+  year: 1866
+formula: ''
+instrumentation:
+  additional_raw: mixed chorus (SATB)?
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Destruction_of_Sennacherib_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)?'

@@ -1,0 +1,16 @@
+id: bach-chaconne-and-fugue-in-d-minor
+work:
+  composer: Bach, Johann Sebastian
+  title: Chaconne and Fugue in D minor
+  ids:
+    imslp: Chaconne and Fugue in D minor, BWV 1178 (Bach, Johann Sebastian)
+  year: 1700
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chaconne_and_Fugue_in_D_minor%2C_BWV_1178_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

@@ -1,0 +1,19 @@
+id: gounod-le-ciel-a-visite-la-terre
+work:
+  composer: Gounod, Charles
+  title: Le ciel a visité la terre
+  ids:
+    imslp: Le ciel a visité la terre, CG 365 (Gounod, Charles)
+  year: 1868
+formula: pf org
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: organ
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_ciel_a_visit%C3%A9_la_terre%2C_CG_365_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (or unison voices), piano, organ (or harmonium)'

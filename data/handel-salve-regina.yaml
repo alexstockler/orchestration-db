@@ -9,7 +9,10 @@ formula: ''
 instrumentation:
   soloists:
   - soprano
-  additional_raw: 2 violins | cello | continuo (organ)
+  solo_strings:
+    violin: 2
+    cello: 1
+  additional_raw: continuo (organ)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Salve_Regina%2C_HWV_241_%28Handel%2C_George_Frideric%29

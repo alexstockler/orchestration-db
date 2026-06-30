@@ -1,0 +1,18 @@
+id: puccini-casa-mia-casa-mia
+work:
+  composer: Puccini, Giacomo
+  title: Casa mia, casa mia
+  ids:
+    imslp: Casa mia, casa mia (Puccini, Giacomo)
+  year: 1908
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Casa_mia%2C_casa_mia_%28Puccini%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

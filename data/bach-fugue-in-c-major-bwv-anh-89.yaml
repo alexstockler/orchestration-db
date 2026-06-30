@@ -1,0 +1,14 @@
+id: bach-fugue-in-c-major-bwv-anh-89
+work:
+  composer: Bach, Johann Sebastian
+  title: Fugue in C major, BWV Anh.89
+  ids:
+    imslp: Fugue in C major, BWV Anh.89 (Bach, Johann Sebastian)
+formula: ''
+instrumentation:
+  additional_raw: Keyboard (probably Harpsichord or similar)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_C_major%2C_BWV_Anh.89_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Keyboard (probably Harpsichord or similar)'

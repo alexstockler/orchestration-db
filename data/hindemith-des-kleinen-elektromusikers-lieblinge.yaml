@@ -1,0 +1,15 @@
+id: hindemith-des-kleinen-elektromusikers-lieblinge
+work:
+  composer: Hindemith, Paul
+  title: Des kleinen Elektromusikers Lieblinge
+  ids:
+    imslp: Des kleinen Elektromusikers Lieblinge (Hindemith, Paul)
+  year: 1930
+formula: ''
+instrumentation:
+  additional_raw: 3 trautoniums
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Des_kleinen_Elektromusikers_Lieblinge_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 trautoniums'

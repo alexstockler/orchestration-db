@@ -1,0 +1,18 @@
+id: vaughan-williams-songs-of-travel
+work:
+  composer: Vaughan Williams, Ralph
+  title: Songs of Travel
+  ids:
+    imslp: Songs of Travel (Vaughan Williams, Ralph)
+  year: 1901
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Songs_of_Travel_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

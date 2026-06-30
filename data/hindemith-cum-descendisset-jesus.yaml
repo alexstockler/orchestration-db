@@ -1,0 +1,18 @@
+id: hindemith-cum-descendisset-jesus
+work:
+  composer: Hindemith, Paul
+  title: Cum descendisset Jesus
+  ids:
+    imslp: Cum descendisset Jesus de monte (Hindemith, Paul)
+  year: 1960
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice (soprano or tenor)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cum_descendisset_Jesus_de_monte_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (soprano or tenor), piano'
+duration_minutes: 6

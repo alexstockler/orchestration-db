@@ -1,0 +1,18 @@
+id: faure-2-duets
+work:
+  composer: Fauré, Gabriel
+  title: 2 Duets
+  ids:
+    imslp: 2 Duets, Op.10 (Fauré, Gabriel)
+  year: 1873
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - sopranos
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Duets%2C_Op.10_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos (or soprano, tenor), piano'

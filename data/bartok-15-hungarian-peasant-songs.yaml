@@ -1,0 +1,17 @@
+id: bartok-15-hungarian-peasant-songs
+work:
+  composer: Bartók, Béla
+  title: 15 Hungarian Peasant Songs
+  ids:
+    imslp: 15 Magyar parasztdal, Sz.71 (Bartók, Béla)
+  year: 1914
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/15_Magyar_parasztdal%2C_Sz.71_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 15

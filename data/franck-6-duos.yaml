@@ -1,0 +1,19 @@
+id: franck-6-duos
+work:
+  composer: Franck, César
+  title: 6 Duos
+  ids:
+    imslp: 6 Duos (Franck, César)
+  year: 1888
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - alto
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Duos_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, piano'

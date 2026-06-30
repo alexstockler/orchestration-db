@@ -1,0 +1,18 @@
+id: mussorgsky-ogni-sabato-avrete-il-lume-acceso
+work:
+  composer: Mussorgsky, Modest
+  title: Ogni sabato avrete il lume acceso
+  ids:
+    imslp: Ogni sabato avrete it lume accesso (Mussorgsky, Modest)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ogni_sabato_avrete_it_lume_accesso_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 3

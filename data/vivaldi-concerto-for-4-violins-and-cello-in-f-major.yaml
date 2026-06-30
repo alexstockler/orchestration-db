@@ -8,7 +8,10 @@ work:
 formula: str
 instrumentation:
   strings: str
-  additional_raw: 4 violins | cello | continuo
+  solo_strings:
+    violin: 4
+    cello: 1
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Concerto_in_F_major%2C_RV_567_%28Vivaldi%2C_Antonio%29

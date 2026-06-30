@@ -1,0 +1,15 @@
+id: offenbach-pierrette-et-jacquot
+work:
+  composer: Offenbach, Jacques
+  title: Pierrette et Jacquot
+  ids:
+    imslp: Pierrette et Jacquot (Offenbach, Jacques)
+  year: 1876
+formula: ''
+instrumentation:
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pierrette_et_Jacquot_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, orchestra'

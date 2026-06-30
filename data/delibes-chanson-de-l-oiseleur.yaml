@@ -1,0 +1,17 @@
+id: delibes-chanson-de-l-oiseleur
+work:
+  composer: Delibes, Léo
+  title: Chanson de l'oiseleur
+  ids:
+    imslp: Chanson de l'oiseleur (Delibes, Léo)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chanson_de_l%27oiseleur_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

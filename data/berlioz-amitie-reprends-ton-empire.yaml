@@ -1,0 +1,18 @@
+id: berlioz-amitie-reprends-ton-empire
+work:
+  composer: Berlioz, Hector
+  title: Amitié, reprends ton empire
+  ids:
+    imslp: Amitié, reprends ton empire, H 10 (Berlioz, Hector)
+  year: 1819
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  additional_raw: SAT voices | SSB voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Amiti%C3%A9%2C_reprends_ton_empire%2C_H_10_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: SAT voices, piano , SSB voices, piano'

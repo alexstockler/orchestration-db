@@ -1,0 +1,17 @@
+id: smetana-3-polkas-poetiques
+work:
+  composer: Smetana, Bedřich
+  title: 3 Polkas poétiques
+  ids:
+    imslp: 3 Polkas poétiques, Op.8 (Smetana, Bedřich)
+  year: 1848
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Polkas_po%C3%A9tiques%2C_Op.8_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'
+duration_minutes: 10

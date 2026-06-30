@@ -1,0 +1,15 @@
+id: bach-es-stehn-vor-gottes-throne
+work:
+  composer: Bach, Johann Sebastian
+  title: Es stehn vor Gottes Throne
+  ids:
+    imslp: Es stehn vor Gottes Throne, BWV 309 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_stehn_vor_Gottes_Throne%2C_BWV_309_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

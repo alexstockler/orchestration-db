@@ -1,0 +1,17 @@
+id: smetana-czech-dances-i
+work:
+  composer: Smetana, Bedřich
+  title: Czech Dances I
+  ids:
+    imslp: České tance I, JB 1:107 (Smetana, Bedřich)
+  year: 1877
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C4%8Cesk%C3%A9_tance_I%2C_JB_1%3A107_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 13

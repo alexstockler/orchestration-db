@@ -1,0 +1,15 @@
+id: massenet-ariane
+work:
+  composer: Massenet, Jules
+  title: Ariane
+  ids:
+    imslp: Ariane (Massenet, Jules)
+  year: 1905
+formula: ''
+instrumentation:
+  additional_raw: Vocal soloists | Choir SATB
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ariane_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, Choir SATB, Orchestra'

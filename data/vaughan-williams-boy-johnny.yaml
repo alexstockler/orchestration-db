@@ -1,0 +1,18 @@
+id: vaughan-williams-boy-johnny
+work:
+  composer: Vaughan Williams, Ralph
+  title: Boy Johnny
+  ids:
+    imslp: Boy Johnny (Vaughan Williams, Ralph)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Boy_Johnny_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 2

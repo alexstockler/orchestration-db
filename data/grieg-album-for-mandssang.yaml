@@ -6,9 +6,8 @@ work:
     imslp: Album for Mandssang, Op.30 (Grieg, Edvard)
 formula: ''
 instrumentation:
-  soloists:
-  - baritone
   chorus_raw: male chorus
+  additional_raw: baritone (or tenor or bass-baritone)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Album_for_Mandssang%2C_Op.30_%28Grieg%2C_Edvard%29

@@ -5,9 +5,12 @@ work:
   ids:
     imslp: The Oprichnik, TH 3 (Tchaikovsky, Pyotr)
   year: 1870
-formula: 2222 4231 tmp hp str
+formula: 3[pic.2.3] 2 2 2 4231 tmp hp str
 instrumentation:
-  flute: 2
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
   oboe: 2
   clarinet: 2
   bassoon: 2
@@ -23,11 +26,15 @@ instrumentation:
     - bass drum
   harp: 1
   strings: str
-  additional_raw: Cast ::Prince Zhemchuzhny (Князь Жемчужный) (bass) | Natalya (Наталья)
-    (soprano) | Molchan Mitkov (Молчан митьков (bass) | Boyarina Morozova (Боярына
-    Морозова) (mezzo-soprano) | Andrey Morozov (Андрей Морозов) (tenor) | Basmanov
-    (Басманов) (contralto) | Prince Vyazminsky (Князь Вязьминский) (baritone) | Zakharyevna
-    (Захарьевна) (soprano) :Mixed Chorus (SATB) | Orchestra ::piccolo
+  soloists:
+  - Prince Zhemchuzhny (Князь Жемчужный) (bass)
+  - Natalya (Наталья) (soprano)
+  - Molchan Mitkov (Молчан митьков (bass)
+  - Boyarina Morozova (Боярына Морозова) (mezzo-soprano)
+  - Andrey Morozov (Андрей Морозов) (tenor)
+  - Basmanov (Басманов) (contralto)
+  - Prince Vyazminsky (Князь Вязьминский) (baritone)
+  - Zakharyevna (Захарьевна) (soprano) :Mixed Chorus (SATB)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/The_Oprichnik%2C_TH_3_%28Tchaikovsky%2C_Pyotr%29

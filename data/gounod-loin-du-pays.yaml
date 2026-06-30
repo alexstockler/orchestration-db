@@ -1,0 +1,18 @@
+id: gounod-loin-du-pays
+work:
+  composer: Gounod, Charles
+  title: Loin du pays
+  ids:
+    imslp: Loin du pays, CG 403 (Gounod, Charles)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Loin_du_pays%2C_CG_403_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

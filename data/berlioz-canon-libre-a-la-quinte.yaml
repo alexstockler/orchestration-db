@@ -1,0 +1,19 @@
+id: berlioz-canon-libre-a-la-quinte
+work:
+  composer: Berlioz, Hector
+  title: Canon libre à la quinte
+  ids:
+    imslp: Canon libre à la quinte, H 14 (Berlioz, Hector)
+  year: 1822
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - contralto
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canon_libre_%C3%A0_la_quinte%2C_H_14_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: contralto, bass, piano'

@@ -1,0 +1,16 @@
+id: bach-nun-komm-der-heiden-heiland
+work:
+  composer: Bach, Johann Sebastian
+  title: Nun komm, der Heiden Heiland
+  ids:
+    imslp: Fantasia super 'Nun komm, der Heiden Heiland', BWV 659a (Bach, Johann Sebastian)
+  year: 1748
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_super_%27Nun_komm%2C_der_Heiden_Heiland%27%2C_BWV_659a_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

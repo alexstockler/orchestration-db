@@ -1,0 +1,18 @@
+id: berlioz-nessun-maggior-piacere
+work:
+  composer: Berlioz, Hector
+  title: Nessun maggior piacere
+  ids:
+    imslp: Nessun maggior piacere, H 114 (Berlioz, Hector)
+  year: 1847
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nessun_maggior_piacere%2C_H_114_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

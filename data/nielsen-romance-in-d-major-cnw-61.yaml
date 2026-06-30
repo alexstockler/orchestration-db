@@ -1,0 +1,17 @@
+id: nielsen-romance-in-d-major-cnw-61
+work:
+  composer: Nielsen, Carl
+  title: Romance in D major, CNW 61
+  ids:
+    imslp: Romance in D major, CNW 61 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romance_in_D_major%2C_CNW_61_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

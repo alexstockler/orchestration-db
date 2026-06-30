@@ -1,0 +1,16 @@
+id: bach-christ-unser-herr-zum-jordan-kam
+work:
+  composer: Bach, Johann Sebastian
+  title: Christ, unser Herr, zum Jordan kam
+  ids:
+    imslp: Christ, unser Herr, zum Jordan kam, BWV 685 (Bach, Johann Sebastian)
+  year: 1739
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Christ%2C_unser_Herr%2C_zum_Jordan_kam%2C_BWV_685_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

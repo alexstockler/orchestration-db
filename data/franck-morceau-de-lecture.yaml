@@ -1,0 +1,17 @@
+id: franck-morceau-de-lecture
+work:
+  composer: Franck, César
+  title: Morceau de lecture
+  ids:
+    imslp: Morceau de lecture, CFF 120 (Franck, César)
+  year: 1877
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: open instrument
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Morceau_de_lecture%2C_CFF_120_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: open instrument, piano'

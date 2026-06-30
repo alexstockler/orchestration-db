@@ -1,0 +1,15 @@
+id: janacek-lasske-tance
+work:
+  composer: Janáček, Leoš
+  title: Lašské Tance
+  ids:
+    imslp: Lašské Tance (Janáček, Leoš)
+  year: 1888
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La%C5%A1sk%C3%A9_Tance_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra'
+duration_minutes: 20

@@ -1,0 +1,17 @@
+id: scriabin-poeme-tragique
+work:
+  composer: Scriabin, Aleksandr
+  title: Poème tragique
+  ids:
+    imslp: Poème tragique, Op.34 (Scriabin, Aleksandr)
+  year: 1903
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Po%C3%A8me_tragique%2C_Op.34_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 5

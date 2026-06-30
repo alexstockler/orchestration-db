@@ -1,0 +1,20 @@
+id: faure-ecce-fidelis-servus
+work:
+  composer: Fauré, Gabriel
+  title: Ecce fidelis servus
+  ids:
+    imslp: Ecce fidelis servus, Op.54 (Fauré, Gabriel)
+  year: 1889
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - soprano
+  - tenor
+  - baritone
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ecce_fidelis_servus%2C_Op.54_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, baritone, organ'

@@ -1,0 +1,16 @@
+id: weber-die-drei-pintos
+work:
+  composer: Weber, Carl Maria von
+  title: Die drei Pintos
+  ids:
+    imslp: Die drei Pintos, J. Anh.5 (Weber, Carl Maria von)
+  year: 1820
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_drei_Pintos%2C_J._Anh.5_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, Chorus, Orchestra'

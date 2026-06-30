@@ -5,7 +5,7 @@ work:
   ids:
     imslp: Danse macabre, Op.40 (Saint-Saëns, Camille)
   year: 1874
-formula: 3[pic.2.3] 2 2 2 4231 tmp str
+formula: 3[pic.2.3] 2 2 2 4231 tmp hp str
 instrumentation:
   flute:
   - instrument: piccolo
@@ -25,9 +25,10 @@ instrumentation:
     - cymbals
     - bass drum
     - xylophone
+  harp: 1
   strings: str
-  additional_raw: harp* | violin solo (scordatura (G, D, A, E)) | (*) Harp may be
-    substituted with bell or tam-tam.
+  additional_raw: violin solo (scordatura (G, D, A, E)) | (*) Harp may be substituted
+    with bell or tam-tam.
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Danse_macabre%2C_Op.40_%28Saint-Sa%C3%ABns%2C_Camille%29

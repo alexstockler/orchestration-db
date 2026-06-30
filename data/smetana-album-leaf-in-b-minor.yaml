@@ -1,0 +1,17 @@
+id: smetana-album-leaf-in-b-minor
+work:
+  composer: Smetana, Bedřich
+  title: Album Leaf in B minor
+  ids:
+    imslp: Album Leaf in B minor, JB 1:43 (Smetana, Bedřich)
+  year: 1848
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album_Leaf_in_B_minor%2C_JB_1%3A43_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 2

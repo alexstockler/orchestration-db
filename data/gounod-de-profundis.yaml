@@ -1,0 +1,17 @@
+id: gounod-de-profundis
+work:
+  composer: Gounod, Charles
+  title: De profundis
+  ids:
+    imslp: De profundis, CG 88 (Gounod, Charles)
+  year: 1871
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/De_profundis%2C_CG_88_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voices (SATB), mixed chorus (SATB), orchestra'

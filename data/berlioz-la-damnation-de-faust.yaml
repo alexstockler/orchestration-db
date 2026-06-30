@@ -1,0 +1,54 @@
+id: berlioz-la-damnation-de-faust
+work:
+  composer: Berlioz, Hector
+  title: La damnation de Faust
+  ids:
+    imslp: La damnation de Faust, H 111 (Berlioz, Hector)
+  year: 1845
+formula: 3 2[1.2/Eh] 3[1.2.bcl] 4 4 4[1.2.cnt.cnt] 3 1 tmp+1 2hp ophicleide str
+instrumentation:
+  flute: 3
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 4
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+  harp: 2
+  extras:
+  - instrument: ophicleide
+  strings: str
+  soloists:
+  - Marguerite (mezzo-soprano)
+  - Faust (tenor)
+  - Méphistophélès (baritone or bass)
+  - Brander (bass) :Chorus ::6-part mixed chorus (SSTTBB)
+  - 'Children’s Chorus (SS) :'
+  additional_raw: '*(snare drum, bass drum & cymbal, suspended cymbal, triangle, tamtam,
+    tubular bell)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_damnation_de_Faust%2C_H_111_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra :Cast ::Marguerite
+    (mezzo-soprano), Faust (tenor), Méphistophélès (baritone or bass), Brander (bass)
+    :Chorus ::6-part mixed chorus (SSTTBB), Children’s Chorus (SS) :Orchestra ::3
+    flutes (also 3 piccolos), 2 oboes (2nd also English horn), :::2 clarinets, bass
+    clarinet, 4 bassoons ::4 horns, 2 trumpets, 2 cornets, 3 trombones, ophicleide,
+    tuba, timpani, percussion*, 2 harps, strings (15-15-10-10-9 players), *(snare
+    drum, bass drum & cymbal, suspended cymbal, triangle, tamtam, tubular bell)'
+duration_minutes: 120

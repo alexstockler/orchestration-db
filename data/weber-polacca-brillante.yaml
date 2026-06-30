@@ -1,0 +1,16 @@
+id: weber-polacca-brillante
+work:
+  composer: Weber, Carl Maria von
+  title: Polacca brillante
+  ids:
+    imslp: Polacca brillante, Op.72 (Weber, Carl Maria von)
+  year: 1819
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Polacca_brillante%2C_Op.72_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

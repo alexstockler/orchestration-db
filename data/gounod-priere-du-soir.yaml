@@ -1,0 +1,15 @@
+id: gounod-priere-du-soir
+work:
+  composer: Gounod, Charles
+  title: Prière du soir
+  ids:
+    imslp: Prière du soir, CG 188 (Gounod, Charles)
+  year: 1866
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pri%C3%A8re_du_soir%2C_CG_188_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATTBB)'

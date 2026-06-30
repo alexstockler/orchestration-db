@@ -8,7 +8,6 @@ work:
 formula: ''
 instrumentation:
   chorus_raw: chorus
-  additional_raw: orchestra
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/V%C3%A4in%C3%B6%27s_Song%2C_Op.110_%28Sibelius%2C_Jean%29

@@ -1,0 +1,16 @@
+id: vaughan-williams-flourish-for-wind-band
+work:
+  composer: Vaughan Williams, Ralph
+  title: Flourish for Wind Band
+  ids:
+    imslp: Flourish for Wind Band (Vaughan Williams, Ralph)
+  year: 1939
+formula: ''
+instrumentation:
+  additional_raw: wind band
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flourish_for_Wind_Band_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: wind band'
+duration_minutes: 2

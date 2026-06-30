@@ -1,0 +1,19 @@
+id: franck-fugue-vocale-en-re-mineur
+work:
+  composer: Franck, César
+  title: Fugue vocale en ré mineur
+  ids:
+    imslp: Fugue vocale en ré mineur (Franck, César)
+  year: 1840
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_vocale_en_r%C3%A9_mineur_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (SATB), organ'
+duration_minutes: 5

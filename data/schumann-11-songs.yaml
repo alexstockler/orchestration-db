@@ -9,7 +9,8 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: Voice
+  soloists:
+  - voice
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/11_Songs%2C_RSW%3AAnh%3AM2_%28Schumann%2C_Robert%29

@@ -1,0 +1,15 @@
+id: bach-fantasia-durch-alle-tonarten-gehend
+work:
+  composer: Bach, Johann Sebastian
+  title: Fantasia durch alle Tonarten gehend
+  ids:
+    imslp: Fantasia durch alle Tonarten gehend, BWV Anh.179 (Bach, Johann Sebastian)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_durch_alle_Tonarten_gehend%2C_BWV_Anh.179_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Organ'

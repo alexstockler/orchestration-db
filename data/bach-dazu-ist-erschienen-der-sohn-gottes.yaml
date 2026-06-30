@@ -1,0 +1,18 @@
+id: bach-dazu-ist-erschienen-der-sohn-gottes
+work:
+  composer: Bach, Johann Sebastian
+  title: Dazu ist erschienen der Sohn Gottes
+  ids:
+    imslp: Dazu ist erschienen der Sohn Gottes, BWV 40 (Bach, Johann Sebastian)
+  year: 1723
+formula: 0200 2000 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dazu_ist_erschienen_der_Sohn_Gottes%2C_BWV_40_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 horns, strings, continuo'

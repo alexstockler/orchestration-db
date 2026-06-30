@@ -6,7 +6,8 @@ work:
     imslp: Tout n'est qu'images fugitives, WWV 58 (Wagner, Richard)
 formula: ''
 instrumentation:
-  additional_raw: Voice and Piano
+  soloists:
+  - voice and piano
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Tout_n%27est_qu%27images_fugitives%2C_WWV_58_%28Wagner%2C_Richard%29

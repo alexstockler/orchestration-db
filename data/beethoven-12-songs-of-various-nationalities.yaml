@@ -14,14 +14,18 @@ instrumentation:
   - instrument: piano
   - instrument: piano
   soloists:
+  - voice
+  - voice
   - sopranos
   - bass
   - soprano
   - tenor
   - bass
+  - 2 voices
   chorus_raw: mixed chorus
-  additional_raw: voice | violin | cello | voice | violin | cello | violin | cello
-    | violin | cello | 2 voices | violin | cello
+  solo_strings:
+    violin: 5
+    cello: 5
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/12_Songs_of_Various_Nationalities%2C_WoO_157_%28Beethoven%2C_Ludwig_van%29

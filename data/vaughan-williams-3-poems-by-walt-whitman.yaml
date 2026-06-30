@@ -1,0 +1,19 @@
+id: vaughan-williams-3-poems-by-walt-whitman
+work:
+  composer: Vaughan Williams, Ralph
+  title: 3 Poems By Walt Whitman
+  ids:
+    imslp: 3 Poems by Walt Whitman (Vaughan Williams, Ralph)
+  year: 1925
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Poems_by_Walt_Whitman_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 8

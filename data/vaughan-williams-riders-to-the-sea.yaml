@@ -1,0 +1,36 @@
+id: vaughan-williams-riders-to-the-sea
+work:
+  composer: Vaughan Williams, Ralph
+  title: Riders to the Sea
+  ids:
+    imslp: Riders to the Sea (Vaughan Williams, Ralph)
+  year: 1927
+formula: 2211 2100 1perc str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 1
+  bassoon: 1
+  horn: 2
+  trumpet: 1
+  percussion:
+    players: 1
+  strings: str
+  soloists:
+  - ::Cathleen (soprano)
+  - Nora (soprano)
+  - The woman (mezzo-soprano)
+  - Maurya (contralto)
+  - 'Bartley (baritone) :Voices: ::2 sopranos'
+  - mezzo soprano
+  - contralto
+  - 'baritone :'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Riders_to_the_Sea_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: :Cast: ::Cathleen (soprano), Nora (soprano), The woman
+    (mezzo-soprano), Maurya (contralto), Bartley (baritone) :Voices: ::2 sopranos,
+    mezzo soprano, contralto, baritone :Orchestra: ::2 flutes, 2 oboes, clarinet,
+    bassoon, 2 horns, trumpet, percussion, strings'
+duration_minutes: 38

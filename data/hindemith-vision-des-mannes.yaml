@@ -1,0 +1,16 @@
+id: hindemith-vision-des-mannes
+work:
+  composer: Hindemith, Paul
+  title: Vision des Mannes
+  ids:
+    imslp: Vision des Mannes (Hindemith, Paul)
+  year: 1930
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vision_des_Mannes_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'
+duration_minutes: 2

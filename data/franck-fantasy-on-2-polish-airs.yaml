@@ -1,0 +1,16 @@
+id: franck-fantasy-on-2-polish-airs
+work:
+  composer: Franck, César
+  title: Fantasy on 2 Polish Airs
+  ids:
+    imslp: Fantasy on 2 Polish Airs, Op.15 (Franck, César)
+  year: 1845
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasy_on_2_Polish_Airs%2C_Op.15_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

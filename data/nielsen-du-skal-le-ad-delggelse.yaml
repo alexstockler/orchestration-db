@@ -1,0 +1,15 @@
+id: nielsen-du-skal-le-ad-delggelse
+work:
+  composer: Nielsen, Carl
+  title: Du skal le ad Ødelæggelse
+  ids:
+    imslp: Du skal le ad Ødelæggelse, CNW 370 (Nielsen, Carl)
+  year: 1930
+formula: ''
+instrumentation:
+  chorus_raw: female  chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Du_skal_le_ad_%C3%98del%C3%A6ggelse%2C_CNW_370_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: female (or male) chorus'

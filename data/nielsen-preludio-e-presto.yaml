@@ -1,0 +1,17 @@
+id: nielsen-preludio-e-presto
+work:
+  composer: Nielsen, Carl
+  title: Preludio e presto
+  ids:
+    imslp: Preludio e presto, Op.52 (Nielsen, Carl)
+  year: 1927
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Preludio_e_presto%2C_Op.52_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: violin'
+duration_minutes: 12

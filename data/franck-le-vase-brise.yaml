@@ -1,0 +1,18 @@
+id: franck-le-vase-brise
+work:
+  composer: Franck, César
+  title: Le vase brisé
+  ids:
+    imslp: Le vase brisé (Franck, César)
+  year: 1879
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_vase_bris%C3%A9_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

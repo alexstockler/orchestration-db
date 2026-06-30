@@ -1,0 +1,77 @@
+id: massenet-don-quichotte
+work:
+  composer: Massenet, Jules
+  title: Don Quichotte
+  ids:
+    imslp: Don Quichotte (Massenet, Jules)
+  year: 1910
+formula: 5[pic.2.3.4.5] 4[1.2.3/Eh.4] 3[1.2.3/bcl] 3 4331 tmp cel org 3hp gtr
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - doublings:
+    - english_horn
+  - {}
+  clarinet:
+  - {}
+  - {}
+  - doublings:
+    - bass_clarinet
+  bassoon: 3
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - snare drum
+    - castanets
+    - tambourine
+    - tam-tam
+    - bass drum
+    - cymbals
+  keyboards:
+  - instrument: celesta
+  - instrument: organ
+  harp: 3
+  extras:
+  - instrument: guitar
+  soloists:
+  - La belle Dulcinée (The beautiful Dulcinea) (contralto) :Don Quichotte (Don Quixote)
+    (bass) :Sancho (Sancho Panza) (baritone) :Pedro (travesti) (soprano) :Garcias
+    (travesti) (soprano) :Rodriguez (tenor) :Juan (tenor) :Chief of the Bandits (spoken)
+    :Two valets (baritones) :Four bandits (spoken) Mixed Chorus :Gentry
+  - Friends of Dulcinée
+  - Ladies
+  - Bandits
+  - Crowds
+  solo_strings:
+    violin: 1
+    viola: 1
+  additional_raw: ticking of a mill | bass On-stage Instruments
+  offstage:
+  - strings
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Don_Quichotte_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :La belle Dulcinée (The beautiful Dulcinea) (contralto)
+    :Don Quichotte (Don Quixote) (bass) :Sancho (Sancho Panza) (baritone) :Pedro (travesti)
+    (soprano) :Garcias (travesti) (soprano) :Rodriguez (tenor) :Juan (tenor) :Chief
+    of the Bandits (spoken) :Two valets (baritones) :Four bandits (spoken) Mixed Chorus
+    :Gentry, Friends of Dulcinée, Ladies, Bandits, Crowds Orchestra :piccolo, 2 flutes,
+    3 oboes (3rd also English horn), ::3 clarinets (3rd also bass clarinet), 3 bassoons
+    :4 horns, 3 trumpets, 3 trombones, tuba, timpani :triangle, snare drum, castanets,
+    tambourine, tam-tam, ticking of a mill, bass drum, cymbals :celesta, 2 harps,
+    strings Off-stage Instruments :2 flutes, oboe (also English horn), tambourine,
+    triangle, organ, harp, violin, viola, bass On-stage Instruments :guitar (played
+    by Dulcinée in Act IV)'

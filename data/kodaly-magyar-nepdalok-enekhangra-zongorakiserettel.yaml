@@ -1,0 +1,18 @@
+id: kodaly-magyar-nepdalok-enekhangra-zongorakiserettel
+work:
+  composer: Kodály, Zoltán
+  title: Magyar népdalok. Énekhangra zongorakisérettel
+  ids:
+    imslp: Magyar népdalok (Kodály, Zoltán)
+  year: 1906
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Magyar_n%C3%A9pdalok_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

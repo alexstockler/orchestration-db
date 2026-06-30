@@ -1,0 +1,20 @@
+id: hindemith-die-serenaden
+work:
+  composer: Hindemith, Paul
+  title: Die Serenaden
+  ids:
+    imslp: Die Serenaden, Op.35 (Hindemith, Paul)
+  year: 1924
+formula: 0100 0000
+instrumentation:
+  oboe: 1
+  soloists:
+  - soprano
+  solo_strings:
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Serenaden%2C_Op.35_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, oboe, viola, cello'

@@ -11,7 +11,11 @@ instrumentation:
   clarinet: 1
   bassoon: 1
   horn: 2
-  additional_raw: 3 violins | 3 viola | 2 cellos | 2 basses
+  solo_strings:
+    violin: 3
+    viola: 3
+    cello: 2
+  additional_raw: 2 basses
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Concerto_in_E-flat_major%2C_K060_%28Stravinsky%2C_Igor%29

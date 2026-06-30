@@ -5,13 +5,18 @@ work:
   ids:
     imslp: March in D minor, WAB 96 (Bruckner, Anton)
   year: 1862
-formula: 2220 0200
+formula: 2222 2230 tmp str
 instrumentation:
   flute: 2
   oboe: 2
   clarinet: 2
+  bassoon: 2
+  horn: 2
   trumpet: 2
-  additional_raw: 2 bassoons + 2 horns | 3 trombones + timpani + strings
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/March_in_D_minor%2C_WAB_96_%28Bruckner%2C_Anton%29

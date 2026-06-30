@@ -1,0 +1,20 @@
+id: franck-domine-non-secundum
+work:
+  composer: Franck, César
+  title: Domine non secundum
+  ids:
+    imslp: Domine non secundum, FWV 66 (Franck, César)
+  year: 1871
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - soprano
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Domine_non_secundum%2C_FWV_66_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, bass, organ'

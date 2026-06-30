@@ -1,0 +1,14 @@
+id: gounod-marche-solennelle
+work:
+  composer: Gounod, Charles
+  title: Marche solennelle
+  ids:
+    imslp: Marche solennelle (Gounod, Charles)
+  year: 1878
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marche_solennelle_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra'

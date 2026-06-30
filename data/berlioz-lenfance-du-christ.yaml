@@ -1,0 +1,49 @@
+id: berlioz-lenfance-du-christ
+work:
+  composer: Berlioz, Hector
+  title: L’enfance du Christ
+  ids:
+    imslp: L'enfance du Christ, H 130 (Berlioz, Hector)
+  year: 1850
+formula: 2[1.2/pic] 2[1.2/Eh] 2 2 2 4[1.2.cnt.cnt] 3 0 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  percussion:
+    timpani: 1
+  harp: 1
+  strings: str
+  soloists:
+  - Le récitant (tenor)
+  - Centurion (tenor)
+  - Polydorus (bass)
+  - La vierge Marie (mezzo-soprano)
+  - Joseph (baritone)
+  - Hérode (bass)
+  - Le père de famille (bass) Mixed Chorus(SSAATTBB)
+  additional_raw: organ/harmonium
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27enfance_du_Christ%2C_H_130_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Le récitant (tenor), Centurion (tenor), Polydorus
+    (bass), La vierge Marie (mezzo-soprano), Joseph (baritone), Hérode (bass), Le
+    père de famille (bass) Mixed Chorus(SSAATTBB), Orchestra :2 flutes (2nd also piccolo),
+    2 oboes (2nd also English horn), 2 clarinets, 2 bassoons, 2 horns, 2 trumpets,
+    2 cornets, 3 trombones, timpani, harp, organ/harmonium, strings'
+duration_minutes: 95

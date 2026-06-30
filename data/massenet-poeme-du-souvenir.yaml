@@ -1,0 +1,18 @@
+id: massenet-poeme-du-souvenir
+work:
+  composer: Massenet, Jules
+  title: Poème du souvenir
+  ids:
+    imslp: Poème du souvenir (Massenet, Jules)
+  year: 1868
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Po%C3%A8me_du_souvenir_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

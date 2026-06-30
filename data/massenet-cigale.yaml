@@ -1,0 +1,17 @@
+id: massenet-cigale
+work:
+  composer: Massenet, Jules
+  title: Cigale
+  ids:
+    imslp: Cigale (ballet) (Massenet, Jules)
+  year: 1902
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cigale_%28ballet%29_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, female chorus, orchestra'

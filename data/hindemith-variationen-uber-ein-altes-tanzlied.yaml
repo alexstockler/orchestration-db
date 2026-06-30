@@ -1,0 +1,16 @@
+id: hindemith-variationen-uber-ein-altes-tanzlied
+work:
+  composer: Hindemith, Paul
+  title: Variationen über ein altes Tanzlied
+  ids:
+    imslp: Variationen über ein altes Tanzlied (Hindemith, Paul)
+  year: 1939
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variationen_%C3%BCber_ein_altes_Tanzlied_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'
+duration_minutes: 6

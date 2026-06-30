@@ -1,0 +1,15 @@
+id: bach-freu-dich-sehr-o-meine-seele
+work:
+  composer: Bach, Johann Sebastian
+  title: Freu dich sehr, o meine Seele
+  ids:
+    imslp: Freu dich sehr, o meine Seele, BWV Anh.52 (Bach, Johann Sebastian)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Freu_dich_sehr%2C_o_meine_Seele%2C_BWV_Anh.52_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

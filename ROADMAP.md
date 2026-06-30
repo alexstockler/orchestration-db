@@ -1,9 +1,48 @@
 # Roadmap
 
-Current state: **~2,100 works** across 18 composers (Beethoven, Brahms, Mahler,
-Tchaikovsky, Bruckner, Sibelius, Dvořák, Schumann, Mendelssohn, Saint-Saëns,
-Rimsky-Korsakov, Grieg, Debussy, Wagner + a handful of others), all from IMSLP
-with a working scraper, parser, validator, and local web UI.
+Current state: **~6,043 works** across 42 composers, all ingested from IMSLP
+via the MediaWiki API. Scraper, instrumentation parser, validator, and local
+web UI are all working.
+
+## Ingestion log
+
+| Date | Composers added | Works written |
+|---|---|---|
+| (initial) | Beethoven, Brahms, Mahler, Tchaikovsky, Bruckner, Sibelius, Dvořák, Schumann, Mendelssohn, Saint-Saëns, Rimsky-Korsakov, Grieg, Debussy, Wagner, Andriessen, Bach, Bartók, Berlioz, Elgar, Handel, Haydn, Hindemith, Janáček, Liszt, Mozart, Nielsen, Prokofiev, Rachmaninoff, Ravel, Schubert, Shostakovich, Strauss R., Stravinsky, Vaughan Williams, Verdi, Vivaldi, Wagner | ~5,466 |
+| 2026-06-30 | Holst (72), Puccini (25), Bizet (80), Fauré (115), Franck (93) | +385 → **6,043** |
+| 2026-06-30 | Respighi (68), Smetana (78), Kodály (47) | +193 → **6,236** |
+| 2026-06-30 | Mussorgsky (77), Borodin (31), Gounod (242), Glazunov (119), Scriabin (79), Weber (104), Massenet (287), Offenbach (143), Lalo (36), Delibes (71) | +1,189 → **7,425** |
+
+**Notes on composers not yet ingested:**
+- **Britten, Benjamin** — 0 works on IMSLP; died 1976, in copyright until ~2047. Needs publisher scraping (Boosey & Hawkes).
+- **Copland, Aaron** — already ingested (10 early public-domain works). Major works (Appalachian Spring, Fanfare, etc.) are still in copyright; need publisher scraping.
+- **Messiaen, Olivier** — died 1992, in copyright for decades. Not viable via IMSLP.
+- **Barber, Samuel** — died 1981, in copyright. Not viable via IMSLP.
+
+**Next composers to add via IMSLP (public domain, good coverage):**
+
+| Composer | Notes |
+|---|---|
+| Walton, William | Some early works on IMSLP |
+| Holmboe, Vagn | Public domain, Danish symphonist |
+| Zemlinsky, Alexander | Public domain, good IMSLP coverage |
+| Korngold, Erich Wolfgang | Some early works on IMSLP |
+| Martinů, Bohuslav | Public domain, decent IMSLP coverage |
+| Wolf, Hugo | Public domain, good IMSLP coverage |
+| Loewe, Carl | Public domain |
+| Spohr, Louis | Public domain, large catalog |
+
+**Known parser gaps (items landing in `additional_raw` / `[review]`):**
+
+- Solo string instruments (`violin`, `cello`, `viola`) — chamber/solo works;
+  need a model decision on how to represent desk-count vs. solo
+- `2 bassoons + 2 horns` compound tokens
+- `N voices` / `1-4 voices` ranges
+- Stage/off-stage instrument annotations (`Off-stage Instruments`)
+- Novel percussion tokens: `jingles`, `fonica (= vibraphone)`, `tugboat siren`,
+  `auto horn`, `carillon`, `tavolette`, Chinese tuned gongs
+- Military-band instruments: `soprano cornet`, `E clarinet`, `bass saxophone`
+- `N+M` notation for non-bassoon families
 
 ---
 

@@ -1,0 +1,17 @@
+id: respighi-3-pezzi-per-organo
+work:
+  composer: Respighi, Ottorino
+  title: 3 Pezzi per Organo
+  ids:
+    imslp: 3 Pieces for Organ (Respighi, Ottorino)
+  year: 1910
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Pieces_for_Organ_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 10

@@ -1,0 +1,18 @@
+id: mussorgsky-hebrew-song
+work:
+  composer: Mussorgsky, Modest
+  title: Hebrew Song
+  ids:
+    imslp: Hebrew Song (Mussorgsky, Modest)
+  year: 1867
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hebrew_Song_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

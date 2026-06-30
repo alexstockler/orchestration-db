@@ -1,0 +1,19 @@
+id: holst-hymns-from-the-rig-veda
+work:
+  composer: Holst, Gustav
+  title: Hymns from the Rig Veda
+  ids:
+    imslp: Hymns from the Rig Veda, Op.24 (Holst, Gustav)
+  year: 1907
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymns_from_the_Rig_Veda%2C_Op.24_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 25

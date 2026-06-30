@@ -1,0 +1,16 @@
+id: vaughan-williams-5-variants-of-dives-and-lazarus
+work:
+  composer: Vaughan Williams, Ralph
+  title: 5 Variants of ‘Dives and Lazarus’
+  ids:
+    imslp: 5 Variants of 'Dives and Lazarus' (Vaughan Williams, Ralph)
+  year: 1939
+formula: hp str
+instrumentation:
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Variants_of_%27Dives_and_Lazarus%27_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: harp, strings'

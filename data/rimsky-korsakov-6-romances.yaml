@@ -8,7 +8,8 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: voice
+  soloists:
+  - voice
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/6_Romances%2C_Op.8_%28Rimsky-Korsakov%2C_Nikolay%29

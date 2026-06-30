@@ -1,0 +1,15 @@
+id: bach-christus-ist-erstanden
+work:
+  composer: Bach, Johann Sebastian
+  title: Christus ist erstanden
+  ids:
+    imslp: Christus ist erstanden, BWV 284 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Christus_ist_erstanden%2C_BWV_284_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

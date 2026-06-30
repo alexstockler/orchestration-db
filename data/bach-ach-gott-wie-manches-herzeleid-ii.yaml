@@ -1,0 +1,21 @@
+id: bach-ach-gott-wie-manches-herzeleid-ii
+work:
+  composer: Bach, Johann Sebastian
+  title: Ach Gott, wie manches Herzeleid [II]
+  ids:
+    imslp: Ach Gott, wie manches Herzeleid, BWV 58 (Bach, Johann Sebastian)
+  year: 1727
+formula: 0200 0000
+instrumentation:
+  oboe: 2
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: taille | continuo (harpsichord and/or organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach_Gott%2C_wie_manches_Herzeleid%2C_BWV_58_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, taille, 2 violins, viola, continuo (harpsichord
+    and/or organ)'
+duration_minutes: 15

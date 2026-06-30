@@ -1,0 +1,15 @@
+id: bach-den-vater-dort-oben
+work:
+  composer: Bach, Johann Sebastian
+  title: Den Vater dort oben
+  ids:
+    imslp: Den Vater dort oben, BWV 292 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Den_Vater_dort_oben%2C_BWV_292_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

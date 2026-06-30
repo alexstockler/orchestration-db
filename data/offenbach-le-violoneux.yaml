@@ -1,0 +1,15 @@
+id: offenbach-le-violoneux
+work:
+  composer: Offenbach, Jacques
+  title: Le violoneux
+  ids:
+    imslp: Le violoneux (Offenbach, Jacques)
+  year: 1855
+formula: ''
+instrumentation:
+  additional_raw: vocal soli
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_violoneux_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soli, orchestra'

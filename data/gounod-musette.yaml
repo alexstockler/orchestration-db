@@ -1,0 +1,16 @@
+id: gounod-musette
+work:
+  composer: Gounod, Charles
+  title: Musette
+  ids:
+    imslp: Musette, CG 584 (Gounod, Charles)
+  year: 1863
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Musette%2C_CG_584_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

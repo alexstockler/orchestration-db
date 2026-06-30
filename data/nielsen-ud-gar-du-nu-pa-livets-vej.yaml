@@ -1,0 +1,17 @@
+id: nielsen-ud-gar-du-nu-pa-livets-vej
+work:
+  composer: Nielsen, Carl
+  title: Ud går du nu på livets vej
+  ids:
+    imslp: Ud går du nu på livets vej (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ud_g%C3%A5r_du_nu_p%C3%A5_livets_vej_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

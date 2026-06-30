@@ -1,0 +1,16 @@
+id: scriabin-piano-sonata-no-10
+work:
+  composer: Scriabin, Aleksandr
+  title: Piano Sonata No.10
+  ids:
+    imslp: Piano Sonata No.10, Op.70 (Scriabin, Aleksandr)
+  year: 1913
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.10%2C_Op.70_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

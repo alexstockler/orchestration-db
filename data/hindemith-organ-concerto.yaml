@@ -1,0 +1,45 @@
+id: hindemith-organ-concerto
+work:
+  composer: Hindemith, Paul
+  title: Organ Concerto
+  ids:
+    imslp: Organ Concerto (Hindemith, Paul)
+  year: 1962
+formula: 2[1.2/pic] 2 2 3[1.2.cbn] 2231 tmp cel str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - suspended cymbal
+    - snare drum
+    - bass drum
+    - glockenspiel
+  keyboards:
+  - instrument: celesta
+  strings: str
+  soloists:
+  - Solo - organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Organ_Concerto_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Organ and Orchestra :Solo - organ, Orchestra ::2 flutes
+    (2nd also piccolo), 2 oboes, 2 clarinets (Bb) :::2 bassoons, contrabassoon ::2
+    horns (F), 2 trumpets (C), 3 trombones, tuba, timpani, cymbals, suspended cymbal,
+    snare drum,, bass drum, glockenspiel, celesta, strings'
+duration_minutes: 28

@@ -1,0 +1,18 @@
+id: massenet-dieu-crea-le-desert
+work:
+  composer: Massenet, Jules
+  title: Dieu créa le désert
+  ids:
+    imslp: Dieu créa le désert (Massenet, Jules)
+  year: 1910
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dieu_cr%C3%A9a_le_d%C3%A9sert_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'

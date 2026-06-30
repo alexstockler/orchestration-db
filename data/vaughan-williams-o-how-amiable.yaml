@@ -1,0 +1,15 @@
+id: vaughan-williams-o-how-amiable
+work:
+  composer: Vaughan Williams, Ralph
+  title: O How Amiable
+  ids:
+    imslp: O How Amiable (Vaughan Williams, Ralph)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: military band
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_How_Amiable_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), military band'

@@ -1,0 +1,17 @@
+id: gounod-la-siesta
+work:
+  composer: Gounod, Charles
+  title: La siesta
+  ids:
+    imslp: La siesta, CG 399 (Gounod, Charles)
+  year: 1871
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 2 soprano voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_siesta%2C_CG_399_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 soprano voices, piano'

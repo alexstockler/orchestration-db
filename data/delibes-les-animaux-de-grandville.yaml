@@ -1,0 +1,17 @@
+id: delibes-les-animaux-de-grandville
+work:
+  composer: Delibes, Léo
+  title: Les animaux de Grandville
+  ids:
+    imslp: Les animaux de Grandville (Delibes, Léo)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_animaux_de_Grandville_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

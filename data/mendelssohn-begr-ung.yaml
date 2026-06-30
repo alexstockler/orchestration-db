@@ -16,7 +16,9 @@ instrumentation:
   - tenor
   - bass
   - male choir (TTBB)
-  additional_raw: cellos | basses
+  solo_strings:
+    cello: 1
+  additional_raw: basses
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Begr%C3%BC%C3%9Fung%2C_MWV_D_2_%28Mendelssohn%2C_Felix%29

@@ -1,0 +1,17 @@
+id: delibes-les-norvegiennes
+work:
+  composer: Delibes, Léo
+  title: Les norvégiennes
+  ids:
+    imslp: Les norvégiennes (Delibes, Léo)
+  year: 1892
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: SA Chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_norv%C3%A9giennes_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: SA Chorus, Piano'

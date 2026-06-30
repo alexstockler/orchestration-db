@@ -1,0 +1,16 @@
+id: respighi-nevicata
+work:
+  composer: Respighi, Ottorino
+  title: Nevicata
+  ids:
+    imslp: Nevicata (Respighi, Ottorino)
+  year: 1906
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nevicata_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and piano'

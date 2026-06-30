@@ -1,0 +1,14 @@
+id: holst-scherzo
+work:
+  composer: Holst, Gustav
+  title: Scherzo
+  ids:
+    imslp: Scherzo, H.192 (Holst, Gustav)
+  year: 1933
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scherzo%2C_H.192_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

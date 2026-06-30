@@ -1,0 +1,17 @@
+id: nielsen-lr-mig-nattens-stjrne
+work:
+  composer: Nielsen, Carl
+  title: Lær mig nattens stjærne
+  ids:
+    imslp: Lær mig, nattens stjærne, CNW 258 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%C3%A6r_mig%2C_nattens_stj%C3%A6rne%2C_CNW_258_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

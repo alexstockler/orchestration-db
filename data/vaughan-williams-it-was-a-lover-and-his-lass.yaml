@@ -1,0 +1,18 @@
+id: vaughan-williams-it-was-a-lover-and-his-lass
+work:
+  composer: Vaughan Williams, Ralph
+  title: It Was a Lover and His Lass
+  ids:
+    imslp: It Was a Lover and His Lass (Vaughan Williams, Ralph)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/It_Was_a_Lover_and_His_Lass_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, piano'
+duration_minutes: 2

@@ -1,0 +1,16 @@
+id: bartok-improvisations-on-hungarian-peasant-songs
+work:
+  composer: Bartók, Béla
+  title: Improvisations on Hungarian Peasant Songs
+  ids:
+    imslp: Improvisations on Hungarian Peasant Songs, Op.20 (Bartók, Béla)
+  year: 1920
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Improvisations_on_Hungarian_Peasant_Songs%2C_Op.20_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,17 @@
+id: delibes-chant-de-l-almee
+work:
+  composer: Delibes, Léo
+  title: Chant de l'almée
+  ids:
+    imslp: Chant de l'almée (Delibes, Léo)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chant_de_l%27alm%C3%A9e_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

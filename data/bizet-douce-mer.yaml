@@ -1,0 +1,18 @@
+id: bizet-douce-mer
+work:
+  composer: Bizet, Georges
+  title: Douce mer
+  ids:
+    imslp: Douce mer (Bizet, Georges)
+  year: 1867
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Douce_mer_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

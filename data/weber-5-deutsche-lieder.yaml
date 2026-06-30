@@ -1,0 +1,22 @@
+id: weber-5-deutsche-lieder
+work:
+  composer: Weber, Carl Maria von
+  title: 5 Deutsche Lieder
+  ids:
+    imslp: 5 Deutsche Lieder, Op.25 (Weber, Carl Maria von)
+  year: 1811
+formula: pf gtr
+instrumentation:
+  keyboards:
+  - instrument: piano
+  extras:
+  - instrument: guitar
+  soloists:
+  - voice
+  - voice
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Deutsche_Lieder%2C_Op.25_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, guitar (or piano); voice, mixed chorus, piano (No.5)'

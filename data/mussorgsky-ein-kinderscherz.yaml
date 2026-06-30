@@ -1,0 +1,16 @@
+id: mussorgsky-ein-kinderscherz
+work:
+  composer: Mussorgsky, Modest
+  title: Ein Kinderscherz
+  ids:
+    imslp: Ein Kinderscherz (Mussorgsky, Modest)
+  year: 1859
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ein_Kinderscherz_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

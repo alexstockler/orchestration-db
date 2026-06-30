@@ -1,0 +1,15 @@
+id: bach-canon-in-g-minor
+work:
+  composer: Bach, Johann Sebastian
+  title: Canon in G minor
+  ids:
+    imslp: Canon in G minor, BWV Anh.72 (Bach, Johann Sebastian)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canon_in_G_minor%2C_BWV_Anh.72_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

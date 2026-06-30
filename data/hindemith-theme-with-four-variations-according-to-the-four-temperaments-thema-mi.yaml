@@ -1,0 +1,20 @@
+id: hindemith-theme-with-four-variations-according-to-the-four-temperaments-thema-mi
+work:
+  composer: Hindemith, Paul
+  title: Theme with Four Variations (according to the Four Temperaments), Thema mit
+    vier Variationen
+  ids:
+    imslp: The Four Temperaments (Hindemith, Paul)
+  year: 1940
+formula: pf str
+instrumentation:
+  keyboards:
+  - instrument: piano
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Four_Temperaments_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: piano, strings (violins I, violins II, violas, cellos,
+    basses)'
+duration_minutes: 30

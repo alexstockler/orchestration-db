@@ -1,0 +1,18 @@
+id: massenet-la-nuit
+work:
+  composer: Massenet, Jules
+  title: La nuit
+  ids:
+    imslp: La nuit (Massenet, Jules)
+  year: 1912
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_nuit_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

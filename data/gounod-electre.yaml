@@ -1,0 +1,16 @@
+id: gounod-electre
+work:
+  composer: Gounod, Charles
+  title: Électre
+  ids:
+    imslp: Électre, CG 23 (Gounod, Charles)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%89lectre%2C_CG_23_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, female chorus, orchestra'

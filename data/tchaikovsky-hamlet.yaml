@@ -5,8 +5,9 @@ work:
   ids:
     imslp: Hamlet (incidental music), Op.67a (Tchaikovsky, Pyotr)
   year: 1891
-formula: 0222 2 2 1[btbn] 0 tmp str
+formula: 2222 2 2 1[btbn] 0 tmp str
 instrumentation:
+  flute: 2
   oboe: 2
   clarinet: 2
   bassoon: 2
@@ -19,9 +20,11 @@ instrumentation:
     instruments:
     - side drum
     - tam-tam
+    - bell
   strings: str
-  additional_raw: 'Ophélie (Офелия) — soprano | Fossoyeur (Могильщик) — baritone |
-    Orchestra: 2 flutes | bell'
+  soloists:
+  - Ophélie (Офелия) — soprano
+  - Fossoyeur (Могильщик) — baritone
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Hamlet_%28incidental_music%29%2C_Op.67a_%28Tchaikovsky%2C_Pyotr%29

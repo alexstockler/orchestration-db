@@ -8,7 +8,9 @@ work:
 formula: 0020 0000
 instrumentation:
   clarinet: 2
-  additional_raw: alto clarinet | baritone or mezzo-soprano
+  soloists:
+  - baritone
+  additional_raw: alto clarinet
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Elegy_for_J.F.K.%2C_K100_%28Stravinsky%2C_Igor%29

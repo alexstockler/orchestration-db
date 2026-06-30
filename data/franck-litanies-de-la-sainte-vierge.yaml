@@ -1,0 +1,18 @@
+id: franck-litanies-de-la-sainte-vierge
+work:
+  composer: Franck, César
+  title: Litanies de la Sainte Vierge
+  ids:
+    imslp: Litanies de la Sainte Vierge (Franck, César)
+  year: 1888
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Litanies_de_la_Sainte_Vierge_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (SATB), organ'

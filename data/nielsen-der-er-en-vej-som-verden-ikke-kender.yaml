@@ -1,0 +1,17 @@
+id: nielsen-der-er-en-vej-som-verden-ikke-kender
+work:
+  composer: Nielsen, Carl
+  title: Der er en Vej, som Verden ikke kender
+  ids:
+    imslp: Der er en Vej, som Verden ikke kender, CNW 158 (Nielsen, Carl)
+  year: 1914
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: piano / mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_er_en_Vej%2C_som_Verden_ikke_kender%2C_CNW_158_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano / mixed chorus'

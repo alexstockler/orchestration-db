@@ -1,0 +1,15 @@
+id: gounod-l-arithmetique-cg-248
+work:
+  composer: Gounod, Charles
+  title: L'arithmétique, CG 248
+  ids:
+    imslp: L'arithmétique, CG 248 (Gounod, Charles)
+  year: 1853
+formula: ''
+instrumentation:
+  chorus_raw: children's chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27arithm%C3%A9tique%2C_CG_248_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: children''s chorus (3-part)'

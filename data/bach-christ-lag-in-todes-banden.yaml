@@ -1,0 +1,15 @@
+id: bach-christ-lag-in-todes-banden
+work:
+  composer: Bach, Johann Sebastian
+  title: Christ lag in Todes Banden
+  ids:
+    imslp: Christ lag in Todes Banden, BWV 279 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Christ_lag_in_Todes_Banden%2C_BWV_279_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

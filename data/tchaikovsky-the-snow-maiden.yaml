@@ -5,9 +5,12 @@ work:
   ids:
     imslp: The Snow Maiden, Op.12 (Tchaikovsky, Pyotr)
   year: 1873
-formula: 2 3[1.2.Eh] 2 2 4231 tmp hp str
+formula: 3[pic.2.3] 3[1.2.Eh] 2 2 4231 tmp hp str
 instrumentation:
-  flute: 2
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
   oboe:
   - {}
   - {}
@@ -28,8 +31,10 @@ instrumentation:
     - bass drum
   harp: 1
   strings: str
-  additional_raw: Voices ::Lel (Лель) mezzo-soprano | Frost (Мороз) tenor | Brusila
-    (Брусила) tenor :Mixed Chorus (SATB) | Orchestra ::piccolo
+  soloists:
+  - Lel (Лель) mezzo-soprano
+  - Frost (Мороз) tenor
+  - Brusila (Брусила) tenor :Mixed Chorus (SATB)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/The_Snow_Maiden%2C_Op.12_%28Tchaikovsky%2C_Pyotr%29

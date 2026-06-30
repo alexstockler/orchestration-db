@@ -1,0 +1,15 @@
+id: bach-das-walt-mein-gott
+work:
+  composer: Bach, Johann Sebastian
+  title: Das walt mein Gott
+  ids:
+    imslp: Das walt mein Gott, BWV 291 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_walt_mein_Gott%2C_BWV_291_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

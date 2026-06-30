@@ -1,0 +1,16 @@
+id: offenbach-le-fleuve-d-or
+work:
+  composer: Offenbach, Jacques
+  title: Le fleuve d'or
+  ids:
+    imslp: Le fleuve d'or (Offenbach, Jacques)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_fleuve_d%27or_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

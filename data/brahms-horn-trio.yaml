@@ -10,7 +10,8 @@ instrumentation:
   horn: 1
   keyboards:
   - instrument: piano
-  additional_raw: violin
+  solo_strings:
+    violin: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Horn_Trio%2C_Op.40_%28Brahms%2C_Johannes%29

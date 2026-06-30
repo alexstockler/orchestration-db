@@ -1,0 +1,43 @@
+id: vaughan-williams-serenade-to-music
+work:
+  composer: Vaughan Williams, Ralph
+  title: Serenade to Music
+  ids:
+    imslp: Serenade to Music (Vaughan Williams, Ralph)
+  year: 1938
+formula: 2[1.2/pic] 2[1.Eh] 2 2 4231 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - bass drum
+  harp: 1
+  strings: str
+  soloists:
+  - violin
+  - 4 sopranos
+  - 4 altos
+  - 4 tenors
+  - 4 basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Serenade_to_Music_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: Soloists: violin, 4 sopranos, 4 altos, 4 tenors, 4 basses,
+    Orchestra: 2 flutes (2nd also piccolo), oboe, english horn, 2 clarinets, 2 bassoons,
+    4 horns, 2 trumpets, 3 trombones, tuba, timpani, triangle, bass drum, harp, strings'
+duration_minutes: 14

@@ -1,0 +1,65 @@
+id: verdi-rigoletto
+work:
+  composer: Verdi, Giuseppe
+  title: Rigoletto
+  ids:
+    imslp: Rigoletto (Verdi, Giuseppe)
+  year: 1851
+formula: 2[1.2/pic] 3[1.2.Eh] 2 2 4231 tmp+1 str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+  strings: str
+  soloists:
+  - Il Duca di Mantova (tenor)
+  - Rigoletto
+  - buffone di Corte (baritone)
+  - Gilda
+  - figlia di Rigoletto (soprano)
+  - Sparafucile
+  - bravo (basso)
+  - Maddalena
+  - sua sorella (contralto)
+  - Giovanna
+  - custode di Gilda (mezzo-soprano)
+  - Il Conte di Monterone (baritone)
+  - Marullo
+  - cavaliere (baritono)
+  - Matteo Borsa
+  - cortigiano (tenor)
+  - Il Conte di Ceprano (basso)
+  - La Contessa
+  - sua sposa (mezzo-soprano)
+  - Usciere di Corte (basso)
+  - Paggio della Duchessa (mezzo-soprano) Mixed Chorus :Cavalieri
+  - Dame
+  - Paggi
+  - Alabardieri
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rigoletto_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: Roles :Il Duca di Mantova (tenor), Rigoletto, buffone di
+    Corte (baritone), Gilda, figlia di Rigoletto (soprano), Sparafucile, bravo (basso),
+    Maddalena, sua sorella (contralto), Giovanna, custode di Gilda (mezzo-soprano),
+    Il Conte di Monterone (baritone), Marullo, cavaliere (baritono), Matteo Borsa,
+    cortigiano (tenor), Il Conte di Ceprano (basso), La Contessa, sua sposa (mezzo-soprano),
+    Usciere di Corte (basso), Paggio della Duchessa (mezzo-soprano) Mixed Chorus :Cavalieri,
+    Dame, Paggi, Alabardieri Orchestra :2 flutes (2nd also piccolo), 2 oboes, English
+    horn, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani,
+    percussion, strings'

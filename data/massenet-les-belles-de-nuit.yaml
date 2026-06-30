@@ -1,0 +1,18 @@
+id: massenet-les-belles-de-nuit
+work:
+  composer: Massenet, Jules
+  title: Les belles de nuit
+  ids:
+    imslp: Les belles de nuit (Massenet, Jules)
+  year: 1887
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_belles_de_nuit_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

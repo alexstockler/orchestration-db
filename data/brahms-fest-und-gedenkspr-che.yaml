@@ -7,7 +7,7 @@ work:
   year: 1888
 formula: ''
 instrumentation:
-  additional_raw: 2 mixed choruses (SATB)
+  chorus_raw: 2 mixed choruses
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Fest-_und_Gedenkspr%C3%BCche%2C_Op.109_%28Brahms%2C_Johannes%29

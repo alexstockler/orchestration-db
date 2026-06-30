@@ -1,0 +1,18 @@
+id: nielsen-katholsk-ungdomssang-cnw-294
+work:
+  composer: Nielsen, Carl
+  title: Katholsk Ungdomssang, CNW 294
+  ids:
+    imslp: Katholsk Ungdomssang, CNW 294 (Nielsen, Carl)
+  year: 1913
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Katholsk_Ungdomssang%2C_CNW_294_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

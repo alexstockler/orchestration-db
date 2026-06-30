@@ -1,0 +1,56 @@
+id: berlioz-romeo-et-juliette
+work:
+  composer: Berlioz, Hector
+  title: Roméo et Juliette
+  ids:
+    imslp: Roméo et Juliette, H 79 (Berlioz, Hector)
+  year: 1839
+formula: 3[pic.2.3] 2[1.2/Eh] 2 4 4 4[1.2.cnt.cnt] 3 0 tmp 2hp ophicleide str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon: 4
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - tambourines
+    - triangles
+    - bass drum
+    - cymbals
+    - crotales
+  harp: 2
+  extras:
+  - instrument: ophicleide
+  strings:
+    standard: true
+    description: 15, 15, 10, 11, 9
+  soloists:
+  - Juliette (alto)
+  - Roméo (tenor)
+  - Le Père Laurence (bass) Mixed Chorus :small choir (12vv, ATB)
+  - 2 large choirs (STB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rom%C3%A9o_et_Juliette%2C_H_79_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Juliette (alto), Roméo (tenor), Le Père Laurence
+    (bass) Mixed Chorus :small choir (12vv, ATB), 2 large choirs (STB) Orchestra :piccolo,
+    2 flutes, 2 oboes (2nd also English horn), 2 clarinets, 4 bassoons, 4 horns, 2
+    trumpets, 2 cornets, 3 trombones, ophicleïde, timpani (2 players), 2 tambourines,
+    2 triangles, bass drum, cymbals, crotales (4 players), 2 harps, strings (15, 15,
+    10, 11, 9)'
+duration_minutes: 95

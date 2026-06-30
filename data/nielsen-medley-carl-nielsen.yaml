@@ -1,0 +1,14 @@
+id: nielsen-medley-carl-nielsen
+work:
+  composer: Nielsen, Carl
+  title: Medley Carl Nielsen
+  ids:
+    imslp: Medley (Nielsen, Carl)
+formula: ''
+instrumentation:
+  additional_raw: '| *****COMMENTS***** ='
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Medley_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: | *****COMMENTS***** ='

@@ -1,0 +1,15 @@
+id: bach-da-jesus-an-dem-kreuze-stund
+work:
+  composer: Bach, Johann Sebastian
+  title: Da Jesus an dem Kreuze stund
+  ids:
+    imslp: Da Jesus an dem Kreuze stund, BWV 1089 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Da_Jesus_an_dem_Kreuze_stund%2C_BWV_1089_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

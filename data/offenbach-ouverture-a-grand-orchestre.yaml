@@ -1,0 +1,13 @@
+id: offenbach-ouverture-a-grand-orchestre
+work:
+  composer: Offenbach, Jacques
+  title: Ouverture à grand orchestre
+  ids:
+    imslp: Ouverture à grand orchestre (Offenbach, Jacques)
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ouverture_%C3%A0_grand_orchestre_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

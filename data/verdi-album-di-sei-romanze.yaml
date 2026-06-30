@@ -1,0 +1,18 @@
+id: verdi-album-di-sei-romanze
+work:
+  composer: Verdi, Giuseppe
+  title: Album di Sei Romanze
+  ids:
+    imslp: Album di Sei Romanze (Verdi, Giuseppe)
+  year: 1845
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album_di_Sei_Romanze_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

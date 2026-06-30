@@ -1,0 +1,17 @@
+id: smetana-the-devil-s-wall
+work:
+  composer: Smetana, Bedřich
+  title: The Devil's Wall
+  ids:
+    imslp: Čertova stĕna, JB 1:122 (Smetana, Bedřich)
+  year: 1879
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Solo Voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C4%8Certova_st%C4%95na%2C_JB_1%3A122_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo Voices, chorus, orchestra'
+duration_minutes: 137

@@ -1,0 +1,18 @@
+id: mussorgsky-it-scatters-and-breaks
+work:
+  composer: Mussorgsky, Modest
+  title: It Scatters and Breaks
+  ids:
+    imslp: It Scatters and Breaks (Mussorgsky, Modest)
+  year: 1877
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/It_Scatters_and_Breaks_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

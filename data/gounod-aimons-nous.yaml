@@ -1,0 +1,18 @@
+id: gounod-aimons-nous
+work:
+  composer: Gounod, Charles
+  title: Aimons-nous
+  ids:
+    imslp: Aimons-nous, CG 449 (Gounod, Charles)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aimons-nous%2C_CG_449_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

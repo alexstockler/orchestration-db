@@ -1,0 +1,41 @@
+id: massenet-scenes-napolitaines
+work:
+  composer: Massenet, Jules
+  title: Scènes napolitaines
+  ids:
+    imslp: Scènes napolitaines (Massenet, Jules)
+  year: 1864
+formula: 2[1.2/pic] 2 2 2 4 3[cnt.cnt.cnt] 3 1 tmp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tambourine
+    - cymbals
+    - bass drum
+    - military drum
+    - glockenspiel
+  strings: str
+  additional_raw: chime (B)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sc%C3%A8nes_napolitaines_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes, 2 clarinets, 2 bassoons,,
+    4 horns, 3 cornets, 3 trombones, tuba, timpani, triangle, tambourine, cymbals,
+    bass drum, military drum, chime (B), glockenspiel, strings'

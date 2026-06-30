@@ -1,0 +1,16 @@
+id: bach-auf-meinen-lieben-gott
+work:
+  composer: Bach, Johann Sebastian
+  title: Auf meinen lieben Gott
+  ids:
+    imslp: Auf meinen lieben Gott, BWV 744 (Bach, Johann Sebastian)
+  year: 1893
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Auf_meinen_lieben_Gott%2C_BWV_744_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

@@ -1,0 +1,26 @@
+id: hindemith-suite-of-french-dances
+work:
+  composer: Hindemith, Paul
+  title: Suite of French Dances
+  ids:
+    imslp: Suite französischer Tänze (Hindemith, Paul)
+  year: 1948
+formula: 2[pic.2] 2[1.Eh] 0 1 0100 str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe:
+  - {}
+  - instrument: english_horn
+  bassoon: 1
+  trumpet: 1
+  strings: str
+  additional_raw: '[horn ?] | lute'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_franz%C3%B6sischer_T%C3%A4nze_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Chamber Orchestra: piccolo, flute, oboe, English horn,
+    bassoon, [horn ?], trumpet (C), lute, strings'
+duration_minutes: 9

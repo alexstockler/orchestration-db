@@ -10,7 +10,11 @@ instrumentation:
   clarinet: 1
   bassoon: 1
   horn: 1
-  additional_raw: violin | viola | cello | double bass
+  solo_strings:
+    violin: 1
+    viola: 1
+    cello: 1
+    double_bass: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Septet_in_E-flat_major%2C_Op.20_%28Beethoven%2C_Ludwig_van%29

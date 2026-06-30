@@ -1,0 +1,17 @@
+id: bach-es-ist-vollbracht-vergi-ja-nicht-dies-wort
+work:
+  composer: Bach, Johann Sebastian
+  title: Es ist vollbracht! Vergiß ja nicht dies Wort
+  ids:
+    imslp: Es ist vollbracht! Vergiß ja nicht dies Wort, BWV 458 (Bach, Johann Sebastian)
+  year: 1735
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_ist_vollbracht%21_Vergi%C3%9F_ja_nicht_dies_Wort%2C_BWV_458_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

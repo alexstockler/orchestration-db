@@ -1,0 +1,73 @@
+id: verdi-nabucco
+work:
+  composer: Verdi, Giuseppe
+  title: Nabucco
+  ids:
+    imslp: Nabucco (Verdi, Giuseppe)
+  year: 1841
+formula: 2[1.2/pic] 2[1.2/Eh] 2 2 4 2 3 1[cimb] tmp 2hp
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba:
+  - instrument: cimbasso
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - bass drum
+    - cymbals
+    - side drum
+  harp: 2
+  soloists:
+  - Nabucco
+  - re di Babilona (baritone)
+  - Ismaele
+  - nipote di Sedecia re di Gerusalemme (tenor)
+  - Zaccaria
+  - gran pontefice degli Ebrei (bass)
+  - Abigaille
+  - schiava
+  - creduta figlia primogenita di Nabucodonosor (soprano)
+  - Fenena
+  - figlia di Nabucodonosor (soprano)
+  - Il Gran Sacerdote di Belo (bass)
+  - Abdallo
+  - vecchio ufficiale del re di Babilonia (tenor)
+  - Anna
+  - sorella di Zaccaria (soprano) Mixed Chorus (SATB) :Soldati Babilonesi
+  - Soldati Ebrei
+  - Leviti
+  - Vergini Ebree
+  - Donne Babilonesi
+  - Magi
+  - Grandi del regno di Babilonia
+  - Popolo
+  - etc.
+  additional_raw: strings Onstage Band
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nabucco_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Nabucco, re di Babilona (baritone), Ismaele, nipote
+    di Sedecia re di Gerusalemme (tenor), Zaccaria, gran pontefice degli Ebrei (bass),
+    Abigaille, schiava, creduta figlia primogenita di Nabucodonosor (soprano), Fenena,
+    figlia di Nabucodonosor (soprano), Il Gran Sacerdote di Belo (bass), Abdallo,
+    vecchio ufficiale del re di Babilonia (tenor), Anna, sorella di Zaccaria (soprano)
+    Mixed Chorus (SATB) :Soldati Babilonesi, Soldati Ebrei, Leviti, Vergini Ebree,
+    Donne Babilonesi,, Magi, Grandi del regno di Babilonia, Popolo, etc. Orchestra
+    :2 flutes (2nd also piccolo), 2 oboes (2nd also English horn), 2 clarinets, 2
+    bassoons, 4 horns, 2 trumpets, 3 trombones, cimbasso* (contrabass trombone or
+    tuba), timpani, triangle, bass drum, cymbals, side drum, 2 harps, strings Onstage
+    Band'

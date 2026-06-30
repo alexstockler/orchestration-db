@@ -1,0 +1,20 @@
+id: faure-2-motets
+work:
+  composer: Fauré, Gabriel
+  title: 2 Motets
+  ids:
+    imslp: 2 Motets, Op.65 (Fauré, Gabriel)
+  year: 1894
+formula: org org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  - instrument: organ
+  soloists:
+  - 2 voices
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Motets%2C_Op.65_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, organ (No.1), female chorus (SSA), organ (No.2)'

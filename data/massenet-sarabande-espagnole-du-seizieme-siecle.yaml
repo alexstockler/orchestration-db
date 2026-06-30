@@ -1,0 +1,22 @@
+id: massenet-sarabande-espagnole-du-seizieme-siecle
+work:
+  composer: Massenet, Jules
+  title: Sarabande espagnole du seizième siècle
+  ids:
+    imslp: Sarabande espagnole du seizième siècle (Massenet, Jules)
+  year: 1875
+formula: 1101 0200 str
+instrumentation:
+  flute: 1
+  oboe: 1
+  bassoon: 1
+  trumpet: 2
+  percussion:
+    instruments:
+    - tambourine
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sarabande_espagnole_du_seizi%C3%A8me_si%C3%A8cle_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, bassoon, 2 trumpets, tambourine, strings'

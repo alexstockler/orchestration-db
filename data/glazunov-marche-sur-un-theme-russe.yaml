@@ -1,0 +1,35 @@
+id: glazunov-marche-sur-un-theme-russe
+work:
+  composer: Glazunov, Aleksandr
+  title: Marche sur un thème russe
+  ids:
+    imslp: Marche sur un thème russe, Op.76 (Glazunov, Aleksandr)
+  year: 1901
+formula: 3[pic.2.3] 2 3 2 4331 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 3
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - snare drum
+    - cymbals
+    - bass drum
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marche_sur_un_th%C3%A8me_russe%2C_Op.76_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 3 clarinets, 2 bassoons,, 4
+    horns, 3 trumpets, 3 trombones, tuba,, timpani, triangle, snare drum, cymbals,
+    bass drum, strings'

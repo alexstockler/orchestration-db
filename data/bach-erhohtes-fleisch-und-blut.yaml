@@ -1,0 +1,17 @@
+id: bach-erhohtes-fleisch-und-blut
+work:
+  composer: Bach, Johann Sebastian
+  title: Erhöhtes Fleisch und Blut
+  ids:
+    imslp: Erhöhtes Fleisch und Blut, BWV 173 (Bach, Johann Sebastian)
+  year: 1724
+formula: 2000 0000 str
+instrumentation:
+  flute: 2
+  strings: str
+  additional_raw: continuo (harpsichord and/or organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erh%C3%B6htes_Fleisch_und_Blut%2C_BWV_173_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, strings, continuo (harpsichord and/or organ)'

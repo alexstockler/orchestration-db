@@ -1,0 +1,17 @@
+id: smetana-6-characteristic-pieces
+work:
+  composer: Smetana, Bedřich
+  title: 6 Characteristic Pieces
+  ids:
+    imslp: 6 Characteristic Pieces, Op.1 (Smetana, Bedřich)
+  year: 1847
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Characteristic_Pieces%2C_Op.1_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 23

@@ -1,0 +1,18 @@
+id: massenet-noel-de-fleurs
+work:
+  composer: Massenet, Jules
+  title: Noël de fleurs
+  ids:
+    imslp: Noël de fleurs (Massenet, Jules)
+  year: 1912
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/No%C3%ABl_de_fleurs_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

@@ -1,0 +1,16 @@
+id: offenbach-melodies-de-anna-bolena
+work:
+  composer: Offenbach, Jacques
+  title: Mélodies de Anna Bolena
+  ids:
+    imslp: Mélodies de Anna Bolena (Offenbach, Jacques)
+  year: 1852
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/M%C3%A9lodies_de_Anna_Bolena_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: cello'

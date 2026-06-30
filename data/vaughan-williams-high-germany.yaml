@@ -1,0 +1,19 @@
+id: vaughan-williams-high-germany
+work:
+  composer: Vaughan Williams, Ralph
+  title: High Germany
+  ids:
+    imslp: High Germany (Vaughan Williams, Ralph)
+  year: 1923
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  - baritone
+  chorus_raw: male chorus
+  additional_raw: piano (optional)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/High_Germany_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor(s), baritone(s), male chorus (TBaB), piano (optional)'

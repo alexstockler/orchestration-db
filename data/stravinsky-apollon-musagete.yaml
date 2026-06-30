@@ -7,9 +7,13 @@ work:
   year: 1927
 formula: ''
 instrumentation:
+  solo_strings:
+    viola: 6
+    cello: 8
+    double_bass: 4
   additional_raw: 'Apoll | 3 Muses | Leto | 2 Godess | Terpsichore | Calliope | Polyhymnia
     Ensemble | 2 solo violins | 2 solo violas | solo double bass | 34 string instruments:
-    16 violins (8, 8) | 6 violas | 8 cellos (4, 4) | 4 double basses'
+    16 violins (8, 8)'
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Apollon_musag%C3%A8te%2C_K048_%28Stravinsky%2C_Igor%29

@@ -1,0 +1,18 @@
+id: offenbach-rends-moi-mon-ame
+work:
+  composer: Offenbach, Jacques
+  title: Rends-moi mon âme
+  ids:
+    imslp: Rends-moi mon âme (Offenbach, Jacques)
+  year: 1843
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rends-moi_mon_%C3%A2me_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

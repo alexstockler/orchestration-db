@@ -1,0 +1,31 @@
+id: franck-messe-a-trois-voix
+work:
+  composer: Franck, César
+  title: Messe à trois voix
+  ids:
+    imslp: Mass, Op.12 (Franck, César)
+  year: 1860
+formula: org org 2hp
+instrumentation:
+  keyboards:
+  - instrument: organ
+  - instrument: organ
+  harp: 2
+  soloists:
+  - tenor
+  - soprano
+  - bass
+  chorus_raw: mixed chorus
+  solo_strings:
+    cello: 2
+    double_bass: 2
+  additional_raw: Accompaniment | 1860 | Accompaniment | 1865 | Accompaniment | 1872
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mass%2C_Op.12_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: tenor, soprano (ad lib.), bass (ad lib.); mixed
+    chorus (STB), Accompaniment, 1860: orchestra, Accompaniment, 1865: harp, cello,
+    double bass, organ (containing O salutaris), Accompaniment, 1872: harp, cello,
+    double bass, organ (Panis angelicus replacing O salutaris)'
+duration_minutes: 45

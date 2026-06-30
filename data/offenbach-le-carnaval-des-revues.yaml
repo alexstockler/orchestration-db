@@ -1,0 +1,16 @@
+id: offenbach-le-carnaval-des-revues
+work:
+  composer: Offenbach, Jacques
+  title: Le carnaval des revues
+  ids:
+    imslp: Le carnaval des revues (Offenbach, Jacques)
+  year: 1860
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_carnaval_des_revues_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

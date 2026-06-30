@@ -1,0 +1,16 @@
+id: gounod-l-angelus
+work:
+  composer: Gounod, Charles
+  title: L'angélus
+  ids:
+    imslp: L'angélus, CG 609 (Gounod, Charles)
+  year: 1858
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27ang%C3%A9lus%2C_CG_609_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4 hands'

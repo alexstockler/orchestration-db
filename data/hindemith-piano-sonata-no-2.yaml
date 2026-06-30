@@ -1,0 +1,17 @@
+id: hindemith-piano-sonata-no-2
+work:
+  composer: Hindemith, Paul
+  title: Piano Sonata No.2
+  ids:
+    imslp: Piano Sonata No.2 (Hindemith, Paul)
+  year: 1936
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.2_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 13

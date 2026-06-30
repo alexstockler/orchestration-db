@@ -1,0 +1,19 @@
+id: mussorgsky-king-saul
+work:
+  composer: Mussorgsky, Modest
+  title: King Saul
+  ids:
+    imslp: King Saul (Mussorgsky, Modest)
+  year: 1863
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/King_Saul_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'
+duration_minutes: 3

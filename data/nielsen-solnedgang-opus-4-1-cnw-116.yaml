@@ -1,0 +1,17 @@
+id: nielsen-solnedgang-opus-4-1-cnw-116
+work:
+  composer: Nielsen, Carl
+  title: Solnedgang, opus 4.1, CNW 116
+  ids:
+    imslp: Solnedgang, opus 4.1, CNW 116 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Solnedgang%2C_opus_4.1%2C_CNW_116_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

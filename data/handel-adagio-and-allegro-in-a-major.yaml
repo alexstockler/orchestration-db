@@ -6,7 +6,9 @@ work:
     imslp: Adagio and Allegro in A major, HWV 406 (Handel, George Frideric)
 formula: ''
 instrumentation:
-  additional_raw: violin solo | 2 violins | continuo
+  solo_strings:
+    violin: 3
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Adagio_and_Allegro_in_A_major%2C_HWV_406_%28Handel%2C_George_Frideric%29

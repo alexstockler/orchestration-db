@@ -1,0 +1,49 @@
+id: massenet-marche-solennelle-pour-grand-orchestre
+work:
+  composer: Massenet, Jules
+  title: Marche solennelle pour grand orchestre
+  ids:
+    imslp: Marche solennelle (Massenet, Jules)
+  year: 1881
+formula: 3[1.2.pic] 2 3[Ebcl.2.3] 4 4 4 4 1[cbtba] tmp 2hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - instrument: piccolo
+  oboe: 2
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  bassoon: 4
+  horn: 4
+  trumpet: 4
+  trombone: 4
+  tuba:
+  - instrument: contrabass_tuba
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drum
+    - cymbals
+    - bass drum
+  harp: 2
+  strings: str
+  soloists:
+  - 'Fanfare: petite bugle (E)'
+  - 2 bugles (B)
+  - 2 trumpets (B)
+  - 4 trombones
+  - bass tuba (B)
+  - contrabass tuba
+  additional_raw: bass tuba (B)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marche_solennelle_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus and orchestra :Fanfare: petite bugle (E),
+    2 bugles (B), 2 trumpets (B), 4 trombones, bass tuba (B), contrabass tuba, Orchestra:
+    2 flutes, piccolo, 2 oboes, clarinet (E), 2 clarinets (B), 4 bassoons, 4 horns
+    (2 in B, 2 in F), 2 trumpets (B), 2 trumpets (F), 4 trombones, bass tuba (B),
+    contrabass tuba, timpani, snare drum, cymbals, bass drum, 2 harps, strings'

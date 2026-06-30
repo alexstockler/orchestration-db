@@ -1,0 +1,18 @@
+id: mussorgsky-hey-is-spinning-a-young-man-s-job
+work:
+  composer: Mussorgsky, Modest
+  title: Hey, Is Spinning a Young Man's Job?
+  ids:
+    imslp: Hey, Is Spinning a Young Man's Job? (Mussorgsky, Modest)
+  year: 1877
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hey%2C_Is_Spinning_a_Young_Man%27s_Job%3F_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'

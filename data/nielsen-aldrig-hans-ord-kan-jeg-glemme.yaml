@@ -1,0 +1,19 @@
+id: nielsen-aldrig-hans-ord-kan-jeg-glemme
+work:
+  composer: Nielsen, Carl
+  title: Aldrig hans Ord kan jeg glemme!
+  ids:
+    imslp: Aldrig hans Ord kan jeg glemme!, CNW 286 (Nielsen, Carl)
+  year: 1893
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aldrig_hans_Ord_kan_jeg_glemme%21%2C_CNW_286_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 3

@@ -1,0 +1,16 @@
+id: bach-ach-wie-nichtig-ach-wie-fluchtig
+work:
+  composer: Bach, Johann Sebastian
+  title: Ach wie nichtig, ach wie flüchtig
+  ids:
+    imslp: Ach wie nichtig, ach wie flüchtig, BWV 644 (Bach, Johann Sebastian)
+  year: 1714
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach_wie_nichtig%2C_ach_wie_fl%C3%BCchtig%2C_BWV_644_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

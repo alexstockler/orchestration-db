@@ -1,0 +1,16 @@
+id: delibes-la-mort-d-orphee
+work:
+  composer: Delibes, Léo
+  title: La mort d'Orphée
+  ids:
+    imslp: La mort d'Orphée (Delibes, Léo)
+  year: 1877
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Tenor and Mezzo-soprano vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_mort_d%27Orph%C3%A9e_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: Tenor and Mezzo-soprano vocal soloists, Chorus, Orchestra'

@@ -1,0 +1,18 @@
+id: borodin-arabian-melody
+work:
+  composer: Borodin, Aleksandr
+  title: Arabian Melody
+  ids:
+    imslp: Arabian Melody (Borodin, Aleksandr)
+  year: 1881
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Arabian_Melody_%28Borodin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

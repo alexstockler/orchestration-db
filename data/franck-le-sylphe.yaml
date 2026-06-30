@@ -1,0 +1,20 @@
+id: franck-le-sylphe
+work:
+  composer: Franck, César
+  title: Le sylphe
+  ids:
+    imslp: Le sylphe (Franck, César)
+  year: 1842
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_sylphe_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Cello, Piano'

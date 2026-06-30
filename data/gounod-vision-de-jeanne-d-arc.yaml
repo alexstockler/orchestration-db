@@ -1,0 +1,19 @@
+id: gounod-vision-de-jeanne-d-arc
+work:
+  composer: Gounod, Charles
+  title: Vision de Jeanne d'Arc
+  ids:
+    imslp: Vision de Jeanne d'Arc, CG 74a (Gounod, Charles)
+  year: 1887
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vision_de_Jeanne_d%27Arc%2C_CG_74a_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano (or organ)'
+duration_minutes: 5

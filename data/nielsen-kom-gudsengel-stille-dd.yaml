@@ -1,0 +1,15 @@
+id: nielsen-kom-gudsengel-stille-dd
+work:
+  composer: Nielsen, Carl
+  title: Kom, Gudsengel, stille Død
+  ids:
+    imslp: Kom, Gudsengel, stille Død, CNW 350 (Nielsen, Carl)
+  year: 1907
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kom%2C_Gudsengel%2C_stille_D%C3%B8d%2C_CNW_350_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

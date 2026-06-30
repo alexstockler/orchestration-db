@@ -1,0 +1,18 @@
+id: nielsen-balladen-om-bjrnen
+work:
+  composer: Nielsen, Carl
+  title: Balladen om Bjørnen
+  ids:
+    imslp: Balladen om Bjørnen, Op.47 (Nielsen, Carl)
+  year: 1923
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Balladen_om_Bj%C3%B8rnen%2C_Op.47_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

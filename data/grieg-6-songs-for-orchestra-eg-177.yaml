@@ -6,7 +6,8 @@ work:
     imslp: 6 Songs for Orchestra, EG 177 (Grieg, Edvard)
 formula: ''
 instrumentation:
-  additional_raw: voice | orchestra
+  soloists:
+  - voice
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/6_Songs_for_Orchestra%2C_EG_177_%28Grieg%2C_Edvard%29

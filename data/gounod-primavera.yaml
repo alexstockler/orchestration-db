@@ -1,0 +1,18 @@
+id: gounod-primavera
+work:
+  composer: Gounod, Charles
+  title: Primavera
+  ids:
+    imslp: Primavera, CG 430 (Gounod, Charles)
+  year: 1867
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Primavera%2C_CG_430_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

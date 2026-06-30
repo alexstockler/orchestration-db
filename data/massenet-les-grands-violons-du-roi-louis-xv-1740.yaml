@@ -1,0 +1,15 @@
+id: massenet-les-grands-violons-du-roi-louis-xv-1740
+work:
+  composer: Massenet, Jules
+  title: Les grands violons du roi Louis XV (1740)
+  ids:
+    imslp: Les grands violons du roi Louis XV (Massenet, Jules)
+  year: 1899
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_grands_violons_du_roi_Louis_XV_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: strings (1st violins, 2nd violins)'

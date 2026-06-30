@@ -1,0 +1,15 @@
+id: respighi-preludio-per-organo-a-felice-zanelli-madonna-dell-acero-1905
+work:
+  composer: Respighi, Ottorino
+  title: Preludio per Organo, A Felice Zanelli, Madonna dell'acero 1905
+  ids:
+    imslp: Preludio per organo (Respighi, Ottorino)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Preludio_per_organo_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: Organ'

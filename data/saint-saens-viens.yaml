@@ -11,7 +11,6 @@ instrumentation:
   - instrument: piano
   soloists:
   - 2 voices
-  - 2 voices
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Viens_%28Saint-Sa%C3%ABns%2C_Camille%29

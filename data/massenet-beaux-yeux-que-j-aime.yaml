@@ -1,0 +1,18 @@
+id: massenet-beaux-yeux-que-j-aime
+work:
+  composer: Massenet, Jules
+  title: Beaux yeux que j'aime
+  ids:
+    imslp: Beaux yeux que j'aime (Massenet, Jules)
+  year: 1891
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Beaux_yeux_que_j%27aime_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

@@ -1,0 +1,19 @@
+id: faure-tu-es-petrus
+work:
+  composer: Fauré, Gabriel
+  title: Tu es Petrus
+  ids:
+    imslp: Tu es Petrus (Fauré, Gabriel)
+  year: 1872
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - baritone
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tu_es_Petrus_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: baritone, mixed chorus (SATB), organ'

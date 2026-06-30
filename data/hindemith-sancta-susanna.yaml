@@ -1,0 +1,63 @@
+id: hindemith-sancta-susanna
+work:
+  composer: Hindemith, Paul
+  title: Sancta Susanna
+  ids:
+    imslp: Sancta Susanna, Op.21 (Hindemith, Paul)
+  year: 1921
+formula: 5 3[1.2.Eh] 4[1.2.Ebcl.bcl] 3[1.2.cbn] 4230 tmp+1 cel org hp str
+instrumentation:
+  flute: 5
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: eflat_clarinet
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    players: 1
+    instruments:
+    - triangle
+    - tambourine
+    - xylophone
+    - suspended cymbal
+    - cymbals
+    - snare drum
+    - bass drum
+    - bells
+  keyboards:
+  - instrument: celesta
+  - instrument: organ
+  harp: 1
+  strings: str
+  soloists:
+  - Susanna (soprano)
+  - Clementia (alto)
+  - Old Nun (alto)
+  - A Maid (spoken)
+  - A Servant (spoken) Mixed Chorus (SSAA) :Choir of Nuns
+  additional_raw: bass tuba | large gong On stage | behind the scenes
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sancta_Susanna%2C_Op.21_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Susanna (soprano), Clementia (alto), Old Nun (alto),
+    A Maid (spoken), A Servant (spoken) Mixed Chorus (SSAA) :Choir of Nuns Orchestra
+    :2 flutes, 2 oboes, English horn, 2 clarinets (B), clarinet (E) ::bass clarinet
+    (B), 2 bassoons, contrabassoon :4 horns (F), 2 trumpets (B), 3 trombones, bass
+    tuba :timpani, percussion (3 players), celesta, harp, strings (large complement)
+    :: triangle, tambourine, xylophone, suspended cymbal, cymbals,, snare drum, bass
+    drum, large gong On stage, behind the scenes :3 flutes (2 from orchestra, all
+    also piccolo), organ, 3 bells'
+duration_minutes: 25

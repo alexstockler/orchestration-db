@@ -1,0 +1,15 @@
+id: offenbach-la-rose-de-saint-flour
+work:
+  composer: Offenbach, Jacques
+  title: La rose de Saint-Flour
+  ids:
+    imslp: La rose de Saint-Flour (Offenbach, Jacques)
+  year: 1856
+formula: ''
+instrumentation:
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_rose_de_Saint-Flour_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, orchestra'

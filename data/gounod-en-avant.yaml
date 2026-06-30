@@ -1,0 +1,19 @@
+id: gounod-en-avant
+work:
+  composer: Gounod, Charles
+  title: En avant!
+  ids:
+    imslp: En avant!, CG 211 (Gounod, Charles)
+  year: 1875
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/En_avant%21%2C_CG_211_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, chorus, piano'

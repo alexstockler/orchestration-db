@@ -1,0 +1,23 @@
+id: bach-brandenburg-concerto-no-1
+work:
+  composer: Bach, Johann Sebastian
+  title: Brandenburg Concerto No.1
+  ids:
+    imslp: Brandenburg Concerto No.1 in F major, BWV 1046 (Bach, Johann Sebastian)
+  year: 1721
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - 3 oboes
+  - bassoon
+  - 2 horns
+  - violino piccolo
+  additional_raw: continuo (harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Brandenburg_Concerto_No.1_in_F_major%2C_BWV_1046_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Concertante: 3 oboes, bassoon, 2 horns, violino piccolo,
+    Orchestra: strings, continuo (harpsichord)'
+duration_minutes: 21

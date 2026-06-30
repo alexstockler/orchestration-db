@@ -1,0 +1,16 @@
+id: gounod-le-ruisseau
+work:
+  composer: Gounod, Charles
+  title: Le ruisseau
+  ids:
+    imslp: Le ruisseau, CG 589 (Gounod, Charles)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_ruisseau%2C_CG_589_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

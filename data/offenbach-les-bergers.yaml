@@ -1,0 +1,16 @@
+id: offenbach-les-bergers
+work:
+  composer: Offenbach, Jacques
+  title: Les bergers
+  ids:
+    imslp: Les bergers (Offenbach, Jacques)
+  year: 1866
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_bergers_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

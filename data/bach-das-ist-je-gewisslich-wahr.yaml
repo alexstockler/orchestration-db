@@ -1,0 +1,20 @@
+id: bach-das-ist-je-gewisslich-wahr
+work:
+  composer: Bach, Johann Sebastian
+  title: Das ist je gewisslich wahr
+  ids:
+    imslp: Das ist je gewisslich wahr, BWV 141 (Bach, Johann Sebastian)
+  year: 1719
+formula: 0200 0000
+instrumentation:
+  oboe: 2
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_ist_je_gewisslich_wahr%2C_BWV_141_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 violins, viola, continuo'
+duration_minutes: 12

@@ -1,0 +1,15 @@
+id: bach-dies-sind-die-heilgen-zehn-gebot
+work:
+  composer: Bach, Johann Sebastian
+  title: Dies sind die heilgen zehn Gebot
+  ids:
+    imslp: Dies sind die heilgen zehn Gebot, BWV 298 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dies_sind_die_heilgen_zehn_Gebot%2C_BWV_298_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

@@ -1,0 +1,18 @@
+id: nielsen-betragt-mit-svage-spind
+work:
+  composer: Nielsen, Carl
+  title: Betragt mit svage spind
+  ids:
+    imslp: Betragt mit svage spind, CNW 254 (Nielsen, Carl)
+  year: 1921
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Betragt_mit_svage_spind%2C_CNW_254_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

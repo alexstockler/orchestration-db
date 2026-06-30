@@ -1,0 +1,15 @@
+id: bach-es-lebe-der-konig-der-vater-im-lande
+work:
+  composer: Bach, Johann Sebastian
+  title: Es lebe der König, der Vater im Lande
+  ids:
+    imslp: Es lebe der König, der Vater im Lande, BWV Anh.11 (Bach, Johann Sebastian)
+  year: 1732
+formula: ''
+instrumentation:
+  additional_raw: unknown
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_lebe_der_K%C3%B6nig%2C_der_Vater_im_Lande%2C_BWV_Anh.11_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: unknown'

@@ -1,0 +1,15 @@
+id: bach-gott-lebet-noch
+work:
+  composer: Bach, Johann Sebastian
+  title: Gott lebet noch
+  ids:
+    imslp: Gott lebet noch, BWV 320 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_lebet_noch%2C_BWV_320_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

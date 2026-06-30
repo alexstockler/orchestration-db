@@ -1,0 +1,16 @@
+id: gounod-grande-valse-brillante
+work:
+  composer: Gounod, Charles
+  title: Grande valse brillante
+  ids:
+    imslp: Grande valse brillante, CG 579 (Gounod, Charles)
+  year: 1891
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grande_valse_brillante%2C_CG_579_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

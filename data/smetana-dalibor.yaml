@@ -1,0 +1,24 @@
+id: smetana-dalibor
+work:
+  composer: Smetana, Bedřich
+  title: Dalibor
+  ids:
+    imslp: Dalibor, JB 1:101 (Smetana, Bedřich)
+  year: 1865
+formula: ''
+instrumentation:
+  additional_raw: Vladislav | Czech King (baritone) | Dalibor | a knight (tenor) |
+    'Budivoj | commander of the castle guard (baritone) | Beneš | the jailor (bass)
+    | Vítek | one of Dalibor's mercenaries (tenor) | Milada | sister of the burgrave
+    of Ploškovice (soprano) | Jitka | a village maiden on Dalibor's estate (soprano)
+    | Judge (bass)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dalibor%2C_JB_1%3A101_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Vladislav, Czech King (baritone), Dalibor, a knight
+    (tenor), ''Budivoj, commander of the castle guard (baritone), Beneš, the jailor
+    (bass), Vítek, one of Dalibor''s mercenaries (tenor), Milada, sister of the burgrave
+    of Ploškovice (soprano), Jitka, a village maiden on Dalibor''s estate (soprano),
+    Judge (bass)'
+duration_minutes: 143

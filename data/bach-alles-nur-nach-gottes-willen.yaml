@@ -1,0 +1,21 @@
+id: bach-alles-nur-nach-gottes-willen
+work:
+  composer: Bach, Johann Sebastian
+  title: Alles nur nach Gottes Willen
+  ids:
+    imslp: Alles nur nach Gottes Willen, BWV 72 (Bach, Johann Sebastian)
+  year: 1726
+formula: 0200 0000
+instrumentation:
+  oboe: 2
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: continuo (harpsichord and/or organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alles_nur_nach_Gottes_Willen%2C_BWV_72_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 violins, viola, continuo (harpsichord and/or
+    organ)'
+duration_minutes: 20

@@ -1,0 +1,17 @@
+id: gounod-cinq-mars
+work:
+  composer: Gounod, Charles
+  title: Cinq-Mars
+  ids:
+    imslp: Cinq-Mars, CG 10 (Gounod, Charles)
+  year: 1877
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cinq-Mars%2C_CG_10_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

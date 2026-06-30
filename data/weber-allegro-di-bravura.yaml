@@ -1,0 +1,15 @@
+id: weber-allegro-di-bravura
+work:
+  composer: Weber, Carl Maria von
+  title: Allegro di bravura
+  ids:
+    imslp: Allegro di bravura (Weber, Carl Maria von)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegro_di_bravura_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

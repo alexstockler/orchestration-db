@@ -5,7 +5,7 @@ work:
   ids:
     imslp: Symphony No.4, GMW 37 (Mahler, Gustav)
   year: 1900
-formula: 4[1.2.3.4/pic] 3[1.2.3/Eh] 3[1.2.3/bcl] 0 0300 tmp hp str
+formula: 4[1.2.3.4/pic] 3[1.2.3/Eh] 3[1.2/Ebcl.3/bcl] 3[1.2.3/cbn] 4300 tmp hp str
 instrumentation:
   flute:
   - {}
@@ -20,9 +20,16 @@ instrumentation:
     - english_horn
   clarinet:
   - {}
-  - {}
+  - doublings:
+    - eflat_clarinet
   - doublings:
     - bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  horn: 4
   trumpet: 3
   percussion:
     timpani: 1
@@ -30,12 +37,11 @@ instrumentation:
     - bass drum
     - cymbals
     - triangle
+    - sleigh bells
     - tam-tam
     - glockenspiel
   harp: 1
   strings: str
-  additional_raw: 'unknown doubling in clarinet: e | 3 bassoons (3rd also contrabassoon)
-    :4 horns | sleigh bells'
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Symphony_No.4%2C_GMW_37_%28Mahler%2C_Gustav%29

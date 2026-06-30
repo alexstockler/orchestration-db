@@ -1,0 +1,18 @@
+id: bach-gedenke-herr-wie-es-uns-gehet
+work:
+  composer: Bach, Johann Sebastian
+  title: Gedenke, Herr, wie es uns gehet
+  ids:
+    imslp: Gedenke, Herr, wie es uns gehet, BWV 217 (Bach, Johann Sebastian)
+  year: 1894
+formula: 1000 0000 str
+instrumentation:
+  flute: 1
+  strings: str
+  additional_raw: continuo (harpsichord and/or organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gedenke%2C_Herr%2C_wie_es_uns_gehet%2C_BWV_217_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, strings, continuo (harpsichord and/or organ)'
+duration_minutes: 16

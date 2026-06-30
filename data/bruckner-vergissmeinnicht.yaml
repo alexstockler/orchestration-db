@@ -13,7 +13,8 @@ instrumentation:
   - soprano
   - alto
   - tenor
-  additional_raw: bass + mixed chorus (SSAATTBB)
+  - bass
+  chorus_raw: mixed chorus
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Vergissmeinnicht%2C_WAB_93_%28Bruckner%2C_Anton%29

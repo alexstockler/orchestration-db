@@ -1,0 +1,20 @@
+id: bach-brandenburg-concerto-no-4
+work:
+  composer: Bach, Johann Sebastian
+  title: Brandenburg Concerto No.4
+  ids:
+    imslp: Brandenburg Concerto No.4 in G major, BWV 1049 (Bach, Johann Sebastian)
+  year: 1719
+formula: str
+instrumentation:
+  strings: str
+  solo_strings:
+    violin: 1
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Brandenburg_Concerto_No.4_in_G_major%2C_BWV_1049_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 recorders, violin, strings (2 violins, viola, cello,
+    violone), continuo'
+duration_minutes: 16

@@ -1,0 +1,17 @@
+id: nielsen-fantasistykker
+work:
+  composer: Nielsen, Carl
+  title: Fantasistykker
+  ids:
+    imslp: Fantasistykker, Op.2 (Nielsen, Carl)
+  year: 1889
+formula: 0100 0000 pf
+instrumentation:
+  oboe: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasistykker%2C_Op.2_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, piano'

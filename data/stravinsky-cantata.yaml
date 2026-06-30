@@ -15,7 +15,8 @@ instrumentation:
   soloists:
   - voices
   chorus_raw: chorus
-  additional_raw: cello
+  solo_strings:
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Cantata%2C_K079_%28Stravinsky%2C_Igor%29

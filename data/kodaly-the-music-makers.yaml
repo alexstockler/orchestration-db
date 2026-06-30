@@ -1,0 +1,19 @@
+id: kodaly-the-music-makers
+work:
+  composer: Kodály, Zoltán
+  title: The Music Makers
+  ids:
+    imslp: The Music Makers (Kodály, Zoltán)
+  year: 1963
+formula: 0000 0330 str
+instrumentation:
+  trumpet: 3
+  trombone: 3
+  strings: str
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Music_Makers_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), 3 trumpets, 3 trombones, strings'
+duration_minutes: 8

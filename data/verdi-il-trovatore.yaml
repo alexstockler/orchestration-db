@@ -1,0 +1,57 @@
+id: verdi-il-trovatore
+work:
+  composer: Verdi, Giuseppe
+  title: Il Trovatore
+  ids:
+    imslp: Il trovatore (Verdi, Giuseppe)
+  year: 1852
+formula: 2[pic.2] 2 2 2 5231 tmp org 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 5
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tambourine
+    - castanets
+    - bass drum
+    - drum
+    - bells
+    - anvil
+  keyboards:
+  - instrument: organ
+  harp: 2
+  strings: str
+  soloists:
+  - Il Conte di Luna (baritone)
+  - Leonora (soprano)
+  - Azucena (mezzo-soprano)
+  - Manrico (tenor)
+  - Ferrando (basso profondo)
+  - Ines (soprano)
+  - Ruiz (tenor)
+  - Un vecchio Zingaro (bass)
+  - Un Messo (tenor) Mixed Chorus :Compagne di Leonora e Religiose
+  - Familiari del Conte
+  - Uomini d'arme
+  - Zingari e Zingare
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_trovatore_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Il Conte di Luna (baritone), Leonora (soprano), Azucena
+    (mezzo-soprano), Manrico (tenor), Ferrando (basso profondo), Ines (soprano), Ruiz
+    (tenor), Un vecchio Zingaro (bass), Un Messo (tenor) Mixed Chorus :Compagne di
+    Leonora e Religiose, Familiari del Conte,, Uomini d''arme, Zingari e Zingare Orchestra
+    :piccolo, flute, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones,
+    tuba, timpani, triangle, tambourine, castanets, bass drum, harp, strings '' :horn,
+    drum, bells, triangle, anvil, organ, harp'

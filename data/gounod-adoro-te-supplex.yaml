@@ -1,0 +1,15 @@
+id: gounod-adoro-te-supplex
+work:
+  composer: Gounod, Charles
+  title: Adoro te supplex
+  ids:
+    imslp: Adoro te supplex, CG 171a (Gounod, Charles)
+  year: 1878
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adoro_te_supplex%2C_CG_171a_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SSTTBB)'

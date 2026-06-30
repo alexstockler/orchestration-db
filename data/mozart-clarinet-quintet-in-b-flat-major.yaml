@@ -8,7 +8,10 @@ work:
 formula: 0010 0000
 instrumentation:
   clarinet: 1
-  additional_raw: 2 violins | viola | cello
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Clarinet_Quintet_in_B-flat_major%2C_K.Anh.91/516c_%28Mozart%2C_Wolfgang_Amadeus%29

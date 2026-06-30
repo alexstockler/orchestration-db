@@ -1,0 +1,16 @@
+id: offenbach-apothicaire-et-perruquier
+work:
+  composer: Offenbach, Jacques
+  title: Apothicaire et perruquier
+  ids:
+    imslp: Apothicaire et perruquier (Offenbach, Jacques)
+  year: 1862
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Apothicaire_et_perruquier_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices, orchestra'

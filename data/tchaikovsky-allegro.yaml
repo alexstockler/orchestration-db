@@ -9,7 +9,11 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: 2 violins | viola | cello | double bass
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+    double_bass: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Allegro%2C_TH_159_%28Tchaikovsky%2C_Pyotr%29

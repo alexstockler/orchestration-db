@@ -1,0 +1,18 @@
+id: gounod-there-is-a-green-hill-far-away
+work:
+  composer: Gounod, Charles
+  title: There Is a Green Hill Far Away
+  ids:
+    imslp: There Is a Green Hill Far Away, CG 456 (Gounod, Charles)
+  year: 1871
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/There_Is_a_Green_Hill_Far_Away%2C_CG_456_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano (or organ)'

@@ -1,0 +1,15 @@
+id: kodaly-matrai-kepek
+work:
+  composer: Kodály, Zoltán
+  title: Mátrai képek
+  ids:
+    imslp: Mátrai képek, K.73 (Kodály, Zoltán)
+  year: 1931
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/M%C3%A1trai_k%C3%A9pek%2C_K.73_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (a cappella)'

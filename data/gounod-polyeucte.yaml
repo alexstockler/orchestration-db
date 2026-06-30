@@ -1,0 +1,17 @@
+id: gounod-polyeucte
+work:
+  composer: Gounod, Charles
+  title: Polyeucte
+  ids:
+    imslp: Polyeucte, CG 11 (Gounod, Charles)
+  year: 1878
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Polyeucte%2C_CG_11_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

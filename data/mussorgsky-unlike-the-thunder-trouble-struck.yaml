@@ -1,0 +1,18 @@
+id: mussorgsky-unlike-the-thunder-trouble-struck
+work:
+  composer: Mussorgsky, Modest
+  title: Unlike the Thunder, Trouble Struck
+  ids:
+    imslp: Unlike the Thunder, Trouble Struck (Mussorgsky, Modest)
+  year: 1877
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Unlike_the_Thunder%2C_Trouble_Struck_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'

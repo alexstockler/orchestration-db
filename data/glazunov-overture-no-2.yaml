@@ -1,0 +1,37 @@
+id: glazunov-overture-no-2
+work:
+  composer: Glazunov, Aleksandr
+  title: Overture No.2
+  ids:
+    imslp: Overture No.2 on Greek Themes, Op.6 (Glazunov, Aleksandr)
+  year: 1883
+formula: 3[1.2.3/pic] 2 2 2 4230 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tambourine
+    - side drum
+    - cymbals
+    - bass drum
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Overture_No.2_on_Greek_Themes%2C_Op.6_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra :3 flutes (3rd doubling piccolo), 2 oboes, 2
+    clarinets (A), 2 bassoons, 4 horns (F), 2 trumpets (B), 3 trombones, timpani,
+    triangle, tambourine, side drum, cymbals, bass drum, harp, strings'

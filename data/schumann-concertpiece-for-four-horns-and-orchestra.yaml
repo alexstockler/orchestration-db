@@ -14,7 +14,9 @@ instrumentation:
   oboe: 2
   clarinet: 2
   bassoon: 2
-  horn: 2
+  horn:
+  - optional: true
+  - optional: true
   trumpet: 2
   trombone: 3
   percussion:

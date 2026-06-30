@@ -1,0 +1,18 @@
+id: massenet-poeme-d-hiver
+work:
+  composer: Massenet, Jules
+  title: Poème d'hiver
+  ids:
+    imslp: Poème d'hiver (Massenet, Jules)
+  year: 1882
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Po%C3%A8me_d%27hiver_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

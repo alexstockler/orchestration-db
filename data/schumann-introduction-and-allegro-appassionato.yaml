@@ -5,12 +5,17 @@ work:
   ids:
     imslp: Konzertstück, Op.92 (Schumann, Robert)
   year: 1852
-formula: 2220 0000
+formula: 2222 2200 tmp str
 instrumentation:
   flute: 2
   oboe: 2
   clarinet: 2
-  additional_raw: 2 bassoons + 2 horns | 2 trumpets + timpani + strings
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Konzertst%C3%BCck%2C_Op.92_%28Schumann%2C_Robert%29

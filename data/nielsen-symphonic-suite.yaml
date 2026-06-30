@@ -1,0 +1,17 @@
+id: nielsen-symphonic-suite
+work:
+  composer: Nielsen, Carl
+  title: Symphonic Suite
+  ids:
+    imslp: Symphonisk suite, Op.8 (Nielsen, Carl)
+  year: 1894
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphonisk_suite%2C_Op.8_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 15

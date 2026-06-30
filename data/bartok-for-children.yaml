@@ -1,0 +1,16 @@
+id: bartok-for-children
+work:
+  composer: Bartók, Béla
+  title: For Children
+  ids:
+    imslp: For Children, Sz.42 (Bartók, Béla)
+  year: 1908
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/For_Children%2C_Sz.42_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

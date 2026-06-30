@@ -1,0 +1,14 @@
+id: delibes-sylvia
+work:
+  composer: Delibes, Léo
+  title: Sylvia
+  ids:
+    imslp: Sylvia (Delibes, Léo)
+  year: 1876
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sylvia_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

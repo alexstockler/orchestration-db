@@ -9,7 +9,9 @@ formula: ''
 instrumentation:
   soloists:
   - voice
-  additional_raw: 2 violins | cello
+  solo_strings:
+    violin: 2
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Auf_den_Sieg_der_Deutschen%2C_D.81_%28Schubert%2C_Franz%29

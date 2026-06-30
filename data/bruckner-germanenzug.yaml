@@ -20,8 +20,8 @@ instrumentation:
   - {}
   soloists:
   - tenors
-  additional_raw: '2 basses + male chorus (TTBB) | Brass Ensemble: 4 horns (2 in F,
-    2 in D)'
+  chorus_raw: male chorus
+  additional_raw: '2 basses | Brass Ensemble: 4 horns (2 in F, 2 in D)'
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Germanenzug%2C_WAB_70_%28Bruckner%2C_Anton%29

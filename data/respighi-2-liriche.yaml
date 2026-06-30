@@ -1,0 +1,17 @@
+id: respighi-2-liriche
+work:
+  composer: Respighi, Ottorino
+  title: 2 Liriche
+  ids:
+    imslp: 2 Liriche (Respighi, Ottorino)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Liriche_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

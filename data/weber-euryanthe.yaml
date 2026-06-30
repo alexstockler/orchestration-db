@@ -1,0 +1,17 @@
+id: weber-euryanthe
+work:
+  composer: Weber, Carl Maria von
+  title: Euryanthe
+  ids:
+    imslp: Euryanthe, Op.81 (Weber, Carl Maria von)
+  year: 1822
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Euryanthe%2C_Op.81_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

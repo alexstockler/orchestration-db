@@ -1,0 +1,17 @@
+id: bach-es-glanzet-der-christen-inwendiges-leben
+work:
+  composer: Bach, Johann Sebastian
+  title: Es glänzet der Christen inwendiges Leben
+  ids:
+    imslp: Es glänzet der Christen inwendiges Leben, BWV 456 (Bach, Johann Sebastian)
+  year: 1735
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_gl%C3%A4nzet_der_Christen_inwendiges_Leben%2C_BWV_456_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

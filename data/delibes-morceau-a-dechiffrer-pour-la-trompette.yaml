@@ -1,0 +1,17 @@
+id: delibes-morceau-a-dechiffrer-pour-la-trompette
+work:
+  composer: Delibes, Léo
+  title: Morceau à déchiffrer pour la trompette
+  ids:
+    imslp: Morceau à déchiffrer pour la trompette (Delibes, Léo)
+  year: 1881
+formula: 0000 0100 pf
+instrumentation:
+  trumpet: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Morceau_%C3%A0_d%C3%A9chiffrer_pour_la_trompette_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: trumpet (F), piano'

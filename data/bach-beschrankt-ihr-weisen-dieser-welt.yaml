@@ -1,0 +1,17 @@
+id: bach-beschrankt-ihr-weisen-dieser-welt
+work:
+  composer: Bach, Johann Sebastian
+  title: Beschränkt, ihr Weisen dieser Welt
+  ids:
+    imslp: Beschränkt, ihr Weisen dieser Welt, BWV 443 (Bach, Johann Sebastian)
+  year: 1735
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Beschr%C3%A4nkt%2C_ihr_Weisen_dieser_Welt%2C_BWV_443_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

@@ -1,0 +1,19 @@
+id: bach-aus-der-tiefe-rufe-ich-herr-zu-dir
+work:
+  composer: Bach, Johann Sebastian
+  title: Aus der Tiefe rufe ich, Herr, zu dir
+  ids:
+    imslp: Aus der Tiefe rufe ich, Herr, zu dir, BWV 131 (Bach, Johann Sebastian)
+  year: 1707
+formula: 0101 0000 str
+instrumentation:
+  oboe: 1
+  bassoon: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aus_der_Tiefe_rufe_ich%2C_Herr%2C_zu_dir%2C_BWV_131_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, bassoon, strings, continuo'
+duration_minutes: 24

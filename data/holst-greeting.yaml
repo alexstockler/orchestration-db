@@ -1,0 +1,19 @@
+id: holst-greeting
+work:
+  composer: Holst, Gustav
+  title: Greeting
+  ids:
+    imslp: Greeting (Holst, Gustav)
+  year: 1903
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Greeting_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 5

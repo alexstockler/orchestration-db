@@ -1,0 +1,18 @@
+id: bach-alles-mit-gott-und-nichts-ohn-ihn
+work:
+  composer: Bach, Johann Sebastian
+  title: Alles mit Gott und nichts ohn' ihn
+  ids:
+    imslp: Alles mit Gott und nichts ohn' ihn, BWV 1127 (Bach, Johann Sebastian)
+  year: 1713
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alles_mit_Gott_und_nichts_ohn%27_ihn%2C_BWV_1127_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, strings, continuo'

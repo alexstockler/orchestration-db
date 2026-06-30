@@ -1,0 +1,19 @@
+id: copland-as-it-fell-upon-a-day
+work:
+  composer: Copland, Aaron
+  title: As It Fell Upon A Day
+  ids:
+    imslp: As It Fell Upon A Day (Copland, Aaron)
+  year: 1923
+formula: 1010 0000
+instrumentation:
+  flute: 1
+  clarinet: 1
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/As_It_Fell_Upon_A_Day_%28Copland%2C_Aaron%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (preferably soprano), flute, clarinet'
+duration_minutes: 5

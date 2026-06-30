@@ -1,0 +1,17 @@
+id: gounod-la-fleur-du-foyer
+work:
+  composer: Gounod, Charles
+  title: La fleur du foyer
+  ids:
+    imslp: La fleur du foyer, CG 416a (Gounod, Charles)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_fleur_du_foyer%2C_CG_416a_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

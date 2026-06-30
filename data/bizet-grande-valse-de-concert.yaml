@@ -1,0 +1,16 @@
+id: bizet-grande-valse-de-concert
+work:
+  composer: Bizet, Georges
+  title: Grande valse de concert
+  ids:
+    imslp: Grande valse de concert (Bizet, Georges)
+  year: 1853
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grande_valse_de_concert_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

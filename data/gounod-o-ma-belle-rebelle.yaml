@@ -1,0 +1,18 @@
+id: gounod-o-ma-belle-rebelle
+work:
+  composer: Gounod, Charles
+  title: Ô ma belle rebelle
+  ids:
+    imslp: Ô ma belle rebelle, CG 414 (Gounod, Charles)
+  year: 1850
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%94_ma_belle_rebelle%2C_CG_414_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

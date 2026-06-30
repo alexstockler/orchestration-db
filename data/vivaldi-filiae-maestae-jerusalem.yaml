@@ -8,7 +8,10 @@ formula: ''
 instrumentation:
   soloists:
   - alto
-  additional_raw: 2 Violins | Viola | continuo
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Filiae_maestae_Jerusalem%2C_RV_638_%28Vivaldi%2C_Antonio%29

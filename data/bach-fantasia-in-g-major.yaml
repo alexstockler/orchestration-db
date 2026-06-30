@@ -1,0 +1,16 @@
+id: bach-fantasia-in-g-major
+work:
+  composer: Bach, Johann Sebastian
+  title: Fantasia in G major
+  ids:
+    imslp: Fantasia in G major, BWV 572 (Bach, Johann Sebastian)
+  year: 1712
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_in_G_major%2C_BWV_572_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

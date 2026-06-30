@@ -1,0 +1,18 @@
+id: nielsen-christianshavn-cnw-306
+work:
+  composer: Nielsen, Carl
+  title: Christianshavn, CNW 306
+  ids:
+    imslp: Christianshavn, CNW 306 (Nielsen, Carl)
+  year: 1918
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Christianshavn%2C_CNW_306_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

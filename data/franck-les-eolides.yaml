@@ -1,0 +1,28 @@
+id: franck-les-eolides
+work:
+  composer: Franck, César
+  title: Les Éolides
+  ids:
+    imslp: Les Éolides (Franck, César)
+  year: 1875
+formula: 2222 4200 tmp hp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - suspended cymbal
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_%C3%89olides_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: 2 flutes, 2 oboes, 2 clarinets (A), 2 bassoons,
+    4 horns (E), 2 trumpets (E), timpani, suspended cymbal, harp, strings'
+duration_minutes: 11

@@ -1,0 +1,15 @@
+id: gounod-la-chasse
+work:
+  composer: Gounod, Charles
+  title: La chasse
+  ids:
+    imslp: La chasse, CG 183 (Gounod, Charles)
+  year: 1867
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_chasse%2C_CG_183_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

@@ -1,0 +1,18 @@
+id: smetana-carnival-in-prague
+work:
+  composer: Smetana, Bedřich
+  title: Carnival In Prague
+  ids:
+    imslp: Prague Carnival, JB 1:126 (Smetana, Bedřich)
+  year: 1883
+formula: 1perc str
+instrumentation:
+  percussion:
+    players: 1
+  strings: str
+  additional_raw: 3-2-2-2 4-4-3-1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prague_Carnival%2C_JB_1%3A126_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: 3-2-2-2 4-4-3-1, Percussion, Strings'

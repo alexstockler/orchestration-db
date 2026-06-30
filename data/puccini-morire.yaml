@@ -1,0 +1,17 @@
+id: puccini-morire
+work:
+  composer: Puccini, Giacomo
+  title: Morire?
+  ids:
+    imslp: Morire?, SC 89 (Puccini, Giacomo)
+  year: 1917
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Morire%3F%2C_SC_89_%28Puccini%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and piano'
+duration_minutes: 3

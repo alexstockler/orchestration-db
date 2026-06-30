@@ -1,0 +1,16 @@
+id: nielsen-festival-prelude-for-the-new-century
+work:
+  composer: Nielsen, Carl
+  title: Festival Prelude for the New Century
+  ids:
+    imslp: Fest-præludium ved Aarhundredskiftet, CNW 84 (Nielsen, Carl)
+  year: 1900
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fest-pr%C3%A6ludium_ved_Aarhundredskiftet%2C_CNW_84_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

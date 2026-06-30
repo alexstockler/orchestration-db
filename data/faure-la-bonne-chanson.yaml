@@ -1,0 +1,25 @@
+id: faure-la-bonne-chanson
+work:
+  composer: Fauré, Gabriel
+  title: La bonne chanson
+  ids:
+    imslp: La bonne chanson, Op.61 (Fauré, Gabriel)
+  year: 1892
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+  - contralto
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+  additional_raw: piano / voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_bonne_chanson%2C_Op.61_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano / voice, 2 violins, viola, cello, contralto,
+    piano'

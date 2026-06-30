@@ -1,0 +1,16 @@
+id: lalo-arlequin
+work:
+  composer: Lalo, Édouard
+  title: Arlequin
+  ids:
+    imslp: Arlequin (Lalo, Édouard)
+  year: 1848
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Arlequin_%28Lalo%2C_%C3%89douard%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin (or cello) and piano'

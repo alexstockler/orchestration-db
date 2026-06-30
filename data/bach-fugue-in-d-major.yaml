@@ -1,0 +1,16 @@
+id: bach-fugue-in-d-major
+work:
+  composer: Bach, Johann Sebastian
+  title: Fugue in D major
+  ids:
+    imslp: Fugue in D major, BWV 532a (Bach, Johann Sebastian)
+  year: 1710
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_D_major%2C_BWV_532a_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

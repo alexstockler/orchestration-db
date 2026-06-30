@@ -1,0 +1,40 @@
+id: franck-le-chasseur-maudit
+work:
+  composer: Franck, César
+  title: Le Chasseur Maudit
+  ids:
+    imslp: Le chasseur maudit (Franck, César)
+  year: 1882
+formula: 3[pic.2.3] 2 2 4 4 4[1.2.cnt.cnt] 3 1 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 4
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bells
+    - triangle
+    - cymbals
+    - bass drum
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_chasseur_maudit_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: 32 parts :piccolo, 2 flutes, 2 oboes, 2 clarinets, 4 bassoons,
+    4 horns, 2 trumpets, 2 cornets, 3 trombones, tuba, timpani, bells, triangle, cymbals,
+    bass drum, strings'
+duration_minutes: 15

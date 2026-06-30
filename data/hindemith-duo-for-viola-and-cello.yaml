@@ -1,0 +1,18 @@
+id: hindemith-duo-for-viola-and-cello
+work:
+  composer: Hindemith, Paul
+  title: Duo for Viola and Cello
+  ids:
+    imslp: Duet for Viola and Cello (Hindemith, Paul)
+  year: 1934
+formula: ''
+instrumentation:
+  solo_strings:
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Duet_for_Viola_and_Cello_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: viola, cello'
+duration_minutes: 4

@@ -1,0 +1,15 @@
+id: bach-kanon-zu-vier-stimmen
+work:
+  composer: Bach, Johann Sebastian
+  title: Kanon zu vier Stimmen
+  ids:
+    imslp: Canon in G major, BWV 1077 (Bach, Johann Sebastian)
+  year: 1747
+formula: ''
+instrumentation:
+  additional_raw: 4 instruments | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canon_in_G_major%2C_BWV_1077_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 instruments, continuo'

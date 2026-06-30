@@ -1,0 +1,19 @@
+id: gounod-saint-francois-dassise
+work:
+  composer: Gounod, Charles
+  title: Saint François d’Assise
+  ids:
+    imslp: Saint François d'Assise, CG 34 (Gounod, Charles)
+  year: 1891
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Saint_Fran%C3%A7ois_d%27Assise%2C_CG_34_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, bass, mixed chorus (SSAATTBB), orchestra'
+duration_minutes: 30

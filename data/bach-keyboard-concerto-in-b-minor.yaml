@@ -1,0 +1,15 @@
+id: bach-keyboard-concerto-in-b-minor
+work:
+  composer: Bach, Johann Sebastian
+  title: Keyboard Concerto in B minor
+  ids:
+    imslp: Concerto in B minor, BWV 979 (Bach, Johann Sebastian)
+  year: 1713
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_in_B_minor%2C_BWV_979_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

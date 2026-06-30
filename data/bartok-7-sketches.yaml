@@ -1,0 +1,16 @@
+id: bartok-7-sketches
+work:
+  composer: Bartók, Béla
+  title: 7 Sketches
+  ids:
+    imslp: 7 Sketches, Sz.44 (Bartók, Béla)
+  year: 1908
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Sketches%2C_Sz.44_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,19 @@
+id: bach-die-elenden-sollen-essen
+work:
+  composer: Bach, Johann Sebastian
+  title: Die Elenden sollen essen
+  ids:
+    imslp: Die Elenden sollen essen, BWV 75 (Bach, Johann Sebastian)
+  year: 1723
+formula: 0200 0100 str
+instrumentation:
+  oboe: 2
+  trumpet: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Elenden_sollen_essen%2C_BWV_75_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, trumpet, strings, continuo'
+duration_minutes: 40

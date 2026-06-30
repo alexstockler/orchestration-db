@@ -7,7 +7,8 @@ work:
   year: 1827
 formula: ''
 instrumentation:
-  additional_raw: Male chorus or quartet TTBB | unaccompanied
+  chorus_raw: male chorus
+  additional_raw: unaccompanied
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Fr%C3%BChlingslied%2C_D.914_%28Schubert%2C_Franz%29

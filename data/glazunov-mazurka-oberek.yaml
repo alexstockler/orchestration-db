@@ -1,0 +1,17 @@
+id: glazunov-mazurka-oberek
+work:
+  composer: Glazunov, Aleksandr
+  title: Mazurka-oberek
+  ids:
+    imslp: Mazurka-oberek (Glazunov, Aleksandr)
+  year: 1917
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mazurka-oberek_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, orchestra'
+duration_minutes: 10

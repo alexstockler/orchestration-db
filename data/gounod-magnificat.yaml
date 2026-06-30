@@ -1,0 +1,20 @@
+id: gounod-magnificat
+work:
+  composer: Gounod, Charles
+  title: Magnificat
+  ids:
+    imslp: Magnificat, CG 162 (Gounod, Charles)
+  year: 1874
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - soprano
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Magnificat%2C_CG_162_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, mixed chorus (SATB), organ'
+duration_minutes: 8

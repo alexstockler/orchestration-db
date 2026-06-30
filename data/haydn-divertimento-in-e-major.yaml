@@ -5,11 +5,14 @@ work:
   ids:
     imslp: Divertimento in E major, Hob.II:37 (Haydn, Joseph)
   year: 1765
-formula: 0200 2000
+formula: 1200 2000
 instrumentation:
+  flute: 1
   oboe: 2
   horn: 2
-  additional_raw: flute* | 2 violins | double bass
+  solo_strings:
+    violin: 2
+    double_bass: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Divertimento_in_E_major%2C_Hob.II%3A37_%28Haydn%2C_Joseph%29

@@ -1,0 +1,15 @@
+id: nielsen-guds-fred-er-mer-end-englevagt
+work:
+  composer: Nielsen, Carl
+  title: Guds Fred er mer end Englevagt
+  ids:
+    imslp: Guds Fred er mer end Englevagt, CNW 393 (Nielsen, Carl)
+  year: 1914
+formula: ''
+instrumentation:
+  additional_raw: unison voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Guds_Fred_er_mer_end_Englevagt%2C_CNW_393_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: unison voices'

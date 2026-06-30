@@ -1,0 +1,17 @@
+id: nielsen-frihed-er-det-bedste-guld
+work:
+  composer: Nielsen, Carl
+  title: Frihed er det bedste guld
+  ids:
+    imslp: Frihed er det bedste guld, CNW 255 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Frihed_er_det_bedste_guld%2C_CNW_255_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

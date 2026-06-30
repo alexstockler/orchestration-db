@@ -1,0 +1,17 @@
+id: bach-les-nations
+work:
+  composer: Bach, Johann Sebastian
+  title: Les Nations
+  ids:
+    imslp: Aria in F major, BWV 587 (Bach, Johann Sebastian)
+  year: 1726
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 1
+  additional_raw: 2 treble (violins) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aria_in_F_major%2C_BWV_587_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 treble (violins), cello (or viola da gamba), continuo'

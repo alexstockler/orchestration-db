@@ -1,0 +1,16 @@
+id: janacek-violin-sonata
+work:
+  composer: Janáček, Leoš
+  title: Violin Sonata
+  ids:
+    imslp: Violin Sonata (Janáček, Leoš)
+  year: 1914
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin and Piano'

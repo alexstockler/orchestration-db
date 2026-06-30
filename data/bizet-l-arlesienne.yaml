@@ -1,0 +1,60 @@
+id: bizet-l-arlesienne
+work:
+  composer: Bizet, Georges
+  title: L'Arlésienne
+  ids:
+    imslp: L'Arlésienne (Bizet, Georges)
+  year: 1872
+formula: 2[1.2/pic] 1 1 2 2000 tmp pf org str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 1
+  clarinet: 1
+  bassoon: 2
+  horn: 2
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: piano
+  - instrument: organ
+  strings:
+    standard: true
+    description: 4, 3, 1, 5, 2
+  soloists:
+  - Francet Mamaï
+  - fermier du Castelet
+  - Fréderi
+  - son petit-fils
+  - Balthazar
+  - chef des bergers
+  - Le patron Marc
+  - marinier du Rhône
+  - Mitifio
+  - un gardien de chevaux
+  - L’équipage
+  - Un valet
+  - Rose Mamaï
+  - Renaude
+  - L’Innocent
+  - second petit-fils de Francet
+  - Vivette
+  - 'Une servante :Mixed Chorus ::(8 soprano 1, 8 soprano 2, 4 tenors, 4 basses) :'
+  saxophones:
+  - instrument: alto_sax
+    count: 1
+  additional_raw: piano to accompany the chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27Arl%C3%A9sienne_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Cast (spoken roles) ::Francet
+    Mamaï, fermier du Castelet, Fréderi, son petit-fils, Balthazar, chef des bergers,
+    Le patron Marc, marinier du Rhône, Mitifio, un gardien de chevaux, L’équipage,
+    Un valet, Rose Mamaï, Renaude, L’Innocent, second petit-fils de Francet, Vivette,
+    Une servante :Mixed Chorus ::(8 soprano 1, 8 soprano 2, 4 tenors, 4 basses) :Orchestra
+    ::2 flutes (2nd also piccolo), oboe (also English horn), clarinet, 2 bassoons,
+    alto saxophone, 2 horns, timpani (also tambourin provençal), piano, strings (4,
+    3, 1, 5, 2) :On Stage ::organ or harmonium, piano to accompany the chorus'

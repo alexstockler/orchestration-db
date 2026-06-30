@@ -5,16 +5,23 @@ work:
   ids:
     imslp: Die heilige Cäcilia, S.5 (Liszt, Franz)
   year: 1874
-formula: 2220 0230
+formula: 2222 2231 org str
 instrumentation:
   flute: 2
   oboe: 2
   clarinet: 2
+  bassoon: 2
+  horn: 2
   trumpet: 2
   trombone: 3
+  tuba: 1
+  keyboards:
+  - instrument: organ
+  strings: str
   soloists:
-  - mezzo-soprano + mixed chorus
-  additional_raw: 2 bassoons + 2 horns (F) | tuba + timpani +2 harps + organ + strings
+  - mezzo-soprano
+  - mixed chorus
+  additional_raw: timpani +2 harps
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Die_heilige_C%C3%A4cilia%2C_S.5_%28Liszt%2C_Franz%29

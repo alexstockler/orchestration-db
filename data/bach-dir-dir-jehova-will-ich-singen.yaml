@@ -1,0 +1,15 @@
+id: bach-dir-dir-jehova-will-ich-singen
+work:
+  composer: Bach, Johann Sebastian
+  title: Dir, dir, Jehova, will ich singen
+  ids:
+    imslp: Dir, dir, Jehova, will ich singen, BWV 299 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dir%2C_dir%2C_Jehova%2C_will_ich_singen%2C_BWV_299_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

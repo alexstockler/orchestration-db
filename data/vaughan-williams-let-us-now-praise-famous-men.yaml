@@ -1,0 +1,17 @@
+id: vaughan-williams-let-us-now-praise-famous-men
+work:
+  composer: Vaughan Williams, Ralph
+  title: Let Us Now Praise Famous Men
+  ids:
+    imslp: Let Us Now Praise Famous Men (Vaughan Williams, Ralph)
+  year: 1923
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  additional_raw: unison voices (or solo voice)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Let_Us_Now_Praise_Famous_Men_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: unison voices (or solo voice), organ, orchestra'

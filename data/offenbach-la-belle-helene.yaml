@@ -1,0 +1,16 @@
+id: offenbach-la-belle-helene
+work:
+  composer: Offenbach, Jacques
+  title: La belle Hélène
+  ids:
+    imslp: La belle Hélène (Offenbach, Jacques)
+  year: 1864
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_belle_H%C3%A9l%C3%A8ne_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

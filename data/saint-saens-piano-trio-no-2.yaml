@@ -7,7 +7,9 @@ work:
   year: 1891
 formula: ''
 instrumentation:
-  additional_raw: Violin | Cello and Piano
+  solo_strings:
+    violin: 1
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Piano_Trio_No.2%2C_Op.92_%28Saint-Sa%C3%ABns%2C_Camille%29

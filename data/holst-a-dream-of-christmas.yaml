@@ -1,0 +1,17 @@
+id: holst-a-dream-of-christmas
+work:
+  composer: Holst, Gustav
+  title: A Dream of Christmas
+  ids:
+    imslp: A Dream of Christmas, H.139 (Holst, Gustav)
+  year: 1917
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_Dream_of_Christmas%2C_H.139_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SS), piano (or strings)'

@@ -1,0 +1,16 @@
+id: nielsen-piano-music-for-young-and-old
+work:
+  composer: Nielsen, Carl
+  title: Piano Music for Young and Old
+  ids:
+    imslp: Klavermusik for smaa og store, Op.53 (Nielsen, Carl)
+  year: 1929
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Klavermusik_for_smaa_og_store%2C_Op.53_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

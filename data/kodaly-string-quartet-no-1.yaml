@@ -1,0 +1,18 @@
+id: kodaly-string-quartet-no-1
+work:
+  composer: Kodály, Zoltán
+  title: String Quartet No.1
+  ids:
+    imslp: String Quartet No.1, Op.2 (Kodály, Zoltán)
+  year: 1908
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.1%2C_Op.2_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

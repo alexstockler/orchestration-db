@@ -7,7 +7,8 @@ work:
   year: 1816
 formula: ''
 instrumentation:
-  additional_raw: 3 voices
+  soloists:
+  - 3 voices
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Das_Schweigen%2C_WoO_168a_%28Beethoven%2C_Ludwig_van%29

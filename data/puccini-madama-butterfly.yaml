@@ -1,0 +1,69 @@
+id: puccini-madama-butterfly
+work:
+  composer: Puccini, Giacomo
+  title: Madama Butterfly
+  ids:
+    imslp: Madama Butterfly, SC 74 (Puccini, Giacomo)
+  year: 1903
+formula: 3[1.2.3/pic] 3[1.2.Eh] 3[1.2.bcl] 2 4340 tmp+1 hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 4
+  percussion:
+    timpani: 1
+    players: 1
+  harp: 1
+  strings: str
+  soloists:
+  - Madama Butterfly (Cio-Cio-San) (soprano)
+  - Suzuki
+  - servente di Cio-Cio-San (mezzo-soprano)
+  - Kate Pinkerton (mezzo-soprano)
+  - B.F. Pinkerton
+  - Tenente della marina degli S.U.A. (tenor)
+  - Sharpless
+  - Console degli Stati Uniti a Nagasaki (baritone)
+  - Goro
+  - nakodo (tenor)
+  - Il Principe Yamadori (tenor)
+  - Lo zio Bonze
+  - Cio-Cio-San's uncle (bass)
+  - Yakusidé (bass)
+  - Il Commissario Imperiale (bass)
+  - L'Ufficiale del Registro (bass)
+  - La madre di Cio-Cio-San (mezzo-soprano)
+  - La zia (soprano)
+  - La cugina (soprano) Mixed Chorus :Dolore
+  - Parenti
+  - amici ed amiche di Cio-Cio-san
+  - servi
+  additional_raw: viola d'amore (offstage)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Madama_Butterfly%2C_SC_74_%28Puccini%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Madama Butterfly (Cio-Cio-San) (soprano), Suzuki,
+    servente di Cio-Cio-San (mezzo-soprano), Kate Pinkerton (mezzo-soprano), B.F.
+    Pinkerton, Tenente della marina degli S.U.A. (tenor), Sharpless, Console degli
+    Stati Uniti a Nagasaki (baritone), Goro, nakodo (tenor), Il Principe Yamadori
+    (tenor), Lo zio Bonze, Cio-Cio-San''s uncle (bass), Yakusidé (bass), Il Commissario
+    Imperiale (bass), L''Ufficiale del Registro (bass), La madre di Cio-Cio-San (mezzo-soprano),
+    La zia (soprano), La cugina (soprano) Mixed Chorus :Dolore, Parenti, amici ed
+    amiche di Cio-Cio-san, servi Orchestra :3 flutes (3rd also piccolo), 2 oboes,
+    English horn, 2 clarinets, bass clarinet, 2 bassoons, 4 horns, 3 trumpets, 4 trombones
+    (4th bass), timpani, percussion, harp, viola d''amore (offstage), strings'

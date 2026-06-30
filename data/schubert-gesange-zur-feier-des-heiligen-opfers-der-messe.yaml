@@ -17,7 +17,8 @@ instrumentation:
     timpani: 1
   keyboards:
   - instrument: organ
-  additional_raw: double bass (ad lib.)
+  solo_strings:
+    double_bass: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Deutsche_Messe%2C_D.872_%28Schubert%2C_Franz%29

@@ -1,0 +1,16 @@
+id: bach-dies-sind-die-heil-gen-zehn-gebot
+work:
+  composer: Bach, Johann Sebastian
+  title: Dies sind die heil'gen zehn Gebot'
+  ids:
+    imslp: Dies sind die heil'gen zehn Gebot', BWV 635 (Bach, Johann Sebastian)
+  year: 1708
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dies_sind_die_heil%27gen_zehn_Gebot%27%2C_BWV_635_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

@@ -1,0 +1,15 @@
+id: lalo-fantaisie-ballet
+work:
+  composer: Lalo, Édouard
+  title: Fantaisie-ballet
+  ids:
+    imslp: Fantaisie-ballet (Lalo, Édouard)
+  year: 1885
+formula: ''
+instrumentation:
+  additional_raw: Violin and Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantaisie-ballet_%28Lalo%2C_%C3%89douard%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin and Orchestra'

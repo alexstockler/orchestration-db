@@ -7,8 +7,9 @@ work:
   year: 1844
 formula: ''
 instrumentation:
+  soloists:
+  - voices
   chorus_raw: mixed chorus
-  additional_raw: voices | orchestra
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Szenen_aus_Goethes_Faust%2C_WoO_3_%28Schumann%2C_Robert%29

@@ -1,0 +1,17 @@
+id: nielsen-skal-blomsterne-da-visne-opus-21-1-cnw-135
+work:
+  composer: Nielsen, Carl
+  title: Skal Blomsterne da visne, opus 21.1, CNW 135
+  ids:
+    imslp: Skal Blomsterne da visne, CNW 135 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Skal_Blomsterne_da_visne%2C_CNW_135_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

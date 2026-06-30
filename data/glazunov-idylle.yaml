@@ -1,0 +1,16 @@
+id: glazunov-idylle
+work:
+  composer: Glazunov, Aleksandr
+  title: Idylle
+  ids:
+    imslp: Idylle, Op.103 (Glazunov, Aleksandr)
+  year: 1926
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Idylle%2C_Op.103_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,18 @@
+id: nielsen-vocalise-etude
+work:
+  composer: Nielsen, Carl
+  title: Vocalise-Étude
+  ids:
+    imslp: Vocalise-Étude, CNW 317 (Nielsen, Carl)
+  year: 1927
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vocalise-%C3%89tude%2C_CNW_317_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

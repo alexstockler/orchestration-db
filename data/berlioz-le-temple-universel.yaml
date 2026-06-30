@@ -1,0 +1,17 @@
+id: berlioz-le-temple-universel
+work:
+  composer: Berlioz, Hector
+  title: Le temple universel
+  ids:
+    imslp: Le temple universel, H 137 (Berlioz, Hector)
+  year: 1861
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  additional_raw: TTBB—TTBB | TTBB a capella
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_temple_universel%2C_H_137_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: TTBB—TTBB, organ, TTBB a capella'

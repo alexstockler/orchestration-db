@@ -9,7 +9,9 @@ formula: ''
 instrumentation:
   soloists:
   - bass
-  additional_raw: 2 violins | viola
+  solo_strings:
+    violin: 2
+    viola: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Divertimento_in_E-flat_major%2C_Hob.II%3A6_%28Haydn%2C_Joseph%29

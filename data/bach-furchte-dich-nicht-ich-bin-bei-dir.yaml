@@ -1,0 +1,20 @@
+id: bach-furchte-dich-nicht-ich-bin-bei-dir
+work:
+  composer: Bach, Johann Sebastian
+  title: Fürchte dich nicht, ich bin bei dir
+  ids:
+    imslp: Fürchte dich nicht, ich bin bei dir, BWV 228 (Bach, Johann Sebastian)
+  year: 1726
+formula: 0 1[Eh] 0 1 0000 str
+instrumentation:
+  oboe:
+  - instrument: english_horn
+  bassoon: 1
+  strings: str
+  additional_raw: 'Choral II: 2 oboes'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/F%C3%BCrchte_dich_nicht%2C_ich_bin_bei_dir%2C_BWV_228_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Choral I: strings, Choral II: 2 oboes, English horn, bassoon,
+    strings'

@@ -1,0 +1,18 @@
+id: gounod-le-nom-de-marie
+work:
+  composer: Gounod, Charles
+  title: Le nom de Marie
+  ids:
+    imslp: Le nom de Marie, CG 412 (Gounod, Charles)
+  year: 1869
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_nom_de_Marie%2C_CG_412_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

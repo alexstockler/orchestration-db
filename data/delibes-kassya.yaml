@@ -1,0 +1,16 @@
+id: delibes-kassya
+work:
+  composer: Delibes, Léo
+  title: Kassya
+  ids:
+    imslp: Kassya (Delibes, Léo)
+  year: 1890
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kassya_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

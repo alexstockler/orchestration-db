@@ -7,7 +7,11 @@ work:
   year: 1849
 formula: 0000 4000
 instrumentation:
-  horn: 4
+  horn:
+  - optional: true
+  - optional: true
+  - optional: true
+  - optional: true
   additional_raw: male-chorus (TTBB)
 provenance:
   source: imslp

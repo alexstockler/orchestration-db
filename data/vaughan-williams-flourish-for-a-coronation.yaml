@@ -1,0 +1,60 @@
+id: vaughan-williams-flourish-for-a-coronation
+work:
+  composer: Vaughan Williams, Ralph
+  title: Flourish for a Coronation
+  ids:
+    imslp: Flourish for a Coronation (Vaughan Williams, Ralph)
+formula: 4[1.2.3.4/pic] 2 3[Ebcl.2.3] 3[1.2.cbn] 8 6 3 2[euph.2] tmp+1 pf org 2hp
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 8
+  trumpet: 6
+  trombone: 3
+  tuba:
+  - instrument: euphonium
+  - {}
+  percussion:
+    timpani: 1
+    players: 1
+    instruments:
+    - cymbals
+    - tambourine
+    - triangle
+    - bass drum
+    - glockenspiel
+    - bells
+  keyboards:
+  - instrument: piano
+  - instrument: organ
+  harp: 2
+  saxophones:
+  - instrument: alto_sax
+    count: 1
+  additional_raw: strings :[*] 1st–4th horns and 1st–3rd trumpets should be placed
+    on the opposite side of the orchestra from the 5th–8th horns and 4th–6th trumpets.
+    :[**] snare drum
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flourish_for_a_Coronation_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 flutes (4th also piccolo), 2 oboes, piccolo clarinet,
+    2 clarinets, alto saxophone, 2 bassoons, contrabassoon, 8 horns*, 6 trumpets*,
+    3 trombones, euphonium, tuba, timpani, percussion**, 2 harps, piano, organ, strings
+    :[*] 1st–4th horns and 1st–3rd trumpets should be placed on the opposite side
+    of the orchestra from the 5th–8th horns and 4th–6th trumpets. :[**] snare drum,
+    cymbals, tambourine, triangle, bass drum, glockenspiel, bells'
+duration_minutes: 12

@@ -1,0 +1,26 @@
+id: nielsen-an-evening-at-giske
+work:
+  composer: Nielsen, Carl
+  title: An Evening at Giske
+  ids:
+    imslp: En aften paa Giske, CNW 3 (Nielsen, Carl)
+  year: 1889
+formula: 1120 2210 tmp str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 2
+  horn: 2
+  trumpet: 2
+  trombone: 1
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/En_aften_paa_Giske%2C_CNW_3_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: mixed chorus (SATB), Orchestra: flute, oboe, 2
+    clarinets (B), 2 horns (F), 2 trumpets (F), trombone, timpani, strings'

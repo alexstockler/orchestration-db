@@ -1,0 +1,18 @@
+id: massenet-rien-ne-passe
+work:
+  composer: Massenet, Jules
+  title: Rien ne passe !
+  ids:
+    imslp: Rien ne passe (Massenet, Jules)
+  year: 1911
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rien_ne_passe_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -7,7 +7,7 @@ work:
   year: 1843
 formula: ''
 instrumentation:
-  additional_raw: SSAATTBB
+  chorus_raw: ssaattbb
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/6_Motets%2C_Op.79_%28Mendelssohn%2C_Felix%29

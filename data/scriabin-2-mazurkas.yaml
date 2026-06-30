@@ -1,0 +1,16 @@
+id: scriabin-2-mazurkas
+work:
+  composer: Scriabin, Aleksandr
+  title: 2 Mazurkas
+  ids:
+    imslp: 2 Mazurkas, Op.40 (Scriabin, Aleksandr)
+  year: 1903
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Mazurkas%2C_Op.40_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

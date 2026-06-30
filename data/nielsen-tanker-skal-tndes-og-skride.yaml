@@ -1,0 +1,17 @@
+id: nielsen-tanker-skal-tndes-og-skride
+work:
+  composer: Nielsen, Carl
+  title: Tanker skal tændes og skride
+  ids:
+    imslp: Tanker skal tændes og skride, CNW 331 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tanker_skal_t%C3%A6ndes_og_skride%2C_CNW_331_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

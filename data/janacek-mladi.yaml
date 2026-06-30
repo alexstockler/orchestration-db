@@ -1,0 +1,21 @@
+id: janacek-mladi
+work:
+  composer: Janáček, Leoš
+  title: Mládí
+  ids:
+    imslp: Mládí (Janáček, Leoš)
+  year: 1924
+formula: 1 1 1[bcl] 1 1000
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet:
+  - instrument: bass_clarinet
+  bassoon: 1
+  horn: 1
+  additional_raw: clarine
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ml%C3%A1d%C3%AD_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, clarine, bass clarinet, bassoon, horn'

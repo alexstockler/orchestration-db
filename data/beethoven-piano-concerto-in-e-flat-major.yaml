@@ -9,7 +9,6 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: orchestra
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Piano_Concerto_in_E-flat_major%2C_WoO_4_%28Beethoven%2C_Ludwig_van%29

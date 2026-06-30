@@ -33,9 +33,11 @@ instrumentation:
     - side drum
     - cymbals
     - bass drum
+    - bells
+    - cannon
   strings: str
-  additional_raw: bells | cannon | Brass Band (ad lib.) open instrumentation (9 parts,
-    in keyboard notation in original score)
+  additional_raw: Brass Band (ad lib.) open instrumentation (9 parts, in keyboard
+    notation in original score)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/1812_Overture%2C_Op.49_%28Tchaikovsky%2C_Pyotr%29

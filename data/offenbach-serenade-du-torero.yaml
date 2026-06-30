@@ -1,0 +1,18 @@
+id: offenbach-serenade-du-torero
+work:
+  composer: Offenbach, Jacques
+  title: Sérénade du toréro
+  ids:
+    imslp: Sérénade du toréro (Offenbach, Jacques)
+  year: 1850
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/S%C3%A9r%C3%A9nade_du_tor%C3%A9ro_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

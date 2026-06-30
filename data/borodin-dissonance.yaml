@@ -1,0 +1,18 @@
+id: borodin-dissonance
+work:
+  composer: Borodin, Aleksandr
+  title: Dissonance
+  ids:
+    imslp: Dissonance (Borodin, Aleksandr)
+  year: 1868
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dissonance_%28Borodin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

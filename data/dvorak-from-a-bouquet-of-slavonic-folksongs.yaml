@@ -5,10 +5,9 @@ work:
   ids:
     imslp: From a Bouquet of Slavonic Folksongs, Op.43 (Dvořák, Antonín)
   year: 1877
-formula: pf pf
+formula: pf
 instrumentation:
   keyboards:
-  - instrument: piano
   - instrument: piano
   chorus_raw: male chorus
 provenance:

@@ -1,0 +1,19 @@
+id: lalo-piano-trio-no-2
+work:
+  composer: Lalo, Édouard
+  title: Piano Trio No.2
+  ids:
+    imslp: Piano Trio No.2 (Lalo, Édouard)
+  year: 1852
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio_No.2_%28Lalo%2C_%C3%89douard%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'

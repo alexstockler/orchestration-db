@@ -1,0 +1,58 @@
+id: vaughan-williams-hugh-the-drover
+work:
+  composer: Vaughan Williams, Ralph
+  title: Hugh the Drover
+  ids:
+    imslp: Hugh the Drover (Vaughan Williams, Ralph)
+  year: 1910
+formula: 2002 4231 tmp+1 hp str
+instrumentation:
+  flute: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+  harp: 1
+  strings: str
+  soloists:
+  - voices
+  - 'orchestra Cast: :Mary (soprano)'
+  - Aunt Jane (mezzo-soprano)
+  - Hugh the drover (tenor)
+  - John the butcher (baritone)
+  - Sergeant (baritone)
+  - Constable (bass)
+  - A cheap-jack (tenor)
+  - Shellfish seller (bass)
+  - Primrose seller (soprano)
+  - Showman (baritone)
+  - Ballad seller (tenor)
+  - Susan (soprano)
+  - Nancy (mezzo-soprano)
+  - William (tenor)
+  - Robert (baritone)
+  - Turnkey (tenor)
+  - Fool (tenor)
+  - 'Innkeeper (baritone) Voices: :3 sopranos'
+  - 2 mezzo sopranos
+  - 6 tenors
+  - 5 baritones
+  - 2 basses
+  additional_raw: 2 oboes 2 clarinets
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hugh_the_Drover_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra Cast: :Mary (soprano), Aunt Jane (mezzo-soprano),
+    Hugh the drover (tenor), John the butcher (baritone), Sergeant (baritone), Constable
+    (bass), A cheap-jack (tenor), Shellfish seller (bass), Primrose seller (soprano),
+    Showman (baritone), Ballad seller (tenor), Susan (soprano), Nancy (mezzo-soprano),
+    William (tenor), Robert (baritone), Turnkey (tenor), Fool (tenor), Innkeeper (baritone)
+    Voices: :3 sopranos, 2 mezzo sopranos, 6 tenors, 5 baritones, 2 basses Orchestra:
+    :2 flutes, 2 oboes 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones,
+    tuba, timpani, percussion, harp, strings'
+duration_minutes: 90

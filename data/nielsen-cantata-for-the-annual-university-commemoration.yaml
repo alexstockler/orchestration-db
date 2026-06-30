@@ -1,0 +1,30 @@
+id: nielsen-cantata-for-the-annual-university-commemoration
+work:
+  composer: Nielsen, Carl
+  title: Cantata for the Annual University Commemoration
+  ids:
+    imslp: Universitetets Aarsfest Cantata, Op.24 (Nielsen, Carl)
+  year: 1908
+formula: 1111 2000 pf str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 2
+  percussion:
+    instruments:
+    - triangle
+  keyboards:
+  - instrument: piano
+  strings: str
+  soloists:
+  - soprano
+  - tenor
+  - mens chorus (TTBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Universitetets_Aarsfest_Cantata%2C_Op.24_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, tenor, mens chorus (TTBB), Orchestra:
+    flute, oboe, clarinet (B/A), bassoon, 2 horns (F), triangle, piano, strings'

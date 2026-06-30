@@ -9,7 +9,7 @@ formula: ''
 instrumentation:
   soloists:
   - voices
-  additional_raw: chorus and orchestra
+  chorus_raw: chorus and orchestra
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Le_timbre_d%27argent_%28Saint-Sa%C3%ABns%2C_Camille%29

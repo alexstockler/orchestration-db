@@ -1,0 +1,16 @@
+id: weber-rondo-brillante
+work:
+  composer: Weber, Carl Maria von
+  title: Rondo brillante
+  ids:
+    imslp: Rondo brillante, Op.62 (Weber, Carl Maria von)
+  year: 1819
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rondo_brillante%2C_Op.62_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

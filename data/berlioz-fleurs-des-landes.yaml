@@ -1,0 +1,26 @@
+id: berlioz-fleurs-des-landes
+work:
+  composer: Berlioz, Hector
+  title: Fleurs des landes
+  ids:
+    imslp: Fleurs des landes, H 124 (Berlioz, Hector)
+  year: 1834
+formula: pf pf pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  - instrument: piano
+  - instrument: piano
+  soloists:
+  - voice
+  - 2 voices
+  - voice
+  chorus_raw: chorus
+  additional_raw: mens chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fleurs_des_landes%2C_H_124_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano (Nos.1-2); 2 voices, piano (No.3); voice,
+    chorus, piano (No.4); mens chorus, piano (No.5)'

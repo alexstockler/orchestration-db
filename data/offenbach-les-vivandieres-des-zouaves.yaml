@@ -1,0 +1,15 @@
+id: offenbach-les-vivandieres-des-zouaves
+work:
+  composer: Offenbach, Jacques
+  title: Les vivandières des Zouaves
+  ids:
+    imslp: Les vivandières des Zouaves (Offenbach, Jacques)
+  year: 1859
+formula: ''
+instrumentation:
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_vivandi%C3%A8res_des_Zouaves_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, orchestra'

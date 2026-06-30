@@ -1,0 +1,30 @@
+id: smetana-triumfalni-symfonie
+work:
+  composer: Smetana, Bedřich
+  title: Triumfální symfonie
+  ids:
+    imslp: Triumfální symfonie, Op.6 (Smetana, Bedřich)
+  year: 1853
+formula: 2[1.2/pic] 2 2 2 4230 tmp+1 str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    players: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Triumf%C3%A1ln%C3%AD_symfonie%2C_Op.6_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes, 2 clarinets, 2 bassoons,
+    4 horns, 2 trumpet, 3 trombones, timpani, percussion, strings'
+duration_minutes: 10

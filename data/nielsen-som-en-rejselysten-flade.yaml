@@ -1,0 +1,17 @@
+id: nielsen-som-en-rejselysten-flade
+work:
+  composer: Nielsen, Carl
+  title: Som en rejselysten Flåde
+  ids:
+    imslp: Som en rejselysten Flåde, CNW 237 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Som_en_rejselysten_Fl%C3%A5de%2C_CNW_237_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

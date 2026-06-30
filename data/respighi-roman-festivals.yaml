@@ -1,0 +1,49 @@
+id: respighi-roman-festivals
+work:
+  composer: Respighi, Ottorino
+  title: Roman Festivals
+  ids:
+    imslp: Feste romane (Respighi, Ottorino)
+  year: 1928
+formula: 0 0 3[1.2.bcl] 2 0431 tmp pf org str
+instrumentation:
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  trumpet: 4
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tambourine
+    - sleigh bells
+    - ratchet
+    - tenor drum
+    - snare drum
+    - tavolette
+    - suspended cymbal
+    - bass drum
+    - cymbals
+    - tam-tam
+    - glockenspiel
+    - chimes
+  keyboards:
+  - instrument: piano
+  - instrument: organ
+  strings: str
+  additional_raw: contrabassoon 4 horns | 3 soprano buccine | xylophone mandolin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Feste_romane_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 2 oboes, English horn, piccolo
+    clarinet, :2 clarinets, bass clarinet, 2 bassoons, contrabassoon 4 horns, 4 trumpets,
+    3 trombones, tuba, 3 soprano buccine, timpani, triangle, tambourine, sleigh bells,
+    ratchet, tenor drum, snare drum, :tavolette (high and low), suspended cymbal,
+    bass drum, cymbals, tam-tam, :glockenspiel, chimes, xylophone mandolin, piano
+    (2 players, 4 hands), organ, strings'
+duration_minutes: 25

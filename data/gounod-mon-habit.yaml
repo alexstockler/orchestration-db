@@ -1,0 +1,18 @@
+id: gounod-mon-habit
+work:
+  composer: Gounod, Charles
+  title: Mon habit
+  ids:
+    imslp: Mon habit, CG 410 (Gounod, Charles)
+  year: 1838
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mon_habit%2C_CG_410_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

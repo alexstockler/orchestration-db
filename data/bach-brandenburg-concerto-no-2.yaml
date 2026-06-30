@@ -1,0 +1,21 @@
+id: bach-brandenburg-concerto-no-2
+work:
+  composer: Bach, Johann Sebastian
+  title: Brandenburg Concerto No.2
+  ids:
+    imslp: Brandenburg Concerto No.2 in F major, BWV 1047 (Bach, Johann Sebastian)
+  year: 1721
+formula: 0100 0100 str
+instrumentation:
+  oboe: 1
+  trumpet: 1
+  strings: str
+  solo_strings:
+    violin: 1
+  additional_raw: recorder* | continuo (harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Brandenburg_Concerto_No.2_in_F_major%2C_BWV_1047_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: recorder*, oboe, trumpet, violin, strings, continuo (harpsichord)'
+duration_minutes: 12

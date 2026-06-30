@@ -1,0 +1,17 @@
+id: franck-grand-fantasy-no-1-on-the-motifs-of-gulistan-de-dalayrac
+work:
+  composer: Franck, César
+  title: Grand Fantasy No.1 on the Motifs of Gulistan de Dalayrac
+  ids:
+    imslp: Grand Fantasy No.1 on the Motifs of 'Gulistan' by Dalayrac, Op.11 (Franck,
+      César)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grand_Fantasy_No.1_on_the_Motifs_of_%27Gulistan%27_by_Dalayrac%2C_Op.11_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,18 @@
+id: nielsen-tidt-er-jeg-glad-og-vil-dog-gerne-grde
+work:
+  composer: Nielsen, Carl
+  title: Tidt er jeg glad, og vil dog gerne græde
+  ids:
+    imslp: Tidt er jeg glad, og vil dog gerne græde, CNW 216 (Nielsen, Carl)
+  year: 1916
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tidt_er_jeg_glad%2C_og_vil_dog_gerne_gr%C3%A6de%2C_CNW_216_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

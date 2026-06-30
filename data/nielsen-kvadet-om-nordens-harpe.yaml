@@ -1,0 +1,15 @@
+id: nielsen-kvadet-om-nordens-harpe
+work:
+  composer: Nielsen, Carl
+  title: Kvadet om Nordens Harpe
+  ids:
+    imslp: Kvadet om Nordens Harpe, CNW 365 (Nielsen, Carl)
+  year: 1931
+formula: ''
+instrumentation:
+  additional_raw: mens choir (TTBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kvadet_om_Nordens_Harpe%2C_CNW_365_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: mens choir (TTBB)'

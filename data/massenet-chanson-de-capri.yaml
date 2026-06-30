@@ -1,0 +1,18 @@
+id: massenet-chanson-de-capri
+work:
+  composer: Massenet, Jules
+  title: Chanson de Capri
+  ids:
+    imslp: Chanson de Capri (Massenet, Jules)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chanson_de_Capri_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

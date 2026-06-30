@@ -1,0 +1,19 @@
+id: hindemith-double-bass-sonata
+work:
+  composer: Hindemith, Paul
+  title: Double Bass Sonata
+  ids:
+    imslp: Double Bass Sonata (Hindemith, Paul)
+  year: 1949
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    double_bass: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Double_Bass_Sonata_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: double bass, piano'
+duration_minutes: 13

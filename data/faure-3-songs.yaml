@@ -1,0 +1,18 @@
+id: faure-3-songs
+work:
+  composer: Fauré, Gabriel
+  title: 3 Songs
+  ids:
+    imslp: 3 Songs, Op.5 (Fauré, Gabriel)
+  year: 1871
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Songs%2C_Op.5_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -7,7 +7,8 @@ work:
   year: 1881
 formula: ''
 instrumentation:
-  additional_raw: Cello and Piano
+  solo_strings:
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Cello_Sonata%2C_Op.6_%28Strauss%2C_Richard%29

@@ -1,0 +1,19 @@
+id: holst-two-psalms
+work:
+  composer: Holst, Gustav
+  title: Two Psalms
+  ids:
+    imslp: 2 Psalms, H.117 (Holst, Gustav)
+  year: 1912
+formula: org str
+instrumentation:
+  keyboards:
+  - instrument: organ
+  strings: str
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Psalms%2C_H.117_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), strings, organ'
+duration_minutes: 12

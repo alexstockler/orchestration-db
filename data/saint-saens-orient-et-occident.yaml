@@ -39,8 +39,9 @@ instrumentation:
     count: 1
   - instrument: baritone_sax
     count: 1
-  additional_raw: saxophone | piccolo bugle (E) | 2 bugles (B) | basses (tuba) | contrabasses
-    (tuba)
+  solo_strings:
+    double_bass: 1
+  additional_raw: saxophone | piccolo bugle (E) | 2 bugles (B) | basses (tuba)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Orient_et_occident%2C_Op.25_%28Saint-Sa%C3%ABns%2C_Camille%29

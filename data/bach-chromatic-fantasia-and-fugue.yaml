@@ -1,0 +1,15 @@
+id: bach-chromatic-fantasia-and-fugue
+work:
+  composer: Bach, Johann Sebastian
+  title: Chromatic Fantasia and Fugue
+  ids:
+    imslp: Chromatic Fantasia and Fugue, BWV 903 (Bach, Johann Sebastian)
+  year: 1723
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chromatic_Fantasia_and_Fugue%2C_BWV_903_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

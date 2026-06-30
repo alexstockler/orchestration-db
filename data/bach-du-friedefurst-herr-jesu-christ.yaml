@@ -1,0 +1,16 @@
+id: bach-du-friedefurst-herr-jesu-christ
+work:
+  composer: Bach, Johann Sebastian
+  title: Du Friedefürst, Herr Jesu Christ
+  ids:
+    imslp: Du Friedefürst, Herr Jesu Christ, BWV 1102 (Bach, Johann Sebastian)
+  year: 1703
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Du_Friedef%C3%BCrst%2C_Herr_Jesu_Christ%2C_BWV_1102_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

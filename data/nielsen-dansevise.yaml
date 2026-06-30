@@ -1,0 +1,15 @@
+id: nielsen-dansevise
+work:
+  composer: Nielsen, Carl
+  title: Dansevise
+  ids:
+    imslp: Dansevise, CNW 134 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dansevise%2C_CNW_134_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

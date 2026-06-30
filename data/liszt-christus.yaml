@@ -5,7 +5,7 @@ work:
   ids:
     imslp: Christus, S.3 (Liszt, Franz)
   year: 1866
-formula: 3[pic.2.3] 3[1.2.Eh] 2 0 0330
+formula: 3[pic.2.3] 3[1.2.Eh] 2 2 4331 tmp+1 org hp str
 instrumentation:
   flute:
   - instrument: piccolo
@@ -16,16 +16,25 @@ instrumentation:
   - {}
   - instrument: english_horn
   clarinet: 2
+  bassoon: 2
+  horn: 4
   trumpet: 3
   trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+  keyboards:
+  - instrument: organ
+  harp: 1
+  strings: str
   soloists:
   - soprano
   - alto
   - tenor
   - baritone
-  - bass + mixed chorus
-  additional_raw: 2 bassoons + 4 horns | tuba + timpani | percussion + harp + organ
-    + strings
+  - bass
+  - mixed chorus
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Christus%2C_S.3_%28Liszt%2C_Franz%29

@@ -7,7 +7,7 @@ work:
   year: 1901
 formula: ''
 instrumentation:
-  additional_raw: male choir
+  chorus_raw: male choir
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/To_Ole_Bull%2C_EG_176_%28Grieg%2C_Edvard%29

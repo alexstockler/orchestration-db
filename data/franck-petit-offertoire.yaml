@@ -1,0 +1,17 @@
+id: franck-petit-offertoire
+work:
+  composer: Franck, César
+  title: Petit Offertoire
+  ids:
+    imslp: Petit offertoire, CFF 38 (Franck, César)
+  year: 1885
+formula: ''
+instrumentation:
+  additional_raw: harmonium (organ) 2-staves - manuals (Some pedal points at the end)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Petit_offertoire%2C_CFF_38_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: harmonium (organ) 2-staves - manuals (Some pedal points
+    at the end)'
+duration_minutes: 3

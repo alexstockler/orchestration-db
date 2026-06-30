@@ -1,0 +1,16 @@
+id: bach-fugue-on-the-theme-b-a-c-h-in-c-major
+work:
+  composer: Bach, Johann Sebastian
+  title: Fugue (on the theme 'B-A-C-H') in C major
+  ids:
+    imslp: Fugue (on the theme 'B-A-C-H') in C major, BWV Anh.107 (Bach, Johann Sebastian)
+  year: 1707
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_%28on_the_theme_%27B-A-C-H%27%29_in_C_major%2C_BWV_Anh.107_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'
+duration_minutes: 5

@@ -12,7 +12,9 @@ instrumentation:
   horn: 2
   soloists:
   - bass
-  additional_raw: 2 violins | 2 violas
+  solo_strings:
+    violin: 2
+    viola: 2
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Notturno_in_G_major%2C_Hob.II%3A27_%28Haydn%2C_Joseph%29

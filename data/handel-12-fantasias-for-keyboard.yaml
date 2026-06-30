@@ -4,10 +4,9 @@ work:
   title: 12 Fantasias for Keyboard
   ids:
     imslp: 12 Fantasias for Keyboard (Handel, George Frideric)
-formula: hpd
+formula: ''
 instrumentation:
-  keyboards:
-  - instrument: harpsichord
+  additional_raw: harpsichord (or organ or piano)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/12_Fantasias_for_Keyboard_%28Handel%2C_George_Frideric%29

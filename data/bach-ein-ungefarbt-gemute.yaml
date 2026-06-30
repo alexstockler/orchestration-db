@@ -1,0 +1,19 @@
+id: bach-ein-ungefarbt-gemute
+work:
+  composer: Bach, Johann Sebastian
+  title: Ein ungefärbt Gemüte
+  ids:
+    imslp: Ein ungefärbt Gemüte, BWV 24 (Bach, Johann Sebastian)
+  year: 1723
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: tromba da tirarsi | continuo (organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ein_ungef%C3%A4rbt_Gem%C3%BCte%2C_BWV_24_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes (both also oboe d''amore), tromba da tirarsi, strings,
+    continuo (organ)'
+duration_minutes: 21

@@ -1,0 +1,36 @@
+id: vaughan-williams-tuba-concerto
+work:
+  composer: Vaughan Williams, Ralph
+  title: Tuba Concerto
+  ids:
+    imslp: Tuba Concerto (Vaughan Williams, Ralph)
+  year: 1954
+formula: 2[1.2/pic] 1 2 1 2220 tmp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 1
+  clarinet: 2
+  bassoon: 1
+  horn: 2
+  trumpet: 2
+  trombone: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drum
+    - cymbals
+    - triangle
+    - bass drum
+  strings: str
+  soloists:
+  - tuba
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tuba_Concerto_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: tuba, Orchestra: 2 flutes (2nd also piccolo), oboe,
+    2 clarinets, bassoon, 2 horns, 2 trumpets, 2 trombones, timpani, snare drum, cymbals,
+    triangle, bass drum, strings'

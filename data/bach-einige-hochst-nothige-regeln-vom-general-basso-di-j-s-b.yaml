@@ -1,0 +1,16 @@
+id: bach-einige-hochst-nothige-regeln-vom-general-basso-di-j-s-b
+work:
+  composer: Bach, Johann Sebastian
+  title: Einige höchst nöthige Regeln vom General Basso. di J.S.B.
+  ids:
+    imslp: Einige höchst nöthige Regeln vom General Basso, BWV 1133 (Bach, Johann
+      Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  additional_raw: '| *****COMMENTS***** ='
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Einige_h%C3%B6chst_n%C3%B6thige_Regeln_vom_General_Basso%2C_BWV_1133_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: | *****COMMENTS***** ='

@@ -1,0 +1,18 @@
+id: faure-vieille-chanson
+work:
+  composer: Fauré, Gabriel
+  title: Vieille chanson
+  ids:
+    imslp: Vieille chanson (Fauré, Gabriel)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - baritone
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vieille_chanson_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, baritone, piano'

@@ -1,0 +1,16 @@
+id: franck-entree-pour-harmonium
+work:
+  composer: Franck, César
+  title: Entrée pour harmonium
+  ids:
+    imslp: Entrée in E major, CFF 37 (Franck, César)
+formula: harm
+instrumentation:
+  keyboards:
+  - instrument: harmonium
+  additional_raw: orgue.
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Entr%C3%A9e_in_E_major%2C_CFF_37_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: Harmonium, orgue.'

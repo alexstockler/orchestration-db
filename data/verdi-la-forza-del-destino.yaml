@@ -1,0 +1,92 @@
+id: verdi-la-forza-del-destino
+work:
+  composer: Verdi, Giuseppe
+  title: La forza del destino
+  ids:
+    imslp: La forza del destino (Verdi, Giuseppe)
+  year: 1862
+formula: 2[1.2/pic] 2 2[1.2/bcl] 2 4 8 3 1[cimb] tmp org 2hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet:
+  - {}
+  - doublings:
+    - bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 8
+  trombone: 3
+  tuba:
+  - instrument: cimbasso
+  percussion:
+    timpani: 1
+    instruments:
+    - side drum
+    - bass drum
+    - side drums
+  keyboards:
+  - instrument: organ
+  harp: 2
+  strings: str
+  soloists:
+  - Il Marchese Di Calatrava (basso)
+  - Leonora (soprano)
+  - Don Carlo di Vargas (baritone)
+  - Don Alvaro (tenore)
+  - Preziosilla
+  - giovane zingara (mezzo-soprano)
+  - Padre Guardiano (basso profondo)
+  - Fra Melitone (baritono brillante)
+  - Curra
+  - cameriera di Leonora (mezzo-soprano)
+  - Un Alcade (basso)
+  - Mastro Trabuco
+  - mulattiere
+  - poi
+  - rivendugliolo (tenor)
+  - Un Chirurgo militare spagnuolo (tenor) Mixed Chorus :Mulattieri
+  - Peasani spagnuoli e italiani
+  - Soldati spagnuoli e italiani d'ogni arma
+  - Ordinanze relative
+  - Reclute italiane
+  - Frati Francescani
+  - Poveri questuanti.
+  - Paesane e Vivandiere spagnuole ed italiane
+  - Povere questuanti.
+  - Paesani
+  - Paesane e Vivandiere spagnuole ed italiane
+  - Soldati spagnuoli ed italiani.
+  - Oste
+  - Ostessa
+  - Servi d'osteria
+  - Mulattieri
+  - Soldati italiani e spagnuoli d'ogni arma
+  - Tamburini
+  - Trombe
+  - Paesane e Fanciulli delle due nazioni
+  - Saltimbanco
+  - Venditori d'ogni specie Pit-
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_forza_del_destino_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Il Marchese Di Calatrava (basso), Leonora (soprano),
+    Don Carlo di Vargas (baritone), Don Alvaro (tenore), Preziosilla, giovane zingara
+    (mezzo-soprano), Padre Guardiano (basso profondo), Fra Melitone (baritono brillante),
+    Curra, cameriera di Leonora (mezzo-soprano), Un Alcade (basso), Mastro Trabuco,
+    mulattiere, poi, rivendugliolo (tenor), Un Chirurgo militare spagnuolo (tenor)
+    Mixed Chorus :Mulattieri, Peasani spagnuoli e italiani, Soldati spagnuoli e italiani
+    d''ogni arma, Ordinanze relative, Reclute italiane, Frati Francescani, Poveri
+    questuanti., Paesane e Vivandiere spagnuole ed italiane, Povere questuanti., Paesani,
+    Paesane e Vivandiere spagnuole ed italiane, Soldati spagnuoli ed italiani., Oste,
+    Ostessa, Servi d''osteria, Mulattieri, Soldati italiani e spagnuoli d''ogni arma,
+    Tamburini, Trombe, Paesane e Fanciulli delle due nazioni, Saltimbanco; Venditori
+    d''ogni specie Pit-Orchestra :2 flutes (2nd also piccolo), 2 oboes, 2 clarinets
+    (2nd also bass clarinet), 2 bassoons, 4 horns, 2 trumpets, 3 trombones, cimbasso*
+    (contrabass trombone or tuba), timpani, side drum, bass drum, 2 harps, strings
+    '' :6 trumpets, 4 (or 8) side drums, organ'
+duration_minutes: 170

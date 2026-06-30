@@ -5,9 +5,13 @@ work:
   ids:
     imslp: Mazeppa, TH 7 (Tchaikovsky, Pyotr)
   year: 1881
-formula: 3 3[1.2.Eh] 2 2 4 4[cnt.cnt.3.4] 3 1 tmp hp str
+formula: 4[pic.2.3.4] 3[1.2.Eh] 2 2 4 4[cnt.cnt.3.4] 3 1 tmp hp str
 instrumentation:
-  flute: 3
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  - {}
   oboe:
   - {}
   - {}
@@ -32,10 +36,15 @@ instrumentation:
     - bass drum
   harp: 1
   strings: str
-  additional_raw: 'Voices: :Mazepa (Мазепа) (baritone) | Kochubey (Кочубей) (bass)
-    | Lyubov (Любовь) (mezzo-soprano) | Mariya (Мария) (soprano) | Andrey (Андрей)
-    (tenor) | Orlik (Орлик) (bass) | Iskra (Искра) (2nd tenor) | Drunken Cossack (Пьяный
-    казак) (2nd tenor) Mixed Chorus (SATB) | Orchestra :piccolo'
+  soloists:
+  - :Mazepa (Мазепа) (baritone)
+  - Kochubey (Кочубей) (bass)
+  - Lyubov (Любовь) (mezzo-soprano)
+  - Mariya (Мария) (soprano)
+  - Andrey (Андрей) (tenor)
+  - Orlik (Орлик) (bass)
+  - Iskra (Искра) (2nd tenor)
+  - Drunken Cossack (Пьяный казак) (2nd tenor) Mixed Chorus (SATB)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Mazeppa%2C_TH_7_%28Tchaikovsky%2C_Pyotr%29

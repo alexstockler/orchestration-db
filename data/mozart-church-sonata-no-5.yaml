@@ -9,7 +9,9 @@ formula: org
 instrumentation:
   keyboards:
   - instrument: organ
-  additional_raw: 2 violins | cello
+  solo_strings:
+    violin: 2
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Church_Sonata_in_F_major%2C_K.145/124b_%28Mozart%2C_Wolfgang_Amadeus%29

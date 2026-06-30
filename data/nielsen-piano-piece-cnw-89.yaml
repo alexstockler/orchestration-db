@@ -1,0 +1,15 @@
+id: nielsen-piano-piece-cnw-89
+work:
+  composer: Nielsen, Carl
+  title: Piano Piece, CNW 89
+  ids:
+    imslp: Klaverstykke in A major, CNW 89 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Klaverstykke_in_A_major%2C_CNW_89_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

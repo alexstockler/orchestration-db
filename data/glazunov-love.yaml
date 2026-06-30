@@ -1,0 +1,16 @@
+id: glazunov-love
+work:
+  composer: Glazunov, Aleksandr
+  title: Love
+  ids:
+    imslp: Love, Op.94 (Glazunov, Aleksandr)
+  year: 1907
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Love%2C_Op.94_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 3

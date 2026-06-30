@@ -1,0 +1,37 @@
+id: respighi-concerto-in-modo-misolidio
+work:
+  composer: Respighi, Ottorino
+  title: Concerto in modo misolidio
+  ids:
+    imslp: Concerto in modo misolidio (Respighi, Ottorino)
+  year: 1924
+formula: 3[pic.2.3] 3[1.2.Eh] 2 2 4231 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - gong
+  strings: str
+  soloists:
+  - piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_in_modo_misolidio_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: piano, Orchestra: piccolo, 2 flutes, 2 oboes, English
+    horn, 2 clarinets (B/A), 2 bassoons + 4 horns (F), 2 trumpets (B), 3 trombones,
+    tuba + timpani, gong + strings'

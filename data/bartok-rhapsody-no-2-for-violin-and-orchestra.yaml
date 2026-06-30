@@ -1,0 +1,19 @@
+id: bartok-rhapsody-no-2-for-violin-and-orchestra
+work:
+  composer: Bartók, Béla
+  title: Rhapsody No.2 for Violin and Orchestra
+  ids:
+    imslp: Violin Rhapsody No.2, Sz.90 (Bartók, Béla)
+  year: 1928
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Rhapsody_No.2%2C_Sz.90_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 12

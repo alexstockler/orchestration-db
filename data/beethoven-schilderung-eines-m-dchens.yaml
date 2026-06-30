@@ -9,7 +9,8 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: voice
+  soloists:
+  - voice
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Schilderung_eines_M%C3%A4dchens%2C_WoO_107_%28Beethoven%2C_Ludwig_van%29

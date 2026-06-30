@@ -1,0 +1,17 @@
+id: nielsen-ton-det-himmel-syng-det-jord
+work:
+  composer: Nielsen, Carl
+  title: Ton det, Himmel, syng det, Jord
+  ids:
+    imslp: Ton det, Himmel, syng de, Jord, CNW 196 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ton_det%2C_Himmel%2C_syng_de%2C_Jord%2C_CNW_196_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

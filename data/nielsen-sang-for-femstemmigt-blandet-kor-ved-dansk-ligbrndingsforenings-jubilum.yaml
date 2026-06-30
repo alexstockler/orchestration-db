@@ -1,0 +1,16 @@
+id: nielsen-sang-for-femstemmigt-blandet-kor-ved-dansk-ligbrndingsforenings-jubilum
+work:
+  composer: Nielsen, Carl
+  title: Sang for femstemmigt blandet Kor ved Dansk Ligbrændingsforenings Jubilæum
+    den 23de marts 1931
+  ids:
+    imslp: Sang ved Dansk Ligbrændingsforenings Jubilæum, CNW 354 (Nielsen, Carl)
+  year: 1931
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sang_ved_Dansk_Ligbr%C3%A6ndingsforenings_Jubil%C3%A6um%2C_CNW_354_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SSATB)'

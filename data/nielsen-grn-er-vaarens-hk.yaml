@@ -1,0 +1,17 @@
+id: nielsen-grn-er-vaarens-hk
+work:
+  composer: Nielsen, Carl
+  title: Grøn er Vaarens Hæk
+  ids:
+    imslp: Grøn er Vaarens Hæk, CNW 268 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gr%C3%B8n_er_Vaarens_H%C3%A6k%2C_CNW_268_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano or 3 voices (voices in piano score)'

@@ -1,0 +1,17 @@
+id: massenet-morceau-anonyme
+work:
+  composer: Massenet, Jules
+  title: Morceau anonyme
+  ids:
+    imslp: Morceau anonyme (Massenet, Jules)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Morceau_anonyme_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

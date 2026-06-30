@@ -1,0 +1,17 @@
+id: bach-fughetta-super-dies-sind-die-heilgen-zehn-gebot
+work:
+  composer: Bach, Johann Sebastian
+  title: Fughetta super 'Dies sind die heilgen zehn Gebot'
+  ids:
+    imslp: Fughetta super 'Dies sind die heilgen zehn Gebot', BWV 679 (Bach, Johann
+      Sebastian)
+  year: 1739
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fughetta_super_%27Dies_sind_die_heilgen_zehn_Gebot%27%2C_BWV_679_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

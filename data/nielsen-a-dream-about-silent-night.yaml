@@ -1,0 +1,16 @@
+id: nielsen-a-dream-about-silent-night
+work:
+  composer: Nielsen, Carl
+  title: A Dream about 'Silent Night'
+  ids:
+    imslp: Drømmen om 'Glade jul', CNW 85 (Nielsen, Carl)
+  year: 1905
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dr%C3%B8mmen_om_%27Glade_jul%27%2C_CNW_85_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -7,7 +7,8 @@ work:
   year: 1917
 formula: ''
 instrumentation:
-  additional_raw: violin | orchestra
+  solo_strings:
+    violin: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/2_Humoresques_for_Violin_and_Orchestra%2C_Op.87_%28Sibelius%2C_Jean%29

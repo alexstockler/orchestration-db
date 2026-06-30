@@ -25,7 +25,9 @@ instrumentation:
     timpani: 1
     instruments:
     - bass drum
-  strings: str
+  strings:
+    standard: true
+    description: 12, 10, 8, 6, 6
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Jeu_de_cartes%2C_K059_%28Stravinsky%2C_Igor%29

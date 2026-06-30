@@ -4,9 +4,8 @@ work:
   title: 2 Melodies
   ids:
     imslp: 2 Melodies, Op.53 (Grieg, Edvard)
-formula: str
-instrumentation:
-  strings: str
+formula: ''
+instrumentation: {}
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/2_Melodies%2C_Op.53_%28Grieg%2C_Edvard%29

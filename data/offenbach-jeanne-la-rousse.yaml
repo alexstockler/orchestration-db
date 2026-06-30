@@ -1,0 +1,18 @@
+id: offenbach-jeanne-la-rousse
+work:
+  composer: Offenbach, Jacques
+  title: Jeanne la rousse
+  ids:
+    imslp: Jeanne la rousse (Offenbach, Jacques)
+  year: 1864
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jeanne_la_rousse_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

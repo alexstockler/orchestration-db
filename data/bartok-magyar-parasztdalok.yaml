@@ -1,0 +1,15 @@
+id: bartok-magyar-parasztdalok
+work:
+  composer: Bartók, Béla
+  title: Magyar parasztdalok
+  ids:
+    imslp: Magyar parasztdalok, Sz.100 (Bartók, Béla)
+  year: 1933
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Magyar_parasztdalok%2C_Sz.100_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'
+duration_minutes: 9

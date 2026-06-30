@@ -1,0 +1,18 @@
+id: nielsen-vejviseren-synger
+work:
+  composer: Nielsen, Carl
+  title: Vejviseren synger
+  ids:
+    imslp: Vejviseren synger, CNW 280 (Nielsen, Carl)
+  year: 1886
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vejviseren_synger%2C_CNW_280_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

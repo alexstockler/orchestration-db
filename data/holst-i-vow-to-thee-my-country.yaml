@@ -1,0 +1,30 @@
+id: holst-i-vow-to-thee-my-country
+work:
+  composer: Holst, Gustav
+  title: I vow to thee, my country
+  ids:
+    imslp: I vow to thee, my country, H.148 (Holst, Gustav)
+  year: 1918
+formula: 2222 2231 tmp org pf str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: organ
+  - instrument: piano
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/I_vow_to_thee%2C_my_country%2C_H.148_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2
+    trumpets, 3 trombones, tuba, timpani, organ, piano, strings'
+duration_minutes: 3

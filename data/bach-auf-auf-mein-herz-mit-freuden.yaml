@@ -1,0 +1,17 @@
+id: bach-auf-auf-mein-herz-mit-freuden
+work:
+  composer: Bach, Johann Sebastian
+  title: Auf, auf! mein Herz, mit Freuden
+  ids:
+    imslp: Auf, auf! mein Herz, mit Freuden, BWV 441 (Bach, Johann Sebastian)
+  year: 1735
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Auf%2C_auf%21_mein_Herz%2C_mit_Freuden%2C_BWV_441_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

@@ -1,0 +1,18 @@
+id: hindemith-flute-sonata
+work:
+  composer: Hindemith, Paul
+  title: Flute Sonata
+  ids:
+    imslp: Flute Sonata (Hindemith, Paul)
+  year: 1936
+formula: 1000 0000 pf
+instrumentation:
+  flute: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flute_Sonata_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, piano'
+duration_minutes: 14

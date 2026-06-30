@@ -1,0 +1,15 @@
+id: verdi-io-la-vidi
+work:
+  composer: Verdi, Giuseppe
+  title: Io la vidi
+  ids:
+    imslp: Io la vidi (Verdi, Giuseppe)
+formula: ''
+instrumentation:
+  soloists:
+  - tenors
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Io_la_vidi_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 tenors, orchestra'

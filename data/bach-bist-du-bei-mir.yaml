@@ -1,0 +1,16 @@
+id: bach-bist-du-bei-mir
+work:
+  composer: Bach, Johann Sebastian
+  title: Bist du bei mir
+  ids:
+    imslp: Bist du bei mir, BWV 508 (Bach, Johann Sebastian)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo (arranged)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bist_du_bei_mir%2C_BWV_508_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo (arranged)'

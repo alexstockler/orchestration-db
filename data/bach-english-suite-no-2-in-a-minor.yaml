@@ -1,0 +1,15 @@
+id: bach-english-suite-no-2-in-a-minor
+work:
+  composer: Bach, Johann Sebastian
+  title: English Suite No.2 in A minor
+  ids:
+    imslp: English Suite No.2 in A minor, BWV 807 (Bach, Johann Sebastian)
+  year: 1715
+formula: ''
+instrumentation:
+  additional_raw: keyboard (harpsichord or clavichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/English_Suite_No.2_in_A_minor%2C_BWV_807_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard (harpsichord or clavichord)'

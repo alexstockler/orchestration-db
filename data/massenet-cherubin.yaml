@@ -1,0 +1,17 @@
+id: massenet-cherubin
+work:
+  composer: Massenet, Jules
+  title: Chérubin
+  ids:
+    imslp: Chérubin (Massenet, Jules)
+  year: 1905
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  additional_raw: Chorus / Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ch%C3%A9rubin_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices, Chorus / Orchestra'

@@ -1,0 +1,24 @@
+id: weber-piano-concerto-no-2
+work:
+  composer: Weber, Carl Maria von
+  title: Piano Concerto No.2
+  ids:
+    imslp: Piano Concerto No.2 in E-flat major, Op.32 (Weber, Carl Maria von)
+  year: 1811
+formula: 2022 2200 tmp str
+instrumentation:
+  flute: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Concerto_No.2_in_E-flat_major%2C_Op.32_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: 15 parts :2 flutes, 2 clarinets, 2 bassoons, 2 horns, 2
+    trumpets, timpani, strings'
+duration_minutes: 23

@@ -1,0 +1,19 @@
+id: gounod-a-la-nuit
+work:
+  composer: Gounod, Charles
+  title: À la nuit
+  ids:
+    imslp: À la nuit, CG 321 (Gounod, Charles)
+  year: 1891
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%80_la_nuit%2C_CG_321_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 3

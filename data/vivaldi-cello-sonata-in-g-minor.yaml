@@ -6,7 +6,9 @@ work:
     imslp: Cello Sonata in G minor, RV 42 (Vivaldi, Antonio)
 formula: ''
 instrumentation:
-  additional_raw: cello | continuo
+  solo_strings:
+    cello: 1
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Cello_Sonata_in_G_minor%2C_RV_42_%28Vivaldi%2C_Antonio%29

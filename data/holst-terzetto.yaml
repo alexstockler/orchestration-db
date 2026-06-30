@@ -1,0 +1,19 @@
+id: holst-terzetto
+work:
+  composer: Holst, Gustav
+  title: Terzetto
+  ids:
+    imslp: Terzetto (Holst, Gustav)
+  year: 1925
+formula: 1100 0000
+instrumentation:
+  flute: 1
+  oboe: 1
+  solo_strings:
+    viola: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Terzetto_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, viola'
+duration_minutes: 10

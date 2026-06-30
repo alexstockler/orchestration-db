@@ -1,0 +1,22 @@
+id: bach-christen-atzet-diesen-tag
+work:
+  composer: Bach, Johann Sebastian
+  title: Christen, ätzet diesen Tag
+  ids:
+    imslp: Christen, ätzet diesen Tag, BWV 63 (Bach, Johann Sebastian)
+  year: 1714
+formula: 0301 0400 tmp str
+instrumentation:
+  oboe: 3
+  bassoon: 1
+  trumpet: 4
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Christen%2C_%C3%A4tzet_diesen_Tag%2C_BWV_63_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 oboes, bassoon, 4 trumpets, timpani, strings, continuo'
+duration_minutes: 30

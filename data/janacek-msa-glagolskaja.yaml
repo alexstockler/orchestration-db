@@ -1,0 +1,70 @@
+id: janacek-msa-glagolskaja
+work:
+  composer: Janáček, Leoš
+  title: Mša glagolskaja
+  ids:
+    imslp: Mša glagolskaja (Janáček, Leoš)
+  year: 1926
+formula: 0 6[1.2.Eh.4.5.Eh] 0 6[1.2.3/cbn.4.5.6] 8862 tmp cel org cel org 4hp str
+instrumentation:
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  - {}
+  - {}
+  - instrument: english_horn
+  bassoon:
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  - {}
+  - {}
+  - {}
+  horn: 8
+  trumpet: 8
+  trombone: 6
+  tuba: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drum
+    - tam-tam
+    - cymbals
+    - triangle
+    - glockenspiel
+    - chimes
+  keyboards:
+  - instrument: celesta
+  - instrument: organ
+  - instrument: celesta
+  - instrument: organ
+  harp: 4
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+  additional_raw: 'original version: 4 flutes (2nd, 3rd, 4th also piccolo) | 3 clarinets
+    (B) (3rd also bass clarinet (B)) | revised version: 4 flutes (2nd, 3rd, 4th also
+    piccolo) | 3 clarinets (B) (3rd also bass clarinet (B))'
+  offstage:
+  - 3 clarinet
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/M%C5%A1a_glagolskaja_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass; mixed chorus; orchestra, :Orchestra,
+    original version: 4 flutes (2nd, 3rd, 4th also piccolo), 2 oboes, English horn,,
+    3 clarinets (B) (3rd also bass clarinet (B)), 3 clarinets (B, offstage), 3 bassoons
+    (3rd also contrabassoon), 4 horns (F), 4 trumpets (F), 3 trombones, tuba, timpani
+    (3 players), snare drum, tam-tam, cymbals, triangle, glockenspiel, chimes, celesta,
+    organ, 2 harps, strings :Orchestra, revised version: 4 flutes (2nd, 3rd, 4th also
+    piccolo), 2 oboes, English horn,, 3 clarinets (B) (3rd also bass clarinet (B)),
+    3 bassoons (3rd also contrabassoon), 4 horns (F), 4 trumpets (F), 3 trombones,
+    tuba, timpani, snare drum, tam-tam, cymbals, chimes, celesta, organ, 2 harps,
+    strings'
+duration_minutes: 45

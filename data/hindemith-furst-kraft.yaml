@@ -1,0 +1,16 @@
+id: hindemith-furst-kraft
+work:
+  composer: Hindemith, Paul
+  title: Fürst Kraft
+  ids:
+    imslp: Fürst Kraft (Hindemith, Paul)
+  year: 1930
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/F%C3%BCrst_Kraft_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'
+duration_minutes: 3

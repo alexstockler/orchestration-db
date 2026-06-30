@@ -1,0 +1,17 @@
+id: weber-7-variations-sur-lair-vien-qua-dorina-bella
+work:
+  composer: Weber, Carl Maria von
+  title: 7 Variations sur l’air "Vien quà, Dorina bella"
+  ids:
+    imslp: 7 Variations sur l’air "Vien quà, Dorina bella", Op.7 (Weber, Carl Maria
+      von)
+  year: 1807
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Variations_sur_l%E2%80%99air_%22Vien_qu%C3%A0%2C_Dorina_bella%22%2C_Op.7_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

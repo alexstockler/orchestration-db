@@ -1,0 +1,19 @@
+id: hindemith-3-pieces-for-cello-and-piano
+work:
+  composer: Hindemith, Paul
+  title: 3 Pieces for Cello and Piano
+  ids:
+    imslp: 3 Pieces for Cello and Piano, Op.8 (Hindemith, Paul)
+  year: 1917
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Pieces_for_Cello_and_Piano%2C_Op.8_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'
+duration_minutes: 18

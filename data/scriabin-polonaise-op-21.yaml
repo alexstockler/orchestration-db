@@ -1,0 +1,16 @@
+id: scriabin-polonaise-op-21
+work:
+  composer: Scriabin, Aleksandr
+  title: Polonaise, Op.21
+  ids:
+    imslp: Polonaise, Op.21 (Scriabin, Aleksandr)
+  year: 1897
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Polonaise%2C_Op.21_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

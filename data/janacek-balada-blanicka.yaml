@@ -1,0 +1,41 @@
+id: janacek-balada-blanicka
+work:
+  composer: Janáček, Leoš
+  title: Balada Blanická
+  ids:
+    imslp: Balada Blanická, JW 6/16 (Janáček, Leoš)
+  year: 1919
+formula: 3[1.2.3/pic] 2 3[1.2.bcl] 2 3331 tmp cel 2hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 3
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - glockenspiel
+    - xylophone
+  keyboards:
+  - instrument: celesta
+  harp: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Balada_Blanick%C3%A1%2C_JW_6/16_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 2 oboes, 2 clarinets, bass
+    clarinet, 2 bassoons, 3 horns, 3 trumpets, 3 trombones, tuba, timpani, glockenspiel,
+    xylophone, celesta, 2 harps, strings'
+duration_minutes: 8

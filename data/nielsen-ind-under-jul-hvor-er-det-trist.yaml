@@ -1,0 +1,18 @@
+id: nielsen-ind-under-jul-hvor-er-det-trist
+work:
+  composer: Nielsen, Carl
+  title: Ind under Jul, hvor er det trist
+  ids:
+    imslp: Ind under Jul, hvor er det trist, CNW 396 (Nielsen, Carl)
+  year: 1926
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ind_under_Jul%2C_hvor_er_det_trist%2C_CNW_396_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

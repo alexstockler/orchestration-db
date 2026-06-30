@@ -1,0 +1,15 @@
+id: vaughan-williams-ring-out-your-bells
+work:
+  composer: Vaughan Williams, Ralph
+  title: Ring Out Your Bells
+  ids:
+    imslp: Ring Out Your Bells (Vaughan Williams, Ralph)
+  year: 1902
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ring_Out_Your_Bells_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: mixed chorus (SSATB)'

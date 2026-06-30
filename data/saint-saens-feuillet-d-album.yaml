@@ -5,10 +5,9 @@ work:
   ids:
     imslp: Feuillet d'album, Op.81 (Saint-Saëns, Camille)
   year: 1887
-formula: pf pf
+formula: pf
 instrumentation:
   keyboards:
-  - instrument: piano
   - instrument: piano
 provenance:
   source: imslp

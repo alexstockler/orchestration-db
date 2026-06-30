@@ -1,0 +1,16 @@
+id: glazunov-meditation
+work:
+  composer: Glazunov, Aleksandr
+  title: Meditation
+  ids:
+    imslp: Meditation, Op.32 (Glazunov, Aleksandr)
+  year: 1891
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Meditation%2C_Op.32_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, orchestra'

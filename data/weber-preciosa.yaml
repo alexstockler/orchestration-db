@@ -1,0 +1,17 @@
+id: weber-preciosa
+work:
+  composer: Weber, Carl Maria von
+  title: Preciosa
+  ids:
+    imslp: Preciosa, Op.78 (Weber, Carl Maria von)
+  year: 1820
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Preciosa%2C_Op.78_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, mixed chorus (SATB), orchestra'

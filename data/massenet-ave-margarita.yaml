@@ -1,0 +1,18 @@
+id: massenet-ave-margarita
+work:
+  composer: Massenet, Jules
+  title: Ave Margarita!
+  ids:
+    imslp: Ave Margarita! (Massenet, Jules)
+  year: 1902
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_Margarita%21_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

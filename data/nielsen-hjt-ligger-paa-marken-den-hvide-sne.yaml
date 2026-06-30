@@ -1,0 +1,17 @@
+id: nielsen-hjt-ligger-paa-marken-den-hvide-sne
+work:
+  composer: Nielsen, Carl
+  title: Højt ligger paa Marken den hvide Sne
+  ids:
+    imslp: Højt ligger paa Marken den hvide Sne, CNW 219 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/H%C3%B8jt_ligger_paa_Marken_den_hvide_Sne%2C_CNW_219_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

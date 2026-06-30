@@ -1,0 +1,20 @@
+id: berlioz-le-carnaval-romain-ouverture-caracteristique
+work:
+  composer: Berlioz, Hector
+  title: 'Le Carnaval romain: ouverture caractéristique'
+  ids:
+    imslp: Le carnaval romain, H 95 (Berlioz, Hector)
+  year: 1844
+formula: hp str
+instrumentation:
+  harp: 1
+  strings: str
+  additional_raw: cymbals, triangle, 2 tambourines)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_carnaval_romain%2C_H_95_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (1 also piccolo), 2 oboes (1 also English Horn),
+    2 clarinets,, 2(4) bassoons, 4 horns, 2 trumpets, 2 cornets, 3 trombones, timpani,
+    percussion (3 players: cymbals, triangle, 2 tambourines), harp, strings'
+duration_minutes: 10

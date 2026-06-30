@@ -1,0 +1,19 @@
+id: respighi-string-quartet-no-3
+work:
+  composer: Respighi, Ottorino
+  title: String Quartet No.3
+  ids:
+    imslp: String Quartet No.3, P.53 (Respighi, Ottorino)
+  year: 1904
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.3%2C_P.53_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 30

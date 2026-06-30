@@ -1,0 +1,17 @@
+id: respighi-belkis-queen-of-sheba
+work:
+  composer: Respighi, Ottorino
+  title: Belkis, Queen of Sheba
+  ids:
+    imslp: Belkis, regina di Saba (Respighi, Ottorino)
+  year: 1930
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: narrator
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Belkis%2C_regina_di_Saba_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: narrator, chorus, orchestra'
+duration_minutes: 80

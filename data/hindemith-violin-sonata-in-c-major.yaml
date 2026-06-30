@@ -1,0 +1,19 @@
+id: hindemith-violin-sonata-in-c-major
+work:
+  composer: Hindemith, Paul
+  title: Violin Sonata in C major
+  ids:
+    imslp: Violin Sonata in C major (Hindemith, Paul)
+  year: 1939
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_in_C_major_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 14

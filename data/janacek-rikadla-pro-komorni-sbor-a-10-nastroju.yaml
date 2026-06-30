@@ -1,0 +1,31 @@
+id: janacek-rikadla-pro-komorni-sbor-a-10-nastroju
+work:
+  composer: Janáček, Leoš
+  title: Řikadla pro komorní sbor a 10 nástrojů
+  ids:
+    imslp: Řikadla pro komorní sbor a 10 nástrojů (Janáček, Leoš)
+  year: 1926
+formula: 2[1.2/pic] 0 0 2[1.2/cbn] 0000 pf
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  bassoon:
+  - {}
+  - doublings:
+    - contrabassoon
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    double_bass: 1
+  additional_raw: Ocarina | 2 Clarinets (also Piccolo Clarinets (E)) | Children's
+    drum
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C5%98ikadla_pro_komorn%C3%AD_sbor_a_10_n%C3%A1stroj%C5%AF_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed chorus and ensemble :Ocarina, 2 Flutes (2nd also
+    Piccolo), 2 Clarinets (also Piccolo Clarinets (E)), 2 Bassoons (2nd also Contrabassoon),
+    Piano, Children''s drum, Double Bass'
+duration_minutes: 15

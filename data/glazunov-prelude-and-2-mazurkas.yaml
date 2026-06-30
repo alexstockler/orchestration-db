@@ -1,0 +1,16 @@
+id: glazunov-prelude-and-2-mazurkas
+work:
+  composer: Glazunov, Aleksandr
+  title: Prelude and 2 Mazurkas
+  ids:
+    imslp: Prelude and 2 Mazurkas, Op.25 (Glazunov, Aleksandr)
+  year: 1888
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude_and_2_Mazurkas%2C_Op.25_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

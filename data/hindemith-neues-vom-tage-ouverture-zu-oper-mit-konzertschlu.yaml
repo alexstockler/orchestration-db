@@ -1,0 +1,49 @@
+id: hindemith-neues-vom-tage-ouverture-zu-oper-mit-konzertschlu
+work:
+  composer: Hindemith, Paul
+  title: Neues vom Tage, Ouvertüre zu Oper, mit Konzertschluß
+  ids:
+    imslp: Neues vom Tage, Ouvertüre mit Konzertschluß (Hindemith, Paul)
+  year: 1929
+formula: 2 2[1.Eh] 3[Ebcl.2.bcl] 3[1.2.cbn] 1221 1perc str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 1
+  trumpet: 2
+  trombone: 2
+  tuba: 1
+  percussion:
+    players: 1
+    instruments:
+    - bass drum
+    - snare drum
+    - tom-tom
+    - crash cymbals
+    - suspended cymbal
+    - triangle
+  strings: str
+  saxophones:
+  - instrument: alto_sax
+    count: 1
+  additional_raw: finger cymbals (Zimbel; or small cymbals)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Neues_vom_Tage%2C_Ouvert%C3%BCre_mit_Konzertschlu%C3%9F_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra :2 flutes (both also piccolo), oboe, English
+    horn, clarinet (E), clarinet (B), ::bass clarinet (B), alto saxophone (E), 2 bassoons,
+    contrabassoon :horn (F), 2 trumpets (C), 2 trombones, tuba, percussion (2-3 players),
+    strings (6 vlns, 4 vlas, 4 vcl, 4 cbs) :: bass drum, snare drum, tom-tom, crash
+    cymbals, suspended cymbal,, finger cymbals (Zimbel; or small cymbals), triangle'
+duration_minutes: 8

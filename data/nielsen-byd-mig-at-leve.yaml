@@ -1,0 +1,15 @@
+id: nielsen-byd-mig-at-leve
+work:
+  composer: Nielsen, Carl
+  title: Byd mig at leve
+  ids:
+    imslp: Byd mig at leve, CNW 355 (Nielsen, Carl)
+  year: 1886
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Byd_mig_at_leve%2C_CNW_355_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

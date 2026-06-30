@@ -1,0 +1,15 @@
+id: offenbach-fleurette
+work:
+  composer: Offenbach, Jacques
+  title: Fleurette
+  ids:
+    imslp: Fleurette (Offenbach, Jacques)
+  year: 1891
+formula: ''
+instrumentation:
+  additional_raw: 3 vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fleurette_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 vocal soloists, orchestra'

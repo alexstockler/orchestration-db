@@ -1,0 +1,36 @@
+id: glazunov-slavonic-festival
+work:
+  composer: Glazunov, Aleksandr
+  title: Slavonic Festival
+  ids:
+    imslp: Slavonic Festival, Op.26a (Glazunov, Aleksandr)
+  year: 1888
+formula: 3[pic.2.3] 2 2 2 4231 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tambourine
+    - snare drum
+    - cymbals
+    - bass drum
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Slavonic_Festival%2C_Op.26a_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4
+    horns, 2 trumpets, 3 trombones, tuba, timpani, triangle, tambourine, snare drum,
+    cymbals, bass drum, strings'

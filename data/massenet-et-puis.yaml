@@ -1,0 +1,18 @@
+id: massenet-et-puis
+work:
+  composer: Massenet, Jules
+  title: Et puis ...
+  ids:
+    imslp: Et puis (Massenet, Jules)
+  year: 1905
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Et_puis_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

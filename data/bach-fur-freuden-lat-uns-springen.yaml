@@ -1,0 +1,15 @@
+id: bach-fur-freuden-lat-uns-springen
+work:
+  composer: Bach, Johann Sebastian
+  title: Für Freuden laßt uns springen
+  ids:
+    imslp: Für Freuden laßt uns springen, BWV 313 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/F%C3%BCr_Freuden_la%C3%9Ft_uns_springen%2C_BWV_313_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

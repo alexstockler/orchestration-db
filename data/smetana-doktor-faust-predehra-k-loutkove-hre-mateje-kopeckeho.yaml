@@ -1,0 +1,24 @@
+id: smetana-doktor-faust-predehra-k-loutkove-hre-mateje-kopeckeho
+work:
+  composer: Smetana, Bedřich
+  title: Doktor Faust, Předehra k loutkové hře Matěje Kopeckého
+  ids:
+    imslp: Doktor Faust, JB 1:85 (Smetana, Bedřich)
+  year: 1862
+formula: 0000 2010 pf str
+instrumentation:
+  horn: 2
+  trombone: 1
+  percussion:
+    instruments:
+    - triangle
+    - bass drum
+  keyboards:
+  - instrument: piano
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Doktor_Faust%2C_JB_1%3A85_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Horns, Trombone, Triangle, Bass Drum, Piano, Strings'
+duration_minutes: 4

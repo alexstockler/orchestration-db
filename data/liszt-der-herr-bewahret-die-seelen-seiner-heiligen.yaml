@@ -5,14 +5,16 @@ work:
   ids:
     imslp: Der Herr bewahret die Seelen seiner Heiligen, S.48 (Liszt, Franz)
   year: 1860
-formula: 0000 0031 tmp
+formula: 0000 0231 tmp org
 instrumentation:
+  trumpet: 2
   trombone: 3
   tuba: 1
   percussion:
     timpani: 1
+  keyboards:
+  - instrument: organ
   chorus_raw: mixed chorus
-  additional_raw: Organ + 2 trumpets
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Der_Herr_bewahret_die_Seelen_seiner_Heiligen%2C_S.48_%28Liszt%2C_Franz%29

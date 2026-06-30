@@ -1,0 +1,16 @@
+id: bach-fantasia-super-valet-will-ich-dir-geben
+work:
+  composer: Bach, Johann Sebastian
+  title: Fantasia super 'Valet will ich dir geben'
+  ids:
+    imslp: Fantasia super 'Valet will ich dir geben', BWV 735 (Bach, Johann Sebastian)
+  year: 1708
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_super_%27Valet_will_ich_dir_geben%27%2C_BWV_735_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

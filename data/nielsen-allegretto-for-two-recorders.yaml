@@ -1,0 +1,15 @@
+id: nielsen-allegretto-for-two-recorders
+work:
+  composer: Nielsen, Carl
+  title: Allegretto for Two Recorders
+  ids:
+    imslp: Allegretto in C major, CNW 72 (Nielsen, Carl)
+  year: 1931
+formula: ''
+instrumentation:
+  additional_raw: 2 descant or tenor recorders
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegretto_in_C_major%2C_CNW_72_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 descant or tenor recorders'

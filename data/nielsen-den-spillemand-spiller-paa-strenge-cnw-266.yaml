@@ -1,0 +1,18 @@
+id: nielsen-den-spillemand-spiller-paa-strenge-cnw-266
+work:
+  composer: Nielsen, Carl
+  title: Den Spillemand spiller paa Strenge, CNW 266
+  ids:
+    imslp: Den Spillemand spiller paa Strenge, CNW 266 (Nielsen, Carl)
+  year: 1931
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Den_Spillemand_spiller_paa_Strenge%2C_CNW_266_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

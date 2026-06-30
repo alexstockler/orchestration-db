@@ -1,0 +1,15 @@
+id: delibes-morceau-a-dechiffrer-pour-la-harpe
+work:
+  composer: Delibes, Léo
+  title: Morceau à déchiffrer pour la harpe
+  ids:
+    imslp: Morceau à déchiffrer pour la harpe (Delibes, Léo)
+  year: 1882
+formula: hp
+instrumentation:
+  harp: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Morceau_%C3%A0_d%C3%A9chiffrer_pour_la_harpe_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: harp'

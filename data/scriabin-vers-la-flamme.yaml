@@ -1,0 +1,17 @@
+id: scriabin-vers-la-flamme
+work:
+  composer: Scriabin, Aleksandr
+  title: Vers la flamme
+  ids:
+    imslp: Vers la flamme, Op.72 (Scriabin, Aleksandr)
+  year: 1914
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vers_la_flamme%2C_Op.72_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 8

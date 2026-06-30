@@ -1,0 +1,18 @@
+id: massenet-ivre-d-amour
+work:
+  composer: Massenet, Jules
+  title: Ivre d'amour
+  ids:
+    imslp: Ivre d'amour (Massenet, Jules)
+  year: 1906
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ivre_d%27amour_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

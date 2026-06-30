@@ -7,7 +7,6 @@ work:
 formula: 0100 0000
 instrumentation:
   oboe: 1
-  additional_raw: orchestra
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Oboe_Concerto_in_F_major%2C_Hess_12_%28Beethoven%2C_Ludwig_van%29

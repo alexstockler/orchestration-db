@@ -1,0 +1,18 @@
+id: nielsen-canto-serioso
+work:
+  composer: Nielsen, Carl
+  title: Canto Serioso
+  ids:
+    imslp: Canto serioso, CNW 67 (Nielsen, Carl)
+  year: 1913
+formula: 0000 1000 pf
+instrumentation:
+  horn: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canto_serioso%2C_CNW_67_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: horn, piano'
+duration_minutes: 4

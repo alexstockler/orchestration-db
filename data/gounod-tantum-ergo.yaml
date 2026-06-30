@@ -1,0 +1,21 @@
+id: gounod-tantum-ergo
+work:
+  composer: Gounod, Charles
+  title: Tantum ergo
+  ids:
+    imslp: Tantum ergo, CG 102 (Gounod, Charles)
+  year: 1893
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - voice
+  solo_strings:
+    violin: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tantum_ergo%2C_CG_102_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, violin, cello, organ'

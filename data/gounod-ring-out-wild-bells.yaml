@@ -1,0 +1,18 @@
+id: gounod-ring-out-wild-bells
+work:
+  composer: Gounod, Charles
+  title: Ring Out, Wild Bells
+  ids:
+    imslp: Ring Out, Wild Bells, CG 435 (Gounod, Charles)
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ring_Out%2C_Wild_Bells%2C_CG_435_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

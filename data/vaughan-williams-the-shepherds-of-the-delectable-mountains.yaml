@@ -1,0 +1,40 @@
+id: vaughan-williams-the-shepherds-of-the-delectable-mountains
+work:
+  composer: Vaughan Williams, Ralph
+  title: The Shepherds of the Delectable Mountains
+  ids:
+    imslp: The Shepherds of the Delectable Mountains (Vaughan Williams, Ralph)
+  year: 1921
+formula: 2 2[1.Eh] 0 0 0000 hp
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - instrument: english_horn
+  percussion:
+    instruments:
+    - chimes
+  harp: 1
+  soloists:
+  - soloists
+  - voices
+  - 'orchestra Cast: :Shepherd 1 (tenor)'
+  - Shepherd 2 (soprano)
+  - Shepherd 3 (bass)
+  - Bird (soprano)
+  - Messenger (tenor)
+  - 'Pilgrim (tenor) Voices: :2 sopranos'
+  - 3 tenors
+  - bass
+  - female chorus 1 & 2 (SA) off stage
+  additional_raw: 'strings Off stage: 2 trumpets'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Shepherds_of_the_Delectable_Mountains_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: soloists, voices, orchestra Cast: :Shepherd 1 (tenor),
+    Shepherd 2 (soprano), Shepherd 3 (bass), Bird (soprano), Messenger (tenor), Pilgrim
+    (tenor) Voices: :2 sopranos, 3 tenors, bass, female chorus 1 & 2 (SA) off stage
+    Orchestra: :2 flutes, oboe, english horn, strings Off stage: 2 trumpets, harp,
+    chimes'
+duration_minutes: 20

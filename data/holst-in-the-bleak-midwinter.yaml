@@ -1,0 +1,17 @@
+id: holst-in-the-bleak-midwinter
+work:
+  composer: Holst, Gustav
+  title: In the Bleak Midwinter
+  ids:
+    imslp: In the Bleak Midwinter (Holst, Gustav)
+  year: 1904
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_the_Bleak_Midwinter_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), organ'

@@ -1,0 +1,18 @@
+id: bach-christe-eleison
+work:
+  composer: Bach, Johann Sebastian
+  title: Christe eleison
+  ids:
+    imslp: Christe eleison in G minor, BWV 242 (Bach, Johann Sebastian)
+  year: 1727
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Christe_eleison_in_G_minor%2C_BWV_242_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, continuo'

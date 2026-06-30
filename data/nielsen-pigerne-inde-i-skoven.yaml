@@ -1,0 +1,25 @@
+id: nielsen-pigerne-inde-i-skoven
+work:
+  composer: Nielsen, Carl
+  title: Pigerne inde i Skoven
+  ids:
+    imslp: Pigerne inde i Skoven, CNW 204 (Nielsen, Carl)
+formula: pf pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  - instrument: piano
+  soloists:
+  - voice
+  - voice
+  chorus_raw: female chorus
+  additional_raw: Version 2 (1915) | Version 3 (1916) | unison chorus (F Major) |
+    Version 4 (1922)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pigerne_inde_i_Skoven%2C_CNW_204_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Version 1 (1913): female chorus (SSAA), piano, Version
+    2 (1915): voice, piano (F Major), Version 3 (1916): unison chorus (F Major), Version
+    4 (1922): voice, piano (E Major)'

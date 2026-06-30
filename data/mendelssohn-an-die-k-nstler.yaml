@@ -5,7 +5,7 @@ work:
   ids:
     imslp: An die Künstler, Op.68 (Mendelssohn, Felix)
   year: 1846
-formula: 0000 0 4 4[1.2.btbn.btbn] 1
+formula: 0000 0 4 4[1.2.btbn.btbn] 1 ophicleide
 instrumentation:
   trumpet: 4
   trombone:
@@ -14,7 +14,9 @@ instrumentation:
   - instrument: bass_trombone
   - instrument: bass_trombone
   tuba: 1
-  additional_raw: '''Voices: male chorus (TTBB) | Brass Ensemble: 4 horns | ophicleïde'
+  extras:
+  - instrument: ophicleide
+  additional_raw: '''Voices: male chorus (TTBB) | Brass Ensemble: 4 horns'
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/An_die_K%C3%BCnstler%2C_Op.68_%28Mendelssohn%2C_Felix%29

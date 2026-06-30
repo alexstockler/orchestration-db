@@ -1,0 +1,15 @@
+id: offenbach-le-financier-et-le-savetier
+work:
+  composer: Offenbach, Jacques
+  title: Le financier et le savetier
+  ids:
+    imslp: Le financier et le savetier (Offenbach, Jacques)
+  year: 1856
+formula: ''
+instrumentation:
+  additional_raw: Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_financier_et_le_savetier_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, Orchestra'

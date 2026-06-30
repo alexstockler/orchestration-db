@@ -1,0 +1,15 @@
+id: franck-3-early-pieces
+work:
+  composer: Franck, César
+  title: 3 Early Pieces
+  ids:
+    imslp: 3 Early Pieces (Franck, César)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Early_Pieces_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

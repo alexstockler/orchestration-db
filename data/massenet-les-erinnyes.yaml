@@ -1,0 +1,21 @@
+id: massenet-les-erinnyes
+work:
+  composer: Massenet, Jules
+  title: Les Érinnyes
+  ids:
+    imslp: Les Érinnyes (incidental music) (Massenet, Jules)
+  year: 1872
+formula: ''
+instrumentation:
+  additional_raw: '*Original version: chamber orchestra (3 trombones, timpani, strings)
+    *Revised version: mixed chorus | orchestra (2 flutes +picc, 2 oboes, 2 clarinets
+    in B and A, 2 bassoons, 4 horns in D, G and B, 2 cornets or trumpets in B, 3 trombones,
+    sax-tuba, timpani, percussion, harp, strings)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_%C3%89rinnyes_%28incidental_music%29_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: *Original version: chamber orchestra (3 trombones, timpani,
+    strings) *Revised version: mixed chorus, orchestra (2 flutes +picc, 2 oboes, 2
+    clarinets in B and A, 2 bassoons, 4 horns in D, G and B, 2 cornets or trumpets
+    in B, 3 trombones, sax-tuba, timpani, percussion, harp, strings)'

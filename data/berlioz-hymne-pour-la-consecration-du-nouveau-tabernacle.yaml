@@ -1,0 +1,15 @@
+id: berlioz-hymne-pour-la-consecration-du-nouveau-tabernacle
+work:
+  composer: Berlioz, Hector
+  title: Hymne pour la consécration du nouveau Tabernacle
+  ids:
+    imslp: Hymne pour la consécration du nouveau tabernacle, H 135 (Berlioz, Hector)
+  year: 1859
+formula: ''
+instrumentation:
+  additional_raw: SSATTBB | org or pf
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymne_pour_la_cons%C3%A9cration_du_nouveau_tabernacle%2C_H_135_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: SSATTBB, org or pf'

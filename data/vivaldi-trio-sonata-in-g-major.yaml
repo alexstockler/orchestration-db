@@ -6,7 +6,9 @@ work:
     imslp: Trio Sonata in G major, RV 71 (Vivaldi, Antonio)
 formula: ''
 instrumentation:
-  additional_raw: 2 violins | continuo (ad lib.)
+  solo_strings:
+    violin: 2
+  additional_raw: continuo (ad lib.)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Trio_Sonata_in_G_major%2C_RV_71_%28Vivaldi%2C_Antonio%29

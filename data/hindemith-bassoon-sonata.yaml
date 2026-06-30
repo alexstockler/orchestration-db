@@ -1,0 +1,18 @@
+id: hindemith-bassoon-sonata
+work:
+  composer: Hindemith, Paul
+  title: Bassoon Sonata
+  ids:
+    imslp: Bassoon Sonata (Hindemith, Paul)
+  year: 1938
+formula: 0001 0000 pf
+instrumentation:
+  bassoon: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bassoon_Sonata_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: bassoon, piano'
+duration_minutes: 9

@@ -1,0 +1,16 @@
+id: vaughan-williams-hymn-tune-prelude-on-song-13-by-orlando-gibbons
+work:
+  composer: Vaughan Williams, Ralph
+  title: Hymn Tune Prelude on Song 13 by Orlando Gibbons
+  ids:
+    imslp: Hymn Tune Prelude on Song 13 (Vaughan Williams, Ralph)
+  year: 1930
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymn_Tune_Prelude_on_Song_13_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,62 @@
+id: hindemith-das-lange-weihnachtsmahl
+work:
+  composer: Hindemith, Paul
+  title: Das lange Weihnachtsmahl
+  ids:
+    imslp: Das lange Weihnachtsmahl (Hindemith, Paul)
+  year: 1960
+formula: 2[1.2/pic] 1 2[1.bcl] 3[1.2.cbn] 1221 1perc
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 1
+  clarinet:
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 1
+  trumpet: 2
+  trombone: 2
+  tuba: 1
+  percussion:
+    players: 1
+    instruments:
+    - snare drum
+    - tambourine
+    - bells
+    - bass drum
+    - glockenspiel
+  soloists:
+  - Lucia I (soprano)
+  - Lucia II (soprano)
+  - Mother Bayard (alto)
+  - Roderick I (baritone)
+  - Roderick II (tenor)
+  - Brandon (bass)
+  - Charles (tenor)
+  - Geneviève (mezzo-soprano)
+  - Leonora (high soprano)
+  - Ermengarde (alto)
+  - Sam (high baritone)
+  solo_strings:
+    violin: 6
+    viola: 4
+    cello: 4
+    double_bass: 3
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_lange_Weihnachtsmahl_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Lucia I (soprano), Lucia II (soprano), Mother Bayard
+    (alto), Roderick I (baritone), Roderick II (tenor), Brandon (bass), Charles (tenor),
+    Geneviève (mezzo-soprano), Leonora (high soprano), Ermengarde (alto), Sam (high
+    baritone) Orchestra :2 flutes (2nd also piccolo), oboe, clarinet, bass clarinet,
+    2 bassoons, contrabassoon,, horn, 2 trumpets, 2 trombones, tuba,, percussion (2
+    players): snare drum, tambourine, bells, bass drum, glockenspiel,, 6 violins,
+    4 violas, 4 cellos, 3 double basses'
+duration_minutes: 60

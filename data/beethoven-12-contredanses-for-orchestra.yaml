@@ -5,22 +5,23 @@ work:
   ids:
     imslp: 12 Contredanses, WoO 14 (Beethoven, Ludwig van)
   year: 1791
-formula: 0 4 4 14[1.2.3.4.5.6.7.8.9.10.11.12.13.14] 24[1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.22.23.24]
-  0 0 0
+formula: 5 10[1.2.3.4.5.6.7.8.9.10] 10[1.2.3.4.5.6.7.8.9.10] 14[1.2.3.4.5.6.7.8.9.10.11.12.13.14]
+  24[1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.22.23.24] 0 0 0
 instrumentation:
-  oboe: 4
-  clarinet: 4
+  flute: 5
+  oboe: 10
+  clarinet: 10
   bassoon: 14
   horn: 24
   percussion:
     instruments:
     - tambourine
-  additional_raw: 1. 2 oboes | violins | cellos | basses :2. flute | violins | cellos
-    | basses :3. flute | violins | cellos | basses :4. flute | violins | cellos |
-    basses :5. 2 clarinets | violins | cellos | basses :6. flute | violins | cellos
-    | basses :7. 2 clarinets | violins | cellos | basses :8. 2 oboes | violins | cellos
-    | basses :9. oboe | violins | cellos | basses :10. oboe | violins | cellos | basses
-    :11. flute | violins | cellos | basses :12. 2 clarinets | violins | cellos | basses
+  solo_strings:
+    violin: 12
+    cello: 12
+  additional_raw: 1 | basses | 2 | basses | 3 | basses | 4 | basses | 5 | basses |
+    6 | basses | 7 | basses | 8 | basses | 9 | basses | 10 | basses | 11 | basses
+    | 12 | basses
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/12_Contredanses%2C_WoO_14_%28Beethoven%2C_Ludwig_van%29

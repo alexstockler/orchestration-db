@@ -1,0 +1,17 @@
+id: kodaly-psalm-114
+work:
+  composer: Kodály, Zoltán
+  title: Psalm 114
+  ids:
+    imslp: Psalm 114 (Kodály, Zoltán)
+  year: 1958
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Psalm_114_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), organ'

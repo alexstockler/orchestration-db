@@ -1,0 +1,50 @@
+id: massenet-scenes-de-feerie
+work:
+  composer: Massenet, Jules
+  title: Scènes de féerie
+  ids:
+    imslp: Scènes de féerie (Massenet, Jules)
+  year: 1880
+formula: 3[1/pic.2.pic] 2 3[1.2.Ebcl] 4 4 4[cnt.cnt.3.4] 4 1 tmp hp str
+instrumentation:
+  flute:
+  - doublings:
+    - piccolo
+  - {}
+  - instrument: piccolo
+  oboe: 2
+  clarinet:
+  - {}
+  - {}
+  - instrument: eflat_clarinet
+  bassoon: 4
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  trombone: 4
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - bass drum
+    - tam-tam
+    - snare drum
+  harp: 1
+  strings: str
+  saxophones:
+  - instrument: alto_sax
+    count: 1
+  additional_raw: sistrum
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sc%C3%A8nes_de_f%C3%A9erie_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (1st also piccolo), piccolo, 2 oboes, 2 clarinets,
+    E clarinet, alto saxophone, 4 bassoons, 4 horns, 2 cornets, 2 trumpets, 4 trombones,
+    tuba, timpani, triangle, cymbals, bass drum, tam-tam, snare drum, sistrum, harps,
+    strings'

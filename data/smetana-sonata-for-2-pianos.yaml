@@ -1,0 +1,16 @@
+id: smetana-sonata-for-2-pianos
+work:
+  composer: Smetana, Bedřich
+  title: Sonata for 2 Pianos
+  ids:
+    imslp: Sonata for 2 Pianos, JB 1:47 (Smetana, Bedřich)
+  year: 1849
+formula: ''
+instrumentation:
+  additional_raw: 2 pianos 8 hands
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_for_2_Pianos%2C_JB_1%3A47_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 pianos 8 hands'
+duration_minutes: 12

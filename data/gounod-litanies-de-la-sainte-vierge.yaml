@@ -1,0 +1,18 @@
+id: gounod-litanies-de-la-sainte-vierge
+work:
+  composer: Gounod, Charles
+  title: Litanies de la Sainte Vierge
+  ids:
+    imslp: Litanies de la Sainte Vierge (Gounod, Charles)
+  year: 1888
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Litanies_de_la_Sainte_Vierge_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (SATB), organ'

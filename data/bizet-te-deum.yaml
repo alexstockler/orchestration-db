@@ -1,0 +1,19 @@
+id: bizet-te-deum
+work:
+  composer: Bizet, Georges
+  title: Te Deum
+  ids:
+    imslp: Te Deum (Bizet, Georges)
+  year: 1858
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Te_Deum_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, chorus, orchestra'
+duration_minutes: 22

@@ -1,0 +1,20 @@
+id: vaughan-williams-romance-for-harmonica
+work:
+  composer: Vaughan Williams, Ralph
+  title: Romance for Harmonica
+  ids:
+    imslp: Romance for Harmonica (Vaughan Williams, Ralph)
+  year: 1951
+formula: pf str
+instrumentation:
+  keyboards:
+  - instrument: piano
+  strings: str
+  soloists:
+  - harmonica
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romance_for_Harmonica_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: harmonica, Orchestra: piano, strings'
+duration_minutes: 7

@@ -1,0 +1,16 @@
+id: borodin-petite-suite
+work:
+  composer: Borodin, Aleksandr
+  title: Petite suite
+  ids:
+    imslp: Petite suite (Borodin, Aleksandr)
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Petite_suite_%28Borodin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

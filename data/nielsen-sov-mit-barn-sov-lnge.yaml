@@ -1,0 +1,17 @@
+id: nielsen-sov-mit-barn-sov-lnge
+work:
+  composer: Nielsen, Carl
+  title: Sov mit Barn, sov længe
+  ids:
+    imslp: Sov mit Barn, sov længe, CNW 388 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sov_mit_Barn%2C_sov_l%C3%A6nge%2C_CNW_388_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

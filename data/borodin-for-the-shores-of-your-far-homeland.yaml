@@ -1,0 +1,18 @@
+id: borodin-for-the-shores-of-your-far-homeland
+work:
+  composer: Borodin, Aleksandr
+  title: For the Shores of Your Far Homeland
+  ids:
+    imslp: For the Shores of Your Far Homeland (Borodin, Aleksandr)
+  year: 1881
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/For_the_Shores_of_Your_Far_Homeland_%28Borodin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

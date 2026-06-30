@@ -1,0 +1,16 @@
+id: bizet-3-esquisses-musicales
+work:
+  composer: Bizet, Georges
+  title: 3 Esquisses musicales
+  ids:
+    imslp: 3 Esquisses musicales, Op.33 (Bizet, Georges)
+  year: 1858
+formula: harm
+instrumentation:
+  keyboards:
+  - instrument: harmonium
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Esquisses_musicales%2C_Op.33_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: harmonium'

@@ -1,0 +1,16 @@
+id: bach-fughetta-super-wir-glauben-all-an-einen-gott
+work:
+  composer: Bach, Johann Sebastian
+  title: Fughetta super 'Wir gläuben all an einen Gott'
+  ids:
+    imslp: Fughetta super 'Wir gläuben all an einen Gott', BWV 681 (Bach, Johann Sebastian)
+  year: 1739
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fughetta_super_%27Wir_gl%C3%A4uben_all_an_einen_Gott%27%2C_BWV_681_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

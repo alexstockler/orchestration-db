@@ -1,0 +1,15 @@
+id: bach-french-suite-no-3-in-b-minor
+work:
+  composer: Bach, Johann Sebastian
+  title: French Suite No.3 in B minor
+  ids:
+    imslp: French Suite No.3 in B minor, BWV 814a (Bach, Johann Sebastian)
+  year: 1722
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/French_Suite_No.3_in_B_minor%2C_BWV_814a_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

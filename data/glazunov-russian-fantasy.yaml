@@ -1,0 +1,16 @@
+id: glazunov-russian-fantasy
+work:
+  composer: Glazunov, Aleksandr
+  title: Russian Fantasy
+  ids:
+    imslp: Russian Fantasy, Op.86 (Glazunov, Aleksandr)
+  year: 1906
+formula: ''
+instrumentation:
+  additional_raw: Russian folk instruments
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Russian_Fantasy%2C_Op.86_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: Russian folk instruments'
+duration_minutes: 5

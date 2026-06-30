@@ -5,9 +5,8 @@ work:
   ids:
     imslp: Allegro ma non tanto, TH 161 (Tchaikovsky, Pyotr)
   year: 1863
-formula: str
-instrumentation:
-  strings: str
+formula: ''
+instrumentation: {}
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Allegro_ma_non_tanto%2C_TH_161_%28Tchaikovsky%2C_Pyotr%29

@@ -1,0 +1,17 @@
+id: weber-8-volkslieder
+work:
+  composer: Weber, Carl Maria von
+  title: 8 Volkslieder
+  ids:
+    imslp: 8 Volkslieder, Op.64 (Weber, Carl Maria von)
+  year: 1818
+formula: ''
+instrumentation:
+  soloists:
+  - 2 voices
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Volkslieder%2C_Op.64_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Voices (No.2), 3 voices (No.7) or solo voice with piano'

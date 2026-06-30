@@ -1,0 +1,18 @@
+id: nielsen-apostlene-sad-i-jerusalem
+work:
+  composer: Nielsen, Carl
+  title: Apostlene sad i Jerusalem
+  ids:
+    imslp: Apostlene sad i Jerusalem, CNW 328 (Nielsen, Carl)
+  year: 1928
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Apostlene_sad_i_Jerusalem%2C_CNW_328_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,21 @@
+id: respighi-piano-quintet-in-f-minor
+work:
+  composer: Respighi, Ottorino
+  title: Piano Quintet in F minor
+  ids:
+    imslp: Piano Quintet in F minor (Respighi, Ottorino)
+  year: 1902
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quintet_in_F_minor_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello, piano'
+duration_minutes: 16

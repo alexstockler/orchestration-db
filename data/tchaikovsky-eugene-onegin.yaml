@@ -5,9 +5,12 @@ work:
   ids:
     imslp: Eugene Onegin, Op.24 (Tchaikovsky, Pyotr)
   year: 1877
-formula: 2222 4230 tmp hp str
+formula: 3[pic.2.3] 2 2 2 4230 tmp hp str
 instrumentation:
-  flute: 2
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
   oboe: 2
   clarinet: 2
   bassoon: 2
@@ -18,11 +21,17 @@ instrumentation:
     timpani: 1
   harp: 1
   strings: str
-  additional_raw: Cast :Ларина (Larina, mezzo-soprano) | Татьяна (Tatyana, soprano)
-    | Ольга (Olga, alto) | Филиппьевна (Filippyevna, mezzo soprano) | Евгений Онегин
-    (Yevgeny Onegin, baritone) | Ленский (Lensky, tenor) | Князь Гремин (Prince Gremin,
-    1st bass) | Ротный (Captain, 2nd bass) | Зарецкий (Zaretsky, 2nd bass) | Трике
-    (Trique, 2nd tenor) Mixed Chorus (SATB) | Orchestra :piccolo
+  soloists:
+  - Ларина (Larina, mezzo-soprano)
+  - Татьяна (Tatyana, soprano)
+  - Ольга (Olga, alto)
+  - Филиппьевна (Filippyevna, mezzo soprano)
+  - Евгений Онегин (Yevgeny Onegin, baritone)
+  - Ленский (Lensky, tenor)
+  - Князь Гремин (Prince Gremin, 1st bass)
+  - Ротный (Captain, 2nd bass)
+  - Зарецкий (Zaretsky, 2nd bass)
+  - Трике (Trique, 2nd tenor) Mixed Chorus (SATB)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Eugene_Onegin%2C_Op.24_%28Tchaikovsky%2C_Pyotr%29

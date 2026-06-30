@@ -1,0 +1,18 @@
+id: mussorgsky-pride
+work:
+  composer: Mussorgsky, Modest
+  title: Pride
+  ids:
+    imslp: Pride (Mussorgsky, Modest)
+  year: 1877
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pride_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

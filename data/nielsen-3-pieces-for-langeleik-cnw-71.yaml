@@ -1,0 +1,15 @@
+id: nielsen-3-pieces-for-langeleik-cnw-71
+work:
+  composer: Nielsen, Carl
+  title: 3 Pieces for Langeleik, CNW 71
+  ids:
+    imslp: 3 Pieces, CNW 71 (Nielsen, Carl)
+  year: 1918
+formula: ''
+instrumentation:
+  additional_raw: langeleik
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Pieces%2C_CNW_71_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: langeleik'

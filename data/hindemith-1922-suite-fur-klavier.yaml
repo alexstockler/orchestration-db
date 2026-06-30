@@ -1,0 +1,17 @@
+id: hindemith-1922-suite-fur-klavier
+work:
+  composer: Hindemith, Paul
+  title: 1922. Suite für Klavier
+  ids:
+    imslp: 1922, Op.26 (Hindemith, Paul)
+  year: 1921
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/1922%2C_Op.26_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 20

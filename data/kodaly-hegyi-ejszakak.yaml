@@ -1,0 +1,15 @@
+id: kodaly-hegyi-ejszakak
+work:
+  composer: Kodály, Zoltán
+  title: Hegyi éjszakák
+  ids:
+    imslp: Hegyi éjszakák, K.45 (Kodály, Zoltán)
+  year: 1923
+formula: ''
+instrumentation:
+  additional_raw: female chorus a cappella
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hegyi_%C3%A9jszak%C3%A1k%2C_K.45_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus a cappella'

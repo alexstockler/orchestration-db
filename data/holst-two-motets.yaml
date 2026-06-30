@@ -1,0 +1,16 @@
+id: holst-two-motets
+work:
+  composer: Holst, Gustav
+  title: Two Motets
+  ids:
+    imslp: 2 Motets, Op.43 (Holst, Gustav)
+  year: 1924
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Motets%2C_Op.43_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 9

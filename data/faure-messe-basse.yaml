@@ -1,0 +1,19 @@
+id: faure-messe-basse
+work:
+  composer: Fauré, Gabriel
+  title: Messe basse
+  ids:
+    imslp: Messe basse (Fauré, Gabriel)
+  year: 1881
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - soprano
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Messe_basse_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, female chorus (SSAA), organ (or harmonium)'

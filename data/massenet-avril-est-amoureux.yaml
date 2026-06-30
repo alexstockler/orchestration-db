@@ -1,0 +1,18 @@
+id: massenet-avril-est-amoureux
+work:
+  composer: Massenet, Jules
+  title: Avril est amoureux
+  ids:
+    imslp: Avril est amoureux (Massenet, Jules)
+  year: 1900
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Avril_est_amoureux_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

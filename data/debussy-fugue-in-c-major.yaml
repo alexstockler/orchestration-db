@@ -7,7 +7,8 @@ work:
   year: 1882
 formula: ''
 instrumentation:
-  additional_raw: 4 voices
+  soloists:
+  - 4 voices
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Fugue_in_C_major_%28Debussy%2C_Claude%29

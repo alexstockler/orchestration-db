@@ -8,7 +8,8 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: voice
+  soloists:
+  - voice
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Les_adieux_de_Marie_Stuart%2C_WWV_61_%28Wagner%2C_Richard%29

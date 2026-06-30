@@ -1,0 +1,19 @@
+id: massenet-epithalame
+work:
+  composer: Massenet, Jules
+  title: Épithalame
+  ids:
+    imslp: Épithalame (Massenet, Jules)
+  year: 1891
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+  soloists:
+  - 2 voices
+  additional_raw: unison chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%89pithalame_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, unison chorus, harpsichord'

@@ -10,11 +10,11 @@ instrumentation:
   keyboards:
   - instrument: piano
   soloists:
+  - 2 voices
   - tenor
   - alto
   - tenor
-  additional_raw: '2 voices | piano #alto | piano #soprano | piano #soprano | piano
-    #2 sopranos'
+  additional_raw: 'piano #alto | piano #soprano | piano #soprano | piano #2 sopranos'
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/4_Ballades_and_Romances%2C_Op.75_%28Brahms%2C_Johannes%29

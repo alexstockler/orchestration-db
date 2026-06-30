@@ -1,0 +1,16 @@
+id: faure-nocturne-no-12
+work:
+  composer: Fauré, Gabriel
+  title: Nocturne No.12
+  ids:
+    imslp: Nocturne No.12, Op.107 (Fauré, Gabriel)
+  year: 1915
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nocturne_No.12%2C_Op.107_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

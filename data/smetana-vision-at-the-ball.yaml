@@ -1,0 +1,17 @@
+id: smetana-vision-at-the-ball
+work:
+  composer: Smetana, Bedřich
+  title: Vision at the Ball
+  ids:
+    imslp: Vidění na plese, JB 1:71a (Smetana, Bedřich)
+  year: 1858
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vid%C4%9Bn%C3%AD_na_plese%2C_JB_1%3A71a_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 5

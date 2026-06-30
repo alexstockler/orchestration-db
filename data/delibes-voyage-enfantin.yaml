@@ -1,0 +1,14 @@
+id: delibes-voyage-enfantin
+work:
+  composer: Delibes, Léo
+  title: Voyage enfantin
+  ids:
+    imslp: Voyage enfantin (Delibes, Léo)
+formula: ''
+instrumentation:
+  additional_raw: 3 equal voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Voyage_enfantin_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 equal voices'

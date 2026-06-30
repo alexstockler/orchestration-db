@@ -7,7 +7,8 @@ work:
   year: 1906
 formula: ''
 instrumentation:
-  additional_raw: Soli | chorus and orchestra
+  chorus_raw: chorus and orchestra
+  additional_raw: Soli
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/La_gloire_de_Corneille%2C_Op.126_%28Saint-Sa%C3%ABns%2C_Camille%29

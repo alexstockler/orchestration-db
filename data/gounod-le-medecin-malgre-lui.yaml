@@ -1,0 +1,17 @@
+id: gounod-le-medecin-malgre-lui
+work:
+  composer: Gounod, Charles
+  title: Le médecin malgré lui
+  ids:
+    imslp: Le médecin malgré lui, CG 3 (Gounod, Charles)
+  year: 1858
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_m%C3%A9decin_malgr%C3%A9_lui%2C_CG_3_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

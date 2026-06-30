@@ -1,0 +1,18 @@
+id: bach-gott-der-hoffnung-erfulle-euch
+work:
+  composer: Bach, Johann Sebastian
+  title: Gott der Hoffnung erfülle euch
+  ids:
+    imslp: Gott der Hoffnung erfülle euch, BWV 218 (Bach, Johann Sebastian)
+  year: 1717
+formula: 0000 2000 str
+instrumentation:
+  horn: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_der_Hoffnung_erf%C3%BClle_euch%2C_BWV_218_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 horns, strings, continuo'
+duration_minutes: 11

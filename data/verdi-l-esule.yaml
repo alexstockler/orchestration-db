@@ -1,0 +1,15 @@
+id: verdi-l-esule
+work:
+  composer: Verdi, Giuseppe
+  title: L'esule
+  ids:
+    imslp: L'esule (Verdi, Giuseppe)
+  year: 1839
+formula: ''
+instrumentation:
+  additional_raw: bass voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27esule_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: bass voice, orchestra'

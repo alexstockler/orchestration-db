@@ -1,0 +1,15 @@
+id: vaughan-williams-prayer-to-the-father-of-heaven
+work:
+  composer: Vaughan Williams, Ralph
+  title: Prayer to the Father of Heaven
+  ids:
+    imslp: Prayer to the Father of Heaven (Vaughan Williams, Ralph)
+  year: 1948
+formula: ''
+instrumentation:
+  additional_raw: mixed chorus (SATB) a cappella
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prayer_to_the_Father_of_Heaven_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB) a cappella'

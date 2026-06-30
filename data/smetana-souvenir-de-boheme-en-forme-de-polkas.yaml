@@ -1,0 +1,17 @@
+id: smetana-souvenir-de-boheme-en-forme-de-polkas
+work:
+  composer: Smetana, Bedřich
+  title: Souvenir de Bohême en forme de Polkas
+  ids:
+    imslp: Souvenir de Bohême en forme de Polkas, Op.12 (Smetana, Bedřich)
+  year: 1859
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Souvenir_de_Boh%C3%AAme_en_forme_de_Polkas%2C_Op.12_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 10

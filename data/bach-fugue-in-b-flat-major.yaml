@@ -1,0 +1,14 @@
+id: bach-fugue-in-b-flat-major
+work:
+  composer: Bach, Johann Sebastian
+  title: Fugue in B-flat major
+  ids:
+    imslp: Fugue in B-flat major, BWV 955a (Bach, Johann Sebastian)
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_B-flat_major%2C_BWV_955a_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

@@ -1,0 +1,19 @@
+id: hindemith-a-frog-he-went-a-courting
+work:
+  composer: Hindemith, Paul
+  title: A frog he went a-courting
+  ids:
+    imslp: A Frog He Went A-Courting (Hindemith, Paul)
+  year: 1941
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_Frog_He_Went_A-Courting_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'
+duration_minutes: 5

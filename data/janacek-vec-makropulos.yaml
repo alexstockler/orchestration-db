@@ -1,0 +1,17 @@
+id: janacek-vec-makropulos
+work:
+  composer: Janáček, Leoš
+  title: Věc Makropulos
+  ids:
+    imslp: Věc Makropulos, JW 1/10 (Janáček, Leoš)
+  year: 1923
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/V%C4%9Bc_Makropulos%2C_JW_1/10_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

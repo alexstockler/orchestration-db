@@ -1,0 +1,17 @@
+id: verdi-ave-maria
+work:
+  composer: Verdi, Giuseppe
+  title: Ave Maria
+  ids:
+    imslp: Ave Maria (Verdi, Giuseppe)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_Maria_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

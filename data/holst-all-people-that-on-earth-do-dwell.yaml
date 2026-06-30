@@ -1,0 +1,28 @@
+id: holst-all-people-that-on-earth-do-dwell
+work:
+  composer: Holst, Gustav
+  title: All people that on earth do dwell
+  ids:
+    imslp: All People that on Earth do Dwell (Holst, Gustav)
+formula: 2222 2300 tmp org str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 3
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: organ
+  strings: str
+  chorus_raw: mixed chorus
+  additional_raw: (3 trombones, tuba instead of organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/All_People_that_on_Earth_do_Dwell_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), 2 flutes, 2 oboes, 2 clarinets, 2
+    bassoons, 2 horns, 3 trumpets, (3 trombones, tuba instead of organ), timpani,
+    organ, strings'

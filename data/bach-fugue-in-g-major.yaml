@@ -1,0 +1,15 @@
+id: bach-fugue-in-g-major
+work:
+  composer: Bach, Johann Sebastian
+  title: Fugue in G major
+  ids:
+    imslp: Fugue in G major, BWV Anh.92 (Bach, Johann Sebastian)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_G_major%2C_BWV_Anh.92_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

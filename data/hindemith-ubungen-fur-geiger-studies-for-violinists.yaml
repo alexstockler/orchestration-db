@@ -1,0 +1,17 @@
+id: hindemith-ubungen-fur-geiger-studies-for-violinists
+work:
+  composer: Hindemith, Paul
+  title: Übungen für Geiger, Studies for Violinists
+  ids:
+    imslp: Übungen für Geiger (Hindemith, Paul)
+  year: 1926
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%9Cbungen_f%C3%BCr_Geiger_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: violin'
+duration_minutes: 14

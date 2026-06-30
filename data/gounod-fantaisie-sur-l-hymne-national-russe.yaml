@@ -1,0 +1,14 @@
+id: gounod-fantaisie-sur-l-hymne-national-russe
+work:
+  composer: Gounod, Charles
+  title: Fantaisie sur l'hymne national Russe
+  ids:
+    imslp: Fantaisie sur l'hymne national Russe, CG 522 (Gounod, Charles)
+formula: ''
+instrumentation:
+  additional_raw: pedal-piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantaisie_sur_l%27hymne_national_Russe%2C_CG_522_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: pedal-piano, orchestra'

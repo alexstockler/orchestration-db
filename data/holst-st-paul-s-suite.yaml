@@ -1,0 +1,15 @@
+id: holst-st-paul-s-suite
+work:
+  composer: Holst, Gustav
+  title: St. Paul's Suite
+  ids:
+    imslp: St. Paul's Suite, Op.29 No.2 (Holst, Gustav)
+  year: 1912
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/St._Paul%27s_Suite%2C_Op.29_No.2_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'

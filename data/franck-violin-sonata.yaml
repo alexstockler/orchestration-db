@@ -1,0 +1,18 @@
+id: franck-violin-sonata
+work:
+  composer: Franck, César
+  title: Violin Sonata
+  ids:
+    imslp: Violin Sonata (Franck, César)
+  year: 1886
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

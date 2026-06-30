@@ -8,7 +8,8 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: voice
+  soloists:
+  - voice
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/My_Genius%2C_My_Angel%2C_My_Friend%2C_TH_89_%28Tchaikovsky%2C_Pyotr%29

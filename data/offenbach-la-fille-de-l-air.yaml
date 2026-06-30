@@ -1,0 +1,16 @@
+id: offenbach-la-fille-de-l-air
+work:
+  composer: Offenbach, Jacques
+  title: La fille de l'air
+  ids:
+    imslp: La fille de l'air (Offenbach, Jacques)
+  year: 1865
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_fille_de_l%27air_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

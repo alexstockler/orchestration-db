@@ -1,0 +1,18 @@
+id: gounod-le-lever
+work:
+  composer: Gounod, Charles
+  title: Le lever
+  ids:
+    imslp: Le lever, CG 400 (Gounod, Charles)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_lever%2C_CG_400_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano 4 hands'

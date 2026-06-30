@@ -1,0 +1,15 @@
+id: franck-grande-fantaisie-no-3
+work:
+  composer: Franck, César
+  title: Grande Fantaisie No.3
+  ids:
+    imslp: Grande fantaisie No.3, CFF 7 (Franck, César)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grande_fantaisie_No.3%2C_CFF_7_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

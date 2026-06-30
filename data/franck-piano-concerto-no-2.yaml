@@ -1,0 +1,19 @@
+id: franck-piano-concerto-no-2
+work:
+  composer: Franck, César
+  title: Piano Concerto No.2
+  ids:
+    imslp: Piano Concerto No.2, Op.11 (Franck, César)
+  year: 1835
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Concerto_No.2%2C_Op.11_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: piano, orchestra (2 flutes, 2 oboes, 2 clarinets in C,
+    2 bassoons, 2 horns in D, 2 horns in B basso, 2 trumpets in D, 3 trombones, timpani,
+    strings)'
+duration_minutes: 30

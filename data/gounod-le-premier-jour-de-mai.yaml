@@ -1,0 +1,18 @@
+id: gounod-le-premier-jour-de-mai
+work:
+  composer: Gounod, Charles
+  title: Le premier jour de mai
+  ids:
+    imslp: Le premier jour de mai, CG 426 (Gounod, Charles)
+  year: 1850
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_premier_jour_de_mai%2C_CG_426_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

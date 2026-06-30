@@ -1,0 +1,16 @@
+id: franck-pastorale
+work:
+  composer: Franck, César
+  title: Pastorale
+  ids:
+    imslp: Pastorale, Op.19 (Franck, César)
+  year: 1860
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pastorale%2C_Op.19_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

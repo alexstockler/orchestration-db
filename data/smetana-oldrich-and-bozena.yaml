@@ -1,0 +1,21 @@
+id: smetana-oldrich-and-bozena
+work:
+  composer: Smetana, Bedřich
+  title: Oldřich and Božena
+  ids:
+    imslp: Oldřich and Božena, JB 1:88 (Smetana, Bedřich)
+  year: 1863
+formula: 0020 2100 tmp str
+instrumentation:
+  clarinet: 2
+  horn: 2
+  trumpet: 1
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Old%C5%99ich_and_Bo%C5%BEena%2C_JB_1%3A88_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 clarinets, 2 horns, trumpet, timpani, strings'
+duration_minutes: 4

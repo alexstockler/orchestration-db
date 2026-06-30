@@ -1,0 +1,19 @@
+id: mussorgsky-songs-and-dances-of-death
+work:
+  composer: Mussorgsky, Modest
+  title: Songs and Dances of Death
+  ids:
+    imslp: Songs and Dances of Death (Mussorgsky, Modest)
+  year: 1875
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Songs_and_Dances_of_Death_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 22

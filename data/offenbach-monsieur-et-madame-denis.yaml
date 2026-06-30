@@ -1,0 +1,15 @@
+id: offenbach-monsieur-et-madame-denis
+work:
+  composer: Offenbach, Jacques
+  title: Monsieur et Madame Denis
+  ids:
+    imslp: Monsieur et Madame Denis (Offenbach, Jacques)
+  year: 1862
+formula: ''
+instrumentation:
+  additional_raw: Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Monsieur_et_Madame_Denis_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, Orchestra'

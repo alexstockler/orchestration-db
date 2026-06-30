@@ -1,0 +1,61 @@
+id: respighi-marie-victoire
+work:
+  composer: Respighi, Ottorino
+  title: Marie Victoire
+  ids:
+    imslp: Marie Victoire, P.100 (Respighi, Ottorino)
+  year: 1912
+formula: 3[pic.2.3] 3[1.2.Eh] 3[1.2.bcl] 2 4230 tmp hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - tam-tam
+    - bells
+  harp: 1
+  strings: str
+  soloists:
+  - Marie de Lanjallay (soprano)
+  - Lison Fleuriot (soprano)
+  - Maurice de Lanjallay (baritone)
+  - Cloriviére (tenor)
+  - Simon (baritone)
+  - Brutus Cloteau (bass)
+  - Kermarek (baritone)
+  - Caracalla (bass)
+  - Le Marquis de Langlade (tenor)
+  - Le Marquis de Grandchanmp (baritone)
+  - Du Fölgoet (bass)
+  - Le Commissaire (bass)
+  - La Novice (soprano)
+  - Le Vicomte (baritone)
+  - Le Mouton (baritone) Mixed Chorus (SATB) :femmes du peuple
+  - sectionaires jacobins
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marie_Victoire%2C_P.100_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Marie de Lanjallay (soprano), Lison Fleuriot (soprano),
+    Maurice de Lanjallay (baritone), Cloriviére (tenor), Simon (baritone), Brutus
+    Cloteau (bass), Kermarek (baritone), Caracalla (bass), Le Marquis de Langlade
+    (tenor), Le Marquis de Grandchanmp (baritone), Du Fölgoet (bass), Le Commissaire
+    (bass), La Novice (soprano), Le Vicomte (baritone), Le Mouton (baritone) Mixed
+    Chorus (SATB) :femmes du peuple, sectionaires jacobins Orchestra :piccolo, 2 flutes,
+    2 oboes, English horn, 2 clarinets, bass clarinet, 2 bassoons, 4 horns, 2 trumpets,
+    3 trombones,, timpani, tam-tam, bells, harp, strings'

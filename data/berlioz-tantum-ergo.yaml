@@ -1,0 +1,17 @@
+id: berlioz-tantum-ergo
+work:
+  composer: Berlioz, Hector
+  title: Tantum ergo
+  ids:
+    imslp: Tantum ergo, H 142 (Berlioz, Hector)
+  year: 1860
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  additional_raw: SSA with SSA soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tantum_ergo%2C_H_142_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: SSA with SSA soloists, organ'

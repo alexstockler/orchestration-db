@@ -1,0 +1,19 @@
+id: hindemith-violin-sonata
+work:
+  composer: Hindemith, Paul
+  title: Violin Sonata
+  ids:
+    imslp: Violin Sonata, Op.11 No.1 (Hindemith, Paul)
+  year: 1918
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata%2C_Op.11_No.1_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 10

@@ -1,0 +1,51 @@
+id: hindemith-philharmonisches-konzert
+work:
+  composer: Hindemith, Paul
+  title: Philharmonisches Konzert
+  ids:
+    imslp: Philharmonic Concerto (Hindemith, Paul)
+  year: 1932
+formula: 3[1.2.3/pic] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 4331 tmp+1 str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+    instruments:
+    - triangle
+    - bass drum
+    - snare drum
+    - field drum
+    - suspended cymbals
+    - cymbals
+  strings: str
+  additional_raw: small cymbals
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Philharmonic_Concerto_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra :3 flutes (3rd also piccolo), 2 oboes, English
+    horn, 2 clarinets (B, A) ::bass clarinet (B), 2 bassoons, contrabassoon :4 horns
+    (F), 3 trumpets (C), 3 trombones, tuba, timpani, percussion, strings :: triangle,
+    bass drum, snare drum, field drum, small cymbals, suspended cymbals, cymbals'
+duration_minutes: 20

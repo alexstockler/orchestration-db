@@ -1,0 +1,16 @@
+id: gounod-la-valse-des-sylphes
+work:
+  composer: Gounod, Charles
+  title: La valse des sylphes
+  ids:
+    imslp: La valse des sylphes, CG 592 (Gounod, Charles)
+  year: 1874
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_valse_des_sylphes%2C_CG_592_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

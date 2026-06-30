@@ -1,0 +1,17 @@
+id: weber-variations-sur-un-air-norvegien
+work:
+  composer: Weber, Carl Maria von
+  title: Variations sur un air norvégien
+  ids:
+    imslp: Variations sur un air norvégien, Op.22 (Weber, Carl Maria von)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variations_sur_un_air_norv%C3%A9gien%2C_Op.22_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

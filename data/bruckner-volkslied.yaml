@@ -7,8 +7,10 @@ work:
   year: 1882
 formula: ''
 instrumentation:
+  soloists:
+  - voice and piano
   chorus_raw: male chorus
-  additional_raw: Variant 2 | voice and piano
+  additional_raw: Variant 2
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Volkslied%2C_WAB_94_%28Bruckner%2C_Anton%29

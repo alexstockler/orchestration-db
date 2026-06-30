@@ -1,0 +1,19 @@
+id: nielsen-det-ar-host
+work:
+  composer: Nielsen, Carl
+  title: Det är höst
+  ids:
+    imslp: Det är höst, CNW 335 (Nielsen, Carl)
+  year: 1929
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Det_%C3%A4r_h%C3%B6st%2C_CNW_335_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 3

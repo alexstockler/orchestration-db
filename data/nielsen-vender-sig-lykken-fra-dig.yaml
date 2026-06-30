@@ -1,0 +1,17 @@
+id: nielsen-vender-sig-lykken-fra-dig
+work:
+  composer: Nielsen, Carl
+  title: Vender sig Lykken fra dig
+  ids:
+    imslp: Vender sig Lykken fra dig, CNW 207 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vender_sig_Lykken_fra_dig%2C_CNW_207_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

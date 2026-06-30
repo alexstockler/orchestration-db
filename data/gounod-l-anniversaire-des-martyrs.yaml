@@ -1,0 +1,18 @@
+id: gounod-l-anniversaire-des-martyrs
+work:
+  composer: Gounod, Charles
+  title: L'anniversaire des martyrs
+  ids:
+    imslp: L'anniversaire des martyrs, CG 329 (Gounod, Charles)
+  year: 1869
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27anniversaire_des_martyrs%2C_CG_329_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

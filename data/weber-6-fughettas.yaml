@@ -1,0 +1,16 @@
+id: weber-6-fughettas
+work:
+  composer: Weber, Carl Maria von
+  title: 6 Fughettas
+  ids:
+    imslp: 6 Fughettas, Op.1 (Weber, Carl Maria von)
+  year: 1798
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Fughettas%2C_Op.1_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (wordless)'

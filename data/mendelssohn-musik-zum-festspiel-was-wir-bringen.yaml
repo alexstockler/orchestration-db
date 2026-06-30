@@ -5,9 +5,11 @@ work:
   ids:
     imslp: Was wir bringen, MWV M 6 (Mendelssohn, Felix)
   year: 1833
-formula: ''
+formula: pf
 instrumentation:
-  additional_raw: male chorus + piano
+  keyboards:
+  - instrument: piano
+  chorus_raw: male chorus
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Was_wir_bringen%2C_MWV_M_6_%28Mendelssohn%2C_Felix%29

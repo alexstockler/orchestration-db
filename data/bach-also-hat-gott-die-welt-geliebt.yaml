@@ -1,0 +1,21 @@
+id: bach-also-hat-gott-die-welt-geliebt
+work:
+  composer: Bach, Johann Sebastian
+  title: Also hat Gott die Welt geliebt
+  ids:
+    imslp: Also hat Gott die Welt geliebt, BWV 68 (Bach, Johann Sebastian)
+  year: 1725
+formula: 0200 1030 str
+instrumentation:
+  oboe: 2
+  horn: 1
+  trombone: 3
+  strings: str
+  additional_raw: taille | cornettino | violoncello piccolo | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Also_hat_Gott_die_Welt_geliebt%2C_BWV_68_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, taille, horn, cornettino, 3 trombones, violoncello
+    piccolo, strings, continuo'
+duration_minutes: 20

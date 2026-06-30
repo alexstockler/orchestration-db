@@ -1,0 +1,19 @@
+id: glazunov-string-quartet-no-4
+work:
+  composer: Glazunov, Aleksandr
+  title: String Quartet No.4
+  ids:
+    imslp: String Quartet No.4, Op.64 (Glazunov, Aleksandr)
+  year: 1894
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: and Cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.4%2C_Op.64_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Violins, Viola, and Cello'
+duration_minutes: 3035

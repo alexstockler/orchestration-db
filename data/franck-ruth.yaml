@@ -1,0 +1,17 @@
+id: franck-ruth
+work:
+  composer: Franck, César
+  title: Ruth
+  ids:
+    imslp: Ruth (Franck, César)
+  year: 1843
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ruth_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

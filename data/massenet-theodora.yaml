@@ -1,0 +1,16 @@
+id: massenet-theodora
+work:
+  composer: Massenet, Jules
+  title: Théodora
+  ids:
+    imslp: Théodora (Massenet, Jules)
+  year: 1884
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Th%C3%A9odora_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus, orchestra (4 trumpets, 2 trombones, percussion,
+    2 harps, pedal organ, double basses)'

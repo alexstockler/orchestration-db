@@ -1,0 +1,18 @@
+id: nielsen-hvi-vil-du-dig-saa-klage
+work:
+  composer: Nielsen, Carl
+  title: Hvi vil du dig saa klage
+  ids:
+    imslp: Hvi vil du dig saa klage, CNW 177 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hvi_vil_du_dig_saa_klage%2C_CNW_177_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (SATB), piano (the voices are in keyboard format,
+    so this could also be a cappella chorus)'

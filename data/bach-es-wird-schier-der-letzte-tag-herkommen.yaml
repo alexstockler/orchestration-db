@@ -1,0 +1,15 @@
+id: bach-es-wird-schier-der-letzte-tag-herkommen
+work:
+  composer: Bach, Johann Sebastian
+  title: Es wird schier der letzte Tag herkommen
+  ids:
+    imslp: Es wird schier der letzte Tag herkommen, BWV 310 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_wird_schier_der_letzte_Tag_herkommen%2C_BWV_310_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

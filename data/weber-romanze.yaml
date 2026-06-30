@@ -1,0 +1,17 @@
+id: weber-romanze
+work:
+  composer: Weber, Carl Maria von
+  title: Romanze
+  ids:
+    imslp: Romanze, J.195 (Weber, Carl Maria von)
+formula: gtr
+instrumentation:
+  extras:
+  - instrument: guitar
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romanze%2C_J.195_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, guitar'

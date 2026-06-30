@@ -1,0 +1,16 @@
+id: vaughan-williams-magnificat
+work:
+  composer: Vaughan Williams, Ralph
+  title: Magnificat
+  ids:
+    imslp: Magnificat (Vaughan Williams, Ralph)
+  year: 1932
+formula: ''
+instrumentation:
+  chorus_raw: female chorus
+  additional_raw: flute solo | contralto solo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Magnificat_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: flute solo, contralto solo, female chorus, orchestra'

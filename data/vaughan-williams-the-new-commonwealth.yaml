@@ -1,0 +1,15 @@
+id: vaughan-williams-the-new-commonwealth
+work:
+  composer: Vaughan Williams, Ralph
+  title: The New Commonwealth
+  ids:
+    imslp: The New Commonwealth (Vaughan Williams, Ralph)
+  year: 1943
+formula: ''
+instrumentation:
+  additional_raw: mixed chorus (SATB) a cappella
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_New_Commonwealth_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB) a cappella'

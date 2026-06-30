@@ -7,7 +7,10 @@ work:
   year: 1881
 formula: ''
 instrumentation:
-  additional_raw: 2 violins | viola | cello
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/String_Quartet_in_A_major%2C_Op.2_%28Strauss%2C_Richard%29

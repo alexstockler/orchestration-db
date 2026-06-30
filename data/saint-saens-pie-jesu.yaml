@@ -13,7 +13,7 @@ instrumentation:
   soloists:
   - bass
   - tenor
-  chorus_raw: mixed chorus
+  additional_raw: mixed chorus (SATB, ad lib.)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Pie_Jesu_%28Saint-Sa%C3%ABns%2C_Camille%29

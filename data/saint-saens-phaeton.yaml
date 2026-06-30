@@ -17,6 +17,7 @@ instrumentation:
   - {}
   - {}
   - instrument: contrabassoon
+    optional: true
   horn: 4
   trumpet: 2
   trombone: 3

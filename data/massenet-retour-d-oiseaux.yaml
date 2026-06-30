@@ -1,0 +1,18 @@
+id: massenet-retour-d-oiseaux
+work:
+  composer: Massenet, Jules
+  title: Retour d'oiseaux
+  ids:
+    imslp: Retour d'oiseaux (Massenet, Jules)
+  year: 1911
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Retour_d%27oiseaux_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'

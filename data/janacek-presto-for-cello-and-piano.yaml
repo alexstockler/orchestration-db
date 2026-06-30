@@ -1,0 +1,18 @@
+id: janacek-presto-for-cello-and-piano
+work:
+  composer: Janáček, Leoš
+  title: Presto for Cello and Piano
+  ids:
+    imslp: Presto for Cello and Piano (Janáček, Leoš)
+  year: 1970
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Presto_for_Cello_and_Piano_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'

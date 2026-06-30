@@ -1,0 +1,48 @@
+id: vaughan-williams-folk-songs-of-the-four-seasons
+work:
+  composer: Vaughan Williams, Ralph
+  title: Folk Songs of the Four Seasons
+  ids:
+    imslp: Folk Songs of the Four Seasons (Vaughan Williams, Ralph)
+  year: 1949
+formula: 2[1.2/pic] 0 2 0 4231 tmp cel org hp
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  clarinet: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drum
+    - triangle
+    - tenor drum
+    - bass drum
+    - cymbals
+    - glockenspiel
+    - bells
+  keyboards:
+  - instrument: celesta
+  - instrument: organ
+  harp: 1
+  additional_raw: 2 oboes (2nd ad lib.) | 2 bassoons (2nd ad lib.) | strings :[*]
+    3rd and 4th horns may be omitted if there are 3 trombones and tuba :[**] may be
+    omitted if there are 4 horns (but 2 horns and no trombones are inadvisable) :[***]
+    only to be used in the piano and strings version
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Folk_Songs_of_the_Four_Seasons_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes (2nd ad lib.), 2 clarinets,
+    2 bassoons (2nd ad lib.), 4 horns*, 2 trumpets, 3 trombones**, tuba**, timpani,
+    snare drum, triangle, tenor drum, bass drum, cymbals, glockenspiel, bells, harp
+    (or piano***), celesta, organ (ad lib.), strings :[*] 3rd and 4th horns may be
+    omitted if there are 3 trombones and tuba :[**] may be omitted if there are 4
+    horns (but 2 horns and no trombones are inadvisable) :[***] only to be used in
+    the piano and strings version'
+duration_minutes: 45

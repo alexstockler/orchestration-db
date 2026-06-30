@@ -1,0 +1,16 @@
+id: bach-cello-suite-no-3
+work:
+  composer: Bach, Johann Sebastian
+  title: Cello Suite No.3
+  ids:
+    imslp: Cello Suite No.3 in C major, BWV 1009 (Bach, Johann Sebastian)
+  year: 1717
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Suite_No.3_in_C_major%2C_BWV_1009_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: cello'

@@ -1,0 +1,29 @@
+id: bach-auf-schmetternde-tone-der-muntern-trompeten
+work:
+  composer: Bach, Johann Sebastian
+  title: Auf, schmetternde Töne der muntern Trompeten
+  ids:
+    imslp: Auf, schmetternde Töne der muntern Trompeten, BWV 207a (Bach, Johann Sebastian)
+  year: 1735
+formula: 2001 0300 tmp str
+instrumentation:
+  flute: 2
+  bassoon: 1
+  trumpet: 3
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass Mixed Chorus (SATB)
+  additional_raw: 2 oboes d’amore | taille | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Auf%2C_schmetternde_T%C3%B6ne_der_muntern_Trompeten%2C_BWV_207a_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices :soprano, alto, tenor, bass Mixed Chorus (SATB),
+    Orchestra :2 flutes, 2 oboes d’amore, taille, bassoon, 3 trumpets, timpani, strings,
+    continuo'
+duration_minutes: 23

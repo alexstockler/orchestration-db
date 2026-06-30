@@ -1,0 +1,16 @@
+id: glazunov-tri-etiuda-dlia-fortepiano-soch-31-trois-etudes-pour-le-piano-op-31
+work:
+  composer: Glazunov, Aleksandr
+  title: Tri Etiuda dlia Fortepiano, Soch. 31 / Trois Études pour le Piano, Op.31
+  ids:
+    imslp: 3 Etudes, Op.31 (Glazunov, Aleksandr)
+  year: 1889
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Etudes%2C_Op.31_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: 1 piano'

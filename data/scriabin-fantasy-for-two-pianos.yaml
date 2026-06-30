@@ -1,0 +1,18 @@
+id: scriabin-fantasy-for-two-pianos
+work:
+  composer: Scriabin, Aleksandr
+  title: Fantasy for Two Pianos
+  ids:
+    imslp: Fantasy for 2 Pianos (Scriabin, Aleksandr)
+  year: 1889
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasy_for_2_Pianos_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 pianos'
+duration_minutes: 6

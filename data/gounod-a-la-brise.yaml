@@ -1,0 +1,18 @@
+id: gounod-a-la-brise
+work:
+  composer: Gounod, Charles
+  title: À la brise
+  ids:
+    imslp: À la brise, CG 415a (Gounod, Charles)
+  year: 1875
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%80_la_brise%2C_CG_415a_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

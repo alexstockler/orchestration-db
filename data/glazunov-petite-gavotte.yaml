@@ -1,0 +1,15 @@
+id: glazunov-petite-gavotte
+work:
+  composer: Glazunov, Aleksandr
+  title: Petite Gavotte
+  ids:
+    imslp: Small Gavotte (Glazunov, Aleksandr)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Small_Gavotte_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

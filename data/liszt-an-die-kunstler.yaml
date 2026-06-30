@@ -5,30 +5,43 @@ work:
   ids:
     imslp: An die Künstler, S.70 (Liszt, Franz)
   year: 1853
-formula: 2220 0430 org
+formula: 2222 4431 tmp org hp str
 instrumentation:
   flute: 2
   oboe: 2
   clarinet: 2
+  bassoon: 2
+  horn: 4
   trumpet: 4
   trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
   keyboards:
   - instrument: organ
+  harp: 1
+  strings: str
   soloists:
   - 2 tenors
-  - 2 basses + male chorus (TTBB)
+  - 2 basses
+  - male chorus (TTBB)
   - 'wind band: 2 piccolo clarinets (E)'
   - 2 clarinets (A)
-  - 2 bassoons + 2 horns (E)
+  - 2 bassoons
+  - 2 horns (E)
   - 2 cornets (B)
   - cornet (low E)
   - 3 trombones
   - 2 tenorhorns
-  - tuba + timpani (instrumentation by )
+  - tuba
+  - timpani (instrumentation by )
   - ': Voices: 2 tenors'
-  - 2 basses + male chorus (TTBB)
-  additional_raw: '2 bassoons + 4 horns (E) | tuba + timpani | cymbals + harp + strings
-    | Voices: 2 tenors | 2 basses + male chorus (TTBB)'
+  - 2 basses
+  - male chorus (TTBB)
+  chorus_raw: male chorus
+  additional_raw: 'Voices: 2 tenors | 2 basses'
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/An_die_K%C3%BCnstler%2C_S.70_%28Liszt%2C_Franz%29

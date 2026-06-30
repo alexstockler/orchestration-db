@@ -1,0 +1,40 @@
+id: holst-at-the-boar-s-head
+work:
+  composer: Holst, Gustav
+  title: At the Boar's Head
+  ids:
+    imslp: At the Boar's Head, Op.42 (Holst, Gustav)
+  year: 1925
+formula: 2[pic.2] 2[1.Eh] 2 2 2201 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe:
+  - {}
+  - instrument: english_horn
+    optional: true
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  tuba:
+  - optional: true
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - soprano
+  - mezzo-soprano
+  - 2 tenors
+  - 2 basses
+  - 4 baritones
+  - male chorus (baritones)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/At_the_Boar%27s_Head%2C_Op.42_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, mezzo-soprano, 2 tenors, 2 basses, 4 baritones
+    + male chorus (baritones), Orchestra: piccolo, flute, oboe, English horn (ad lib.),
+    2 clarinets, 2 bassoons + 2 horns, 2 trumpets, tuba or euphonium (ad lib.) + timpani
+    + strings'

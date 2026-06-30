@@ -9,7 +9,9 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: violin | cello
+  solo_strings:
+    violin: 1
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Piano_Trio%2C_M.67_%28Ravel%2C_Maurice%29

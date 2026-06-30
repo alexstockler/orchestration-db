@@ -1,0 +1,18 @@
+id: gounod-all-ye-who-weep
+work:
+  composer: Gounod, Charles
+  title: All Ye WHo Weep
+  ids:
+    imslp: All Ye who weep, CG 189a (Gounod, Charles)
+  year: 1860
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - 6 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/All_Ye_who_weep%2C_CG_189a_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: 6 voices, piano'

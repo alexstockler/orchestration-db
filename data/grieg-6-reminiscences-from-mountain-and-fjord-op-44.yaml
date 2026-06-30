@@ -8,7 +8,8 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: voice
+  soloists:
+  - voice
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/6_Reminiscences_from_Mountain_and_Fjord%2C_Op.44_%28Grieg%2C_Edvard%29

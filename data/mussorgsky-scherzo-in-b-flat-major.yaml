@@ -1,0 +1,13 @@
+id: mussorgsky-scherzo-in-b-flat-major
+work:
+  composer: Mussorgsky, Modest
+  title: Scherzo in B-flat major
+  ids:
+    imslp: Scherzo in B-flat major (Mussorgsky, Modest)
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scherzo_in_B-flat_major_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

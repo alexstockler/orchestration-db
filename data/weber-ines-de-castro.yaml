@@ -1,0 +1,18 @@
+id: weber-ines-de-castro
+work:
+  composer: Weber, Carl Maria von
+  title: Ines de Castro
+  ids:
+    imslp: Ines de Castro, Op.53 (Weber, Carl Maria von)
+  year: 1812
+formula: ''
+instrumentation:
+  soloists:
+  - tenor solo
+  additional_raw: SATBB chorus and Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ines_de_Castro%2C_Op.53_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Tenor Solo, SATBB chorus and Orchestra'
+duration_minutes: 8

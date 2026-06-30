@@ -1,0 +1,18 @@
+id: faure-romance-in-a-major
+work:
+  composer: Fauré, Gabriel
+  title: Romance in A major
+  ids:
+    imslp: Romance, Op.69 (Fauré, Gabriel)
+  year: 1894
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romance%2C_Op.69_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, organ (or piano)'

@@ -68,9 +68,12 @@ instrumentation:
   - Women
   - Children
   - Retainers
+  solo_strings:
+    violin: 1
+    cello: 1
   additional_raw: 'bass tuba | (bass drum, snare drum, triangle, cymbals, castanets,
     tambourine, glockenspiel) | strings (16,16,12,10,8) Incidental music | percussion:
-    glockenspiel | violin | cello'
+    glockenspiel'
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Feuersnot%2C_Op.50_%28Strauss%2C_Richard%29

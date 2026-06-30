@@ -1,0 +1,18 @@
+id: gounod-boire-a-lombre
+work:
+  composer: Gounod, Charles
+  title: Boire à l’ombre
+  ids:
+    imslp: Boire à l'ombre, CG 353 (Gounod, Charles)
+  year: 1868
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Boire_%C3%A0_l%27ombre%2C_CG_353_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

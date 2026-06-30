@@ -1,0 +1,16 @@
+id: weber-6-variations-sur-un-theme-original
+work:
+  composer: Weber, Carl Maria von
+  title: 6 Variations sur un thème original
+  ids:
+    imslp: 6 Variations sur un thème original, Op.2 (Weber, Carl Maria von)
+  year: 1800
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Variations_sur_un_th%C3%A8me_original%2C_Op.2_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: piano (solo)'

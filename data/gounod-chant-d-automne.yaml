@@ -1,0 +1,18 @@
+id: gounod-chant-d-automne
+work:
+  composer: Gounod, Charles
+  title: Chant d'automne
+  ids:
+    imslp: Chant d'automne, CG 360 (Gounod, Charles)
+  year: 1850
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chant_d%27automne%2C_CG_360_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

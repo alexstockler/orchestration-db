@@ -1,0 +1,18 @@
+id: messiaen-3-melodies
+work:
+  composer: Messiaen, Olivier
+  title: 3 Mélodies
+  ids:
+    imslp: 3 Mélodies (Messiaen, Olivier)
+  year: 1930
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_M%C3%A9lodies_%28Messiaen%2C_Olivier%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, piano'

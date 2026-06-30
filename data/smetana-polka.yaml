@@ -1,0 +1,17 @@
+id: smetana-polka
+work:
+  composer: Smetana, Bedřich
+  title: Polka
+  ids:
+    imslp: Polka in E-flat major, JB 1:28 (Smetana, Bedřich)
+  year: 1846
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Polka_in_E-flat_major%2C_JB_1%3A28_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'
+duration_minutes: 4

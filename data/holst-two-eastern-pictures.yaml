@@ -1,0 +1,15 @@
+id: holst-two-eastern-pictures
+work:
+  composer: Holst, Gustav
+  title: Two Eastern Pictures
+  ids:
+    imslp: 2 Eastern Pictures (Holst, Gustav)
+  year: 1911
+formula: ''
+instrumentation:
+  additional_raw: female chorus and harp or piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Eastern_Pictures_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus and harp or piano'

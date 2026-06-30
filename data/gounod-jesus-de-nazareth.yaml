@@ -1,0 +1,19 @@
+id: gounod-jesus-de-nazareth
+work:
+  composer: Gounod, Charles
+  title: Jésus de Nazareth
+  ids:
+    imslp: Jésus de Nazareth, CG 395 (Gounod, Charles)
+  year: 1856
+formula: pf org
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: organ
+  soloists:
+  - baritone
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/J%C3%A9sus_de_Nazareth%2C_CG_395_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: baritone, piano, organ (ad lib.)'

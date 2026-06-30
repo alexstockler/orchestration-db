@@ -5,9 +5,11 @@ work:
   ids:
     imslp: Polonaise in D major, WWV 23 (Wagner, Richard)
   year: 1831
-formula: ''
+formula: pf pf
 instrumentation:
-  additional_raw: piano solo | piano 4 hands
+  keyboards:
+  - instrument: piano
+  - instrument: piano
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Polonaise_in_D_major%2C_WWV_23_%28Wagner%2C_Richard%29

@@ -1,0 +1,17 @@
+id: massenet-3-melodies-deux-duos-et-un-trio
+work:
+  composer: Massenet, Jules
+  title: 3 Mélodies, deux duos et un trio
+  ids:
+    imslp: 3 Mélodies, deux duos et un trio, Op.2 (Massenet, Jules)
+  year: 1868
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 1-3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_M%C3%A9lodies%2C_deux_duos_et_un_trio%2C_Op.2_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: 1-3 voices, piano'

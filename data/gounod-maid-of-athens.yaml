@@ -1,0 +1,18 @@
+id: gounod-maid-of-athens
+work:
+  composer: Gounod, Charles
+  title: Maid of Athens
+  ids:
+    imslp: Maid of Athens, CG 406 (Gounod, Charles)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Maid_of_Athens%2C_CG_406_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

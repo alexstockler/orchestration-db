@@ -1,0 +1,16 @@
+id: offenbach-un-mari-a-la-porte
+work:
+  composer: Offenbach, Jacques
+  title: Un mari à la porte
+  ids:
+    imslp: Un mari à la porte (Offenbach, Jacques)
+  year: 1859
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Un_mari_%C3%A0_la_porte_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

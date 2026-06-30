@@ -1,0 +1,16 @@
+id: nielsen-3-klaverstykker-op-59
+work:
+  composer: Nielsen, Carl
+  title: 3 Klaverstykker, Op.59
+  ids:
+    imslp: 3 Klaverstykker, Op.59 (Nielsen, Carl)
+  year: 1928
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Klaverstykker%2C_Op.59_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

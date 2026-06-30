@@ -1,0 +1,15 @@
+id: bach-french-suite-no-4-in-e-flat-major
+work:
+  composer: Bach, Johann Sebastian
+  title: French Suite No.4 in E-flat major
+  ids:
+    imslp: French Suite No.4 in E-flat major, BWV 815a (Bach, Johann Sebastian)
+  year: 1722
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/French_Suite_No.4_in_E-flat_major%2C_BWV_815a_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

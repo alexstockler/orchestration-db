@@ -1,0 +1,16 @@
+id: glazunov-sonatina-for-piano
+work:
+  composer: Glazunov, Aleksandr
+  title: Sonatina for Piano
+  ids:
+    imslp: Piano Sonatina (Glazunov, Aleksandr)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonatina_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 4

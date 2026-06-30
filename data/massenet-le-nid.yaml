@@ -1,0 +1,18 @@
+id: massenet-le-nid
+work:
+  composer: Massenet, Jules
+  title: Le nid
+  ids:
+    imslp: Le nid (Massenet, Jules)
+  year: 1898
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_nid_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

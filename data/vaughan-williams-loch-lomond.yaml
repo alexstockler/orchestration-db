@@ -1,0 +1,18 @@
+id: vaughan-williams-loch-lomond
+work:
+  composer: Vaughan Williams, Ralph
+  title: Loch Lomond
+  ids:
+    imslp: Loch Lomond (Vaughan Williams, Ralph)
+  year: 1921
+formula: ''
+instrumentation:
+  soloists:
+  - baritone
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Loch_Lomond_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: baritone, male chorus'
+duration_minutes: 3

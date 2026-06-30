@@ -1,0 +1,33 @@
+id: berlioz-intrata-di-rob-roy-macgregor
+work:
+  composer: Berlioz, Hector
+  title: Intrata di Rob-Roy MacGregor
+  ids:
+    imslp: Intrata di Rob-Roy MacGregor, H 54 (Berlioz, Hector)
+  year: 1831
+formula: 2[1.2/pic] 2[1.Eh] 2 2 4030 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trombone: 3
+  percussion:
+    timpani: 1
+  harp: 1
+  strings: str
+  additional_raw: valve trumpet | 2 natural trumpets
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Intrata_di_Rob-Roy_MacGregor%2C_H_54_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), oboe, English horn, 2 clarinets,
+    2 bassoons, 4 horns, valve trumpet, 2 natural trumpets, 3 trombones, timpani,
+    harp, strings'
+duration_minutes: 13

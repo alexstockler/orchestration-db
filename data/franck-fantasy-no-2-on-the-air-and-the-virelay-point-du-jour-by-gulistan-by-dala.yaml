@@ -1,0 +1,18 @@
+id: franck-fantasy-no-2-on-the-air-and-the-virelay-point-du-jour-by-gulistan-by-dala
+work:
+  composer: Franck, César
+  title: Fantasy No.2 on the Air and the Virelay "Point du jour" by 'Gulistan' by
+    Dalayrac
+  ids:
+    imslp: Fantasy No.2 on the Air and the Virelay 'Point du jour' by Dalayrac, Op.12
+      (Franck, César)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasy_No.2_on_the_Air_and_the_Virelay_%27Point_du_jour%27_by_Dalayrac%2C_Op.12_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

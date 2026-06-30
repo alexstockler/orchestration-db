@@ -8,7 +8,10 @@ work:
 formula: hp
 instrumentation:
   harp: 1
-  additional_raw: 2 violins | viola | cello
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Adagio_molto%2C_TH_158_%28Tchaikovsky%2C_Pyotr%29

@@ -1,0 +1,16 @@
+id: offenbach-la-chanson-de-fortunio
+work:
+  composer: Offenbach, Jacques
+  title: La chanson de Fortunio
+  ids:
+    imslp: La chanson de Fortunio (Offenbach, Jacques)
+  year: 1861
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_chanson_de_Fortunio_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

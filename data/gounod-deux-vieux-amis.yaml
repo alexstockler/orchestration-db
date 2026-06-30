@@ -1,0 +1,18 @@
+id: gounod-deux-vieux-amis
+work:
+  composer: Gounod, Charles
+  title: Deux vieux amis
+  ids:
+    imslp: Deux vieux amis, CG 374 (Gounod, Charles)
+  year: 1856
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Deux_vieux_amis%2C_CG_374_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices (tenor and baritone), piano'

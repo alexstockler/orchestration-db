@@ -1,0 +1,18 @@
+id: glazunov-string-quintet
+work:
+  composer: Glazunov, Aleksandr
+  title: String Quintet
+  ids:
+    imslp: String Quintet, Op.39 (Glazunov, Aleksandr)
+  year: 1892
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quintet%2C_Op.39_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, 2 cellos'

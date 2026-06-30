@@ -1,0 +1,15 @@
+id: bach-ach-was-soll-ich-sunder-machen
+work:
+  composer: Bach, Johann Sebastian
+  title: Ach, was soll ich Sünder machen
+  ids:
+    imslp: Ach, was soll ich Sünder machen, BWV 259 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach%2C_was_soll_ich_S%C3%BCnder_machen%2C_BWV_259_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

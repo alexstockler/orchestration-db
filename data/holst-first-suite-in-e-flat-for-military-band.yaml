@@ -1,0 +1,60 @@
+id: holst-first-suite-in-e-flat-for-military-band
+work:
+  composer: Holst, Gustav
+  title: First Suite in E-flat for Military Band
+  ids:
+    imslp: First Suite for Military Band, Op.28 No.1 (Holst, Gustav)
+  year: 1909
+formula: 2[pic.2] 2 5[1.2.3.bcl.cbcl] 2 4 4[cnt.cnt.3.4] 3 2[euph.2] tmp
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 2
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  - instrument: contrabass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  trombone: 3
+  tuba:
+  - instrument: euphonium
+  - {}
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drum
+    - bass drum
+    - cymbals
+    - triangle
+    - tambourine
+  saxophones:
+  - instrument: alto_sax
+    count: 1
+  - instrument: tenor_sax
+    count: 1
+  - instrument: baritone_sax
+    count: 1
+  - instrument: bass_sax
+    count: 1
+  solo_strings:
+    double_bass: 1
+  additional_raw: 2 E clarinets
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/First_Suite_for_Military_Band%2C_Op.28_No.1_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, flute, 2 oboes, 2 E clarinets, 3 clarinets, bass
+    clarinet, contrabass clarinet, 2 bassoons, alto saxophone, tenor saxophone, baritone
+    saxophone, bass saxophone, 4 horns, 2 cornets, 2 trumpets, 3 trombones, euphonium,
+    tuba(s), timpani, snare drum, bass drum, cymbals, triangle, tambourine, double
+    bass'
+duration_minutes: 12

@@ -1,0 +1,18 @@
+id: gounod-miserere-pour-4-voix-soli-et-churs
+work:
+  composer: Gounod, Charles
+  title: Miserere pour 4 voix soli et chœurs
+  ids:
+    imslp: Miserere, CG 144 (Gounod, Charles)
+  year: 1880
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: chorus
+  additional_raw: 4 solo voices (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Miserere%2C_CG_144_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 solo voices (SATB), chorus, organ'

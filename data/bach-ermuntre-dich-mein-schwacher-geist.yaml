@@ -1,0 +1,17 @@
+id: bach-ermuntre-dich-mein-schwacher-geist
+work:
+  composer: Bach, Johann Sebastian
+  title: Ermuntre dich, mein schwacher Geist
+  ids:
+    imslp: Ermuntre dich, mein schwacher Geist, BWV 454 (Bach, Johann Sebastian)
+  year: 1735
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ermuntre_dich%2C_mein_schwacher_Geist%2C_BWV_454_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

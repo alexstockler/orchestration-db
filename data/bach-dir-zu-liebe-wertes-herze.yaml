@@ -1,0 +1,15 @@
+id: bach-dir-zu-liebe-wertes-herze
+work:
+  composer: Bach, Johann Sebastian
+  title: Dir zu Liebe, wertes Herze
+  ids:
+    imslp: Dir zu Liebe, wertes Herze, BWV Anh.41 (Bach, Johann Sebastian)
+  year: 1736
+formula: ''
+instrumentation:
+  additional_raw: Clavier (and Voice?)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dir_zu_Liebe%2C_wertes_Herze%2C_BWV_Anh.41_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Clavier (and Voice?)'

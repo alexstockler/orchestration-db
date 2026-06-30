@@ -1,0 +1,15 @@
+id: nielsen-hil-dig-vor-fane
+work:
+  composer: Nielsen, Carl
+  title: Hil dig vor Fane!
+  ids:
+    imslp: Hil dig vor Fane!, CNW 363 (Nielsen, Carl)
+  year: 1915
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hil_dig_vor_Fane%21%2C_CNW_363_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

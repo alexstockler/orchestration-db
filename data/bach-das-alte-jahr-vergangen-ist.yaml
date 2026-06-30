@@ -1,0 +1,15 @@
+id: bach-das-alte-jahr-vergangen-ist
+work:
+  composer: Bach, Johann Sebastian
+  title: Das alte Jahr vergangen ist
+  ids:
+    imslp: Das alte Jahr vergangen ist, BWV 289 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_alte_Jahr_vergangen_ist%2C_BWV_289_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

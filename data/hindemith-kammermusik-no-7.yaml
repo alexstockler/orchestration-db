@@ -1,0 +1,36 @@
+id: hindemith-kammermusik-no-7
+work:
+  composer: Hindemith, Paul
+  title: Kammermusik No.7
+  ids:
+    imslp: Kammermusik No.7, Op.46 No.2 (Hindemith, Paul)
+  year: 1927
+formula: 2[pic.2] 1 2[1.bcl] 3[1.2.cbn] 1110
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 1
+  clarinet:
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 1
+  trumpet: 1
+  trombone: 1
+  soloists:
+  - organ
+  solo_strings:
+    cello: 1
+  additional_raw: basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kammermusik_No.7%2C_Op.46_No.2_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: organ, Orchestra: piccolo, flute, oboe, clarinet
+    (B), bass clarinet (B), 2 bassoons, contrabassoon, horn (F), trumpet (B), trombone,
+    cellos, basses'
+duration_minutes: 17

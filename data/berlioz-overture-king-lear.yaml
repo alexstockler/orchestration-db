@@ -1,0 +1,30 @@
+id: berlioz-overture-king-lear
+work:
+  composer: Berlioz, Hector
+  title: Overture 'King Lear'
+  ids:
+    imslp: Overture 'King Lear', H 53 (Berlioz, Hector)
+  year: 1831
+formula: 2[1.2/pic] 2 2 2 4230 tmp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: ophecleide (tuba)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Overture_%27King_Lear%27%2C_H_53_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes, 2 clarinets, 2 bassoons,
+    4 horns, 2 trumpets, 3 trombones, ophecleide (tuba), timpani, strings'
+duration_minutes: 15

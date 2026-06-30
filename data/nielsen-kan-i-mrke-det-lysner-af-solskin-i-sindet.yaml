@@ -1,0 +1,17 @@
+id: nielsen-kan-i-mrke-det-lysner-af-solskin-i-sindet
+work:
+  composer: Nielsen, Carl
+  title: Kan I mærke, det lysner af solskin i sindet
+  ids:
+    imslp: Kan I mærke, det lysner af solskin i sindet, CNW 320 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kan_I_m%C3%A6rke%2C_det_lysner_af_solskin_i_sindet%2C_CNW_320_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

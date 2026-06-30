@@ -1,0 +1,17 @@
+id: offenbach-fantaisie-sur-richard-coeur-du-lion
+work:
+  composer: Offenbach, Jacques
+  title: Fantaisie sur Richard coeur-du-lion
+  ids:
+    imslp: Fantaisie sur Richard coeur-du-lion, Op.69 (Offenbach, Jacques)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantaisie_sur_Richard_coeur-du-lion%2C_Op.69_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'

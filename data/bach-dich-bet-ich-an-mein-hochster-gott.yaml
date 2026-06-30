@@ -1,0 +1,17 @@
+id: bach-dich-bet-ich-an-mein-hochster-gott
+work:
+  composer: Bach, Johann Sebastian
+  title: Dich bet ich an, mein höchster Gott
+  ids:
+    imslp: Dich bet ich an, mein höchster Gott, BWV 449 (Bach, Johann Sebastian)
+  year: 1735
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dich_bet_ich_an%2C_mein_h%C3%B6chster_Gott%2C_BWV_449_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

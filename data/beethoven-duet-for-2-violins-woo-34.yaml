@@ -7,7 +7,8 @@ work:
   year: 1822
 formula: ''
 instrumentation:
-  additional_raw: 2 violins
+  solo_strings:
+    violin: 2
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Duet_for_2_Violins%2C_WoO_34_%28Beethoven%2C_Ludwig_van%29

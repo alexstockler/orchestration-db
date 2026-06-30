@@ -7,7 +7,9 @@ work:
   year: 1720
 formula: ''
 instrumentation:
-  additional_raw: cello | continuo
+  solo_strings:
+    cello: 1
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Cello_Sonata_in_E_minor%2C_RV_40_%28Vivaldi%2C_Antonio%29

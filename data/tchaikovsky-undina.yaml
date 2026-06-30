@@ -5,9 +5,12 @@ work:
   ids:
     imslp: Undina, TH 2 (Tchaikovsky, Pyotr)
   year: 1869
-formula: 2222 4331 tmp pf hp str
+formula: 3[pic.2.3] 2 2 2 4331 tmp pf hp str
 instrumentation:
-  flute: 2
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
   oboe: 2
   clarinet: 2
   bassoon: 2
@@ -25,9 +28,13 @@ instrumentation:
   - instrument: piano
   harp: 1
   strings: str
-  additional_raw: Roles ::Undina (Ундина) (soprano) | Huldbrandt (Гульбранд) (tenor)
-    | Goldmann (Гольдман) (bass) | Berthe (Берта) (mezzo-soprano) | Berthalda (Бертальда)
-    (mezzo-soprano) | Duke (Герцог) (bass) :Mixed chorus (SATB) :Orchestra ::piccolo
+  soloists:
+  - Roles ::Undina (Ундина) (soprano)
+  - Huldbrandt (Гульбранд) (tenor)
+  - Goldmann (Гольдман) (bass)
+  - Berthe (Берта) (mezzo-soprano)
+  - Berthalda (Бертальда) (mezzo-soprano)
+  - 'Duke (Герцог) (bass) :Mixed chorus (SATB) :'
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Undina%2C_TH_2_%28Tchaikovsky%2C_Pyotr%29

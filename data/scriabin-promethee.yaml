@@ -1,0 +1,58 @@
+id: scriabin-promethee
+work:
+  composer: Scriabin, Aleksandr
+  title: Prométhée
+  ids:
+    imslp: Prometheus, Le Poème du Feu, Op.60 (Scriabin, Aleksandr)
+  year: 1910
+formula: 4[pic.2.3.4] 4[1.2.3.Eh] 4[1.2.3.bcl] 4[1.2.3.cbn] 8531 tmp pf org cel 2hp
+  str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 8
+  trumpet: 5
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - tam-tam
+    - triangle
+    - drum
+    - glockenspiel
+    - tubular bells
+  keyboards:
+  - instrument: piano
+  - instrument: organ
+  - instrument: celesta
+  harp: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prometheus%2C_Le_Po%C3%A8me_du_Feu%2C_Op.60_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 3 flutes, 3 oboes, English horn, 3 clarinets,,
+    bass clarinet, 3 bassoons, contrabassoon, 8 horns, 5 trumpets, 3 trombones, tuba,
+    timpani, cymbals, tam-tam, triangle, drum,, glockenspiel, tubular bells, piano,
+    organ, celesta, 2 harps, strings'
+duration_minutes: 25

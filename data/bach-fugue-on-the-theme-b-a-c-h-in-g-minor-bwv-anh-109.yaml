@@ -1,0 +1,15 @@
+id: bach-fugue-on-the-theme-b-a-c-h-in-g-minor-bwv-anh-109
+work:
+  composer: Bach, Johann Sebastian
+  title: Fugue (on the theme 'B-A-C-H') in G minor , BWV Anh.109
+  ids:
+    imslp: Fugue (on the theme 'B-A-C-H') in G minor, BWV Anh.109 (Bach, Johann Sebastian)
+formula: ''
+instrumentation:
+  additional_raw: Keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_%28on_the_theme_%27B-A-C-H%27%29_in_G_minor%2C_BWV_Anh.109_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Keyboard'
+duration_minutes: 2

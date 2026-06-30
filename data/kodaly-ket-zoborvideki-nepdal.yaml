@@ -1,0 +1,19 @@
+id: kodaly-ket-zoborvideki-nepdal
+work:
+  composer: Kodály, Zoltán
+  title: Két zoborvidéki népdal
+  ids:
+    imslp: 2 Zoborvidéki népdal (Kodály, Zoltán)
+  year: 1932
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - altos
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Zoborvid%C3%A9ki_n%C3%A9pdal_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 sopranos, 3 altos, chorus (SA)'
+duration_minutes: 3

@@ -1,0 +1,17 @@
+id: nielsen-luk-jne-op-al-kristenhed
+work:
+  composer: Nielsen, Carl
+  title: Luk Øjne op, al Kristenhed
+  ids:
+    imslp: Luk Øjne op, al Kristenhed, CNW 182 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Luk_%C3%98jne_op%2C_al_Kristenhed%2C_CNW_182_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

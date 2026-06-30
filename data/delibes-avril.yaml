@@ -1,0 +1,15 @@
+id: delibes-avril
+work:
+  composer: Delibes, Léo
+  title: Avril
+  ids:
+    imslp: Avril (Delibes, Léo)
+  year: 1866
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Avril_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

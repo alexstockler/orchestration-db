@@ -1,0 +1,16 @@
+id: faure-nocturne-no-4
+work:
+  composer: Fauré, Gabriel
+  title: Nocturne No.4
+  ids:
+    imslp: Nocturne No.4, Op.36 (Fauré, Gabriel)
+  year: 1884
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nocturne_No.4%2C_Op.36_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

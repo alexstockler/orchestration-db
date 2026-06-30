@@ -1,0 +1,17 @@
+id: nielsen-vor-herre-han-er-en-konge-stor
+work:
+  composer: Nielsen, Carl
+  title: Vor Herre, han er en konge stor
+  ids:
+    imslp: Vor Herre, han er en konge stor (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vor_Herre%2C_han_er_en_konge_stor_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

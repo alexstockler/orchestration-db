@@ -1,0 +1,27 @@
+id: nielsen-der-er-et-yndigt-land
+work:
+  composer: Nielsen, Carl
+  title: Der er et yndigt Land
+  ids:
+    imslp: Der er et yndigt Land, CNW 351 (Nielsen, Carl)
+  year: 1923
+formula: 0000 0231 pf
+instrumentation:
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+  chorus_raw: male chorus
+  additional_raw: female or childrens chorus (SSAA) (G major) | childrens chorus (SSA)
+    | voice and orchestra (E major) | mixed chorus (SATTB) and orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_er_et_yndigt_Land%2C_CNW_351_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano, female or childrens chorus (SSAA) (G major),
+    mixed chorus (SATTB) (E major), mixed chorus (SATB) (F major), male chorus (TTBB)
+    (G major), childrens chorus (SSA), voice and orchestra (E major), 2 trumpets (F),
+    3 trombones, tuba (E major), mixed chorus (SATTB) and orchestra'

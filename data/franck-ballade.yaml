@@ -1,0 +1,16 @@
+id: franck-ballade
+work:
+  composer: Franck, César
+  title: Ballade
+  ids:
+    imslp: Ballade, Op.9 (Franck, César)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ballade%2C_Op.9_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,18 @@
+id: berlioz-serenade-agreste-a-la-madone-sur-la-theme-des-pifferari-romains
+work:
+  composer: Berlioz, Hector
+  title: Sérénade agreste à la madone sur la thème des pifferari romains
+  ids:
+    imslp: Sérénade agreste à la madone sur le thème des pifferari romains, H 98 (Berlioz,
+      Hector)
+  year: 1844
+formula: harm
+instrumentation:
+  keyboards:
+  - instrument: harmonium
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/S%C3%A9r%C3%A9nade_agreste_%C3%A0_la_madone_sur_le_th%C3%A8me_des_pifferari_romains%2C_H_98_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: Harmonium'
+duration_minutes: 3

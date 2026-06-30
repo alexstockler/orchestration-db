@@ -1,0 +1,16 @@
+id: bach-cello-suite-no-5
+work:
+  composer: Bach, Johann Sebastian
+  title: Cello Suite No.5
+  ids:
+    imslp: Cello Suite No.5 in C minor, BWV 1011 (Bach, Johann Sebastian)
+  year: 1717
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Suite_No.5_in_C_minor%2C_BWV_1011_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: cello'

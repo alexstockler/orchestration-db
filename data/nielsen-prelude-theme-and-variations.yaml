@@ -1,0 +1,17 @@
+id: nielsen-prelude-theme-and-variations
+work:
+  composer: Nielsen, Carl
+  title: Prelude, Theme and Variations
+  ids:
+    imslp: Prelude, Theme and Variations, Op.48 (Nielsen, Carl)
+  year: 1922
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude%2C_Theme_and_Variations%2C_Op.48_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: violin'
+duration_minutes: 20

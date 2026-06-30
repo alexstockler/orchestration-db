@@ -1,0 +1,17 @@
+id: weber-oboe-concertino-in-c-major
+work:
+  composer: Weber, Carl Maria von
+  title: Oboe Concertino in C major
+  ids:
+    imslp: Concertino in C major (Weber, Carl Maria von)
+  year: 1809
+formula: ''
+instrumentation:
+  additional_raw: Oboe and Wind Ensemble (flute, 4 clarinets, 2 bassoons, 2 horns,
+    trumpet, trombone, double bass)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concertino_in_C_major_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Oboe and Wind Ensemble (flute, 4 clarinets, 2 bassoons,
+    2 horns, trumpet, trombone, double bass)'

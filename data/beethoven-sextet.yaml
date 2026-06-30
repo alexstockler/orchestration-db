@@ -8,7 +8,10 @@ work:
 formula: 0000 2000
 instrumentation:
   horn: 2
-  additional_raw: 2 violins | viola | cello
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Sextet_in_E-flat_major%2C_Op.81b_%28Beethoven%2C_Ludwig_van%29

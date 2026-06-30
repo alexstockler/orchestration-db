@@ -1,0 +1,19 @@
+id: mussorgsky-kalistrat
+work:
+  composer: Mussorgsky, Modest
+  title: Kalistrat
+  ids:
+    imslp: Kalistrat (Mussorgsky, Modest)
+  year: 1864
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kalistrat_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'
+duration_minutes: 5

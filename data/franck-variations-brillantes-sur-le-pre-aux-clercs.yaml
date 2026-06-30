@@ -1,0 +1,16 @@
+id: franck-variations-brillantes-sur-le-pre-aux-clercs
+work:
+  composer: Franck, César
+  title: Variations brillantes sur 'Le pré aux clercs'
+  ids:
+    imslp: Variations brillantes sur 'Le pré aux clercs', CFF 132 (Franck, César)
+  year: 1834
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variations_brillantes_sur_%27Le_pr%C3%A9_aux_clercs%27%2C_CFF_132_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: piano, orchestra'

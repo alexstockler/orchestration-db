@@ -1,0 +1,15 @@
+id: respighi-stornello-dall-opera-re-enzo
+work:
+  composer: Respighi, Ottorino
+  title: Stornello dall'opera Re Enzo
+  ids:
+    imslp: Stornello dall'opera Re Enzo (Respighi, Ottorino)
+  year: 1906
+formula: ''
+instrumentation:
+  additional_raw: 2 Voices (2nd ad lib.) and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Stornello_dall%27opera_Re_Enzo_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Voices (2nd ad lib.) and piano'

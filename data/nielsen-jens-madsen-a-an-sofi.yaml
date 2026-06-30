@@ -1,0 +1,17 @@
+id: nielsen-jens-madsen-a-an-sofi
+work:
+  composer: Nielsen, Carl
+  title: Jens Madsen å An-Sofi
+  ids:
+    imslp: Jens Madsen å An-Sofi, CNW 272 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jens_Madsen_%C3%A5_An-Sofi%2C_CNW_272_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,18 @@
+id: massenet-stances
+work:
+  composer: Massenet, Jules
+  title: Stances
+  ids:
+    imslp: Stances (Massenet, Jules)
+  year: 1869
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Stances_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

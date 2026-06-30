@@ -1,0 +1,17 @@
+id: berlioz-pleure-pauvre-colette
+work:
+  composer: Berlioz, Hector
+  title: Pleure, pauvre Colette
+  ids:
+    imslp: Pleure, pauvre Colette, H 11 (Berlioz, Hector)
+  year: 1822
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 2 equal voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pleure%2C_pauvre_Colette%2C_H_11_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 equal voices, piano'

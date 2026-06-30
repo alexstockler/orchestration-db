@@ -1,0 +1,18 @@
+id: nielsen-angst-cnw-283
+work:
+  composer: Nielsen, Carl
+  title: Angst, CNW 283
+  ids:
+    imslp: Angst, CNW 283 (Nielsen, Carl)
+  year: 1888
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Angst%2C_CNW_283_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

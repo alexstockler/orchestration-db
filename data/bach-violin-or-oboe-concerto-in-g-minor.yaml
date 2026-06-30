@@ -1,0 +1,18 @@
+id: bach-violin-or-oboe-concerto-in-g-minor
+work:
+  composer: Bach, Johann Sebastian
+  title: Violin (or Oboe?) Concerto in G minor
+  ids:
+    imslp: Concerto in G minor, BWV 1056R (Bach, Johann Sebastian)
+  year: 1730
+formula: str
+instrumentation:
+  strings: str
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_in_G_minor%2C_BWV_1056R_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: violin (or oboe?), strings, continuo'

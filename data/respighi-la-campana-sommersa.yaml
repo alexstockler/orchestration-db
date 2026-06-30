@@ -1,0 +1,18 @@
+id: respighi-la-campana-sommersa
+work:
+  composer: Respighi, Ottorino
+  title: La campana sommersa
+  ids:
+    imslp: La campana sommersa (Respighi, Ottorino)
+  year: 1927
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_campana_sommersa_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'
+duration_minutes: 30

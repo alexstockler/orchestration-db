@@ -1,0 +1,20 @@
+id: berlioz-zaide-bolero
+work:
+  composer: Berlioz, Hector
+  title: 'Zaïde: boléro'
+  ids:
+    imslp: Zaïde, H 107 (Berlioz, Hector)
+  year: 1845
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  additional_raw: 'B: soprano'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Za%C3%AFde%2C_H_107_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: A: soprano, piano, B: soprano, orchestra (flute, 2 oboes,
+    2 clarinets, 2 bassoons, 4 horns, timpani, castanets, strings)'

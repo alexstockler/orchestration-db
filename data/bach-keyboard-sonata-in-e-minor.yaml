@@ -1,0 +1,16 @@
+id: bach-keyboard-sonata-in-e-minor
+work:
+  composer: Bach, Johann Sebastian
+  title: Keyboard Sonata in E minor
+  ids:
+    imslp: Aus der Tiefe rufe ich, BWV 745 (Bach, Johann Sebastian)
+  year: 1751
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aus_der_Tiefe_rufe_ich%2C_BWV_745_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'
+duration_minutes: 20

@@ -1,0 +1,20 @@
+id: bach-gott-fahret-auf-mit-jauchzen
+work:
+  composer: Bach, Johann Sebastian
+  title: Gott fähret auf mit Jauchzen
+  ids:
+    imslp: Gott fähret auf mit Jauchzen, BWV 43 (Bach, Johann Sebastian)
+  year: 1726
+formula: 0200 0300 tmp str
+instrumentation:
+  oboe: 2
+  trumpet: 3
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_f%C3%A4hret_auf_mit_Jauchzen%2C_BWV_43_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 3 trumpets, timpani, strings, continuo'

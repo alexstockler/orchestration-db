@@ -1,0 +1,21 @@
+id: hindemith-pittsburgh-symphony
+work:
+  composer: Hindemith, Paul
+  title: Pittsburgh Symphony
+  ids:
+    imslp: Pittsburgh Symphony (Hindemith, Paul)
+  year: 1958
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: triangle, castanets, woodblock, tom-tom,, 2 snare drums, small cymbal,
+    cymbal, bass drum)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pittsburgh_Symphony_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes, English horn,, 2
+    clarinets (B), bass clarinet (B), 2 bassoons, contrabassoon +, 4 horns (F), 2
+    trumpets (B), 3 trombones, tuba + timpani,, percussion (4 players: triangle, castanets,
+    woodblock, tom-tom,, 2 snare drums, small cymbal, cymbal, bass drum) + strings'
+duration_minutes: 26

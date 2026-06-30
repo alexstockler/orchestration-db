@@ -1,0 +1,18 @@
+id: puccini-salve-regina
+work:
+  composer: Puccini, Giacomo
+  title: Salve Regina
+  ids:
+    imslp: Salve Regina, SC 39 (Puccini, Giacomo)
+  year: 1883
+formula: harm
+instrumentation:
+  keyboards:
+  - instrument: harmonium
+  soloists:
+  - soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Salve_Regina%2C_SC_39_%28Puccini%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, harmonium'

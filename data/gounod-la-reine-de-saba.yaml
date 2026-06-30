@@ -1,0 +1,17 @@
+id: gounod-la-reine-de-saba
+work:
+  composer: Gounod, Charles
+  title: La reine de Saba
+  ids:
+    imslp: La reine de Saba, CG 7 (Gounod, Charles)
+  year: 1862
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_reine_de_Saba%2C_CG_7_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

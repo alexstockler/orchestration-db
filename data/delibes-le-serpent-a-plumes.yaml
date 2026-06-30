@@ -1,0 +1,14 @@
+id: delibes-le-serpent-a-plumes
+work:
+  composer: Delibes, Léo
+  title: Le serpent à plumes
+  ids:
+    imslp: Le serpent à plumes (Delibes, Léo)
+formula: ''
+instrumentation:
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_serpent_%C3%A0_plumes_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, orchestra'

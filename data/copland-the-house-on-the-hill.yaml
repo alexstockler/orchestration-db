@@ -1,0 +1,16 @@
+id: copland-the-house-on-the-hill
+work:
+  composer: Copland, Aaron
+  title: The House on the Hill
+  ids:
+    imslp: The House on the Hill (Copland, Aaron)
+  year: 1925
+formula: ''
+instrumentation:
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_House_on_the_Hill_%28Copland%2C_Aaron%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SSAA)'
+duration_minutes: 5

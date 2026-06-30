@@ -1,0 +1,19 @@
+id: gounod-barcarola
+work:
+  composer: Gounod, Charles
+  title: Barcarola
+  ids:
+    imslp: Barcarola, CG 336 (Gounod, Charles)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - baritone
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Barcarola%2C_CG_336_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, baritone, piano'

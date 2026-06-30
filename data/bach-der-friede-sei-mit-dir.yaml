@@ -1,0 +1,23 @@
+id: bach-der-friede-sei-mit-dir
+work:
+  composer: Bach, Johann Sebastian
+  title: Der Friede sei mit dir
+  ids:
+    imslp: Der Friede sei mit dir, BWV 158 (Bach, Johann Sebastian)
+  year: 1713
+formula: 0100 0000
+instrumentation:
+  oboe: 1
+  soloists:
+  - soprano
+  - bass
+  chorus_raw: mixed chorus
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Friede_sei_mit_dir%2C_BWV_158_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, bass, mixed chorus (SATB), oboe, violin, continuo'
+duration_minutes: 14

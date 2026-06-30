@@ -1,0 +1,18 @@
+id: kodaly-cello-sonatina
+work:
+  composer: Kodály, Zoltán
+  title: Cello Sonatina
+  ids:
+    imslp: Cello Sonatina (Kodály, Zoltán)
+  year: 1909
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Sonatina_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'

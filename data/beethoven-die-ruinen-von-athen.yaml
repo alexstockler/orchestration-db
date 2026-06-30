@@ -5,9 +5,12 @@ work:
   ids:
     imslp: Die Ruinen von Athen, Op.113 (Beethoven, Ludwig van)
   year: 1811
-formula: 2 2 2 3[1.2.cbn] 4230 tmp str
+formula: 3[pic.2.3] 2 2 3[1.2.cbn] 4230 tmp str
 instrumentation:
-  flute: 2
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
   oboe: 2
   clarinet: 2
   bassoon:
@@ -24,9 +27,14 @@ instrumentation:
     - cymbals
     - bass drum
   strings: str
-  additional_raw: Minerva (spoken) | Merkur (spoken) | Ein Grechin (soprano) | Ein
-    Greche (bass) | Das Mädchen (spoken) | Ein Turke (spoken) | Oberpriester (bass)
-    Mixed Chorus (SATB) | Orchestra :piccolo
+  soloists:
+  - Minerva (spoken)
+  - Merkur (spoken)
+  - Ein Grechin (soprano)
+  - Ein Greche (bass)
+  - Das Mädchen (spoken)
+  - Ein Turke (spoken)
+  - Oberpriester (bass) Mixed Chorus (SATB)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Die_Ruinen_von_Athen%2C_Op.113_%28Beethoven%2C_Ludwig_van%29

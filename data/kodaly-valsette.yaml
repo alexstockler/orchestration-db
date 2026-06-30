@@ -1,0 +1,16 @@
+id: kodaly-valsette
+work:
+  composer: Kodály, Zoltán
+  title: Valsette
+  ids:
+    imslp: Valsette (Kodály, Zoltán)
+  year: 1907
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Valsette_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

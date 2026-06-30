@@ -1,0 +1,15 @@
+id: bach-frohes-volk-vergnugte-sachsen
+work:
+  composer: Bach, Johann Sebastian
+  title: Frohes Volk, vergnügte Sachsen
+  ids:
+    imslp: Frohes Volk, vergnügte Sachsen, BWV Anh.12 (Bach, Johann Sebastian)
+  year: 1733
+formula: ''
+instrumentation:
+  additional_raw: unknown
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Frohes_Volk%2C_vergn%C3%BCgte_Sachsen%2C_BWV_Anh.12_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: unknown'

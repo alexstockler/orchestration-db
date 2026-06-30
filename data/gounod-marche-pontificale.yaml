@@ -1,0 +1,14 @@
+id: gounod-marche-pontificale
+work:
+  composer: Gounod, Charles
+  title: Marche pontificale
+  ids:
+    imslp: Marche pontificale, CG 523 (Gounod, Charles)
+  year: 1869
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marche_pontificale%2C_CG_523_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

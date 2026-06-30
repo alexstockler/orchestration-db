@@ -1,12 +1,12 @@
 id: elgar-enigma-variations
 work:
-  composer: "Elgar, Edward"
-  title: "Variations on an Original Theme (Enigma)"
-  catalog: "Op. 36"
+  composer: Elgar, Edward
+  title: Variations on an Original Theme (Enigma)
+  catalog: Op. 36
   year: 1899
   ids:
-    imslp: "Variations on an Original Theme 'Enigma', Op.36 (Elgar, Edward)"
-formula: "2[1.2/pic] 2 2 3[1.2.cbn] 4331 tmp+2 org str"
+    imslp: Variations on an Original Theme 'Enigma', Op.36 (Elgar, Edward)
+formula: 2[1.2/pic] 2 2 3[1.2.cbn] 4331 tmp str
 duration_minutes: 30
 instrumentation:
   flute:
@@ -25,18 +25,13 @@ instrumentation:
   tuba: 1
   percussion:
     timpani: 1
-    players: 2
-    instruments:
-    - snare drum
-    - triangle
-    - bass drum
-    - cymbals
-  keyboards:
-  - instrument: organ
   strings: str
-  additional_raw: "Organ ad lib (Finale only)"
+  additional_raw: 2 percussionists (snare drum, triangle, bass drum, cymbals) | organ
+    (ad lib, Finale only)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Variations_on_an_Original_Theme_%27Enigma%27,_Op.36_(Elgar,_Edward)
   confidence: single_source
-  notes: "Instrumentation: 2 flutes (2nd also piccolo), 2 oboes, 2 clarinets, 2 bassoons + contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, timpani + 2 percussionists (snare drum, triangle, bass drum, cymbals), organ (ad lib, Finale only), strings"
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes, 2 clarinets, 2 bassoons
+    + contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, timpani + 2 percussionists
+    (snare drum, triangle, bass drum, cymbals), organ (ad lib, Finale only), strings'

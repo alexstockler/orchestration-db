@@ -1,0 +1,18 @@
+id: gounod-the-worker
+work:
+  composer: Gounod, Charles
+  title: The Worker
+  ids:
+    imslp: The Worker, CG 460 (Gounod, Charles)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Worker%2C_CG_460_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

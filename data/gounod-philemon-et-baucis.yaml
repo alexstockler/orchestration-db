@@ -1,0 +1,17 @@
+id: gounod-philemon-et-baucis
+work:
+  composer: Gounod, Charles
+  title: Philémon et Baucis
+  ids:
+    imslp: Philémon et Baucis, CG 5 (Gounod, Charles)
+  year: 1859
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Phil%C3%A9mon_et_Baucis%2C_CG_5_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

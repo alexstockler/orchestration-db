@@ -1,0 +1,19 @@
+id: hindemith-concerto-for-trumpet-bassoon-and-strings
+work:
+  composer: Hindemith, Paul
+  title: Concerto for Trumpet, Bassoon, and Strings
+  ids:
+    imslp: Concerto for Trumpet, Bassoon and Strings (Hindemith, Paul)
+  year: 1949
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - bassoon
+  - trumpet (B)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_Trumpet%2C_Bassoon_and_Strings_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: bassoon, trumpet (B), Orchestra: strings'
+duration_minutes: 17

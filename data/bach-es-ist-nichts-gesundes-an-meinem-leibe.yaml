@@ -1,0 +1,19 @@
+id: bach-es-ist-nichts-gesundes-an-meinem-leibe
+work:
+  composer: Bach, Johann Sebastian
+  title: Es ist nichts Gesundes an meinem Leibe
+  ids:
+    imslp: Es ist nichts Gesundes an meinem Leibe, BWV 25 (Bach, Johann Sebastian)
+  year: 1723
+formula: 0200 0030 str
+instrumentation:
+  oboe: 2
+  trombone: 3
+  strings: str
+  additional_raw: 3 recorders | cornetto | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_ist_nichts_Gesundes_an_meinem_Leibe%2C_BWV_25_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 recorders, 2 oboes, cornetto, 3 trombones, strings, continuo'
+duration_minutes: 16

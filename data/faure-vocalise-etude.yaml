@@ -1,0 +1,18 @@
+id: faure-vocalise-etude
+work:
+  composer: Fauré, Gabriel
+  title: Vocalise-étude
+  ids:
+    imslp: Vocalise-étude (Fauré, Gabriel)
+  year: 1906
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vocalise-%C3%A9tude_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,17 @@
+id: smetana-piano-sonata
+work:
+  composer: Smetana, Bedřich
+  title: Piano Sonata
+  ids:
+    imslp: Piano Sonata in G minor, JB 3:24 (Smetana, Bedřich)
+  year: 1846
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_in_G_minor%2C_JB_3%3A24_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'
+duration_minutes: 27

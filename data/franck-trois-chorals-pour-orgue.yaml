@@ -1,0 +1,16 @@
+id: franck-trois-chorals-pour-orgue
+work:
+  composer: Franck, César
+  title: Trois chorals pour orgue
+  ids:
+    imslp: 3 Chorals for Organ (Franck, César)
+  year: 1890
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Chorals_for_Organ_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

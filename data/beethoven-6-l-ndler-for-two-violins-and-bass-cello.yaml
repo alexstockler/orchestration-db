@@ -7,7 +7,9 @@ work:
   year: 1802
 formula: ''
 instrumentation:
-  additional_raw: 2 violins | cello
+  solo_strings:
+    violin: 2
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/6_L%C3%A4ndler%2C_WoO_15_%28Beethoven%2C_Ludwig_van%29

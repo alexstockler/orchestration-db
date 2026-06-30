@@ -1,0 +1,19 @@
+id: vaughan-williams-2-pieces-for-violin-and-pianoforte
+work:
+  composer: Vaughan Williams, Ralph
+  title: 2 Pieces for Violin and Pianoforte
+  ids:
+    imslp: 2 Pieces for Violin and Pianoforte (Vaughan Williams, Ralph)
+  year: 1912
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Pieces_for_Violin_and_Pianoforte_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 9

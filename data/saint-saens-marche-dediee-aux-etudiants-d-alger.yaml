@@ -5,11 +5,9 @@ work:
   ids:
     imslp: Marche dédiée aux étudiants d'Alger, Op.163 (Saint-Saëns, Camille)
   year: 1921
-formula: pf pf
+formula: ''
 instrumentation:
-  keyboards:
-  - instrument: piano
-  - instrument: piano
+  additional_raw: piano 4 hands (and unison chorus ad lib.)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Marche_d%C3%A9di%C3%A9e_aux_%C3%A9tudiants_d%27Alger%2C_Op.163_%28Saint-Sa%C3%ABns%2C_Camille%29

@@ -1,0 +1,17 @@
+id: nielsen-o-sad-jeg-som-maria-sad-cnw-193
+work:
+  composer: Nielsen, Carl
+  title: O, sad jeg, som Maria sad, CNW 193
+  ids:
+    imslp: O, sad jeg, som Maria sad, CNW 193 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O%2C_sad_jeg%2C_som_Maria_sad%2C_CNW_193_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

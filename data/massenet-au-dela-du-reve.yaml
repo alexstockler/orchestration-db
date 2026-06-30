@@ -1,0 +1,18 @@
+id: massenet-au-dela-du-reve
+work:
+  composer: Massenet, Jules
+  title: Au delà du rêve
+  ids:
+    imslp: Au delà du rêve (Massenet, Jules)
+  year: 1903
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Au_del%C3%A0_du_r%C3%AAve_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

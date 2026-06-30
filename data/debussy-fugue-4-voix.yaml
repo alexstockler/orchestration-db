@@ -7,7 +7,8 @@ work:
   year: 1884
 formula: ''
 instrumentation:
-  additional_raw: 4 voices
+  soloists:
+  - 4 voices
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Fugue_%C3%A0_4_voix_%28Debussy%2C_Claude%29

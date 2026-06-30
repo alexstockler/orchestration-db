@@ -1,0 +1,15 @@
+id: offenbach-il-signor-fagotto
+work:
+  composer: Offenbach, Jacques
+  title: Il signor Fagotto
+  ids:
+    imslp: Il signor Fagotto (Offenbach, Jacques)
+  year: 1868
+formula: ''
+instrumentation:
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_signor_Fagotto_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, orchestra'

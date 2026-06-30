@@ -1,0 +1,15 @@
+id: bach-christe-der-du-bist-tag-und-licht
+work:
+  composer: Bach, Johann Sebastian
+  title: Christe, der du bist Tag und Licht
+  ids:
+    imslp: Christe, der du bist Tag und Licht, BWV 274 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Christe%2C_der_du_bist_Tag_und_Licht%2C_BWV_274_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

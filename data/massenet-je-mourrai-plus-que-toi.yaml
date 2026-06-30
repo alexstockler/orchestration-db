@@ -1,0 +1,18 @@
+id: massenet-je-mourrai-plus-que-toi
+work:
+  composer: Massenet, Jules
+  title: Je mourrai plus que toi !
+  ids:
+    imslp: Je mourrai plus que toi (Massenet, Jules)
+  year: 1905
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Je_mourrai_plus_que_toi_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'

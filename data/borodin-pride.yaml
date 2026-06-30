@@ -1,0 +1,18 @@
+id: borodin-pride
+work:
+  composer: Borodin, Aleksandr
+  title: Pride
+  ids:
+    imslp: Pride (Borodin, Aleksandr)
+  year: 1884
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pride_%28Borodin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

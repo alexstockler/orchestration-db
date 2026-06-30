@@ -7,7 +7,9 @@ work:
   year: 1705
 formula: ''
 instrumentation:
-  additional_raw: 2 violins | continuo
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Trio_Sonata_in_E_flat_major%2C_RV_65_%28Vivaldi%2C_Antonio%29

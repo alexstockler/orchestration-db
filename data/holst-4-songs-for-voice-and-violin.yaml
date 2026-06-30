@@ -1,0 +1,18 @@
+id: holst-4-songs-for-voice-and-violin
+work:
+  composer: Holst, Gustav
+  title: 4 Songs for Voice and Violin
+  ids:
+    imslp: 4 Songs for Voice and Violin, Op.35 (Holst, Gustav)
+  year: 1916
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Songs_for_Voice_and_Violin%2C_Op.35_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, violin'

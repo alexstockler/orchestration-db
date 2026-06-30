@@ -1,0 +1,17 @@
+id: vaughan-williams-fantasia-on-greensleeves
+work:
+  composer: Vaughan Williams, Ralph
+  title: Fantasia on Greensleeves
+  ids:
+    imslp: Fantasia on Greensleeves (Vaughan Williams, Ralph)
+  year: 1934
+formula: 2000 0000 hp str
+instrumentation:
+  flute: 2
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_on_Greensleeves_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, harp, strings'

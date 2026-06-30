@@ -1,0 +1,17 @@
+id: massenet-cendrillon
+work:
+  composer: Massenet, Jules
+  title: Cendrillon
+  ids:
+    imslp: Cendrillon (opera) (Massenet, Jules)
+  year: 1894
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cendrillon_%28opera%29_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

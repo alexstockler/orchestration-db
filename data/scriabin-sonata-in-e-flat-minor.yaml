@@ -1,0 +1,16 @@
+id: scriabin-sonata-in-e-flat-minor
+work:
+  composer: Scriabin, Aleksandr
+  title: Sonata In E-flat minor
+  ids:
+    imslp: Piano Sonata in E-flat minor (Scriabin, Aleksandr)
+  year: 1889
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_in_E-flat_minor_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

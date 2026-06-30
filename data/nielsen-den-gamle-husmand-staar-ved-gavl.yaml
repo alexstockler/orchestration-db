@@ -1,0 +1,18 @@
+id: nielsen-den-gamle-husmand-staar-ved-gavl
+work:
+  composer: Nielsen, Carl
+  title: Den gamle Husmand staar ved Gavl
+  ids:
+    imslp: Den gamle Husmand staar ved Gavl, CNW 401 (Nielsen, Carl)
+  year: 1926
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Den_gamle_Husmand_staar_ved_Gavl%2C_CNW_401_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -7,7 +7,8 @@ work:
   year: 1816
 formula: ''
 instrumentation:
-  additional_raw: 2 violins
+  solo_strings:
+    violin: 2
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Duet_in_D_major%2C_D.Anh.I/6_%28Schubert%2C_Franz%29

@@ -1,0 +1,16 @@
+id: nielsen-2-preludes
+work:
+  composer: Nielsen, Carl
+  title: 2 Preludes
+  ids:
+    imslp: 2 Preludes, CNW 98 (Nielsen, Carl)
+  year: 1931
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Preludes%2C_CNW_98_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: organ (or harmonium)'

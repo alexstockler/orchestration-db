@@ -1,0 +1,19 @@
+id: weber-erinnerung
+work:
+  composer: Weber, Carl Maria von
+  title: Erinnerung
+  ids:
+    imslp: Erinnerung, J. Anh.III/99 (Weber, Carl Maria von)
+formula: pf gtr
+instrumentation:
+  keyboards:
+  - instrument: piano
+  extras:
+  - instrument: guitar
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erinnerung%2C_J._Anh.III/99_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, guitar, piano'

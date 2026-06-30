@@ -1,0 +1,18 @@
+id: nielsen-est-du-modfalden-kre-ven
+work:
+  composer: Nielsen, Carl
+  title: Est du modfalden, kære Ven
+  ids:
+    imslp: Est du modfalden, kære Ven, CNW 300 (Nielsen, Carl)
+  year: 1915
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Est_du_modfalden%2C_k%C3%A6re_Ven%2C_CNW_300_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

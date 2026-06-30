@@ -1,0 +1,76 @@
+id: massenet-manon
+work:
+  composer: Massenet, Jules
+  title: Manon
+  ids:
+    imslp: Manon (Massenet, Jules)
+  year: 1883
+formula: 2[1.2/pic] 2[1.2/Eh] 3 3 4 2[cnt.cnt] 3 0 tmp org hp
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 3
+  bassoon: 3
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - tam-tam
+    - snare drum
+    - whip
+    - triangle
+    - sleigh bells
+    - glockenspiel
+  keyboards:
+  - instrument: organ
+  harp: 1
+  soloists:
+  - Manon Lescaut (soprano)
+  - Le Chevalier des Grieux (tenor)
+  - Lescaut (baritone)
+  - Le Comte des Grieux (bass)
+  - Guillot Morfontaine (tenor)
+  - Monsieur de Brétigny (baritone)
+  - Poussette (soprano)
+  - Javotte (mezzo-soprano)
+  - Rosette (mezzo-soprano)
+  - Innkeeper (bass)
+  - A Porter (tenor)
+  - A Sergeant (baritone) Mixed Chorus :Guardsmen
+  - Townsfolk
+  - Travellers
+  - Hawkers
+  - Congregation
+  - Gamblers
+  - Soldiers
+  - bass
+  solo_strings:
+    violin: 2
+    cello: 1
+  offstage:
+  - strings
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Manon_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Manon Lescaut (soprano), Le Chevalier des Grieux
+    (tenor), Lescaut (baritone), Le Comte des Grieux (bass), Guillot Morfontaine (tenor),
+    Monsieur de Brétigny (baritone), Poussette (soprano), Javotte (mezzo-soprano),
+    Rosette (mezzo-soprano), Innkeeper (bass), A Porter (tenor), A Sergeant (baritone)
+    Mixed Chorus :Guardsmen, Townsfolk, Travellers, Hawkers, Congregation, Gamblers,
+    Soldiers Orchestra :2 flutes (2nd also piccolo), 2 oboes (2nd also English horn),
+    2 clarinets, 2 bassoons, 4 horns, 2 cornets, 3 trombones, timpani, bass drum,
+    cymbals, tam-tam, snare drum ::whip, triangle, sleigh bells, glockenspiel :harp,
+    strings Off-stage Instruments :2 violins, cello, bass, clarinet, bassoon, organ'

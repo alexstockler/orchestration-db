@@ -1,0 +1,14 @@
+id: massenet-le-carillon
+work:
+  composer: Massenet, Jules
+  title: Le carillon
+  ids:
+    imslp: Le carillon (Massenet, Jules)
+  year: 1891
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_carillon_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

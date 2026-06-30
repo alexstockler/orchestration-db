@@ -1,0 +1,18 @@
+id: glazunov-romance-de-nina
+work:
+  composer: Glazunov, Aleksandr
+  title: Romance de Nina
+  ids:
+    imslp: Romance de Nina, Op.102 (Glazunov, Aleksandr)
+  year: 1916
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romance_de_Nina%2C_Op.102_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

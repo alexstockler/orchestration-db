@@ -1,0 +1,37 @@
+id: kodaly-marosszeki-tancok
+work:
+  composer: Kodály, Zoltán
+  title: Marosszéki táncok
+  ids:
+    imslp: Marosszéki táncok (Kodály, Zoltán)
+  year: 1923
+formula: 2[1.2/pic] 2 2 2[1.cbn] 4200 str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon:
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 2
+  percussion:
+    instruments:
+    - side drum
+    - bass drum
+  strings: str
+  soloists:
+  - piano
+  - ':'
+  additional_raw: kettledrum
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marossz%C3%A9ki_t%C3%A1ncok_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: : piano, : Orchestra: 2 flutes (2nd also piccolo), 2 oboes,
+    2 clarinets, bassoon, contrabassoon, 4 horns, 2 trumpets, kettledrum, side drum,
+    bass drum, strings'
+duration_minutes: 12

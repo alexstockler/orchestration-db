@@ -1,0 +1,16 @@
+id: weber-bei-der-musik-des-prinzen-louis-ferdinand-von-preussen
+work:
+  composer: Weber, Carl Maria von
+  title: Bei der Musik des Prinzen Louis Ferdinand von Preussen
+  ids:
+    imslp: Bei der Musik des Prinzen Louis Ferdinand, Op.43 (Weber, Carl Maria von)
+  year: 1815
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bei_der_Musik_des_Prinzen_Louis_Ferdinand%2C_Op.43_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voice and piano'

@@ -1,0 +1,15 @@
+id: bach-english-suite-no-6-in-d-minor
+work:
+  composer: Bach, Johann Sebastian
+  title: English Suite No.6 in D minor
+  ids:
+    imslp: English Suite No.6 in D minor, BWV 811 (Bach, Johann Sebastian)
+  year: 1715
+formula: ''
+instrumentation:
+  additional_raw: keyboard (harpsichord or clavichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/English_Suite_No.6_in_D_minor%2C_BWV_811_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard (harpsichord or clavichord)'

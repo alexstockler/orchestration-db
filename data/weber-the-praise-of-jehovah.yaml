@@ -1,0 +1,20 @@
+id: weber-the-praise-of-jehovah
+work:
+  composer: Weber, Carl Maria von
+  title: The Praise of Jehovah
+  ids:
+    imslp: The Praise of Jehovah, Op.58 (Weber, Carl Maria von)
+  year: 1818
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Praise_of_Jehovah%2C_Op.58_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, mixed chorus, orchestra'

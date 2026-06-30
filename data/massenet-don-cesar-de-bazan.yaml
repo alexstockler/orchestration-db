@@ -1,0 +1,17 @@
+id: massenet-don-cesar-de-bazan
+work:
+  composer: Massenet, Jules
+  title: Don César de Bazan
+  ids:
+    imslp: Don César de Bazan (Massenet, Jules)
+  year: 1872
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Don_C%C3%A9sar_de_Bazan_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

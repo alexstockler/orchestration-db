@@ -1,0 +1,22 @@
+id: bach-es-erhub-sich-ein-streit
+work:
+  composer: Bach, Johann Sebastian
+  title: Es erhub sich ein Streit
+  ids:
+    imslp: Es erhub sich ein Streit, BWV 19 (Bach, Johann Sebastian)
+  year: 1726
+formula: 0200 0300 tmp str
+instrumentation:
+  oboe: 2
+  trumpet: 3
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: 2 oboes d'amore | taille/oboe da caccia | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_erhub_sich_ein_Streit%2C_BWV_19_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 oboes d''amore, taille/oboe da caccia,, 3 trumpets,
+    timpani, strings, continuo'
+duration_minutes: 22

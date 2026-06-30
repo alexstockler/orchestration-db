@@ -1,0 +1,17 @@
+id: nielsen-cosmus
+work:
+  composer: Nielsen, Carl
+  title: Cosmus
+  ids:
+    imslp: Cosmus, CNW 19 (Nielsen, Carl)
+  year: 1921
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cosmus%2C_CNW_19_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, mixed chorus (SSATTBB)'

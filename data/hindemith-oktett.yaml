@@ -1,0 +1,24 @@
+id: hindemith-oktett
+work:
+  composer: Hindemith, Paul
+  title: Oktett
+  ids:
+    imslp: Octet (Hindemith, Paul)
+  year: 1957
+formula: 0011 1000
+instrumentation:
+  clarinet: 1
+  bassoon: 1
+  horn: 1
+  soloists:
+  - bass
+  solo_strings:
+    violin: 1
+    viola: 2
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Octet_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet (B), bassoon, horn (F), violin, 2 violas, cello,
+    bass'

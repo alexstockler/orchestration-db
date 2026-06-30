@@ -19,7 +19,10 @@ instrumentation:
   - Atalanta (soprano)
   - Ariodate (bass)
   - Elviro (basso)
-  additional_raw: '[bassoon] | 3 violins | viola | continuo (cello, bass, harpsichord)'
+  solo_strings:
+    violin: 3
+    viola: 1
+  additional_raw: '[bassoon] | continuo (cello, bass, harpsichord)'
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Largo_from_%27Xerxes%27_%28Handel%2C_George_Frideric%29

@@ -1,0 +1,18 @@
+id: massenet-voix-supreme
+work:
+  composer: Massenet, Jules
+  title: Voix suprême
+  ids:
+    imslp: Voix suprême (Massenet, Jules)
+  year: 1912
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Voix_supr%C3%AAme_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

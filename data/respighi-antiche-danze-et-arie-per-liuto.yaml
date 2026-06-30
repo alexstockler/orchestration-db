@@ -1,0 +1,28 @@
+id: respighi-antiche-danze-et-arie-per-liuto
+work:
+  composer: Respighi, Ottorino
+  title: Antiche danze et arie per liuto
+  ids:
+    imslp: Antiche danze et arie per liuto, Suite No.1 (Respighi, Ottorino)
+  year: 1917
+formula: 2 3[1.2.Eh] 0 2 2100 hpd hp str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  bassoon: 2
+  horn: 2
+  trumpet: 1
+  keyboards:
+  - instrument: harpsichord
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Antiche_danze_et_arie_per_liuto%2C_Suite_No.1_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, english horn, 2 bassoons, 2 horns, trumpet,
+    harp, harpsichord, strings'
+duration_minutes: 14

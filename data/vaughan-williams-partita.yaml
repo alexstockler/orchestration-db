@@ -1,0 +1,18 @@
+id: vaughan-williams-partita
+work:
+  composer: Vaughan Williams, Ralph
+  title: Partita
+  ids:
+    imslp: Partita (Vaughan Williams, Ralph)
+  year: 1948
+formula: ''
+instrumentation:
+  additional_raw: violins, violas, cellos ; orchestra 2, violins, violas, cellos,
+    basses)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Partita_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: double string orchestra (orchestra 1: violins, violas,
+    cellos ; orchestra 2: violins, violas, cellos, basses)'
+duration_minutes: 20

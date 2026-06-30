@@ -7,8 +7,10 @@ work:
   year: 1707
 formula: ''
 instrumentation:
-  additional_raw: 3 vocal soloists (ATB) | SSAATTBB chorus | 4 violins | 2 violas
-    | basso continuo
+  solo_strings:
+    violin: 4
+    viola: 2
+  additional_raw: 3 vocal soloists (ATB) | SSAATTBB chorus | basso continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Nisi_Dominus%2C_HWV_238_%28Handel%2C_George_Frideric%29

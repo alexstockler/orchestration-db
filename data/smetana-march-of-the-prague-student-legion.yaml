@@ -1,0 +1,17 @@
+id: smetana-march-of-the-prague-student-legion
+work:
+  composer: Smetana, Bedřich
+  title: March of the Prague Student Legion
+  ids:
+    imslp: Pochod pražské studentské legie, JB 1:36 (Smetana, Bedřich)
+  year: 1848
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pochod_pra%C5%BEsk%C3%A9_studentsk%C3%A9_legie%2C_JB_1%3A36_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'
+duration_minutes: 3

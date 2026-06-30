@@ -1,0 +1,30 @@
+id: hindemith-ploner-musiktag-suite
+work:
+  composer: Hindemith, Paul
+  title: Plöner Musiktag Suite
+  ids:
+    imslp: Plöner Musiktag Suite (Hindemith, Paul)
+  year: 1932
+formula: 1010 2630
+instrumentation:
+  flute: 1
+  clarinet: 1
+  horn: 2
+  trumpet: 6
+  trombone: 3
+  solo_strings:
+    violin: 2
+    cello: 2
+  additional_raw: 'I | Morgenmusik: | II | Kanon: | basses (ad lib.) | III and IV
+    | Abendkonzert and Marsch: | oboe (ad lib.) clarinet (B) | precussion (ad lib.)
+    | basses (ad lib.)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pl%C3%B6ner_Musiktag_Suite_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Various Ensembles :I. Morgenmusik: ::horn (F), 2 trumpets
+    (B), trombone :II. Kanon: ::clarinet (B), 2 trumpets (B), trombone, violins, cellos,
+    basses (ad lib.) :III and IV. Abendkonzert and Marsch: ::flute, oboe (ad lib.)
+    clarinet (B), horn (F), 2 trumpets (B), trombone, precussion (ad lib.), violins,
+    cellos, basses (ad lib.)'
+duration_minutes: 16

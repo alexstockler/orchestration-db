@@ -5,9 +5,10 @@ work:
   ids:
     imslp: Quadrille, WAB 121 (Bruckner, Anton)
   year: 1854
-formula: ''
+formula: pf
 instrumentation:
-  additional_raw: piano 4-hands
+  keyboards:
+  - instrument: piano
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Quadrille%2C_WAB_121_%28Bruckner%2C_Anton%29

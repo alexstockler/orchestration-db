@@ -1,0 +1,25 @@
+id: bach-erschallet-ihr-lieder
+work:
+  composer: Bach, Johann Sebastian
+  title: Erschallet, ihr Lieder
+  ids:
+    imslp: Erschallet, ihr Lieder, BWV 172 (Bach, Johann Sebastian)
+  year: 1714
+formula: 1101 0300 tmp
+instrumentation:
+  flute: 1
+  oboe: 1
+  bassoon: 1
+  trumpet: 3
+  percussion:
+    timpani: 1
+  solo_strings:
+    violin: 2
+  additional_raw: viol | continuo (organ, also organ obbligato)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erschallet%2C_ihr_Lieder%2C_BWV_172_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: flute (2nd Version), oboe (also oboe d''amore - 2nd Version),
+    bassoon, 3 trumpets (D/C),, timpani, 2 violins, viol, continuo (organ, also organ
+    obbligato)'

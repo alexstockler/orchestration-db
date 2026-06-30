@@ -1,0 +1,16 @@
+id: franck-piano-duo-no-1-sur-le-god-save-the-king
+work:
+  composer: Franck, César
+  title: Piano Duo No.1 sur le "God Save the King"
+  ids:
+    imslp: Piano Duo No.1 sur le 'God Save the King', FWV 12 (Franck, César)
+  year: 1842
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Duo_No.1_sur_le_%27God_Save_the_King%27%2C_FWV_12_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4 hands'

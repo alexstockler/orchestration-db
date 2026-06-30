@@ -7,7 +7,10 @@ work:
   year: 1799
 formula: ''
 instrumentation:
-  additional_raw: 2 violins | viola | cello
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/String_Quartet_No.1%2C_Op.18_No.1_%28Beethoven%2C_Ludwig_van%29

@@ -1,0 +1,99 @@
+id: verdi-don-carlos
+work:
+  composer: Verdi, Giuseppe
+  title: Don Carlos
+  ids:
+    imslp: Don Carlos (Verdi, Giuseppe)
+  year: 1867
+formula: 3[pic.2.3] 2[1.2/Eh] 5 4[1.2.3/cbn.4] 8 9[cnt.cnt.cnt.4.5.flhn.flhn.8.9]
+  6 1[cimb] tmp harm 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 5
+  bassoon:
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  - {}
+  horn: 8
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  - instrument: flugelhorn
+  - instrument: flugelhorn
+  - {}
+  - {}
+  trombone: 6
+  tuba:
+  - instrument: cimbasso
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - triangle
+    - bells
+    - tam-tam
+  keyboards:
+  - instrument: harmonium
+  harp: 2
+  strings: str
+  soloists:
+  - Filippo Il
+  - Re di Spagna (bass)
+  - Don Carlo
+  - Infante di Spagna (tenor)
+  - Rodrigo
+  - Marchese di Posa (baritone)
+  - Il Grande Inquisitore
+  - cieco
+  - nonagenario (bass)
+  - Un frate (bass)
+  - Elisabetta di Valois (soprano)
+  - La principessa Eboli (mezzo-soprano)
+  - Tebaldo
+  - paggio d'Elisabetta (soprano)
+  - La Contessa d'Aremberg (mime)
+  - Il Conte di Lerma (tenor)
+  - Un Araldo Reale (tenor) Mixed Chorus :Deputati fiamminghi
+  - Inquisitori
+  - Signori e Dame della Corte di Spagna
+  - Popolo
+  - Paggi
+  - Guardie di Filippo II
+  - Frati
+  - Famigliari del Santo Uffizio
+  - Soldati
+  - Magistrati
+  - Deputati delle provincie dell'Impero spagnuolo
+  solo_strings:
+    double_bass: 1
+  additional_raw: bass flugelhorn | bombardon
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Don_Carlos_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Filippo Il, Re di Spagna (bass), Don Carlo, Infante
+    di Spagna (tenor), Rodrigo, Marchese di Posa (baritone), Il Grande Inquisitore,
+    cieco, nonagenario (bass), Un frate (bass), Elisabetta di Valois (soprano), La
+    principessa Eboli (mezzo-soprano), Tebaldo, paggio d''Elisabetta (soprano), La
+    Contessa d''Aremberg (mime), Il Conte di Lerma (tenor), Un Araldo Reale (tenor)
+    Mixed Chorus :Deputati fiamminghi, Inquisitori, Signori e Dame della Corte di
+    Spagna, Popolo, Paggi, Guardie di Filippo II, Frati, Famigliari del Santo Uffizio,
+    Soldati, Magistrati, Deputati delle provincie dell''Impero spagnuolo Orchestra
+    :piccolo (also flute 3), 2 flutes, 2 oboes (2nd also English horn), ::2 clarinets,
+    4 bassoons (3rd also contrabassoon) :4 horns, 3 cornets, 2 trumpets, 3 trombones,
+    cimbasso, timpani, bass drum, cymbals, triangle, bells (in F, E), tam-tam, harp,
+    strings '' :clarinet, 2 clarinets, 4 horns, 2 flugelhorns, 2 trumpets, bass flugelhorn,,
+    3 trombones, bombardon, double bass, harmonium, harp'

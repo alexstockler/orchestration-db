@@ -1,0 +1,13 @@
+id: faure-allegro-symphonique
+work:
+  composer: Fauré, Gabriel
+  title: Allegro symphonique
+  ids:
+    imslp: Allegro symphonique, Op.68 (Fauré, Gabriel)
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegro_symphonique%2C_Op.68_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

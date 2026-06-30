@@ -1,0 +1,17 @@
+id: nielsen-vi-nvner-et-navn
+work:
+  composer: Nielsen, Carl
+  title: Vi nævner et navn
+  ids:
+    imslp: Vi nævner et navn, CNW 319 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vi_n%C3%A6vner_et_navn%2C_CNW_319_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

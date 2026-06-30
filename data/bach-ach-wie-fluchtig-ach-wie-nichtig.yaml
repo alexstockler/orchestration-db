@@ -1,0 +1,20 @@
+id: bach-ach-wie-fluchtig-ach-wie-nichtig
+work:
+  composer: Bach, Johann Sebastian
+  title: Ach wie flüchtig, ach wie nichtig
+  ids:
+    imslp: Ach wie flüchtig, ach wie nichtig, BWV 26 (Bach, Johann Sebastian)
+  year: 1724
+formula: 1300 1000 str
+instrumentation:
+  flute: 1
+  oboe: 3
+  horn: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach_wie_fl%C3%BCchtig%2C_ach_wie_nichtig%2C_BWV_26_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, 3 oboes, horn, strings, continuo'
+duration_minutes: 19

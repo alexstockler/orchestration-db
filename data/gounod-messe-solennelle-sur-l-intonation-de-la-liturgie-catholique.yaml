@@ -1,0 +1,19 @@
+id: gounod-messe-solennelle-sur-l-intonation-de-la-liturgie-catholique
+work:
+  composer: Gounod, Charles
+  title: Messe solennelle sur l'intonation de la liturgie catholique
+  ids:
+    imslp: Messe solennelle sur l'intonation de la liturgie catholique, CG 60 (Gounod,
+      Charles)
+  year: 1888
+formula: org org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Messe_solennelle_sur_l%27intonation_de_la_liturgie_catholique%2C_CG_60_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), 2 organs'

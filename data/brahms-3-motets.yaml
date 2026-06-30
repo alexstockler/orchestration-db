@@ -7,7 +7,8 @@ work:
   year: 1889
 formula: ''
 instrumentation:
-  additional_raw: Nos.1 | 3 double chorus (SATB, SATB) | No.2 mixed chorus (SATB)
+  chorus_raw: 3 double chorus
+  additional_raw: Nos.1 | No.2 mixed chorus (SATB)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/3_Motets%2C_Op.110_%28Brahms%2C_Johannes%29

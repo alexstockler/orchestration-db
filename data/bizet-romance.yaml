@@ -1,0 +1,17 @@
+id: bizet-romance
+work:
+  composer: Bizet, Georges
+  title: Romance
+  ids:
+    imslp: L'âme triste est pareille au doux ciel, WD 68 (Bizet, Georges)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27%C3%A2me_triste_est_pareille_au_doux_ciel%2C_WD_68_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

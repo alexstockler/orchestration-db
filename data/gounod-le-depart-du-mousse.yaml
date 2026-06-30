@@ -1,0 +1,18 @@
+id: gounod-le-depart-du-mousse
+work:
+  composer: Gounod, Charles
+  title: Le départ du mousse
+  ids:
+    imslp: Le départ du mousse, CG 371 (Gounod, Charles)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_d%C3%A9part_du_mousse%2C_CG_371_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

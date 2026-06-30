@@ -6,7 +6,10 @@ work:
     imslp: Trio Sonata in C minor, RV 83 (Vivaldi, Antonio)
 formula: ''
 instrumentation:
-  additional_raw: violin | cello | continuo
+  solo_strings:
+    violin: 1
+    cello: 1
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Trio_Sonata_in_C_minor%2C_RV_83_%28Vivaldi%2C_Antonio%29

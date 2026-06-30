@@ -1,0 +1,16 @@
+id: bach-flute-sonata
+work:
+  composer: Bach, Johann Sebastian
+  title: Flute Sonata
+  ids:
+    imslp: Flute Sonata in E major, BWV 1035 (Bach, Johann Sebastian)
+  year: 1741
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flute_Sonata_in_E_major%2C_BWV_1035_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, continuo'

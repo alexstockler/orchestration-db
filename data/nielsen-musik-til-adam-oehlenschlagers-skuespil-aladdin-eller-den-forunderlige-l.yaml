@@ -1,0 +1,17 @@
+id: nielsen-musik-til-adam-oehlenschlagers-skuespil-aladdin-eller-den-forunderlige-l
+work:
+  composer: Nielsen, Carl
+  title: Musik til Adam Oehlenschlägers skuespil 'Aladdin eller Den forunderlige Lampe'
+  ids:
+    imslp: Aladdin, Op.34 (Nielsen, Carl)
+  year: 1918
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aladdin%2C_Op.34_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

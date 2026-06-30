@@ -1,0 +1,41 @@
+id: holst-suite-de-ballet
+work:
+  composer: Holst, Gustav
+  title: Suite de Ballet
+  ids:
+    imslp: Suite de Ballet, Op.10 (Holst, Gustav)
+  year: 1899
+formula: 3[1.2.3/pic] 2 2 2 4 2[cnt.cnt] 3 1 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - snare drum
+    - bass drum
+    - glockenspiel
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_de_Ballet%2C_Op.10_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 2 oboes, 2 clarinets, 2 bassoons,
+    4 horns, 2 cornets, 3 trombones, tuba, timpani, triangle, cymbals, snare drum,
+    bass drum, glockenspiel, harp, strings'
+duration_minutes: 19

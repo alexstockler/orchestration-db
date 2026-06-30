@@ -1,0 +1,19 @@
+id: hindemith-string-quartet-no-2-in-f-minor
+work:
+  composer: Hindemith, Paul
+  title: String Quartet No.2 in F minor
+  ids:
+    imslp: String Quartet No.2, Op.10 (Hindemith, Paul)
+  year: 1918
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.2%2C_Op.10_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 30

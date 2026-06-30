@@ -1,0 +1,20 @@
+id: weber-missa-sancta-no-1
+work:
+  composer: Weber, Carl Maria von
+  title: Missa Sancta No.1
+  ids:
+    imslp: Missa Sancta No.1, Op.75a (Weber, Carl Maria von)
+  year: 1817
+formula: 2222 2000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Missa_Sancta_No.1%2C_Op.75a_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, strings'

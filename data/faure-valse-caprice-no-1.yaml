@@ -1,0 +1,16 @@
+id: faure-valse-caprice-no-1
+work:
+  composer: Fauré, Gabriel
+  title: Valse-Caprice No.1
+  ids:
+    imslp: Valse-Caprice No.1, Op.30 (Fauré, Gabriel)
+  year: 1882
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Valse-Caprice_No.1%2C_Op.30_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

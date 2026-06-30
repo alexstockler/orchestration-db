@@ -8,7 +8,9 @@ formula: 0100 0000 str
 instrumentation:
   oboe: 1
   strings: str
-  additional_raw: violin | chalumeau | 3 viole all'inglese
+  solo_strings:
+    violin: 1
+  additional_raw: chalumeau | 3 viole all'inglese
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Concerto_funebre_in_B-flat_major%2C_RV_579_%28Vivaldi%2C_Antonio%29

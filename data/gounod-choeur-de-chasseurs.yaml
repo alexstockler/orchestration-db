@@ -1,0 +1,15 @@
+id: gounod-choeur-de-chasseurs
+work:
+  composer: Gounod, Charles
+  title: Choeur de chasseurs
+  ids:
+    imslp: Choeur de chasseurs, CG 208 (Gounod, Charles)
+  year: 1855
+formula: ''
+instrumentation:
+  additional_raw: 4 male voices (BarTTB?)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Choeur_de_chasseurs%2C_CG_208_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 male voices (BarTTB?)'

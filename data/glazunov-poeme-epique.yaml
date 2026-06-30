@@ -1,0 +1,15 @@
+id: glazunov-poeme-epique
+work:
+  composer: Glazunov, Aleksandr
+  title: Poème épique
+  ids:
+    imslp: Poème épique (Glazunov, Aleksandr)
+  year: 1933
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Po%C3%A8me_%C3%A9pique_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra'
+duration_minutes: 15

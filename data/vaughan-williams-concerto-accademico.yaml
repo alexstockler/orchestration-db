@@ -1,0 +1,18 @@
+id: vaughan-williams-concerto-accademico
+work:
+  composer: Vaughan Williams, Ralph
+  title: Concerto Accademico
+  ids:
+    imslp: Concerto Accademico (Vaughan Williams, Ralph)
+  year: 1924
+formula: str
+instrumentation:
+  strings: str
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_Accademico_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, strings'
+duration_minutes: 16

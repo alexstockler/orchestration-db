@@ -1,0 +1,17 @@
+id: nielsen-string-quartet-movement-in-f-sharp-minor
+work:
+  composer: Nielsen, Carl
+  title: String Quartet movement in F-sharp minor
+  ids:
+    imslp: Andante sostenuto in F-sharp minor, CNW 54 (Nielsen, Carl)
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_sostenuto_in_F-sharp_minor%2C_CNW_54_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

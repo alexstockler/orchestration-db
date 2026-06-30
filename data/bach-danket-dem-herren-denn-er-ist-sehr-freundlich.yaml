@@ -1,0 +1,15 @@
+id: bach-danket-dem-herren-denn-er-ist-sehr-freundlich
+work:
+  composer: Bach, Johann Sebastian
+  title: Danket dem Herren, denn er ist sehr freundlich
+  ids:
+    imslp: Danket dem Herren, denn er ist sehr freundlich, BWV 286 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Danket_dem_Herren%2C_denn_er_ist_sehr_freundlich%2C_BWV_286_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

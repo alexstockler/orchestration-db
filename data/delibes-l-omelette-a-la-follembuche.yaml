@@ -1,0 +1,16 @@
+id: delibes-l-omelette-a-la-follembuche
+work:
+  composer: Delibes, Léo
+  title: L'omelette à la Follembuche
+  ids:
+    imslp: L'omelette à la Follembuche (Delibes, Léo)
+  year: 1859
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27omelette_%C3%A0_la_Follembuche_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, Chorus, Orchestra'

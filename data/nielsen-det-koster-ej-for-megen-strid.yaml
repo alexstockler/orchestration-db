@@ -1,0 +1,17 @@
+id: nielsen-det-koster-ej-for-megen-strid
+work:
+  composer: Nielsen, Carl
+  title: Det koster ej for megen Strid
+  ids:
+    imslp: Det koster ej for megen Strid, CNW 160 (Nielsen, Carl)
+  year: 1913
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: piano / mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Det_koster_ej_for_megen_Strid%2C_CNW_160_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano / mixed chorus'

@@ -1,0 +1,16 @@
+id: bach-prelude-and-fugue-in-f-major
+work:
+  composer: Bach, Johann Sebastian
+  title: Prelude and Fugue in F♯ major
+  ids:
+    imslp: Fugue in F-sharp major, BWV Anh.97 (Bach, Johann Sebastian)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_F-sharp_major%2C_BWV_Anh.97_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 5

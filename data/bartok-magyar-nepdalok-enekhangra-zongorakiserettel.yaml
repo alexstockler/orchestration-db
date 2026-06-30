@@ -1,0 +1,18 @@
+id: bartok-magyar-nepdalok-enekhangra-zongorakiserettel
+work:
+  composer: Bartók, Béla
+  title: Magyar népdalok. Énekhangra zongorakisérettel
+  ids:
+    imslp: Magyar népdalok, Sz.33 (Bartók, Béla)
+  year: 1906
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Magyar_n%C3%A9pdalok%2C_Sz.33_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

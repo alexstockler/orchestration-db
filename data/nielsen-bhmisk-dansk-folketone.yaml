@@ -1,0 +1,14 @@
+id: nielsen-bhmisk-dansk-folketone
+work:
+  composer: Nielsen, Carl
+  title: Bøhmisk-Dansk Folketone
+  ids:
+    imslp: Bøhmisk-Dansk folketone, CNW 40 (Nielsen, Carl)
+  year: 1928
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/B%C3%B8hmisk-Dansk_folketone%2C_CNW_40_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: string orchestra'

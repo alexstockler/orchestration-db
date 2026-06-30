@@ -1,0 +1,17 @@
+id: bizet-voyage
+work:
+  composer: Bizet, Georges
+  title: Voyage
+  ids:
+    imslp: Voyage (Bizet, Georges)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Voyage_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

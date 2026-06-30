@@ -4,12 +4,13 @@ work:
   title: Landkjending
   ids:
     imslp: Landkjending, Op.31 (Grieg, Edvard)
-formula: ''
+formula: org
 instrumentation:
+  keyboards:
+  - instrument: organ
   soloists:
   - baritone
   chorus_raw: male chorus
-  additional_raw: orchestra | organ ad lib
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Landkjending%2C_Op.31_%28Grieg%2C_Edvard%29

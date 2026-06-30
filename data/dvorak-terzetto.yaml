@@ -7,7 +7,9 @@ work:
   year: 1887
 formula: ''
 instrumentation:
-  additional_raw: 2 violins | viola
+  solo_strings:
+    violin: 2
+    viola: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Terzetto%2C_Op.74_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29

@@ -1,0 +1,18 @@
+id: faure-fantaisie
+work:
+  composer: Fauré, Gabriel
+  title: Fantaisie
+  ids:
+    imslp: Fantaisie, Op.79 (Fauré, Gabriel)
+  year: 1898
+formula: 1000 0000 pf
+instrumentation:
+  flute: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantaisie%2C_Op.79_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, piano'
+duration_minutes: 5

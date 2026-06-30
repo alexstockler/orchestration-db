@@ -1,0 +1,38 @@
+id: kodaly-variations-on-a-hungarian-folksong
+work:
+  composer: Kodály, Zoltán
+  title: Variations on a Hungarian Folksong
+  ids:
+    imslp: Fölszállott a páva (Kodály, Zoltán)
+  year: 1937
+formula: 3[1.2.3/pic] 2[1.2/Eh] 2 2 4330 tmp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - glockenspiel
+    - triangle
+    - cymbals
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/F%C3%B6lsz%C3%A1llott_a_p%C3%A1va_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 2 oboes (2nd also English
+    horn), 2 clarinets, 2 bassoons, 4 horns, 3 trumpets, 3 trombones, timpani, glockenspiel,
+    triangle, cymbals, strings'
+duration_minutes: 25

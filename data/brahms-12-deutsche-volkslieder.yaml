@@ -7,7 +7,7 @@ work:
   year: 1926
 formula: ''
 instrumentation:
-  additional_raw: Chorus (SATB)
+  chorus_raw: chorus
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/12_Deutsche_Volkslieder%2C_WoO_35_%28Brahms%2C_Johannes%29

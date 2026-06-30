@@ -1,0 +1,15 @@
+id: bach-gib-dich-zufrieden-und-sei-stille
+work:
+  composer: Bach, Johann Sebastian
+  title: Gib dich zufrieden und sei stille
+  ids:
+    imslp: Gib dich zufrieden und sei stille, BWV 315 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gib_dich_zufrieden_und_sei_stille%2C_BWV_315_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

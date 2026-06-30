@@ -1,0 +1,38 @@
+id: massenet-scenes-dramatiques
+work:
+  composer: Massenet, Jules
+  title: Scènes dramatiques
+  ids:
+    imslp: Scènes dramatiques (Massenet, Jules)
+  year: 1874
+formula: 3[1.2/pic.pic] 2 2 0 4431 tmp 2hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  - instrument: piccolo
+  oboe: 2
+  clarinet: 2
+  horn: 4
+  trumpet: 4
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - bass drum
+    - tam-tam
+    - snare drum
+  harp: 2
+  strings: str
+  additional_raw: 2 or 4 bassoons
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sc%C3%A8nes_dramatiques_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), piccolo, 2 oboes, 2 clarinets,
+    2 or 4 bassoons, 4 horns, 4 trumpets, 3 trombones, tuba, timpani, triangle, cymbals,
+    bass drum, tam-tam, snare drum, 2 harps, strings'

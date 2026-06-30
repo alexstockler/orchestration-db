@@ -1,0 +1,16 @@
+id: weber-in-seiner-ordnung-schafft-der-herr-op-36
+work:
+  composer: Weber, Carl Maria von
+  title: In seiner Ordnung schafft der Herr, Op.36
+  ids:
+    imslp: In seiner Ordnung schafft der Herr, Op.36 (Weber, Carl Maria von)
+  year: 1812
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: SATB soloists &amp
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_seiner_Ordnung_schafft_der_Herr%2C_Op.36_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB soloists &amp; chorus, orchestra'

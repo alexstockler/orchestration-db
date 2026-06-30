@@ -1,0 +1,17 @@
+id: lalo-fiesque
+work:
+  composer: Lalo, Édouard
+  title: Fiesque
+  ids:
+    imslp: Fiesque (Lalo, Édouard)
+  year: 1866
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fiesque_%28Lalo%2C_%C3%89douard%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices, Chorus, Orchestra'

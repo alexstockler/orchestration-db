@@ -1,0 +1,15 @@
+id: bach-goldberg-variationen
+work:
+  composer: Bach, Johann Sebastian
+  title: Goldberg-Variationen
+  ids:
+    imslp: Goldberg-Variationen, BWV 988 (Bach, Johann Sebastian)
+  year: 1741
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Goldberg-Variationen%2C_BWV_988_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

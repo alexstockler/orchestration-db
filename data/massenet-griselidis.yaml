@@ -1,0 +1,17 @@
+id: massenet-griselidis
+work:
+  composer: Massenet, Jules
+  title: Grisélidis
+  ids:
+    imslp: Grisélidis (Massenet, Jules)
+  year: 1894
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus and orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gris%C3%A9lidis_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices, chorus and orchestra'

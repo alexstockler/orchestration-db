@@ -1,0 +1,16 @@
+id: bach-cello-suite-no-2
+work:
+  composer: Bach, Johann Sebastian
+  title: Cello Suite No.2
+  ids:
+    imslp: Cello Suite No.2 in D minor, BWV 1008 (Bach, Johann Sebastian)
+  year: 1717
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Suite_No.2_in_D_minor%2C_BWV_1008_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: cello'

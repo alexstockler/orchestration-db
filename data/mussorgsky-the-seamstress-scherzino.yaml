@@ -1,0 +1,16 @@
+id: mussorgsky-the-seamstress-scherzino
+work:
+  composer: Mussorgsky, Modest
+  title: The Seamstress (Scherzino)
+  ids:
+    imslp: The Seamstress (Mussorgsky, Modest)
+  year: 1871
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Seamstress_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

@@ -1,0 +1,16 @@
+id: vaughan-williams-sea-songs
+work:
+  composer: Vaughan Williams, Ralph
+  title: Sea Songs
+  ids:
+    imslp: Sea Songs (Vaughan Williams, Ralph)
+  year: 1924
+formula: ''
+instrumentation:
+  additional_raw: military band
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sea_Songs_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: military band'
+duration_minutes: 4

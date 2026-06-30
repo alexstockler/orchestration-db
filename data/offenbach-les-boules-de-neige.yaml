@@ -1,0 +1,15 @@
+id: offenbach-les-boules-de-neige
+work:
+  composer: Offenbach, Jacques
+  title: Les boules de neige
+  ids:
+    imslp: Les boules de neige (Offenbach, Jacques)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_boules_de_neige_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

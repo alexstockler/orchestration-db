@@ -9,7 +9,8 @@ formula: org
 instrumentation:
   keyboards:
   - instrument: organ
-  additional_raw: voice
+  soloists:
+  - voice
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/O_du_liebes_Jesu_Kind%2C_WAB_145_%28Bruckner%2C_Anton%29

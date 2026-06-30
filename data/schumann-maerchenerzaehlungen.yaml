@@ -10,7 +10,8 @@ instrumentation:
   clarinet: 1
   keyboards:
   - instrument: piano
-  additional_raw: viola
+  solo_strings:
+    viola: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/M%C3%A4rchenerz%C3%A4hlungen%2C_Op.132_%28Schumann%2C_Robert%29

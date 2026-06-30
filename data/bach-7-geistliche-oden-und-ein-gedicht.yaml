@@ -1,0 +1,15 @@
+id: bach-7-geistliche-oden-und-ein-gedicht
+work:
+  composer: Bach, Johann Sebastian
+  title: 7 Geistliche Oden und ein Gedicht
+  ids:
+    imslp: 7 Geistliche Oden und ein Gedicht, BWV Anh.32-39 (Bach, Johann Sebastian)
+  year: 1704
+formula: ''
+instrumentation:
+  additional_raw: Voice and Continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Geistliche_Oden_und_ein_Gedicht%2C_BWV_Anh.32-39_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Continuo'

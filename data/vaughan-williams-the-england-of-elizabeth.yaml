@@ -1,0 +1,14 @@
+id: vaughan-williams-the-england-of-elizabeth
+work:
+  composer: Vaughan Williams, Ralph
+  title: The England of Elizabeth
+  ids:
+    imslp: The England of Elizabeth (Vaughan Williams, Ralph)
+  year: 1955
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_England_of_Elizabeth_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

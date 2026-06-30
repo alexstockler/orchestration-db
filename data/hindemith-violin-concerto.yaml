@@ -1,0 +1,27 @@
+id: hindemith-violin-concerto
+work:
+  composer: Hindemith, Paul
+  title: Violin Concerto
+  ids:
+    imslp: Violin Concerto (Hindemith, Paul)
+  year: 1939
+formula: ''
+instrumentation:
+  percussion:
+    instruments:
+    - bass drum
+    - snare drum
+    - cymbals
+    - triangle
+    - tambourine
+    - large gong
+  additional_raw: small and large suspended cymbals
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Concerto_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes, 2 clarinets (B, A),
+    bass clarinet (B), 2 bassoons, 4 horns (F), 2 trumpets (C), 3 trombones, tuba,
+    timpani, percussion, strings : bass drum, snare drum, cymbals, small and large
+    suspended cymbals,, triangle, tambourine, large gong'
+duration_minutes: 30

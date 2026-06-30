@@ -1,0 +1,96 @@
+id: borodin-prince-igor
+work:
+  composer: Borodin, Aleksandr
+  title: Prince Igor
+  ids:
+    imslp: Polovtsian Dances (Borodin, Aleksandr)
+  year: 1869
+formula: 1[pic] 3[1.2.Eh] 3[1.2.bcl] 2 4 4[1.2.cnt.cnt] 3 2 tmp pf hp
+instrumentation:
+  flute:
+  - instrument: piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  tuba: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - snare drum
+    - bass drum
+    - cymbals
+    - tam-tams
+    - tambourine
+    - glockenspiel
+  keyboards:
+  - instrument: piano
+  harp: 1
+  soloists:
+  - Igor Svyatoslavich
+  - Prince of Novgorod-Seversky (baritone)
+  - Yaroslavna
+  - Igor's wife by his second marriage (soprano)
+  - Vladimir Igorevich
+  - Igor's son from his first marriage (tenor)
+  - Vladimir Yaroslavich Galitsky
+  - Prince of Galich
+  - brother of Yaroslavna (high bass)
+  - Konchak
+  - Polovtsian Khan (bass)
+  - Konchakovna
+  - daughter of Konchak (contralto)
+  - Ovlur
+  - a Christian Polovtsian (tenor)
+  - Skula
+  - a gudok-player (bass)
+  - Yeroshka
+  - a gudok-player (tenor)
+  - Yaroslavna's nurse (soprano)
+  - A Polovtsian maiden (soprano)
+  - Gzak
+  - Polovtsian Khan (silent) 2 Mixed Choruses (SATB) :Russian Princes and Princesses
+  - Boyars and Boyarynas
+  - Elders
+  - Russian Warriors
+  - Maidens
+  - People
+  - Polovtsian Khans
+  - Konchakovna's Girlfriends
+  - Slaves of Khan Konchak
+  - Russian Prisoners
+  - Polovtsian Sentries
+  additional_raw: 2 flutes (1st or 2nd also piccolo) | strings (16-20, 14-18, 10-14,
+    8-10, 8-10) Brass Band (Polovtsian March) | 5 saxhorns (2 altos, 2 tenors, bass)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Polovtsian_Dances_%28Borodin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Igor Svyatoslavich, Prince of Novgorod-Seversky (baritone),
+    Yaroslavna, Igor''s wife by his second marriage (soprano), Vladimir Igorevich,
+    Igor''s son from his first marriage (tenor), Vladimir Yaroslavich Galitsky, Prince
+    of Galich, brother of Yaroslavna (high bass), Konchak, Polovtsian Khan (bass),
+    Konchakovna, daughter of Konchak (contralto), Ovlur, a Christian Polovtsian (tenor),
+    Skula, a gudok-player (bass), Yeroshka, a gudok-player (tenor), Yaroslavna''s
+    nurse (soprano), A Polovtsian maiden (soprano), Gzak, Polovtsian Khan (silent)
+    2 Mixed Choruses (SATB) :Russian Princes and Princesses, Boyars and Boyarynas,
+    Elders, Russian Warriors, Maidens, People, Polovtsian Khans, Konchakovna''s Girlfriends,
+    Slaves of Khan Konchak, Russian Prisoners, Polovtsian Sentries Orchestra :piccolo,
+    2 flutes (1st or 2nd also piccolo), 2 oboes, English horn,, 2 clarinets, bass
+    clarinet, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani, triangle,
+    snare drum, bass drum, cymbals, 2 tam-tams, tambourine, glockenspiel,, piano (ad
+    lib.), harp (ad lib.), strings (16-20, 14-18, 10-14, 8-10, 8-10) Brass Band (Polovtsian
+    March) :2 cornets, 5 saxhorns (2 altos, 2 tenors, bass), tuba, snare drum'

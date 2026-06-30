@@ -1,0 +1,17 @@
+id: offenbach-la-vie-parisienne
+work:
+  composer: Offenbach, Jacques
+  title: La vie parisienne
+  ids:
+    imslp: La vie parisienne (Offenbach, Jacques)
+  year: 1866
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_vie_parisienne_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

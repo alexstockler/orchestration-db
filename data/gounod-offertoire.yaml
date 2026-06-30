@@ -1,0 +1,16 @@
+id: gounod-offertoire
+work:
+  composer: Gounod, Charles
+  title: Offertoire
+  ids:
+    imslp: Offertoire, CG 628 (Gounod, Charles)
+  year: 1876
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Offertoire%2C_CG_628_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

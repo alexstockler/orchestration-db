@@ -1,0 +1,17 @@
+id: nielsen-der-er-en-bn-paa-jorden
+work:
+  composer: Nielsen, Carl
+  title: Der er en Bøn paa Jorden
+  ids:
+    imslp: Der er en Bøn paa Jorden, CNW 157 (Nielsen, Carl)
+  year: 1913
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: piano / mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_er_en_B%C3%B8n_paa_Jorden%2C_CNW_157_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano / mixed chorus'

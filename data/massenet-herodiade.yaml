@@ -1,0 +1,91 @@
+id: massenet-herodiade
+work:
+  composer: Massenet, Jules
+  title: Hérodiade
+  ids:
+    imslp: Hérodiade (Massenet, Jules)
+  year: 1881
+formula: 7[pic.2.3.pic.pic.6.7] 3[1.2.Eh] 6[Ebcl.2.3.bcl.5.6] 2 4 8[1.2.cnt.cnt.cnt.cnt.7.8]
+  7 1 tmp+1 pf 3hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  - instrument: piccolo
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  - {}
+  - {}
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  trombone: 7
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - triangle
+    - tambourine
+    - snare drum
+    - glockenspiel
+  keyboards:
+  - instrument: piano
+  harp: 3
+  strings: str
+  soloists:
+  - Salomé (soprano)
+  - Hérodiade (mezzo)
+  - Jean (tenor)
+  - Hérode (baritone)
+  - Phanuel (bass)
+  - Vitellius (baritone)
+  - High priest (baritone)
+  - A voice (tenor)
+  - Young Babylonian (soprano)
+  - La Sulamite (spoken) Mixed Chorus :merchants
+  - slaves
+  - Israelites
+  - Roman soldiers
+  additional_raw: 2 saxophones (alto, tenor) | contrabass saxhorn | sleighbells |
+    keyboard glockenspiel ' | 2 herald trumpets | sop saxhorn | tuba ' | (keyboard
+    glockenspiel, 2 pair antique cymbals, triangle, tambour arabe)
+  offstage:
+  - bells
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/H%C3%A9rodiade_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Salomé (soprano), Hérodiade (mezzo), Jean (tenor),
+    Hérode (baritone), Phanuel (bass), Vitellius (baritone), High priest (baritone),
+    A voice (tenor), Young Babylonian (soprano), La Sulamite (spoken) Mixed Chorus
+    :merchants, slaves, Israelites, Roman soldiers Orchestra :piccolo, 2 flutes, 2
+    oboes, English horn, piccolo clarinet, ::2 clarinets, bass clarinet, 2 saxophones
+    (alto, tenor), 2 bassoons :4 horns, 2 trumpets, 2 cornets, 4 trombones, tuba,
+    contrabass saxhorn,, timpani (2 players), percussion*, 2 harps, strings ::bass
+    drum, cymbals, triangle, sleighbells, bells (also offstage), tambourine,, snare
+    drum, glockenspiel, snare drum, keyboard glockenspiel '' :2 herald trumpets, sop
+    saxhorn, 2 cornets, 2 trumpets, 3 trombones, tuba '' :2 piccolos, 2 flutes, 2
+    clarinets, harp, percussion, piano, percussion, (keyboard glockenspiel, 2 pair
+    antique cymbals, triangle, tambour arabe)'

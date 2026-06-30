@@ -1,0 +1,18 @@
+id: nielsen-romance-in-g-major-cnw-60
+work:
+  composer: Nielsen, Carl
+  title: Romance in G major, CNW 60
+  ids:
+    imslp: Romance in G major, CNW 60 (Nielsen, Carl)
+  year: 1888
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romance_in_G_major%2C_CNW_60_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

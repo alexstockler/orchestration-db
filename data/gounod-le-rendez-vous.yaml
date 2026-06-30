@@ -1,0 +1,16 @@
+id: gounod-le-rendez-vous
+work:
+  composer: Gounod, Charles
+  title: Le rendez-vous
+  ids:
+    imslp: Le rendez-vous, CG 613 (Gounod, Charles)
+  year: 1847
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_rendez-vous%2C_CG_613_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands (piano solo published simultaneously)'

@@ -1,0 +1,18 @@
+id: gounod-tout-l-univers-obeit-a-l-amour
+work:
+  composer: Gounod, Charles
+  title: Tout l'univers obéit à l'amour
+  ids:
+    imslp: Tout l'univers obéit à l'amour, CG 464 (Gounod, Charles)
+  year: 1890
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tout_l%27univers_ob%C3%A9it_%C3%A0_l%27amour%2C_CG_464_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

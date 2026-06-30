@@ -5,7 +5,7 @@ work:
   ids:
     imslp: Japanische Festmusik, Op.84 (Strauss, Richard)
   year: 1940
-formula: 3[1.2.3/pic] 3[1.2.Eh] 5[1.2.3.4.bcl] 4[1.2.3.cbn] 8402 tmp cel org 2hp str
+formula: 3[1.2.3/pic] 3[1.2.Eh] 5[1.2.3.4.bcl] 4[1.2.3.cbn] 0042 tmp cel org 2hp str
 instrumentation:
   flute:
   - {}
@@ -27,8 +27,11 @@ instrumentation:
   - {}
   - {}
   - instrument: contrabassoon
-  horn: 8
-  trumpet: 4
+  trombone:
+  - optional: true
+  - optional: true
+  - optional: true
+  - optional: true
   tuba: 2
   percussion:
     timpani: 1
@@ -37,8 +40,8 @@ instrumentation:
   - instrument: organ
   harp: 2
   strings: str
-  additional_raw: 4 trombones (+ 4 trombones (ad lib.)) | 14 tuned temple gongs |
-    various percussion
+  additional_raw: 8 horns (+ 2 horns ad lib.) | 4 trumpets (+ 3 trumpets ad lib.)
+    | 14 tuned temple gongs | various percussion
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Japanische_Festmusik%2C_Op.84_%28Strauss%2C_Richard%29

@@ -1,0 +1,17 @@
+id: nielsen-nar-somrens-sang-er-sungen
+work:
+  composer: Nielsen, Carl
+  title: Når Somrens Sang er sungen
+  ids:
+    imslp: Når Somrens Sang er sungen, CNW 247 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/N%C3%A5r_Somrens_Sang_er_sungen%2C_CNW_247_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

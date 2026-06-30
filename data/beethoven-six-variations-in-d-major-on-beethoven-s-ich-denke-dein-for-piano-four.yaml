@@ -6,9 +6,10 @@ work:
   ids:
     imslp: 6 Variations on 'Ich denke dein', WoO 74 (Beethoven, Ludwig van)
   year: 1803
-formula: ''
+formula: pf
 instrumentation:
-  additional_raw: piano 4-hands
+  keyboards:
+  - instrument: piano
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/6_Variations_on_%27Ich_denke_dein%27%2C_WoO_74_%28Beethoven%2C_Ludwig_van%29

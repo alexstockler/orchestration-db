@@ -1,0 +1,19 @@
+id: janacek-romance-for-violin-and-piano
+work:
+  composer: Janáček, Leoš
+  title: Romance for Violin and Piano
+  ids:
+    imslp: Romance for Violin and Piano (Janáček, Leoš)
+  year: 1879
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romance_for_Violin_and_Piano_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 5

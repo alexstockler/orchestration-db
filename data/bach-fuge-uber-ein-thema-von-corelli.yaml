@@ -1,0 +1,16 @@
+id: bach-fuge-uber-ein-thema-von-corelli
+work:
+  composer: Bach, Johann Sebastian
+  title: Fuge über ein Thema von Corelli
+  ids:
+    imslp: Fugue on a Theme by Corelli, BWV 579 (Bach, Johann Sebastian)
+  year: 1710
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_on_a_Theme_by_Corelli%2C_BWV_579_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

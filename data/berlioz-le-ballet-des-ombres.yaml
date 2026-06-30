@@ -1,0 +1,17 @@
+id: berlioz-le-ballet-des-ombres
+work:
+  composer: Berlioz, Hector
+  title: Le ballet des ombres
+  ids:
+    imslp: Le ballet des ombres, H 37 (Berlioz, Hector)
+  year: 1829
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: STTB voices divisi
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_ballet_des_ombres%2C_H_37_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: STTB voices divisi, piano'

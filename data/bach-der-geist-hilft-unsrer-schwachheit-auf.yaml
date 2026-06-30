@@ -1,0 +1,22 @@
+id: bach-der-geist-hilft-unsrer-schwachheit-auf
+work:
+  composer: Bach, Johann Sebastian
+  title: Der Geist hilft unsrer Schwachheit auf
+  ids:
+    imslp: Der Geist hilft unser Schwachheit auf, BWV 226 (Bach, Johann Sebastian)
+  year: 1729
+formula: 0001 0000
+instrumentation:
+  bassoon: 1
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+  additional_raw: 'Chorus II: 2 oboes | taille d''hautbois | continuo (violone and
+    organ)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Geist_hilft_unser_Schwachheit_auf%2C_BWV_226_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Chorus I: 2 violins, viola, cello, Chorus II: 2 oboes,
+    taille d''hautbois, bassoon, continuo (violone and organ)'

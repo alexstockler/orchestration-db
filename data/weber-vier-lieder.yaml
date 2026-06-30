@@ -1,0 +1,16 @@
+id: weber-vier-lieder
+work:
+  composer: Weber, Carl Maria von
+  title: Vier Lieder
+  ids:
+    imslp: 4 Lieder, Op.46 (Weber, Carl Maria von)
+  year: 1816
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Lieder%2C_Op.46_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voice and piano'

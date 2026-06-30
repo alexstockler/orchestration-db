@@ -5,11 +5,11 @@ work:
   ids:
     imslp: 3 Romanzen, Op.94 (Schumann, Robert)
   year: 1849
-formula: 0100 0000 pf
+formula: pf
 instrumentation:
-  oboe: 1
   keyboards:
   - instrument: piano
+  additional_raw: oboe (or violin or clarinet)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/3_Romanzen%2C_Op.94_%28Schumann%2C_Robert%29

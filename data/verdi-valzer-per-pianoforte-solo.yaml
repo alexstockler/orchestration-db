@@ -1,0 +1,17 @@
+id: verdi-valzer-per-pianoforte-solo
+work:
+  composer: Verdi, Giuseppe
+  title: Valzer per Pianoforte solo
+  ids:
+    imslp: Waltz in F major (Verdi, Giuseppe)
+  year: 1859
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Waltz_in_F_major_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 2

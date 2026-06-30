@@ -1,0 +1,68 @@
+id: hindemith-morder-hoffnung-der-frauen
+work:
+  composer: Hindemith, Paul
+  title: Mörder, Hoffnung der Frauen
+  ids:
+    imslp: Mörder, Hoffnung der Frauen, Op.12 (Hindemith, Paul)
+  year: 1919
+formula: 3[1.2.3/pic] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 8451 tmp+1 2hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 8
+  trumpet: 4
+  trombone: 5
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+    instruments:
+    - snare drum
+    - field drum
+    - triangle
+    - tam-tam
+    - cymbals
+    - suspended cymbal
+    - bass drum
+  harp: 2
+  strings: str
+  soloists:
+  - Roles ::Man (baritone)
+  - Woman (soprano)
+  - First soldier (tenor)
+  - Second soldier (bass)
+  - Third soldier (tenor)
+  - First maid (soprano)
+  - Second maid (alto)
+  - Third maid (soprano) :Chorus (SATB) ::Soldiers
+  - Maids :Pit-
+  additional_raw: Incidental Music (On-Stage)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/M%C3%B6rder%2C_Hoffnung_der_Frauen%2C_Op.12_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Roles ::Man (baritone), Woman
+    (soprano), First soldier (tenor), Second soldier (bass), Third soldier (tenor),
+    First maid (soprano), Second maid (alto), Third maid (soprano) :Chorus (SATB)
+    ::Soldiers, Maids :Pit-Orchestra ::3 flutes (3rd also piccolo), 2 oboes, English
+    horn, 2 clarinets (B), :::bass clarinet (B), 2 bassoons, contrabassoon ::6 horns
+    (F), 4 trumpets (B), 3 trombones, tuba, timpani, percussion (3 players), 2 harps,
+    strings (large complement of strings) ::: snare drum, field drum, triangle, tam-tam,
+    cymbals, suspended cymbal, bass drum :Incidental Music (On-Stage) ::2 horns (5th
+    and 6th from orchestra), 2 trombones (1st and 2nd from orchestra)'
+duration_minutes: 24

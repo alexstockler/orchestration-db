@@ -1,0 +1,16 @@
+id: delibes-les-trois-oiseaux
+work:
+  composer: Delibes, Léo
+  title: Les trois oiseaux
+  ids:
+    imslp: Les trois oiseaux (Delibes, Léo)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 2 Soprano voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_trois_oiseaux_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Soprano voices, Piano'

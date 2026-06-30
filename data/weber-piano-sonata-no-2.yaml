@@ -1,0 +1,16 @@
+id: weber-piano-sonata-no-2
+work:
+  composer: Weber, Carl Maria von
+  title: Piano Sonata No.2
+  ids:
+    imslp: Piano Sonata No.2 in A-flat major, Op.39 (Weber, Carl Maria von)
+  year: 1814
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.2_in_A-flat_major%2C_Op.39_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

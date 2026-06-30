@@ -1,0 +1,15 @@
+id: bach-es-woll-uns-gott-genadig-sein
+work:
+  composer: Bach, Johann Sebastian
+  title: Es woll uns Gott genädig sein
+  ids:
+    imslp: Es woll uns Gott genädig sein, BWV 312 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_woll_uns_Gott_gen%C3%A4dig_sein%2C_BWV_312_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

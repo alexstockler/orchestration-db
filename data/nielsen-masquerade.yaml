@@ -1,0 +1,101 @@
+id: nielsen-masquerade
+work:
+  composer: Nielsen, Carl
+  title: Masquerade
+  ids:
+    imslp: Maskarade, CNW 2 (Nielsen, Carl)
+formula: 4[1.2.3/pic.4] 3[1.2.Eh] 3[1.2.bcl] 2 4331 tmp
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - snare drum
+    - bass drum
+    - cymbals
+    - castanets
+    - tam-tam
+    - glockenspiel
+    - cowbell
+  soloists:
+  - Jeronimus
+  - Citizen of Copenhagen (bass)
+  - Magdelone
+  - his wife (mezzo-soprano)
+  - Leander
+  - their son (tenor)
+  - Henrik
+  - Leander's servant (bass-baritone)
+  - Arv
+  - outdoor servant (tenor)
+  - Leonard
+  - from Slagelse (tenor-baritone)
+  - Leonora
+  - his daughter (soprano)
+  - Pernille
+  - Leonora's maid (soprano)
+  - A Watchman (bass)
+  - A Doorman (baritone)
+  - A Mask-seller (baritone)
+  - A Tutor (baritone)
+  - A Flower-boy (soprano)
+  - Master of the Masquerades (bass-baritone)
+  - A Student (tenor)
+  - 1st Student (tenor)
+  - 2nd Student (tenor)
+  - 3rd Student (tenor)
+  - 4th Student (tenor)
+  - 5th Student (tenor)
+  - 1st Girl (soprano)
+  - 2nd Girl (soprano)
+  - 3rd Girl (soprano)
+  - An Officer (bass) Chorus :Students
+  - Officers
+  - Young Girls
+  - Masked Persons of both Sexes Mutes :The Dancing Master
+  - His Fiancée
+  - Vulcan Pit-
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+    double_bass: 1
+  additional_raw: strings Offstage Orchestra (behind the stage)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Maskarade%2C_CNW_2_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Jeronimus, Citizen of Copenhagen (bass), Magdelone,
+    his wife (mezzo-soprano), Leander, their son (tenor), Henrik, Leander''s servant
+    (bass-baritone), Arv, outdoor servant (tenor), Leonard, from Slagelse (tenor-baritone),
+    Leonora, his daughter (soprano), Pernille, Leonora''s maid (soprano), A Watchman
+    (bass), A Doorman (baritone), A Mask-seller (baritone), A Tutor (baritone), A
+    Flower-boy (soprano), Master of the Masquerades (bass-baritone), A Student (tenor),
+    1st Student (tenor), 2nd Student (tenor), 3rd Student (tenor), 4th Student (tenor),
+    5th Student (tenor), 1st Girl (soprano), 2nd Girl (soprano), 3rd Girl (soprano),
+    An Officer (bass) Chorus :Students, Officers, Young Girls, Masked Persons of both
+    Sexes Mutes :The Dancing Master, His Fiancée, Vulcan Pit-Orchestra :3 flutes (3rd
+    also piccolo), 2 oboes, English horn, 2 clarinets, bass clarinet, 2 bassoons,
+    4 horns, 3 trumpets, 3 trombones, tuba, timpani, triangle, snare drum, bass drum,
+    cymbals, castanets, tam-tam, glockenspiel, cowbell, strings Offstage Orchestra
+    (behind the stage) :flute, 2 violins, viola, cello, double bass'
+duration_minutes: 90

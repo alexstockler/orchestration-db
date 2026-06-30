@@ -1,0 +1,18 @@
+id: kodaly-5-songs
+work:
+  composer: Kodály, Zoltán
+  title: 5 Songs
+  ids:
+    imslp: 5 Songs, Op.9 (Kodály, Zoltán)
+  year: 1915
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Songs%2C_Op.9_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

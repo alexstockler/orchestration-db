@@ -1,0 +1,17 @@
+id: nielsen-nu-er-da-varen-kommen-cnw-214
+work:
+  composer: Nielsen, Carl
+  title: Nu er da Våren kommen, CNW 214
+  ids:
+    imslp: Nu er da Våren kommen, CNW 214 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nu_er_da_V%C3%A5ren_kommen%2C_CNW_214_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

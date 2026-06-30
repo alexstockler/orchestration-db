@@ -1,0 +1,59 @@
+id: puccini-le-villi
+work:
+  composer: Puccini, Giacomo
+  title: Le Villi
+  ids:
+    imslp: Le Villi, SC 60 (Puccini, Giacomo)
+  year: 1884
+formula: 3[pic.2.3] 3[1.2.Eh] 2 3[1.2.cbn] 4 4[1.2.cnt.cnt] 3 1 tmp hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - triangle
+    - tam-tam
+    - bells
+    - glockenspiel
+  harp: 1
+  strings: str
+  soloists:
+  - Guglielmo Wulf
+  - the head forester (baritone) :Anna
+  - his daughter (soprano) :Roberto
+  - a young man (tenor) Mixed Chorus :Mountain folk
+  - fairies
+  - unseen spirits
+  additional_raw: E cornet (piston)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_Villi%2C_SC_60_%28Puccini%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Guglielmo Wulf, the head forester (baritone) :Anna,
+    his daughter (soprano) :Roberto, a young man (tenor) Mixed Chorus :Mountain folk,
+    fairies, unseen spirits Orchestra :piccolo, 2 flutes, 2 oboes, English horn, 2
+    clarinets, 2 bassoons, contrabassoon :4 horns, 2 trumpets, 2 cornets, E cornet
+    (piston), 3 trombones, tuba :timpani, bass drum, cymbals, triangle, tam-tam, bells,
+    glockenspiel :harp, strings'

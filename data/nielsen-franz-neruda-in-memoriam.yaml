@@ -1,0 +1,27 @@
+id: nielsen-franz-neruda-in-memoriam
+work:
+  composer: Nielsen, Carl
+  title: Franz Neruda in Memoriam
+  ids:
+    imslp: Franz Neruda in memoriam, CNW 109 (Nielsen, Carl)
+  year: 1915
+formula: 3222 4200 tmp str
+instrumentation:
+  flute: 3
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - reciter
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Franz_Neruda_in_memoriam%2C_CNW_109_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice: reciter, Orchestra: 3 flutes, 2 oboes, 2 clarinets
+    (A), 2 bassoons, 4 horns (F), 2 trumpets (C), timpani, strings'
+duration_minutes: 5

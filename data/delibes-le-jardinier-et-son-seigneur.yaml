@@ -1,0 +1,33 @@
+id: delibes-le-jardinier-et-son-seigneur
+work:
+  composer: Delibes, Léo
+  title: Le jardinier et son seigneur
+  ids:
+    imslp: Le jardinier et son seigneur (Delibes, Léo)
+  year: 1863
+formula: 2[1.2/pic] 2 2 2 4 2[cnt.cnt] 2 0 tmp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_jardinier_et_son_seigneur_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, male chorus, orchestra :2 flutes (2nd also
+    piccolo), 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 cornets, 2 trombones, timpani,
+    triangle, strings'

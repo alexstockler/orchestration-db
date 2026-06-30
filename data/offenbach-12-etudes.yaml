@@ -1,0 +1,15 @@
+id: offenbach-12-etudes
+work:
+  composer: Offenbach, Jacques
+  title: 12 Etudes
+  ids:
+    imslp: 12 Etudes, Op.78 (Offenbach, Jacques)
+  year: 1845
+formula: ''
+instrumentation:
+  additional_raw: 2 cellos (2nd cello ad lib.)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Etudes%2C_Op.78_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 cellos (2nd cello ad lib.)'

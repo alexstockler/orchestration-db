@@ -1,0 +1,16 @@
+id: janacek-choralni-fantasie
+work:
+  composer: Janáček, Leoš
+  title: Chorální fantasie
+  ids:
+    imslp: Chorální fantasie, JW 8/4 (Janáček, Leoš)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chor%C3%A1ln%C3%AD_fantasie%2C_JW_8/4_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

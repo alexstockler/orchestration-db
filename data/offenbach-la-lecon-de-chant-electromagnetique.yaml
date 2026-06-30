@@ -1,0 +1,15 @@
+id: offenbach-la-lecon-de-chant-electromagnetique
+work:
+  composer: Offenbach, Jacques
+  title: La leçon de chant électromagnétique
+  ids:
+    imslp: La leçon de chant électromagnétique (Offenbach, Jacques)
+  year: 1862
+formula: ''
+instrumentation:
+  additional_raw: 2 vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_le%C3%A7on_de_chant_%C3%A9lectromagn%C3%A9tique_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 vocal soloists, orchestra'

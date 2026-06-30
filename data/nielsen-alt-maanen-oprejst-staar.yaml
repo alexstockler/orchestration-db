@@ -1,0 +1,19 @@
+id: nielsen-alt-maanen-oprejst-staar
+work:
+  composer: Nielsen, Carl
+  title: Alt Maanen oprejst staar
+  ids:
+    imslp: Alt Maanen oprejst staar, CNW 229 (Nielsen, Carl)
+  year: 1919
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  solo_strings:
+    viola: 2
+    cello: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alt_Maanen_oprejst_staar%2C_CNW_229_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, 2 violas, 2 cellos'

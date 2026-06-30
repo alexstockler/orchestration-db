@@ -10,7 +10,8 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: cello
+  solo_strings:
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/12_Variations_on_%27See_the_conqu%27ring_hero_comes%27%2C_WoO_45_%28Beethoven%2C_Ludwig_van%29

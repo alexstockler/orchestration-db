@@ -1,0 +1,15 @@
+id: bach-ach-lieben-christen-seid-getrost
+work:
+  composer: Bach, Johann Sebastian
+  title: Ach lieben Christen, seid getrost
+  ids:
+    imslp: Ach lieben Christen, seid getrost, BWV 256 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach_lieben_Christen%2C_seid_getrost%2C_BWV_256_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

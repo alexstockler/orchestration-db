@@ -1,0 +1,31 @@
+id: holst-two-songs-without-words
+work:
+  composer: Holst, Gustav
+  title: Two Songs without Words
+  ids:
+    imslp: 2 Songs without Words, Op.22 (Holst, Gustav)
+  year: 1906
+formula: 2[1.2/pic] 1 2 2 2210 tmp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 1
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - snare drum
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Songs_without_Words%2C_Op.22_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), oboe, 2 clarinets, 2 bassoons,
+    2 horns, 2 trumpets, trombone, timpani, bass drum, snare drum, strings'

@@ -1,0 +1,18 @@
+id: smetana-rybar
+work:
+  composer: Smetana, Bedřich
+  title: Rybář
+  ids:
+    imslp: Rybář, JB 1:97 (Smetana, Bedřich)
+  year: 1869
+formula: harm hp str
+instrumentation:
+  keyboards:
+  - instrument: harmonium
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ryb%C3%A1%C5%99%2C_JB_1%3A97_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: Harmonium, Harp, Strings'

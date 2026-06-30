@@ -1,0 +1,26 @@
+id: gounod-hymne-a-sainte-cecile-meditation-religieuse
+work:
+  composer: Gounod, Charles
+  title: 'Hymne à Sainte Cécile: Méditation Religieuse'
+  ids:
+    imslp: Hymne à Sainte Cécile, CG 557 (Gounod, Charles)
+  year: 1865
+formula: 2122 4200 tmp hp
+instrumentation:
+  flute: 2
+  oboe: 1
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  percussion:
+    timpani: 1
+  harp: 1
+  solo_strings:
+    double_bass: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymne_%C3%A0_Sainte_C%C3%A9cile%2C_CG_557_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, oboe, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets,
+    timpani, harps, double bass'

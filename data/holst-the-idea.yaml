@@ -1,0 +1,16 @@
+id: holst-the-idea
+work:
+  composer: Holst, Gustav
+  title: The Idea
+  ids:
+    imslp: The Idea (Holst, Gustav)
+  year: 1896
+formula: ''
+instrumentation:
+  chorus_raw: children's chorus
+  additional_raw: soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Idea_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: soloists, children''s chorus, orchestra'

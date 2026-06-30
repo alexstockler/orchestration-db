@@ -1,0 +1,30 @@
+id: respighi-three-botticelli-pictures
+work:
+  composer: Respighi, Ottorino
+  title: Three Botticelli Pictures
+  ids:
+    imslp: Trittico botticelliano (Respighi, Ottorino)
+  year: 1927
+formula: 1111 1100 cel pf hp str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 1
+  trumpet: 1
+  percussion:
+    instruments:
+    - triangle
+    - glockenspiel
+  keyboards:
+  - instrument: celesta
+  - instrument: piano
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trittico_botticelliano_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, clarinet, bassoon, horn, trumpet, triangle,
+    glockenspiel, celesta, harp, piano, strings'

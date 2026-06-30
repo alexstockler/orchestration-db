@@ -7,7 +7,8 @@ work:
   year: 1916
 formula: ''
 instrumentation:
-  additional_raw: Voice and Piano
+  soloists:
+  - voice and piano
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/6_Songs%2C_Op.86_%28Sibelius%2C_Jean%29

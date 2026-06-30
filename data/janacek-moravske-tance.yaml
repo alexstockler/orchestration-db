@@ -1,0 +1,14 @@
+id: janacek-moravske-tance
+work:
+  composer: Janáček, Leoš
+  title: Moravské tance
+  ids:
+    imslp: Moravské tance, JW 6/7 (Janáček, Leoš)
+  year: 1904
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Moravsk%C3%A9_tance%2C_JW_6/7_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra or piano solo'

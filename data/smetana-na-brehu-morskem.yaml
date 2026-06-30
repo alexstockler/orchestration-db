@@ -1,0 +1,17 @@
+id: smetana-na-brehu-morskem
+work:
+  composer: Smetana, Bedřich
+  title: Na břehu mořském
+  ids:
+    imslp: Na břehu mořském, JB 1:80 (Smetana, Bedřich)
+  year: 1861
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Na_b%C5%99ehu_mo%C5%99sk%C3%A9m%2C_JB_1%3A80_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 5

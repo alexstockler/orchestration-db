@@ -1,0 +1,15 @@
+id: gounod-la-cigale-et-la-fourmi
+work:
+  composer: Gounod, Charles
+  title: La cigale et la fourmi
+  ids:
+    imslp: La cigale et la fourmi, CG 209 (Gounod, Charles)
+  year: 1856
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_cigale_et_la_fourmi%2C_CG_209_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

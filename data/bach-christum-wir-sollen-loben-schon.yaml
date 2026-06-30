@@ -1,0 +1,16 @@
+id: bach-christum-wir-sollen-loben-schon
+work:
+  composer: Bach, Johann Sebastian
+  title: Christum wir sollen loben schon
+  ids:
+    imslp: Christum wir sollen loben schon, BWV 696 (Bach, Johann Sebastian)
+  year: 1739
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Christum_wir_sollen_loben_schon%2C_BWV_696_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

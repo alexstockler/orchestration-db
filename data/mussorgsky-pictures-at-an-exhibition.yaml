@@ -1,0 +1,16 @@
+id: mussorgsky-pictures-at-an-exhibition
+work:
+  composer: Mussorgsky, Modest
+  title: Pictures at an Exhibition
+  ids:
+    imslp: Pictures at an Exhibition (Mussorgsky, Modest)
+  year: 1874
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pictures_at_an_Exhibition_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

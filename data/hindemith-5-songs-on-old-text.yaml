@@ -1,0 +1,16 @@
+id: hindemith-5-songs-on-old-text
+work:
+  composer: Hindemith, Paul
+  title: 5 Songs on Old Text
+  ids:
+    imslp: 5 Songs on Old Text (Hindemith, Paul)
+  year: 1937
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Songs_on_Old_Text_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SSATB)'
+duration_minutes: 8

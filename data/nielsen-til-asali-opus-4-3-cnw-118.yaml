@@ -1,0 +1,17 @@
+id: nielsen-til-asali-opus-4-3-cnw-118
+work:
+  composer: Nielsen, Carl
+  title: Til Asali, opus 4.3, CNW 118
+  ids:
+    imslp: Til Asali, CNW 118 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Til_Asali%2C_CNW_118_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

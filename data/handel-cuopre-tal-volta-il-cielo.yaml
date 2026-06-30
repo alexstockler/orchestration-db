@@ -8,7 +8,9 @@ formula: ''
 instrumentation:
   soloists:
   - bass
-  additional_raw: 2 violins | continuo
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Cuopre_tal_volta_il_cielo%2C_HWV_98_%28Handel%2C_George_Frideric%29

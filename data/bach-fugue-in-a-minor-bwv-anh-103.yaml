@@ -1,0 +1,15 @@
+id: bach-fugue-in-a-minor-bwv-anh-103
+work:
+  composer: Bach, Johann Sebastian
+  title: Fugue in A minor, BWV Anh.103
+  ids:
+    imslp: Fugue in A minor, BWV Anh.103 (Bach, Johann Sebastian)
+formula: ''
+instrumentation:
+  additional_raw: Keybaord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_A_minor%2C_BWV_Anh.103_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Keybaord'
+duration_minutes: 4

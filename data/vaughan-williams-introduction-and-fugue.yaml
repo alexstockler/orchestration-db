@@ -1,0 +1,16 @@
+id: vaughan-williams-introduction-and-fugue
+work:
+  composer: Vaughan Williams, Ralph
+  title: Introduction and Fugue
+  ids:
+    imslp: Introduction and Fugue (Vaughan Williams, Ralph)
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Introduction_and_Fugue_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 pianos'

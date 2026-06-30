@@ -1,0 +1,16 @@
+id: scriabin-4-morceaux
+work:
+  composer: Scriabin, Aleksandr
+  title: 4 Morceaux
+  ids:
+    imslp: 4 Pieces, Op.51 (Scriabin, Aleksandr)
+  year: 1906
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Pieces%2C_Op.51_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

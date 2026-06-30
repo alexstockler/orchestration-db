@@ -1,0 +1,17 @@
+id: nielsen-string-quartet-movement-in-b-flat-major
+work:
+  composer: Nielsen, Carl
+  title: String Quartet movement in B-flat major
+  ids:
+    imslp: Menuetto in B-flat major, Add.14 (Nielsen, Carl)
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Menuetto_in_B-flat_major%2C_Add.14_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

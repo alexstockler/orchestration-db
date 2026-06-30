@@ -6,7 +6,7 @@ work:
     imslp: Bergliot, Op.42 (Grieg, Edvard)
 formula: ''
 instrumentation:
-  additional_raw: speaker | orchestra (or piano reduction)
+  additional_raw: speaker
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Bergliot%2C_Op.42_%28Grieg%2C_Edvard%29

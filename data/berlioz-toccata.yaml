@@ -1,0 +1,16 @@
+id: berlioz-toccata
+work:
+  composer: Berlioz, Hector
+  title: Toccata
+  ids:
+    imslp: Toccata, H 99 (Berlioz, Hector)
+  year: 1844
+formula: harm
+instrumentation:
+  keyboards:
+  - instrument: harmonium
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Toccata%2C_H_99_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: Harmonium'

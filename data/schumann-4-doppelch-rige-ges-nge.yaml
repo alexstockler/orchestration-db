@@ -6,7 +6,7 @@ work:
     imslp: 4 Doppelchörige Gesänge, Op.141 (Schumann, Robert)
 formula: ''
 instrumentation:
-  additional_raw: 2 mixed choruses (SATB/SATB)
+  chorus_raw: 2 mixed choruses
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/4_Doppelch%C3%B6rige_Ges%C3%A4nge%2C_Op.141_%28Schumann%2C_Robert%29

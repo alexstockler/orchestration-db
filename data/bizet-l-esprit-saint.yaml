@@ -1,0 +1,19 @@
+id: bizet-l-esprit-saint
+work:
+  composer: Bizet, Georges
+  title: L'esprit saint
+  ids:
+    imslp: L'esprit saint (Bizet, Georges)
+  year: 1869
+formula: pf harm
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: harmonium
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27esprit_saint_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano, harmonium (ad lib.)'

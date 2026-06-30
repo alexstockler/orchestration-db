@@ -5,9 +5,11 @@ work:
   ids:
     imslp: 6 Romanzen für Frauenstimmen Vol.I, Op.69 (Schumann, Robert)
   year: 1849
-formula: ''
+formula: pf
 instrumentation:
-  additional_raw: female choir | piano ad lib.
+  keyboards:
+  - instrument: piano
+  chorus_raw: female choir
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/6_Romanzen_f%C3%BCr_Frauenstimmen_Vol.I%2C_Op.69_%28Schumann%2C_Robert%29

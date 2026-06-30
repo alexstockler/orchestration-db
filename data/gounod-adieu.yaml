@@ -1,0 +1,16 @@
+id: gounod-adieu
+work:
+  composer: Gounod, Charles
+  title: Adieu
+  ids:
+    imslp: Adieu, CG 595 (Gounod, Charles)
+  year: 1859
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adieu%2C_CG_595_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'

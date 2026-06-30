@@ -1,0 +1,18 @@
+id: nielsen-hver-har-sit-du-har-dit
+work:
+  composer: Nielsen, Carl
+  title: Hver har sit, du har dit
+  ids:
+    imslp: Hver har sit, du har dit, CNW 402 (Nielsen, Carl)
+  year: 1926
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hver_har_sit%2C_du_har_dit%2C_CNW_402_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

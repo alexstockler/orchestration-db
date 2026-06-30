@@ -1,0 +1,18 @@
+id: gounod-meditation
+work:
+  composer: Gounod, Charles
+  title: Méditation
+  ids:
+    imslp: Méditation, CG 2c (Gounod, Charles)
+formula: pf harm
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: harmonium
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/M%C3%A9ditation%2C_CG_2c_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: violin (or cello), piano, harmonium'

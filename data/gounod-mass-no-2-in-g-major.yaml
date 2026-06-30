@@ -1,0 +1,16 @@
+id: gounod-mass-no-2-in-g-major
+work:
+  composer: Gounod, Charles
+  title: Mass No. 2 in G Major
+  ids:
+    imslp: Mass No.2 in G major, CG 71 (Gounod, Charles)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mass_No.2_in_G_major%2C_CG_71_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB), organ'

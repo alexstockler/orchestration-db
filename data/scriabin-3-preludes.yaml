@@ -1,0 +1,16 @@
+id: scriabin-3-preludes
+work:
+  composer: Scriabin, Aleksandr
+  title: 3 Preludes
+  ids:
+    imslp: 3 Preludes, Op.35 (Scriabin, Aleksandr)
+  year: 1903
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Preludes%2C_Op.35_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,15 @@
+id: lalo-fantaisie-norvegienne
+work:
+  composer: Lalo, Édouard
+  title: Fantaisie norvégienne
+  ids:
+    imslp: Fantaisie norvégienne (Lalo, Édouard)
+  year: 1878
+formula: ''
+instrumentation:
+  additional_raw: Violin solo and Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantaisie_norv%C3%A9gienne_%28Lalo%2C_%C3%89douard%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin solo and Orchestra'

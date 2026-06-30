@@ -12,7 +12,10 @@ instrumentation:
   - alto
   - tenor
   - bass
-  additional_raw: 2 violins or oboes | 2 violas | basso continuo
+  solo_strings:
+    violin: 2
+    viola: 2
+  additional_raw: basso continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Ach_Herr%2C_mich_armen_S%C3%BCnder_%28Handel%2C_George_Frideric%29

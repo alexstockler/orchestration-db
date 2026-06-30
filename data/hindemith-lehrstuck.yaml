@@ -1,0 +1,35 @@
+id: hindemith-lehrstuck
+work:
+  composer: Hindemith, Paul
+  title: Lehrstück
+  ids:
+    imslp: Lehrstück (Hindemith, Paul)
+  year: 1929
+formula: 0000 0 4[1.2.flhn.flhn] 2 1
+instrumentation:
+  trumpet:
+  - {}
+  - {}
+  - instrument: flugelhorn
+  - instrument: flugelhorn
+  trombone: 2
+  tuba: 1
+  chorus_raw: chorus
+  additional_raw: Cast | First male voice | flyer (tenor) | Second male voice (baritone
+    or bass) | Speaker or Spokesperson | dancers | three clowns | individual singers
+    from the audience | audience | strings and/or winds ad lib. | divided into high
+    | medium | and low parts | Far-Away Orchestra (Fernorchester) | 2 tenor horns
+    (B) [Wagner tubas?] | (extensions or replacement with french horns, saxophones,
+    baritone, or individual woodwinds are possible)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lehrst%C3%BCck_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Cast ::First male voice, flyer
+    (tenor), Second male voice (baritone or bass), Speaker or Spokesperson :Chorus
+    (SATB) ::dancers, three clowns, individual singers from the audience, audience
+    :Orchestra (Orchester) ::strings and/or winds ad lib., divided into high, medium,
+    and low parts :Far-Away Orchestra (Fernorchester) ::2 trumpets (B), 2 flugelhorns
+    (B), 2 tenor horns (B) [Wagner tubas?], 2 trombones, tuba, (extensions or replacement
+    with french horns, saxophones, baritone, or individual woodwinds are possible)'
+duration_minutes: 50

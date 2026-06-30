@@ -1,0 +1,17 @@
+id: smetana-bagatelles-et-impromptus
+work:
+  composer: Smetana, Bedřich
+  title: Bagatelles et impromptus
+  ids:
+    imslp: Bagatelles et impromptus, JB 1:19 (Smetana, Bedřich)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bagatelles_et_impromptus%2C_JB_1%3A19_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'
+duration_minutes: 15

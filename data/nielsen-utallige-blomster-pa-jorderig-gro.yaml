@@ -1,0 +1,17 @@
+id: nielsen-utallige-blomster-pa-jorderig-gro
+work:
+  composer: Nielsen, Carl
+  title: Utallige Blomster på Jorderig gro
+  ids:
+    imslp: Utallige Blomster på Jorderig gro (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Utallige_Blomster_p%C3%A5_Jorderig_gro_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

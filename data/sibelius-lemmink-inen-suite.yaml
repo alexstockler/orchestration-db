@@ -6,8 +6,7 @@ work:
     imslp: Lemminkäinen Suite, Op.22 (Sibelius, Jean)
   year: 1893
 formula: ''
-instrumentation:
-  additional_raw: Orchestra
+instrumentation: {}
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Lemmink%C3%A4inen_Suite%2C_Op.22_%28Sibelius%2C_Jean%29

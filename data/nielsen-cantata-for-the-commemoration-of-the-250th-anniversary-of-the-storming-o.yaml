@@ -1,0 +1,17 @@
+id: nielsen-cantata-for-the-commemoration-of-the-250th-anniversary-of-the-storming-o
+work:
+  composer: Nielsen, Carl
+  title: Cantata for the Commemoration of the 250th Anniversary of the Storming of
+    Copenhagen
+  ids:
+    imslp: Commemoration Cantata, CNW 106 (Nielsen, Carl)
+  year: 1909
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+  additional_raw: reciter
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Commemoration_Cantata%2C_CNW_106_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: reciter, male chorus (TTBB)'

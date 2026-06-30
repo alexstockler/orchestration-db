@@ -1,0 +1,32 @@
+id: respighi-aretusa
+work:
+  composer: Respighi, Ottorino
+  title: Aretusa
+  ids:
+    imslp: Aretusa (Respighi, Ottorino)
+  year: 1911
+formula: 3[pic.2.3] 2 2 2 4000 hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  percussion:
+    instruments:
+    - cymbals
+  harp: 1
+  strings: str
+  soloists:
+  - mezzo-soprano
+  additional_raw: sistrum
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aretusa_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal: mezzo-soprano, Orchestra: piccolo, 2 flutes, 2 oboes,
+    2 clarinets, 2 bassoons, 4 horns, sistrum, cymbals, harp, strings'
+duration_minutes: 12

@@ -1,0 +1,36 @@
+id: glazunov-stenka-razin
+work:
+  composer: Glazunov, Aleksandr
+  title: Stenka Razin
+  ids:
+    imslp: Stenka Razin, Op.13 (Glazunov, Aleksandr)
+  year: 1885
+formula: 3[1.2.3/pic] 2 2 2 4231 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - bass drum
+    - tam-tam
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Stenka_Razin%2C_Op.13_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 2 oboes, 2 clarinets, 2 bassoons,
+    4 horns, 2 trumpets, 3 trombones, tuba, timpani, cymbals, bass drum, tam-tam,
+    harp, strings'

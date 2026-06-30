@@ -1,0 +1,16 @@
+id: bach-gott-der-vater-wohn-uns-bei
+work:
+  composer: Bach, Johann Sebastian
+  title: Gott der Vater wohn uns bei
+  ids:
+    imslp: Gott der Vater wohn uns bei, BWV 748a (Bach, Johann Sebastian)
+  year: 1893
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_der_Vater_wohn_uns_bei%2C_BWV_748a_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

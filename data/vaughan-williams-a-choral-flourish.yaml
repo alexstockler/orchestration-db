@@ -1,0 +1,16 @@
+id: vaughan-williams-a-choral-flourish
+work:
+  composer: Vaughan Williams, Ralph
+  title: A Choral Flourish
+  ids:
+    imslp: A Choral Flourish (Vaughan Williams, Ralph)
+formula: ''
+instrumentation:
+  additional_raw: mixed choir (SATB) unaccompanied | with introduction for organ or
+    trumpets
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_Choral_Flourish_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed choir (SATB) unaccompanied, with introduction for
+    organ or trumpets'

@@ -1,0 +1,16 @@
+id: smetana-3-album-leaves-op-3
+work:
+  composer: Smetana, Bedřich
+  title: 3 Album Leaves, Op.3
+  ids:
+    imslp: 3 Album Leaves, Op.3 (Smetana, Bedřich)
+  year: 1848
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Album_Leaves%2C_Op.3_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano Solo'

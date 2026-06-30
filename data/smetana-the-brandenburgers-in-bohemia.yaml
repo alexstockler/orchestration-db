@@ -1,0 +1,26 @@
+id: smetana-the-brandenburgers-in-bohemia
+work:
+  composer: Smetana, Bedřich
+  title: The Brandenburgers in Bohemia
+  ids:
+    imslp: Braniboři v Čechách, JB 1:87 (Smetana, Bedřich)
+  year: 1862
+formula: ''
+instrumentation:
+  additional_raw: Cast | Volfram Olbramovič | Lord Mayor of Prague (bass) | Oldřich
+    Rokycanský | a knight (baritone) | Junoš | young resident of Prague (tenor) |
+    Jan Tausendmark | young resident of Prague (baritone) | Varneman | captain of
+    the Brandenburgers (tenor) | Jíra | a runaway serf (tenor) | Ludiše | Volfram's
+    daughter (soprano) | Vlčenka | Volfram's daughter (soprano) | Děčana | Volfram's
+    daughter (alto) | Old Villager (bass) | Town Crier (baritone)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Branibo%C5%99i_v_%C4%8Cech%C3%A1ch%2C_JB_1%3A87_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: solo voices, mixed chorus, orchestra :Cast ::Volfram Olbramovič,
+    Lord Mayor of Prague (bass), Oldřich Rokycanský, a knight (baritone), Junoš, young
+    resident of Prague (tenor), Jan Tausendmark, young resident of Prague (baritone),
+    Varneman, captain of the Brandenburgers (tenor), Jíra, a runaway serf (tenor),
+    Ludiše, Volfram''s daughter (soprano), Vlčenka, Volfram''s daughter (soprano),
+    Děčana, Volfram''s daughter (alto), Old Villager (bass), Town Crier (baritone)'
+duration_minutes: 150

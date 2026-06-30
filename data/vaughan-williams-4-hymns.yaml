@@ -1,0 +1,23 @@
+id: vaughan-williams-4-hymns
+work:
+  composer: Vaughan Williams, Ralph
+  title: 4 Hymns
+  ids:
+    imslp: 4 Hymns (Vaughan Williams, Ralph)
+  year: 1914
+formula: pf str
+instrumentation:
+  keyboards:
+  - instrument: piano
+  strings: str
+  soloists:
+  - tenor
+  - tenor
+  solo_strings:
+    viola: 1
+  additional_raw: viola solo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Hymns_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, viola solo, strings, tenor, viola, piano'

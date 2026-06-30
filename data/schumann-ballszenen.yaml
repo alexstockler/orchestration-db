@@ -4,9 +4,10 @@ work:
   title: Ballszenen
   ids:
     imslp: Ballszenen, Op.109 (Schumann, Robert)
-formula: ''
+formula: pf
 instrumentation:
-  additional_raw: piano 4-hands
+  keyboards:
+  - instrument: piano
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Ballszenen%2C_Op.109_%28Schumann%2C_Robert%29

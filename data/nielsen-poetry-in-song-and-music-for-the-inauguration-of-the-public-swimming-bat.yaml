@@ -1,0 +1,23 @@
+id: nielsen-poetry-in-song-and-music-for-the-inauguration-of-the-public-swimming-bat
+work:
+  composer: Nielsen, Carl
+  title: Poetry in Song and Music for the Inauguration of the Public Swimming Baths
+  ids:
+    imslp: Digtning i sang og toner ved svømmehallens indvielse, CNW 115 (Nielsen,
+      Carl)
+  year: 1930
+formula: 0022 2010
+instrumentation:
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trombone: 1
+  soloists:
+  - reciter
+  - mens chorus (TTBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Digtning_i_sang_og_toner_ved_sv%C3%B8mmehallens_indvielse%2C_CNW_115_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: reciter, mens chorus (TTBB), Orchestra: 2 clarinets
+    (A), 2 bassoons, 2 horns (F), trombone'

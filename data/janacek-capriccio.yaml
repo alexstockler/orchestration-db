@@ -1,0 +1,20 @@
+id: janacek-capriccio
+work:
+  composer: Janáček, Leoš
+  title: Capriccio
+  ids:
+    imslp: Capriccio (Janáček, Leoš)
+  year: 1926
+formula: 1000 0230
+instrumentation:
+  flute: 1
+  trumpet: 2
+  trombone: 3
+  additional_raw: tenor tuba | piano left-hand
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Capriccio_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: flute (also piccolo), 2 trumpets, tenor tuba, 3 trombones,
+    piano left-hand'
+duration_minutes: 17

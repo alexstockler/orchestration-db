@@ -1,0 +1,15 @@
+id: weber-symphony-no-2-in-c-major
+work:
+  composer: Weber, Carl Maria von
+  title: Symphony No.2 in C major
+  ids:
+    imslp: Symphony No.2 in C major, J.51 (Weber, Carl Maria von)
+  year: 1813
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.2_in_C_major%2C_J.51_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'
+duration_minutes: 20

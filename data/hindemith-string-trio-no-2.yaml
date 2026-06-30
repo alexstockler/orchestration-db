@@ -1,0 +1,19 @@
+id: hindemith-string-trio-no-2
+work:
+  composer: Hindemith, Paul
+  title: String Trio No.2
+  ids:
+    imslp: String Trio No.2 (Hindemith, Paul)
+  year: 1933
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Trio_No.2_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola, cello'
+duration_minutes: 24

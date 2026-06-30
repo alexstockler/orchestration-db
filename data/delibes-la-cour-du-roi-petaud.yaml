@@ -1,0 +1,16 @@
+id: delibes-la-cour-du-roi-petaud
+work:
+  composer: Delibes, Léo
+  title: La cour du roi Pétaud
+  ids:
+    imslp: La cour du roi Pétaud (Delibes, Léo)
+  year: 1869
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_cour_du_roi_P%C3%A9taud_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

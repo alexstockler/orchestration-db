@@ -1,0 +1,19 @@
+id: nielsen-jeg-lgger-mig-sa-trygt-til-ro
+work:
+  composer: Nielsen, Carl
+  title: Jeg lægger mig så trygt til Ro
+  ids:
+    imslp: Jeg lægger mig så trygt til Ro, CNW 269 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+  additional_raw: 'Version 1: (1924) children''s chorus | Version 2 (1926)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jeg_l%C3%A6gger_mig_s%C3%A5_trygt_til_Ro%2C_CNW_269_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Version 1: (1924) children''s chorus, Version 2 (1926):
+    voice, piano'

@@ -11,7 +11,8 @@ instrumentation:
   - instrument: piano
   soloists:
   - alto
-  additional_raw: viola
+  solo_strings:
+    viola: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/2_Ges%C3%A4nge%2C_Op.91_%28Brahms%2C_Johannes%29

@@ -1,0 +1,18 @@
+id: vaughan-williams-england-my-england
+work:
+  composer: Vaughan Williams, Ralph
+  title: England, My England
+  ids:
+    imslp: England, My England (Vaughan Williams, Ralph)
+  year: 1941
+formula: ''
+instrumentation:
+  soloists:
+  - baritone
+  additional_raw: double mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/England%2C_My_England_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: baritone, double mixed chorus, orchestra'
+duration_minutes: 5

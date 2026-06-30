@@ -1,0 +1,16 @@
+id: massenet-ouverture-en-sol
+work:
+  composer: Massenet, Jules
+  title: Ouverture en sol
+  ids:
+    imslp: Ouverture de concert, Op.1 (Massenet, Jules)
+  year: 1863
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ouverture_de_concert%2C_Op.1_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra (2 flutes, 2 oboes, 2 clarinets in B, 2 cornets
+    in B, 4 horns [in G and E], 2 bassoons, 3 trombones, timpani, bass drum, cymbals,
+    strings)'

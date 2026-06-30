@@ -1,0 +1,20 @@
+id: vaughan-williams-hodie
+work:
+  composer: Vaughan Williams, Ralph
+  title: Hodie
+  ids:
+    imslp: Hodie (Vaughan Williams, Ralph)
+  year: 1953
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  chorus_raw: boys' chorus
+  additional_raw: baritone soli
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hodie_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, baritone soli, mixed chorus (SATB), boys''
+    Chorus, orchestra'

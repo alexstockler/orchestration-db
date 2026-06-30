@@ -1,0 +1,15 @@
+id: bach-fur-deinen-thron-tret-ich-hiermit
+work:
+  composer: Bach, Johann Sebastian
+  title: Für deinen Thron tret ich hiermit
+  ids:
+    imslp: Für deinen Thron tret ich hiermit, BWV 327 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/F%C3%BCr_deinen_Thron_tret_ich_hiermit%2C_BWV_327_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

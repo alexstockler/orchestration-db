@@ -1,0 +1,15 @@
+id: respighi-la-pentola-magica
+work:
+  composer: Respighi, Ottorino
+  title: La Pentola Magica
+  ids:
+    imslp: La pentola magica (Respighi, Ottorino)
+  year: 1920
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_pentola_magica_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'
+duration_minutes: 25

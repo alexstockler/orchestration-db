@@ -1,0 +1,17 @@
+id: lalo-string-quartet
+work:
+  composer: Lalo, Édouard
+  title: String Quartet
+  ids:
+    imslp: String Quartet, Op.19 (Lalo, Édouard)
+  year: 1859
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: Viola and Cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet%2C_Op.19_%28Lalo%2C_%C3%89douard%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Violins, Viola and Cello'

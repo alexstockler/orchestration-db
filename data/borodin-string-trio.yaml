@@ -1,0 +1,18 @@
+id: borodin-string-trio
+work:
+  composer: Borodin, Aleksandr
+  title: String Trio
+  ids:
+    imslp: String Trio in G minor (Borodin, Aleksandr)
+  year: 1855
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Trio_in_G_minor_%28Borodin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, cello'
+duration_minutes: 7

@@ -1,0 +1,15 @@
+id: holst-songs-from-the-princess
+work:
+  composer: Holst, Gustav
+  title: Songs from 'The Princess'
+  ids:
+    imslp: Songs from 'The Princess', Op.20a (Holst, Gustav)
+  year: 1905
+formula: ''
+instrumentation:
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Songs_from_%27The_Princess%27%2C_Op.20a_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (3 to 8-parts)'

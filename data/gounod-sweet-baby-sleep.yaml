@@ -1,0 +1,18 @@
+id: gounod-sweet-baby-sleep
+work:
+  composer: Gounod, Charles
+  title: Sweet Baby, Sleep
+  ids:
+    imslp: Sweet Baby, Sleep, CG 445 (Gounod, Charles)
+  year: 1871
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sweet_Baby%2C_Sleep%2C_CG_445_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

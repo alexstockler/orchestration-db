@@ -9,7 +9,11 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: violin | 2 violas | cello | double bass
+  solo_strings:
+    violin: 1
+    viola: 2
+    cello: 1
+    double_bass: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Piano_Sextet%2C_Op.110_%28Mendelssohn%2C_Felix%29

@@ -1,0 +1,17 @@
+id: bach-fugue-in-c-minor
+work:
+  composer: Bach, Johann Sebastian
+  title: Fugue in C minor
+  ids:
+    imslp: Fugue in C minor, BWV 575 (Bach, Johann Sebastian)
+  year: 1708
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_C_minor%2C_BWV_575_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 6

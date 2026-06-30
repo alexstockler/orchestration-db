@@ -1,0 +1,23 @@
+id: hindemith-die-junge-magd
+work:
+  composer: Hindemith, Paul
+  title: Die junge Magd
+  ids:
+    imslp: Die junge Magd, Op.23b (Hindemith, Paul)
+  year: 1922
+formula: 1010 0000
+instrumentation:
+  flute: 1
+  clarinet: 1
+  soloists:
+  - alto
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_junge_Magd%2C_Op.23b_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, flute, clarinet, 2 violins, viola, cello'
+duration_minutes: 19

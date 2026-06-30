@@ -1,0 +1,18 @@
+id: massenet-deux-pieces-pour-violoncelle-et-piano
+work:
+  composer: Massenet, Jules
+  title: Deux pièces pour violoncelle et piano
+  ids:
+    imslp: 2 Pièces pour violoncelle et piano (Massenet, Jules)
+  year: 1866
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Pi%C3%A8ces_pour_violoncelle_et_piano_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'

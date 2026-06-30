@@ -1,0 +1,18 @@
+id: franck-les-sept-paroles-du-christ-sur-la-croix
+work:
+  composer: Franck, César
+  title: Les Sept Paroles du Christ sur la Croix
+  ids:
+    imslp: Les sept paroles du Christ sur la croix (Franck, César)
+  year: 1859
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_sept_paroles_du_Christ_sur_la_croix_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'
+duration_minutes: 40

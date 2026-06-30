@@ -1,0 +1,33 @@
+id: gounod-the-bell
+work:
+  composer: Gounod, Charles
+  title: The Bell
+  ids:
+    imslp: The Bell, CG 282 (Gounod, Charles)
+  year: 1872
+formula: 2222 2200 tmp hp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbal
+    - triangle
+  harp: 1
+  strings: str
+  soloists:
+  - 2 mixed choruses (SATB/SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Bell%2C_CG_282_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: 2 mixed choruses (SATB/SATB), Orchestra: 2 flutes,
+    2 oboes, 2 clarinets (A), 2 bassoons, 2 horns (D), 2 trumpets (D), timpani, bass
+    drum, cymbal, triangle,, harp, strings (see below, Comments)'
+duration_minutes: 3

@@ -5,18 +5,18 @@ work:
   ids:
     imslp: 11 Mödlinger Tänze, WoO 17 (Beethoven, Ludwig van)
   year: 1819
-formula: 0011 22[1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.22] 0 0 0
+formula: 7 0 15[1.2.3.4.5.6.7.8.9.10.11.12.13.14.15] 1 22[1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.22]
+  0 0 0
 instrumentation:
-  clarinet: 1
+  flute: 7
+  clarinet: 15
   bassoon: 1
   horn: 22
-  additional_raw: Orchestra :1. 2 clarinets | violins | cellos | basses :2. flute
-    | violins | cellos | basses :3. 2 clarinets | violins | cellos | basses :4. 2
-    clarinets | violins | cellos | basses :5. 2 clarinets | violins | cellos | basses
-    :6. 2 clarinets | violins | cellos | basses :7. 2 clarinets | violins | cellos
-    | basses :8. 2 clarinets | violins | cellos | basses :9. 2 flutes | violins |
-    cellos | basses :10. 2 flutes | violins | cellos | basses :11. 2 flutes | violins
-    | cellos | basses
+  solo_strings:
+    violin: 11
+    cello: 11
+  additional_raw: 1 | basses | 2 | basses | 3 | basses | 4 | basses | 5 | basses |
+    6 | basses | 7 | basses | 8 | basses | 9 | basses | 10 | basses | 11 | basses
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/11_M%C3%B6dlinger_T%C3%A4nze%2C_WoO_17_%28Beethoven%2C_Ludwig_van%29

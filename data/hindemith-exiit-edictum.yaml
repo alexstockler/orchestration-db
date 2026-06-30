@@ -1,0 +1,18 @@
+id: hindemith-exiit-edictum
+work:
+  composer: Hindemith, Paul
+  title: Exiit edictum
+  ids:
+    imslp: Exiit edictum (Hindemith, Paul)
+  year: 1940
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice (soprano or tenor)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Exiit_edictum_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (soprano or tenor), piano'
+duration_minutes: 6

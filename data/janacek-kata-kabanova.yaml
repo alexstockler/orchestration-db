@@ -1,0 +1,57 @@
+id: janacek-kata-kabanova
+work:
+  composer: Janáček, Leoš
+  title: Káťa Kabanová
+  ids:
+    imslp: Káťa Kabanová (Janáček, Leoš)
+  year: 1920
+formula: 4[1.2.3/pic.4/pic] 3[1.2.3/Eh] 3[1.2.3/bcl] 3[1.2.3/cbn] 4331 tmp cel hp
+  str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - doublings:
+    - english_horn
+  clarinet:
+  - {}
+  - {}
+  - doublings:
+    - bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - xylophone
+    - glockenspiel
+    - sleigh bells
+    - suspended cymbal
+    - bass drum
+  keyboards:
+  - instrument: celesta
+  harp: 1
+  strings: str
+  additional_raw: viola d'amore
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/K%C3%A1%C5%A5a_Kabanov%C3%A1_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 flutes (3rd and 4th also piccolos), 3 oboes (3rd also
+    English horn), 3 clarinets (3rd also bass clarinet), 3 bassoons (3rd also contrabassoon),
+    4 horns, 3 trumpets, 3 trombones, tuba, timpani, xylophone, glockenspiel, sleigh
+    bells, suspended cymbal, bass drum, harp, celesta, viola d''amore, strings'

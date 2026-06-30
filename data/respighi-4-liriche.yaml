@@ -1,0 +1,16 @@
+id: respighi-4-liriche
+work:
+  composer: Respighi, Ottorino
+  title: 4 liriche
+  ids:
+    imslp: 4 Liriche (Respighi, Ottorino)
+  year: 1920
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Liriche_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

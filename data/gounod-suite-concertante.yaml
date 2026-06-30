@@ -1,0 +1,16 @@
+id: gounod-suite-concertante
+work:
+  composer: Gounod, Charles
+  title: Suite concertante
+  ids:
+    imslp: Suite concertante, CG 526 (Gounod, Charles)
+  year: 1886
+formula: ''
+instrumentation:
+  additional_raw: pedal piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_concertante%2C_CG_526_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: pedal piano, orchestra'
+duration_minutes: 25

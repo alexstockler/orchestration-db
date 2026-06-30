@@ -1,0 +1,15 @@
+id: bach-applicatio
+work:
+  composer: Bach, Johann Sebastian
+  title: Applicatio
+  ids:
+    imslp: Applicatio in C major, BWV 994 (Bach, Johann Sebastian)
+  year: 1720
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Applicatio_in_C_major%2C_BWV_994_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

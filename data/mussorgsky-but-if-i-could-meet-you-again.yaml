@@ -1,0 +1,19 @@
+id: mussorgsky-but-if-i-could-meet-you-again
+work:
+  composer: Mussorgsky, Modest
+  title: But If I Could Meet You Again
+  ids:
+    imslp: But If I Could Meet You Again (Mussorgsky, Modest)
+  year: 1863
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/But_If_I_Could_Meet_You_Again_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'
+duration_minutes: 3

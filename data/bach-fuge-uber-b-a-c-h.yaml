@@ -1,0 +1,15 @@
+id: bach-fuge-uber-b-a-c-h
+work:
+  composer: Bach, Johann Sebastian
+  title: Fuge über B-A-C-H
+  ids:
+    imslp: Fugue in B-flat major, BWV Anh.45 (Bach, Johann Sebastian)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_B-flat_major%2C_BWV_Anh.45_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Organ'

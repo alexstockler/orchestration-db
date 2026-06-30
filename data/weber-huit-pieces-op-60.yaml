@@ -1,0 +1,16 @@
+id: weber-huit-pieces-op-60
+work:
+  composer: Weber, Carl Maria von
+  title: Huit Pièces, Op.60
+  ids:
+    imslp: 8 Pieces, Op.60 (Weber, Carl Maria von)
+  year: 1818
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Pieces%2C_Op.60_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'

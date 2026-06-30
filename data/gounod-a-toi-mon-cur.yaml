@@ -1,0 +1,18 @@
+id: gounod-a-toi-mon-cur
+work:
+  composer: Gounod, Charles
+  title: À toi mon cœur
+  ids:
+    imslp: À toi mon cœur, CG 458a (Gounod, Charles)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%80_toi_mon_c%C5%93ur%2C_CG_458a_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

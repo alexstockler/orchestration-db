@@ -1,0 +1,29 @@
+id: respighi-adagio-con-variazioni-per-violoncello-e-orchestra
+work:
+  composer: Respighi, Ottorino
+  title: Adagio con variazioni per violoncello e orchestra
+  ids:
+    imslp: Adagio con variazioni (Respighi, Ottorino)
+  year: 1902
+formula: 3[pic.2.3] 3[1.2.Eh] 2 2 2000 hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adagio_con_variazioni_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets,
+    2 bassoons, 2 horns (E), harp, strings'
+duration_minutes: 12

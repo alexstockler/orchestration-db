@@ -1,0 +1,17 @@
+id: faure-3-romances-sans-paroles
+work:
+  composer: Fauré, Gabriel
+  title: 3 Romances sans paroles
+  ids:
+    imslp: 3 Romances sans paroles, Op.17 (Fauré, Gabriel)
+  year: 1863
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Romances_sans_paroles%2C_Op.17_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 2

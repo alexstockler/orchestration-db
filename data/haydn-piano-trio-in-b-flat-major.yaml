@@ -5,9 +5,13 @@ work:
   ids:
     imslp: Piano Trio in B-flat major, Hob.XV:8 (Haydn, Joseph)
   year: 1784
-formula: ''
+formula: hpd
 instrumentation:
-  additional_raw: violin | cello | harpsichord or piano
+  keyboards:
+  - instrument: harpsichord
+  solo_strings:
+    violin: 1
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Piano_Trio_in_B-flat_major%2C_Hob.XV%3A8_%28Haydn%2C_Joseph%29

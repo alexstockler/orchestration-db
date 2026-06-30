@@ -1,0 +1,16 @@
+id: bach-fuga-sopra-il-magnificat-pro-organo-pleno-con-pedale
+work:
+  composer: Bach, Johann Sebastian
+  title: Fuga sopra il Magnificat pro Organo Pleno con Pedale
+  ids:
+    imslp: Fuga sopra il Magnificat, BWV 733 (Bach, Johann Sebastian)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fuga_sopra_il_Magnificat%2C_BWV_733_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 5

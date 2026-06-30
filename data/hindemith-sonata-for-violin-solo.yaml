@@ -1,0 +1,17 @@
+id: hindemith-sonata-for-violin-solo
+work:
+  composer: Hindemith, Paul
+  title: Sonata for Violin Solo
+  ids:
+    imslp: Sonata for Violin Solo, Op.11 No.6 (Hindemith, Paul)
+  year: 1917
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_for_Violin_Solo%2C_Op.11_No.6_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: violin'
+duration_minutes: 15

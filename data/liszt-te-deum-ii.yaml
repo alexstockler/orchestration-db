@@ -5,11 +5,10 @@ work:
   ids:
     imslp: Te Deum II, S.27 (Liszt, Franz)
   year: 1859
-formula: org
+formula: ''
 instrumentation:
-  keyboards:
-  - instrument: organ
   chorus_raw: mixed chorus
+  additional_raw: Organ (+ 2 Horns, 2 Trumpets, 2 Trombones, Timpani ad lib.)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Te_Deum_II%2C_S.27_%28Liszt%2C_Franz%29

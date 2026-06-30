@@ -1,0 +1,16 @@
+id: hindemith-der-tod
+work:
+  composer: Hindemith, Paul
+  title: Der Tod
+  ids:
+    imslp: Der Tod (Hindemith, Paul)
+  year: 1931
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Tod_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'
+duration_minutes: 2

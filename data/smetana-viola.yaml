@@ -1,0 +1,17 @@
+id: smetana-viola
+work:
+  composer: Smetana, Bedřich
+  title: Viola
+  ids:
+    imslp: Viola, JB 2:48 (Smetana, Bedřich)
+  year: 1874
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Solo Voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Viola%2C_JB_2%3A48_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo Voices, Chorus, Orchestra'
+duration_minutes: 14

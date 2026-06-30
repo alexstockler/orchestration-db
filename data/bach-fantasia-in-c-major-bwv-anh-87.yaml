@@ -1,0 +1,14 @@
+id: bach-fantasia-in-c-major-bwv-anh-87
+work:
+  composer: Bach, Johann Sebastian
+  title: Fantasia in C major, BWV Anh.87
+  ids:
+    imslp: Fantasia in C major, BWV Anh.87 (Bach, Johann Sebastian)
+formula: ''
+instrumentation:
+  additional_raw: Keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_in_C_major%2C_BWV_Anh.87_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Keyboard'

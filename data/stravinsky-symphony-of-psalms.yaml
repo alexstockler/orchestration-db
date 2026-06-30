@@ -37,7 +37,9 @@ instrumentation:
   - instrument: piano
   - instrument: piano
   harp: 1
-  additional_raw: cellos | basses
+  solo_strings:
+    cello: 1
+  additional_raw: basses
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Symphony_of_Psalms%2C_K052_%28Stravinsky%2C_Igor%29

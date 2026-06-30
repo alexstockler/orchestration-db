@@ -1,0 +1,21 @@
+id: nielsen-de-unges-sang
+work:
+  composer: Nielsen, Carl
+  title: De unges Sang
+  ids:
+    imslp: De unges Sang, CNW 291 (Nielsen, Carl)
+  year: 1909
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+  additional_raw: male chorus (TTBB) 1909 () | piano with text 1922 () | children's
+    chorus (SSA) 1924 ()
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/De_unges_Sang%2C_CNW_291_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano, male chorus (TTBB) 1909 (), piano with text
+    1922 (), children''s chorus (SSA) 1924 ()'

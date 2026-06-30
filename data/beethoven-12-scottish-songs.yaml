@@ -14,7 +14,10 @@ instrumentation:
   - soprano
   - tenor
   - bass
-  additional_raw: violin | cello | voice | violin | cello
+  - voice
+  solo_strings:
+    violin: 2
+    cello: 2
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/12_Scottish_Songs%2C_WoO_156_%28Beethoven%2C_Ludwig_van%29

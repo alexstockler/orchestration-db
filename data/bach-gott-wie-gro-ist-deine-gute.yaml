@@ -1,0 +1,17 @@
+id: bach-gott-wie-gro-ist-deine-gute
+work:
+  composer: Bach, Johann Sebastian
+  title: Gott, wie groß ist deine Güte
+  ids:
+    imslp: Gott, wie groß ist deine Güte, BWV 462 (Bach, Johann Sebastian)
+  year: 1735
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott%2C_wie_gro%C3%9F_ist_deine_G%C3%BCte%2C_BWV_462_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

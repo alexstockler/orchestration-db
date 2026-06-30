@@ -1,0 +1,18 @@
+id: bizet-little-duet-for-bassoon-and-cello
+work:
+  composer: Bizet, Georges
+  title: Little Duet for Bassoon and Cello
+  ids:
+    imslp: Little Duet for Bassoon and Cello (Bizet, Georges)
+  year: 1874
+formula: 0001 0000
+instrumentation:
+  bassoon: 1
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Little_Duet_for_Bassoon_and_Cello_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: bassoon, cello'
+duration_minutes: 1

@@ -1,0 +1,16 @@
+id: bach-an-wasserflussen-babylon
+work:
+  composer: Bach, Johann Sebastian
+  title: An Wasserflüssen Babylon
+  ids:
+    imslp: An Wasserflüssen Babylon, BWV 653b (Bach, Johann Sebastian)
+  year: 1747
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_Wasserfl%C3%BCssen_Babylon%2C_BWV_653b_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

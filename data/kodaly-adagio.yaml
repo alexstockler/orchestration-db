@@ -1,0 +1,17 @@
+id: kodaly-adagio
+work:
+  composer: Kodály, Zoltán
+  title: Adagio
+  ids:
+    imslp: Adagio (Kodály, Zoltán)
+  year: 1910
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: violin (or viola or cello or double bass)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adagio_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: violin (or viola or cello or double bass), piano'

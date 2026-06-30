@@ -1,0 +1,22 @@
+id: vaughan-williams-piano-quintet-in-c-minor
+work:
+  composer: Vaughan Williams, Ralph
+  title: Piano Quintet in C minor
+  ids:
+    imslp: Piano Quintet in C minor (Vaughan Williams, Ralph)
+  year: 1903
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+    viola: 1
+    cello: 1
+    double_bass: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quintet_in_C_minor_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola, cello, double bass, piano'
+duration_minutes: 31

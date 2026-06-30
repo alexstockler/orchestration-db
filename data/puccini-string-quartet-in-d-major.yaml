@@ -1,0 +1,18 @@
+id: puccini-string-quartet-in-d-major
+work:
+  composer: Puccini, Giacomo
+  title: String Quartet in D major
+  ids:
+    imslp: String Quartet in D major, SC 50 (Puccini, Giacomo)
+  year: 1880
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_in_D_major%2C_SC_50_%28Puccini%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

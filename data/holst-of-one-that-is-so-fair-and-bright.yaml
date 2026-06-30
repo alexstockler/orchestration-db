@@ -1,0 +1,20 @@
+id: holst-of-one-that-is-so-fair-and-bright
+work:
+  composer: Holst, Gustav
+  title: Of one that is so fair and bright
+  ids:
+    imslp: Of one that is so fair and bright, Op.34 No.3 (Holst, Gustav)
+  year: 1916
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Of_one_that_is_so_fair_and_bright%2C_Op.34_No.3_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass; mixed chorus (SATB)'

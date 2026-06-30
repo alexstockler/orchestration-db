@@ -1,0 +1,16 @@
+id: glazunov-2-poemes-improvisations
+work:
+  composer: Glazunov, Aleksandr
+  title: 2 Poèmes-improvisations
+  ids:
+    imslp: 2 Poèmes-improvisations (Glazunov, Aleksandr)
+  year: 1917
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Po%C3%A8mes-improvisations_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,16 @@
+id: bach-alla-breve-in-d-major
+work:
+  composer: Bach, Johann Sebastian
+  title: Alla breve in D major
+  ids:
+    imslp: Alla breve in D major, BWV 589 (Bach, Johann Sebastian)
+  year: 1709
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alla_breve_in_D_major%2C_BWV_589_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

@@ -1,0 +1,16 @@
+id: mussorgsky-une-larme
+work:
+  composer: Mussorgsky, Modest
+  title: Une larme
+  ids:
+    imslp: Une larme (Mussorgsky, Modest)
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Une_larme_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

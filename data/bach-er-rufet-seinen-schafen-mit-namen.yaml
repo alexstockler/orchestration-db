@@ -1,0 +1,18 @@
+id: bach-er-rufet-seinen-schafen-mit-namen
+work:
+  composer: Bach, Johann Sebastian
+  title: Er rufet seinen Schafen mit Namen
+  ids:
+    imslp: Er rufet seinen Schafen mit Namen, BWV 175 (Bach, Johann Sebastian)
+  year: 1725
+formula: 0000 0200 str
+instrumentation:
+  trumpet: 2
+  strings: str
+  additional_raw: 3 recorders | violoncello piccolo | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Er_rufet_seinen_Schafen_mit_Namen%2C_BWV_175_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 recorders, 2 trumpets, violoncello piccolo, strings,
+    continuo'

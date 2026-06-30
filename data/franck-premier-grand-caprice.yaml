@@ -1,0 +1,17 @@
+id: franck-premier-grand-caprice
+work:
+  composer: Franck, César
+  title: Premier Grand Caprice
+  ids:
+    imslp: Premier grand caprice, Op.5 (Franck, César)
+  year: 1845
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Premier_grand_caprice%2C_Op.5_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 15

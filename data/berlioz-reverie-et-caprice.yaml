@@ -1,0 +1,24 @@
+id: berlioz-reverie-et-caprice
+work:
+  composer: Berlioz, Hector
+  title: Rêverie et Caprice
+  ids:
+    imslp: Rêverie et caprice, H 88 (Berlioz, Hector)
+  year: 1841
+formula: 2[pic.2] 2 2 2 2000 str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/R%C3%AAverie_et_caprice%2C_H_88_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, orchestra (or piano) :piccolo, flute, 2 oboes,
+    2 clarinets, 2 bassoons, 2 horns, strings'
+duration_minutes: 11

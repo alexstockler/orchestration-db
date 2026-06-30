@@ -1,0 +1,16 @@
+id: bach-gott-mein-herz-dir-dank-zusendet
+work:
+  composer: Bach, Johann Sebastian
+  title: Gott mein Herz dir Dank zusendet
+  ids:
+    imslp: Gott mein Herz dir Dank zusendet, BWV 521 (Bach, Johann Sebastian)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_mein_Herz_dir_Dank_zusendet%2C_BWV_521_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

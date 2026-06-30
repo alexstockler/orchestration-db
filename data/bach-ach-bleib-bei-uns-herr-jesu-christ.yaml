@@ -1,0 +1,15 @@
+id: bach-ach-bleib-bei-uns-herr-jesu-christ
+work:
+  composer: Bach, Johann Sebastian
+  title: Ach bleib bei uns, Herr Jesu Christ
+  ids:
+    imslp: Ach bleib bei uns, Herr Jesu Christ, BWV 253 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach_bleib_bei_uns%2C_Herr_Jesu_Christ%2C_BWV_253_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

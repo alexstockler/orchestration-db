@@ -5,7 +5,7 @@ work:
   ids:
     imslp: Rückert Lieder, GMW 39-43 (Mahler, Gustav)
   year: 1901
-formula: 2 3[1.2.Eh] 2 2 0231 tmp cel pf hp str
+formula: 2 3[1.2.Eh] 2 3[1.2.cbn] 4231 tmp cel pf hp str
 instrumentation:
   flute: 2
   oboe:
@@ -13,7 +13,11 @@ instrumentation:
   - {}
   - instrument: english_horn
   clarinet: 2
-  bassoon: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
   trumpet: 2
   trombone: 3
   tuba: 1
@@ -24,7 +28,6 @@ instrumentation:
   - instrument: piano
   harp: 1
   strings: str
-  additional_raw: contrabassoon :4 horns
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/R%C3%BCckert_Lieder%2C_GMW_39-43_%28Mahler%2C_Gustav%29

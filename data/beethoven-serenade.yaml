@@ -8,7 +8,9 @@ work:
 formula: 1000 0000
 instrumentation:
   flute: 1
-  additional_raw: violin | viola
+  solo_strings:
+    violin: 1
+    viola: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Serenade_in_D_major%2C_Op.25_%28Beethoven%2C_Ludwig_van%29

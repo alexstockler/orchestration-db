@@ -1,0 +1,17 @@
+id: vaughan-williams-darest-thou-now-o-soul
+work:
+  composer: Vaughan Williams, Ralph
+  title: Darest Thou Now, O Soul
+  ids:
+    imslp: Darest Thou Now, O Soul (Vaughan Williams, Ralph)
+  year: 1925
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: unison chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Darest_Thou_Now%2C_O_Soul_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: unison chorus, piano'

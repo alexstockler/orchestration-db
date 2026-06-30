@@ -6,8 +6,7 @@ work:
     imslp: The Invisible City of Kitezh (suite) (Rimsky-Korsakov, Nikolay)
   year: 1907
 formula: ''
-instrumentation:
-  additional_raw: orchestra
+instrumentation: {}
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/The_Invisible_City_of_Kitezh_%28suite%29_%28Rimsky-Korsakov%2C_Nikolay%29

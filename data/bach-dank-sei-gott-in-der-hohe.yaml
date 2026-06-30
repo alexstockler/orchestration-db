@@ -1,0 +1,15 @@
+id: bach-dank-sei-gott-in-der-hohe
+work:
+  composer: Bach, Johann Sebastian
+  title: Dank sei Gott in der Höhe
+  ids:
+    imslp: Dank sei Gott in der Höhe, BWV 287 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dank_sei_Gott_in_der_H%C3%B6he%2C_BWV_287_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

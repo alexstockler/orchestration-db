@@ -1,0 +1,19 @@
+id: franck-tantum-ergo
+work:
+  composer: Franck, César
+  title: Tantum ergo
+  ids:
+    imslp: Tantum ergo (Franck, César)
+  year: 1865
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tantum_ergo_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, mixed chorus (SATB), organ'

@@ -1,0 +1,19 @@
+id: hindemith-2-songs
+work:
+  composer: Hindemith, Paul
+  title: 2 Songs
+  ids:
+    imslp: 2 Songs (Hindemith, Paul)
+  year: 1955
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Songs_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), piano'
+duration_minutes: 3

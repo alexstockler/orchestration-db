@@ -1,0 +1,121 @@
+id: hindemith-die-harmonie-der-welt
+work:
+  composer: Hindemith, Paul
+  title: Die Harmonie der Welt
+  ids:
+    imslp: Die Harmonie der Welt (Hindemith, Paul)
+  year: 1956
+formula: 5[1.2/pic.pic.pic.5] 4[1.2.Eh.4] 5[1.2.bcl.4.5] 4[1.2.cbn.4] 5261 tmp+1 cel
+  org hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  - instrument: piccolo
+  - instrument: piccolo
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  - {}
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  - {}
+  - {}
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  - {}
+  horn: 5
+  trumpet: 2
+  trombone: 6
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+    instruments:
+    - triangle
+    - tubular bells
+    - gong
+    - suspended cymbals
+    - cymbals
+    - tambourine
+    - tam-tam
+    - field drum
+    - snare drum
+    - wood blocks
+    - bass drum
+    - glockenspiel
+    - xylophone
+  keyboards:
+  - instrument: celesta
+  - instrument: organ
+  harp: 1
+  strings: str
+  soloists:
+  - Emperor Rudolf II
+  - Emperor Ferdinand II
+  - Sun (bass)
+  - Johannes Kepler
+  - the astronomer and mathematician
+  - Earth (baritone)
+  - Wallenstein
+  - warlord
+  - Jupiter (tenor)
+  - Ulrich Grüßer
+  - Kepler's pupil
+  - soldier
+  - Mars (tenor)
+  - Daniel Hizler
+  - Pastor in Linz
+  - A Priest in Regensburg
+  - Mercury (bass)
+  - Tansur
+  - astrologer
+  - Saturn (bass)
+  - Baron Starhemberg (baritone)
+  - Christoph Kepler
+  - Johannes Kepler's brother (tenor)
+  - Susanna
+  - Johannes Kepler's Wife
+  - Venus (soprano)
+  - Katharina
+  - Johannes Kepler's mother
+  - Moon (alto)
+  - Young Susanna
+  - Johannes Kepler's daughter (soprano)
+  - Judge
+  - lawyer (baritone) Chorus (SATB) :People
+  - Soldiers
+  - Constellations Pit-
+  - bass
+  solo_strings:
+    viola: 1
+    cello: 1
+  additional_raw: vibraphone On-stage Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Harmonie_der_Welt_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices :Emperor Rudolf II, Emperor Ferdinand II, Sun (bass),
+    Johannes Kepler, the astronomer and mathematician, Earth (baritone), Wallenstein,
+    warlord, Jupiter (tenor), Ulrich Grüßer, Kepler''s pupil, soldier, Mars (tenor),
+    Daniel Hizler, Pastor in Linz, A Priest in Regensburg, Mercury (bass), Tansur,
+    astrologer, Saturn (bass), Baron Starhemberg (baritone), Christoph Kepler, Johannes
+    Kepler''s brother (tenor), Susanna, Johannes Kepler''s Wife, Venus (soprano),
+    Katharina, Johannes Kepler''s mother, Moon (alto), Young Susanna, Johannes Kepler''s
+    daughter (soprano), Judge, lawyer (baritone) Chorus (SATB) :People, Soldiers,
+    Constellations Pit-Orchestra :2 flutes (2nd also piccolo), 2 oboes, English horn,
+    2 clarinets (B), ::bass clarinet (B), 2 bassoons, contrabassoon :4 horns (F),
+    2 trumpets (B), 3 trombones, tuba, timpani, percussion (4-5 players), celesta,
+    organ (ad.lib.), harp, strings :: triangle, 7 tubular bells, gong, suspended cymbals,
+    cymbals, tambourine, tam-tam,, field drum, snare drum, 2 wood blocks, bass drum,
+    glockenspiel, xylophone, vibraphone On-stage Orchestra :2 piccolos, flute, oboe,
+    2 clarinets (B), bassoon, horn (F), 3 trombones, percussion (3-4 players), 1 viola,
+    1 cello, 1 bass :: triangle, cymbals, field drum, bass drum'
+duration_minutes: 160

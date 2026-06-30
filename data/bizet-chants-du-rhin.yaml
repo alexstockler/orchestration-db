@@ -1,0 +1,16 @@
+id: bizet-chants-du-rhin
+work:
+  composer: Bizet, Georges
+  title: Chants du Rhin
+  ids:
+    imslp: Chants du Rhin (Bizet, Georges)
+  year: 1866
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chants_du_Rhin_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,15 @@
+id: weber-zu-dem-reich-der-tone-schweben
+work:
+  composer: Weber, Carl Maria von
+  title: Zu dem Reich der Töne schweben
+  ids:
+    imslp: Zu dem Reich der Töne schweben, J.164 (Weber, Carl Maria von)
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Zu_dem_Reich_der_T%C3%B6ne_schweben%2C_J.164_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices'

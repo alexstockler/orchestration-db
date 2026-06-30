@@ -1,0 +1,18 @@
+id: glazunov-5-romances
+work:
+  composer: Glazunov, Aleksandr
+  title: 5 Romances
+  ids:
+    imslp: 5 Romances, Op.4 (Glazunov, Aleksandr)
+  year: 1882
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Romances%2C_Op.4_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

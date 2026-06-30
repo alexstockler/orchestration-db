@@ -1,0 +1,18 @@
+id: massenet-sur-une-poesie-de-van-hasselt
+work:
+  composer: Massenet, Jules
+  title: Sur une poésie de Van Hasselt
+  ids:
+    imslp: Sur une poésie de Van Hasselt (Massenet, Jules)
+  year: 1902
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sur_une_po%C3%A9sie_de_Van_Hasselt_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

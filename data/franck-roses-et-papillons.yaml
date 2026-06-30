@@ -1,0 +1,18 @@
+id: franck-roses-et-papillons
+work:
+  composer: Franck, César
+  title: Roses et papillons
+  ids:
+    imslp: Roses et papillons (Franck, César)
+  year: 1860
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Roses_et_papillons_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

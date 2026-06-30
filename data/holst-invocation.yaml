@@ -1,0 +1,17 @@
+id: holst-invocation
+work:
+  composer: Holst, Gustav
+  title: Invocation
+  ids:
+    imslp: Invocation, Op.19 No.2 (Holst, Gustav)
+  year: 1911
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Invocation%2C_Op.19_No.2_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, orchestra'
+duration_minutes: 10

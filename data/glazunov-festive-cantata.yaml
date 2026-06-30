@@ -1,0 +1,17 @@
+id: glazunov-festive-cantata
+work:
+  composer: Glazunov, Aleksandr
+  title: Festive Cantata
+  ids:
+    imslp: Festive Cantata, Op.63 (Glazunov, Aleksandr)
+  year: 1898
+formula: ''
+instrumentation:
+  chorus_raw: women's chorus
+  additional_raw: Soloists (soprano and contralto solo) | and 2 pianos | 8 hands
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Festive_Cantata%2C_Op.63_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: Soloists (soprano and contralto solo), women''s chorus,
+    and 2 pianos, 8 hands'

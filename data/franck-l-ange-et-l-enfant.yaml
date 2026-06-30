@@ -1,0 +1,18 @@
+id: franck-l-ange-et-l-enfant
+work:
+  composer: Franck, César
+  title: L' ange et l'enfant
+  ids:
+    imslp: L'ange et l'enfant, FWV 75 (Franck, César)
+  year: 1846
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27ange_et_l%27enfant%2C_FWV_75_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

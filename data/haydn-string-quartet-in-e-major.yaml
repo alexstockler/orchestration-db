@@ -7,7 +7,10 @@ work:
   year: 1757
 formula: ''
 instrumentation:
-  additional_raw: 2 violins | viola | cello
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/String_Quartet_in_E_major%2C_Hob.III%3A8_%28Haydn%2C_Joseph%29

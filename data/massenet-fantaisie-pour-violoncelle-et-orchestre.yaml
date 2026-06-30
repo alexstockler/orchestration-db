@@ -1,0 +1,15 @@
+id: massenet-fantaisie-pour-violoncelle-et-orchestre
+work:
+  composer: Massenet, Jules
+  title: Fantaisie pour violoncelle et orchestre
+  ids:
+    imslp: Fantaisie pour violoncelle et orchestre (Massenet, Jules)
+  year: 1897
+formula: ''
+instrumentation:
+  additional_raw: Cello and Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantaisie_pour_violoncelle_et_orchestre_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Cello and Orchestra'

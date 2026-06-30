@@ -1,0 +1,16 @@
+id: offenbach-tromb-al-ca-zar-ou-les-criminels-dramatiques
+work:
+  composer: Offenbach, Jacques
+  title: Tromb-al-ca-zar, ou Les criminels dramatiques
+  ids:
+    imslp: Tromb-al-ca-zar (Offenbach, Jacques)
+  year: 1856
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tromb-al-ca-zar_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

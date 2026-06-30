@@ -1,0 +1,18 @@
+id: massenet-premiers-fils-d-argent
+work:
+  composer: Massenet, Jules
+  title: Premiers fils d'argent
+  ids:
+    imslp: Premiers fils d'argent (Massenet, Jules)
+  year: 1897
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Premiers_fils_d%27argent_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

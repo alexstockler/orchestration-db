@@ -1,0 +1,26 @@
+id: hindemith-konzert-fur-holzblaser-harfe-und-orchester
+work:
+  composer: Hindemith, Paul
+  title: Konzert für Holzbläser, Harfe und Orchester
+  ids:
+    imslp: Concerto for Woodwinds, Harp and Orchestra (Hindemith, Paul)
+  year: 1949
+formula: 0000 2210 str
+instrumentation:
+  horn: 2
+  trumpet: 2
+  trombone: 1
+  strings: str
+  soloists:
+  - flute
+  - oboe
+  - clarinet (B)
+  - bassoon
+  - harp
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_Woodwinds%2C_Harp_and_Orchestra_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: flute, oboe, clarinet (B), bassoon, harp, Orchestra:
+    2 horns (F), 2 trumpets (B), trombone, strings'
+duration_minutes: 15

@@ -1,0 +1,35 @@
+id: berlioz-vox-populi
+work:
+  composer: Berlioz, Hector
+  title: Vox populi
+  ids:
+    imslp: Vox populi, H 120 (Berlioz, Hector)
+  year: 1849
+formula: 2222 4 4[1.2.cnt.cnt] 3 0 tmp ophicleide str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  percussion:
+    timpani: 2
+    instruments:
+    - bass drum
+    - cymbals
+  extras:
+  - instrument: ophicleide
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vox_populi%2C_H_120_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2
+    trumpets, 2 cornets, 3 trombones, ophicleïde, 2 timpani, bass drum, cymbals, strings'
+duration_minutes: 12

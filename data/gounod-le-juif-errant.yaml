@@ -1,0 +1,18 @@
+id: gounod-le-juif-errant
+work:
+  composer: Gounod, Charles
+  title: Le juif errant
+  ids:
+    imslp: Le juif errant, CG 396 (Gounod, Charles)
+  year: 1861
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_juif_errant%2C_CG_396_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

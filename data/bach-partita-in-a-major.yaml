@@ -1,0 +1,14 @@
+id: bach-partita-in-a-major
+work:
+  composer: Bach, Johann Sebastian
+  title: Partita in A major
+  ids:
+    imslp: Allemande and Courante in A major, BWV 838 (Bach, Johann Sebastian)
+formula: ''
+instrumentation:
+  additional_raw: keyboard (harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allemande_and_Courante_in_A_major%2C_BWV_838_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard (harpsichord)'

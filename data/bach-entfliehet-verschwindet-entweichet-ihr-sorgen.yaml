@@ -1,0 +1,33 @@
+id: bach-entfliehet-verschwindet-entweichet-ihr-sorgen
+work:
+  composer: Bach, Johann Sebastian
+  title: Entfliehet, verschwindet, entweichet, ihr Sorgen
+  ids:
+    imslp: Entfliehet, verschwindet, entweichet, ihr Sorgen, BWV 249a (Bach, Johann
+      Sebastian)
+  year: 1725
+formula: 1 3[1.2.obda] 0 1 0300 tmp str
+instrumentation:
+  flute: 1
+  oboe:
+  - {}
+  - {}
+  - instrument: oboe_damore
+  bassoon: 1
+  trumpet: 3
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - Doris (soprano)
+  - Sylvia (alto)
+  - Menalcas (tenor)
+  - Damoetas (bass)
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Entfliehet%2C_verschwindet%2C_entweichet%2C_ihr_Sorgen%2C_BWV_249a_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Doris (soprano), Sylvia (alto), Menalcas (tenor),
+    Damoetas (bass) Orchestra :2 recorders, flute, 2 oboes, oboe d''amore, bassoon,,
+    3 trumpets, timpani, strings, continuo'

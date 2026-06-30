@@ -1,0 +1,16 @@
+id: bartok-out-of-doors
+work:
+  composer: Bartók, Béla
+  title: Out of Doors
+  ids:
+    imslp: Out of Doors, Sz.81 (Bartók, Béla)
+  year: 1926
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Out_of_Doors%2C_Sz.81_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

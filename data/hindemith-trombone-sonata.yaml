@@ -1,0 +1,18 @@
+id: hindemith-trombone-sonata
+work:
+  composer: Hindemith, Paul
+  title: Trombone Sonata
+  ids:
+    imslp: Trombone Sonata (Hindemith, Paul)
+  year: 1941
+formula: 0000 0010 pf
+instrumentation:
+  trombone: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trombone_Sonata_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: trombone, piano'
+duration_minutes: 11

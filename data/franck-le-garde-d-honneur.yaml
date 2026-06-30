@@ -1,0 +1,18 @@
+id: franck-le-garde-d-honneur
+work:
+  composer: Franck, César
+  title: Le garde d'honneur
+  ids:
+    imslp: Le garde d'honneur (Franck, César)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - voice
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_garde_d%27honneur_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Female chorus, Organ'

@@ -1,0 +1,17 @@
+id: smetana-georgina-polka
+work:
+  composer: Smetana, Bedřich
+  title: Georgina Polka
+  ids:
+    imslp: Georgina Polka, JB 1:2 (Smetana, Bedřich)
+  year: 1840
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Georgina_Polka%2C_JB_1%3A2_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'
+duration_minutes: 4

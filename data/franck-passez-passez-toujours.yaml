@@ -1,0 +1,18 @@
+id: franck-passez-passez-toujours
+work:
+  composer: Franck, César
+  title: Passez, passez toujours
+  ids:
+    imslp: Passez, passez toujours (Franck, César)
+  year: 1860
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Passez%2C_passez_toujours_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

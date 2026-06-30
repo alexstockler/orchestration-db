@@ -1,0 +1,19 @@
+id: kodaly-psalm-150
+work:
+  composer: Kodály, Zoltán
+  title: Psalm 150
+  ids:
+    imslp: Psalm 150, K.96 (Kodály, Zoltán)
+  year: 1966
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - mezzo-soprano
+  - alto
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Psalm_150%2C_K.96_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, mezzo-soprano, alto'
+duration_minutes: 5

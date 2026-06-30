@@ -1,0 +1,38 @@
+id: glazunov-carnaval
+work:
+  composer: Glazunov, Aleksandr
+  title: Carnaval
+  ids:
+    imslp: Carnaval, Op.45 (Glazunov, Aleksandr)
+  year: 1892
+formula: 3[1.2.3/pic] 2 3 2 4331 tmp org str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 3
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tambourine
+    - cymbals
+    - bass drum
+  keyboards:
+  - instrument: organ
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Carnaval%2C_Op.45_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 2 oboes, 3 clarinets (B),
+    2 bassoons, 4 horns (F), 3 trumpets (B), 3 trombones, tuba, timpani, triangle,
+    tambourine, cymbals, bass drum, organ (ad lib.), strings'

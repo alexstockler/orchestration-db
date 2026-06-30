@@ -1,0 +1,16 @@
+id: faure-barcarolle-no-9
+work:
+  composer: Fauré, Gabriel
+  title: Barcarolle No.9
+  ids:
+    imslp: Barcarolle No.9, Op.101 (Fauré, Gabriel)
+  year: 1908
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Barcarolle_No.9%2C_Op.101_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

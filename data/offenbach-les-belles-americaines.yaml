@@ -1,0 +1,17 @@
+id: offenbach-les-belles-americaines
+work:
+  composer: Offenbach, Jacques
+  title: Les belles américaines
+  ids:
+    imslp: Les belles américaines (Offenbach, Jacques)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_belles_am%C3%A9ricaines_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 7

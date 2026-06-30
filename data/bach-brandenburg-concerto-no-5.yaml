@@ -1,0 +1,20 @@
+id: bach-brandenburg-concerto-no-5
+work:
+  composer: Bach, Johann Sebastian
+  title: Brandenburg Concerto No.5
+  ids:
+    imslp: Brandenburg Concerto No.5 in D major, BWV 1050a (Bach, Johann Sebastian)
+  year: 1720
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+    viola: 1
+    cello: 1
+  additional_raw: violone
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Brandenburg_Concerto_No.5_in_D_major%2C_BWV_1050a_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola, cello, violone'
+duration_minutes: 21

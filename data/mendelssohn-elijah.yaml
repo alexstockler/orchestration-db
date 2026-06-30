@@ -5,7 +5,7 @@ work:
   ids:
     imslp: Elijah, Op.70 (Mendelssohn, Felix)
   year: 1846
-formula: 2222 4230 tmp org str
+formula: 2222 4230 tmp org ophicleide str
 instrumentation:
   flute: 2
   oboe: 2
@@ -18,6 +18,8 @@ instrumentation:
     timpani: 1
   keyboards:
   - instrument: organ
+  extras:
+  - instrument: ophicleide
   strings: str
   soloists:
   - Elijah (baritone)
@@ -28,7 +30,6 @@ instrumentation:
   - Angel I (alto)
   - Obadiah (tenor)
   - Ahab (tenor) Mixed Chorus (SATB)
-  additional_raw: ophicleïde
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Elijah%2C_Op.70_%28Mendelssohn%2C_Felix%29

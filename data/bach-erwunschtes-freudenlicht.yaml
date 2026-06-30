@@ -1,0 +1,17 @@
+id: bach-erwunschtes-freudenlicht
+work:
+  composer: Bach, Johann Sebastian
+  title: Erwünschtes Freudenlicht
+  ids:
+    imslp: Erwünschtes Freudenlicht, BWV 184 (Bach, Johann Sebastian)
+  year: 1724
+formula: 2000 0000 str
+instrumentation:
+  flute: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erw%C3%BCnschtes_Freudenlicht%2C_BWV_184_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, strings, continuo'

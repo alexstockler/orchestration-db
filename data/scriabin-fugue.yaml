@@ -1,0 +1,16 @@
+id: scriabin-fugue
+work:
+  composer: Scriabin, Aleksandr
+  title: Fugue
+  ids:
+    imslp: Fugue (Scriabin, Aleksandr)
+  year: 1892
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,18 @@
+id: mussorgsky-joshua
+work:
+  composer: Mussorgsky, Modest
+  title: Joshua
+  ids:
+    imslp: Joshua (Mussorgsky, Modest)
+  year: 1874
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Joshua_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: Alto, Bass, Mixed Chorus, Orchestra'

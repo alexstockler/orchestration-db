@@ -1,0 +1,16 @@
+id: nielsen-peasant-dance-cnw-77
+work:
+  composer: Nielsen, Carl
+  title: Peasant Dance, CNW 77
+  ids:
+    imslp: Bondedans, CNW 77 (Nielsen, Carl)
+  year: 1896
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bondedans%2C_CNW_77_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

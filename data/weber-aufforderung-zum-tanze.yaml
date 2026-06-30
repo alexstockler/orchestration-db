@@ -1,0 +1,17 @@
+id: weber-aufforderung-zum-tanze
+work:
+  composer: Weber, Carl Maria von
+  title: Aufforderung zum Tanze
+  ids:
+    imslp: Aufforderung zum Tanze, Op.65 (Weber, Carl Maria von)
+  year: 1819
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aufforderung_zum_Tanze%2C_Op.65_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 6

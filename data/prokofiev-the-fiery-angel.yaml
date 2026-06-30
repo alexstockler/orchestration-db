@@ -5,7 +5,7 @@ work:
   ids:
     imslp: The Fiery Angel, Op.37 (Prokofiev, Sergey)
   year: 1919
-formula: 3 3[1.2.Eh] 3[1.2.bcl] 3 4331 tmp+1 2hp str
+formula: 3 3[1.2.Eh] 3[1.2.bcl] 3 4331 tmp 2hp str
 instrumentation:
   flute: 3
   oboe:
@@ -23,9 +23,10 @@ instrumentation:
   tuba: 1
   percussion:
     timpani: 1
-    players: 1
   harp: 2
   strings: str
+  offstage:
+  - percussion
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/The_Fiery_Angel%2C_Op.37_%28Prokofiev%2C_Sergey%29

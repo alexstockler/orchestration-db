@@ -1,0 +1,15 @@
+id: vaughan-williams-in-windsor-forest
+work:
+  composer: Vaughan Williams, Ralph
+  title: In Windsor Forest
+  ids:
+    imslp: In Windsor Forest (Vaughan Williams, Ralph)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_Windsor_Forest_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), orchestra'
+duration_minutes: 16

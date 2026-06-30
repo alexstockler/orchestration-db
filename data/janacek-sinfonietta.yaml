@@ -1,0 +1,63 @@
+id: janacek-sinfonietta
+work:
+  composer: Janáček, Leoš
+  title: Sinfonietta
+  ids:
+    imslp: Sinfonietta (Janáček, Leoš)
+  year: 1926
+formula: 4[1.2.3.4/pic] 3[1.2.Eh] 4[Ebcl.2.3.bcl] 2 4 14[1.2.3.4.5.6.7.8.9.10.11.12.btpt.btpt]
+  4 3[euph.euph.3] tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: bass_trumpet
+  - instrument: bass_trumpet
+  trombone: 4
+  tuba:
+  - instrument: euphonium
+  - instrument: euphonium
+  - {}
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - chimes
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sinfonietta_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: 47 different parts :4 flutes (4th also piccolo), 2 oboes,
+    English horn, ::piccolo clarinet, 2 clarinets, bass clarinet, 2 bassoons :4 horns,
+    12 trumpets, 2 bass trumpets, 4 trombones, 2 euphoniums, tuba, timpani, cymbals,
+    chimes, harp, strings'
+duration_minutes: 20

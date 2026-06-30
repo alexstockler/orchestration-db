@@ -7,7 +7,7 @@ work:
   year: 1846
 formula: ''
 instrumentation:
-  additional_raw: 2 mixed choruses (SATB/SATB)
+  chorus_raw: 2 mixed choruses
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Die_Deutsche_Liturgie%2C_MWV_B_57_%28Mendelssohn%2C_Felix%29

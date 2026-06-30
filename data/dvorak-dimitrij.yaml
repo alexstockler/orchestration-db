@@ -29,7 +29,7 @@ instrumentation:
   harp: 2
   strings: str
   additional_raw: SSATTBBBB soli | SATB / 2+1 | 2+1 | 2 | 2 - 4 | 4 | 3 | 1 | tmp
-    | 2prc | 2hp | str | 2-4 clarinets
+    | 2prc | 2hp | 2-4 clarinets
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Dimitrij%2C_Op.64_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29

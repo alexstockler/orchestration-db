@@ -1,0 +1,25 @@
+id: holst-a-dirge-for-two-veterans
+work:
+  composer: Holst, Gustav
+  title: A Dirge for Two Veterans
+  ids:
+    imslp: A Dirge for 2 Veterans, H.121 (Holst, Gustav)
+  year: 1914
+formula: 0000 0 3[cnt.cnt.cnt] 0 2
+instrumentation:
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  tuba: 2
+  percussion:
+    instruments:
+    - side drum
+    - bass drum
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_Dirge_for_2_Veterans%2C_H.121_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 cornets, 2 tubas (or trombone and tuba; cellos and basses),
+    side drum, bass drum'
+duration_minutes: 7

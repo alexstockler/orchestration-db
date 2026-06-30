@@ -1,0 +1,16 @@
+id: offenbach-croquefer-ou-le-dernier-des-paladins
+work:
+  composer: Offenbach, Jacques
+  title: Croquefer, ou Le dernier des paladins
+  ids:
+    imslp: Croquefer (Offenbach, Jacques)
+  year: 1857
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Croquefer_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

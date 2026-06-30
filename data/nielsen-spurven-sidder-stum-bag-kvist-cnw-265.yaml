@@ -1,0 +1,17 @@
+id: nielsen-spurven-sidder-stum-bag-kvist-cnw-265
+work:
+  composer: Nielsen, Carl
+  title: Spurven sidder stum bag Kvist, CNW 265
+  ids:
+    imslp: Spurven sidder stum bag Kvist, CNW 265 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Spurven_sidder_stum_bag_Kvist%2C_CNW_265_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

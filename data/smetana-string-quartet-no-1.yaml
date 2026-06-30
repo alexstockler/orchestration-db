@@ -1,0 +1,19 @@
+id: smetana-string-quartet-no-1
+work:
+  composer: Smetana, Bedřich
+  title: String Quartet No.1
+  ids:
+    imslp: String Quartet No.1, JB 1:105 (Smetana, Bedřich)
+  year: 1876
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.1%2C_JB_1%3A105_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 28

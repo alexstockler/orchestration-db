@@ -1,0 +1,16 @@
+id: vaughan-williams-communion-service
+work:
+  composer: Vaughan Williams, Ralph
+  title: Communion Service
+  ids:
+    imslp: Liturgical Settings of the Holy Communion No.1 (Vaughan Williams, Ralph)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: satb
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Liturgical_Settings_of_the_Holy_Communion_No.1_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB, organ'

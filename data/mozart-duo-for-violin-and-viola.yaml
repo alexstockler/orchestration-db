@@ -7,7 +7,9 @@ work:
   year: 1783
 formula: ''
 instrumentation:
-  additional_raw: violin | viola
+  solo_strings:
+    violin: 1
+    viola: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Duo_for_Violin_and_Viola%2C_K.423_%28Mozart%2C_Wolfgang_Amadeus%29

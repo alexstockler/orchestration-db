@@ -1,0 +1,19 @@
+id: hindemith-english-horn-sonata
+work:
+  composer: Hindemith, Paul
+  title: English Horn Sonata
+  ids:
+    imslp: English Horn Sonata (Hindemith, Paul)
+  year: 1941
+formula: 0 1[Eh] 0 0 0000 pf
+instrumentation:
+  oboe:
+  - instrument: english_horn
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/English_Horn_Sonata_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: English horn, piano'
+duration_minutes: 12

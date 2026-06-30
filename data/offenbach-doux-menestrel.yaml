@@ -1,0 +1,18 @@
+id: offenbach-doux-menestrel
+work:
+  composer: Offenbach, Jacques
+  title: Doux ménestrel
+  ids:
+    imslp: Doux ménestrel (Offenbach, Jacques)
+  year: 1843
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Doux_m%C3%A9nestrel_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

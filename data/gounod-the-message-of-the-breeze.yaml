@@ -1,0 +1,17 @@
+id: gounod-the-message-of-the-breeze
+work:
+  composer: Gounod, Charles
+  title: The Message of the Breeze
+  ids:
+    imslp: The Message of the Breeze, CG 453 (Gounod, Charles)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 2 soprano voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Message_of_the_Breeze%2C_CG_453_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 soprano voices, piano'

@@ -1,0 +1,15 @@
+id: gounod-d-un-cur-qui-t-aime
+work:
+  composer: Gounod, Charles
+  title: D'un cœur qui t'aime
+  ids:
+    imslp: D'un cœur qui t'aime, CG 185 (Gounod, Charles)
+  year: 1851
+formula: ''
+instrumentation:
+  chorus_raw: 2 mixed choruses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/D%27un_c%C5%93ur_qui_t%27aime%2C_CG_185_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 mixed choruses'

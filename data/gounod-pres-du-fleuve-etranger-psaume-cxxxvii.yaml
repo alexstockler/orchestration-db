@@ -1,0 +1,17 @@
+id: gounod-pres-du-fleuve-etranger-psaume-cxxxvii
+work:
+  composer: Gounod, Charles
+  title: Près du fleuve étranger ; Psaume CXXXVII
+  ids:
+    imslp: Près du fleuve étranger, CG 191 (Gounod, Charles)
+  year: 1859
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pr%C3%A8s_du_fleuve_%C3%A9tranger%2C_CG_191_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

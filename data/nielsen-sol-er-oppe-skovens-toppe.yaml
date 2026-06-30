@@ -1,0 +1,17 @@
+id: nielsen-sol-er-oppe-skovens-toppe
+work:
+  composer: Nielsen, Carl
+  title: Sol er oppe! Skovens toppe
+  ids:
+    imslp: Sol er oppe! Skovens toppe, CNW 382 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sol_er_oppe%21_Skovens_toppe%2C_CNW_382_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

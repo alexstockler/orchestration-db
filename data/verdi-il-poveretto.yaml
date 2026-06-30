@@ -1,0 +1,16 @@
+id: verdi-il-poveretto
+work:
+  composer: Verdi, Giuseppe
+  title: Il Poveretto
+  ids:
+    imslp: Il Poveretto (Verdi, Giuseppe)
+  year: 1843
+formula: ''
+instrumentation:
+  soloists:
+  - voice  and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_Poveretto_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (soprano) and piano'

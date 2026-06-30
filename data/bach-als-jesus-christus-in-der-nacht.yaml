@@ -1,0 +1,15 @@
+id: bach-als-jesus-christus-in-der-nacht
+work:
+  composer: Bach, Johann Sebastian
+  title: Als Jesus Christus in der Nacht
+  ids:
+    imslp: Als Jesus Christus in der Nacht, BWV 265 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Als_Jesus_Christus_in_der_Nacht%2C_BWV_265_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

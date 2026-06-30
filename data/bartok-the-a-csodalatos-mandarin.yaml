@@ -1,0 +1,60 @@
+id: bartok-the-a-csodalatos-mandarin
+work:
+  composer: Bartók, Béla
+  title: The A csodálatos mandarin
+  ids:
+    imslp: A csodálatos mandarin (Bartók, Béla)
+  year: 1918
+formula: 3[1.2/pic.3/pic] 3[1.2.3/Eh] 3 3[1.2.3/cbn] 4332 tmp cel pf org hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 3
+  bassoon:
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drum
+    - tenor drum
+    - bass drum
+    - cymbals
+    - triangle
+    - tam-tam
+    - xylophone
+  keyboards:
+  - instrument: celesta
+  - instrument: piano
+  - instrument: organ
+  harp: 1
+  strings: str
+  chorus_raw: choir
+  additional_raw: '(2nd also D clarinet, 1st and 3rd also bass clarinets) | unknown
+    doubling in horn: tenor wagner tubas | unknown doubling in horn: tenor wagner
+    tubas'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_csod%C3%A1latos_mandarin_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: :3 flutes (2nd and 3rd also piccolo), 3 oboes (3rd also
+    English horn), 3 clarinets ::(2nd also D clarinet, 1st and 3rd also bass clarinets),
+    3 bassoons (3rd also contrabassoon) :4 horns (2nd and 4th also tenor Wagner tubas),
+    3 trumpets, 3 trombones, 2 tubas, timpani, snare drum, tenor drum, bass drum,
+    cymbals, triangle, tam-tam, xylophone, celesta, piano, organ, choir, harp, strings'
+duration_minutes: 30

@@ -7,7 +7,9 @@ work:
   year: 1720
 formula: ''
 instrumentation:
-  additional_raw: recorder | 2 violins | continuo
+  solo_strings:
+    violin: 2
+  additional_raw: recorder | continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Chamber_Concerto_in_A_minor%2C_RV_108_%28Vivaldi%2C_Antonio%29

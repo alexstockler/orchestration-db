@@ -38,13 +38,13 @@ instrumentation:
   - bass
   - alto
   - tenors
+  - contraltos
   additional_raw: 'Parsifal: tenor | Kundry: soprano or mezzo-soprano | Gurnemanz
     | a veteran Knight of the Grail: bass | Amfortas | ruler of the Grail kingdom:
     baritone | Klingsor | a magician: bass-baritone | Titurel | Amfortas'' father:
     bass | Two Grail Knights: tenor | Four Esquires: soprano | Six Flower-maidens:
-    three sopranos | three contraltos or six sopranos Mixed Chorus (SATB) | Knights
-    of the Grail | Boys | Flower-Baidens Orchestra | strings Onstage Instruments |
-    church bells'
+    three sopranos | Knights of the Grail | Boys | Flower-Baidens Orchestra | strings
+    Onstage Instruments | church bells'
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Parsifal%2C_WWV_111_%28Wagner%2C_Richard%29

@@ -1,0 +1,16 @@
+id: bizet-theme
+work:
+  composer: Bizet, Georges
+  title: Thème
+  ids:
+    imslp: Thème, WD 44 (Bizet, Georges)
+  year: 1851
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Th%C3%A8me%2C_WD_44_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

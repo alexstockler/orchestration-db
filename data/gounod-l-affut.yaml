@@ -1,0 +1,17 @@
+id: gounod-l-affut
+work:
+  composer: Gounod, Charles
+  title: L'affût
+  ids:
+    imslp: L'affût, CG 187 (Gounod, Charles)
+  year: 1869
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27aff%C3%BBt%2C_CG_187_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB), piano ad lib.'

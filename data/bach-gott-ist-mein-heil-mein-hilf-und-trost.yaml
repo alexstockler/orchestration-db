@@ -1,0 +1,16 @@
+id: bach-gott-ist-mein-heil-mein-hilf-und-trost
+work:
+  composer: Bach, Johann Sebastian
+  title: Gott ist mein Heil, mein Hilf und Trost
+  ids:
+    imslp: Gott ist mein Heil, mein Hilf und Trost, BWV 1106 (Bach, Johann Sebastian)
+  year: 1703
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_ist_mein_Heil%2C_mein_Hilf_und_Trost%2C_BWV_1106_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

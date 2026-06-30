@@ -1,0 +1,18 @@
+id: borodin-the-sleeping-princess
+work:
+  composer: Borodin, Aleksandr
+  title: The Sleeping Princess
+  ids:
+    imslp: The Sleeping Princess (Borodin, Aleksandr)
+  year: 1867
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Sleeping_Princess_%28Borodin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

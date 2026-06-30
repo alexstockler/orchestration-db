@@ -1,0 +1,15 @@
+id: massenet-amour
+work:
+  composer: Massenet, Jules
+  title: Amour!
+  ids:
+    imslp: Amour! (Massenet, Jules)
+  year: 1880
+formula: ''
+instrumentation:
+  additional_raw: 4 male voices / male chorus (TTBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Amour%21_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 male voices / male chorus (TTBB)'

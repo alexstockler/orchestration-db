@@ -1,0 +1,126 @@
+id: hindemith-ite-angeli-veloces
+work:
+  composer: Hindemith, Paul
+  title: Ite angeli veloces
+  ids:
+    imslp: Ite, angeli veloces (Hindemith, Paul)
+  year: 1953
+formula: 9[1.2/pic.pic.4.5.6.7.pic.9] 7[1.2.Eh.4.5.6.Eh] 15[1.2.bcl.Ebcl.5.6.7.8.9.10.bcl.Ebcl.13.14.15]
+  11[1.2.cbn.4.5.6.7.8.cbn.10.11] 17[1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17] 11[1.2.3.4.5.6.7.8.9.10.11]
+  13[1.2.3.4.5.6.7.8.9.10.11.12.13] 7 tmp+1 pf org pf org str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  - instrument: piccolo
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: piccolo
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  - {}
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - {}
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  - {}
+  - {}
+  horn: 17
+  trumpet: 11
+  trombone: 13
+  tuba: 7
+  percussion:
+    timpani: 1
+    players: 1
+    instruments:
+    - cymbals
+    - snare drum
+    - bass drum
+    - glockenspiel
+    - triangle
+  keyboards:
+  - instrument: piano
+  - instrument: organ
+  - instrument: piano
+  - instrument: organ
+  strings: str
+  soloists:
+  - I. Chant de triomphe du roi David ::Voices (Soloists) :::alto
+  - tenor ::Mixed Chorus (SATB)
+  - 'Audience (Singing) ::'
+  - baritone
+  - voices
+  - alto
+  - tenor
+  - voices
+  - mezzo-soprano
+  - alto
+  - tenor
+  - baritone
+  chorus_raw: mixed chorus
+  saxophones:
+  - instrument: alto_sax
+    count: 1
+  - instrument: alto_sax
+    count: 1
+  - instrument: tenor_sax
+    count: 1
+  - instrument: baritone_sax
+    count: 1
+  additional_raw: Wind Orchestra | II | Custos quid de nocte | III | Cantique de l'espérance
+    | Audience (Singing) | Wind Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ite%2C_angeli_veloces_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, audience, orchestra and wind orchestra
+    :I. Chant de triomphe du roi David ::Voices (Soloists) :::alto, tenor ::Mixed
+    Chorus (SATB), Audience (Singing) ::Orchestra :::2 flutes, 2 oboes, English horn,
+    2 clarinets ::::bass clarinet, 2 bassoons, contrabassoon :::4 horns, 2 trumpets,
+    3 trombones, tuba, timpani, percussion (3 players): cymbals, snare drum, bass
+    drum, piano, strings ::Wind Orchestra :::piccolo, flute, E clarinet, 3 clarinets,
+    alto saxophone (E), 2 bassoons, 4 horns, 3 trumpets (or cornets), 3 trombones,
+    baritone, 2 tubas, percussion (3 players): cymbals, snare drum, bass drum, glockenspiel,
+    organ :II. Custos quid de nocte ::Voices (Soloists) :::alto, tenor ::Mixed Chorus
+    (SATB) ::Orchestra :::flute, oboe, clarinet, bassoon, horn, trumpet, trombone,
+    tuba, timpani, strings :III. Cantique de l''espérance ::Voices (Soloists) :::mezzo-soprano,
+    alto, tenor ::Mixed Chorus (SATB), Audience (Singing) ::Orchestra :::2 flutes
+    (2nd also piccolo), 2 oboes, English horn, 2 clarinets ::::bass clarinet, 2 bassoons,
+    contrabassoon :::4 horns, 2 trumpets, 3 trombones, tuba, timpani, percussion (2
+    players): cymbals, snare drum, bass drum, glockenspiel, piano, strings ::Wind
+    Orchestra :::piccolo, flute, E clarinet, 3 clarinets, ::::alto saxophone (E),
+    tenor saxophone (B), baritone saxophone (E), 2 bassoons :::4 horns, 3 trumpets
+    (or cornets), 3 trombones, baritone, 2 tubas, percussion (5 players): triangle,
+    cymbals, snare drum, bass drum, glockenspiel, organ'
+duration_minutes: 55

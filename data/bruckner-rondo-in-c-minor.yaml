@@ -7,7 +7,10 @@ work:
   year: 1862
 formula: ''
 instrumentation:
-  additional_raw: 2 violins | viola | cello
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Rondo_in_C_minor%2C_WAB_208_%28Bruckner%2C_Anton%29

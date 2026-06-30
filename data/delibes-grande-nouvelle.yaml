@@ -1,0 +1,16 @@
+id: delibes-grande-nouvelle
+work:
+  composer: Delibes, Léo
+  title: Grande nouvelle
+  ids:
+    imslp: Grande nouvelle (Delibes, Léo)
+  year: 1864
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grande_nouvelle_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

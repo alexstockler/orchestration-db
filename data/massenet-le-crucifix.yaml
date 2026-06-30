@@ -1,0 +1,17 @@
+id: massenet-le-crucifix
+work:
+  composer: Massenet, Jules
+  title: Le crucifix
+  ids:
+    imslp: Le crucifix (Massenet, Jules)
+  year: 1862
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: bass voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_crucifix_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: bass voice, piano'

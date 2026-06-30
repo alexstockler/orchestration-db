@@ -13,7 +13,9 @@ instrumentation:
   bassoon: 2
   horn: 2
   strings: str
-  additional_raw: Choir of 4 voices | Bass solo
+  soloists:
+  - bass solo
+  additional_raw: Choir of 4 voices
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/O_Haupt_voll_Blut_und_Wunden_%28Mendelssohn%2C_Felix%29

@@ -1,0 +1,23 @@
+id: hindemith-musica-divinas-laudes
+work:
+  composer: Hindemith, Paul
+  title: Musica divinas laudes
+  ids:
+    imslp: Musica divinas laudes (Hindemith, Paul)
+  year: 1949
+formula: 0000 4221
+instrumentation:
+  horn: 4
+  trumpet: 2
+  trombone: 2
+  tuba: 1
+  soloists:
+  - 3 voices
+  additional_raw: with optional brass*
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Musica_divinas_laudes_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices, with optional brass* :4 horns, 2 trumpets, 2
+    trombones, tuba'
+duration_minutes: 1

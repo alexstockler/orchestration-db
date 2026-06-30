@@ -1,0 +1,17 @@
+id: nielsen-ak-julesne-fra-bethlehem
+work:
+  composer: Nielsen, Carl
+  title: Ak, Julesne fra Bethlehem
+  ids:
+    imslp: Ak, Julesne fra Bethlehem, CNW 362 (Nielsen, Carl)
+  year: 1914
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ak%2C_Julesne_fra_Bethlehem%2C_CNW_362_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, male chorus (TTBB)'

@@ -1,0 +1,15 @@
+id: bach-gott-gib-dein-gerichte-dem-konige
+work:
+  composer: Bach, Johann Sebastian
+  title: Gott, gib Dein Gerichte dem Könige
+  ids:
+    imslp: Gott, gib Dein Gerichte dem Könige, BWV Anh.3 (Bach, Johann Sebastian)
+  year: 1730
+formula: ''
+instrumentation:
+  additional_raw: unknown
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott%2C_gib_Dein_Gerichte_dem_K%C3%B6nige%2C_BWV_Anh.3_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: unknown'

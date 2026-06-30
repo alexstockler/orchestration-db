@@ -1,0 +1,18 @@
+id: gounod-funeral-march-of-a-marionette
+work:
+  composer: Gounod, Charles
+  title: Funeral March of a Marionette
+  ids:
+    imslp: Marche funèbre d'une marionnette, CG 583 (Gounod, Charles)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marche_fun%C3%A8bre_d%27une_marionnette%2C_CG_583_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: piano (for composer''s orchestration, see Arrangements
+    and Transcriptions tab)'
+duration_minutes: 5

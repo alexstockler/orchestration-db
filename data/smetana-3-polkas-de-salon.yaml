@@ -1,0 +1,17 @@
+id: smetana-3-polkas-de-salon
+work:
+  composer: Smetana, Bedřich
+  title: 3 Polkas de Salon
+  ids:
+    imslp: 3 Polkas de salon, Op.7 (Smetana, Bedřich)
+  year: 1848
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Polkas_de_salon%2C_Op.7_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 11

@@ -6,8 +6,7 @@ work:
     imslp: Press Celebrations Music, JS 137 (Sibelius, Jean)
   year: 1899
 formula: ''
-instrumentation:
-  additional_raw: orchestra
+instrumentation: {}
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Press_Celebrations_Music%2C_JS_137_%28Sibelius%2C_Jean%29

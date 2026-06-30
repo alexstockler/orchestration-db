@@ -1,0 +1,17 @@
+id: smetana-album-leaf-in-b-major-jb-1-20
+work:
+  composer: Smetana, Bedřich
+  title: Album Leaf in B major, JB 1:20
+  ids:
+    imslp: Album Leaf in B major, JB 1:20 (Smetana, Bedřich)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album_Leaf_in_B_major%2C_JB_1%3A20_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 2

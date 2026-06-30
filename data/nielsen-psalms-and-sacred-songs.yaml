@@ -1,0 +1,15 @@
+id: nielsen-psalms-and-sacred-songs
+work:
+  composer: Nielsen, Carl
+  title: Psalms and Sacred Songs
+  ids:
+    imslp: Hymns and Sacred Songs, CNW 153-201 (Nielsen, Carl)
+  year: 1912
+formula: ''
+instrumentation:
+  additional_raw: unspecified - voices in piano score (voices & piano?)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymns_and_Sacred_Songs%2C_CNW_153-201_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: unspecified - voices in piano score (voices & piano?)'

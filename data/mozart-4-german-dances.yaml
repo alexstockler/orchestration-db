@@ -5,12 +5,17 @@ work:
   ids:
     imslp: 4 German Dances, K.602 (Mozart, Wolfgang Amadeus)
   year: 1791
-formula: 0220 0000
+formula: 0222 2200 tmp str
 instrumentation:
   oboe: 2
   clarinet: 2
-  additional_raw: 2 flutes/piccolo | 2 bassoons + 2 horns | 2 trumpets + timpani +
-    strings (no violas)
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: 2 flutes/piccolo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/4_German_Dances%2C_K.602_%28Mozart%2C_Wolfgang_Amadeus%29

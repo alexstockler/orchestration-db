@@ -1,0 +1,19 @@
+id: massenet-soleil-couchant
+work:
+  composer: Massenet, Jules
+  title: Soleil couchant
+  ids:
+    imslp: Soleil couchant (Massenet, Jules)
+  year: 1912
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Soleil_couchant_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 3

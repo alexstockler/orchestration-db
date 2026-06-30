@@ -1,0 +1,15 @@
+id: scriabin-3-etudes
+work:
+  composer: Scriabin, Aleksandr
+  title: 3 Etudes
+  ids:
+    imslp: 3 Etudes, Op.65 (Scriabin, Aleksandr)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Etudes%2C_Op.65_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

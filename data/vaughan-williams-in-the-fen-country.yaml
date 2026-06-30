@@ -1,0 +1,33 @@
+id: vaughan-williams-in-the-fen-country
+work:
+  composer: Vaughan Williams, Ralph
+  title: In the Fen Country
+  ids:
+    imslp: In the Fen Country (Vaughan Williams, Ralph)
+  year: 1904
+formula: 3 3[1.2.Eh] 3[1.2.bcl] 2 4231 tmp str
+instrumentation:
+  flute: 3
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_the_Fen_Country_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes, 2 oboes, english horn, 2 clarinets, bass clarinet,
+    2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani, strings'
+duration_minutes: 14

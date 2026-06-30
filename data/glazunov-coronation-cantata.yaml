@@ -1,0 +1,48 @@
+id: glazunov-coronation-cantata
+work:
+  composer: Glazunov, Aleksandr
+  title: Coronation Cantata
+  ids:
+    imslp: Coronation Cantata, Op.56 (Glazunov, Aleksandr)
+  year: 1895
+formula: 3[1.2.3/pic] 2[1.2/Eh] 3 2 4331 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 3
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - bass drum
+    - glockenspiel
+  harp: 1
+  strings: str
+  soloists:
+  - soprano
+  - mezzo-soprano
+  - tenor
+  - bass :Mixed Chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Coronation_Cantata%2C_Op.56_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Voices ::soprano, mezzo-soprano,
+    tenor, bass :Mixed Chorus (SATB), Orchestra ::3 flutes (3rd also piccolo), 2 oboes
+    (2nd also English horn), 3 clarinets (A/B), 2 bassoons, 4 horns (F), 3 trumpets
+    (A/B), 3 trombones, tuba, timpani, triangle, cymbals, bass drum, glockenspiel,
+    harp, strings'
+duration_minutes: 25

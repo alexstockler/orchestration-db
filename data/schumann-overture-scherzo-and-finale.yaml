@@ -13,7 +13,10 @@ instrumentation:
   bassoon: 2
   horn: 2
   trumpet: 2
-  trombone: 3
+  trombone:
+  - optional: true
+  - optional: true
+  - optional: true
   percussion:
     timpani: 1
   strings: str

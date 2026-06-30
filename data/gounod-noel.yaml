@@ -1,0 +1,19 @@
+id: gounod-noel
+work:
+  composer: Gounod, Charles
+  title: Noël
+  ids:
+    imslp: Noël, CG 184 (Gounod, Charles)
+  year: 1869
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  chorus_raw: female chorus
+  additional_raw: piano (organ ad lib.)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/No%C3%ABl%2C_CG_184_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, female chorus (SSA), piano (organ ad lib.)'

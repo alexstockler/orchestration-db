@@ -1,0 +1,15 @@
+id: kodaly-veni-veni-emmanuel
+work:
+  composer: Kodály, Zoltán
+  title: Veni, veni Emmanuel
+  ids:
+    imslp: Veni, veni Emmanuel (Kodály, Zoltán)
+  year: 1943
+formula: ''
+instrumentation:
+  additional_raw: mixed chorus (SAB) a cappella
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Veni%2C_veni_Emmanuel_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SAB) a cappella'

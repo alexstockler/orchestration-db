@@ -1,0 +1,17 @@
+id: bach-es-ist-nun-aus-mit-meinem-leben
+work:
+  composer: Bach, Johann Sebastian
+  title: Es ist nun aus mit meinem Leben
+  ids:
+    imslp: Es ist nun aus mit meinem Leben, BWV 457 (Bach, Johann Sebastian)
+  year: 1735
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_ist_nun_aus_mit_meinem_Leben%2C_BWV_457_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

@@ -12,7 +12,8 @@ instrumentation:
   - instrument: piano
   soloists:
   - soprano
-  additional_raw: cello
+  solo_strings:
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Chansons_mad%C3%A9casses%2C_M.78_%28Ravel%2C_Maurice%29

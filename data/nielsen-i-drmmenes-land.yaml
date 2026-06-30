@@ -1,0 +1,19 @@
+id: nielsen-i-drmmenes-land
+work:
+  composer: Nielsen, Carl
+  title: I Drømmenes Land
+  ids:
+    imslp: I Drømmenes Land, CNW 285 (Nielsen, Carl)
+  year: 1891
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/I_Dr%C3%B8mmenes_Land%2C_CNW_285_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 5

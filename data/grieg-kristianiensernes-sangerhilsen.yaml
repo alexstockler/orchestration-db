@@ -7,7 +7,8 @@ work:
   year: 1895
 formula: ''
 instrumentation:
-  additional_raw: baritone solo | male choir
+  chorus_raw: male choir
+  additional_raw: baritone solo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Kristianiensernes_sangerhilsen%2C_EG_173_%28Grieg%2C_Edvard%29

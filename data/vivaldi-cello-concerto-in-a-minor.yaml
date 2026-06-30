@@ -7,7 +7,9 @@ work:
 formula: str
 instrumentation:
   strings: str
-  additional_raw: cello | continuo
+  solo_strings:
+    cello: 1
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Cello_Concerto_in_A_minor%2C_RV_419_%28Vivaldi%2C_Antonio%29

@@ -1,0 +1,18 @@
+id: kodaly-hary-janos
+work:
+  composer: Kodály, Zoltán
+  title: Háry János
+  ids:
+    imslp: Háry János, Op.15 (Kodály, Zoltán)
+  year: 1929
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/H%C3%A1ry_J%C3%A1nos%2C_Op.15_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (incl. children''s chorus), orchestra'
+duration_minutes: 150

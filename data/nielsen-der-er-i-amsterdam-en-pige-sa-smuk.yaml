@@ -1,0 +1,16 @@
+id: nielsen-der-er-i-amsterdam-en-pige-sa-smuk
+work:
+  composer: Nielsen, Carl
+  title: Der er i Amsterdam en Pige så smuk
+  ids:
+    imslp: Der er i Amsterdam en Pige så smuk, CNW 411 (Nielsen, Carl)
+  year: 1920
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_er_i_Amsterdam_en_Pige_s%C3%A5_smuk%2C_CNW_411_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice'

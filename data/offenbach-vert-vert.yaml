@@ -1,0 +1,17 @@
+id: offenbach-vert-vert
+work:
+  composer: Offenbach, Jacques
+  title: Vert-vert
+  ids:
+    imslp: Vert-vert (Offenbach, Jacques)
+  year: 1869
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vert-vert_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

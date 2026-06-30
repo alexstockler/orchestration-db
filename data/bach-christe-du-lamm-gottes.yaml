@@ -1,0 +1,16 @@
+id: bach-christe-du-lamm-gottes
+work:
+  composer: Bach, Johann Sebastian
+  title: Christe, du Lamm Gottes
+  ids:
+    imslp: Christe, du Lamm Gottes, BWV 619 (Bach, Johann Sebastian)
+  year: 1716
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Christe%2C_du_Lamm_Gottes%2C_BWV_619_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

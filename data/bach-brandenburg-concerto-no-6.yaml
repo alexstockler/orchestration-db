@@ -1,0 +1,19 @@
+id: bach-brandenburg-concerto-no-6
+work:
+  composer: Bach, Johann Sebastian
+  title: Brandenburg Concerto No.6
+  ids:
+    imslp: Brandenburg Concerto No.6 in B-flat major, BWV 1051 (Bach, Johann Sebastian)
+  year: 1718
+formula: ''
+instrumentation:
+  solo_strings:
+    viola: 2
+    cello: 1
+  additional_raw: 2 bass viols | continuo (harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Brandenburg_Concerto_No.6_in_B-flat_major%2C_BWV_1051_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violas, cello, 2 bass viols, continuo (harpsichord)'
+duration_minutes: 17

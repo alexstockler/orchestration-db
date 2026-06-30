@@ -1,0 +1,17 @@
+id: nielsen-island
+work:
+  composer: Nielsen, Carl
+  title: Island
+  ids:
+    imslp: Island, CNW 338 (Nielsen, Carl)
+  year: 1928
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: reciter
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Island%2C_CNW_338_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: reciter, piano'

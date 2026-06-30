@@ -1,0 +1,17 @@
+id: holst-the-heart-worships
+work:
+  composer: Holst, Gustav
+  title: The Heart Worships
+  ids:
+    imslp: The Heart Worships (Holst, Gustav)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Heart_Worships_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

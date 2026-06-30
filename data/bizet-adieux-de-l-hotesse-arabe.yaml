@@ -1,0 +1,18 @@
+id: bizet-adieux-de-l-hotesse-arabe
+work:
+  composer: Bizet, Georges
+  title: Adieux de l'hôtesse arabe
+  ids:
+    imslp: Adieux de l'hôtesse arabe (Bizet, Georges)
+  year: 1867
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adieux_de_l%27h%C3%B4tesse_arabe_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

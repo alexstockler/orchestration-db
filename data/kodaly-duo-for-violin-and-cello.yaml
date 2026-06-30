@@ -1,0 +1,17 @@
+id: kodaly-duo-for-violin-and-cello
+work:
+  composer: Kodály, Zoltán
+  title: Duo for Violin and Cello
+  ids:
+    imslp: Duo for Violin and Cello, Op.7 (Kodály, Zoltán)
+  year: 1914
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Duo_for_Violin_and_Cello%2C_Op.7_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello'

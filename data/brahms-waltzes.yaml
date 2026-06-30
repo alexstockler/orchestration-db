@@ -5,9 +5,10 @@ work:
   ids:
     imslp: 16 Waltzes, Op.39 (Brahms, Johannes)
   year: 1865
-formula: ''
+formula: pf
 instrumentation:
-  additional_raw: piano 4-hands
+  keyboards:
+  - instrument: piano
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/16_Waltzes%2C_Op.39_%28Brahms%2C_Johannes%29

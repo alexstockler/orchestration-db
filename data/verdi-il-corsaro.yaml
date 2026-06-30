@@ -1,0 +1,63 @@
+id: verdi-il-corsaro
+work:
+  composer: Verdi, Giuseppe
+  title: Il corsaro
+  ids:
+    imslp: Il corsaro (Verdi, Giuseppe)
+  year: 1848
+formula: 2[pic.2] 2 2 2 4 2 3 1[cimb] tmp hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba:
+  - instrument: cimbasso
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - cannon
+  harp: 1
+  strings: str
+  soloists:
+  - Corrado
+  - Capitano dei Corsari (tenor)
+  - Giovanni
+  - Corsaro (bass)
+  - Medora
+  - giovane amante di Corrado (soprano)
+  - Guinara
+  - schiava prediletta di Seid (soprano)
+  - Seid
+  - basciò di Corone (baritone)
+  - Selimo
+  - agà (bass)
+  - Eunuco nero (tenor)
+  - Uno schiavo (tenor)
+  - Anselmo
+  - Corsaro che non parla (mime) :Mixed Chorus ::Corsari
+  - Guardie
+  - Turchi
+  - Schiavi
+  - Odalische
+  - 'Ancelle di Medòra :'
+  additional_raw: bass drum/cymbals
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_corsaro_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Cast ::Corrado, Capitano dei
+    Corsari (tenor), Giovanni, Corsaro (bass), Medora, giovane amante di Corrado (soprano),
+    Guinara, schiava prediletta di Seid (soprano), Seid, basciò di Corone (baritone),
+    Selimo, agà (bass), Eunuco nero (tenor), Uno schiavo (tenor), Anselmo, Corsaro
+    che non parla (mime) :Mixed Chorus ::Corsari, Guardie, Turchi, Schiavi, Odalische,
+    Ancelle di Medòra :Orchestra ::piccolo, flute, 2 oboes, 2 clarinets, 2 bassoons,
+    4 horns, 2 trumpets, 3 trombones, cimbasso, timpani, triangle, cymbals, bass drum/cymbals,
+    cannon, harp, strings'

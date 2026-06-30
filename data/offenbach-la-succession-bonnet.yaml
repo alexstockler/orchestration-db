@@ -1,0 +1,16 @@
+id: offenbach-la-succession-bonnet
+work:
+  composer: Offenbach, Jacques
+  title: La succession Bonnet
+  ids:
+    imslp: La succession Bonnet (Offenbach, Jacques)
+  year: 1864
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_succession_Bonnet_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

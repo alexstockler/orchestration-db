@@ -1,0 +1,45 @@
+id: glazunov-karelian-legend
+work:
+  composer: Glazunov, Aleksandr
+  title: Karelian Legend
+  ids:
+    imslp: Karelian Legend, Op.99 (Glazunov, Aleksandr)
+  year: 1916
+formula: 3[1.2.3/pic] 3[1.2.Eh] 3 3[1.2.cbn] 6332 2hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 3
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 6
+  trumpet: 3
+  trombone: 3
+  tuba: 2
+  percussion:
+    instruments:
+    - triangle
+    - bass drum
+    - cymbals
+    - gong
+    - xylophone
+  harp: 2
+  strings: str
+  additional_raw: 'unknown doubling in trumpet: alto trumpet | impani'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Karelian_Legend%2C_Op.99_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 2 oboes, English horn, 3 clarinets,
+    2 bassoons, contrabassoon, 6 horns, 3 trumpets (3rd also alto trumpet), 3 trombones,
+    2 tubas, impani, 2 harps, triangle, bass drum, cymbals, gong, xylophone, strings'
+duration_minutes: 21

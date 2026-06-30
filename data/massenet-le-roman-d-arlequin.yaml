@@ -1,0 +1,16 @@
+id: massenet-le-roman-d-arlequin
+work:
+  composer: Massenet, Jules
+  title: Le roman d'Arlequin
+  ids:
+    imslp: Le roman d'Arlequin (Massenet, Jules)
+  year: 1871
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_roman_d%27Arlequin_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

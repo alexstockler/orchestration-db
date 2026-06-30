@@ -1,0 +1,15 @@
+id: offenbach-bagatelle
+work:
+  composer: Offenbach, Jacques
+  title: Bagatelle
+  ids:
+    imslp: Bagatelle (Offenbach, Jacques)
+  year: 1874
+formula: ''
+instrumentation:
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bagatelle_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, orchestra'

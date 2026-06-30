@@ -1,0 +1,20 @@
+id: bach-erforsche-mich-gott-und-erfahre-mein-herz
+work:
+  composer: Bach, Johann Sebastian
+  title: Erforsche mich, Gott, und erfahre mein Herz
+  ids:
+    imslp: Erforsche mich, Gott, und erfahre mein Herz, BWV 136 (Bach, Johann Sebastian)
+  year: 1723
+formula: 0200 1000 str
+instrumentation:
+  oboe: 2
+  horn: 1
+  strings: str
+  additional_raw: continuo (organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erforsche_mich%2C_Gott%2C_und_erfahre_mein_Herz%2C_BWV_136_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes (both also oboes d''amore), horn, strings, continuo
+    (organ)'
+duration_minutes: 15

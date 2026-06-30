@@ -7,7 +7,7 @@ work:
   year: 1920
 formula: ''
 instrumentation:
-  additional_raw: Chorus and Orchestra
+  chorus_raw: chorus and orchestra
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Maan_virsi%2C_Op.95_%28Sibelius%2C_Jean%29

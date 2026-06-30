@@ -1,0 +1,18 @@
+id: mussorgsky-on-the-dnieper
+work:
+  composer: Mussorgsky, Modest
+  title: On the Dnieper
+  ids:
+    imslp: On the Dnieper (Mussorgsky, Modest)
+  year: 1879
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/On_the_Dnieper_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

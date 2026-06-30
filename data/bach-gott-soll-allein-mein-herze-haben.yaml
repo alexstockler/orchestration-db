@@ -1,0 +1,17 @@
+id: bach-gott-soll-allein-mein-herze-haben
+work:
+  composer: Bach, Johann Sebastian
+  title: Gott soll allein mein Herze haben
+  ids:
+    imslp: Gott soll allein mein Herze haben, BWV 169 (Bach, Johann Sebastian)
+  year: 1726
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: taille | continuo (organ obbligato)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_soll_allein_mein_Herze_haben%2C_BWV_169_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, taille, strings, continuo (organ obbligato)'

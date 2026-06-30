@@ -1,0 +1,18 @@
+id: bach-ach-ich-sehe-itzt-da-ich-zur-hochzeit-gehe
+work:
+  composer: Bach, Johann Sebastian
+  title: Ach! ich sehe, itzt, da ich zur Hochzeit gehe
+  ids:
+    imslp: Ach! ich sehe, itzt, da ich zur Hochzeit gehe, BWV 162 (Bach, Johann Sebastian)
+  year: 1715
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: 'Weimar Version: [bassoon] | continuo (organ) | Leipzig Version:
+    [bassoon] | corno da tirarsi (leipzig version) | continuo (organ)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach%21_ich_sehe%2C_itzt%2C_da_ich_zur_Hochzeit_gehe%2C_BWV_162_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Weimar Version: [bassoon], strings, continuo (organ), Leipzig
+    Version: [bassoon], corno da tirarsi (leipzig version), strings, continuo (organ)'

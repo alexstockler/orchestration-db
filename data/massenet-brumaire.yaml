@@ -1,0 +1,14 @@
+id: massenet-brumaire
+work:
+  composer: Massenet, Jules
+  title: Brumaire
+  ids:
+    imslp: Brumaire (Massenet, Jules)
+  year: 1900
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Brumaire_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

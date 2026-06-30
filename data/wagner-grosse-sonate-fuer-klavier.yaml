@@ -5,9 +5,10 @@ work:
   ids:
     imslp: Piano Sonata in A major, WWV 26 (Wagner, Richard)
   year: 1831
-formula: ''
+formula: pf
 instrumentation:
-  additional_raw: piano solo
+  keyboards:
+  - instrument: piano
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Piano_Sonata_in_A_major%2C_WWV_26_%28Wagner%2C_Richard%29

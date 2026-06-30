@@ -1,0 +1,16 @@
+id: offenbach-madame-favart
+work:
+  composer: Offenbach, Jacques
+  title: Madame Favart
+  ids:
+    imslp: Madame Favart (Offenbach, Jacques)
+  year: 1878
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Madame_Favart_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

@@ -1,0 +1,18 @@
+id: massenet-larmes-maternelles
+work:
+  composer: Massenet, Jules
+  title: Larmes maternelles
+  ids:
+    imslp: Larmes maternelles (Massenet, Jules)
+  year: 1893
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Larmes_maternelles_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

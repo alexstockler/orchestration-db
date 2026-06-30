@@ -1,0 +1,16 @@
+id: bach-fantasia-super-komm-heiliger-geist
+work:
+  composer: Bach, Johann Sebastian
+  title: Fantasia super 'Komm, Heiliger Geist'
+  ids:
+    imslp: Fantasia super 'Komm, Heiliger Geist', BWV 651a (Bach, Johann Sebastian)
+  year: 1747
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_super_%27Komm%2C_Heiliger_Geist%27%2C_BWV_651a_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

@@ -1,0 +1,18 @@
+id: massenet-menteuse-cherie
+work:
+  composer: Massenet, Jules
+  title: Menteuse chérie !
+  ids:
+    imslp: Menteuse chérie (Massenet, Jules)
+  year: 1912
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Menteuse_ch%C3%A9rie_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

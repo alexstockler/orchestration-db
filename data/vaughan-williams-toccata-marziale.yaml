@@ -1,0 +1,62 @@
+id: vaughan-williams-toccata-marziale
+work:
+  composer: Vaughan Williams, Ralph
+  title: Toccata Marziale
+  ids:
+    imslp: Toccata Marziale (Vaughan Williams, Ralph)
+  year: 1924
+formula: 4[pic.pic.3.4] 2 6[1.2.3.4.bcl.cbcl] 2 4 4[cnt.cnt.3.4] 3 1 tmp
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  - instrument: contrabass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - triangle
+    - snare drum
+  saxophones:
+  - instrument: soprano_sax
+    count: 1
+  - instrument: alto_sax
+    count: 1
+  - instrument: tenor_sax
+    count: 1
+  - instrument: baritone_sax
+    count: 1
+  - instrument: bass_sax
+    count: 1
+  solo_strings:
+    double_bass: 1
+  additional_raw: 2 E clarinets | alto clarinet
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Toccata_Marziale_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 piccolos, 2 flutes, 2 oboes, 2 E clarinets, 4 clarinets,,
+    alto clarinet, bass clarinet, contrabass clarinet, 2 bassoons, soprano saxophone,
+    alto saxophone, tenor saxophone, baritone saxophone, bass saxophone, 4 horns,
+    2 cornets, 2 trumpets, 3 trombones, tuba, timpani, bass drum, cymbals, triangle,
+    snare drum, double bass'
+duration_minutes: 4

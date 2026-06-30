@@ -1,0 +1,18 @@
+id: nielsen-fremtidens-land
+work:
+  composer: Nielsen, Carl
+  title: Fremtidens Land!
+  ids:
+    imslp: Fremtidens Land!, CNW 334 (Nielsen, Carl)
+  year: 1929
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fremtidens_Land%21%2C_CNW_334_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

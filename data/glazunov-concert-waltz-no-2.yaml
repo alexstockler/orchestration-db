@@ -1,0 +1,35 @@
+id: glazunov-concert-waltz-no-2
+work:
+  composer: Glazunov, Aleksandr
+  title: Concert Waltz No.2
+  ids:
+    imslp: Concert Waltz No.2, Op.51 (Glazunov, Aleksandr)
+  year: 1894
+formula: 3[pic.2.3] 2 2 2 4230 tmp hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - snare drum
+    - cymbals
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concert_Waltz_No.2%2C_Op.51_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4
+    horns, 2 trumpets, 3 trombones, timpani, triangle, snare drum (ad lib.), cymbals,
+    harp, strings'
+duration_minutes: 9

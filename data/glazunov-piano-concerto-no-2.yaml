@@ -1,0 +1,36 @@
+id: glazunov-piano-concerto-no-2
+work:
+  composer: Glazunov, Aleksandr
+  title: Piano Concerto No.2
+  ids:
+    imslp: Piano Concerto No.2, Op.100 (Glazunov, Aleksandr)
+  year: 1917
+formula: 3[pic.2.3] 2 2 2 4231 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+  strings: str
+  soloists:
+  - piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Concerto_No.2%2C_Op.100_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: piano, Orchestra: piccolo, 2 flutes, 2 oboes, 2 clarinets
+    (A), 2 bassoons, 4 horns (F), 2 trumpets (C), 3 trombones, tuba, timpani, triangle,
+    cymbals, strings'
+duration_minutes: 20

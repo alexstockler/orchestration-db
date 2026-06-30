@@ -1,0 +1,43 @@
+id: holst-a-fugal-overture
+work:
+  composer: Holst, Gustav
+  title: A Fugal Overture
+  ids:
+    imslp: A Fugal Overture, Op.40 No.1 (Holst, Gustav)
+  year: 1922
+formula: 3[pic.2.3] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 4231 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - sleigh bells
+    - bass drum
+    - glockenspiel
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_Fugal_Overture%2C_Op.40_No.1_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets,
+    bass clarinet, 2 bassoons, contrabassoon, 4 horns, 2 trumpets, 3 trombones, tuba,
+    timpani, sleigh bells, bass drum, glockenspiel, strings'

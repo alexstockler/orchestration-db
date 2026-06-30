@@ -1,0 +1,23 @@
+id: hindemith-wir-bauen-eine-stadt-children-s-play-for-voices-melody-instruments-and
+work:
+  composer: Hindemith, Paul
+  title: 'Wir bauen eine Stadt: Children''s play, for voices, melody instruments and
+    percussion'
+  ids:
+    imslp: Wir bauen eine Stadt (Hindemith, Paul)
+  year: 1930
+formula: ''
+instrumentation:
+  percussion:
+    instruments:
+    - bass drum
+  additional_raw: tambourine/triangle | wood block drum | other easy-to-use drums
+    piano (piano suite)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Wir_bauen_eine_Stadt_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: voices (high, medium, low), melody instruments, percussion
+    (complete) :tambourine/triangle, wood block drum, bass drum, other easy-to-use
+    drums piano (piano suite)'
+duration_minutes: 25

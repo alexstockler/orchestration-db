@@ -1,0 +1,22 @@
+id: berlioz-la-belle-voyageuse
+work:
+  composer: Berlioz, Hector
+  title: La belle voyageuse
+  ids:
+    imslp: La belle voyageuse, H 42 (Berlioz, Hector)
+  year: 1829
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+  - mezzo-soprano
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_belle_voyageuse%2C_H_42_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano, TTBB, orchestra (lost), mezzo-soprano, orchestra
+    (flute, 2 oboes, 2 clarinets, 1 bassoon, strings), female chorus, orchestra'
+duration_minutes: 5

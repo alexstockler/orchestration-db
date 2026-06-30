@@ -1,0 +1,15 @@
+id: vaughan-williams-the-voice-out-of-the-whirlwind
+work:
+  composer: Vaughan Williams, Ralph
+  title: The Voice Out of the Whirlwind
+  ids:
+    imslp: The Voice Out of the Whirlwind (Vaughan Williams, Ralph)
+  year: 1947
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Voice_Out_of_the_Whirlwind_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), orchestra'

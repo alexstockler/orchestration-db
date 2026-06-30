@@ -1,0 +1,20 @@
+id: bach-falsche-welt-dir-trau-ich-nicht
+work:
+  composer: Bach, Johann Sebastian
+  title: Falsche Welt, dir trau ich nicht
+  ids:
+    imslp: Falsche Welt, dir trau ich nicht, BWV 52 (Bach, Johann Sebastian)
+  year: 1726
+formula: 0301 1000 str
+instrumentation:
+  oboe: 3
+  bassoon: 1
+  horn: 1
+  strings: str
+  additional_raw: continuo (organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Falsche_Welt%2C_dir_trau_ich_nicht%2C_BWV_52_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 oboes, bassoon, (2) horns, strings, continuo (organ)'
+duration_minutes: 16

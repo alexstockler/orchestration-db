@@ -1,0 +1,17 @@
+id: smetana-pochod-k-slavnosti-shakespearove
+work:
+  composer: Smetana, Bedřich
+  title: Pochod k slavnosti Shakespearově
+  ids:
+    imslp: Pochod k slavnosti Shakespearově, JB 1:90 (Smetana, Bedřich)
+  year: 1864
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: 3-2-2-2 | 4-4-3-1 | perc
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pochod_k_slavnosti_Shakespearov%C4%9B%2C_JB_1%3A90_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: 3-2-2-2, 4-4-3-1, perc, strs'
+duration_minutes: 5

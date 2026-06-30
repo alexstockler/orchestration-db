@@ -1,0 +1,17 @@
+id: franck-ave-maria
+work:
+  composer: Franck, César
+  title: Ave Maria
+  ids:
+    imslp: Ave Maria, FWV 57 (Franck, César)
+  year: 1865
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  additional_raw: 2 Vocal soloists (soprano and bass)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_Maria%2C_FWV_57_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Vocal soloists (soprano and bass), Organ'

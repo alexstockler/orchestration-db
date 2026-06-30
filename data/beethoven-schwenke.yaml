@@ -7,7 +7,8 @@ work:
   year: 1824
 formula: ''
 instrumentation:
-  additional_raw: 4 Voices
+  soloists:
+  - 4 voices
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Schwenke%2C_WoO_187_%28Beethoven%2C_Ludwig_van%29

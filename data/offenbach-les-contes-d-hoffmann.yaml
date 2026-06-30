@@ -1,0 +1,84 @@
+id: offenbach-les-contes-d-hoffmann
+work:
+  composer: Offenbach, Jacques
+  title: Les contes d'Hoffmann
+  ids:
+    imslp: Les contes d'Hoffmann (Offenbach, Jacques)
+  year: 1876
+formula: 2222 4 2[cnt.cnt] 3 0 tmp+1 hp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  percussion:
+    timpani: 1
+    players: 1
+  harp: 1
+  strings: str
+  soloists:
+  - Hoffmann
+  - poète (tenor)
+  - Olympia
+  - poupée mécanique (soprano)
+  - Antonia
+  - jeune fille (soprano)
+  - Giulietta
+  - courtisane (mezzo-soprano)
+  - Stella
+  - cantatrice (soprano)
+  - Nicklausse / La Muse (mezzo-soprano)
+  - Lindorf (bass-baritone)
+  - Coppélius (bass-baritone)
+  - Docteur Miracle (bass-baritone)
+  - Capitaine Dapertutto (bass-baritone)
+  - Andrès
+  - valet de Stella (ténor-bouffe)
+  - Cochenille
+  - valet de Spalanzani (ténor-bouffe)
+  - Frantz
+  - valet de Crespel (ténor-bouffe)
+  - Pitichinaccio
+  - bouffon de Giulietta (ténor-bouffe)
+  - Spalanzani
+  - inventeur (ténor-bouffe)
+  - Crespel
+  - père d'Antonia (bass)
+  - La voix de la tombe (la mère d'Antonia) (mezzo-soprano)
+  - Schlémil
+  - amant de Giulietta (baritone)
+  - Luther
+  - cabaretier (bass)
+  - Nathanaël
+  - étudiant (tenor)
+  - Hermann
+  - étudiant (baritone)
+  - Wilhelm
+  - étudiant (tenor, rôle coupé après la création) Mixed Chorus :esprits invisibles
+  - garçons de taverne
+  - édiants et amis d'Hoffmann
+  - invités de Spalanzani
+  - jeunes filles et invités chez Giulietta
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_contes_d%27Hoffmann_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Hoffmann, poète (tenor), Olympia, poupée mécanique
+    (soprano), Antonia, jeune fille (soprano), Giulietta, courtisane (mezzo-soprano),
+    Stella, cantatrice (soprano), Nicklausse / La Muse (mezzo-soprano), Lindorf (bass-baritone),
+    Coppélius (bass-baritone), Docteur Miracle (bass-baritone), Capitaine Dapertutto
+    (bass-baritone), Andrès, valet de Stella (ténor-bouffe), Cochenille, valet de
+    Spalanzani (ténor-bouffe), Frantz, valet de Crespel (ténor-bouffe), Pitichinaccio,
+    bouffon de Giulietta (ténor-bouffe), Spalanzani, inventeur (ténor-bouffe), Crespel,
+    père d''Antonia (bass), La voix de la tombe (la mère d''Antonia) (mezzo-soprano),
+    Schlémil, amant de Giulietta (baritone), Luther, cabaretier (bass), Nathanaël,
+    étudiant (tenor), Hermann, étudiant (baritone), Wilhelm, étudiant (tenor, rôle
+    coupé après la création) Mixed Chorus :esprits invisibles, garçons de taverne,
+    édiants et amis d''Hoffmann,, invités de Spalanzani, jeunes filles et invités
+    chez Giulietta Orchestra :2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns,
+    2 cornets, 3 trombones, timpani, percussion, harp, strings'

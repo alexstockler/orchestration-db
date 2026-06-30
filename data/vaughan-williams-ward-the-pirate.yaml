@@ -1,0 +1,15 @@
+id: vaughan-williams-ward-the-pirate
+work:
+  composer: Vaughan Williams, Ralph
+  title: Ward, the Pirate
+  ids:
+    imslp: Ward, the Pirate (Vaughan Williams, Ralph)
+  year: 1912
+formula: ''
+instrumentation:
+  additional_raw: men's chorus or quartet (TTBB) a cappella
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ward%2C_the_Pirate_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: men''s chorus or quartet (TTBB) a cappella'

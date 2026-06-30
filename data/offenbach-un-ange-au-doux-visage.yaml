@@ -1,0 +1,19 @@
+id: offenbach-un-ange-au-doux-visage
+work:
+  composer: Offenbach, Jacques
+  title: Un ange au doux visage
+  ids:
+    imslp: Un ange au doux visage (Offenbach, Jacques)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Un_ange_au_doux_visage_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, cello, piano'

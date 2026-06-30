@@ -1,0 +1,18 @@
+id: glazunov-five-novelettes
+work:
+  composer: Glazunov, Aleksandr
+  title: Five Novelettes
+  ids:
+    imslp: 5 Novelettes, Op.15 (Glazunov, Aleksandr)
+  year: 1886
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Novelettes%2C_Op.15_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

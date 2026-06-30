@@ -7,7 +7,11 @@ work:
   year: 1884
 formula: ''
 instrumentation:
-  additional_raw: Violin | viola | cello | and piano
+  solo_strings:
+    violin: 1
+    viola: 1
+    cello: 1
+  additional_raw: and piano
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Piano_Quartet%2C_Op.13_%28Strauss%2C_Richard%29

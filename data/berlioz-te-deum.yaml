@@ -1,0 +1,49 @@
+id: berlioz-te-deum
+work:
+  composer: Berlioz, Hector
+  title: Te Deum
+  ids:
+    imslp: Te Deum, H 118 (Berlioz, Hector)
+  year: 1848
+formula: 4444 4 4[1.2.cnt.cnt] 6 1 tmp org 12hp ophicleide str
+instrumentation:
+  flute: 4
+  oboe: 4
+  clarinet: 4
+  bassoon: 4
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 6
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - drums
+  keyboards:
+  - instrument: organ
+  harp: 12
+  extras:
+  - instrument: ophicleide
+  strings: str
+  soloists:
+  - tenor
+  - double mixed chorus (STB–STB)
+  - children’s chorus (SA)
+  additional_raw: 'piccolo saxhorn | 4 or 5 pairs of cymbals | *In the omitted Prèlude:
+    1 flute doubling piccolo | 2 more drums participate'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Te_Deum%2C_H_118_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: tenor, double mixed chorus (STB–STB), children’s
+    chorus (SA), Orchestra: 4 flutes, 4 oboes (1 doubling English horn), , 4 clarinets
+    (1 doubling bass clarinet), 4 bassoons, 4 horns, piccolo saxhorn, 2 trumpets,
+    2 cornets, 6 trombones, tuba, ophicleide, timpani, 4 or 5 pairs of cymbals, bass
+    drum, 4 drums, organ, 12 harps, strings, *In the omitted Prèlude: 1 flute doubling
+    piccolo; 2 more drums participate'
+duration_minutes: 53

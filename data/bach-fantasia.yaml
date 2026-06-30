@@ -1,0 +1,15 @@
+id: bach-fantasia
+work:
+  composer: Bach, Johann Sebastian
+  title: Fantasia
+  ids:
+    imslp: Fantasia in G minor, BWV 920 (Bach, Johann Sebastian)
+  year: 1880
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_in_G_minor%2C_BWV_920_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

@@ -1,0 +1,16 @@
+id: weber-9-variations-sur-un-air-russe
+work:
+  composer: Weber, Carl Maria von
+  title: 9 Variations sur un air russe
+  ids:
+    imslp: 9 Variations sur un air russe, Op.40 (Weber, Carl Maria von)
+  year: 1814
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/9_Variations_sur_un_air_russe%2C_Op.40_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

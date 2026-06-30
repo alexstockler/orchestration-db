@@ -1,0 +1,17 @@
+id: nielsen-der-hvor-vi-stred-og-sang
+work:
+  composer: Nielsen, Carl
+  title: Der hvor vi stred og sang
+  ids:
+    imslp: Der hvor vi stred og sang, CNW 246 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_hvor_vi_stred_og_sang%2C_CNW_246_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,18 @@
+id: kodaly-tantum-ergo-iv
+work:
+  composer: Kodály, Zoltán
+  title: Tantum Ergo I–V
+  ids:
+    imslp: Tantum Ergo I–V (Kodály, Zoltán)
+  year: 1928
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tantum_Ergo_I%E2%80%93V_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus, organ (or harmonium)'
+duration_minutes: 8

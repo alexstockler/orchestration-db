@@ -1,0 +1,14 @@
+id: bach-fugue-in-g-minor
+work:
+  composer: Bach, Johann Sebastian
+  title: Fugue in G minor
+  ids:
+    imslp: Fugue in G minor, BWV Anh.101 (Bach, Johann Sebastian)
+formula: ''
+instrumentation:
+  additional_raw: Keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_G_minor%2C_BWV_Anh.101_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Keyboard'

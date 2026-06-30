@@ -1,0 +1,29 @@
+id: hindemith-kammermusik-no-3
+work:
+  composer: Hindemith, Paul
+  title: Kammermusik No.3
+  ids:
+    imslp: Kammermusik No.3, Op.36 No.2 (Hindemith, Paul)
+  year: 1924
+formula: 0111 1110
+instrumentation:
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 1
+  trumpet: 1
+  trombone: 1
+  soloists:
+  - bass
+  solo_strings:
+    cello: 2
+    violin: 1
+  additional_raw: '10 Solo-Instruments: flute (also piccolo)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kammermusik_No.3%2C_Op.36_No.2_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: cello, 10 Solo-Instruments: flute (also piccolo),
+    oboe, clarinet (B and E), bassoon, horn (F), trumpet (C), trombone, violin, cello,
+    bass'
+duration_minutes: 17

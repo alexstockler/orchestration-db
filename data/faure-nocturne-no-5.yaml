@@ -1,0 +1,16 @@
+id: faure-nocturne-no-5
+work:
+  composer: Fauré, Gabriel
+  title: Nocturne No.5
+  ids:
+    imslp: Nocturne No.5, Op.37 (Fauré, Gabriel)
+  year: 1884
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nocturne_No.5%2C_Op.37_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

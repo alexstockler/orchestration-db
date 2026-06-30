@@ -1,0 +1,16 @@
+id: weber-sechs-lieder
+work:
+  composer: Weber, Carl Maria von
+  title: Sechs Lieder
+  ids:
+    imslp: 6 Lieder, Op.47 (Weber, Carl Maria von)
+  year: 1814
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Lieder%2C_Op.47_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voice and piano'

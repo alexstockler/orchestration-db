@@ -1,0 +1,18 @@
+id: offenbach-la-cigale-et-la-fourmi
+work:
+  composer: Offenbach, Jacques
+  title: La cigale et la fourmi
+  ids:
+    imslp: La cigale et la fourmi (Offenbach, Jacques)
+  year: 1860
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_cigale_et_la_fourmi_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -8,7 +8,8 @@ work:
   year: 1815
 formula: ''
 instrumentation:
-  additional_raw: 3 voices
+  soloists:
+  - 3 voices
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Kurz_ist_der_Schmerz%2C_und_ewig_ist_die_Freude%2C_WoO_166_%28Beethoven%2C_Ludwig_van%29

@@ -1,0 +1,16 @@
+id: holst-this-have-i-done-for-my-true-love
+work:
+  composer: Holst, Gustav
+  title: This have I done for my true love
+  ids:
+    imslp: This have I done for my true love, Op.34 No.1 (Holst, Gustav)
+  year: 1916
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/This_have_I_done_for_my_true_love%2C_Op.34_No.1_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 6

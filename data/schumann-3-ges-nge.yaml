@@ -9,7 +9,9 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: voice | chorus ad libitum (no.3)
+  soloists:
+  - voice
+  additional_raw: chorus ad libitum (no.3)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/3_Ges%C3%A4nge%2C_Op.31_%28Schumann%2C_Robert%29

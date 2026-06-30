@@ -1,0 +1,23 @@
+id: franck-les-beatitudes
+work:
+  composer: Franck, César
+  title: Les Béatitudes
+  ids:
+    imslp: Les Béatitudes (Franck, César)
+  year: 1869
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - mezzo-soprano
+  - contralto
+  - tenors
+  - baritone
+  chorus_raw: mixed chorus
+  additional_raw: 2 basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_B%C3%A9atitudes_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, mezzo-soprano, contralto, 2 tenors, baritone,
+    2 basses; mixed chorus, orchestra'

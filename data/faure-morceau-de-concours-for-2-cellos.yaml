@@ -1,0 +1,17 @@
+id: faure-morceau-de-concours-for-2-cellos
+work:
+  composer: Fauré, Gabriel
+  title: Morceau de Concours for 2 Cellos
+  ids:
+    imslp: Morceau de Concours for 2 Cellos (Fauré, Gabriel)
+  year: 1897
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Morceau_de_Concours_for_2_Cellos_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 cellos'
+duration_minutes: 1

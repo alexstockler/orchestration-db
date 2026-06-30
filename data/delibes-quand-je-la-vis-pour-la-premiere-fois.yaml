@@ -1,0 +1,18 @@
+id: delibes-quand-je-la-vis-pour-la-premiere-fois
+work:
+  composer: Delibes, Léo
+  title: Quand je la vis pour la première fois
+  ids:
+    imslp: Quand je la vis pour la première fois (Delibes, Léo)
+  year: 1886
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Quand_je_la_vis_pour_la_premi%C3%A8re_fois_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

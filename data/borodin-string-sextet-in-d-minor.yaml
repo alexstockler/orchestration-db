@@ -1,0 +1,19 @@
+id: borodin-string-sextet-in-d-minor
+work:
+  composer: Borodin, Aleksandr
+  title: String Sextet in D minor
+  ids:
+    imslp: String Sextet in D minor (Borodin, Aleksandr)
+  year: 1860
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 2
+    cello: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Sextet_in_D_minor_%28Borodin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, 2 violas, 2 cellos'
+duration_minutes: 9
