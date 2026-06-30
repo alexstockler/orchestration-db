@@ -1,0 +1,17 @@
+id: purcell-i-resolve-against-cringing
+work:
+  composer: Purcell, Henry
+  title: I Resolve Against Cringing
+  ids:
+    imslp: I Resolve Against Cringing, Z.386 (Purcell, Henry)
+  year: 1679
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/I_Resolve_Against_Cringing%2C_Z.386_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

@@ -1,0 +1,16 @@
+id: donizetti-clarinet-concertino
+work:
+  composer: Donizetti, Gaetano
+  title: Clarinet Concertino
+  ids:
+    imslp: Andante sostenuto (Donizetti, Gaetano)
+formula: 0200 2000 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_sostenuto_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 horns, strings'

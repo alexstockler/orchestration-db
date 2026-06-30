@@ -1,0 +1,17 @@
+id: rameau-les-fetes-d-hebe
+work:
+  composer: Rameau, Jean-Philippe
+  title: Les Fêtes d'Hébé
+  ids:
+    imslp: Les Fêtes d'Hébé, RCT 41 (Rameau, Jean-Philippe)
+  year: 1739
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_F%C3%AAtes_d%27H%C3%A9b%C3%A9%2C_RCT_41_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

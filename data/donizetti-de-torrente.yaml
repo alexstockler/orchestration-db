@@ -1,0 +1,20 @@
+id: donizetti-de-torrente
+work:
+  composer: Donizetti, Gaetano
+  title: De torrente
+  ids:
+    imslp: De torrente (Donizetti, Gaetano)
+  year: 1819
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  soloists:
+  - soprano
+  - tenor
+  additional_raw: oboe/clarinet
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/De_torrente_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, flute, oboe/clarinet, orchestra'
+duration_minutes: 5

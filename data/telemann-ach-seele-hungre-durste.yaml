@@ -1,0 +1,18 @@
+id: telemann-ach-seele-hungre-durste
+work:
+  composer: Telemann, Georg Philipp
+  title: Ach Seele, hungre, dürste
+  ids:
+    imslp: Ach Seele, hungre, dürste, TWV 1:31a (Telemann, Georg Philipp)
+  year: 1731
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach_Seele%2C_hungre%2C_d%C3%BCrste%2C_TWV_1%3A31a_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, 2 recorders, continuo'
+duration_minutes: 10

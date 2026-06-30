@@ -1,0 +1,14 @@
+id: cherubini-concert-overture
+work:
+  composer: Cherubini, Luigi
+  title: Concert Overture
+  ids:
+    imslp: Concert Overture (Cherubini, Luigi)
+  year: 1815
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concert_Overture_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

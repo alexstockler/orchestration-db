@@ -1,0 +1,21 @@
+id: telemann-dies-ist-der-tag-den-der-herr-macht-twv-1-359
+work:
+  composer: Telemann, Georg Philipp
+  title: Dies ist der Tag, den der Herr macht, TWV 1:359
+  ids:
+    imslp: Dies ist der Tag, den der Herr macht, TWV 1:359 (Telemann, Georg Philipp)
+  year: 1744
+formula: ''
+instrumentation:
+  soloists:
+  - 2 voices
+  solo_strings:
+    violin: 2
+  additional_raw: bass (optional) | viola (optional) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dies_ist_der_Tag%2C_den_der_Herr_macht%2C_TWV_1%3A359_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, bass (optional), 2 violins, viola (optional),
+    continuo'
+duration_minutes: 20

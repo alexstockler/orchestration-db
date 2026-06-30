@@ -1,0 +1,18 @@
+id: purcell-the-wives-excuse
+work:
+  composer: Purcell, Henry
+  title: The Wives' Excuse
+  ids:
+    imslp: The Wives' Excuse, Z.612 (Purcell, Henry)
+  year: 1691
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Wives%27_Excuse%2C_Z.612_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'
+duration_minutes: 15

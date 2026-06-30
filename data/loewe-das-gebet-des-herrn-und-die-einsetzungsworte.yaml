@@ -1,0 +1,18 @@
+id: loewe-das-gebet-des-herrn-und-die-einsetzungsworte
+work:
+  composer: Loewe, Carl
+  title: Das Gebet des Herrn und die Einsetzungsworte
+  ids:
+    imslp: Das Gebet des Herrn und die Einsetzungsworte (Loewe, Carl)
+  year: 1813
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Gebet_des_Herrn_und_die_Einsetzungsworte_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice + Organ'

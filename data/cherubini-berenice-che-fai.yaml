@@ -1,0 +1,15 @@
+id: cherubini-berenice-che-fai
+work:
+  composer: Cherubini, Luigi
+  title: Berenice che fai?
+  ids:
+    imslp: Berenice che fai? (Cherubini, Luigi)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Berenice_che_fai%3F_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, orchestra'

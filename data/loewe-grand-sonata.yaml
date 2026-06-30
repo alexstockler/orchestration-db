@@ -1,0 +1,19 @@
+id: loewe-grand-sonata
+work:
+  composer: Loewe, Carl
+  title: Grand Sonata
+  ids:
+    imslp: Grand Sonata, Op.16 (Loewe, Carl)
+  year: 1829
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - tenor solo
+  - soprano solo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grand_Sonata%2C_Op.16_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: piano, tenor solo, soprano solo'

@@ -1,0 +1,16 @@
+id: indy-theme-varie-fugue-et-chanson
+work:
+  composer: Indy, Vincent d'
+  title: Thème varié, fugue et chanson
+  ids:
+    imslp: Thème Varié, Fugue et Chanson, Op.85 (Indy, Vincent d')
+  year: 1925
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Th%C3%A8me_Vari%C3%A9%2C_Fugue_et_Chanson%2C_Op.85_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

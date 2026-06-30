@@ -1,0 +1,18 @@
+id: chabrier-lile-heureuse
+work:
+  composer: Chabrier, Emmanuel
+  title: L’île heureuse
+  ids:
+    imslp: L'île heureuse (Chabrier, Emmanuel)
+  year: 1889
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27%C3%AEle_heureuse_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,20 @@
+id: telemann-ei-warum-sollt-ich-dich-lassen
+work:
+  composer: Telemann, Georg Philipp
+  title: Ei, warum sollt ich dich lassen
+  ids:
+    imslp: Ei, warum sollt ich dich lassen, TWV 1:437 (Telemann, Georg Philipp)
+  year: 1749
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ei%2C_warum_sollt_ich_dich_lassen%2C_TWV_1%3A437_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano; mixed chorus (SATB), Orchestra: strings,
+    continuo'

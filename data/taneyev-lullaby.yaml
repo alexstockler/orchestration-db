@@ -1,0 +1,16 @@
+id: taneyev-lullaby
+work:
+  composer: Taneyev, Sergey
+  title: Lullaby
+  ids:
+    imslp: Lullaby (Taneyev, Sergey)
+  year: 1881
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lullaby_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

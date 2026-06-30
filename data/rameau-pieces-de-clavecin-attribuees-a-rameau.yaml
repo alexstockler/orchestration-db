@@ -1,0 +1,16 @@
+id: rameau-pieces-de-clavecin-attribuees-a-rameau
+work:
+  composer: Rameau, Jean-Philippe
+  title: Pièces de Clavecin attribuées à Rameau
+  ids:
+    imslp: Pièces de clavecin attribuées à Rameau (Rameau, Jean-Philippe)
+  year: 1895
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pi%C3%A8ces_de_clavecin_attribu%C3%A9es_%C3%A0_Rameau_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: Harpsichord'

@@ -1,0 +1,17 @@
+id: humperdinck-die-lerche
+work:
+  composer: Humperdinck, Engelbert
+  title: Die Lerche
+  ids:
+    imslp: Die Lerche (Humperdinck, Engelbert)
+  year: 1904
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Lerche_%28Humperdinck%2C_Engelbert%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'
+duration_minutes: 2

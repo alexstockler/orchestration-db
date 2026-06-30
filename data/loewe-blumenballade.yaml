@@ -1,0 +1,18 @@
+id: loewe-blumenballade
+work:
+  composer: Loewe, Carl
+  title: Blumenballade
+  ids:
+    imslp: Blumenballade (Loewe, Carl)
+  year: 1846
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Blumenballade_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

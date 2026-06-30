@@ -1,0 +1,16 @@
+id: balakirev-reminiscences-from-glinka-s-opera-a-life-for-the-tsar
+work:
+  composer: Balakirev, Mily
+  title: Reminiscences from Glinka's Opera 'A Life for the Tsar'
+  ids:
+    imslp: Reminiscences from 'A Life for the Tsar' (Balakirev, Mily)
+  year: 1855
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Reminiscences_from_%27A_Life_for_the_Tsar%27_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

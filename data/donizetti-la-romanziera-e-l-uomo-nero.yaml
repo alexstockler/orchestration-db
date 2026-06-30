@@ -1,0 +1,19 @@
+id: donizetti-la-romanziera-e-l-uomo-nero
+work:
+  composer: Donizetti, Gaetano
+  title: La romanziera e l'uomo nero
+  ids:
+    imslp: La romanziera e l'uomo nero (Donizetti, Gaetano)
+  year: 1831
+formula: ''
+instrumentation:
+  additional_raw: Count (bass) | Antonina (soprano) | Chiarina (mezzo-soprano) | Fedele
+    (tenor) | Carlino (tenor) | Fildoro (baritone) | Tommaso (bass) | Trappolina (soprano)
+    | Giappone (bass) | Nicola (bass)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_romanziera_e_l%27uomo_nero_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: Count (bass), Antonina (soprano), Chiarina (mezzo-soprano),
+    Fedele (tenor), Carlino (tenor), Fildoro (baritone), Tommaso (bass), Trappolina
+    (soprano), Giappone (bass), Nicola (bass)'

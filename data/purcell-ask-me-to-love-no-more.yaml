@@ -1,0 +1,17 @@
+id: purcell-ask-me-to-love-no-more
+work:
+  composer: Purcell, Henry
+  title: Ask Me to Love No More
+  ids:
+    imslp: Ask Me to Love No More, Z.358 (Purcell, Henry)
+  year: 1694
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ask_Me_to_Love_No_More%2C_Z.358_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

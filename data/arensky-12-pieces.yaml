@@ -1,0 +1,16 @@
+id: arensky-12-pieces
+work:
+  composer: Arensky, Anton
+  title: 12 Pieces
+  ids:
+    imslp: 12 Pieces, Op.66 (Arensky, Anton)
+  year: 1903
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Pieces%2C_Op.66_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'

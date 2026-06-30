@@ -1,0 +1,18 @@
+id: telemann-es-ist-umsonst-da-ihr-fruh-aufsteht
+work:
+  composer: Telemann, Georg Philipp
+  title: Es ist umsonst daß ihr früh aufsteht
+  ids:
+    imslp: Es ist umsonst, daß ihr früh aufstehet, TWV 1:1753 (Telemann, Georg Philipp)
+  year: 1720
+formula: 0001 0000
+instrumentation:
+  bassoon: 1
+  chorus_raw: satb chorus
+  additional_raw: SAB voices | calchedon (type of lute), strings, continuo)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_ist_umsonst%2C_da%C3%9F_ihr_fr%C3%BCh_aufstehet%2C_TWV_1%3A1753_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: SAB voices, SATB chorus, orchestra (2 flutes/oboes (doubling),
+    bassoon, calchedon (type of lute), strings, continuo)'

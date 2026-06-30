@@ -1,0 +1,15 @@
+id: donizetti-laudamus-et-gratias-in-g-major
+work:
+  composer: Donizetti, Gaetano
+  title: Laudamus et Gratias in G major
+  ids:
+    imslp: Laudamus et Gratias in G major (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Laudamus_et_Gratias_in_G_major_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, orchestra'

@@ -1,0 +1,17 @@
+id: purcell-bonduca-or-the-british-heroine
+work:
+  composer: Purcell, Henry
+  title: Bonduca, or The British Heroine
+  ids:
+    imslp: Bonduca, Z.574 (Purcell, Henry)
+  year: 1695
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bonduca%2C_Z.574_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

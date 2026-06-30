@@ -1,0 +1,17 @@
+id: donizetti-dalla-francia-un-saluto-t-invia
+work:
+  composer: Donizetti, Gaetano
+  title: Dalla Francia un saluto t'invia
+  ids:
+    imslp: Dalla Francia un saluto t'invia, In.255 (Donizetti, Gaetano)
+  year: 1841
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+  additional_raw: ?male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dalla_Francia_un_saluto_t%27invia%2C_In.255_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (TTBB), ?male chorus, orchestra'

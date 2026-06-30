@@ -1,0 +1,17 @@
+id: purcell-fly-swift-ye-hours
+work:
+  composer: Purcell, Henry
+  title: Fly Swift, Ye Hours
+  ids:
+    imslp: Fly Swift, Ye Hours, Z.369 (Purcell, Henry)
+  year: 1692
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fly_Swift%2C_Ye_Hours%2C_Z.369_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

@@ -1,0 +1,18 @@
+id: loewe-frau-twardowska
+work:
+  composer: Loewe, Carl
+  title: Frau Twardowska
+  ids:
+    imslp: Frau Twardowska (Loewe, Carl)
+  year: 1835
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Frau_Twardowska_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

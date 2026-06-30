@@ -1,0 +1,18 @@
+id: taneyev-string-quartet-no-2
+work:
+  composer: Taneyev, Sergey
+  title: String Quartet No.2
+  ids:
+    imslp: String Quartet No.2, Op.5 (Taneyev, Sergey)
+  year: 1894
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.2%2C_Op.5_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

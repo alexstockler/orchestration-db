@@ -1,0 +1,17 @@
+id: spohr-hymne-gott-du-bist-gross
+work:
+  composer: Spohr, Louis
+  title: 'Hymne: Gott, du bist gross'
+  ids:
+    imslp: Gott, du bist gross, Op.98 (Spohr, Louis)
+  year: 1836
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott%2C_du_bist_gross%2C_Op.98_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (SATB), chorus, orchestra'

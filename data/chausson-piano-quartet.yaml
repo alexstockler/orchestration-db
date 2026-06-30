@@ -1,0 +1,19 @@
+id: chausson-piano-quartet
+work:
+  composer: Chausson, Ernest
+  title: Piano Quartet
+  ids:
+    imslp: Piano Quartet, Op.30 (Chausson, Ernest)
+  year: 1897
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quartet%2C_Op.30_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin, Viola, Cello and Piano'
+duration_minutes: 38

@@ -1,0 +1,32 @@
+id: zemlinsky-sinfonietta
+work:
+  composer: Zemlinsky, Alexander von
+  title: Sinfonietta
+  ids:
+    imslp: Sinfonietta, Op.23 (Zemlinsky, Alexander von)
+  year: 1934
+formula: 2 2[1.2/Eh] 2 2 4330 tmp+1 hp str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  percussion:
+    timpani: 1
+    players: 1
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sinfonietta%2C_Op.23_%28Zemlinsky%2C_Alexander_von%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes (2nd also English horn), 2 clarinets
+    (B and A), 2 bassoons, 4 horns, 3 trumpets, 3 trombones, timpani, harp, percussion,
+    strings'
+duration_minutes: 25

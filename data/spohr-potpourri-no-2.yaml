@@ -1,0 +1,20 @@
+id: spohr-potpourri-no-2
+work:
+  composer: Spohr, Louis
+  title: Potpourri No.2
+  ids:
+    imslp: Potpourri No.2, Op.22 (Spohr, Louis)
+  year: 1807
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+  solo_strings:
+    violin: 1
+  additional_raw: string quartet (2 violins, viola, cello)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Potpourri_No.2%2C_Op.22_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, string quartet (2 violins, viola, cello), bass
+    (ad.lib.)'

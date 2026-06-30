@@ -1,0 +1,19 @@
+id: indy-6-chants-populaires-francais-set-1-op-90
+work:
+  composer: Indy, Vincent d'
+  title: 6 chants populaires français (Set 1), Op. 90
+  ids:
+    imslp: 6 Chants Populaires Français (Set 1), Op.90 (Indy, Vincent d')
+  year: 1927
+formula: ''
+instrumentation:
+  soloists:
+  - soprano solo
+  chorus_raw: satb chorus
+  additional_raw: 1 | Mezzo-soprano and Baritone solos | 2 | SAA Chorus | 3-5 | 6
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Chants_Populaires_Fran%C3%A7ais_%28Set_1%29%2C_Op.90_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: 1. Mezzo-soprano and Baritone solos, SATB Chorus, 2. SAA
+    Chorus, 3-5. SATB Chorus, 6. Soprano solo, SATB Chorus'

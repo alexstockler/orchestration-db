@@ -1,0 +1,16 @@
+id: donizetti-gloria-in-excelsis-in-c-major
+work:
+  composer: Donizetti, Gaetano
+  title: Gloria in excelsis in C major
+  ids:
+    imslp: Gloria in excelsis in C major (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gloria_in_excelsis_in_C_major_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

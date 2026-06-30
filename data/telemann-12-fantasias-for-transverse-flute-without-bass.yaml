@@ -1,0 +1,15 @@
+id: telemann-12-fantasias-for-transverse-flute-without-bass
+work:
+  composer: Telemann, Georg Philipp
+  title: 12 Fantasias for Transverse Flute without Bass
+  ids:
+    imslp: 12 Fantasias for Flute without Bass, TWV 40:2-13 (Telemann, Georg Philipp)
+  year: 1733
+formula: 1000 0000
+instrumentation:
+  flute: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Fantasias_for_Flute_without_Bass%2C_TWV_40%3A2-13_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: flute'

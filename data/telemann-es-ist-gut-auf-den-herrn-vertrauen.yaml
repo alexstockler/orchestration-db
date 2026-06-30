@@ -1,0 +1,16 @@
+id: telemann-es-ist-gut-auf-den-herrn-vertrauen
+work:
+  composer: Telemann, Georg Philipp
+  title: Es ist gut auf den Herrn vertrauen
+  ids:
+    imslp: Es ist gut auf den Herrn vertrauen, TWV 1:512 (Telemann, Georg Philipp)
+  year: 1724
+formula: ''
+instrumentation:
+  additional_raw: SATB soli & chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_ist_gut_auf_den_Herrn_vertrauen%2C_TWV_1%3A512_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB soli & chorus, orchestra (2 oboes, calchedon, strings,
+    continuo)'

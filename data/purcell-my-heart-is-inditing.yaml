@@ -1,0 +1,22 @@
+id: purcell-my-heart-is-inditing
+work:
+  composer: Purcell, Henry
+  title: My heart is inditing
+  ids:
+    imslp: My Heart Is Inditing, Z.30 (Purcell, Henry)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - altos
+  - tenor
+  chorus_raw: mixed chorus
+  additional_raw: '3 basses (soli) | Instruments: strings | continuo'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/My_Heart_Is_Inditing%2C_Z.30_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: 2 sopranos, 2 altos, tenor, 3 basses (soli), mixed
+    chorus (SSAATBBB), Instruments: strings, continuo'
+duration_minutes: 19

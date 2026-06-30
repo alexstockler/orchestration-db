@@ -1,0 +1,18 @@
+id: purcell-sylvia-tis-true-you-re-fair
+work:
+  composer: Purcell, Henry
+  title: Sylvia, 'Tis True You're Fair
+  ids:
+    imslp: Sylvia, 'Tis True You're Fair, Z.512 (Purcell, Henry)
+  year: 1686
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sylvia%2C_%27Tis_True_You%27re_Fair%2C_Z.512_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'

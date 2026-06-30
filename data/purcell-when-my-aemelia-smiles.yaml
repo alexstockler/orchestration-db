@@ -1,0 +1,16 @@
+id: purcell-when-my-aemelia-smiles
+work:
+  composer: Purcell, Henry
+  title: When My Aemelia Smiles
+  ids:
+    imslp: When My Aemelia Smiles, Z.434 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/When_My_Aemelia_Smiles%2C_Z.434_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

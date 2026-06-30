@@ -1,0 +1,16 @@
+id: loewe-beim-maitrank
+work:
+  composer: Loewe, Carl
+  title: Beim Maitrank
+  ids:
+    imslp: Beim Maitrank (Loewe, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: original/also for voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Beim_Maitrank_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB) : original/also for voice, piano (?)'

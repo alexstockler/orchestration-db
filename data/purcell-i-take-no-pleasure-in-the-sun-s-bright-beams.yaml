@@ -1,0 +1,17 @@
+id: purcell-i-take-no-pleasure-in-the-sun-s-bright-beams
+work:
+  composer: Purcell, Henry
+  title: I Take No Pleasure in the Sun's Bright Beams
+  ids:
+    imslp: I Take No Pleasure in the Sun's Bright Beams, Z.388 (Purcell, Henry)
+  year: 1681
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/I_Take_No_Pleasure_in_the_Sun%27s_Bright_Beams%2C_Z.388_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

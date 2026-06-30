@@ -1,0 +1,17 @@
+id: goldmark-merlin
+work:
+  composer: Goldmark, Carl
+  title: Merlin
+  ids:
+    imslp: Merlin (Goldmark, Carl)
+  year: 1886
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Merlin_%28Goldmark%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices, Chorus, Orchestra'

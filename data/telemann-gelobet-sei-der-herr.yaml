@@ -1,0 +1,25 @@
+id: telemann-gelobet-sei-der-herr
+work:
+  composer: Telemann, Georg Philipp
+  title: Gelobet sei der Herr
+  ids:
+    imslp: Gelobet sei der Herr, TWV 1:596 (Telemann, Georg Philipp)
+formula: 0000 0300 tmp str
+instrumentation:
+  trumpet: 3
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - alto
+  - tenor
+  - bass
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gelobet_sei_der_Herr%2C_TWV_1%3A596_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: alto, tenor, bass; mixed chorus (SATB), Orchestra:
+    3 trumpets, timpani, strings, continuo'
+duration_minutes: 15

@@ -1,0 +1,17 @@
+id: purcell-spite-of-the-godhead-powerful-love
+work:
+  composer: Purcell, Henry
+  title: Spite of the Godhead, Powerful Love
+  ids:
+    imslp: Spite of the Godhead, Powerful Love, Z.417 (Purcell, Henry)
+  year: 1687
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Spite_of_the_Godhead%2C_Powerful_Love%2C_Z.417_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

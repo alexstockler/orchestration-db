@@ -1,0 +1,16 @@
+id: humperdinck-albumblatt-in-f-major
+work:
+  composer: Humperdinck, Engelbert
+  title: Albumblatt in F major
+  ids:
+    imslp: Albumblatt in F major (Humperdinck, Engelbert)
+  year: 1910
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Albumblatt_in_F_major_%28Humperdinck%2C_Engelbert%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin and piano'

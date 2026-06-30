@@ -1,0 +1,18 @@
+id: taneyev-string-trio
+work:
+  composer: Taneyev, Sergey
+  title: String Trio
+  ids:
+    imslp: String Trio in D major, Op.21 (Taneyev, Sergey)
+  year: 1907
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Trio_in_D_major%2C_Op.21_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola'
+duration_minutes: 2023

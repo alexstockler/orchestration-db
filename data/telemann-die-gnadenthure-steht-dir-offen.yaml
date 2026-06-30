@@ -1,0 +1,20 @@
+id: telemann-die-gnadenthure-steht-dir-offen
+work:
+  composer: Telemann, Georg Philipp
+  title: Die Gnadenthüre steht dir offen
+  ids:
+    imslp: Die Gnadenthüre steht dir offen, TWV 1:339 (Telemann, Georg Philipp)
+  year: 1749
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - bass
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Gnadenth%C3%BCre_steht_dir_offen%2C_TWV_1%3A339_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: bass; mixed chorus (SATB), Orchestra: strings,
+    continuo'

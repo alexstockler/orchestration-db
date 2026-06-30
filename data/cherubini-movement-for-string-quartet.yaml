@@ -1,0 +1,18 @@
+id: cherubini-movement-for-string-quartet
+work:
+  composer: Cherubini, Luigi
+  title: Movement for String Quartet
+  ids:
+    imslp: Movement for String Quartet (Cherubini, Luigi)
+  year: 1814
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Movement_for_String_Quartet_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

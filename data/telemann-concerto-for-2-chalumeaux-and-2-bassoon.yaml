@@ -1,0 +1,16 @@
+id: telemann-concerto-for-2-chalumeaux-and-2-bassoon
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto for 2 Chalumeaux and 2 Bassoon
+  ids:
+    imslp: Concerto for 2 Chalumeaux and 2 Bassoons, TWV 52:C1 (Telemann, Georg Philipp)
+formula: 0002 0000 str
+instrumentation:
+  bassoon: 2
+  strings: str
+  additional_raw: 2 chalumeaux | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Chalumeaux_and_2_Bassoons%2C_TWV_52%3AC1_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 chalumeaux, 2 bassoons, strings, continuo'

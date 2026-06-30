@@ -1,0 +1,16 @@
+id: donizetti-sonata-for-piano-four-hands-in-a-minor
+work:
+  composer: Donizetti, Gaetano
+  title: Sonata for Piano Four-Hands in A minor
+  ids:
+    imslp: Sonata for Piano 4 Hands in A minor, A 572 (Donizetti, Gaetano)
+  year: 1820
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_for_Piano_4_Hands_in_A_minor%2C_A_572_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'

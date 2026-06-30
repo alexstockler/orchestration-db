@@ -1,0 +1,25 @@
+id: telemann-die-welt-kann-ihre-lust-twv-1-372
+work:
+  composer: Telemann, Georg Philipp
+  title: Die Welt kann ihre Lust, TWV 1:372
+  ids:
+    imslp: Die Welt kann ihre Lust, TWV 1:372 (Telemann, Georg Philipp)
+  year: 1737
+formula: 0100 0000 str
+instrumentation:
+  oboe: 1
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass solos
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Welt_kann_ihre_Lust%2C_TWV_1%3A372_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass solos; mixed chorus (SATB),
+    oboe, strings, continuo'
+duration_minutes: 12

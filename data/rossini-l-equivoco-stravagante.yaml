@@ -1,0 +1,17 @@
+id: rossini-l-equivoco-stravagante
+work:
+  composer: Rossini, Gioachino
+  title: L'equivoco stravagante
+  ids:
+    imslp: L'equivoco stravagante (Rossini, Gioachino)
+  year: 1811
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27equivoco_stravagante_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

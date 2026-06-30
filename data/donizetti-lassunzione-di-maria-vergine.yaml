@@ -1,0 +1,26 @@
+id: donizetti-lassunzione-di-maria-vergine
+work:
+  composer: Donizetti, Gaetano
+  title: L’assunzione di Maria Vergine
+  ids:
+    imslp: L'assunzione di Maria Vergine, A 685 (Donizetti, Gaetano)
+  year: 1822
+formula: 0021 2000 str
+instrumentation:
+  clarinet: 2
+  bassoon: 1
+  horn: 2
+  strings: str
+  soloists:
+  - Solo Voices (TTB) ::San Tommaso (tenor)
+  - San Giovanni (tenor)
+  - San Pietro (bass) :Mixed Chours (SSTTBB) ::coro d'angeli (SS)
+  - 'coro di apostoli (TTBB) :'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27assunzione_di_Maria_Vergine%2C_A_685_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Solo Voices (TTB) ::San Tommaso
+    (tenor), San Giovanni (tenor), San Pietro (bass) :Mixed Chours (SSTTBB) ::coro
+    d''angeli (SS), coro di apostoli (TTBB) :Orchestra ::2 clarinets, 2 horns, bassoon,
+    strings'

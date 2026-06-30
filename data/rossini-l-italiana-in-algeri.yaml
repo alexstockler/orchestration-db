@@ -1,0 +1,17 @@
+id: rossini-l-italiana-in-algeri
+work:
+  composer: Rossini, Gioachino
+  title: L'italiana in Algeri
+  ids:
+    imslp: L'italiana in Algeri (Rossini, Gioachino)
+  year: 1813
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27italiana_in_Algeri_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

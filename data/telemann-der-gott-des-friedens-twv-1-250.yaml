@@ -1,0 +1,25 @@
+id: telemann-der-gott-des-friedens-twv-1-250
+work:
+  composer: Telemann, Georg Philipp
+  title: Der Gott des Friedens, TWV 1:250
+  ids:
+    imslp: Der Gott des Friedens, TWV 1:250 (Telemann, Georg Philipp)
+  year: 1720
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass solos
+  chorus_raw: mixed chorus
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Gott_des_Friedens%2C_TWV_1%3A250_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass solos; mixed chorus (SATB),
+    2 recorders, 2 oboes, strings, continuo'
+duration_minutes: 11

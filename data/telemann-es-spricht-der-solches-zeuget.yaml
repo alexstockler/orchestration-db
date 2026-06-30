@@ -1,0 +1,23 @@
+id: telemann-es-spricht-der-solches-zeuget
+work:
+  composer: Telemann, Georg Philipp
+  title: Es spricht, der solches zeuget
+  ids:
+    imslp: Es spricht, der solches zeuget, TWV 1:532 (Telemann, Georg Philipp)
+  year: 1744
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  chorus_raw: mixed chorus
+  solo_strings:
+    violin: 2
+  additional_raw: bass (optional) | continuo (see below, Comments)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_spricht%2C_der_solches_zeuget%2C_TWV_1%3A532_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, bass (optional), mixed chorus, 2 violins,
+    continuo (see below, Comments)'
+duration_minutes: 15

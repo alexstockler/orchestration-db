@@ -1,0 +1,14 @@
+id: balakirev-in-bohemia
+work:
+  composer: Balakirev, Mily
+  title: In Bohemia
+  ids:
+    imslp: Overture on Czech Themes 'In Bohemia' (Balakirev, Mily)
+  year: 1867
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Overture_on_Czech_Themes_%27In_Bohemia%27_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

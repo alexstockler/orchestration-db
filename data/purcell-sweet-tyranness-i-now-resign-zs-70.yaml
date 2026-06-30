@@ -1,0 +1,18 @@
+id: purcell-sweet-tyranness-i-now-resign-zs-70
+work:
+  composer: Purcell, Henry
+  title: Sweet Tyranness, I Now Resign, ZS 70
+  ids:
+    imslp: Sweet Tyranness, I Now Resign, ZS 70 (Purcell, Henry)
+  year: 1678
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sweet_Tyranness%2C_I_Now_Resign%2C_ZS_70_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, bass, continuo'

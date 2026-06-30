@@ -1,0 +1,14 @@
+id: purcell-hornpipe-in-e-minor
+work:
+  composer: Purcell, Henry
+  title: Hornpipe in E minor
+  ids:
+    imslp: Hornpipe in E minor, ZT 685 (Purcell, Henry)
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hornpipe_in_E_minor%2C_ZT_685_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

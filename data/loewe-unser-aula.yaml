@@ -1,0 +1,14 @@
+id: loewe-unser-aula
+work:
+  composer: Loewe, Carl
+  title: Unser Aula
+  ids:
+    imslp: Unser Aula (Loewe, Carl)
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Unser_Aula_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus'

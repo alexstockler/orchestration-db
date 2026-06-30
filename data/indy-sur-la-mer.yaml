@@ -1,0 +1,15 @@
+id: indy-sur-la-mer
+work:
+  composer: Indy, Vincent d'
+  title: Sur la mer
+  ids:
+    imslp: Sur la mer, Op.32 (Indy, Vincent d')
+  year: 1888
+formula: ''
+instrumentation:
+  additional_raw: Female Chorus and Piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sur_la_mer%2C_Op.32_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: Female Chorus and Piano'

@@ -1,0 +1,17 @@
+id: indy-karadec
+work:
+  composer: Indy, Vincent d'
+  title: Karadec
+  ids:
+    imslp: Karadec, Op.34 (Indy, Vincent d')
+  year: 1890
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Karadec%2C_Op.34_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, mixed chorus, orchestra'

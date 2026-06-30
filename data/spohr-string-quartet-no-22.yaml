@@ -1,0 +1,19 @@
+id: spohr-string-quartet-no-22
+work:
+  composer: Spohr, Louis
+  title: String Quartet No.22
+  ids:
+    imslp: String Quartet No.22, Op.74 No.3 (Spohr, Louis)
+  year: 1826
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.22%2C_Op.74_No.3_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 40

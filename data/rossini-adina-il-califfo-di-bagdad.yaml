@@ -1,0 +1,18 @@
+id: rossini-adina-il-califfo-di-bagdad
+work:
+  composer: Rossini, Gioachino
+  title: Adina (Il califfo di Bagdad)
+  ids:
+    imslp: Adina (Rossini, Gioachino)
+  year: 1818
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+  additional_raw: Adina (soprano) | Selimo (tenor) | The Caliph (bass) | Ali (bass)
+    | Mustafa (bass)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adina_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast: Adina (soprano), Selimo (tenor), The Caliph (bass),
+    Ali (bass), Mustafa (bass); male chorus, Orchestra'

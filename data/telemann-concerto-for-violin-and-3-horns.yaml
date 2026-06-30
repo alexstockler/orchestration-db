@@ -1,0 +1,21 @@
+id: telemann-concerto-for-violin-and-3-horns
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto for Violin and 3 Horns
+  ids:
+    imslp: Concerto for Violin and 3 Horns, TWV 54:D2 (Telemann, Georg Philipp)
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - violin
+  - 3 horns
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_Violin_and_3_Horns%2C_TWV_54%3AD2_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: violin, 3 horns, Orchestra: 2 oboes (only in the
+    Dresden manuscript, not the Darmstadt manuscript), strings, continuo'
+duration_minutes: 12

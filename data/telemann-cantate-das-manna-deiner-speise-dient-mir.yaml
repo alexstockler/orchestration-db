@@ -1,0 +1,20 @@
+id: telemann-cantate-das-manna-deiner-speise-dient-mir
+work:
+  composer: Telemann, Georg Philipp
+  title: Cantate, Das Manna deiner Speise dient mir
+  ids:
+    imslp: Das Manna deiner Speise dient mir, TWV 1:192 (Telemann, Georg Philipp)
+  year: 1758
+formula: 2000 0000
+instrumentation:
+  flute: 2
+  soloists:
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Manna_deiner_Speise_dient_mir%2C_TWV_1%3A192_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, 2 flutes, 2 violins, continuo'

@@ -1,0 +1,16 @@
+id: humperdinck-deutsche-weihnacht
+work:
+  composer: Humperdinck, Engelbert
+  title: Deutsche Weihnacht
+  ids:
+    imslp: Deutsche Weihnacht (Humperdinck, Engelbert)
+  year: 1913
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Deutsche_Weihnacht_%28Humperdinck%2C_Engelbert%29
+  confidence: single_source
+  notes: 'Instrumentation: piano or harmonium (or mixed chorus)'

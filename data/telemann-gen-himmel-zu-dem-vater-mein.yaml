@@ -1,0 +1,23 @@
+id: telemann-gen-himmel-zu-dem-vater-mein
+work:
+  composer: Telemann, Georg Philipp
+  title: Gen Himmel zu dem Vater mein
+  ids:
+    imslp: Gen Himmel zu dem Vater mein, TWV 1:613 (Telemann, Georg Philipp)
+  year: 1712
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - tenor
+  - bass
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gen_Himmel_zu_dem_Vater_mein%2C_TWV_1%3A613_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: tenor, bass; mixed chorus (SATB), Orchestra: 2
+    oboes, strings, continuo'
+duration_minutes: 15

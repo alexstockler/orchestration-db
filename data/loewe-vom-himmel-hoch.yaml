@@ -1,0 +1,28 @@
+id: loewe-vom-himmel-hoch
+work:
+  composer: Loewe, Carl
+  title: Vom Himmel hoch
+  ids:
+    imslp: Vom Himmel hoch (Loewe, Carl)
+formula: 2202 2200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  - mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vom_Himmel_hoch_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, alto, tenor, bass; mixed chorus, Orchestra:
+    2 flutes, 2 oboes, 2 bassoons, 2 horns, 2 trumpets, timpani, strings'

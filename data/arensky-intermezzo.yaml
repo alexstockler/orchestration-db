@@ -1,0 +1,14 @@
+id: arensky-intermezzo
+work:
+  composer: Arensky, Anton
+  title: Intermezzo
+  ids:
+    imslp: Intermezzo, Op.13 (Arensky, Anton)
+  year: 1882
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Intermezzo%2C_Op.13_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: string orchestra'

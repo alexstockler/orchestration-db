@@ -1,0 +1,18 @@
+id: chausson-l-albatros
+work:
+  composer: Chausson, Ernest
+  title: L'Albatros
+  ids:
+    imslp: L'albatros, SNo.10 (Chausson, Ernest)
+  year: 1879
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27albatros%2C_SNo.10_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,19 @@
+id: boccherini-symphony-in-c-major-g-523
+work:
+  composer: Boccherini, Luigi
+  title: Symphony in C major, G.523
+  ids:
+    imslp: Symphony in C major, G.523 (Boccherini, Luigi)
+formula: 0201 2000 gtr str
+instrumentation:
+  oboe: 2
+  bassoon: 1
+  horn: 2
+  extras:
+  - instrument: guitar
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_in_C_major%2C_G.523_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: 2 oboes, bassoon, 2 horns, guitar, strings'

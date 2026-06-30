@@ -1,0 +1,16 @@
+id: chausson-hymne-vedique
+work:
+  composer: Chausson, Ernest
+  title: Hymne védique
+  ids:
+    imslp: Hymne védique, Op.9 (Chausson, Ernest)
+  year: 1886
+formula: ''
+instrumentation:
+  additional_raw: Choir SATB and Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymne_v%C3%A9dique%2C_Op.9_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: Choir SATB and Orchestra'
+duration_minutes: 13

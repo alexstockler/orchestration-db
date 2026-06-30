@@ -1,0 +1,19 @@
+id: loewe-stadchen
+work:
+  composer: Loewe, Carl
+  title: Städchen
+  ids:
+    imslp: Städchen (Loewe, Carl)
+formula: pf gtr
+instrumentation:
+  keyboards:
+  - instrument: piano
+  extras:
+  - instrument: guitar
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/St%C3%A4dchen_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, guitar, piano'

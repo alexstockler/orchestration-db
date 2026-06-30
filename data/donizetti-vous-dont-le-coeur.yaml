@@ -1,0 +1,17 @@
+id: donizetti-vous-dont-le-coeur
+work:
+  composer: Donizetti, Gaetano
+  title: Vous dont le coeur
+  ids:
+    imslp: Vous dont le coeur (Donizetti, Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vous_dont_le_coeur_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,16 @@
+id: purcell-why-so-serious-why-so-grave
+work:
+  composer: Purcell, Henry
+  title: Why So Serious, Why So Grave?
+  ids:
+    imslp: Why So Serious, Why So Grave?, Z.442 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Why_So_Serious%2C_Why_So_Grave%3F%2C_Z.442_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

@@ -1,0 +1,15 @@
+id: rameau-frere-jacques
+work:
+  composer: Rameau, Jean-Philippe
+  title: Frère Jacques
+  ids:
+    imslp: Frère Jacques (Rameau, Jean-Philippe)
+  year: 1772
+formula: ''
+instrumentation:
+  additional_raw: 4 equal voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fr%C3%A8re_Jacques_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 equal voices'

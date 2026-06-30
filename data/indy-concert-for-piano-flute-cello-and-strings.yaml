@@ -1,0 +1,20 @@
+id: indy-concert-for-piano-flute-cello-and-strings
+work:
+  composer: Indy, Vincent d'
+  title: Concert for Piano, Flute, Cello and Strings
+  ids:
+    imslp: Concert for Piano, Flute, Cello and Strings, Op.89 (Indy, Vincent d')
+  year: 1926
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - flute
+  - cello
+  - piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concert_for_Piano%2C_Flute%2C_Cello_and_Strings%2C_Op.89_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: flute, cello, piano, Orchestra: strings'
+duration_minutes: 20

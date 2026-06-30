@@ -1,0 +1,29 @@
+id: cherubini-requiem-in-d-minor
+work:
+  composer: Cherubini, Luigi
+  title: Requiem in D minor
+  ids:
+    imslp: Requiem in D minor (Cherubini, Luigi)
+  year: 1836
+formula: 2[pic.2] 2 2 2 4230 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - male chorus (TTB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Requiem_in_D_minor_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: male chorus (TTB), Orchestra: piccolo, flute, 2
+    oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, strings'

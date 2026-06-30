@@ -1,0 +1,18 @@
+id: indy-sainte-marie-magdeleine
+work:
+  composer: Indy, Vincent d'
+  title: Sainte Marie Magdeleine
+  ids:
+    imslp: Sainte Marie Magdeleine, Op.23 (Indy, Vincent d')
+  year: 1889
+formula: ''
+instrumentation:
+  soloists:
+  - mezzo-soprano
+  chorus_raw: female chorus
+  additional_raw: Piano and Harmonium
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sainte_Marie_Magdeleine%2C_Op.23_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: Mezzo-Soprano, Female Chorus, Piano and Harmonium'

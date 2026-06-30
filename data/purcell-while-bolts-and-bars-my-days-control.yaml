@@ -1,0 +1,17 @@
+id: purcell-while-bolts-and-bars-my-days-control
+work:
+  composer: Purcell, Henry
+  title: While Bolts and Bars My Days Control
+  ids:
+    imslp: While Bolts and Bars My Days Control, Z.523 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/While_Bolts_and_Bars_My_Days_Control%2C_Z.523_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'

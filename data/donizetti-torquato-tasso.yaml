@@ -1,0 +1,18 @@
+id: donizetti-torquato-tasso
+work:
+  composer: Donizetti, Gaetano
+  title: Torquato Tasso
+  ids:
+    imslp: Torquato Tasso (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  additional_raw: Eleonora (soprano) | Eleonora di Scandiano (mezzo) | Torquato Tasso
+    (baritone) | Roberto Geraldini (tenor) | Don Gherado (bass) | Ambrogio (tenor)
+    | Alfonso II (bass) Mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Torquato_Tasso_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices :Eleonora (soprano), Eleonora di Scandiano (mezzo),
+    Torquato Tasso (baritone),, Roberto Geraldini (tenor), Don Gherado (bass), Ambrogio
+    (tenor), Alfonso II (bass) Mixed chorus (SATB), Orchestra'

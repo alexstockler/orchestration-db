@@ -1,0 +1,17 @@
+id: purcell-i-lov-d-fair-celia
+work:
+  composer: Purcell, Henry
+  title: I Lov'd Fair Celia
+  ids:
+    imslp: I Lov'd Fair Celia, Z.381 (Purcell, Henry)
+  year: 1694
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/I_Lov%27d_Fair_Celia%2C_Z.381_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

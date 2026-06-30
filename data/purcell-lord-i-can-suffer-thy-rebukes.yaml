@@ -1,0 +1,15 @@
+id: purcell-lord-i-can-suffer-thy-rebukes
+work:
+  composer: Purcell, Henry
+  title: Lord, I Can Suffer Thy Rebukes
+  ids:
+    imslp: Lord, I Can Suffer Thy Rebukes, Z.136 (Purcell, Henry)
+  year: 1680
+formula: ''
+instrumentation:
+  additional_raw: Voices (2 sopranos, counter tenor, bass) and continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lord%2C_I_Can_Suffer_Thy_Rebukes%2C_Z.136_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices (2 sopranos, counter tenor, bass) and continuo'

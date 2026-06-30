@@ -1,0 +1,18 @@
+id: donizetti-per-valli-per-boschi
+work:
+  composer: Donizetti, Gaetano
+  title: Per valli, per boschi
+  ids:
+    imslp: Per valli, per boschi, A 413 (Donizetti, Gaetano)
+  year: 1817
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Per_valli%2C_per_boschi%2C_A_413_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, piano'

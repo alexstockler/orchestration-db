@@ -1,0 +1,20 @@
+id: telemann-concerto-for-3-trumpets-and-timpani
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto for 3 Trumpets and Timpani
+  ids:
+    imslp: Concerto for 3 Trumpets and Timpani, TWV 54:D3 (Telemann, Georg Philipp)
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - 3 clarini
+  - timpani
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_3_Trumpets_and_Timpani%2C_TWV_54%3AD3_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: 3 clarini, timpani, Orchestra: 2 oboes, strings,
+    continuo'

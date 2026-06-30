@@ -1,0 +1,13 @@
+id: chausson-soir-de-fete
+work:
+  composer: Chausson, Ernest
+  title: Soir de fête
+  ids:
+    imslp: Soir de fête, Op.32 (Chausson, Ernest)
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Soir_de_f%C3%AAte%2C_Op.32_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

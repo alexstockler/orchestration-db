@@ -1,0 +1,19 @@
+id: purcell-of-old-when-heroes-thought-it-base
+work:
+  composer: Purcell, Henry
+  title: Of old when heroes thought it base
+  ids:
+    imslp: Of Old When Heroes Thought It Base, Z.333 (Purcell, Henry)
+  year: 1690
+formula: 0200 0200 str
+instrumentation:
+  oboe: 2
+  trumpet: 2
+  strings: str
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Of_Old_When_Heroes_Thought_It_Base%2C_Z.333_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices (2 altos, tenor, 2 basses), Mixed chorus (SSATB),
+    Orchestra :2 recorders, 2 oboes, 2 trumpets, strings, continuo'

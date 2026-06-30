@@ -1,0 +1,16 @@
+id: chabrier-capriccio
+work:
+  composer: Chabrier, Emmanuel
+  title: Capriccio
+  ids:
+    imslp: Capriccio (Chabrier, Emmanuel)
+  year: 1883
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Capriccio_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

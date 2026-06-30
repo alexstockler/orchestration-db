@@ -1,0 +1,74 @@
+id: purcell-king-arthur-or-the-british-worthy
+work:
+  composer: Purcell, Henry
+  title: King Arthur, or The British Worthy
+  ids:
+    imslp: King Arthur, Z.628 (Purcell, Henry)
+  year: 1691
+formula: 2200 0200 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  trumpet: 2
+  percussion:
+    instruments:
+    - drums
+  strings: str
+  soloists:
+  - King Arthur (spoken)
+  - Oswald
+  - King of Kent (spoken)
+  - Conon
+  - Duke of Cornwal (spoken)
+  - Merlin
+  - a famous Inchanter (spoken)
+  - Osmond
+  - Saxon Magician (spoken)
+  - Aurelius
+  - Friend to Arthur (spoken)
+  - Albanact
+  - Captain of Arthur's Guards (spoken)
+  - Guillamar
+  - Friend to Oswald (spoken)
+  - Emmeline
+  - Daughter of Conon (spoken)
+  - Matilda
+  - Her Attendant (spoken)
+  - Philidel
+  - an Airy Spirit/Cupid (soprano)
+  - Grimbald
+  - an Earthy Spirit (bass/baritone)
+  - Saxon Priests (bass/baritone, tenor)
+  - Two Valkyries (soprano, alto)
+  - British Warrior (tenor)
+  - Shepherd (tenor)
+  - Cold Genius (bass)
+  - Aeolus (bass)
+  - Nereid (soprano)
+  - Pan (bass)
+  - Venus (soprano)
+  - He (bass)
+  - She (soprano)
+  - Comus (bass)
+  - Honour (soprano) Mixed Chorus :Shepherds
+  - Shepherdesses
+  - Sirens
+  - Nymphs
+  - Sylvans
+  - Cold People
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/King_Arthur%2C_Z.628_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :King Arthur (spoken), Oswald, King of Kent (spoken),
+    Conon, Duke of Cornwal (spoken), Merlin, a famous Inchanter (spoken), Osmond,
+    Saxon Magician (spoken), Aurelius, Friend to Arthur (spoken), Albanact, Captain
+    of Arthur''s Guards (spoken), Guillamar, Friend to Oswald (spoken), Emmeline,
+    Daughter of Conon (spoken), Matilda, Her Attendant (spoken), Philidel, an Airy
+    Spirit/Cupid (soprano), Grimbald, an Earthy Spirit (bass/baritone), Saxon Priests
+    (bass/baritone, tenor), Two Valkyries (soprano, alto), British Warrior (tenor),
+    Shepherd (tenor), Cold Genius (bass), Aeolus (bass), Nereid (soprano), Pan (bass),
+    Venus (soprano), He (bass), She (soprano), Comus (bass), Honour (soprano) Mixed
+    Chorus :Shepherds, Shepherdesses, Sirens, Nymphs, Sylvans, Cold People Orchestra
+    :2 flutes (recorders), 2 oboes, 2 trumpets, drums, strings, continuo'

@@ -1,0 +1,18 @@
+id: purcell-fill-the-bowl-with-rosy-wine
+work:
+  composer: Purcell, Henry
+  title: Fill the Bowl with Rosy Wine
+  ids:
+    imslp: Fill the Bowl with Rosy Wine, Z.487 (Purcell, Henry)
+  year: 1687
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fill_the_Bowl_with_Rosy_Wine%2C_Z.487_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'

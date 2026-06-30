@@ -1,0 +1,15 @@
+id: donizetti-l-ajo-nell-imbarazzo
+work:
+  composer: Donizetti, Gaetano
+  title: L'ajo nell'imbarazzo
+  ids:
+    imslp: L'ajo nell'imbarazzo (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27ajo_nell%27imbarazzo_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, chorus, orchestra'

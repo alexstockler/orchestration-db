@@ -1,0 +1,14 @@
+id: loewe-seemans-gebet
+work:
+  composer: Loewe, Carl
+  title: Seemans Gebet
+  ids:
+    imslp: Seemans Gebet (Loewe, Carl)
+formula: ''
+instrumentation:
+  additional_raw: Choir TTBB
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Seemans_Gebet_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Choir TTBB'

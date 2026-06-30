@@ -1,0 +1,24 @@
+id: purcell-celestial-music-did-the-gods-inspire
+work:
+  composer: Purcell, Henry
+  title: Celestial Music Did the Gods Inspire
+  ids:
+    imslp: Celestial Music Did the Gods Inspire, Z.322 (Purcell, Henry)
+  year: 1689
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass solos
+  chorus_raw: mixed chorus
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Celestial_Music_Did_the_Gods_Inspire%2C_Z.322_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass solos; mixed chorus (SATB),
+    2 recorders, strings, continuo'
+duration_minutes: 19

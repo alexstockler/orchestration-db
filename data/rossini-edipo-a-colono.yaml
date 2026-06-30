@@ -1,0 +1,15 @@
+id: rossini-edipo-a-colono
+work:
+  composer: Rossini, Gioachino
+  title: Edipo a Colono
+  ids:
+    imslp: Edipo a Colono (Rossini, Gioachino)
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+  additional_raw: bass voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Edipo_a_Colono_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: bass voice, male chorus, orchestra'

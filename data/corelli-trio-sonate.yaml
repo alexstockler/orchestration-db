@@ -1,0 +1,17 @@
+id: corelli-trio-sonate
+work:
+  composer: Corelli, Arcangelo
+  title: Trio Sonate
+  ids:
+    imslp: Trio Sonata in D major, WoO 7 (Corelli, Arcangelo)
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_D_major%2C_WoO_7_%28Corelli%2C_Arcangelo%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, continuo'
+duration_minutes: 5

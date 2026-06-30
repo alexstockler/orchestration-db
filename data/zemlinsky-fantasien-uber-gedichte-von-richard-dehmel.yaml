@@ -1,0 +1,17 @@
+id: zemlinsky-fantasien-uber-gedichte-von-richard-dehmel
+work:
+  composer: Zemlinsky, Alexander von
+  title: Fantasien über Gedichte von Richard Dehmel
+  ids:
+    imslp: Fantasien über Gedichte von Richard Dehmel, Op.9 (Zemlinsky, Alexander
+      von)
+  year: 1898
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasien_%C3%BCber_Gedichte_von_Richard_Dehmel%2C_Op.9_%28Zemlinsky%2C_Alexander_von%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

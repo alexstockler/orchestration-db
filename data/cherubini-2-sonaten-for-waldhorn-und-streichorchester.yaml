@@ -1,0 +1,18 @@
+id: cherubini-2-sonaten-for-waldhorn-und-streichorchester
+work:
+  composer: Cherubini, Luigi
+  title: 2 Sonaten for Waldhorn und Streichorchester
+  ids:
+    imslp: 2 Sonatas for Waldhorn and Strings (Cherubini, Luigi)
+formula: 0000 1000
+instrumentation:
+  horn: 1
+  solo_strings:
+    violin: 1
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Sonatas_for_Waldhorn_and_Strings_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: horn, violin, viola, cello'

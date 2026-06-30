@@ -1,0 +1,21 @@
+id: purcell-hark-how-the-wild-musicians-sing
+work:
+  composer: Purcell, Henry
+  title: Hark, how the wild musicians sing
+  ids:
+    imslp: Hark, how the wild musicians sing, Z.542 (Purcell, Henry)
+  year: 1683
+formula: ''
+instrumentation:
+  soloists:
+  - tenors
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hark%2C_how_the_wild_musicians_sing%2C_Z.542_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 tenors, bass, 2 violins, continuo'
+duration_minutes: 9

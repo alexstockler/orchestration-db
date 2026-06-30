@@ -1,0 +1,18 @@
+id: indy-lied-maritime
+work:
+  composer: Indy, Vincent d'
+  title: Lied maritime
+  ids:
+    imslp: Lied maritime, Op.43 (Indy, Vincent d')
+  year: 1896
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lied_maritime%2C_Op.43_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

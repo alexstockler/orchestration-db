@@ -1,0 +1,20 @@
+id: telemann-ach-bleib-mit-deinem-worte
+work:
+  composer: Telemann, Georg Philipp
+  title: Ach bleib mit deinem Worte
+  ids:
+    imslp: Ach bleib mit deinem Worte, TWV 1:3 (Telemann, Georg Philipp)
+  year: 1748
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach_bleib_mit_deinem_Worte%2C_TWV_1%3A3_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: alto; mixed chorus (SATB), Orchestra: strings,
+    continuo'

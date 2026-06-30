@@ -1,0 +1,24 @@
+id: spohr-violin-concerto-no-2
+work:
+  composer: Spohr, Louis
+  title: Violin Concerto No.2
+  ids:
+    imslp: Violin Concerto No.2, Op.2 (Spohr, Louis)
+  year: 1804
+formula: 2022 2010 tmp str
+instrumentation:
+  flute: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trombone: 1
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Concerto_No.2%2C_Op.2_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 clarinets, 2 bassoons, 2 horns, trombone, timpani,
+    strings'
+duration_minutes: 25

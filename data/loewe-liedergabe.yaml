@@ -1,0 +1,17 @@
+id: loewe-liedergabe
+work:
+  composer: Loewe, Carl
+  title: Liedergabe
+  ids:
+    imslp: Liedergabe, Op.130 (Loewe, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Liedergabe%2C_Op.130_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

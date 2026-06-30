@@ -1,0 +1,16 @@
+id: purcell-the-canterbury-guests
+work:
+  composer: Purcell, Henry
+  title: The Canterbury Guests
+  ids:
+    imslp: The Canterbury Guests, Z.591 (Purcell, Henry)
+  year: 1694
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Canterbury_Guests%2C_Z.591_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra (assumed)'

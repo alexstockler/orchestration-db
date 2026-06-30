@@ -1,0 +1,19 @@
+id: purcell-remember-not-lord-our-offences
+work:
+  composer: Purcell, Henry
+  title: Remember Not, Lord, Our Offences
+  ids:
+    imslp: Remember Not, Lord, Our Offences, Z.50 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - alto
+  - tenor
+  - bass
+  additional_raw: continuo (?)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Remember_Not%2C_Lord%2C_Our_Offences%2C_Z.50_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, alto, tenor, bass, continuo (?)'

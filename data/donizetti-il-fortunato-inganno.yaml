@@ -1,0 +1,21 @@
+id: donizetti-il-fortunato-inganno
+work:
+  composer: Donizetti, Gaetano
+  title: Il fortunato inganno
+  ids:
+    imslp: Il fortunato inganno (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: Lattanzio Lattrughelli (bass) | Aurelia (soprano) | Fulgenzia del
+    Folletto (soprano) | Eugenia (soprano) | Fiordelisa (mezzo-soprano) | Ortensio
+    Franceschetti (bass) | Edorado (tenor) | Bequardo (bass) | Vulcano (tenor) | Biscaglino
+    (bass) | Ascanio (bass)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_fortunato_inganno_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: Lattanzio Lattrughelli (bass), Aurelia (soprano),
+    Fulgenzia del Folletto (soprano), Eugenia (soprano), Fiordelisa (mezzo-soprano),
+    Ortensio Franceschetti (bass), Edorado (tenor), Bequardo (bass), Vulcano (tenor),
+    Biscaglino (bass), Ascanio (bass) + mixed chorus (SATB), Orchestra'

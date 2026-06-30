@@ -1,0 +1,24 @@
+id: cherubini-tantum-ergo-in-a-minor
+work:
+  composer: Cherubini, Luigi
+  title: Tantum ergo in A minor
+  ids:
+    imslp: Tantum ergo in A minor (Cherubini, Luigi)
+  year: 1817
+formula: 2022 2000 str
+instrumentation:
+  flute: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+  soloists:
+  - tenor
+  - mixed chorus (SSATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tantum_ergo_in_A_minor_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: tenor; mixed chorus (SSATB), Orchestra: 2 flutes,
+    2 clarinets (C), 2 bassoons, 2 horns (D), strings'
+duration_minutes: 4

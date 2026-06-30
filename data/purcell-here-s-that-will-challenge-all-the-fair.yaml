@@ -1,0 +1,16 @@
+id: purcell-here-s-that-will-challenge-all-the-fair
+work:
+  composer: Purcell, Henry
+  title: Here's that Will Challenge All the Fair
+  ids:
+    imslp: Here's that Will Challenge All the Fair, Z.253 (Purcell, Henry)
+  year: 1680
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Here%27s_that_Will_Challenge_All_the_Fair%2C_Z.253_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

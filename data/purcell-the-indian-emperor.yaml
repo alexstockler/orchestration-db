@@ -1,0 +1,17 @@
+id: purcell-the-indian-emperor
+work:
+  composer: Purcell, Henry
+  title: The Indian Emperor
+  ids:
+    imslp: The Indian Emperor, Z.598 (Purcell, Henry)
+  year: 1691
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Indian_Emperor%2C_Z.598_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, continuo'

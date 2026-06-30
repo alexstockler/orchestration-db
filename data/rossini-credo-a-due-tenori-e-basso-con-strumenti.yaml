@@ -1,0 +1,14 @@
+id: rossini-credo-a-due-tenori-e-basso-con-strumenti
+work:
+  composer: Rossini, Gioachino
+  title: Credo a due tenori e basso con strumenti
+  ids:
+    imslp: Credo a due tenori e basso con strumenti (Rossini, Gioachino)
+formula: ''
+instrumentation:
+  additional_raw: '|Tags=credo | und | la'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Credo_a_due_tenori_e_basso_con_strumenti_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: |Tags=credo ; und ; la'

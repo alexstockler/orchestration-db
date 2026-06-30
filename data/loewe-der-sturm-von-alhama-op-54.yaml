@@ -1,0 +1,18 @@
+id: loewe-der-sturm-von-alhama-op-54
+work:
+  composer: Loewe, Carl
+  title: Der Sturm von Alhama, Op.54
+  ids:
+    imslp: Der Sturm von Alhama, Op.54 (Loewe, Carl)
+  year: 1834
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Sturm_von_Alhama%2C_Op.54_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

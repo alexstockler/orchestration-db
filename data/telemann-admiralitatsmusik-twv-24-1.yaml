@@ -1,0 +1,19 @@
+id: telemann-admiralitatsmusik-twv-24-1
+work:
+  composer: Telemann, Georg Philipp
+  title: Admiralitätsmusik, TWV 24:1
+  ids:
+    imslp: Admiralitätsmusik, TWV 24:1 (Telemann, Georg Philipp)
+  year: 1723
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Admiralit%C3%A4tsmusik%2C_TWV_24%3A1_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, mixed chorus, orchestra (3 trumpets, 2 violins,
+    strings, continuo)'
+duration_minutes: 100

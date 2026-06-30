@@ -1,0 +1,15 @@
+id: spohr-potpourri-no-3-on-themes-by-mozart
+work:
+  composer: Spohr, Louis
+  title: Potpourri No.3 on Themes by Mozart
+  ids:
+    imslp: Potpourri No.3, Op.23 (Spohr, Louis)
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Potpourri_No.3%2C_Op.23_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, orchestra'

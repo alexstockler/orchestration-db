@@ -1,0 +1,25 @@
+id: telemann-gott-hat-geduld-mit-uns-twv-1-653
+work:
+  composer: Telemann, Georg Philipp
+  title: Gott hat Geduld mit uns, TWV 1:653
+  ids:
+    imslp: Gott hat Geduld mit uns, TWV 1:653 (Telemann, Georg Philipp)
+  year: 1720
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass solos
+  chorus_raw: mixed chorus
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_hat_Geduld_mit_uns%2C_TWV_1%3A653_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass solos; mixed chorus (SATB),
+    2 recorders, 2 oboes, strings, continuo'
+duration_minutes: 10

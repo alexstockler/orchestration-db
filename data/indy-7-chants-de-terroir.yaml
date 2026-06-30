@@ -1,0 +1,16 @@
+id: indy-7-chants-de-terroir
+work:
+  composer: Indy, Vincent d'
+  title: 7 Chants de terroir
+  ids:
+    imslp: 7 Chants de terroir, Op.73 (Indy, Vincent d')
+  year: 1918
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Chants_de_terroir%2C_Op.73_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4 hands'

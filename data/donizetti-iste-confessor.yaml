@@ -1,0 +1,20 @@
+id: donizetti-iste-confessor
+work:
+  composer: Donizetti, Gaetano
+  title: Iste confessor
+  ids:
+    imslp: Iste confessor, In.152 (Donizetti, Gaetano)
+  year: 1819
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Iste_confessor%2C_In.152_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, bass, mixed chorus (STB), orchestra'
+duration_minutes: 2

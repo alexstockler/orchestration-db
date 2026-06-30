@@ -1,0 +1,17 @@
+id: anonymous-l-orageuse
+work:
+  composer: Anonymous
+  title: L'Orageuse
+  ids:
+    imslp: L'Orageuse (Anonymous)
+  year: 1760
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27Orageuse_%28Anonymous%29
+  confidence: single_source
+  notes: 'Instrumentation: Harpsichord'
+duration_minutes: 30

@@ -1,0 +1,18 @@
+id: taneyev-5-poems
+work:
+  composer: Taneyev, Sergey
+  title: 5 Poems
+  ids:
+    imslp: 5 Poems, Op.33 (Taneyev, Sergey)
+  year: 1911
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Poems%2C_Op.33_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice + Piano'

@@ -1,0 +1,20 @@
+id: rameau-deus-noster-refugium
+work:
+  composer: Rameau, Jean-Philippe
+  title: Deus noster refugium
+  ids:
+    imslp: Deus noster refugium, RCT 13 (Rameau, Jean-Philippe)
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - 6 voices
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Deus_noster_refugium%2C_RCT_13_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: 6 voices (SSATTB), mixed chorus (SSATB), 2 oboes, strings
+    (2 Violins, Viola, Viola da Gamba), continuo'

@@ -1,0 +1,15 @@
+id: purcell-voluntary-in-d-minor
+work:
+  composer: Purcell, Henry
+  title: Voluntary in D minor
+  ids:
+    imslp: Voluntary in D minor, Z.718 (Purcell, Henry)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Voluntary_in_D_minor%2C_Z.718_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

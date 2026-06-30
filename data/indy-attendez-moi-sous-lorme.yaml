@@ -1,0 +1,17 @@
+id: indy-attendez-moi-sous-lorme
+work:
+  composer: Indy, Vincent d'
+  title: Attendez-moi sous l’orme
+  ids:
+    imslp: Attendez-moi sous l’orme, Op.14 (Indy, Vincent d')
+  year: 1876
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Attendez-moi_sous_l%E2%80%99orme%2C_Op.14_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices, chorus, orchestra'

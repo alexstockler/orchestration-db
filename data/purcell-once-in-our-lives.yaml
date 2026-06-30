@@ -1,0 +1,16 @@
+id: purcell-once-in-our-lives
+work:
+  composer: Purcell, Henry
+  title: Once in Our Lives
+  ids:
+    imslp: Once in Our Lives, Z.264 (Purcell, Henry)
+  year: 1686
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Once_in_Our_Lives%2C_Z.264_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

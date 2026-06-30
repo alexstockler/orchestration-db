@@ -1,0 +1,16 @@
+id: rossini-ave-maria
+work:
+  composer: Rossini, Gioachino
+  title: Ave Maria
+  ids:
+    imslp: Ave Maria (Rossini, Gioachino)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_Maria_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus, organ'

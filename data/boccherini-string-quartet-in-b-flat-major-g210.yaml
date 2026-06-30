@@ -1,0 +1,18 @@
+id: boccherini-string-quartet-in-b-flat-major-g210
+work:
+  composer: Boccherini, Luigi
+  title: String Quartet in B-flat major, G210
+  ids:
+    imslp: String Quartet in B-flat major, G210 (Boccherini, Luigi)
+  year: 1781
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_in_B-flat_major%2C_G210_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

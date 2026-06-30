@@ -1,0 +1,16 @@
+id: chabrier-la-chute-des-feuilles
+work:
+  composer: Chabrier, Emmanuel
+  title: La chute des feuilles
+  ids:
+    imslp: La chute des feuilles, Op.8 (Chabrier, Emmanuel)
+  year: 1852
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_chute_des_feuilles%2C_Op.8_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,19 @@
+id: corelli-concerto-grosso-in-b-flat-major
+work:
+  composer: Corelli, Arcangelo
+  title: Concerto grosso in B-flat major
+  ids:
+    imslp: Concerto grosso in B-flat major, Op.6 No.11 (Corelli, Arcangelo)
+  year: 1712
+formula: str
+instrumentation:
+  strings: str
+  solo_strings:
+    violin: 2
+  additional_raw: cello soli | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_grosso_in_B-flat_major%2C_Op.6_No.11_%28Corelli%2C_Arcangelo%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, cello soli, strings, continuo'
+duration_minutes: 10

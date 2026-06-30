@@ -1,0 +1,18 @@
+id: cherubini-adoremus-in-aeternum
+work:
+  composer: Cherubini, Luigi
+  title: Adoremus in aeternum
+  ids:
+    imslp: Adoremus in aeternum (Cherubini, Luigi)
+  year: 1824
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - tenors
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adoremus_in_aeternum_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 tenors, strings'
+duration_minutes: 4

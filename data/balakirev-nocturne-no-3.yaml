@@ -1,0 +1,16 @@
+id: balakirev-nocturne-no-3
+work:
+  composer: Balakirev, Mily
+  title: Nocturne No.3
+  ids:
+    imslp: Nocturne No.3 (Balakirev, Mily)
+  year: 1902
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nocturne_No.3_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

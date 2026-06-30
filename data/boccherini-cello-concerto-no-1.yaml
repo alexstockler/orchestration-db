@@ -1,0 +1,19 @@
+id: boccherini-cello-concerto-no-1
+work:
+  composer: Boccherini, Luigi
+  title: Cello Concerto No.1
+  ids:
+    imslp: Cello Concerto in E-flat major, G.474 (Boccherini, Luigi)
+  year: 1770
+formula: 0200 2000 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  strings: str
+  soloists:
+  - Cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Concerto_in_E-flat_major%2C_G.474_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: Cello, Orchestra: 2 Oboes, 2 Horns, Strings'

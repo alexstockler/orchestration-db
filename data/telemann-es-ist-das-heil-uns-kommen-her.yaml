@@ -1,0 +1,23 @@
+id: telemann-es-ist-das-heil-uns-kommen-her
+work:
+  composer: Telemann, Georg Philipp
+  title: Es ist das Heil uns kommen her
+  ids:
+    imslp: Es ist das Heil uns kommen her, TWV 1:494 (Telemann, Georg Philipp)
+  year: 1711
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - tenor
+  - bass
+  - mixed chorus (SATB)
+  additional_raw: continuo (but see below, Comments)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_ist_das_Heil_uns_kommen_her%2C_TWV_1%3A494_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: tenor, bass; mixed chorus (SATB), Orchestra: 2
+    oboes, strings, continuo (but see below, Comments)'
+duration_minutes: 15

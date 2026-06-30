@@ -1,0 +1,16 @@
+id: taneyev-choral-varie
+work:
+  composer: Taneyev, Sergey
+  title: Choral varié
+  ids:
+    imslp: Choral varié (Taneyev, Sergey)
+  year: 1914
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Choral_vari%C3%A9_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: organ or harmonium'

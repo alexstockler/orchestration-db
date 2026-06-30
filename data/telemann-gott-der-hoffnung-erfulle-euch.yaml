@@ -1,0 +1,18 @@
+id: telemann-gott-der-hoffnung-erfulle-euch
+work:
+  composer: Telemann, Georg Philipp
+  title: Gott der Hoffnung erfülle euch
+  ids:
+    imslp: Gott der Hoffnung erfülle euch, TWV 1:634 (Telemann, Georg Philipp)
+  year: 1717
+formula: 0000 2000 str
+instrumentation:
+  horn: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_der_Hoffnung_erf%C3%BClle_euch%2C_TWV_1%3A634_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 horns, strings, continuo'
+duration_minutes: 11

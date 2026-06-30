@@ -1,0 +1,21 @@
+id: indy-suite-en-parties
+work:
+  composer: Indy, Vincent d'
+  title: Suite en Parties
+  ids:
+    imslp: Suite en Parties, Op.91 (Indy, Vincent d')
+  year: 1927
+formula: 1000 0000 hp
+instrumentation:
+  flute: 1
+  harp: 1
+  solo_strings:
+    violin: 1
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_en_Parties%2C_Op.91_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, violin, viola, cello, harp'
+duration_minutes: 18

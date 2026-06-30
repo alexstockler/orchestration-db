@@ -1,0 +1,18 @@
+id: loewe-dem-herrscher
+work:
+  composer: Loewe, Carl
+  title: Dem Herrscher
+  ids:
+    imslp: Dem Herrscher (Loewe, Carl)
+  year: 1859
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dem_Herrscher_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

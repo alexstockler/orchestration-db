@@ -1,0 +1,16 @@
+id: purcell-let-the-grave-folks-go-preach
+work:
+  composer: Purcell, Henry
+  title: Let the Grave Folks Go Preach
+  ids:
+    imslp: Let the Grave Folks Go Preach, Z.258 (Purcell, Henry)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Let_the_Grave_Folks_Go_Preach%2C_Z.258_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

@@ -1,0 +1,17 @@
+id: donizetti-sorgesti-alfine-aurora
+work:
+  composer: Donizetti, Gaetano
+  title: Sorgesti alfine, aurora
+  ids:
+    imslp: Sorgesti alfine, aurora, A 391 (Donizetti, Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sorgesti_alfine%2C_aurora%2C_A_391_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

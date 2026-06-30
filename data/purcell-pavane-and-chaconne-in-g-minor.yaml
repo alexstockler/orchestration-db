@@ -1,0 +1,18 @@
+id: purcell-pavane-and-chaconne-in-g-minor
+work:
+  composer: Purcell, Henry
+  title: Pavane and Chaconne in G minor
+  ids:
+    imslp: Pavane and Chaconne in G minor (Purcell, Henry)
+  year: 1680
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+  solo_strings:
+    violin: 3
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pavane_and_Chaconne_in_G_minor_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 violins, bass'

@@ -1,0 +1,16 @@
+id: arensky-6-canonic-pieces
+work:
+  composer: Arensky, Anton
+  title: 6 Canonic Pieces
+  ids:
+    imslp: 6 Canonic Pieces, Op.1 (Arensky, Anton)
+  year: 1881
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Canonic_Pieces%2C_Op.1_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

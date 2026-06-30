@@ -1,0 +1,18 @@
+id: purcell-amphitryon
+work:
+  composer: Purcell, Henry
+  title: Amphitryon
+  ids:
+    imslp: Amphitryon, Z.572 (Purcell, Henry)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - 2 voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Amphitryon%2C_Z.572_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, strings, continuo'
+duration_minutes: 30

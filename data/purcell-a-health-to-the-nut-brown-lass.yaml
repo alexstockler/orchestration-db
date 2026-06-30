@@ -1,0 +1,16 @@
+id: purcell-a-health-to-the-nut-brown-lass
+work:
+  composer: Purcell, Henry
+  title: A Health to the Nut-Brown Lass
+  ids:
+    imslp: A Health to the Nut-Brown Lass, Z.240 (Purcell, Henry)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_Health_to_the_Nut-Brown_Lass%2C_Z.240_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

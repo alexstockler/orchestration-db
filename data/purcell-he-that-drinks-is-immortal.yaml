@@ -1,0 +1,16 @@
+id: purcell-he-that-drinks-is-immortal
+work:
+  composer: Purcell, Henry
+  title: He that Drinks Is Immortal
+  ids:
+    imslp: He that Drinks Is Immortal, Z.254 (Purcell, Henry)
+  year: 1686
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/He_that_Drinks_Is_Immortal%2C_Z.254_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

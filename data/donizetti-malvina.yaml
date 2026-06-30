@@ -1,0 +1,18 @@
+id: donizetti-malvina
+work:
+  composer: Donizetti, Gaetano
+  title: Malvina
+  ids:
+    imslp: Malvina, In.404 (Donizetti, Gaetano)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Malvina%2C_In.404_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

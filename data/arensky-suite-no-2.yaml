@@ -1,0 +1,17 @@
+id: arensky-suite-no-2
+work:
+  composer: Arensky, Anton
+  title: Suite No.2
+  ids:
+    imslp: Suite No.2, Op.23 (Arensky, Anton)
+  year: 1892
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_No.2%2C_Op.23_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 pianos'

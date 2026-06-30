@@ -1,0 +1,29 @@
+id: rameau-les-paladins
+work:
+  composer: Rameau, Jean-Philippe
+  title: Les paladins
+  ids:
+    imslp: Les Paladins, RCT 51 (Rameau, Jean-Philippe)
+  year: 1760
+formula: ''
+instrumentation:
+  soloists:
+  - Argie (G2)
+  - Nérine (G2)
+  - Orcan (F4)
+  - Atis (C3)
+  - Anselme (F4)
+  - un Paladin (C3)
+  - 'Manto (C3). - Choir : G2'
+  - G2
+  - C3
+  - C4
+  - F4.
+  additional_raw: Vl 2 | vla 2 | b | fl picc 2 | fl 2 | ob 2 | fag 2 | horn 2 | bc.
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_Paladins%2C_RCT_51_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: Argie (G2), Nérine (G2), Orcan (F4), Atis (C3), Anselme
+    (F4), un Paladin (C3), Manto (C3). - Choir : G2, G2, C3, C4, F4. Orchestra : Vl
+    2, vla 2, b, fl picc 2, fl 2, ob 2, fag 2, horn 2, bc.'

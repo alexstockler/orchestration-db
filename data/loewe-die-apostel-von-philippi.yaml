@@ -1,0 +1,19 @@
+id: loewe-die-apostel-von-philippi
+work:
+  composer: Loewe, Carl
+  title: Die Apostel von Philippi
+  ids:
+    imslp: Die Apostel von Philippi, Op.48 (Loewe, Carl)
+  year: 1835
+formula: 0200 0030 tmp
+instrumentation:
+  oboe: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Apostel_von_Philippi%2C_Op.48_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Male chorus (TTBB), 2 oboes, 3 trombones, timpani'

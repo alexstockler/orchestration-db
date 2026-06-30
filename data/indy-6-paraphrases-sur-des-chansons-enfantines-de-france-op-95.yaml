@@ -1,0 +1,17 @@
+id: indy-6-paraphrases-sur-des-chansons-enfantines-de-france-op-95
+work:
+  composer: Indy, Vincent d'
+  title: 6 Paraphrases sur des chansons enfantines de France, Op.95
+  ids:
+    imslp: 6 Paraphrases sur des chansons enfantines de France, Op.95 (Indy, Vincent
+      d')
+  year: 1928
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Paraphrases_sur_des_chansons_enfantines_de_France%2C_Op.95_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

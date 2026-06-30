@@ -1,0 +1,17 @@
+id: dukas-morceau-de-lecture
+work:
+  composer: Dukas, Paul
+  title: Morceau de lecture
+  ids:
+    imslp: Morceau de lecture (Dukas, Paul)
+  year: 1906
+formula: 0000 1000 pf
+instrumentation:
+  horn: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Morceau_de_lecture_%28Dukas%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: horn, piano'

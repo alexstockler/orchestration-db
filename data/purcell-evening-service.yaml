@@ -1,0 +1,15 @@
+id: purcell-evening-service
+work:
+  composer: Purcell, Henry
+  title: Evening Service
+  ids:
+    imslp: Evening Service, Z.231 (Purcell, Henry)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: SSATTB voices | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Evening_Service%2C_Z.231_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: SSATTB voices, mixed chorus (SATB), continuo'

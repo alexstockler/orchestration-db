@@ -1,0 +1,19 @@
+id: zemlinsky-string-quartet-no-2
+work:
+  composer: Zemlinsky, Alexander von
+  title: String Quartet No.2
+  ids:
+    imslp: String Quartet No.2, Op.15 (Zemlinsky, Alexander von)
+  year: 1913
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.2%2C_Op.15_%28Zemlinsky%2C_Alexander_von%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 45

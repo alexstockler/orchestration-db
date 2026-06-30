@@ -1,0 +1,17 @@
+id: donizetti-on-vous-a-peint-l-amour
+work:
+  composer: Donizetti, Gaetano
+  title: On vous a peint l'amour
+  ids:
+    imslp: On vous a peint l'amour, A 363 (Donizetti, Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/On_vous_a_peint_l%27amour%2C_A_363_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

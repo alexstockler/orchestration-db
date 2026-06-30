@@ -1,0 +1,18 @@
+id: donizetti-alina-regina-di-golconda
+work:
+  composer: Donizetti, Gaetano
+  title: Alina, regina di Golconda
+  ids:
+    imslp: Alina, regina di Golconda (Donizetti, Gaetano)
+  year: 1828
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: Alina (soprano) | Fiorina (mezzo) | Seide (tenor) | Volmar (baritone)
+    | Hassan (tenor)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alina%2C_regina_di_Golconda_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: Alina (soprano), Fiorina (mezzo), Seide (tenor),,
+    Volmar (baritone), Hassan (tenor); mixed chorus (SATB), Orchestra'

@@ -1,0 +1,16 @@
+id: donizetti-les-martyrs
+work:
+  composer: Donizetti, Gaetano
+  title: Les martyrs
+  ids:
+    imslp: Les martyrs, A 54 (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_martyrs%2C_A_54_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

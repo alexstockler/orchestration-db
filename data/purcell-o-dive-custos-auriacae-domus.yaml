@@ -1,0 +1,16 @@
+id: purcell-o-dive-custos-auriacae-domus
+work:
+  composer: Purcell, Henry
+  title: O dive custos auriacae domus
+  ids:
+    imslp: O dive custos auriacae domus, Z.504 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_dive_custos_auriacae_domus%2C_Z.504_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, continuo'

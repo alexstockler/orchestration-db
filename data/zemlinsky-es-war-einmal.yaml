@@ -1,0 +1,17 @@
+id: zemlinsky-es-war-einmal
+work:
+  composer: Zemlinsky, Alexander von
+  title: Es war einmal
+  ids:
+    imslp: Es war einmal (Zemlinsky, Alexander von)
+  year: 1897
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_war_einmal_%28Zemlinsky%2C_Alexander_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

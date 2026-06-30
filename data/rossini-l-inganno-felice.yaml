@@ -1,0 +1,16 @@
+id: rossini-l-inganno-felice
+work:
+  composer: Rossini, Gioachino
+  title: L'inganno felice
+  ids:
+    imslp: L'inganno felice (Rossini, Gioachino)
+  year: 1812
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27inganno_felice_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

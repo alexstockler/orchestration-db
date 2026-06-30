@@ -1,0 +1,17 @@
+id: zemlinsky-sarema
+work:
+  composer: Zemlinsky, Alexander von
+  title: Sarema
+  ids:
+    imslp: Sarema (Zemlinsky, Alexander von)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sarema_%28Zemlinsky%2C_Alexander_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices, chorus, orchestra'
+duration_minutes: 40

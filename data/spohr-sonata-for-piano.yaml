@@ -1,0 +1,16 @@
+id: spohr-sonata-for-piano
+work:
+  composer: Spohr, Louis
+  title: Sonata for Piano
+  ids:
+    imslp: Piano Sonata, Op.125 (Spohr, Louis)
+  year: 1842
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata%2C_Op.125_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,24 @@
+id: boccherini-la-clementina
+work:
+  composer: Boccherini, Luigi
+  title: La Clementina
+  ids:
+    imslp: La Clementina, G.540 (Boccherini, Luigi)
+formula: 2202 2000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+  soloists:
+  - 4 sopranos
+  - tenor
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_Clementina%2C_G.540_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal: 4 sopranos, tenor, bass, Orchestra: 2 flutes, 2
+    oboes, 2 bassoons, 2 horns, strings, continuo'

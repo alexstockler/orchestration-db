@@ -1,0 +1,17 @@
+id: purcell-let-formal-lovers-still-pursue
+work:
+  composer: Purcell, Henry
+  title: Let Formal Lovers Still Pursue
+  ids:
+    imslp: Let Formal Lovers Still Pursue, Z.391 (Purcell, Henry)
+  year: 1687
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Let_Formal_Lovers_Still_Pursue%2C_Z.391_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

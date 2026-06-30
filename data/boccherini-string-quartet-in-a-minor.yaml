@@ -1,0 +1,18 @@
+id: boccherini-string-quartet-in-a-minor
+work:
+  composer: Boccherini, Luigi
+  title: String Quartet in A minor
+  ids:
+    imslp: String Quartet in A minor, G.187 (Boccherini, Luigi)
+  year: 1775
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_in_A_minor%2C_G.187_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

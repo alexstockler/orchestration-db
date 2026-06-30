@@ -1,0 +1,16 @@
+id: indy-le-reve-de-cinyras
+work:
+  composer: Indy, Vincent d'
+  title: Le rêve de Cinyras
+  ids:
+    imslp: Le rêve de Cinyras, Op.80 (Indy, Vincent d')
+  year: 1922
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_r%C3%AAve_de_Cinyras%2C_Op.80_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

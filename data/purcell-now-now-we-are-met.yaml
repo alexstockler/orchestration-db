@@ -1,0 +1,16 @@
+id: purcell-now-now-we-are-met
+work:
+  composer: Purcell, Henry
+  title: Now, Now We Are Met
+  ids:
+    imslp: Now, Now We Are Met, Z.262 (Purcell, Henry)
+  year: 1688
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Now%2C_Now_We_Are_Met%2C_Z.262_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

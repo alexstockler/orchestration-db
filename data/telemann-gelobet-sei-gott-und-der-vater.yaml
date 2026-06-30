@@ -1,0 +1,16 @@
+id: telemann-gelobet-sei-gott-und-der-vater
+work:
+  composer: Telemann, Georg Philipp
+  title: Gelobet sei Gott und der Vater
+  ids:
+    imslp: Gelobet sei Gott und der Vater, TWV 1:607 (Telemann, Georg Philipp)
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: calchedon | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gelobet_sei_Gott_und_der_Vater%2C_TWV_1%3A607_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, calchedon, strings, continuo'

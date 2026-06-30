@@ -1,0 +1,19 @@
+id: telemann-aus-zion-bricht-an-der-schone-glanz-gottes
+work:
+  composer: Telemann, Georg Philipp
+  title: Aus Zion bricht an der schöne Glanz Gottes
+  ids:
+    imslp: Aus Zion bricht an der schöne Glanz Gottes, TWV 1:114 (Telemann, Georg
+      Philipp)
+  year: 1726
+formula: 0100 0000 str
+instrumentation:
+  oboe: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aus_Zion_bricht_an_der_sch%C3%B6ne_Glanz_Gottes%2C_TWV_1%3A114_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, strings, continuo'
+duration_minutes: 12

@@ -1,0 +1,16 @@
+id: cherubini-l-alessandro-nell-indie
+work:
+  composer: Cherubini, Luigi
+  title: L'Alessandro nell'Indie
+  ids:
+    imslp: L'Alessandro nell'Indie (Cherubini, Luigi)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27Alessandro_nell%27Indie_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

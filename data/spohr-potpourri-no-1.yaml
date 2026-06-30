@@ -1,0 +1,17 @@
+id: spohr-potpourri-no-1
+work:
+  composer: Spohr, Louis
+  title: Potpourri No.1
+  ids:
+    imslp: Potpourri No.1, Op.5 (Spohr, Louis)
+  year: 1804
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+  additional_raw: string trio
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Potpourri_No.1%2C_Op.5_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, string trio'

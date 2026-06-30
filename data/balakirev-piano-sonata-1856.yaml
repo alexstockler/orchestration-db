@@ -1,0 +1,16 @@
+id: balakirev-piano-sonata-1856
+work:
+  composer: Balakirev, Mily
+  title: Piano Sonata (1856)
+  ids:
+    imslp: Piano Sonata No.1, Op.5 (Balakirev, Mily)
+  year: 1856
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.1%2C_Op.5_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: 1 Piano'

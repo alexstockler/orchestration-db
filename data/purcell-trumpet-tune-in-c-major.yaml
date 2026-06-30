@@ -1,0 +1,15 @@
+id: purcell-trumpet-tune-in-c-major
+work:
+  composer: Purcell, Henry
+  title: Trumpet Tune in C major
+  ids:
+    imslp: Trumpet Tune in C major, ZT 678 (Purcell, Henry)
+  year: 1696
+formula: ''
+instrumentation:
+  additional_raw: keyboard (possibly trumpet, strings, continuo)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trumpet_Tune_in_C_major%2C_ZT_678_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard (possibly trumpet, strings, continuo)'

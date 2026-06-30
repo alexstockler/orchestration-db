@@ -1,0 +1,14 @@
+id: rossini-ermione
+work:
+  composer: Rossini, Gioachino
+  title: Ermione
+  ids:
+    imslp: Ermione (Rossini, Gioachino)
+formula: ''
+instrumentation:
+  additional_raw: '|Tags=operas | vv ch orch | it'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ermione_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: |Tags=operas ; vv ch orch ; it'

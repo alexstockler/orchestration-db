@@ -1,0 +1,19 @@
+id: purcell-the-married-beau
+work:
+  composer: Purcell, Henry
+  title: The Married Beau
+  ids:
+    imslp: The Married Beau, Z.603 (Purcell, Henry)
+  year: 1694
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Married_Beau%2C_Z.603_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, strings, continuo'
+duration_minutes: 15

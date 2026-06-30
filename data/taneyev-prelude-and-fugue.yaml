@@ -1,0 +1,16 @@
+id: taneyev-prelude-and-fugue
+work:
+  composer: Taneyev, Sergey
+  title: Prelude and Fugue
+  ids:
+    imslp: Prelude and Fugue, Op.29 (Taneyev, Sergey)
+  year: 1910
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude_and_Fugue%2C_Op.29_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

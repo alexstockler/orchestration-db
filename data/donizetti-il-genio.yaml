@@ -1,0 +1,16 @@
+id: donizetti-il-genio
+work:
+  composer: Donizetti, Gaetano
+  title: Il genio
+  ids:
+    imslp: Il genio, A 558 (Donizetti, Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_genio%2C_A_558_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'
+duration_minutes: 6

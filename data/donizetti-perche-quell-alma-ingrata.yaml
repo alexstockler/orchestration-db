@@ -1,0 +1,16 @@
+id: donizetti-perche-quell-alma-ingrata
+work:
+  composer: Donizetti, Gaetano
+  title: Perché quell'alma ingrata
+  ids:
+    imslp: Perché quell'alma ingrata, A 108 (Donizetti, Gaetano)
+  year: 1816
+formula: ''
+instrumentation:
+  soloists:
+  - 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Perch%C3%A9_quell%27alma_ingrata%2C_A_108_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices (C1, F4 clef), orchestra'

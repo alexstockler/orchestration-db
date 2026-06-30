@@ -1,0 +1,16 @@
+id: donizetti-ti-sovvenga-amato-bene
+work:
+  composer: Donizetti, Gaetano
+  title: Ti sovvenga amato bene
+  ids:
+    imslp: Ti sovvenga amato bene, A 99 (Donizetti, Gaetano)
+  year: 1817
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ti_sovvenga_amato_bene%2C_A_99_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, orchestra'

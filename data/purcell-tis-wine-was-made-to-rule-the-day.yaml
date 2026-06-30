@@ -1,0 +1,18 @@
+id: purcell-tis-wine-was-made-to-rule-the-day
+work:
+  composer: Purcell, Henry
+  title: Tis Wine Was Made to Rule the Day
+  ids:
+    imslp: Tis Wine Was Made to Rule the Day, Z.546 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tis_Wine_Was_Made_to_Rule_the_Day%2C_Z.546_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), tenor, bass, continuo'

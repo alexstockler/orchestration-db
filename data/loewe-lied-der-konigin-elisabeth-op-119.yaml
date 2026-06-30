@@ -1,0 +1,17 @@
+id: loewe-lied-der-konigin-elisabeth-op-119
+work:
+  composer: Loewe, Carl
+  title: Lied der Königin Elisabeth, Op.119
+  ids:
+    imslp: Lied der Königin Elisabeth, Op.119 (Loewe, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lied_der_K%C3%B6nigin_Elisabeth%2C_Op.119_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

@@ -1,0 +1,15 @@
+id: purcell-voluntary-in-a-major-on-the-100th-psalm
+work:
+  composer: Purcell, Henry
+  title: Voluntary in A major on the 100th Psalm
+  ids:
+    imslp: Voluntary in A major on the 100th Psalm, Z.721 (Purcell, Henry)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Voluntary_in_A_major_on_the_100th_Psalm%2C_Z.721_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

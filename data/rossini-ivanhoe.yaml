@@ -1,0 +1,17 @@
+id: rossini-ivanhoe
+work:
+  composer: Rossini, Gioachino
+  title: Ivanhoé
+  ids:
+    imslp: Ivanhoé (Rossini, Gioachino)
+  year: 1826
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ivanho%C3%A9_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

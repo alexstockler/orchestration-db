@@ -1,0 +1,18 @@
+id: rameau-diane-et-acteon
+work:
+  composer: Rameau, Jean-Philippe
+  title: Diane et Actéon
+  ids:
+    imslp: Diane et Actéon (Rameau, Jean-Philippe)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Diane_et_Act%C3%A9on_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, violin, continuo'

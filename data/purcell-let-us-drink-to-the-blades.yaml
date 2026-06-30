@@ -1,0 +1,16 @@
+id: purcell-let-us-drink-to-the-blades
+work:
+  composer: Purcell, Henry
+  title: Let Us Drink to the Blades
+  ids:
+    imslp: Let Us Drink to the Blades, Z.259 (Purcell, Henry)
+  year: 1691
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Let_Us_Drink_to_the_Blades%2C_Z.259_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

@@ -1,0 +1,15 @@
+id: boccherini-sonate-pour-deux-violoncelles-in-c-major
+work:
+  composer: Boccherini, Luigi
+  title: Sonate pour deux violoncelles in C major
+  ids:
+    imslp: Sonata for 2 Cellos in C major, G.74 (Boccherini, Luigi)
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_for_2_Cellos_in_C_major%2C_G.74_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 cellos'

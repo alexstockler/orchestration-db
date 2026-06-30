@@ -1,0 +1,35 @@
+id: spohr-symphony-no-7
+work:
+  composer: Spohr, Louis
+  title: Symphony No.7
+  ids:
+    imslp: Symphony No.7, Op.121 (Spohr, Louis)
+  year: 1841
+formula: 3232 4230 tmp str
+instrumentation:
+  flute: 3
+  oboe: 2
+  clarinet: 3
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - bass
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+  additional_raw: '2 orchestras: | Orchestra I | Orchestra II'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.7%2C_Op.121_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 orchestras: :Orchestra I ::flute, oboe, clarinet (B),
+    bassoon, 2 horns (F/E/A, C/E/F/D), 2 violins, viola, cello, bass :Orchestra II
+    ::2 flutes, oboe, 2 clarinets (C/B), bassoon, 2 horns (G/F/A/B basso/E, C/F),
+    2 trumpets (E/F/C, C/A/A/F), 3 trombones, timpani, strings'
+duration_minutes: 34

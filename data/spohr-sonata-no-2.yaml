@@ -1,0 +1,17 @@
+id: spohr-sonata-no-2
+work:
+  composer: Spohr, Louis
+  title: Sonata No.2
+  ids:
+    imslp: Violin Sonata No.2, Op.16 (Spohr, Louis)
+  year: 1806
+formula: hp
+instrumentation:
+  harp: 1
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_No.2%2C_Op.16_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, harp'

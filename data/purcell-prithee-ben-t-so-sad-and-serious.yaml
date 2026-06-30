@@ -1,0 +1,17 @@
+id: purcell-prithee-ben-t-so-sad-and-serious
+work:
+  composer: Purcell, Henry
+  title: Prithee Ben't So Sad and Serious
+  ids:
+    imslp: Prithee Ben't So Sad and Serious, Z.269 (Purcell, Henry)
+  year: 1700
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prithee_Ben%27t_So_Sad_and_Serious%2C_Z.269_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices, continuo'

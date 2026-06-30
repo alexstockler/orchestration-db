@@ -1,0 +1,24 @@
+id: purcell-what-shall-be-done-in-behalf-of-the-man
+work:
+  composer: Purcell, Henry
+  title: What shall be done in behalf of the man
+  ids:
+    imslp: What Shall Be Done in Behalf of the Man, Z.341 (Purcell, Henry)
+  year: 1682
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - sopranos
+  - alto
+  - tenor
+  - bass solos
+  chorus_raw: mixed chorus
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/What_Shall_Be_Done_in_Behalf_of_the_Man%2C_Z.341_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, alto, tenor, bass solos; mixed chorus (SATB),
+    2 recorders, strings, continuo'
+duration_minutes: 15

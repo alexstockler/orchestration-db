@@ -1,0 +1,20 @@
+id: telemann-dein-wort-ist-meinem-munde-suer-denn-honig
+work:
+  composer: Telemann, Georg Philipp
+  title: Dein Wort ist meinem Munde süßer denn Honig
+  ids:
+    imslp: Dein Wort ist meinem Munde süßer denn Honig, TWV 1:216 (Telemann, Georg
+      Philipp)
+  year: 1721
+formula: 2200 0000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dein_Wort_ist_meinem_Munde_s%C3%BC%C3%9Fer_denn_Honig%2C_TWV_1%3A216_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, strings, continuo'
+duration_minutes: 16

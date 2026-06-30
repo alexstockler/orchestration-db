@@ -1,0 +1,16 @@
+id: zemlinsky-kleider-machen-leute
+work:
+  composer: Zemlinsky, Alexander von
+  title: Kleider machen Leute
+  ids:
+    imslp: Kleider machen Leute, Op.12 (Zemlinsky, Alexander von)
+  year: 1907
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kleider_machen_Leute%2C_Op.12_%28Zemlinsky%2C_Alexander_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, Chorus, Orchestra'

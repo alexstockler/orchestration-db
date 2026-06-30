@@ -1,0 +1,19 @@
+id: purcell-tyrannic-love
+work:
+  composer: Purcell, Henry
+  title: Tyrannic Love
+  ids:
+    imslp: Tyrannic Love, Z.613 (Purcell, Henry)
+  year: 1694
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tyrannic_Love%2C_Z.613_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, bass, continuo'
+duration_minutes: 10

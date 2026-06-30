@@ -1,0 +1,15 @@
+id: chabrier-aika
+work:
+  composer: Chabrier, Emmanuel
+  title: Aïka
+  ids:
+    imslp: Aïka (Chabrier, Emmanuel)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A%C3%AFka_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

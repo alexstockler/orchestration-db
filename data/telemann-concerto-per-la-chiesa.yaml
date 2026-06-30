@@ -1,0 +1,15 @@
+id: telemann-concerto-per-la-chiesa
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto per la Chiesa
+  ids:
+    imslp: Concerto per la Chiesa, TWV Anh. 33:2 (Telemann, Georg Philipp)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_per_la_Chiesa%2C_TWV_Anh._33%3A2_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Harpsichord'

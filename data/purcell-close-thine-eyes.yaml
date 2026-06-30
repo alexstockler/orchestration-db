@@ -1,0 +1,19 @@
+id: purcell-close-thine-eyes
+work:
+  composer: Purcell, Henry
+  title: Close Thine Eyes
+  ids:
+    imslp: Close Thine Eyes (Purcell, Henry)
+  year: 1688
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: basso continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Close_Thine_Eyes_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, bass, basso continuo'
+duration_minutes: 3

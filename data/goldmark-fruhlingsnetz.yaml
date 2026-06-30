@@ -1,0 +1,15 @@
+id: goldmark-fruhlingsnetz
+work:
+  composer: Goldmark, Carl
+  title: Frühlingsnetz
+  ids:
+    imslp: Frühlingsnetz, Op.15 (Goldmark, Carl)
+  year: 1869
+formula: ''
+instrumentation:
+  additional_raw: TTBB chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fr%C3%BChlingsnetz%2C_Op.15_%28Goldmark%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: TTBB chorus, Orchestra'

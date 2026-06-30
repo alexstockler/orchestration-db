@@ -1,0 +1,25 @@
+id: telemann-habe-deine-lust-an-dem-herrn-twv-1-705
+work:
+  composer: Telemann, Georg Philipp
+  title: Habe deine Lust an dem Herrn, TWV 1:705
+  ids:
+    imslp: Habe deine Lust an dem Herrn, TWV 1:705 (Telemann, Georg Philipp)
+  year: 1720
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass solos
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Habe_deine_Lust_an_dem_Herrn%2C_TWV_1%3A705_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass solos; mixed chorus (SATB),
+    2 oboes, strings, continuo'
+duration_minutes: 9

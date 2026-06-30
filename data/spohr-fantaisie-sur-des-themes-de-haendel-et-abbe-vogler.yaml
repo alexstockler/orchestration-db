@@ -1,0 +1,17 @@
+id: spohr-fantaisie-sur-des-themes-de-haendel-et-abbe-vogler
+work:
+  composer: Spohr, Louis
+  title: Fantaisie sur des thèmes de Haendel et Abbé Vogler
+  ids:
+    imslp: Fantaisie sur des thèmes de Haendel et Abbé Vogler, Op.118 (Spohr, Louis)
+  year: 1814
+formula: hp
+instrumentation:
+  harp: 1
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantaisie_sur_des_th%C3%A8mes_de_Haendel_et_Abb%C3%A9_Vogler%2C_Op.118_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, harp (or piano)'

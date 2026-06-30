@@ -1,0 +1,16 @@
+id: zemlinsky-landliche-tanze
+work:
+  composer: Zemlinsky, Alexander von
+  title: Ländliche Tänze
+  ids:
+    imslp: Ländliche Tänze, Op.1 (Zemlinsky, Alexander von)
+  year: 1892
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%C3%A4ndliche_T%C3%A4nze%2C_Op.1_%28Zemlinsky%2C_Alexander_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

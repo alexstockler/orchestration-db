@@ -1,0 +1,18 @@
+id: humperdinck-notturno
+work:
+  composer: Humperdinck, Engelbert
+  title: Notturno
+  ids:
+    imslp: Notturno (Humperdinck, Engelbert)
+  year: 1879
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Notturno_%28Humperdinck%2C_Engelbert%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

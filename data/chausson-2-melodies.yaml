@@ -1,0 +1,18 @@
+id: chausson-2-melodies
+work:
+  composer: Chausson, Ernest
+  title: 2 Mélodies
+  ids:
+    imslp: 2 Mélodies, Op.36 (Chausson, Ernest)
+  year: 1896
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_M%C3%A9lodies%2C_Op.36_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,26 @@
+id: cherubini-adjutor-in-opportunitatibus
+work:
+  composer: Cherubini, Luigi
+  title: Adjutor in opportunitatibus
+  ids:
+    imslp: Adjutor in opportunitatibus (Cherubini, Luigi)
+  year: 1818
+formula: 2222 2200 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  strings: str
+  soloists:
+  - tenor
+  - mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adjutor_in_opportunitatibus_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: tenor, mixed chorus (SATB), Orchestra: 2 flutes,
+    2 oboes, 2 clarinets (C), 2 bassoon, 2 horns (F), 2 trumpets (C), strings'
+duration_minutes: 18

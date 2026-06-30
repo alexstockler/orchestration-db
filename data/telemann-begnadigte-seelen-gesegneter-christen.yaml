@@ -1,0 +1,17 @@
+id: telemann-begnadigte-seelen-gesegneter-christen
+work:
+  composer: Telemann, Georg Philipp
+  title: Begnadigte Seelen gesegneter Christen
+  ids:
+    imslp: Begnadigte Seelen gesegneter Christen, TWV 1:119 (Telemann, Georg Philipp)
+  year: 1725
+formula: 0100 0000
+instrumentation:
+  oboe: 1
+  additional_raw: high voice | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Begnadigte_Seelen_gesegneter_Christen%2C_TWV_1%3A119_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: high voice, oboe, continuo'
+duration_minutes: 10

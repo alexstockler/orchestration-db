@@ -1,0 +1,16 @@
+id: purcell-my-lady-s-coachman-john
+work:
+  composer: Purcell, Henry
+  title: My Lady's Coachman, John
+  ids:
+    imslp: My Lady's Coachman, John, Z.260 (Purcell, Henry)
+  year: 1688
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/My_Lady%27s_Coachman%2C_John%2C_Z.260_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

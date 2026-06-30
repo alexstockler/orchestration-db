@@ -1,0 +1,19 @@
+id: donizetti-parafrasi-del-christus
+work:
+  composer: Donizetti, Gaetano
+  title: Parafrasi del Christus
+  ids:
+    imslp: Parafrasi del Christus, A 675 (Donizetti, Gaetano)
+  year: 1829
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  - alto
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Parafrasi_del_Christus%2C_A_675_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, strings'
+duration_minutes: 19

@@ -1,0 +1,20 @@
+id: zemlinsky-clarinet-trio
+work:
+  composer: Zemlinsky, Alexander von
+  title: Clarinet Trio
+  ids:
+    imslp: Clarinet Trio, Op.3 (Zemlinsky, Alexander von)
+  year: 1896
+formula: 0010 0000 pf
+instrumentation:
+  clarinet: 1
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Clarinet_Trio%2C_Op.3_%28Zemlinsky%2C_Alexander_von%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet (or violin), cello, piano'
+duration_minutes: 30

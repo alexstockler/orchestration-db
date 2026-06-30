@@ -1,0 +1,39 @@
+id: indy-symphony-no-3
+work:
+  composer: Indy, Vincent d'
+  title: Symphony No. 3
+  ids:
+    imslp: Symphony No.3 in D major, Op.70 (Indy, Vincent d')
+  year: 1916
+formula: 0 0 4[Ebcl.2.3.bcl] 0 0 4[pictpt.2.3/cnt.4] 3 0 2hp str
+instrumentation:
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  trumpet:
+  - instrument: piccolo_trumpet
+  - {}
+  - doublings:
+    - cornet
+  - {}
+  trombone: 3
+  percussion:
+    instruments:
+    - military drums
+    - bass drum
+    - cymbals
+  harp: 2
+  strings: str
+  additional_raw: 3 bassoons 4 horns | contrabass trombone timpani | flat drum | xylophone
+    celesta
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.3_in_D_major%2C_Op.70_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, English horn :E clarinet, 2
+    clarinets, bass clarinet, 3 bassoons 4 horns, piccolo trumpet, 3 trumpets (3rd
+    also cornet) :3 trombones, contrabass trombone timpani, military drums, flat drum,
+    bass drum, cymbals, xylophone celesta, 2 harps, strings'
+duration_minutes: 35

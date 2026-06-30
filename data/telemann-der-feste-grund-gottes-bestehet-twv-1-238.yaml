@@ -1,0 +1,25 @@
+id: telemann-der-feste-grund-gottes-bestehet-twv-1-238
+work:
+  composer: Telemann, Georg Philipp
+  title: Der feste Grund Gottes bestehet, TWV 1:238
+  ids:
+    imslp: Der feste Grund Gottes bestehet, TWV 1:238 (Telemann, Georg Philipp)
+  year: 1721
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+  additional_raw: 2 chalumeaux | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_feste_Grund_Gottes_bestehet%2C_TWV_1%3A238_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, mixed chorus (SATB), 2 chalumeaux,
+    2 oboes, strings, continuo'
+duration_minutes: 18

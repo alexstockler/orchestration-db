@@ -1,0 +1,18 @@
+id: telemann-gott-wei-ich-bin-von-seufzen-mude
+work:
+  composer: Telemann, Georg Philipp
+  title: Gott weiß, ich bin von Seufzen müde
+  ids:
+    imslp: Gott weiß, ich bin von Seufzen müde, TWV 1:689a (Telemann, Georg Philipp)
+  year: 1731
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: voice (alto or mezzo) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_wei%C3%9F%2C_ich_bin_von_Seufzen_m%C3%BCde%2C_TWV_1%3A689a_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (alto or mezzo), 2 violins (or 2 recorders), continuo'
+duration_minutes: 8

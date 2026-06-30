@@ -1,0 +1,18 @@
+id: rameau-les-amants-trahis
+work:
+  composer: Rameau, Jean-Philippe
+  title: Les amants trahis
+  ids:
+    imslp: Les Amants trahis, RCT 22 (Rameau, Jean-Philippe)
+  year: 1721
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_Amants_trahis%2C_RCT_22_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, bass, continuo'

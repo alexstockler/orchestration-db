@@ -1,0 +1,17 @@
+id: taneyev-canzona
+work:
+  composer: Taneyev, Sergey
+  title: Canzona
+  ids:
+    imslp: Canzona (Taneyev, Sergey)
+  year: 1947
+formula: 0010 0000 str
+instrumentation:
+  clarinet: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canzona_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, strings (or 2 violins, viola, cello, double bass)'
+duration_minutes: 8

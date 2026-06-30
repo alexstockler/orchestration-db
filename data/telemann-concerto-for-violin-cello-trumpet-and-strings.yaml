@@ -1,0 +1,24 @@
+id: telemann-concerto-for-violin-cello-trumpet-and-strings
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto for Violin, Cello, Trumpet and Strings
+  ids:
+    imslp: Concerto for Violin, Cello, Trumpet and Strings, TWV 53:D5 (Telemann, Georg
+      Philipp)
+  year: 1965
+formula: 0001 1100 str
+instrumentation:
+  bassoon: 1
+  horn: 1
+  trumpet: 1
+  strings: str
+  solo_strings:
+    violin: 1
+    cello: 2
+  additional_raw: continuo | SLUB version - violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_Violin%2C_Cello%2C_Trumpet_and_Strings%2C_TWV_53%3AD5_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: trumpet, violin, cello, strings, continuo, SLUB version
+    - violin, bassoon, cello, horn, orchestra (3 oboes, 2 bassoons, strings, continuo)'

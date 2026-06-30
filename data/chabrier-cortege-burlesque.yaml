@@ -1,0 +1,16 @@
+id: chabrier-cortege-burlesque
+work:
+  composer: Chabrier, Emmanuel
+  title: Cortège Burlesque
+  ids:
+    imslp: Cortège burlesque (Chabrier, Emmanuel)
+  year: 1871
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cort%C3%A8ge_burlesque_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'

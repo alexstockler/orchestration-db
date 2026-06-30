@@ -1,0 +1,18 @@
+id: telemann-die-wahrheit-ist-ein-edles-kind
+work:
+  composer: Telemann, Georg Philipp
+  title: Die Wahrheit ist ein edles Kind
+  ids:
+    imslp: Die Wahrheit ist ein edles Kind, TWV 1:368 (Telemann, Georg Philipp)
+  year: 1737
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Wahrheit_ist_ein_edles_Kind%2C_TWV_1%3A368_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'
+duration_minutes: 15

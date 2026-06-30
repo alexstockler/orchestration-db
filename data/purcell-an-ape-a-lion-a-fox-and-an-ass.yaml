@@ -1,0 +1,16 @@
+id: purcell-an-ape-a-lion-a-fox-and-an-ass
+work:
+  composer: Purcell, Henry
+  title: An Ape, a Lion, a Fox and an Ass
+  ids:
+    imslp: An Ape, a Lion, a Fox and an Ass, Z.241 (Purcell, Henry)
+  year: 1686
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_Ape%2C_a_Lion%2C_a_Fox_and_an_Ass%2C_Z.241_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

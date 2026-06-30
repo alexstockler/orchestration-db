@@ -1,0 +1,18 @@
+id: loewe-brautlied-ich-will-die-lauten-freuden-nicht
+work:
+  composer: Loewe, Carl
+  title: Brautlied Ich will die lauten Freuden nicht...
+  ids:
+    imslp: Brautlied ''Ich will die lauten Freuden nicht...'' (Loewe, Carl)
+  year: 1899
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Brautlied_%27%27Ich_will_die_lauten_Freuden_nicht...%27%27_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

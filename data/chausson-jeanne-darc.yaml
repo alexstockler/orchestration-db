@@ -1,0 +1,20 @@
+id: chausson-jeanne-darc
+work:
+  composer: Chausson, Ernest
+  title: Jeanne d’Arc
+  ids:
+    imslp: Jeanne d’Arc (Chausson, Ernest)
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - sopranos
+  - contralto
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jeanne_d%E2%80%99Arc_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Sopranos, Contralto, Female chorus, Piano'

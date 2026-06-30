@@ -1,0 +1,21 @@
+id: chausson-tantum-ergo
+work:
+  composer: Chausson, Ernest
+  title: Tantum ergo
+  ids:
+    imslp: Tantum ergo (Chausson, Ernest)
+  year: 1891
+formula: pf harm
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: harmonium
+  soloists:
+  - voice
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tantum_ergo_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, violin, piano, harmonium'

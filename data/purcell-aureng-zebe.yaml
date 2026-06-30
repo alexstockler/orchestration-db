@@ -1,0 +1,18 @@
+id: purcell-aureng-zebe
+work:
+  composer: Purcell, Henry
+  title: Aureng-Zebe
+  ids:
+    imslp: Aureng-Zebe, Z.573 (Purcell, Henry)
+  year: 1692
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aureng-Zebe%2C_Z.573_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'
+duration_minutes: 3

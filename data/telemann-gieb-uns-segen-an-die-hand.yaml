@@ -1,0 +1,20 @@
+id: telemann-gieb-uns-segen-an-die-hand
+work:
+  composer: Telemann, Georg Philipp
+  title: Gieb uns Segen an die Hand
+  ids:
+    imslp: Gieb uns Segen an die Hand, TWV 1:624 (Telemann, Georg Philipp)
+  year: 1749
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - bass
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gieb_uns_Segen_an_die_Hand%2C_TWV_1%3A624_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: bass; mixed chorus (SATB), Orchestra: strings,
+    continuo'

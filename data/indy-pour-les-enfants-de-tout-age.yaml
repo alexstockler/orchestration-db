@@ -1,0 +1,16 @@
+id: indy-pour-les-enfants-de-tout-age
+work:
+  composer: Indy, Vincent d'
+  title: Pour les Enfants de tout âge
+  ids:
+    imslp: Pour les enfants de tout âge, Op.74 (Indy, Vincent d')
+  year: 1919
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pour_les_enfants_de_tout_%C3%A2ge%2C_Op.74_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,40 @@
+id: taneyev-concert-suite
+work:
+  composer: Taneyev, Sergey
+  title: Concert Suite
+  ids:
+    imslp: Concert Suite, Op.28 (Taneyev, Sergey)
+  year: 1908
+formula: 2[1.2/pic] 2[1.2/Eh] 2 2 2200 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tambourine
+    - snare drum
+  harp: 1
+  strings: str
+  soloists:
+  - Solo Instrument (violin)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concert_Suite%2C_Op.28_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, orchestra :Solo Instrument (violin), Orchestra
+    ::2 flutes (2nd also piccolo), 2 clarinets (B/A), 2 oboes (2nd also English horn),
+    2 bassoons, 2 horns (F), 2 trumpets (B), timpani, triangle, tambourine, snare
+    drum, harp, strings'
+duration_minutes: 3550

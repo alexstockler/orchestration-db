@@ -1,0 +1,16 @@
+id: purcell-pausanius
+work:
+  composer: Purcell, Henry
+  title: Pausanius
+  ids:
+    imslp: Pausanius, Z.585 (Purcell, Henry)
+  year: 1695
+formula: ''
+instrumentation:
+  additional_raw: 1-2 voices | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pausanius%2C_Z.585_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 1-2 voices, continuo'
+duration_minutes: 8

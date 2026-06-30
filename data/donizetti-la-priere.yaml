@@ -1,0 +1,18 @@
+id: donizetti-la-priere
+work:
+  composer: Donizetti, Gaetano
+  title: La prière
+  ids:
+    imslp: La prière, A 424 (Donizetti, Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - tenor
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_pri%C3%A8re%2C_A_424_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, piano'

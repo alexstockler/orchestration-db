@@ -1,0 +1,17 @@
+id: purcell-she-that-would-gain-a-faithful-lover
+work:
+  composer: Purcell, Henry
+  title: She that Would Gain a Faithful Lover
+  ids:
+    imslp: She that Would Gain a Faithful Lover, Z.414 (Purcell, Henry)
+  year: 1695
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/She_that_Would_Gain_a_Faithful_Lover%2C_Z.414_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

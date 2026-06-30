@@ -1,0 +1,18 @@
+id: telemann-der-herr-hat-offenbaret-seinen-heiligen-arm-twv-1-261
+work:
+  composer: Telemann, Georg Philipp
+  title: Der Herr hat offenbaret seinen heiligen Arm, TWV 1:261
+  ids:
+    imslp: Der Herr hat offenbaret seinen heiligen Arm, TWV 1:261 (Telemann, Georg
+      Philipp)
+  year: 1727
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Herr_hat_offenbaret_seinen_heiligen_Arm%2C_TWV_1%3A261_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

@@ -1,0 +1,19 @@
+id: purcell-chacony
+work:
+  composer: Purcell, Henry
+  title: Chacony
+  ids:
+    imslp: Chacony in G minor, Z.730 (Purcell, Henry)
+  year: 1680
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chacony_in_G_minor%2C_Z.730_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, continuo'
+duration_minutes: 4

@@ -1,0 +1,22 @@
+id: donizetti-viola-concerto
+work:
+  composer: Donizetti, Gaetano
+  title: Viola Concerto
+  ids:
+    imslp: Viola Concerto (Donizetti, Gaetano)
+formula: 1200 2110 str
+instrumentation:
+  flute: 1
+  oboe: 2
+  horn: 2
+  trumpet: 1
+  trombone: 1
+  strings: str
+  soloists:
+  - viola
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Viola_Concerto_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: viola, Orchestra: flute, 2 oboes, 2 horns (D), trumpet
+    (D), trombone, strings'

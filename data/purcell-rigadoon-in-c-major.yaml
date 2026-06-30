@@ -1,0 +1,16 @@
+id: purcell-rigadoon-in-c-major
+work:
+  composer: Purcell, Henry
+  title: Rigadoon in C major
+  ids:
+    imslp: Rigadoon in C major, Z.653 (Purcell, Henry)
+  year: 1895
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rigadoon_in_C_major%2C_Z.653_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'
+duration_minutes: 1

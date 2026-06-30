@@ -1,0 +1,17 @@
+id: cherubini-lhotellerie-portugaise
+work:
+  composer: Cherubini, Luigi
+  title: L’hôtellerie portugaise
+  ids:
+    imslp: L'hôtellerie portugaise (Cherubini, Luigi)
+  year: 1798
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27h%C3%B4tellerie_portugaise_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

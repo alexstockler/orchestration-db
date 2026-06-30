@@ -1,0 +1,21 @@
+id: boccherini-concerto-grande-a-piu-stromenti-obbligati
+work:
+  composer: Boccherini, Luigi
+  title: Concerto grande a più stromenti obbligati
+  ids:
+    imslp: Concerto grande a più stromenti obbligati, G.491 (Boccherini, Luigi)
+  year: 1769
+formula: 0202 2000 str
+instrumentation:
+  oboe: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+  soloists:
+  - 2 violins
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_grande_a_pi%C3%B9_stromenti_obbligati%2C_G.491_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: solo: 2 violins, orchestra: 2 oboes, 2 bassoons, 2 horns,
+    strings'

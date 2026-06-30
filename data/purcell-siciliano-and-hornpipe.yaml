@@ -1,0 +1,15 @@
+id: purcell-siciliano-and-hornpipe
+work:
+  composer: Purcell, Henry
+  title: Siciliano and Hornpipe
+  ids:
+    imslp: Siciliano and Hornpipe (Purcell, Henry)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Siciliano_and_Hornpipe_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

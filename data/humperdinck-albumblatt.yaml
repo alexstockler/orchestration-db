@@ -1,0 +1,15 @@
+id: humperdinck-albumblatt
+work:
+  composer: Humperdinck, Engelbert
+  title: Albumblatt
+  ids:
+    imslp: Albumblatt (Humperdinck, Engelbert)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Albumblatt_%28Humperdinck%2C_Engelbert%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

@@ -1,0 +1,16 @@
+id: balakirev-chant-du-pecheur
+work:
+  composer: Balakirev, Mily
+  title: Chant du pêcheur
+  ids:
+    imslp: Chant du pêcheur (Balakirev, Mily)
+  year: 1903
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chant_du_p%C3%AAcheur_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,20 @@
+id: corelli-trio-sonata-in-a-minor
+work:
+  composer: Corelli, Arcangelo
+  title: Trio Sonata in A minor
+  ids:
+    imslp: Trio Sonata in A minor, Op.1 No.4 (Corelli, Arcangelo)
+  year: 1681
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  solo_strings:
+    violin: 2
+  additional_raw: violone (or arciliuto)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_A_minor%2C_Op.1_No.4_%28Corelli%2C_Arcangelo%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, violone (or arciliuto), organ'
+duration_minutes: 7

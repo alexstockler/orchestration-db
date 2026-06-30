@@ -1,0 +1,18 @@
+id: telemann-gott-zebaoth-wende-dich-doch
+work:
+  composer: Telemann, Georg Philipp
+  title: Gott Zebaoth, wende dich doch
+  ids:
+    imslp: Gott Zebaoth, wende dich doch, TWV 1:699 (Telemann, Georg Philipp)
+  year: 1727
+formula: 0100 0000 str
+instrumentation:
+  oboe: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_Zebaoth%2C_wende_dich_doch%2C_TWV_1%3A699_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, strings, continuo'
+duration_minutes: 10

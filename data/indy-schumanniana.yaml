@@ -1,0 +1,16 @@
+id: indy-schumanniana
+work:
+  composer: Indy, Vincent d'
+  title: Schumanniana
+  ids:
+    imslp: Schumanniana, Op.30 (Indy, Vincent d')
+  year: 1887
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Schumanniana%2C_Op.30_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

@@ -1,0 +1,29 @@
+id: rossini-la-cambiale-di-matrimonio
+work:
+  composer: Rossini, Gioachino
+  title: La cambiale di matrimonio
+  ids:
+    imslp: La cambiale di matrimonio (Rossini, Gioachino)
+  year: 1810
+formula: 1221 2000 str
+instrumentation:
+  flute: 1
+  oboe: 2
+  clarinet: 2
+  bassoon: 1
+  horn: 2
+  strings: str
+  soloists:
+  - Tobias Mill (bass)
+  - Fanny (soprano)
+  - Edward Milfort (tenor)
+  - Slook (bass)
+  - Norton Mills (bass)
+  - Clarina (mezzo)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_cambiale_di_matrimonio_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Tobias Mill (bass), Fanny (soprano), Edward Milfort
+    (tenor), Slook (bass), Norton Mills (bass), Clarina (mezzo) Orchestra :flute,
+    2 oboes, 2 clarinets, bassoon, 2 horns, strings'

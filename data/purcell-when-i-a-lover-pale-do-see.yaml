@@ -1,0 +1,17 @@
+id: purcell-when-i-a-lover-pale-do-see
+work:
+  composer: Purcell, Henry
+  title: When I a Lover Pale Do See
+  ids:
+    imslp: When I a Lover Pale Do See, Z.433 (Purcell, Henry)
+  year: 1678
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/When_I_a_Lover_Pale_Do_See%2C_Z.433_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

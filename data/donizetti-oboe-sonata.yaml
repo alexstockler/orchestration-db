@@ -1,0 +1,17 @@
+id: donizetti-oboe-sonata
+work:
+  composer: Donizetti, Gaetano
+  title: Oboe Sonata
+  ids:
+    imslp: Oboe Sonata, A 504 (Donizetti, Gaetano)
+  year: 1966
+formula: 0100 0000 pf
+instrumentation:
+  oboe: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oboe_Sonata%2C_A_504_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, piano'

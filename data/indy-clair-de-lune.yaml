@@ -1,0 +1,17 @@
+id: indy-clair-de-lune
+work:
+  composer: Indy, Vincent d'
+  title: Clair de lune
+  ids:
+    imslp: Clair de lune, Op.13 (Indy, Vincent d')
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: High voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Clair_de_lune%2C_Op.13_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: High voice, Piano or Orchestra'

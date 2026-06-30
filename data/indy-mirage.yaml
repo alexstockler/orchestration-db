@@ -1,0 +1,16 @@
+id: indy-mirage
+work:
+  composer: Indy, Vincent d'
+  title: Mirage
+  ids:
+    imslp: Mirage, Op.56 (Indy, Vincent d')
+  year: 1903
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mirage%2C_Op.56_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: voice and piano'

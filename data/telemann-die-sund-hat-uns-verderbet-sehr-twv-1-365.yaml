@@ -1,0 +1,26 @@
+id: telemann-die-sund-hat-uns-verderbet-sehr-twv-1-365
+work:
+  composer: Telemann, Georg Philipp
+  title: Die Sünd hat uns verderbet sehr, TWV 1:365
+  ids:
+    imslp: Die Sünd hat uns verderbet sehr, TWV 1:365 (Telemann, Georg Philipp)
+  year: 1737
+formula: 2200 0000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass solos
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_S%C3%BCnd_hat_uns_verderbet_sehr%2C_TWV_1%3A365_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass solos; mixed chorus (SATB),
+    2 flutes, 2 oboes, strings, continuo'
+duration_minutes: 14

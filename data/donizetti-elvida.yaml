@@ -1,0 +1,16 @@
+id: donizetti-elvida
+work:
+  composer: Donizetti, Gaetano
+  title: Elvida
+  ids:
+    imslp: Elvida (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: Elvida (soprano) | Alfonso (tenor) | Amur (bass) | Zediar (contralto)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Elvida_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: Elvida (soprano), Alfonso (tenor), Amur (bass),
+    Zediar (contralto) + mixed chorus (SATB), Orchestra'

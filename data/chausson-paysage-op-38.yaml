@@ -1,0 +1,16 @@
+id: chausson-paysage-op-38
+work:
+  composer: Chausson, Ernest
+  title: Paysage, Op.38
+  ids:
+    imslp: Paysage, Op.38 (Chausson, Ernest)
+  year: 1895
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Paysage%2C_Op.38_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano solo'

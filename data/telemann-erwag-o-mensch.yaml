@@ -1,0 +1,17 @@
+id: telemann-erwag-o-mensch
+work:
+  composer: Telemann, Georg Philipp
+  title: Erwäg', O Mensch
+  ids:
+    imslp: Erwäg', O Mensch, TWV 1:487b (Telemann, Georg Philipp)
+  year: 1731
+formula: 2000 0000
+instrumentation:
+  flute: 2
+  additional_raw: voice (soprano or tenor) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erw%C3%A4g%27%2C_O_Mensch%2C_TWV_1%3A487b_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (soprano or tenor), 2 flutes, continuo'
+duration_minutes: 11

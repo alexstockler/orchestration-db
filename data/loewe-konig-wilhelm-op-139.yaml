@@ -1,0 +1,18 @@
+id: loewe-konig-wilhelm-op-139
+work:
+  composer: Loewe, Carl
+  title: König Wilhelm, Op.139
+  ids:
+    imslp: König Wilhelm, Op.139 (Loewe, Carl)
+  year: 1861
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/K%C3%B6nig_Wilhelm%2C_Op.139_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

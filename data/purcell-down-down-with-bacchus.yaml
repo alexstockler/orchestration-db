@@ -1,0 +1,16 @@
+id: purcell-down-down-with-bacchus
+work:
+  composer: Purcell, Henry
+  title: Down, Down with Bacchus
+  ids:
+    imslp: Down, Down with Bacchus, Z.247 (Purcell, Henry)
+  year: 1693
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Down%2C_Down_with_Bacchus%2C_Z.247_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

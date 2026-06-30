@@ -1,0 +1,21 @@
+id: purcell-hark-damon-hark
+work:
+  composer: Purcell, Henry
+  title: Hark, Damon, hark
+  ids:
+    imslp: Hark, Damon, hark, Z.541 (Purcell, Henry)
+  year: 1683
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hark%2C_Damon%2C_hark%2C_Z.541_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, bass, 2 recorders, 2 violins, continuo'
+duration_minutes: 6

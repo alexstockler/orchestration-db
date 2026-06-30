@@ -1,0 +1,19 @@
+id: telemann-die-bosheit-sieht-oft-die-groesten-verbrechen
+work:
+  composer: Telemann, Georg Philipp
+  title: Die Bosheit sieht oft die größesten Verbrechen
+  ids:
+    imslp: Die Bosheit sieht oft die größesten Verbrechen, TWV 1:331 (Telemann, Georg
+      Philipp)
+  year: 1732
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Bosheit_sieht_oft_die_gr%C3%B6%C3%9Festen_Verbrechen%2C_TWV_1%3A331_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'
+duration_minutes: 18

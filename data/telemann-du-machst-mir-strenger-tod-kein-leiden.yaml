@@ -1,0 +1,17 @@
+id: telemann-du-machst-mir-strenger-tod-kein-leiden
+work:
+  composer: Telemann, Georg Philipp
+  title: Du machst mir, strenger Tod, kein Leiden
+  ids:
+    imslp: Du machst mir, strenger Tod, kein Leiden, TWV 1:392 (Telemann, Georg Philipp)
+  year: 1731
+formula: 0200 0000
+instrumentation:
+  oboe: 2
+  additional_raw: voice (soprano or tenor) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Du_machst_mir%2C_strenger_Tod%2C_kein_Leiden%2C_TWV_1%3A392_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (soprano or tenor), 2 oboes, continuo'
+duration_minutes: 11

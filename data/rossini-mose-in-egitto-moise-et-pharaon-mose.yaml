@@ -1,0 +1,17 @@
+id: rossini-mose-in-egitto-moise-et-pharaon-mose
+work:
+  composer: Rossini, Gioachino
+  title: Mosè in Egitto ; Moïse et Pharaon / Mosè
+  ids:
+    imslp: Mosè in Egitto (Rossini, Gioachino)
+  year: 1822
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mos%C3%A8_in_Egitto_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

@@ -1,0 +1,17 @@
+id: donizetti-sonata-for-piano-four-hands-in-f-minor
+work:
+  composer: Donizetti, Gaetano
+  title: Sonata for Piano Four-Hands in F minor
+  ids:
+    imslp: Sonata for Piano 4 Hands in F minor ' La solita suonata', A 570 (Donizetti,
+      Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_for_Piano_4_Hands_in_F_minor_%27_La_solita_suonata%27%2C_A_570_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'
+duration_minutes: 7

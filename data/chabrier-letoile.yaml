@@ -1,0 +1,16 @@
+id: chabrier-letoile
+work:
+  composer: Chabrier, Emmanuel
+  title: L’étoile
+  ids:
+    imslp: L'étoile (Chabrier, Emmanuel)
+  year: 1877
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27%C3%A9toile_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

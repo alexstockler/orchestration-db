@@ -1,0 +1,16 @@
+id: rameau-l-enlevement-d-adonis
+work:
+  composer: Rameau, Jean-Philippe
+  title: L'enlèvement d'Adonis
+  ids:
+    imslp: L'enlèvement d'Adonis (Rameau, Jean-Philippe)
+  year: 1757
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27enl%C3%A8vement_d%27Adonis_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

@@ -1,0 +1,18 @@
+id: cherubini-o-salutaris-hostia-e-flat-major
+work:
+  composer: Cherubini, Luigi
+  title: O salutaris hostia E-flat major
+  ids:
+    imslp: O salutaris hostia in E-flat major (Cherubini, Luigi)
+  year: 1816
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_salutaris_hostia_in_E-flat_major_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, strings'
+duration_minutes: 5

@@ -1,0 +1,19 @@
+id: telemann-erwachet-entreit-euch-den-sundlichen-traumen
+work:
+  composer: Telemann, Georg Philipp
+  title: Erwachet, entreißt euch den sündlichen Träumen
+  ids:
+    imslp: Erwachet, entreißt euch den sündlichen Träumen, TWV 1:480 (Telemann, Georg
+      Philipp)
+  year: 1725
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+  additional_raw: high voice | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erwachet%2C_entrei%C3%9Ft_euch_den_s%C3%BCndlichen_Tr%C3%A4umen%2C_TWV_1%3A480_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: high voice, violin, continuo'
+duration_minutes: 10

@@ -1,0 +1,21 @@
+id: telemann-hast-du-denn-jesu-dein-angesicht-twv-1-718
+work:
+  composer: Telemann, Georg Philipp
+  title: Hast du denn, Jesu, dein Angesicht, TWV 1:718
+  ids:
+    imslp: Hast du denn, Jesu, dein Angesicht, TWV 1:718 (Telemann, Georg Philipp)
+  year: 1736
+formula: 2200 0000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  strings: str
+  chorus_raw: mixed chorus
+  additional_raw: SATB solos | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hast_du_denn%2C_Jesu%2C_dein_Angesicht%2C_TWV_1%3A718_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB solos, mixed chorus (SATB), 2 flutes (or recorders),
+    2 oboes, strings, continuo'
+duration_minutes: 15

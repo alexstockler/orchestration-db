@@ -1,0 +1,19 @@
+id: telemann-das-wetter-ruhrt-mit-strahl-und-blitzen
+work:
+  composer: Telemann, Georg Philipp
+  title: Das Wetter rührt mit Strahl und Blitzen
+  ids:
+    imslp: Das Wetter rührt mit Strahl und Blitzen, TWV 1:199 (Telemann, Georg Philipp)
+  year: 1725
+formula: 0100 0000
+instrumentation:
+  oboe: 1
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Wetter_r%C3%BChrt_mit_Strahl_und_Blitzen%2C_TWV_1%3A199_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, oboe, continuo'
+duration_minutes: 9

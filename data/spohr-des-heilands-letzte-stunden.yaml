@@ -1,0 +1,17 @@
+id: spohr-des-heilands-letzte-stunden
+work:
+  composer: Spohr, Louis
+  title: Des Heilands letzte Stunden
+  ids:
+    imslp: Des Heilands letzte Stunden, WoO 62 (Spohr, Louis)
+  year: 1834
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Des_Heilands_letzte_Stunden%2C_WoO_62_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

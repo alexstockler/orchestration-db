@@ -1,0 +1,21 @@
+id: telemann-gedenket-an-den-der-ein-solches-widersprechen
+work:
+  composer: Telemann, Georg Philipp
+  title: Gedenket an den, der ein solches Widersprechen
+  ids:
+    imslp: Gedenket an den, der ein solches Widersprechen, TWV 1:585 (Telemann, Georg
+      Philipp)
+  year: 1727
+formula: 0200 0000 str
+instrumentation:
+  oboe:
+  - optional: true
+  - optional: true
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gedenket_an_den%2C_der_ein_solches_Widersprechen%2C_TWV_1%3A585_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes (ad lib), strings, continuo'
+duration_minutes: 10

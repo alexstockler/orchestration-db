@@ -1,0 +1,16 @@
+id: indy-petite-sonate-dans-la-forme-classique
+work:
+  composer: Indy, Vincent d'
+  title: Petite sonate dans la forme classique
+  ids:
+    imslp: Petite Sonate dans la Forme Classique, Op.9 (Indy, Vincent d')
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Petite_Sonate_dans_la_Forme_Classique%2C_Op.9_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

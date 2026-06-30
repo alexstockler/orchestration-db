@@ -1,0 +1,17 @@
+id: donizetti-isabella-ormai-mi-rendi
+work:
+  composer: Donizetti, Gaetano
+  title: Isabella, ormai mi rendi
+  ids:
+    imslp: Isabella, ormai mi rendi, A 112 (Donizetti, Gaetano)
+  year: 1823
+formula: ''
+instrumentation:
+  soloists:
+  - tenors
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Isabella%2C_ormai_mi_rendi%2C_A_112_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 tenors, bass, orchestra'

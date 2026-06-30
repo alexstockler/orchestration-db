@@ -1,0 +1,27 @@
+id: telemann-halleluja-lobet-den-namen-des-herrn
+work:
+  composer: Telemann, Georg Philipp
+  title: Halleluja! Lobet den Namen des Herrn
+  ids:
+    imslp: Halleluja! Lobet den Namen des Herrn, TWV 1:713 (Telemann, Georg Philipp)
+  year: 1744
+formula: 0000 0300 tmp
+instrumentation:
+  trumpet: 3
+  percussion:
+    timpani: 1
+  soloists:
+  - soprano
+  - alto
+  - bass (optional)
+  - mixed chorus (see below, Comments)
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Halleluja%21_Lobet_den_Namen_des_Herrn%2C_TWV_1%3A713_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, alto, bass (optional), mixed chorus (see
+    below, Comments), Orchestra: 3 trumpets, timpani, 2 violins, continuo'
+duration_minutes: 18

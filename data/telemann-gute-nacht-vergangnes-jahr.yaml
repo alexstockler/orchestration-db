@@ -1,0 +1,21 @@
+id: telemann-gute-nacht-vergangnes-jahr
+work:
+  composer: Telemann, Georg Philipp
+  title: Gute Nacht, vergangnes Jahr
+  ids:
+    imslp: Gute Nacht, vergangnes Jahr, TWV 1:704 (Telemann, Georg Philipp)
+  year: 1736
+formula: 0200 0200 tmp str
+instrumentation:
+  oboe: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gute_Nacht%2C_vergangnes_Jahr%2C_TWV_1%3A704_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 trumpets, timpani, strings, continuo'
+duration_minutes: 15

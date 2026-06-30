@@ -1,0 +1,16 @@
+id: rossini-en-medio-a-mis-colores
+work:
+  composer: Rossini, Gioachino
+  title: En medio a mis colores
+  ids:
+    imslp: Canzonetta spagnuola (Rossini, Gioachino)
+  year: 1821
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canzonetta_spagnuola_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voice and piano'

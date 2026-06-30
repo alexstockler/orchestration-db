@@ -1,0 +1,17 @@
+id: purcell-i-envy-not-a-monarch-s-fate
+work:
+  composer: Purcell, Henry
+  title: I Envy Not a Monarch's Fate
+  ids:
+    imslp: I Envy Not a Monarch's Fate, Z.376 (Purcell, Henry)
+  year: 1693
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/I_Envy_Not_a_Monarch%27s_Fate%2C_Z.376_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

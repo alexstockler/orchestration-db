@@ -1,0 +1,17 @@
+id: rossini-messa-di-gloria
+work:
+  composer: Rossini, Gioachino
+  title: Messa di Gloria
+  ids:
+    imslp: Messa di Gloria (Rossini, Gioachino)
+  year: 1820
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Messa_di_Gloria_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

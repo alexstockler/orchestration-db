@@ -1,0 +1,16 @@
+id: chabrier-briseis
+work:
+  composer: Chabrier, Emmanuel
+  title: Briséïs
+  ids:
+    imslp: Briséïs (Chabrier, Emmanuel)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bris%C3%A9%C3%AFs_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

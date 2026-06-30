@@ -1,0 +1,14 @@
+id: donizetti-credo-breve
+work:
+  composer: Donizetti, Gaetano
+  title: Credo breve
+  ids:
+    imslp: Credo breve (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  additional_raw: unknown
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Credo_breve_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: unknown'

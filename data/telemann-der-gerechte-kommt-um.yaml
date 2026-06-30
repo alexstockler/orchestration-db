@@ -1,0 +1,18 @@
+id: telemann-der-gerechte-kommt-um
+work:
+  composer: Telemann, Georg Philipp
+  title: Der Gerechte kommt um
+  ids:
+    imslp: Der Gerechte kommt um, TWV 1:245 (Telemann, Georg Philipp)
+  year: 1717
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Gerechte_kommt_um%2C_TWV_1%3A245_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 recorders, 2 oboes, strings, continuo'
+duration_minutes: 11

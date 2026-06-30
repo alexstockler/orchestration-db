@@ -1,0 +1,18 @@
+id: goldmark-7-lieder
+work:
+  composer: Goldmark, Carl
+  title: 7 Lieder
+  ids:
+    imslp: 7 Lieder, Op.32 (Goldmark, Carl)
+  year: 1879
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Lieder%2C_Op.32_%28Goldmark%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

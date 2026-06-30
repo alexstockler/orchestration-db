@@ -1,0 +1,16 @@
+id: purcell-new-minuet
+work:
+  composer: Purcell, Henry
+  title: New Minuet
+  ids:
+    imslp: New Minuet, ZT 689 (Purcell, Henry)
+  year: 1689
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/New_Minuet%2C_ZT_689_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

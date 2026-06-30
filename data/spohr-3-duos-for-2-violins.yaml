@@ -1,0 +1,15 @@
+id: spohr-3-duos-for-2-violins
+work:
+  composer: Spohr, Louis
+  title: 3 Duos for 2 Violins
+  ids:
+    imslp: 3 Duos for 2 Violins, Op.39 (Spohr, Louis)
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Duos_for_2_Violins%2C_Op.39_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins'

@@ -1,0 +1,15 @@
+id: taneyev-a-cappella
+work:
+  composer: Taneyev, Sergey
+  title: Два Хора a cappella
+  ids:
+    imslp: 2 Choruses, Op.15 (Taneyev, Sergey)
+  year: 1900
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Choruses%2C_Op.15_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

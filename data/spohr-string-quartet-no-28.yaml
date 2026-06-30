@@ -1,0 +1,18 @@
+id: spohr-string-quartet-no-28
+work:
+  composer: Spohr, Louis
+  title: String Quartet No.28
+  ids:
+    imslp: String Quartet No.28, Op.84 No.2 (Spohr, Louis)
+  year: 1831
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.28%2C_Op.84_No.2_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

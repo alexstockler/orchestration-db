@@ -1,0 +1,16 @@
+id: indy-la-legende-de-saint-christophe
+work:
+  composer: Indy, Vincent d'
+  title: La légende de Saint-Christophe
+  ids:
+    imslp: La légende de Saint-Christophe, Op.67 (Indy, Vincent d')
+  year: 1908
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_l%C3%A9gende_de_Saint-Christophe%2C_Op.67_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

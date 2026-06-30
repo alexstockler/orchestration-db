@@ -1,0 +1,18 @@
+id: spohr-der-zweikampf-mit-der-geliebten
+work:
+  composer: Spohr, Louis
+  title: Der Zweikampf mit der Geliebten
+  ids:
+    imslp: Der Zweikampf mit der Geliebten, WoO 50 (Spohr, Louis)
+  year: 1810
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - tenors
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Zweikampf_mit_der_Geliebten%2C_WoO_50_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 Sopranos, 3 tenors, 3 bass + orchestra'

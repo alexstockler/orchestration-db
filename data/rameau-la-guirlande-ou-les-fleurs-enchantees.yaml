@@ -1,0 +1,17 @@
+id: rameau-la-guirlande-ou-les-fleurs-enchantees
+work:
+  composer: Rameau, Jean-Philippe
+  title: La Guirlande ou les Fleurs enchantées
+  ids:
+    imslp: La Guirlande, RCT 42 (Rameau, Jean-Philippe)
+  year: 1751
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_Guirlande%2C_RCT_42_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

@@ -1,0 +1,17 @@
+id: donizetti-flute-sonata
+work:
+  composer: Donizetti, Gaetano
+  title: Flute Sonata
+  ids:
+    imslp: Flute Sonata, A 503 (Donizetti, Gaetano)
+  year: 1819
+formula: 1000 0000 pf
+instrumentation:
+  flute: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flute_Sonata%2C_A_503_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, piano'

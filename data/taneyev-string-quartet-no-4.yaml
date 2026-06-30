@@ -1,0 +1,19 @@
+id: taneyev-string-quartet-no-4
+work:
+  composer: Taneyev, Sergey
+  title: String Quartet No.4
+  ids:
+    imslp: String Quartet No.4, Op.11 (Taneyev, Sergey)
+  year: 1898
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.4%2C_Op.11_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 37

@@ -1,0 +1,15 @@
+id: cherubini-mass-for-the-coronation-of-charles-x
+work:
+  composer: Cherubini, Luigi
+  title: Mass for the Coronation of Charles X
+  ids:
+    imslp: Mass for the Coronation of Charles X (Cherubini, Luigi)
+  year: 1825
+formula: ''
+instrumentation:
+  additional_raw: 3-part chorus (STB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mass_for_the_Coronation_of_Charles_X_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 3-part chorus (STB), orchestra'

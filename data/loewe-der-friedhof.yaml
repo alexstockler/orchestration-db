@@ -1,0 +1,18 @@
+id: loewe-der-friedhof
+work:
+  composer: Loewe, Carl
+  title: Der Friedhof
+  ids:
+    imslp: Der Friedhof (Loewe, Carl)
+  year: 1824
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Friedhof_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

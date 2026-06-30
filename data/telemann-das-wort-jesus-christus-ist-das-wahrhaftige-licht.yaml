@@ -1,0 +1,26 @@
+id: telemann-das-wort-jesus-christus-ist-das-wahrhaftige-licht
+work:
+  composer: Telemann, Georg Philipp
+  title: Das Wort Jesus Christus ist das wahrhaftige Licht
+  ids:
+    imslp: Das Wort Jesus Christus ist das wahrhaftige Licht, TWV 1:200 (Telemann,
+      Georg Philipp)
+  year: 1717
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Wort_Jesus_Christus_ist_das_wahrhaftige_Licht%2C_TWV_1%3A200_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, alto, tenor, bass; mixed chorus (SATB),
+    Orchestra: 2 oboes, strings, continuo'
+duration_minutes: 18

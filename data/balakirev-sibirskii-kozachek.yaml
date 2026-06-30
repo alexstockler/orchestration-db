@@ -1,0 +1,15 @@
+id: balakirev-sibirskii-kozachek
+work:
+  composer: Balakirev, Mily
+  title: Sibirskii kozachek
+  ids:
+    imslp: Sibirskii kozachek (Balakirev, Mily)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sibirskii_kozachek_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

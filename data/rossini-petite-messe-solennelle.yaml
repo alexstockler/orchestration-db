@@ -1,0 +1,16 @@
+id: rossini-petite-messe-solennelle
+work:
+  composer: Rossini, Gioachino
+  title: Petite messe solennelle
+  ids:
+    imslp: Petite messe solennelle (Rossini, Gioachino)
+  year: 1863
+formula: ''
+instrumentation:
+  additional_raw: the same vocalists, and orchestra, in orchestration of 1866-67)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Petite_messe_solennelle_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass soloists, chorus, harmonium
+    and 2 pianos (or: the same vocalists, and orchestra, in orchestration of 1866-67)'

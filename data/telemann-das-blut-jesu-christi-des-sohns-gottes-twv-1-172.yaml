@@ -1,0 +1,27 @@
+id: telemann-das-blut-jesu-christi-des-sohns-gottes-twv-1-172
+work:
+  composer: Telemann, Georg Philipp
+  title: Das Blut Jesu Christi, des Sohns Gottes, TWV 1:172
+  ids:
+    imslp: Das Blut Jesu Christi, des Sohns Gottes, TWV 1:172 (Telemann, Georg Philipp)
+  year: 1721
+formula: 1200 1000 str
+instrumentation:
+  flute: 1
+  oboe: 2
+  horn: 1
+  strings: str
+  soloists:
+  - sopranos
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Blut_Jesu_Christi%2C_des_Sohns_Gottes%2C_TWV_1%3A172_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, alto, tenor, bass, mixed chorus (SATB), flute,
+    2 recorders, 2 oboes, horn, strings, continuo'
+duration_minutes: 18

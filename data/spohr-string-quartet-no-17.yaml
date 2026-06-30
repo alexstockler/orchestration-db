@@ -1,0 +1,18 @@
+id: spohr-string-quartet-no-17
+work:
+  composer: Spohr, Louis
+  title: String Quartet No.17
+  ids:
+    imslp: String Quartet No.17, Op.58 No.3 (Spohr, Louis)
+  year: 1821
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.17%2C_Op.58_No.3_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

@@ -1,0 +1,16 @@
+id: telemann-allein-gott-in-der-hoh-sey-ehr-alio-modo
+work:
+  composer: Telemann, Georg Philipp
+  title: Allein Gott in der höh sey ehr (Alio modo)
+  ids:
+    imslp: Allein Gott in der Höh sei Ehr, TWV 31:4 (Telemann, Georg Philipp)
+  year: 1735
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allein_Gott_in_der_H%C3%B6h_sei_Ehr%2C_TWV_31%3A4_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

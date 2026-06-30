@@ -1,0 +1,16 @@
+id: arensky-children-s-suite
+work:
+  composer: Arensky, Anton
+  title: Children's Suite
+  ids:
+    imslp: Children's Suite, Op.65 (Arensky, Anton)
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Children%27s_Suite%2C_Op.65_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 pianos'

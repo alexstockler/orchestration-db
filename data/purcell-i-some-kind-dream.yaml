@@ -1,0 +1,18 @@
+id: purcell-i-some-kind-dream
+work:
+  composer: Purcell, Henry
+  title: I Some Kind Dream
+  ids:
+    imslp: In Some Kind Dream, Z.497 (Purcell, Henry)
+  year: 1687
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_Some_Kind_Dream%2C_Z.497_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'

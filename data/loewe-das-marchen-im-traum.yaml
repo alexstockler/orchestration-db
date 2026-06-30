@@ -1,0 +1,22 @@
+id: loewe-das-marchen-im-traum
+work:
+  composer: Loewe, Carl
+  title: Das Märchen im Traum
+  ids:
+    imslp: Das Märchen im Traum (Loewe, Carl)
+formula: 1101 0030 tmp str
+instrumentation:
+  flute: 1
+  oboe: 1
+  bassoon: 1
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: clarinets in A | horns in F and D | trumpets in D
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_M%C3%A4rchen_im_Traum_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: flutes, oboes, clarinets in A, bassoons, horns in F and
+    D, trumpets in D, timpani, 3 trombones, strings'

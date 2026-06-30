@@ -1,0 +1,18 @@
+id: loewe-4-fabellieder
+work:
+  composer: Loewe, Carl
+  title: 4 Fabellieder
+  ids:
+    imslp: 4 Fabellieder, Op.64 (Loewe, Carl)
+  year: 1838
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Fabellieder%2C_Op.64_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

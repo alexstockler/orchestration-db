@@ -1,0 +1,15 @@
+id: purcell-fantasia-in-f-major
+work:
+  composer: Purcell, Henry
+  title: Fantasia in F major
+  ids:
+    imslp: Fantasia in F major, Z.737 (Purcell, Henry)
+  year: 1680
+formula: ''
+instrumentation:
+  additional_raw: 4 viols or other stringed instruments
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_in_F_major%2C_Z.737_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 viols or other stringed instruments'

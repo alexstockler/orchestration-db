@@ -1,0 +1,21 @@
+id: arensky-piano-quintet
+work:
+  composer: Arensky, Anton
+  title: Piano Quintet
+  ids:
+    imslp: Piano Quintet, Op.51 (Arensky, Anton)
+  year: 1900
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quintet%2C_Op.51_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello, piano'
+duration_minutes: 23

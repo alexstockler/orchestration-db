@@ -1,0 +1,17 @@
+id: telemann-gelobet-sei-der-herr-twv-1-601
+work:
+  composer: Telemann, Georg Philipp
+  title: Gelobet sei der Herr, TWV 1:601
+  ids:
+    imslp: Gelobet sei der Herr, TWV 1:601 (Telemann, Georg Philipp)
+  year: 1727
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gelobet_sei_der_Herr%2C_TWV_1%3A601_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra, continuo'

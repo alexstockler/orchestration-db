@@ -1,0 +1,16 @@
+id: purcell-a-song-tune
+work:
+  composer: Purcell, Henry
+  title: A Song Tune
+  ids:
+    imslp: A Song Tune, ZT 695 (Purcell, Henry)
+  year: 1687
+formula: ''
+instrumentation:
+  additional_raw: Keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_Song_Tune%2C_ZT_695_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: Keyboard'
+duration_minutes: 1

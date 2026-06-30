@@ -1,0 +1,16 @@
+id: purcell-under-a-green-elm
+work:
+  composer: Purcell, Henry
+  title: Under a Green Elm
+  ids:
+    imslp: Under a Green Elm, Z.285 (Purcell, Henry)
+  year: 1686
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Under_a_Green_Elm%2C_Z.285_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices'

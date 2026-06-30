@@ -1,0 +1,18 @@
+id: donizetti-sacrificium
+work:
+  composer: Donizetti, Gaetano
+  title: Sacrificium
+  ids:
+    imslp: Sacrificium, A 706 (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sacrificium%2C_A_706_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, violin, orchestra'
+duration_minutes: 12

@@ -1,0 +1,17 @@
+id: loewe-3-balladen
+work:
+  composer: Loewe, Carl
+  title: 3 Balladen
+  ids:
+    imslp: 3 Balladen, Op.2 (Loewe, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Balladen%2C_Op.2_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

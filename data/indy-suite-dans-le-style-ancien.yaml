@@ -1,0 +1,24 @@
+id: indy-suite-dans-le-style-ancien
+work:
+  composer: Indy, Vincent d'
+  title: Suite dans le style ancien
+  ids:
+    imslp: Suite dans le style ancien, Op.24 (Indy, Vincent d')
+  year: 1886
+formula: 2000 0100
+instrumentation:
+  flute: 2
+  trumpet: 1
+  soloists:
+  - bass
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_dans_le_style_ancien%2C_Op.24_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, trumpet (D), 2 violins, viola, cello, bass (ad
+    lib.)'
+duration_minutes: 15

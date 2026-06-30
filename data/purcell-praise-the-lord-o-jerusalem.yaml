@@ -1,0 +1,17 @@
+id: purcell-praise-the-lord-o-jerusalem
+work:
+  composer: Purcell, Henry
+  title: Praise the Lord, O Jerusalem
+  ids:
+    imslp: Praise the Lord, O Jerusalem, Z.46 (Purcell, Henry)
+  year: 1689
+formula: str
+instrumentation:
+  strings: str
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Praise_the_Lord%2C_O_Jerusalem%2C_Z.46_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus, strings, continuo'

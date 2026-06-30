@@ -1,0 +1,16 @@
+id: purcell-god-save-our-sovereign-charles
+work:
+  composer: Purcell, Henry
+  title: God Save Our Sovereign Charles
+  ids:
+    imslp: God Save Our Sovereign Charles, Z.250 (Purcell, Henry)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/God_Save_Our_Sovereign_Charles%2C_Z.250_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

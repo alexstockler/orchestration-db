@@ -1,0 +1,58 @@
+id: donizetti-linda-di-chamounix
+work:
+  composer: Donizetti, Gaetano
+  title: Linda di Chamounix
+  ids:
+    imslp: Linda di Chamounix (Donizetti, Gaetano)
+  year: 1842
+formula: 3[1.2/pic.pic] 2 7 4 6 8[1.2.3.4.5.6.flhn.flhn] 7 0 tmp hp
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  - instrument: piccolo
+  oboe: 2
+  clarinet: 7
+  bassoon: 4
+  horn: 6
+  trumpet:
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: flugelhorn
+  - instrument: flugelhorn
+  trombone: 7
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - bass drum
+    - bells
+    - snare drum
+    - cymbals
+  harp: 1
+  soloists:
+  - Linda (soprano)
+  - Carlo (tenor)
+  - Pierotto (contralto)
+  - Antonio (baritone)
+  - Marquis de Boisfleury (baritone)
+  - Prefect (bass)
+  - Maddalena (soprano)
+  - Intendant (tenor) Mixed Chorus (SATB, children's chorus)
+  additional_raw: strings Onstage Band | 2 tubas? (bassi)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Linda_di_Chamounix_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Linda (soprano), Carlo (tenor), Pierotto (contralto),
+    Antonio (baritone), Marquis de Boisfleury (baritone), Prefect (bass), Maddalena
+    (soprano), Intendant (tenor) Mixed Chorus (SATB + children''s chorus), Orchestra
+    :2 flutes (2nd also piccolo), 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets,
+    4 trombones, timpani, triangle, bass drum, bells, harp, strings Onstage Band :piccolo,
+    5 clarinets (1 in A, 1 in E, 3 in B), 2 bassoons,, 2 horns, 4 trumpets, 2 flugelhorns,
+    3 trombones, 2 tubas? (bassi),, snare drum, bass drum, cymbals'

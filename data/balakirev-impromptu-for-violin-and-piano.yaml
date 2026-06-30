@@ -1,0 +1,17 @@
+id: balakirev-impromptu-for-violin-and-piano
+work:
+  composer: Balakirev, Mily
+  title: Impromptu for Violin and Piano
+  ids:
+    imslp: Impromptu for Violin and Piano (Balakirev, Mily)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Impromptu_for_Violin_and_Piano_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

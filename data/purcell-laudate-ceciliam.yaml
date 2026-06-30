@@ -1,0 +1,22 @@
+id: purcell-laudate-ceciliam
+work:
+  composer: Purcell, Henry
+  title: Laudate Ceciliam
+  ids:
+    imslp: Laudate Ceciliam, Z.329 (Purcell, Henry)
+  year: 1683
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  - tenor
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Laudate_Ceciliam%2C_Z.329_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, tenor, bass, 2 violins, continuo'
+duration_minutes: 10

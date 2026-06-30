@@ -1,0 +1,20 @@
+id: telemann-also-hoch-und-also-sehr
+work:
+  composer: Telemann, Georg Philipp
+  title: Also hoch und also sehr
+  ids:
+    imslp: Also hoch und also sehr, TWV 1:87 (Telemann, Georg Philipp)
+  year: 1749
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Also_hoch_und_also_sehr%2C_TWV_1%3A87_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano; mixed chorus (SATB), Orchestra: strings,
+    continuo'

@@ -1,0 +1,16 @@
+id: telemann-12-fantasias-for-violin-without-bass
+work:
+  composer: Telemann, Georg Philipp
+  title: 12 Fantasias for Violin without Bass
+  ids:
+    imslp: 12 Fantasias for Violin without Bass, TWV 40:14-25 (Telemann, Georg Philipp)
+  year: 1735
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Fantasias_for_Violin_without_Bass%2C_TWV_40%3A14-25_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: violin'

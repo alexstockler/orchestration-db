@@ -1,0 +1,19 @@
+id: telemann-halleluja-er-lebt
+work:
+  composer: Telemann, Georg Philipp
+  title: Halleluja! Er lebt
+  ids:
+    imslp: Halleluja! Er lebt, TWV 1:712 (Telemann, Georg Philipp)
+  year: 1737
+formula: 0200 2000 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Halleluja%21_Er_lebt%2C_TWV_1%3A712_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 horns, strings, continuo'
+duration_minutes: 15

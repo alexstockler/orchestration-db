@@ -1,0 +1,17 @@
+id: cherubini-solo-de-cor
+work:
+  composer: Cherubini, Luigi
+  title: Solo de cor
+  ids:
+    imslp: Solo for Horn (Cherubini, Luigi)
+  year: 1825
+formula: 0000 1000
+instrumentation:
+  horn: 1
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Solo_for_Horn_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: horn, cello'

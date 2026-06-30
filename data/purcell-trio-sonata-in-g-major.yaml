@@ -1,0 +1,17 @@
+id: purcell-trio-sonata-in-g-major
+work:
+  composer: Purcell, Henry
+  title: Trio Sonata in G major
+  ids:
+    imslp: Trio Sonata in G major, Z.797 (Purcell, Henry)
+  year: 1680
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: bass viol | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_G_major%2C_Z.797_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, bass viol, continuo'

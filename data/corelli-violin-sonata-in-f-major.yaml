@@ -1,0 +1,17 @@
+id: corelli-violin-sonata-in-f-major
+work:
+  composer: Corelli, Arcangelo
+  title: Violin Sonata in F major
+  ids:
+    imslp: Violin Sonata in F major, Op.5 No.4 (Corelli, Arcangelo)
+  year: 1700
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_in_F_major%2C_Op.5_No.4_%28Corelli%2C_Arcangelo%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, continuo'

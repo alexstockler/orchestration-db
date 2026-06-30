@@ -1,0 +1,17 @@
+id: loewe-3-anakreontische-lieder
+work:
+  composer: Loewe, Carl
+  title: 3 Anakreontische Lieder
+  ids:
+    imslp: 3 Anakreontische Lieder (Loewe, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Anakreontische_Lieder_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,15 @@
+id: arensky-symphony-no-2
+work:
+  composer: Arensky, Anton
+  title: Symphony No.2
+  ids:
+    imslp: Symphony No.2, Op.22 (Arensky, Anton)
+  year: 1889
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.2%2C_Op.22_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra'
+duration_minutes: 25

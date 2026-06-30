@@ -1,0 +1,17 @@
+id: purcell-the-female-virtuosos
+work:
+  composer: Purcell, Henry
+  title: The Female Virtuosos
+  ids:
+    imslp: The Female Virtuosos, Z.596 (Purcell, Henry)
+  year: 1693
+formula: ''
+instrumentation:
+  soloists:
+  - 2 voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Female_Virtuosos%2C_Z.596_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, continuo'

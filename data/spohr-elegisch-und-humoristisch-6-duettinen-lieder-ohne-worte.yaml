@@ -1,0 +1,17 @@
+id: spohr-elegisch-und-humoristisch-6-duettinen-lieder-ohne-worte
+work:
+  composer: Spohr, Louis
+  title: Elegisch und humoristisch. 6 Duettinen (Lieder ohne Worte)
+  ids:
+    imslp: 6 Duettini, Op.127 (Spohr, Louis)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Duettini%2C_Op.127_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

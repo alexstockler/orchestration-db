@@ -1,0 +1,40 @@
+id: indy-fervaal
+work:
+  composer: Indy, Vincent d'
+  title: Fervaal
+  ids:
+    imslp: Fervaal, Op.40 (Indy, Vincent d')
+  year: 1889
+formula: 0 0 4[1.2.bcl.bcl] 4 0041 str
+instrumentation:
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  - instrument: bass_clarinet
+  bassoon: 4
+  trombone: 4
+  tuba: 1
+  percussion:
+    instruments:
+    - bass drum
+    - triangle
+    - cymbals
+    - gong
+  strings: str
+  additional_raw: 4 offstage saxophones (soprano, 2 altos, tenor) 4 horns | 8 bugles
+    and saxhorns (2 small bugles, 2 bugles, 2 alto saxhorns, 2 baritone saxhorns)
+    | cornetto timpani | 2 pitched tam-tams harps (in 2 parts)
+  offstage:
+  - 4 trumpet
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fervaal%2C_Op.40_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 flutes (3 and 4 also piccolo), 3 oboes (3 also English
+    horn) :2 clarinets, 2 bass clarinets (B/A; 2nd also Contrabass Clarinet in B)
+    :4 bassoons :4 offstage saxophones (soprano, 2 altos, tenor) 4 horns, 4 trumpets
+    (3 and 4 offstage in Scene III of Act 2) :8 bugles and saxhorns (2 small bugles,
+    2 bugles, 2 alto saxhorns, 2 baritone saxhorns) :4 tenor trombones, tuba, cornetto
+    timpani, bass drum, triangle, cymbals, gong, 2 pitched tam-tams harps (in 2 parts),
+    strings'

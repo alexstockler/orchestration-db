@@ -1,0 +1,16 @@
+id: balakirev-mazurka-no-4
+work:
+  composer: Balakirev, Mily
+  title: Mazurka No.4
+  ids:
+    imslp: Mazurka No.4 (Balakirev, Mily)
+  year: 1884
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mazurka_No.4_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

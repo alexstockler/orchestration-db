@@ -1,0 +1,23 @@
+id: telemann-der-geist-giebt-zeugnis
+work:
+  composer: Telemann, Georg Philipp
+  title: Der Geist giebt Zeugnis
+  ids:
+    imslp: Der Geist gibt Zeugnis, TWV 1:243 (Telemann, Georg Philipp)
+  year: 1749
+formula: 0000 0200 tmp str
+instrumentation:
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - alto
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Geist_gibt_Zeugnis%2C_TWV_1%3A243_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: alto; mixed chorus (SATB), Orchestra: 2 trumpets,
+    timpani, strings, continuo'

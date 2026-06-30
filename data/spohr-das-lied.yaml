@@ -1,0 +1,15 @@
+id: spohr-das-lied
+work:
+  composer: Spohr, Louis
+  title: Das Lied
+  ids:
+    imslp: Wie ein stolzer Adler (Spohr, Louis)
+  year: 1867
+formula: ''
+instrumentation:
+  additional_raw: Men's Chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Wie_ein_stolzer_Adler_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: Men''s Chorus'

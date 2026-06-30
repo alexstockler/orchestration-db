@@ -1,0 +1,19 @@
+id: purcell-the-maid-s-last-prayer
+work:
+  composer: Purcell, Henry
+  title: The Maid's Last Prayer
+  ids:
+    imslp: The Maid's Last Prayer, Z.601 (Purcell, Henry)
+  year: 1693
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Maid%27s_Last_Prayer%2C_Z.601_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, continuo'
+duration_minutes: 10

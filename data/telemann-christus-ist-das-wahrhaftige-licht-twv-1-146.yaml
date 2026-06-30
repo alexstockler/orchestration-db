@@ -1,0 +1,24 @@
+id: telemann-christus-ist-das-wahrhaftige-licht-twv-1-146
+work:
+  composer: Telemann, Georg Philipp
+  title: Christus ist das wahrhaftige Licht, TWV 1:146
+  ids:
+    imslp: Christus ist das wahrhaftige Licht, TWV 1:146 (Telemann, Georg Philipp)
+  year: 1719
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - bass solos
+  chorus_raw: mixed chorus
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Christus_ist_das_wahrhaftige_Licht%2C_TWV_1%3A146_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, bass solos; mixed chorus (SATB), 2 recorders,
+    2 oboes, strings, continuo'
+duration_minutes: 8

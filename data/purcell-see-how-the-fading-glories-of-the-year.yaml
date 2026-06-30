@@ -1,0 +1,17 @@
+id: purcell-see-how-the-fading-glories-of-the-year
+work:
+  composer: Purcell, Henry
+  title: See How the Fading Glories of the Year
+  ids:
+    imslp: See How the Fading Glories of the Year, Z.470 (Purcell, Henry)
+  year: 1689
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/See_How_the_Fading_Glories_of_the_Year%2C_Z.470_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

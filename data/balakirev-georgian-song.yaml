@@ -1,0 +1,16 @@
+id: balakirev-georgian-song
+work:
+  composer: Balakirev, Mily
+  title: Georgian Song
+  ids:
+    imslp: Georgian Song (Balakirev, Mily)
+  year: 1863
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Georgian_Song_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, orchestra'

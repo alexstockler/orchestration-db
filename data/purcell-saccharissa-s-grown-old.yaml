@@ -1,0 +1,18 @@
+id: purcell-saccharissa-s-grown-old
+work:
+  composer: Purcell, Henry
+  title: Saccharissa's Grown Old
+  ids:
+    imslp: Saccharissa's Grown Old, Z.507 (Purcell, Henry)
+  year: 1686
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Saccharissa%27s_Grown_Old%2C_Z.507_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'

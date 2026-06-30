@@ -1,0 +1,18 @@
+id: loewe-fac-me-cruce
+work:
+  composer: Loewe, Carl
+  title: Fac me cruce
+  ids:
+    imslp: Fac me cruce (Loewe, Carl)
+  year: 1843
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fac_me_cruce_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

@@ -1,0 +1,16 @@
+id: donizetti-la-lontananza
+work:
+  composer: Donizetti, Gaetano
+  title: La lontananza
+  ids:
+    imslp: La lontananza, A 559 (Donizetti, Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_lontananza%2C_A_559_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'
+duration_minutes: 5

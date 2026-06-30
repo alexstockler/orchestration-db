@@ -1,0 +1,17 @@
+id: donizetti-un-capriccio-in-sinfonia
+work:
+  composer: Donizetti, Gaetano
+  title: Un capriccio in sinfonia
+  ids:
+    imslp: Un capriccio in sinfonia, In.681 (Donizetti, Gaetano)
+  year: 1817
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Un_capriccio_in_sinfonia%2C_In.681_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 6

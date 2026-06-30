@@ -1,0 +1,16 @@
+id: arensky-6-romances
+work:
+  composer: Arensky, Anton
+  title: 6 Romances
+  ids:
+    imslp: 6 Romances, Op.27 (Arensky, Anton)
+  year: 1891
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Romances%2C_Op.27_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

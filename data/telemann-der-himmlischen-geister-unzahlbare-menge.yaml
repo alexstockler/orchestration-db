@@ -1,0 +1,21 @@
+id: telemann-der-himmlischen-geister-unzahlbare-menge
+work:
+  composer: Telemann, Georg Philipp
+  title: Der himmlischen Geister unzählbare Menge
+  ids:
+    imslp: Der himmlischen Geister unzählbare Menge, TWV 1:298 (Telemann, Georg Philipp)
+  year: 1731
+formula: 0000 0100
+instrumentation:
+  trumpet: 1
+  soloists:
+  - bass
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_himmlischen_Geister_unz%C3%A4hlbare_Menge%2C_TWV_1%3A298_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, trumpet (or oboe), violin, continuo'
+duration_minutes: 10

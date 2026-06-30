@@ -1,0 +1,17 @@
+id: donizetti-salve-regina
+work:
+  composer: Donizetti, Gaetano
+  title: Salve Regina
+  ids:
+    imslp: Salve Regina, A 678 (Donizetti, Gaetano)
+  year: 1819
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Salve_Regina%2C_A_678_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (soprano/tenor?), orchestra'
+duration_minutes: 4

@@ -1,0 +1,17 @@
+id: purcell-were-i-to-choose-the-greatest-bliss
+work:
+  composer: Purcell, Henry
+  title: Were I to Choose the Greatest Bliss
+  ids:
+    imslp: Were I to Choose the Greatest Bliss, Z.517 (Purcell, Henry)
+  year: 1689
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Were_I_to_Choose_the_Greatest_Bliss%2C_Z.517_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass'

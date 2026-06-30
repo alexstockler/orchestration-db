@@ -1,0 +1,34 @@
+id: goldmark-sappho
+work:
+  composer: Goldmark, Carl
+  title: Sappho
+  ids:
+    imslp: Sappho, Op.44 (Goldmark, Carl)
+  year: 1894
+formula: 0 3[1.2.Eh] 3[1.2.bcl] 4 4341 tmp hp
+instrumentation:
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 4
+  horn: 4
+  trumpet: 3
+  trombone: 4
+  tuba: 1
+  percussion:
+    timpani: 3
+  harp: 1
+  additional_raw: Orchestra (3 flutes
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sappho%2C_Op.44_%28Goldmark%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra (3 flutes, 2 oboes, English horn, 2 clarinets,
+    bass clarinet, 2 bassoons, 2 bassoons, 4 horns, 3 trumpets, 4 trombones, tuba,
+    3 timpani, harp (2nd harp ad lib), strings)'
+duration_minutes: 20

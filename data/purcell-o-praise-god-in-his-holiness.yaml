@@ -1,0 +1,23 @@
+id: purcell-o-praise-god-in-his-holiness
+work:
+  composer: Purcell, Henry
+  title: O Praise God in His Holiness
+  ids:
+    imslp: O Praise God in His Holiness, Z.42 (Purcell, Henry)
+  year: 1682
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+  - tenor
+  - 2 basses
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_Praise_God_in_His_Holiness%2C_Z.42_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: alto, tenor, 2 basses; mixed chorus (SATB), Orchestra:
+    strings, continuo'
+duration_minutes: 9

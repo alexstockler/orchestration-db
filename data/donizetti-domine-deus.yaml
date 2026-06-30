@@ -1,0 +1,15 @@
+id: donizetti-domine-deus
+work:
+  composer: Donizetti, Gaetano
+  title: Domine Deus
+  ids:
+    imslp: Domine Deus, A 581 (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Domine_Deus%2C_A_581_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, orchestra'

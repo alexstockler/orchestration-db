@@ -1,0 +1,19 @@
+id: telemann-es-spielen-die-strahlen-der-gottlichen-starke
+work:
+  composer: Telemann, Georg Philipp
+  title: Es spielen die Strahlen der göttlichen Stärke
+  ids:
+    imslp: Es spielen die Strahlen der göttlichen Stärke, TWV 1:531 (Telemann, Georg
+      Philipp)
+  year: 1731
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: recorder | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_spielen_die_Strahlen_der_g%C3%B6ttlichen_St%C3%A4rke%2C_TWV_1%3A531_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: recorder, 2 oboes, strings, continuo'
+duration_minutes: 18

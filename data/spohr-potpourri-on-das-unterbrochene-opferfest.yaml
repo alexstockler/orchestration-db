@@ -1,0 +1,18 @@
+id: spohr-potpourri-on-das-unterbrochene-opferfest
+work:
+  composer: Spohr, Louis
+  title: Potpourri on 'Das unterbrochene Opferfest'
+  ids:
+    imslp: Potpourri on 'Das unterbrochene Opferfest', Op.56 (Spohr, Louis)
+  year: 1822
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Potpourri_on_%27Das_unterbrochene_Opferfest%27%2C_Op.56_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

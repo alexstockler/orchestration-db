@@ -1,0 +1,13 @@
+id: rossini-marcia-per-il-sultano
+work:
+  composer: Rossini, Gioachino
+  title: Marcia per il Sultano
+  ids:
+    imslp: Marcia per il Sultano (Rossini, Gioachino)
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marcia_per_il_Sultano_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra (presumed, see below, Comments)'

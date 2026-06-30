@@ -1,0 +1,15 @@
+id: taneyev-2
+work:
+  composer: Taneyev, Sergey
+  title: 2 Хора для мужских голосов
+  ids:
+    imslp: 2 Choruses for Male Voices (Taneyev, Sergey)
+  year: 1881
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Choruses_for_Male_Voices_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

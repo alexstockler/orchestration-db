@@ -1,0 +1,16 @@
+id: purcell-if-all-be-true-that-i-do-think
+work:
+  composer: Purcell, Henry
+  title: If All Be True that I Do Think
+  ids:
+    imslp: If All Be True that I Do Think, Z.255 (Purcell, Henry)
+  year: 1689
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/If_All_Be_True_that_I_Do_Think%2C_Z.255_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

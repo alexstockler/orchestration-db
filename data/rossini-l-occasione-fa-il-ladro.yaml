@@ -1,0 +1,16 @@
+id: rossini-l-occasione-fa-il-ladro
+work:
+  composer: Rossini, Gioachino
+  title: L'occasione fa il ladro
+  ids:
+    imslp: L'occasione fa il ladro (Rossini, Gioachino)
+  year: 1812
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27occasione_fa_il_ladro_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

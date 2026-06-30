@@ -1,0 +1,20 @@
+id: telemann-ei-nun-mein-liebster-jesu
+work:
+  composer: Telemann, Georg Philipp
+  title: Ei nun, mein liebster Jesu
+  ids:
+    imslp: Ei nun, mein liebster Jesu, TWV 1:432 (Telemann, Georg Philipp)
+  year: 1749
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ei_nun%2C_mein_liebster_Jesu%2C_TWV_1%3A432_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: alto; mixed chorus (SATB), Orchestra: strings,
+    continuo'

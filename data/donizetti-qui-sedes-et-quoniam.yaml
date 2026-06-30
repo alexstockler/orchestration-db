@@ -1,0 +1,18 @@
+id: donizetti-qui-sedes-et-quoniam
+work:
+  composer: Donizetti, Gaetano
+  title: Qui sedes et Quoniam
+  ids:
+    imslp: Qui sedes et Quoniam, A 591 (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Qui_sedes_et_Quoniam%2C_A_591_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, violin, orchestra'
+duration_minutes: 12

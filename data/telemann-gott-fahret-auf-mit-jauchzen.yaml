@@ -1,0 +1,21 @@
+id: telemann-gott-fahret-auf-mit-jauchzen
+work:
+  composer: Telemann, Georg Philipp
+  title: Gott fähret auf mit Jauchzen
+  ids:
+    imslp: Gott fähret auf mit Jauchzen, TWV 1:642 (Telemann, Georg Philipp)
+  year: 1717
+formula: 0200 0100 str
+instrumentation:
+  oboe:
+  - optional: true
+  - optional: true
+  trumpet: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_f%C3%A4hret_auf_mit_Jauchzen%2C_TWV_1%3A642_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes (ad lib.), trumpet, strings, continuo'
+duration_minutes: 9

@@ -1,0 +1,17 @@
+id: purcell-when-thyrsis-did-the-splendid-eye
+work:
+  composer: Purcell, Henry
+  title: When Thyrsis Did the Splendid Eye
+  ids:
+    imslp: When Thyrsis Did the Splendid Eye, Z.436 (Purcell, Henry)
+  year: 1675
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/When_Thyrsis_Did_the_Splendid_Eye%2C_Z.436_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

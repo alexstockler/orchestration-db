@@ -1,0 +1,19 @@
+id: telemann-furwahr-er-der-herr-messias-trug-unsre-krankheit
+work:
+  composer: Telemann, Georg Philipp
+  title: Fürwahr, er (der Herr Messias) trug unsre Krankheit
+  ids:
+    imslp: Fürwahr, er der Herr Messias trug unsre Krankheit, TWV 1:575 (Telemann,
+      Georg Philipp)
+  year: 1720
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/F%C3%BCrwahr%2C_er_der_Herr_Messias_trug_unsre_Krankheit%2C_TWV_1%3A575_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'
+duration_minutes: 10

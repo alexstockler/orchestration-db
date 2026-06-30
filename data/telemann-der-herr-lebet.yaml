@@ -1,0 +1,25 @@
+id: telemann-der-herr-lebet
+work:
+  composer: Telemann, Georg Philipp
+  title: Der Herr lebet
+  ids:
+    imslp: Der Herr lebet, TWV 1:284 (Telemann, Georg Philipp)
+  year: 1749
+formula: 0000 0200 tmp str
+instrumentation:
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Herr_lebet%2C_TWV_1%3A284_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, alto, tenor, bass, Orchestra: 2 trumpets,
+    timpani, strings, continuo'

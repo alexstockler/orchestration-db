@@ -1,0 +1,16 @@
+id: telemann-concerto-for-2-chalumeaux
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto for 2 Chalumeaux
+  ids:
+    imslp: Concerto for 2 Chalumeaux, TWV 52:d1 (Telemann, Georg Philipp)
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: 2 chalumeaux | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Chalumeaux%2C_TWV_52%3Ad1_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 chalumeaux, strings, continuo'
+duration_minutes: 12

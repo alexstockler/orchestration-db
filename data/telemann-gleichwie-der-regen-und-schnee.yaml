@@ -1,0 +1,23 @@
+id: telemann-gleichwie-der-regen-und-schnee
+work:
+  composer: Telemann, Georg Philipp
+  title: Gleichwie der Regen und Schnee
+  ids:
+    imslp: Gleichwie der Regen und Schnee, TWV 1:630 (Telemann, Georg Philipp)
+  year: 1711
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - tenor
+  - bass
+  - mixed chorus (SATB)
+  additional_raw: continuo (see below, Comments)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gleichwie_der_Regen_und_Schnee%2C_TWV_1%3A630_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: tenor, bass; mixed chorus (SATB), Orchestra: 2
+    oboes, strings, continuo (see below, Comments)'
+duration_minutes: 12

@@ -1,0 +1,20 @@
+id: purcell-the-fairy-queen
+work:
+  composer: Purcell, Henry
+  title: The Fairy Queen
+  ids:
+    imslp: The Fairy Queen, Z.629 (Purcell, Henry)
+  year: 1692
+formula: 0200 0200 tmp str
+instrumentation:
+  oboe: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Fairy_Queen%2C_Z.629_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 recorders, 2 oboes, 2 trumpets, timpani, strings, continuo'

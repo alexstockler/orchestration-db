@@ -1,0 +1,18 @@
+id: telemann-alleluja-singet-dem-herrn-ein-neues-lied
+work:
+  composer: Telemann, Georg Philipp
+  title: Alleluja singet dem Herrn ein neues Lied
+  ids:
+    imslp: Alleluja singet dem Herrn ein neues Lied, TWV 7:4 (Telemann, Georg Philipp)
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - 4 voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alleluja_singet_dem_Herrn_ein_neues_Lied%2C_TWV_7%3A4_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: 4 voices, Orchestra: 2 oboes, strings, continuo'

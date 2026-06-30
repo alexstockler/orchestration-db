@@ -1,0 +1,19 @@
+id: cherubini-lauda-sion
+work:
+  composer: Cherubini, Luigi
+  title: Lauda Sion
+  ids:
+    imslp: Lauda Sion (Cherubini, Luigi)
+formula: 1010 0000 str
+instrumentation:
+  flute: 1
+  clarinet: 1
+  strings: str
+  soloists:
+  - alto
+  - soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lauda_Sion_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Alto, soprano, flute, clarinet, strings'

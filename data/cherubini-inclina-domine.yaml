@@ -1,0 +1,25 @@
+id: cherubini-inclina-domine
+work:
+  composer: Cherubini, Luigi
+  title: Inclina Domine
+  ids:
+    imslp: Inclina Domine (Cherubini, Luigi)
+  year: 1823
+formula: 2222 2000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+  soloists:
+  - Soprano
+  - mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Inclina_Domine_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: Soprano, mixed chorus (SATB), Orchestra: 2 flutes,
+    2 oboes, 2 clarinets (C), 2 bassoons, 2 horns (E), strings'
+duration_minutes: 10

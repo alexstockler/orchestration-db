@@ -1,0 +1,17 @@
+id: dukas-villanelle
+work:
+  composer: Dukas, Paul
+  title: Villanelle
+  ids:
+    imslp: Villanelle (Dukas, Paul)
+  year: 1905
+formula: 0000 1000 pf
+instrumentation:
+  horn: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Villanelle_%28Dukas%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: horn, piano'

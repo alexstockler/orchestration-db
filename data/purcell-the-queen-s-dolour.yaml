@@ -1,0 +1,16 @@
+id: purcell-the-queen-s-dolour
+work:
+  composer: Purcell, Henry
+  title: The Queen's Dolour
+  ids:
+    imslp: The Queen's Dolour, Z.670 (Purcell, Henry)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Queen%27s_Dolour%2C_Z.670_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord (acc. to RISM ?)'
+duration_minutes: 3

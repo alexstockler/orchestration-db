@@ -1,0 +1,25 @@
+id: rameau-nais
+work:
+  composer: Rameau, Jean-Philippe
+  title: Naïs
+  ids:
+    imslp: Naïs, RCT 49 (Rameau, Jean-Philippe)
+  year: 1749
+formula: 0201 0200 tmp str
+instrumentation:
+  oboe: 2
+  bassoon: 1
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - voices
+  chorus_raw: chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Na%C3%AFs%2C_RCT_49_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, 2 oboes, bassoon, 2 trumpets, timpani (overture),
+    strings, continuo'

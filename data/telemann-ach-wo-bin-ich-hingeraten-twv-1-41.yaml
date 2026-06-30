@@ -1,0 +1,18 @@
+id: telemann-ach-wo-bin-ich-hingeraten-twv-1-41
+work:
+  composer: Telemann, Georg Philipp
+  title: Ach, wo bin ich hingeraten, TWV 1:41
+  ids:
+    imslp: Ach, wo bin ich hingeraten, TWV 1:41 (Telemann, Georg Philipp)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - tenor
+  additional_raw: hautbois | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach%2C_wo_bin_ich_hingeraten%2C_TWV_1%3A41_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal: tenor, Orchestra: hautbois, strings (2 violins,
+    cello), continuo'

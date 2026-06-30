@@ -1,0 +1,34 @@
+id: cherubini-chant-republicain-pour-la-fete-du-10-aout
+work:
+  composer: Cherubini, Luigi
+  title: Chant républicain pour la fête du 10 août
+  ids:
+    imslp: Chant républicain pour la fête du 10 août (Cherubini, Luigi)
+  year: 1795
+formula: 2[pic.pic] 0 2 1 2230 tmp serpent
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - instrument: piccolo
+  clarinet: 2
+  bassoon: 1
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+  extras:
+  - instrument: serpent
+  soloists:
+  - mixed chorus (SATB)
+  additional_raw: buccina | tuba curva
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chant_r%C3%A9publicain_pour_la_f%C3%AAte_du_10_ao%C3%BBt_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: mixed chorus (SATB), Orchestra: 2 piccolos, 2 clarinets
+    (C), bassoon, 2 horns (C), 2 trumpets (C), 3 trombones, buccina, tuba curva, serpent,
+    timpani, bass drum'
+duration_minutes: 8

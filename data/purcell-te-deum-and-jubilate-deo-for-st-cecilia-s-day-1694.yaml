@@ -1,0 +1,17 @@
+id: purcell-te-deum-and-jubilate-deo-for-st-cecilia-s-day-1694
+work:
+  composer: Purcell, Henry
+  title: Te Deum and Jubilate Deo, for St. Cecilia's Day 1694
+  ids:
+    imslp: Te Deum and Jubilate Deo, Z.232 (Purcell, Henry)
+  year: 1694
+formula: 0000 0200 str
+instrumentation:
+  trumpet: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Te_Deum_and_Jubilate_Deo%2C_Z.232_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 trumpets, strings (no violas), continuo'

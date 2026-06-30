@@ -1,0 +1,19 @@
+id: telemann-die-donnerode
+work:
+  composer: Telemann, Georg Philipp
+  title: Die Donnerode
+  ids:
+    imslp: Die Donnerode, TWV 6:3 (Telemann, Georg Philipp)
+  year: 1756
+formula: tmp
+instrumentation:
+  percussion:
+    timpani: 1
+  additional_raw: oboe d'amore") | 2 tr | hn | 3 clarino | 2 vl | vla | vla da gamba
+    | vcl | bc
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Donnerode%2C_TWV_6%3A3_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: SATBB soli, SATB choir, 2ob, (also "oboe d''amore"), 2
+    tr, timpani, hn, 3 clarino, 2 vl, vla, vla da gamba, vcl, bc'

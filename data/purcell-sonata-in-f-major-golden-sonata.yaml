@@ -1,0 +1,17 @@
+id: purcell-sonata-in-f-major-golden-sonata
+work:
+  composer: Purcell, Henry
+  title: Sonata in F major 'Golden Sonata'
+  ids:
+    imslp: Sonata in F major 'Golden Sonata', Z.810 (Purcell, Henry)
+  year: 1697
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: bass viol | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_in_F_major_%27Golden_Sonata%27%2C_Z.810_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, bass viol, continuo'

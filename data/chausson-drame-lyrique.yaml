@@ -1,0 +1,16 @@
+id: chausson-drame-lyrique
+work:
+  composer: Chausson, Ernest
+  title: Drame lyrique
+  ids:
+    imslp: Le roi Arthus, Op.23 (Chausson, Ernest)
+  year: 1886
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_roi_Arthus%2C_Op.23_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

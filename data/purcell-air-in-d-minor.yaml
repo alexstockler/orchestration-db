@@ -1,0 +1,15 @@
+id: purcell-air-in-d-minor
+work:
+  composer: Purcell, Henry
+  title: Air in D Minor
+  ids:
+    imslp: Air in D Minor, ZT 675 (Purcell, Henry)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Air_in_D_Minor%2C_ZT_675_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

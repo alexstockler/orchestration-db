@@ -1,0 +1,17 @@
+id: taneyev-3-terzettos
+work:
+  composer: Taneyev, Sergey
+  title: 3 Terzettos
+  ids:
+    imslp: 3 Terzettos, Op.23 (Taneyev, Sergey)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Terzettos%2C_Op.23_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor'

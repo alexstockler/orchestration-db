@@ -1,0 +1,16 @@
+id: purcell-to-all-lovers-of-music
+work:
+  composer: Purcell, Henry
+  title: To All Lovers of Music
+  ids:
+    imslp: To All Lovers of Music, Z.282 (Purcell, Henry)
+  year: 1687
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/To_All_Lovers_of_Music%2C_Z.282_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

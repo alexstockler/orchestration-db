@@ -1,0 +1,18 @@
+id: purcell-here-s-to-thee-dick
+work:
+  composer: Purcell, Henry
+  title: Here's to Thee, Dick
+  ids:
+    imslp: Here's to Thee, Dick, Z.493 (Purcell, Henry)
+  year: 1688
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Here%27s_to_Thee%2C_Dick%2C_Z.493_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'

@@ -1,0 +1,14 @@
+id: boccherini-cello-concerto-no-7-in-g-major
+work:
+  composer: Boccherini, Luigi
+  title: Cello Concerto No.7 in G major
+  ids:
+    imslp: Cello Concerto in G major, G.480 (Boccherini, Luigi)
+formula: ''
+instrumentation:
+  additional_raw: Cello and String Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Concerto_in_G_major%2C_G.480_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Cello and String Orchestra'

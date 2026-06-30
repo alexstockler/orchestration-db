@@ -1,0 +1,20 @@
+id: telemann-der-regen-gottes-trieft-auf-gute-sprossen
+work:
+  composer: Telemann, Georg Philipp
+  title: Der Regen Gottes trieft auf gute Sprossen
+  ids:
+    imslp: Der Regen Gottes trieft auf gute Sprossen, TWV 1:312 (Telemann, Georg Philipp)
+  year: 1731
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Regen_Gottes_trieft_auf_gute_Sprossen%2C_TWV_1%3A312_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, 2 violins, continuo'
+duration_minutes: 8

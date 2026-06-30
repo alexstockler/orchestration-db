@@ -1,0 +1,18 @@
+id: donizetti-il-furioso-all-isola-di-san-domingo
+work:
+  composer: Donizetti, Gaetano
+  title: Il furioso all'isola di San Domingo
+  ids:
+    imslp: Il furioso all'isola di San Domingo (Donizetti, Gaetano)
+  year: 1832
+formula: ''
+instrumentation:
+  additional_raw: Fernando (tenor) | Eleonora (soprano) | Cardenio (baritone) | Bartolomeo
+    (bass) | Marcella (soprano) | Kaidamà (bass) Mixed Chorus Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_furioso_all%27isola_di_San_Domingo_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices :Fernando (tenor), Eleonora (soprano), Cardenio
+    (baritone), Bartolomeo (bass), Marcella (soprano), Kaidamà (bass) Mixed Chorus
+    Orchestra'

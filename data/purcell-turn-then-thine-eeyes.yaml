@@ -1,0 +1,16 @@
+id: purcell-turn-then-thine-eeyes
+work:
+  composer: Purcell, Henry
+  title: Turn Then Thine Eeyes
+  ids:
+    imslp: Turn Then Thine Eyes, Z.425 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Turn_Then_Thine_Eyes%2C_Z.425_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

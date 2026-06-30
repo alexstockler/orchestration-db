@@ -1,0 +1,17 @@
+id: boccherini-cello-concerto-in-d-major
+work:
+  composer: Boccherini, Luigi
+  title: Cello Concerto in D major
+  ids:
+    imslp: Cello Concerto in D major, G.479 (Boccherini, Luigi)
+  year: 1770
+formula: str
+instrumentation:
+  strings: str
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Concerto_in_D_major%2C_G.479_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, strings'

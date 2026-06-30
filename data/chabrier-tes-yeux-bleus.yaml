@@ -1,0 +1,18 @@
+id: chabrier-tes-yeux-bleus
+work:
+  composer: Chabrier, Emmanuel
+  title: Tes yeux bleus
+  ids:
+    imslp: Tes yeux bleus (Chabrier, Emmanuel)
+  year: 1883
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tes_yeux_bleus_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

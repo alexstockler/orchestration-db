@@ -1,0 +1,16 @@
+id: purcell-olinda-in-the-shades-unseen
+work:
+  composer: Purcell, Henry
+  title: Olinda in the Shades Unseen
+  ids:
+    imslp: Olinda in the Shades Unseen, Z.404 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Olinda_in_the_Shades_Unseen%2C_Z.404_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

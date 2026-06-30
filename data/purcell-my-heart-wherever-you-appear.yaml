@@ -1,0 +1,17 @@
+id: purcell-my-heart-wherever-you-appear
+work:
+  composer: Purcell, Henry
+  title: My Heart, Wherever You Appear
+  ids:
+    imslp: My Heart, Wherever You Appear, Z.399 (Purcell, Henry)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/My_Heart%2C_Wherever_You_Appear%2C_Z.399_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

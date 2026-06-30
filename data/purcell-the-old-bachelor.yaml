@@ -1,0 +1,20 @@
+id: purcell-the-old-bachelor
+work:
+  composer: Purcell, Henry
+  title: The Old Bachelor
+  ids:
+    imslp: The Old Bachelor, Z.607 (Purcell, Henry)
+  year: 1691
+formula: 1000 0000 str
+instrumentation:
+  flute: 1
+  strings: str
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Old_Bachelor%2C_Z.607_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, flute, strings, continuo'
+duration_minutes: 11

@@ -1,0 +1,17 @@
+id: purcell-when-her-languishing-eyes-said-love
+work:
+  composer: Purcell, Henry
+  title: When Her Languishing Eyes Said Love
+  ids:
+    imslp: When Her Languishing Eyes Said Love, Z.432 (Purcell, Henry)
+  year: 1681
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/When_Her_Languishing_Eyes_Said_Love%2C_Z.432_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

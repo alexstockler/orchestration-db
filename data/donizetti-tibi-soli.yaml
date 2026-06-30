@@ -1,0 +1,19 @@
+id: donizetti-tibi-soli
+work:
+  composer: Donizetti, Gaetano
+  title: Tibi soli
+  ids:
+    imslp: Tibi soli, A 694 (Donizetti, Gaetano)
+  year: 1820
+formula: 0 0 1[bhn] 0 0000
+instrumentation:
+  clarinet:
+  - instrument: basset_horn
+  soloists:
+  - soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tibi_soli%2C_A_694_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, basset horn, orchestra'
+duration_minutes: 5

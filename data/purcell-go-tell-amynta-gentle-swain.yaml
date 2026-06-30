@@ -1,0 +1,17 @@
+id: purcell-go-tell-amynta-gentle-swain
+work:
+  composer: Purcell, Henry
+  title: Go Tell Amynta, Gentle Swain
+  ids:
+    imslp: Go Tell Amynta, Gentle Swain, Z.489 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Go_Tell_Amynta%2C_Gentle_Swain%2C_Z.489_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'

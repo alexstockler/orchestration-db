@@ -1,0 +1,16 @@
+id: purcell-suite-for-strings
+work:
+  composer: Purcell, Henry
+  title: Suite for Strings
+  ids:
+    imslp: Suite for Strings, Z.770 (Purcell, Henry)
+  year: 1681
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_for_Strings%2C_Z.770_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: strings (possibly viols)'
+duration_minutes: 8

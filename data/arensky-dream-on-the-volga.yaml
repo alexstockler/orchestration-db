@@ -1,0 +1,17 @@
+id: arensky-dream-on-the-volga
+work:
+  composer: Arensky, Anton
+  title: Dream on the Volga
+  ids:
+    imslp: Dream on the Volga, Op.16 (Arensky, Anton)
+  year: 1888
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dream_on_the_Volga%2C_Op.16_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

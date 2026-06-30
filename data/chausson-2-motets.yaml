@@ -1,0 +1,23 @@
+id: chausson-2-motets
+work:
+  composer: Chausson, Ernest
+  title: 2 Motets
+  ids:
+    imslp: 2 Motets, Op.6 (Chausson, Ernest)
+  year: 1883
+formula: harm
+instrumentation:
+  keyboards:
+  - instrument: harmonium
+  soloists:
+  - voice
+  - voice
+  solo_strings:
+    violin: 1
+    cello: 1
+  additional_raw: harp and organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Motets%2C_Op.6_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, violin, cello, harp and organ; voice, harmonium'

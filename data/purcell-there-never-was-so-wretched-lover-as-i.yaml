@@ -1,0 +1,17 @@
+id: purcell-there-never-was-so-wretched-lover-as-i
+work:
+  composer: Purcell, Henry
+  title: There Never Was So Wretched Lover as I
+  ids:
+    imslp: There Never Was So Wretched Lover as I, Z.513 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/There_Never_Was_So_Wretched_Lover_as_I%2C_Z.513_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'

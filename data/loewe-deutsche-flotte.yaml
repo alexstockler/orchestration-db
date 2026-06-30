@@ -1,0 +1,18 @@
+id: loewe-deutsche-flotte
+work:
+  composer: Loewe, Carl
+  title: Deutsche Flotte
+  ids:
+    imslp: Deutsche Flotte (Loewe, Carl)
+  year: 1848
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Deutsche_Flotte_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,15 @@
+id: cherubini-solfege-a-changements-de-clefs
+work:
+  composer: Cherubini, Luigi
+  title: Solfège à changements de clefs
+  ids:
+    imslp: Solfège à changements de clefs (Cherubini, Luigi)
+  year: 1866
+formula: ''
+instrumentation:
+  additional_raw: open instrumentation
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Solf%C3%A8ge_%C3%A0_changements_de_clefs_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: open instrumentation'

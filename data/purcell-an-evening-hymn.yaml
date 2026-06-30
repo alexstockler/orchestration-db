@@ -1,0 +1,17 @@
+id: purcell-an-evening-hymn
+work:
+  composer: Purcell, Henry
+  title: An Evening Hymn
+  ids:
+    imslp: An Evening Hymn, Z.193 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_Evening_Hymn%2C_Z.193_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, keyboard'
+duration_minutes: 5

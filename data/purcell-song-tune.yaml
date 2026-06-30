@@ -1,0 +1,16 @@
+id: purcell-song-tune
+work:
+  composer: Purcell, Henry
+  title: Song Tune
+  ids:
+    imslp: A Song Tune, ZT 694 (Purcell, Henry)
+  year: 1689
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_Song_Tune%2C_ZT_694_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: Harpsichord'

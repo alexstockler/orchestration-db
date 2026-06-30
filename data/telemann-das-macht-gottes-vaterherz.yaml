@@ -1,0 +1,20 @@
+id: telemann-das-macht-gottes-vaterherz
+work:
+  composer: Telemann, Georg Philipp
+  title: Das macht Gottes Vaterherz
+  ids:
+    imslp: Das macht Gottes Vaterherz, TWV 1:191 (Telemann, Georg Philipp)
+  year: 1749
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_macht_Gottes_Vaterherz%2C_TWV_1%3A191_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: alto; mixed chorus (SATB), Orchestra: strings,
+    continuo'

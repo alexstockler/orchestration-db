@@ -1,0 +1,17 @@
+id: purcell-sylvia-thou-brighter-eye-of-night
+work:
+  composer: Purcell, Henry
+  title: Sylvia, Thou Brighter Eye of Night
+  ids:
+    imslp: Sylvia, Thou Brighter Eye of Night, Z.511 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sylvia%2C_Thou_Brighter_Eye_of_Night%2C_Z.511_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'

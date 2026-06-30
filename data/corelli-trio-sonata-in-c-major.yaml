@@ -1,0 +1,19 @@
+id: corelli-trio-sonata-in-c-major
+work:
+  composer: Corelli, Arcangelo
+  title: Trio Sonata in C major
+  ids:
+    imslp: Trio Sonata in C major, Op.1 No.7 (Corelli, Arcangelo)
+  year: 1681
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  solo_strings:
+    violin: 2
+  additional_raw: violone/arciliuto
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_C_major%2C_Op.1_No.7_%28Corelli%2C_Arcangelo%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, violone/arciliuto, organ'

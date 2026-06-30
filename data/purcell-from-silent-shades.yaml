@@ -1,0 +1,17 @@
+id: purcell-from-silent-shades
+work:
+  composer: Purcell, Henry
+  title: From Silent Shades
+  ids:
+    imslp: From Silent Shades, Z.370 (Purcell, Henry)
+  year: 1683
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/From_Silent_Shades%2C_Z.370_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

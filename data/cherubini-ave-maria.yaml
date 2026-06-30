@@ -1,0 +1,22 @@
+id: cherubini-ave-maria
+work:
+  composer: Cherubini, Luigi
+  title: Ave Maria
+  ids:
+    imslp: Ave Maria (Cherubini, Luigi)
+formula: 0 1[Eh] 0 0 0000
+instrumentation:
+  oboe:
+  - instrument: english_horn
+  soloists:
+  - soprano
+  - bass
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_Maria_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, English horn, 2 violins, viola, cello, bass'

@@ -1,0 +1,16 @@
+id: arensky-the-goblet
+work:
+  composer: Arensky, Anton
+  title: The Goblet
+  ids:
+    imslp: The Goblet, Op.61 (Arensky, Anton)
+  year: 1903
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: Tenor soloist
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Goblet%2C_Op.61_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Tenor soloist, Mixed chorus, Orchestra'

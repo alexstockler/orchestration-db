@@ -1,0 +1,16 @@
+id: donizetti-asperges-me
+work:
+  composer: Donizetti, Gaetano
+  title: Asperges me
+  ids:
+    imslp: Asperges me, A 695 (Donizetti, Gaetano)
+  year: 1820
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Asperges_me%2C_A_695_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), orchestra'
+duration_minutes: 4

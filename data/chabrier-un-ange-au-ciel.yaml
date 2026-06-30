@@ -1,0 +1,16 @@
+id: chabrier-un-ange-au-ciel
+work:
+  composer: Chabrier, Emmanuel
+  title: Un ange au ciel
+  ids:
+    imslp: Un ange au ciel, Op.3 (Chabrier, Emmanuel)
+  year: 1850
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Un_ange_au_ciel%2C_Op.3_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

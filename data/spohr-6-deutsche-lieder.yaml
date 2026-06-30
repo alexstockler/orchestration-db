@@ -1,0 +1,18 @@
+id: spohr-6-deutsche-lieder
+work:
+  composer: Spohr, Louis
+  title: 6 Deutsche Lieder
+  ids:
+    imslp: 6 Deutsche Lieder, Op.25 (Spohr, Louis)
+  year: 1810
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Deutsche_Lieder%2C_Op.25_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

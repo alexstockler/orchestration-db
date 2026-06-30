@@ -1,0 +1,16 @@
+id: chabrier-gwendoline
+work:
+  composer: Chabrier, Emmanuel
+  title: Gwendoline
+  ids:
+    imslp: Gwendoline (Chabrier, Emmanuel)
+  year: 1885
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gwendoline_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, Chorus, Orchestra'

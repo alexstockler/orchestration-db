@@ -1,0 +1,17 @@
+id: boccherini-symphony-in-d-major
+work:
+  composer: Boccherini, Luigi
+  title: Symphony in D major
+  ids:
+    imslp: Symphony in D major, G.490 (Boccherini, Luigi)
+  year: 1765
+formula: 0200 2000 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_in_D_major%2C_G.490_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: 2 oboes, 2 horns, strings'

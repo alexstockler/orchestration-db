@@ -1,0 +1,17 @@
+id: purcell-no-watch-dear-celia-just-is-found
+work:
+  composer: Purcell, Henry
+  title: No Watch, Dear Celia, Just Is Found
+  ids:
+    imslp: No Watch, Dear Celia, Just Is Found, Z.401 (Purcell, Henry)
+  year: 1693
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/No_Watch%2C_Dear_Celia%2C_Just_Is_Found%2C_Z.401_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

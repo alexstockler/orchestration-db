@@ -1,0 +1,16 @@
+id: balakirev-spanische-melodie
+work:
+  composer: Balakirev, Mily
+  title: Spanische Melodie
+  ids:
+    imslp: Spanish Melody (Balakirev, Mily)
+  year: 1902
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Spanish_Melody_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

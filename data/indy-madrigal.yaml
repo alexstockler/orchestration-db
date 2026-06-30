@@ -1,0 +1,18 @@
+id: indy-madrigal
+work:
+  composer: Indy, Vincent d'
+  title: Madrigal
+  ids:
+    imslp: Madrigal, Op.4 (Indy, Vincent d')
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Madrigal%2C_Op.4_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

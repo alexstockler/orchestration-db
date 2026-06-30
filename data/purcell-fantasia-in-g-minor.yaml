@@ -1,0 +1,16 @@
+id: purcell-fantasia-in-g-minor
+work:
+  composer: Purcell, Henry
+  title: Fantasia in G minor
+  ids:
+    imslp: Fantasia in G minor, Z.734 (Purcell, Henry)
+  year: 1680
+formula: ''
+instrumentation:
+  additional_raw: 3 viols or other stringed instruments
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_in_G_minor%2C_Z.734_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 viols or other stringed instruments'
+duration_minutes: 3

@@ -1,0 +1,18 @@
+id: spohr-lied-der-emma
+work:
+  composer: Spohr, Louis
+  title: Lied der Emma
+  ids:
+    imslp: Was treibt den Waidmann in den Wald, WoO 92 (Spohr, Louis)
+  year: 1825
+formula: 0000 1000 hp
+instrumentation:
+  horn: 1
+  harp: 1
+  soloists:
+  - mezzo-soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Was_treibt_den_Waidmann_in_den_Wald%2C_WoO_92_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: mezzo-soprano, horn, harp (or piano)'

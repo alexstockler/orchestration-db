@@ -1,0 +1,19 @@
+id: rameau-enlevement-d-orithie
+work:
+  composer: Rameau, Jean-Philippe
+  title: Enlèvement d'Orithie
+  ids:
+    imslp: Aquilon et Orithie, RCT 23 (Rameau, Jean-Philippe)
+  year: 1719
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aquilon_et_Orithie%2C_RCT_23_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, violin, continuo'

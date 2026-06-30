@@ -1,0 +1,24 @@
+id: purcell-from-hardy-climes-and-dangerous-toils-of-war
+work:
+  composer: Purcell, Henry
+  title: From hardy climes and dangerous toils of war
+  ids:
+    imslp: From hardy climes and dangerous toils of war, Z.325 (Purcell, Henry)
+  year: 1683
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - 2 sopranos
+  - alto
+  - tenor
+  - bass
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/From_hardy_climes_and_dangerous_toils_of_war%2C_Z.325_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: 2 sopranos, alto, tenor, bass, mixed chorus (SATB),
+    Orchestra: strings, continuo'
+duration_minutes: 18

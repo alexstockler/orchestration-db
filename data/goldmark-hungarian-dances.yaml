@@ -1,0 +1,16 @@
+id: goldmark-hungarian-dances
+work:
+  composer: Goldmark, Carl
+  title: Hungarian Dances
+  ids:
+    imslp: Hungarian Dances, Op.22 (Goldmark, Carl)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hungarian_Dances%2C_Op.22_%28Goldmark%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'

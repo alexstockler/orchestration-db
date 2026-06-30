@@ -1,0 +1,18 @@
+id: spohr-symphonie-concertante-no-1
+work:
+  composer: Spohr, Louis
+  title: Symphonie Concertante No.1
+  ids:
+    imslp: Symphonie concertante No.1, Op.48 (Spohr, Louis)
+  year: 1808
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphonie_concertante_No.1%2C_Op.48_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Violins, Orchestra (flute, 2 oboes, 2 clarinets in A,
+    2 bassoons, horn in A, strings)'
+duration_minutes: 25

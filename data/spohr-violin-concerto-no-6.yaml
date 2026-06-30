@@ -1,0 +1,25 @@
+id: spohr-violin-concerto-no-6
+work:
+  composer: Spohr, Louis
+  title: Violin Concerto No.6
+  ids:
+    imslp: Violin Concerto No.6, Op.28 (Spohr, Louis)
+  year: 1808
+formula: 2222 3300 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 3
+  trumpet: 3
+  strings: str
+  soloists:
+  - violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Concerto_No.6%2C_Op.28_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: violin, Orchestra: 2 flutes, 2 oboes, 2 clarinets,
+    2 bassoons, 3 (2?) horns, 3 trumpets(?), strings'
+duration_minutes: 26

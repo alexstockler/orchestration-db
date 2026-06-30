@@ -1,0 +1,17 @@
+id: purcell-come-dear-companions-of-th-arcadian-fields
+work:
+  composer: Purcell, Henry
+  title: Come, Dear Companions of th' Arcadian Fields
+  ids:
+    imslp: Come, Dear Companions of th' Arcadian Fields, Z.483 (Purcell, Henry)
+  year: 1686
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Come%2C_Dear_Companions_of_th%27_Arcadian_Fields%2C_Z.483_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), continuo'

@@ -1,0 +1,16 @@
+id: purcell-in-nomine-of-seven-parts
+work:
+  composer: Purcell, Henry
+  title: In Nomine of Seven Parts
+  ids:
+    imslp: In Nomine of Seven Parts, Z.747 (Purcell, Henry)
+  year: 1680
+formula: ''
+instrumentation:
+  additional_raw: 7 viols or other stringed instruments
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_Nomine_of_Seven_Parts%2C_Z.747_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 7 viols or other stringed instruments'
+duration_minutes: 3

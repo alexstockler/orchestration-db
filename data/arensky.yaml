@@ -1,0 +1,16 @@
+id: arensky
+work:
+  composer: Arensky, Anton
+  title: Бахчисарайский фонтан
+  ids:
+    imslp: The Fountain of Bakhchisaray, Op.46 (Arensky, Anton)
+  year: 1899
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Fountain_of_Bakhchisaray%2C_Op.46_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

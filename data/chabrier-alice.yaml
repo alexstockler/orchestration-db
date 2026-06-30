@@ -1,0 +1,16 @@
+id: chabrier-alice
+work:
+  composer: Chabrier, Emmanuel
+  title: Alice
+  ids:
+    imslp: Alice (Chabrier, Emmanuel)
+  year: 1854
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alice_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

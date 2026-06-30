@@ -1,0 +1,18 @@
+id: rossini-aureliano-in-palmira
+work:
+  composer: Rossini, Gioachino
+  title: Aureliano in Palmira
+  ids:
+    imslp: Aureliano in Palmira (Rossini, Gioachino)
+  year: 1812
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aureliano_in_Palmira_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'
+duration_minutes: 30

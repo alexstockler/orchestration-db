@@ -1,0 +1,19 @@
+id: rossini-tantum-ergo
+work:
+  composer: Rossini, Gioachino
+  title: Tantum ergo
+  ids:
+    imslp: Tantum ergo (Rossini, Gioachino)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - tenors
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tantum_ergo_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 tenors, bass, piano'
+duration_minutes: 10

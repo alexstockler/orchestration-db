@@ -1,0 +1,15 @@
+id: indy-deus-israel
+work:
+  composer: Indy, Vincent d'
+  title: Deus Israel
+  ids:
+    imslp: Deus Israel, Op.41 (Indy, Vincent d')
+  year: 1896
+formula: ''
+instrumentation:
+  chorus_raw: satb
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Deus_Israel%2C_Op.41_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB'

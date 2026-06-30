@@ -1,0 +1,16 @@
+id: chabrier-chanson-pour-jeanne
+work:
+  composer: Chabrier, Emmanuel
+  title: Chanson pour Jeanne
+  ids:
+    imslp: Chanson pour Jeanne (Chabrier, Emmanuel)
+  year: 1886
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chanson_pour_Jeanne_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

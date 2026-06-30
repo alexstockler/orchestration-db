@@ -1,0 +1,16 @@
+id: balakirev-reverie
+work:
+  composer: Balakirev, Mily
+  title: Rêverie
+  ids:
+    imslp: Rêverie in F major (Balakirev, Mily)
+  year: 1903
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/R%C3%AAverie_in_F_major_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

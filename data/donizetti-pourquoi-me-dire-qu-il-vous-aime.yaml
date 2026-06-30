@@ -1,0 +1,17 @@
+id: donizetti-pourquoi-me-dire-qu-il-vous-aime
+work:
+  composer: Donizetti, Gaetano
+  title: Pourquoi me dire qu'il vous aime
+  ids:
+    imslp: Pourquoi me dire qu'il vous aime, A 372 (Donizetti, Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pourquoi_me_dire_qu%27il_vous_aime%2C_A_372_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

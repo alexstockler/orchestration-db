@@ -1,0 +1,20 @@
+id: spohr-piano-trio-no-5
+work:
+  composer: Spohr, Louis
+  title: Piano Trio No.5
+  ids:
+    imslp: Piano Trio No.5, Op.142 (Spohr, Louis)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio_No.5%2C_Op.142_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'
+duration_minutes: 29

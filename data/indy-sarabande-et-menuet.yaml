@@ -1,0 +1,21 @@
+id: indy-sarabande-et-menuet
+work:
+  composer: Indy, Vincent d'
+  title: Sarabande et menuet
+  ids:
+    imslp: Sarabande et menuet, Op.72 (Indy, Vincent d')
+  year: 1918
+formula: 1111 1000 pf
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sarabande_et_menuet%2C_Op.72_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, clarinet, bassoon, horn, piano'

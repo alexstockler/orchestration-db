@@ -1,0 +1,17 @@
+id: purcell-farewell-all-joys
+work:
+  composer: Purcell, Henry
+  title: Farewell, All Joys
+  ids:
+    imslp: Farewell, All Joys, Z.368 (Purcell, Henry)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Farewell%2C_All_Joys%2C_Z.368_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

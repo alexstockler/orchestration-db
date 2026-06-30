@@ -1,0 +1,17 @@
+id: arensky-6-caprices
+work:
+  composer: Arensky, Anton
+  title: 6 Caprices
+  ids:
+    imslp: 6 Caprices, Op.43 (Arensky, Anton)
+  year: 1898
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Caprices%2C_Op.43_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 14

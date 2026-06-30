@@ -1,0 +1,19 @@
+id: purcell-sit-down-my-dear-sylvia
+work:
+  composer: Purcell, Henry
+  title: Sit Down, My Dear Sylvia
+  ids:
+    imslp: Sit Down, My Dear Sylvia, Z.509 (Purcell, Henry)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  chorus_raw: choir
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sit_Down%2C_My_Dear_Sylvia%2C_Z.509_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, bass, choir, continuo'

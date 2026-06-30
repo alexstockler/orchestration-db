@@ -1,0 +1,19 @@
+id: telemann-das-wort-ward-fleisch
+work:
+  composer: Telemann, Georg Philipp
+  title: Das Wort ward Fleisch
+  ids:
+    imslp: Das Wort ward Fleisch, TWV 1:203 (Telemann, Georg Philipp)
+  year: 1726
+formula: 0200 0200 str
+instrumentation:
+  oboe: 2
+  trumpet: 2
+  strings: str
+  additional_raw: timpani (all ad lib) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Wort_ward_Fleisch%2C_TWV_1%3A203_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 trumpets, timpani (all ad lib), strings, continuo'
+duration_minutes: 11

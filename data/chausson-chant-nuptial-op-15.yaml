@@ -1,0 +1,17 @@
+id: chausson-chant-nuptial-op-15
+work:
+  composer: Chausson, Ernest
+  title: Chant nuptial, Op.15
+  ids:
+    imslp: Chant nuptial, Op.15 (Chausson, Ernest)
+  year: 1884
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: Female Voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chant_nuptial%2C_Op.15_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: Female Voices, Piano'

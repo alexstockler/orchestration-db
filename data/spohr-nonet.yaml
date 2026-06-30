@@ -1,0 +1,26 @@
+id: spohr-nonet
+work:
+  composer: Spohr, Louis
+  title: Nonet
+  ids:
+    imslp: Nonet, Op.31 (Spohr, Louis)
+  year: 1813
+formula: 1111 1000
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 1
+  soloists:
+  - bass
+  solo_strings:
+    violin: 1
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nonet%2C_Op.31_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, clarinet (B), bassoon, horn (F), violin, viola,
+    cello, bass'

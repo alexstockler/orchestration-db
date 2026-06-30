@@ -1,0 +1,17 @@
+id: chausson-andante-and-allegro
+work:
+  composer: Chausson, Ernest
+  title: Andante and Allegro
+  ids:
+    imslp: Andante and Allegro (Chausson, Ernest)
+  year: 1881
+formula: 0010 0000 pf
+instrumentation:
+  clarinet: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_and_Allegro_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, piano'

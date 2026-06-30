@@ -1,0 +1,16 @@
+id: spohr-die-kreuzfahrer-woo-59
+work:
+  composer: Spohr, Louis
+  title: Die Kreuzfahrer, WoO 59
+  ids:
+    imslp: Die Kreuzfahrer, WoO 59 (Spohr, Louis)
+  year: 1845
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Kreuzfahrer%2C_WoO_59_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, chorus, orchestra'

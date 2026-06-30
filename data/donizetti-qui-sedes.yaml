@@ -1,0 +1,18 @@
+id: donizetti-qui-sedes
+work:
+  composer: Donizetti, Gaetano
+  title: Qui sedes
+  ids:
+    imslp: Qui sedes, A 583 (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Qui_sedes%2C_A_583_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, violin, orchestra'
+duration_minutes: 9

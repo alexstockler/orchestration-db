@@ -1,0 +1,15 @@
+id: purcell-fantasia-in-c-minor
+work:
+  composer: Purcell, Henry
+  title: Fantasia in C minor
+  ids:
+    imslp: Fantasia in C minor, Z.738 (Purcell, Henry)
+  year: 1680
+formula: ''
+instrumentation:
+  additional_raw: 4 viols or other stringed instruments
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_in_C_minor%2C_Z.738_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 viols or other stringed instruments'

@@ -1,0 +1,18 @@
+id: telemann-fleuch-der-luste-zauberauen-twv-1-550
+work:
+  composer: Telemann, Georg Philipp
+  title: Fleuch der Lüste Zauberauen, TWV 1:550
+  ids:
+    imslp: Fleuch der Lüste Zauberauen, TWV 1:550 (Telemann, Georg Philipp)
+  year: 1725
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+  additional_raw: medium voice | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fleuch_der_L%C3%BCste_Zauberauen%2C_TWV_1%3A550_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: medium voice, violin, continuo'
+duration_minutes: 9

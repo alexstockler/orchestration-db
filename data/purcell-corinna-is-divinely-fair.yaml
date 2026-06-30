@@ -1,0 +1,17 @@
+id: purcell-corinna-is-divinely-fair
+work:
+  composer: Purcell, Henry
+  title: Corinna Is Divinely Fair
+  ids:
+    imslp: Corinna Is Divinely Fair, Z.365 (Purcell, Henry)
+  year: 1692
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Corinna_Is_Divinely_Fair%2C_Z.365_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

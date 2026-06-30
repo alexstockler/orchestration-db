@@ -1,0 +1,17 @@
+id: purcell-timon-of-athens
+work:
+  composer: Purcell, Henry
+  title: Timon of Athens
+  ids:
+    imslp: Timon of Athens, Z.632 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Timon_of_Athens%2C_Z.632_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'
+duration_minutes: 30

@@ -1,0 +1,16 @@
+id: telemann-der-herr-ist-mein-hirte
+work:
+  composer: Telemann, Georg Philipp
+  title: Der Herr ist mein Hirte
+  ids:
+    imslp: Der Herr ist mein Hirte, TWV 1:266 (Telemann, Georg Philipp)
+  year: 1733
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: SATB soli & chorus | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Herr_ist_mein_Hirte%2C_TWV_1%3A266_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB soli & chorus, strings, continuo'

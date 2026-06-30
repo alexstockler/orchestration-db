@@ -1,0 +1,17 @@
+id: telemann-sonata-for-cello-and-continuo
+work:
+  composer: Telemann, Georg Philipp
+  title: Sonata for Cello and Continuo
+  ids:
+    imslp: Cello Sonata, TWV 41:D6 (Telemann, Georg Philipp)
+  year: 1728
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Sonata%2C_TWV_41%3AD6_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, continuo'

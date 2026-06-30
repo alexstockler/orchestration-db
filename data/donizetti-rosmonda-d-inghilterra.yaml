@@ -1,0 +1,17 @@
+id: donizetti-rosmonda-d-inghilterra
+work:
+  composer: Donizetti, Gaetano
+  title: Rosmonda d'Inghilterra
+  ids:
+    imslp: Rosmonda d'Inghilterra (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  additional_raw: Rosmonda Clifford (soprano) | Eleanora di Guiernna (mezzo-soprano)
+    | Enrico II (tenor) | Arturo (contralto) | Clifford (bass) Mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rosmonda_d%27Inghilterra_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices :Rosmonda Clifford (soprano), Eleanora di Guiernna
+    (mezzo-soprano),, Enrico II (tenor), Arturo (contralto), Clifford (bass) Mixed
+    chorus (SATB), Orchestra'

@@ -1,0 +1,18 @@
+id: loewe-der-selt-ne-beter-op-141
+work:
+  composer: Loewe, Carl
+  title: Der selt'ne Beter, Op.141
+  ids:
+    imslp: Der selt'ne Beter, Op.141 (Loewe, Carl)
+  year: 1868
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_selt%27ne_Beter%2C_Op.141_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

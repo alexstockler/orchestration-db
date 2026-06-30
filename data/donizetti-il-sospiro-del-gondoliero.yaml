@@ -1,0 +1,18 @@
+id: donizetti-il-sospiro-del-gondoliero
+work:
+  composer: Donizetti, Gaetano
+  title: Il sospiro del gondoliero
+  ids:
+    imslp: Il sospiro del gondoliero (Donizetti, Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_sospiro_del_gondoliero_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 4

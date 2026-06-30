@@ -1,0 +1,18 @@
+id: telemann-die-gott-vertrauen-die-erfahren
+work:
+  composer: Telemann, Georg Philipp
+  title: Die Gott vertrauen, die erfahren
+  ids:
+    imslp: Die Gott vertrauen, die erfahren, TWV 1:344 (Telemann, Georg Philipp)
+  year: 1720
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Gott_vertrauen%2C_die_erfahren%2C_TWV_1%3A344_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 recorders, 2 oboes, strings, continuo'
+duration_minutes: 15

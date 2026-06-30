@@ -1,0 +1,17 @@
+id: loewe-die-drei-wunsche
+work:
+  composer: Loewe, Carl
+  title: Die drei Wünsche
+  ids:
+    imslp: Die drei Wünsche, Op.42 (Loewe, Carl)
+  year: 1834
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_drei_W%C3%BCnsche%2C_Op.42_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

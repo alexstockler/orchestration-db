@@ -1,0 +1,16 @@
+id: donizetti-waltz-for-piano-four-hands
+work:
+  composer: Donizetti, Gaetano
+  title: Waltz for Piano Four-Hands
+  ids:
+    imslp: Waltz for Piano 4 Hands, A 574 (Donizetti, Gaetano)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Waltz_for_Piano_4_Hands%2C_A_574_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'

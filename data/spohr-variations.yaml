@@ -1,0 +1,19 @@
+id: spohr-variations
+work:
+  composer: Spohr, Louis
+  title: Variations
+  ids:
+    imslp: Theme and Variations for String Quartet, Op.6 (Spohr, Louis)
+  year: 1805
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Theme_and_Variations_for_String_Quartet%2C_Op.6_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 10

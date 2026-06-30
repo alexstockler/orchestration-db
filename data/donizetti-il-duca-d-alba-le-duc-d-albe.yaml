@@ -1,0 +1,16 @@
+id: donizetti-il-duca-d-alba-le-duc-d-albe
+work:
+  composer: Donizetti, Gaetano
+  title: Il duca d'Alba [Le duc d'Albe]
+  ids:
+    imslp: Il duca d'Alba (Donizetti, Gaetano)
+  year: 1839
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_duca_d%27Alba_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

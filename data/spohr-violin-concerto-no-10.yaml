@@ -1,0 +1,22 @@
+id: spohr-violin-concerto-no-10
+work:
+  composer: Spohr, Louis
+  title: Violin Concerto No.10
+  ids:
+    imslp: Violin Concerto No.10, Op.62 (Spohr, Louis)
+  year: 1810
+formula: 2022 2000 str
+instrumentation:
+  flute: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+  soloists:
+  - violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Concerto_No.10%2C_Op.62_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: violin, Orchestra: 2 flutes, 2 clarinets, 2 bassoons,
+    2 horns, strings'

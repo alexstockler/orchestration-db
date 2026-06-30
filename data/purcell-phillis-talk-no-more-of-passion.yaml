@@ -1,0 +1,17 @@
+id: purcell-phillis-talk-no-more-of-passion
+work:
+  composer: Purcell, Henry
+  title: Phillis, Talk no more of Passion
+  ids:
+    imslp: Phillis, Talk no more of Passion, Z.409 (Purcell, Henry)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Phillis%2C_Talk_no_more_of_Passion%2C_Z.409_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

@@ -1,0 +1,15 @@
+id: humperdinck-junge-lieder
+work:
+  composer: Humperdinck, Engelbert
+  title: Junge Lieder
+  ids:
+    imslp: Junge Lieder (Humperdinck, Engelbert)
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Junge_Lieder_%28Humperdinck%2C_Engelbert%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

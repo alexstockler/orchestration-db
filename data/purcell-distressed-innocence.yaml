@@ -1,0 +1,20 @@
+id: purcell-distressed-innocence
+work:
+  composer: Purcell, Henry
+  title: Distressed Innocence
+  ids:
+    imslp: Distressed Innocence, Z.577 (Purcell, Henry)
+  year: 1694
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+  solo_strings:
+    violin: 2
+    viola: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Distressed_Innocence%2C_Z.577_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, bass'
+duration_minutes: 30

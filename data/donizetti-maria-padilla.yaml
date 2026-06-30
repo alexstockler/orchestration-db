@@ -1,0 +1,20 @@
+id: donizetti-maria-padilla
+work:
+  composer: Donizetti, Gaetano
+  title: Maria Padilla
+  ids:
+    imslp: Maria Padilla (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: Donna Maria Padilla (soprano) | Donna Ines Padilla (soprano) | Don
+    Pedro (baritone) | Don Ruiz di Padilla (tenor) | Don Ramiro (bass) | Francisca
+    (mezzo-soprano) | Don Luigi (tenor) | Don Alfonso di Pardo (bass)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Maria_Padilla_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: Donna Maria Padilla (soprano), Donna Ines Padilla
+    (soprano), Don Pedro (baritone), Don Ruiz di Padilla (tenor), Don Ramiro (bass),
+    Francisca (mezzo-soprano), Don Luigi (tenor), Don Alfonso di Pardo (bass) + mixed
+    chorus, Orchestra'

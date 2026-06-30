@@ -1,0 +1,17 @@
+id: purcell-whilst-cynthia-sung
+work:
+  composer: Purcell, Henry
+  title: Whilst Cynthia Sung
+  ids:
+    imslp: Whilst Cynthia Sung, Z.438 (Purcell, Henry)
+  year: 1686
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Whilst_Cynthia_Sung%2C_Z.438_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

@@ -1,0 +1,17 @@
+id: rossini-3-churs-religieux
+work:
+  composer: Rossini, Gioachino
+  title: 3 Chœurs religieux
+  ids:
+    imslp: 3 Chœurs religieux (Rossini, Gioachino)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Ch%C5%93urs_religieux_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SSAA), piano'

@@ -1,0 +1,16 @@
+id: rameau-anacreon
+work:
+  composer: Rameau, Jean-Philippe
+  title: Anacréon
+  ids:
+    imslp: Anacréon, RCT 30 (Rameau, Jean-Philippe)
+formula: ''
+instrumentation:
+  additional_raw: vocal soloists (Anacréon (Bt) | Cloe (S) | Batile (Hc)) | chorus
+    à 4
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Anacr%C3%A9on%2C_RCT_30_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists (Anacréon (Bt), Cloe (S), Batile (Hc)),
+    chorus à 4, orchestra'

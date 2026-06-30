@@ -1,0 +1,26 @@
+id: spohr-symphony-no-2
+work:
+  composer: Spohr, Louis
+  title: Symphony No.2
+  ids:
+    imslp: Symphony No.2, Op.49 (Spohr, Louis)
+  year: 1820
+formula: 2222 2230 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.2%2C_Op.49_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: 2 flutes, 2 oboes, 2 clarinets (B/A), 2 bassoons,
+    2 horns (F/D/B), 2 trumpets (D), 3 trombones, timpani, strings'
+duration_minutes: 29

@@ -1,0 +1,21 @@
+id: telemann-die-glut-des-zorns-das-feuer-der-rache
+work:
+  composer: Telemann, Georg Philipp
+  title: Die Glut des Zorns, das Feuer der Rache
+  ids:
+    imslp: Die Glut des Zorns, das Feuer der Rache, TWV 1:338a (Telemann, Georg Philipp)
+  year: 1731
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  solo_strings:
+    violin: 1
+    cello: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Glut_des_Zorns%2C_das_Feuer_der_Rache%2C_TWV_1%3A338a_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: alto (or bass), violin, cello (or bassoon), continuo'
+duration_minutes: 10

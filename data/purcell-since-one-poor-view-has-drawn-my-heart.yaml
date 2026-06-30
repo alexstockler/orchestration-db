@@ -1,0 +1,17 @@
+id: purcell-since-one-poor-view-has-drawn-my-heart
+work:
+  composer: Purcell, Henry
+  title: Since One Poor View Has Drawn My Heart
+  ids:
+    imslp: Since One Poor View Has Drawn My Heart, Z.416 (Purcell, Henry)
+  year: 1681
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Since_One_Poor_View_Has_Drawn_My_Heart%2C_Z.416_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

@@ -1,0 +1,15 @@
+id: purcell-here-s-a-health-pray-let-it-pass
+work:
+  composer: Purcell, Henry
+  title: Here's a Health, Pray Let It Pass
+  ids:
+    imslp: Here's a Health, Pray Let It Pass, Z.252 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Here%27s_a_Health%2C_Pray_Let_It_Pass%2C_Z.252_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

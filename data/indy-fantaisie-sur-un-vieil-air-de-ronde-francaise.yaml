@@ -1,0 +1,16 @@
+id: indy-fantaisie-sur-un-vieil-air-de-ronde-francaise
+work:
+  composer: Indy, Vincent d'
+  title: Fantaisie sur un Vieil air de Ronde Française
+  ids:
+    imslp: Fantaisie sur un vieil air de ronde française, Op.99 (Indy, Vincent d')
+  year: 1930
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantaisie_sur_un_vieil_air_de_ronde_fran%C3%A7aise%2C_Op.99_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

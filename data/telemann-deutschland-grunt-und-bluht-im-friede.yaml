@@ -1,0 +1,20 @@
+id: telemann-deutschland-grunt-und-bluht-im-friede
+work:
+  composer: Telemann, Georg Philipp
+  title: Deutschland grünt und blüht im Friede
+  ids:
+    imslp: Germania mit ihrem Chor, TWV 12:1c (Telemann, Georg Philipp)
+formula: 0203 2300 str
+instrumentation:
+  oboe: 2
+  bassoon: 3
+  horn: 2
+  trumpet: 3
+  strings: str
+  additional_raw: SSATB | basso continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Germania_mit_ihrem_Chor%2C_TWV_12%3A1c_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: SSATB, 2 oboes, 3 bassoons, 2 horns, 3 trumpets, strings,
+    basso continuo'

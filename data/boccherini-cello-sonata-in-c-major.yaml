@@ -1,0 +1,17 @@
+id: boccherini-cello-sonata-in-c-major
+work:
+  composer: Boccherini, Luigi
+  title: Cello Sonata in C major
+  ids:
+    imslp: Cello Sonata in C major, G.6 (Boccherini, Luigi)
+  year: 1768
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Sonata_in_C_major%2C_G.6_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, continuo'

@@ -1,0 +1,23 @@
+id: telemann-gebet-dem-kaiser-was-des-kaisers-ist
+work:
+  composer: Telemann, Georg Philipp
+  title: Gebet dem Kaiser, was des Kaisers ist
+  ids:
+    imslp: Gebet dem Kaiser, was des Kaisers ist, TWV 1:578 (Telemann, Georg Philipp)
+  year: 1711
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  - tenor
+  - bass
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gebet_dem_Kaiser%2C_was_des_Kaisers_ist%2C_TWV_1%3A578_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, tenor, bass; mixed chorus (SATB), Orchestra:
+    strings, continuo'
+duration_minutes: 12

@@ -1,0 +1,17 @@
+id: purcell-when-first-my-shepherdess-and-i
+work:
+  composer: Purcell, Henry
+  title: When First My Shepherdess and I
+  ids:
+    imslp: When First My Shepherdess and I, Z.431 (Purcell, Henry)
+  year: 1687
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/When_First_My_Shepherdess_and_I%2C_Z.431_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

@@ -1,0 +1,18 @@
+id: corelli-violin-sonata-in-d-minor-la-folia
+work:
+  composer: Corelli, Arcangelo
+  title: Violin Sonata in D minor 'La Folia'
+  ids:
+    imslp: Violin Sonata in D minor 'La Folia', Op.5 No.12 (Corelli, Arcangelo)
+  year: 1700
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_in_D_minor_%27La_Folia%27%2C_Op.5_No.12_%28Corelli%2C_Arcangelo%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, continuo'
+duration_minutes: 12

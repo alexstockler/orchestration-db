@@ -1,0 +1,15 @@
+id: corelli-fuga-a-quattro-voci
+work:
+  composer: Corelli, Arcangelo
+  title: Fuga a quattro voci
+  ids:
+    imslp: Fuga a quattro voci, Anh.15 (Corelli, Arcangelo)
+  year: 1760
+formula: ''
+instrumentation:
+  additional_raw: 4 instruments
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fuga_a_quattro_voci%2C_Anh.15_%28Corelli%2C_Arcangelo%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 instruments'

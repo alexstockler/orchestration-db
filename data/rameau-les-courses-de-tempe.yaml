@@ -1,0 +1,15 @@
+id: rameau-les-courses-de-tempe
+work:
+  composer: Rameau, Jean-Philippe
+  title: Les Courses de Tempé
+  ids:
+    imslp: Les Courses de Tempé, RCT 33 (Rameau, Jean-Philippe)
+  year: 1734
+formula: ''
+instrumentation:
+  additional_raw: unknown | see below | Comments
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_Courses_de_Temp%C3%A9%2C_RCT_33_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: unknown, see below, Comments'

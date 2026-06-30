@@ -1,0 +1,17 @@
+id: purcell-he-himself-courts-his-own-ruin
+work:
+  composer: Purcell, Henry
+  title: He Himself Courts His Own Ruin
+  ids:
+    imslp: He Himself Courts His Own Ruin, Z.372 (Purcell, Henry)
+  year: 1684
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/He_Himself_Courts_His_Own_Ruin%2C_Z.372_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

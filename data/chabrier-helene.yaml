@@ -1,0 +1,16 @@
+id: chabrier-helene
+work:
+  composer: Chabrier, Emmanuel
+  title: Hélène
+  ids:
+    imslp: Hélène (Chabrier, Emmanuel)
+  year: 1854
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/H%C3%A9l%C3%A8ne_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

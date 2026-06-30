@@ -1,0 +1,48 @@
+id: donizetti-anna-bolena
+work:
+  composer: Donizetti, Gaetano
+  title: Anna Bolena
+  ids:
+    imslp: Anna Bolena (Donizetti, Gaetano)
+  year: 1830
+formula: 5[pic.2.3.pic.5] 2[1.2/Eh] 4 2 6462 tmp+1 str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  - instrument: piccolo
+  - {}
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 4
+  bassoon: 2
+  horn: 6
+  trumpet: 4
+  trombone: 6
+  tuba: 2
+  percussion:
+    timpani: 1
+    players: 1
+  strings: str
+  soloists:
+  - Anna Bolena (soprano)
+  - Enrico (bass)
+  - Giovanna Seymour (mezzo)
+  - Lord Rochefort (bass)
+  - Lord Percy (tenor)
+  - Smeton (contralto)
+  - Hervey (tenor) Mixed Chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Anna_Bolena_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Anna Bolena (soprano), Enrico (bass), Giovanna Seymour
+    (mezzo), Lord Rochefort (bass), Lord Percy (tenor), Smeton (contralto), Hervey
+    (tenor) Mixed Chorus (SATB), Orchestra :piccolo, 2 flutes, 2 oboes (2nd also English
+    horn), 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani,
+    percussion, strings '' (Act II Finale) :piccolo, flute, 2 clarinets, 2 horns,
+    2 trumpets, 3 trombones, tuba'
+duration_minutes: 200

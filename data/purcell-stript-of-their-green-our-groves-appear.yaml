@@ -1,0 +1,17 @@
+id: purcell-stript-of-their-green-our-groves-appear
+work:
+  composer: Purcell, Henry
+  title: Stript of Their Green Our Groves Appear
+  ids:
+    imslp: Stript of Their Green Our Groves Appear, Z.444 (Purcell, Henry)
+  year: 1692
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Stript_of_Their_Green_Our_Groves_Appear%2C_Z.444_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

@@ -1,0 +1,18 @@
+id: telemann-durch-tausend-gekunstelte-ranke-twv-1-400
+work:
+  composer: Telemann, Georg Philipp
+  title: Durch tausend gekünstelte Ränke, TWV 1:400
+  ids:
+    imslp: Durch tausend gekünstelte Ränke, TWV 1:400 (Telemann, Georg Philipp)
+  year: 1732
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: SATB solos and chorus | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Durch_tausend_gek%C3%BCnstelte_R%C3%A4nke%2C_TWV_1%3A400_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB solos and chorus, 2 oboes, strings, continuo'
+duration_minutes: 15

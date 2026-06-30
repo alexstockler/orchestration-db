@@ -1,0 +1,16 @@
+id: indy-promenade-op-27
+work:
+  composer: Indy, Vincent d'
+  title: Promenade, Op.27
+  ids:
+    imslp: Promenade, Op.27 (Indy, Vincent d')
+  year: 1887
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Promenade%2C_Op.27_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

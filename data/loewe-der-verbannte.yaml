@@ -1,0 +1,18 @@
+id: loewe-der-verbannte
+work:
+  composer: Loewe, Carl
+  title: Der Verbannte
+  ids:
+    imslp: Sanct Helena, Op.126 (Loewe, Carl)
+  year: 1853
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sanct_Helena%2C_Op.126_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Bass or baritone voice, piano'

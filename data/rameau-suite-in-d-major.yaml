@@ -1,0 +1,16 @@
+id: rameau-suite-in-d-major
+work:
+  composer: Rameau, Jean-Philippe
+  title: Suite in D major
+  ids:
+    imslp: Suite in D major, RCT 3 (Rameau, Jean-Philippe)
+  year: 1724
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_in_D_major%2C_RCT_3_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

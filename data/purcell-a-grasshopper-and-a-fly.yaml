@@ -1,0 +1,16 @@
+id: purcell-a-grasshopper-and-a-fly
+work:
+  composer: Purcell, Henry
+  title: A Grasshopper and a Fly
+  ids:
+    imslp: A Grasshopper and a Fly, Z.481 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_Grasshopper_and_a_Fly%2C_Z.481_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

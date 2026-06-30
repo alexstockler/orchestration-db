@@ -1,0 +1,18 @@
+id: purcell-the-fatal-marriage
+work:
+  composer: Purcell, Henry
+  title: The Fatal Marriage
+  ids:
+    imslp: The Fatal Marriage, Z.595 (Purcell, Henry)
+  year: 1694
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Fatal_Marriage%2C_Z.595_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'
+duration_minutes: 10

@@ -1,0 +1,16 @@
+id: taneyev-scherzo
+work:
+  composer: Taneyev, Sergey
+  title: Scherzo
+  ids:
+    imslp: Scherzo in E-flat minor (Taneyev, Sergey)
+  year: 1874
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scherzo_in_E-flat_minor_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

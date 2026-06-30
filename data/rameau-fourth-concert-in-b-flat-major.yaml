@@ -1,0 +1,25 @@
+id: rameau-fourth-concert-in-b-flat-major
+work:
+  composer: Rameau, Jean-Philippe
+  title: Fourth Concert in B-flat major
+  ids:
+    imslp: Fourth Concert in B-flat major, RCT 10 (Rameau, Jean-Philippe)
+  year: 1726
+formula: 2000 0000 hpd hpd hpd hpd hpd
+instrumentation:
+  flute: 2
+  keyboards:
+  - instrument: harpsichord
+  - instrument: harpsichord
+  - instrument: harpsichord
+  - instrument: harpsichord
+  - instrument: harpsichord
+  solo_strings:
+    violin: 4
+  additional_raw: viol | viol
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fourth_Concert_in_B-flat_major%2C_RCT_10_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viol, harpsichord; flute, viol, harpsichord; 2
+    violins, harpsichord; flute, violin, harpsichord; harpsichord'

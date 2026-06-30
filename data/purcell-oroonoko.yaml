@@ -1,0 +1,17 @@
+id: purcell-oroonoko
+work:
+  composer: Purcell, Henry
+  title: Oroonoko
+  ids:
+    imslp: Oroonoko, Z.584 (Purcell, Henry)
+  year: 1695
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oroonoko%2C_Z.584_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, continuo'

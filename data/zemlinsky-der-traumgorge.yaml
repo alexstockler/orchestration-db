@@ -1,0 +1,17 @@
+id: zemlinsky-der-traumgorge
+work:
+  composer: Zemlinsky, Alexander von
+  title: Der Traumgörge
+  ids:
+    imslp: Der Traumgörge, Op.11 (Zemlinsky, Alexander von)
+  year: 1906
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Traumg%C3%B6rge%2C_Op.11_%28Zemlinsky%2C_Alexander_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

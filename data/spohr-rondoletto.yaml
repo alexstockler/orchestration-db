@@ -1,0 +1,15 @@
+id: spohr-rondoletto
+work:
+  composer: Spohr, Louis
+  title: Rondoletto
+  ids:
+    imslp: Rondoletto, Op.149 (Spohr, Louis)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rondoletto%2C_Op.149_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

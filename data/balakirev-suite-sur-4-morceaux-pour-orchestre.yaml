@@ -1,0 +1,15 @@
+id: balakirev-suite-sur-4-morceaux-pour-orchestre
+work:
+  composer: Balakirev, Mily
+  title: Suite sur 4 morceaux pour orchestre
+  ids:
+    imslp: Suite sur 4 morceaux de Chopin (Balakirev, Mily)
+  year: 1909
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_sur_4_morceaux_de_Chopin_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'
+duration_minutes: 21

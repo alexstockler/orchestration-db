@@ -1,0 +1,15 @@
+id: loewe-die-eherne-schlange
+work:
+  composer: Loewe, Carl
+  title: Die eherne Schlange
+  ids:
+    imslp: Die eherne Schlange, Op.40 (Loewe, Carl)
+  year: 1834
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_eherne_Schlange%2C_Op.40_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Male Chorus (TTBB)'

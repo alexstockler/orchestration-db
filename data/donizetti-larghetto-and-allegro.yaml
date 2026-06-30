@@ -1,0 +1,17 @@
+id: donizetti-larghetto-and-allegro
+work:
+  composer: Donizetti, Gaetano
+  title: Larghetto and Allegro
+  ids:
+    imslp: Larghetto and Allegro, A 508 (Donizetti, Gaetano)
+formula: hp
+instrumentation:
+  harp: 1
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Larghetto_and_Allegro%2C_A_508_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, harp'
+duration_minutes: 6

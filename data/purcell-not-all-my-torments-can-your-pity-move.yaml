@@ -1,0 +1,16 @@
+id: purcell-not-all-my-torments-can-your-pity-move
+work:
+  composer: Purcell, Henry
+  title: Not All My Torments Can Your Pity Move
+  ids:
+    imslp: Not All My Torments Can Your Pity Move, Z.400 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Not_All_My_Torments_Can_Your_Pity_Move%2C_Z.400_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

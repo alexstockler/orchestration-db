@@ -1,0 +1,18 @@
+id: zemlinsky-string-quartet-no-1
+work:
+  composer: Zemlinsky, Alexander von
+  title: String Quartet No.1
+  ids:
+    imslp: String Quartet No.1, Op.4 (Zemlinsky, Alexander von)
+  year: 1896
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.1%2C_Op.4_%28Zemlinsky%2C_Alexander_von%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

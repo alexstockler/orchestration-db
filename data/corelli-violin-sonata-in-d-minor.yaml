@@ -1,0 +1,17 @@
+id: corelli-violin-sonata-in-d-minor
+work:
+  composer: Corelli, Arcangelo
+  title: Violin Sonata in D minor
+  ids:
+    imslp: Violin Sonata in D minor, Op.5 No.7 (Corelli, Arcangelo)
+  year: 1700
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_in_D_minor%2C_Op.5_No.7_%28Corelli%2C_Arcangelo%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, continuo'

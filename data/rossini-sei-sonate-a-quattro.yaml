@@ -1,0 +1,20 @@
+id: rossini-sei-sonate-a-quattro
+work:
+  composer: Rossini, Gioachino
+  title: Sei sonate a quattro
+  ids:
+    imslp: 5 Quatuors Concertants (Rossini, Gioachino)
+  year: 1804
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    cello: 1
+    double_bass: 1
+  additional_raw: later arranged for string quartet
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Quatuors_Concertants_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, cello, double bass, later arranged for string
+    quartet'

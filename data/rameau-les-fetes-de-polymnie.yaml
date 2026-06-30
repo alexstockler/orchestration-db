@@ -1,0 +1,17 @@
+id: rameau-les-fetes-de-polymnie
+work:
+  composer: Rameau, Jean-Philippe
+  title: Les Fêtes de Polymnie
+  ids:
+    imslp: Les Fêtes de Polymnie, RCT 39 (Rameau, Jean-Philippe)
+  year: 1745
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_F%C3%AAtes_de_Polymnie%2C_RCT_39_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

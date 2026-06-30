@@ -1,0 +1,18 @@
+id: purcell-let-hector-achilles-and-each-brave-commander
+work:
+  composer: Purcell, Henry
+  title: Let Hector, Achilles and Each Brave Commander
+  ids:
+    imslp: Let Hector, Achilles and Each Brave Commander, Z.501 (Purcell, Henry)
+  year: 1689
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Let_Hector%2C_Achilles_and_Each_Brave_Commander%2C_Z.501_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'

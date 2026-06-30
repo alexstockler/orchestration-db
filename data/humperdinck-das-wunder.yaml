@@ -1,0 +1,18 @@
+id: humperdinck-das-wunder
+work:
+  composer: Humperdinck, Engelbert
+  title: Das Wunder
+  ids:
+    imslp: Das Wunder (Humperdinck, Engelbert)
+  year: 1911
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Wunder_%28Humperdinck%2C_Engelbert%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, children''s chorus, female chorus, mixed
+    chorus, orchestra (including organ)'

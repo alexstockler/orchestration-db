@@ -1,0 +1,18 @@
+id: rossini-se-il-vuol-la-molinara
+work:
+  composer: Rossini, Gioachino
+  title: Se il vuol la molinara
+  ids:
+    imslp: Se il vuol la molinara (Rossini, Gioachino)
+  year: 1801
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Se_il_vuol_la_molinara_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

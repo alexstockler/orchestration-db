@@ -1,0 +1,27 @@
+id: spohr-symphony-no-8
+work:
+  composer: Spohr, Louis
+  title: Symphony No.8
+  ids:
+    imslp: Symphony No.8, Op.137 (Spohr, Louis)
+  year: 1847
+formula: 2222 4230 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.8%2C_Op.137_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra :2 flutes, 2 oboes, 2 clarinets (A/B), 2 bassoons,
+    4 horns (2 in E/G, 2 in G/C/D), 2 trumpets (G alto/C/G/D), 3 trombones, timpani,
+    strings'
+duration_minutes: 33

@@ -1,0 +1,16 @@
+id: spohr-violin-concerto-no-12
+work:
+  composer: Spohr, Louis
+  title: Violin Concerto No.12
+  ids:
+    imslp: Violin Concerto No.12, Op.79 (Spohr, Louis)
+  year: 1828
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Concerto_No.12%2C_Op.79_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: violin solo, orchestra'

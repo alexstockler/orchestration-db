@@ -1,0 +1,18 @@
+id: donizetti-largo
+work:
+  composer: Donizetti, Gaetano
+  title: Largo
+  ids:
+    imslp: Largo, A 502 (Donizetti, Gaetano)
+  year: 1975
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Largo%2C_A_502_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'

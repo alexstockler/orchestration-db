@@ -1,0 +1,17 @@
+id: loewe-friede-und-ruhe-in-gott
+work:
+  composer: Loewe, Carl
+  title: Friede und Ruhe in Gott
+  ids:
+    imslp: Friede und Ruhe in Gott (Loewe, Carl)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Friede_und_Ruhe_in_Gott_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Organ'

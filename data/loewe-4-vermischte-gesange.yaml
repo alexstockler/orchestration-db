@@ -1,0 +1,17 @@
+id: loewe-4-vermischte-gesange
+work:
+  composer: Loewe, Carl
+  title: 4 Vermischte Gesänge
+  ids:
+    imslp: 4 Vermischte Gesänge (Loewe, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Vermischte_Ges%C3%A4nge_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice + Piano (+ Guitar in No.1)'

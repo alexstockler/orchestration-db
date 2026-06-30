@@ -1,0 +1,17 @@
+id: purcell-sonata-no-1-in-b-minor
+work:
+  composer: Purcell, Henry
+  title: Sonata No.1 in B minor
+  ids:
+    imslp: Sonata in B minor, Z.802 (Purcell, Henry)
+  year: 1697
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: bass viol | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_in_B_minor%2C_Z.802_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, bass viol, continuo'

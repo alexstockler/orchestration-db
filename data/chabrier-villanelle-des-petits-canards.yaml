@@ -1,0 +1,18 @@
+id: chabrier-villanelle-des-petits-canards
+work:
+  composer: Chabrier, Emmanuel
+  title: Villanelle des petits canards
+  ids:
+    imslp: Villanelle des petits canards (Chabrier, Emmanuel)
+  year: 1889
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Villanelle_des_petits_canards_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

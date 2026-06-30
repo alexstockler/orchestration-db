@@ -1,0 +1,16 @@
+id: cherubini-regina-coeli
+work:
+  composer: Cherubini, Luigi
+  title: Regina coeli
+  ids:
+    imslp: Regina coeli (Cherubini, Luigi)
+  year: 1818
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Regina_coeli_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices, orchestra'

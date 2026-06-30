@@ -1,0 +1,16 @@
+id: telemann-concerto-for-2-horns
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto for 2 Horns
+  ids:
+    imslp: Concerto for 2 Horns, TWV 52:D1 (Telemann, Georg Philipp)
+formula: 0000 2000 str
+instrumentation:
+  horn: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Horns%2C_TWV_52%3AD1_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 horns, strings, continuo'

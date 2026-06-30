@@ -1,0 +1,17 @@
+id: purcell-the-knotting-song
+work:
+  composer: Purcell, Henry
+  title: The Knotting Song
+  ids:
+    imslp: The Knotting Song, Z.371 (Purcell, Henry)
+  year: 1695
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Knotting_Song%2C_Z.371_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

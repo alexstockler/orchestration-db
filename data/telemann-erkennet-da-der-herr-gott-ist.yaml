@@ -1,0 +1,15 @@
+id: telemann-erkennet-da-der-herr-gott-ist
+work:
+  composer: Telemann, Georg Philipp
+  title: Erkennet, daß der Herr Gott ist
+  ids:
+    imslp: Erkennet, daß der Herr Gott ist, TWV 1:463 (Telemann, Georg Philipp)
+  year: 1727
+formula: ''
+instrumentation:
+  additional_raw: '| *****COMMENTS***** ='
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erkennet%2C_da%C3%9F_der_Herr_Gott_ist%2C_TWV_1%3A463_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: | *****COMMENTS***** ='

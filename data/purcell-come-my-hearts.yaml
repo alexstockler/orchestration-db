@@ -1,0 +1,16 @@
+id: purcell-come-my-hearts
+work:
+  composer: Purcell, Henry
+  title: Come, My Hearts
+  ids:
+    imslp: Come, My Hearts, Z.246 (Purcell, Henry)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Come%2C_My_Hearts%2C_Z.246_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

@@ -1,0 +1,17 @@
+id: purcell-amidst-the-shades-and-cool-refreshing-streams
+work:
+  composer: Purcell, Henry
+  title: Amidst the Shades and Cool Refreshing Streams
+  ids:
+    imslp: Amidst the Shades and Cool Refreshing Streams, Z.355 (Purcell, Henry)
+  year: 1687
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Amidst_the_Shades_and_Cool_Refreshing_Streams%2C_Z.355_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

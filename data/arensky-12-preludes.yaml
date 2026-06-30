@@ -1,0 +1,15 @@
+id: arensky-12-preludes
+work:
+  composer: Arensky, Anton
+  title: 12 Preludes
+  ids:
+    imslp: 12 Preludes, Op.63 (Arensky, Anton)
+  year: 1903
+formula: ''
+instrumentation:
+  additional_raw: '|Tags=preludes | pf'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Preludes%2C_Op.63_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: |Tags=preludes ; pf'

@@ -1,0 +1,17 @@
+id: purcell-sonata-in-d-minor
+work:
+  composer: Purcell, Henry
+  title: Sonata in D minor
+  ids:
+    imslp: Sonata in D minor, Z.805 (Purcell, Henry)
+  year: 1697
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: bass viol | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_in_D_minor%2C_Z.805_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, bass viol, continuo'

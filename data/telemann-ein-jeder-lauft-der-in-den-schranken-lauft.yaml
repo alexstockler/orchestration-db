@@ -1,0 +1,20 @@
+id: telemann-ein-jeder-lauft-der-in-den-schranken-lauft
+work:
+  composer: Telemann, Georg Philipp
+  title: Ein jeder läuft, der in den Schranken läuft
+  ids:
+    imslp: Ein jeder läuft, der in den Schranken läuft, TWV 1:425 (Telemann, Georg
+      Philipp)
+  year: 1725
+formula: 0100 0000
+instrumentation:
+  oboe: 1
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ein_jeder_l%C3%A4uft%2C_der_in_den_Schranken_l%C3%A4uft%2C_TWV_1%3A425_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, oboe, continuo'
+duration_minutes: 9

@@ -1,0 +1,18 @@
+id: telemann-gott-hat-jesum-erhohet
+work:
+  composer: Telemann, Georg Philipp
+  title: Gott hat Jesum erhöhet
+  ids:
+    imslp: Gott hat Jesum erhöhet, TWV 1:654 (Telemann, Georg Philipp)
+  year: 1726
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_hat_Jesum_erh%C3%B6het%2C_TWV_1%3A654_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'
+duration_minutes: 10

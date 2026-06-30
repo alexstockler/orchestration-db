@@ -1,0 +1,21 @@
+id: telemann-gott-unser-heiland-will
+work:
+  composer: Telemann, Georg Philipp
+  title: Gott unser Heiland will
+  ids:
+    imslp: Gott unser Heiland will, TWV 1:686 (Telemann, Georg Philipp)
+  year: 1744
+formula: ''
+instrumentation:
+  soloists:
+  - 2 voices
+  solo_strings:
+    violin: 2
+  additional_raw: bass (optional) | viola (optional) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_unser_Heiland_will%2C_TWV_1%3A686_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, bass (optional), 2 violins, viola (optional),
+    continuo'
+duration_minutes: 20

@@ -1,0 +1,16 @@
+id: telemann-concerto-for-recorder-and-viola-da-gamba
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto for Recorder and viola da gamba
+  ids:
+    imslp: Concerto for Recorder and Viola da Gamba, TWV 52:a1 (Telemann, Georg Philipp)
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: treble (Alto) recorder | viola da gamba | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_Recorder_and_Viola_da_Gamba%2C_TWV_52%3Aa1_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: treble (Alto) recorder, viola da gamba, strings, continuo'
+duration_minutes: 16

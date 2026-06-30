@@ -1,0 +1,17 @@
+id: telemann-concerto-a-7-in-f-major
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto à 7 in F major
+  ids:
+    imslp: Concerto à 7 in F major, TWV 44:41 (Telemann, Georg Philipp)
+formula: 0200 0000
+instrumentation:
+  oboe: 2
+  solo_strings:
+    violin: 2
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_%C3%A0_7_in_F_major%2C_TWV_44%3A41_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 recorders, 2 oboes, 2 violins, continuo'

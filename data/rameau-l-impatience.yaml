@@ -1,0 +1,16 @@
+id: rameau-l-impatience
+work:
+  composer: Rameau, Jean-Philippe
+  title: L'impatience
+  ids:
+    imslp: L'Impatience, RCT 26 (Rameau, Jean-Philippe)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: bass viol | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27Impatience%2C_RCT_26_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, bass viol, continuo'

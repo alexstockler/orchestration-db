@@ -1,0 +1,17 @@
+id: boccherini-string-quintet-in-d-major
+work:
+  composer: Boccherini, Luigi
+  title: String Quintet in D major
+  ids:
+    imslp: String Quintet in D major, G.341 (Boccherini, Luigi)
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quintet_in_D_major%2C_G.341_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, 2 cellos'

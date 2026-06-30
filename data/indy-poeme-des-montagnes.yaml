@@ -1,0 +1,17 @@
+id: indy-poeme-des-montagnes
+work:
+  composer: Indy, Vincent d'
+  title: Poème des montagnes
+  ids:
+    imslp: Poème des Montagnes, Op.15 (Indy, Vincent d')
+  year: 1881
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Po%C3%A8me_des_Montagnes%2C_Op.15_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'
+duration_minutes: 20

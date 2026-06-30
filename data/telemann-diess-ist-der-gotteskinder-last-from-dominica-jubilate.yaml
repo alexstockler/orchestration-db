@@ -1,0 +1,17 @@
+id: telemann-diess-ist-der-gotteskinder-last-from-dominica-jubilate
+work:
+  composer: Telemann, Georg Philipp
+  title: Diess ist der Gotteskinder Last from Dominica Jubilate
+  ids:
+    imslp: Dies ist der Gotteskinder Last, TWV 1:356 (Telemann, Georg Philipp)
+formula: 0100 0000
+instrumentation:
+  oboe: 1
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dies_ist_der_Gotteskinder_Last%2C_TWV_1%3A356_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, oboe, continuo'

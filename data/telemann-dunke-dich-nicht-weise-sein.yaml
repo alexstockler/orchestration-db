@@ -1,0 +1,18 @@
+id: telemann-dunke-dich-nicht-weise-sein
+work:
+  composer: Telemann, Georg Philipp
+  title: Dünke dich nicht weise sein
+  ids:
+    imslp: Dünke dich nicht weise sein, TWV 1:386 (Telemann, Georg Philipp)
+  year: 1720
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/D%C3%BCnke_dich_nicht_weise_sein%2C_TWV_1%3A386_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'
+duration_minutes: 13

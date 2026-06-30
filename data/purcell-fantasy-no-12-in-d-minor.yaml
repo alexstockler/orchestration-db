@@ -1,0 +1,14 @@
+id: purcell-fantasy-no-12-in-d-minor
+work:
+  composer: Purcell, Henry
+  title: Fantasy No.12 in D minor
+  ids:
+    imslp: Fantasia in D minor, Z.743 (Purcell, Henry)
+formula: ''
+instrumentation:
+  additional_raw: 4 viols / other instruments
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_in_D_minor%2C_Z.743_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 viols / other instruments'

@@ -1,0 +1,16 @@
+id: cherubini-eliza-ou-le-voyage-aux-glaciers-du-mont-st-bernard
+work:
+  composer: Cherubini, Luigi
+  title: Eliza, ou Le voyage aux glaciers du Mont St-Bernard
+  ids:
+    imslp: Eliza (Cherubini, Luigi)
+  year: 1794
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Eliza_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, Chorus, Orchestra'

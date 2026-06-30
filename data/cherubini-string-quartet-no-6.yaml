@@ -1,0 +1,19 @@
+id: cherubini-string-quartet-no-6
+work:
+  composer: Cherubini, Luigi
+  title: String Quartet No.6
+  ids:
+    imslp: String Quartet No.6 (Cherubini, Luigi)
+  year: 1835
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.6_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 30

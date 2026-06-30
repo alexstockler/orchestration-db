@@ -1,0 +1,17 @@
+id: purcell-high-on-a-throne-of-glitt-ring-ore
+work:
+  composer: Purcell, Henry
+  title: High on a Throne of Glitt'ring Ore
+  ids:
+    imslp: High on a Throne of Glitt'ring Ore, Z.465 (Purcell, Henry)
+  year: 1690
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/High_on_a_Throne_of_Glitt%27ring_Ore%2C_Z.465_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

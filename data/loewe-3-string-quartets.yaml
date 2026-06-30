@@ -1,0 +1,19 @@
+id: loewe-3-string-quartets
+work:
+  composer: Loewe, Carl
+  title: 3 String Quartets
+  ids:
+    imslp: 3 String Quartets, Op.24 (Loewe, Carl)
+  year: 1821
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_String_Quartets%2C_Op.24_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Violins, Viola, cello'
+duration_minutes: 27

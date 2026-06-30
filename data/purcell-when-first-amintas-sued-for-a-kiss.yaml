@@ -1,0 +1,17 @@
+id: purcell-when-first-amintas-sued-for-a-kiss
+work:
+  composer: Purcell, Henry
+  title: When First Amintas Sued for a Kiss
+  ids:
+    imslp: When First Amintas Sued for a Kiss, Z.430 (Purcell, Henry)
+  year: 1687
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/When_First_Amintas_Sued_for_a_Kiss%2C_Z.430_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

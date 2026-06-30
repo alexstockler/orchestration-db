@@ -1,0 +1,18 @@
+id: taneyev-4-poems
+work:
+  composer: Taneyev, Sergey
+  title: 4 Poems
+  ids:
+    imslp: 4 Poems, Op.32 (Taneyev, Sergey)
+  year: 1911
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Poems%2C_Op.32_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice + Piano'

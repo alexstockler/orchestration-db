@@ -1,0 +1,18 @@
+id: loewe-frage-nicht
+work:
+  composer: Loewe, Carl
+  title: Frage nicht
+  ids:
+    imslp: Frage nicht (Loewe, Carl)
+  year: 1899
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Frage_nicht_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

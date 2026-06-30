@@ -1,0 +1,17 @@
+id: purcell-if-grief-has-any-power-to-kill
+work:
+  composer: Purcell, Henry
+  title: If Grief Has Any Power to Kill
+  ids:
+    imslp: If Grief Has Any Power to Kill, Z.378 (Purcell, Henry)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/If_Grief_Has_Any_Power_to_Kill%2C_Z.378_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

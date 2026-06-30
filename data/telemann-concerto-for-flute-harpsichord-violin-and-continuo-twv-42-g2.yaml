@@ -1,0 +1,19 @@
+id: telemann-concerto-for-flute-harpsichord-violin-and-continuo-twv-42-g2
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto for Flute, Harpsichord, Violin and Continuo, TWV 42:g2
+  ids:
+    imslp: Concerto for Flute, Harpsichord, Violin and Continuo, TWV 42:g2 (Telemann,
+      Georg Philipp)
+  year: 1734
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  solo_strings:
+    violin: 1
+  additional_raw: harpsichord and continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_Flute%2C_Harpsichord%2C_Violin_and_Continuo%2C_TWV_42%3Ag2_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, violin, harpsichord and continuo'

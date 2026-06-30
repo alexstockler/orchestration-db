@@ -1,0 +1,21 @@
+id: spohr-alruna-clarinet-variations
+work:
+  composer: Spohr, Louis
+  title: Alruna Clarinet variations
+  ids:
+    imslp: Variations on 'Alruna' for Clarinet and Orchestra, WoO 15 (Spohr, Louis)
+  year: 1809
+formula: 1112 2000 str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variations_on_%27Alruna%27_for_Clarinet_and_Orchestra%2C_WoO_15_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, clarinet, 2 bassoons, 2 horns, strings'
+duration_minutes: 9

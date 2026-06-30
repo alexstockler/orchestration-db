@@ -1,0 +1,17 @@
+id: loewe-zigeuner-sonata-fur-das-pianoforte
+work:
+  composer: Loewe, Carl
+  title: Zigeuner Sonata für das Pianoforte
+  ids:
+    imslp: Zigeuner Sonata, Op.107b (Loewe, Carl)
+  year: 1847
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Zigeuner_Sonata%2C_Op.107b_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'
+duration_minutes: 30

@@ -1,0 +1,18 @@
+id: indy-au-galop
+work:
+  composer: Indy, Vincent d'
+  title: Au galop
+  ids:
+    imslp: Au galop, Op.11 (Indy, Vincent d')
+  year: 1871
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Au_galop%2C_Op.11_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

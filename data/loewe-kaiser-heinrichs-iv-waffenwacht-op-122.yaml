@@ -1,0 +1,18 @@
+id: loewe-kaiser-heinrichs-iv-waffenwacht-op-122
+work:
+  composer: Loewe, Carl
+  title: Kaiser Heinrichs IV. Waffenwacht, Op.122
+  ids:
+    imslp: Kaiser Heinrichs IV. Waffenwacht, Op.122 (Loewe, Carl)
+  year: 1852
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kaiser_Heinrichs_IV._Waffenwacht%2C_Op.122_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

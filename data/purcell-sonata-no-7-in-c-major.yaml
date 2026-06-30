@@ -1,0 +1,17 @@
+id: purcell-sonata-no-7-in-c-major
+work:
+  composer: Purcell, Henry
+  title: Sonata No.7 in C major
+  ids:
+    imslp: Sonata in C major, Z.808 (Purcell, Henry)
+  year: 1697
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: bass viol | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_in_C_major%2C_Z.808_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, bass viol, continuo'

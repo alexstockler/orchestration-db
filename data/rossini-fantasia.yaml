@@ -1,0 +1,16 @@
+id: rossini-fantasia
+work:
+  composer: Rossini, Gioachino
+  title: Fantasia
+  ids:
+    imslp: Fantasia (Rossini, Gioachino)
+formula: 0010 0000 pf
+instrumentation:
+  clarinet: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet (B), piano'

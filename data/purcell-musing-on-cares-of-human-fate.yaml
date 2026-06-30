@@ -1,0 +1,17 @@
+id: purcell-musing-on-cares-of-human-fate
+work:
+  composer: Purcell, Henry
+  title: Musing on Cares of Human Fate
+  ids:
+    imslp: Musing on Cares of Human Fate, Z.467 (Purcell, Henry)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Musing_on_Cares_of_Human_Fate%2C_Z.467_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

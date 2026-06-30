@@ -1,0 +1,17 @@
+id: telemann-ach-gott-du-bist-gerecht
+work:
+  composer: Telemann, Georg Philipp
+  title: Ach Gott, du bist gerecht
+  ids:
+    imslp: Ach Gott, du bist gerecht, TWV 1:11 (Telemann, Georg Philipp)
+  year: 1711
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: 2 oboes (optional) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach_Gott%2C_du_bist_gerecht%2C_TWV_1%3A11_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes (optional), strings, continuo'
+duration_minutes: 11

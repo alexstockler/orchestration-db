@@ -1,0 +1,16 @@
+id: chausson-5-fantaisies
+work:
+  composer: Chausson, Ernest
+  title: 5 Fantaisies
+  ids:
+    imslp: 5 Fantaisies, Op.1 (Chausson, Ernest)
+  year: 1879
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Fantaisies%2C_Op.1_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

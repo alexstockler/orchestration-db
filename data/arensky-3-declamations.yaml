@@ -1,0 +1,17 @@
+id: arensky-3-declamations
+work:
+  composer: Arensky, Anton
+  title: 3 Declamations
+  ids:
+    imslp: 3 Declamations, Op.68 (Arensky, Anton)
+  year: 1903
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: Narrator
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Declamations%2C_Op.68_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Narrator + Piano'

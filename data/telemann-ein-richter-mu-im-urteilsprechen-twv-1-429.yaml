@@ -1,0 +1,25 @@
+id: telemann-ein-richter-mu-im-urteilsprechen-twv-1-429
+work:
+  composer: Telemann, Georg Philipp
+  title: Ein Richter muß im Urteilsprechen, TWV 1:429
+  ids:
+    imslp: Ein Richter muß im Urteilsprechen, TWV 1:429 (Telemann, Georg Philipp)
+  year: 1737
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass solos
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ein_Richter_mu%C3%9F_im_Urteilsprechen%2C_TWV_1%3A429_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass solos; mixed chorus (SATB),
+    2 oboes, strings, continuo'
+duration_minutes: 12

@@ -1,0 +1,16 @@
+id: taneyev-sunrise
+work:
+  composer: Taneyev, Sergey
+  title: Sunrise
+  ids:
+    imslp: Sunrise, Op.8 (Taneyev, Sergey)
+  year: 1897
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: a capella
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sunrise%2C_Op.8_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus, a capella'

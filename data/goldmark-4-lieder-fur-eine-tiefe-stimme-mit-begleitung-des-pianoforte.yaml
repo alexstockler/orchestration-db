@@ -1,0 +1,18 @@
+id: goldmark-4-lieder-fur-eine-tiefe-stimme-mit-begleitung-des-pianoforte
+work:
+  composer: Goldmark, Carl
+  title: 4 Lieder für eine tiefe Stimme mit Begleitung des Pianoforte
+  ids:
+    imslp: 4 Lieder, Op.34 (Goldmark, Carl)
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Lieder%2C_Op.34_%28Goldmark%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

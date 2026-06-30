@@ -1,0 +1,16 @@
+id: rossini-per-la-collezione-della-biblioteca-reale-di-berlino
+work:
+  composer: Rossini, Gioachino
+  title: Per la collezione della Biblioteca Reale di Berlino
+  ids:
+    imslp: Per la collezione della Biblioteca Reale di Berlino (Rossini, Gioachino)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Per_la_collezione_della_Biblioteca_Reale_di_Berlino_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

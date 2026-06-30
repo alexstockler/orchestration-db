@@ -1,0 +1,18 @@
+id: donizetti-le-petit-joueur-de-harpe
+work:
+  composer: Donizetti, Gaetano
+  title: Le petit joueur de harpe
+  ids:
+    imslp: Le petit joueur de harpe, A 358 (Donizetti, Gaetano)
+formula: pf hp
+instrumentation:
+  keyboards:
+  - instrument: piano
+  harp: 1
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_petit_joueur_de_harpe%2C_A_358_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, harp, piano'

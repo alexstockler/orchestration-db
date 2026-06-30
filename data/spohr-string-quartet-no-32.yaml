@@ -1,0 +1,18 @@
+id: spohr-string-quartet-no-32
+work:
+  composer: Spohr, Louis
+  title: String Quartet No.32
+  ids:
+    imslp: String Quartet No.32, Op.141 (Spohr, Louis)
+  year: 1849
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.32%2C_Op.141_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

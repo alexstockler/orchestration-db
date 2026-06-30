@@ -1,0 +1,16 @@
+id: purcell-the-miller-s-daughter-riding
+work:
+  composer: Purcell, Henry
+  title: The Miller's Daughter Riding
+  ids:
+    imslp: The Miller's Daughter Riding, Z.277 (Purcell, Henry)
+  year: 1686
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Miller%27s_Daughter_Riding%2C_Z.277_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

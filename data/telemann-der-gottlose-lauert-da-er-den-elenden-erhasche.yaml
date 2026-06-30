@@ -1,0 +1,19 @@
+id: telemann-der-gottlose-lauert-da-er-den-elenden-erhasche
+work:
+  composer: Telemann, Georg Philipp
+  title: Der Gottlose lauert, daß er den Elenden erhasche
+  ids:
+    imslp: Der Gottlose lauert, daß er den Elenden erhasche, TWV 1:253 (Telemann,
+      Georg Philipp)
+  year: 1737
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Gottlose_lauert%2C_da%C3%9F_er_den_Elenden_erhasche%2C_TWV_1%3A253_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'
+duration_minutes: 12

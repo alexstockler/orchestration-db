@@ -1,0 +1,17 @@
+id: telemann-erhalte-mich-o-herr-in-deinem-werke
+work:
+  composer: Telemann, Georg Philipp
+  title: Erhalte mich, O Herr, in deinem Werke
+  ids:
+    imslp: Erhalte mich, O Herr, in deinem Werke, TWV 1:449 (Telemann, Georg Philipp)
+  year: 1725
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  additional_raw: medium voice | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erhalte_mich%2C_O_Herr%2C_in_deinem_Werke%2C_TWV_1%3A449_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: medium voice, flute, continuo'
+duration_minutes: 10

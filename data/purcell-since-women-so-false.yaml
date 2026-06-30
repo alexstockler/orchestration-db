@@ -1,0 +1,15 @@
+id: purcell-since-women-so-false
+work:
+  composer: Purcell, Henry
+  title: Since Women So False
+  ids:
+    imslp: Since Women So False (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Since_Women_So_False_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

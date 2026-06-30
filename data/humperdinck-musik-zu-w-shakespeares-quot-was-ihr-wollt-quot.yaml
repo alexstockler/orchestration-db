@@ -1,0 +1,14 @@
+id: humperdinck-musik-zu-w-shakespeares-quot-was-ihr-wollt-quot
+work:
+  composer: Humperdinck, Engelbert
+  title: Musik zu W. Shakespeares &quot;Was ihr wollt&quot;
+  ids:
+    imslp: Was ihr wollt (Humperdinck, Engelbert)
+  year: 1908
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Was_ihr_wollt_%28Humperdinck%2C_Engelbert%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra'

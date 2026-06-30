@@ -1,0 +1,16 @@
+id: purcell-regulus
+work:
+  composer: Purcell, Henry
+  title: Regulus
+  ids:
+    imslp: Regulus, Z.586 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Regulus%2C_Z.586_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

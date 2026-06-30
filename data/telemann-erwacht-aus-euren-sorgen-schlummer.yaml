@@ -1,0 +1,20 @@
+id: telemann-erwacht-aus-euren-sorgen-schlummer
+work:
+  composer: Telemann, Georg Philipp
+  title: Erwacht aus euren Sorgen-Schlummer
+  ids:
+    imslp: Erwacht aus euren Sorgen-Schlummer, TWV 1:481a (Telemann, Georg Philipp)
+  year: 1731
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erwacht_aus_euren_Sorgen-Schlummer%2C_TWV_1%3A481a_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, 2 violins, continuo'
+duration_minutes: 11

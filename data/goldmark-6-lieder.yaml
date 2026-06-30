@@ -1,0 +1,18 @@
+id: goldmark-6-lieder
+work:
+  composer: Goldmark, Carl
+  title: 6 Lieder
+  ids:
+    imslp: 6 Lieder, Op.46 (Goldmark, Carl)
+  year: 1913
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Lieder%2C_Op.46_%28Goldmark%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

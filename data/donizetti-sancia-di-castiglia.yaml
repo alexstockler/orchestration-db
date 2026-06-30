@@ -1,0 +1,17 @@
+id: donizetti-sancia-di-castiglia
+work:
+  composer: Donizetti, Gaetano
+  title: Sancia di Castiglia
+  ids:
+    imslp: Sancia di Castiglia (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: Sancia (soprano) | Garzia (mezzo-soprano) | Ircano (bass) | Rodrigo
+    (tenor) | Elvira (soprano)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sancia_di_Castiglia_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: Sancia (soprano), Garzia (mezzo-soprano), Ircano
+    (bass), Rodrigo (tenor), Elvira (soprano) + mixed chorus (SATB), Orchestra'

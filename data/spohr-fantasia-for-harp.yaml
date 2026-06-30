@@ -1,0 +1,15 @@
+id: spohr-fantasia-for-harp
+work:
+  composer: Spohr, Louis
+  title: Fantasia for Harp
+  ids:
+    imslp: Fantasia for Harp, Op.35 (Spohr, Louis)
+  year: 1807
+formula: hp
+instrumentation:
+  harp: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_for_Harp%2C_Op.35_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: harp'

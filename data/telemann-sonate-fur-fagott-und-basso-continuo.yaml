@@ -1,0 +1,14 @@
+id: telemann-sonate-fur-fagott-und-basso-continuo
+work:
+  composer: Telemann, Georg Philipp
+  title: Sonate für Fagott und Basso Continuo
+  ids:
+    imslp: Bassoon Sonata, TWV 41:EsA1 (Telemann, Georg Philipp)
+formula: ''
+instrumentation:
+  additional_raw: Bassoon and continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bassoon_Sonata%2C_TWV_41%3AEsA1_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Bassoon and continuo'

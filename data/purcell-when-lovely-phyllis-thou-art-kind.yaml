@@ -1,0 +1,17 @@
+id: purcell-when-lovely-phyllis-thou-art-kind
+work:
+  composer: Purcell, Henry
+  title: When, Lovely Phyllis, Thou Art Kind
+  ids:
+    imslp: When, Lovely Phyllis, Thou Art Kind, Z.520 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/When%2C_Lovely_Phyllis%2C_Thou_Art_Kind%2C_Z.520_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'

@@ -1,0 +1,24 @@
+id: cherubini-les-deux-journees
+work:
+  composer: Cherubini, Luigi
+  title: Les deux journées
+  ids:
+    imslp: Les deux journées (Cherubini, Luigi)
+  year: 1799
+formula: 2222 3010 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 3
+  trombone: 1
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_deux_journ%C3%A9es_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons,, 3 horns, trombone,
+    timpani, strings'

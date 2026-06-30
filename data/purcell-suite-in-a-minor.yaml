@@ -1,0 +1,15 @@
+id: purcell-suite-in-a-minor
+work:
+  composer: Purcell, Henry
+  title: Suite in A minor
+  ids:
+    imslp: Suite in A minor, Z.663 (Purcell, Henry)
+  year: 1696
+formula: ''
+instrumentation:
+  additional_raw: keyboard (harpsichord, spinet)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_in_A_minor%2C_Z.663_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard (harpsichord, spinet)'

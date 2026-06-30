@@ -1,0 +1,17 @@
+id: purcell-don-quixote
+work:
+  composer: Purcell, Henry
+  title: Don Quixote
+  ids:
+    imslp: Don Quixote, Z.578 (Purcell, Henry)
+  year: 1694
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Don_Quixote%2C_Z.578_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra (presumed)'
+duration_minutes: 45

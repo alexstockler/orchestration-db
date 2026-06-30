@@ -1,0 +1,21 @@
+id: donizetti-laudate-pueri
+work:
+  composer: Donizetti, Gaetano
+  title: Laudate pueri
+  ids:
+    imslp: Laudate pueri, A 646 (Donizetti, Gaetano)
+  year: 1819
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Laudate_pueri%2C_A_646_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, mixed chorus (SATB), orchestra'
+duration_minutes: 8

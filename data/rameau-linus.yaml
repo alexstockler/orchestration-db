@@ -1,0 +1,15 @@
+id: rameau-linus
+work:
+  composer: Rameau, Jean-Philippe
+  title: Linus
+  ids:
+    imslp: Linus, RCT 46 (Rameau, Jean-Philippe)
+  year: 1750
+formula: ''
+instrumentation:
+  additional_raw: unknown for the original
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Linus%2C_RCT_46_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: unknown for the original'

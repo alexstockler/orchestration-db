@@ -1,0 +1,16 @@
+id: telemann-concerto-for-2-violins-in-a-major
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto for 2 Violins in A major
+  ids:
+    imslp: Concerto for 2 Violins, TWV 52:A2 (Telemann, Georg Philipp)
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Violins%2C_TWV_52%3AA2_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'

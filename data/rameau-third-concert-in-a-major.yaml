@@ -1,0 +1,19 @@
+id: rameau-third-concert-in-a-major
+work:
+  composer: Rameau, Jean-Philippe
+  title: Third Concert in A major
+  ids:
+    imslp: Third Concert in A major, RCT 9 (Rameau, Jean-Philippe)
+  year: 1726
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+  additional_raw: violin/flute | bass viol/violin | harpsichord solo | see also the
+    Walsh edition which mentions viola but not bass viol.
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Third_Concert_in_A_major%2C_RCT_9_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: violin/flute, bass viol/violin, harpsichord; harpsichord
+    solo; see also the Walsh edition which mentions viola but not bass viol.'

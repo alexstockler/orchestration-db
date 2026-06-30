@@ -1,0 +1,18 @@
+id: cherubini-missa-solemnis-no-3
+work:
+  composer: Cherubini, Luigi
+  title: Missa solemnis No.3
+  ids:
+    imslp: Missa solemnis No.3 (Cherubini, Luigi)
+  year: 1825
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Missa_solemnis_No.3_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, bass (or mixed chorus), orchestra'

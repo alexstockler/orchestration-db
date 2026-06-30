@@ -1,0 +1,18 @@
+id: spohr-string-quintet-no-2
+work:
+  composer: Spohr, Louis
+  title: String Quintet No.2
+  ids:
+    imslp: String Quintet No.2, Op.33 No.2 (Spohr, Louis)
+  year: 1813
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 2
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quintet_No.2%2C_Op.33_No.2_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, 2 violas, cello'

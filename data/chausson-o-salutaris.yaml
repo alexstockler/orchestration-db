@@ -1,0 +1,18 @@
+id: chausson-o-salutaris
+work:
+  composer: Chausson, Ernest
+  title: O salutaris
+  ids:
+    imslp: O salutaris (Chausson, Ernest)
+  year: 1879
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_salutaris_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, organ (or piano)'

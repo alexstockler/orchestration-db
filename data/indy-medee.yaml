@@ -1,0 +1,36 @@
+id: indy-medee
+work:
+  composer: Indy, Vincent d'
+  title: Médée
+  ids:
+    imslp: Médée, Op.47 (Indy, Vincent d')
+  year: 1898
+formula: 2[1.2/pic] 2[1/Eh.2] 2 2 3230 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - doublings:
+    - english_horn
+  - {}
+  clarinet: 2
+  bassoon: 2
+  horn: 3
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/M%C3%A9d%C3%A9e%2C_Op.47_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes (1st also English
+    horn), 2 clarinets, 2 bassoons, 3 horns, 2 trumpets, 3 trombones, timpani, cymbals,
+    harp, strings'
+duration_minutes: 30

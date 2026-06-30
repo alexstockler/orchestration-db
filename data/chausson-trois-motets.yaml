@@ -1,0 +1,21 @@
+id: chausson-trois-motets
+work:
+  composer: Chausson, Ernest
+  title: Trois Motets
+  ids:
+    imslp: 3 Motets, Op.12 (Chausson, Ernest)
+  year: 1886
+formula: org hp
+instrumentation:
+  keyboards:
+  - instrument: organ
+  harp: 1
+  soloists:
+  - 4 voices
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Motets%2C_Op.12_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices, cello, harp, organ'

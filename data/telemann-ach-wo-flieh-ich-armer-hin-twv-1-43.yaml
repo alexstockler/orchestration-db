@@ -1,0 +1,23 @@
+id: telemann-ach-wo-flieh-ich-armer-hin-twv-1-43
+work:
+  composer: Telemann, Georg Philipp
+  title: Ach, wo flieh' ich Armer hin, TWV 1:43
+  ids:
+    imslp: Ach, wo flieh' ich Armer hin, TWV 1:43 (Telemann, Georg Philipp)
+  year: 1711
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - tenor
+  - bass solos
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach%2C_wo_flieh%27_ich_Armer_hin%2C_TWV_1%3A43_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, bass solos, mixed chorus (SATB), 2 oboes, strings,
+    continuo'
+duration_minutes: 12

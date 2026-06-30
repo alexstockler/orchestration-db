@@ -1,0 +1,16 @@
+id: purcell-awake-awake-put-on-thy-strength
+work:
+  composer: Purcell, Henry
+  title: Awake, Awake, Put on Thy Strength
+  ids:
+    imslp: Awake, Put on Thy Strength, Z.1 (Purcell, Henry)
+formula: str
+instrumentation:
+  strings: str
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Awake%2C_Put_on_Thy_Strength%2C_Z.1_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus, strings, continuo'

@@ -1,0 +1,21 @@
+id: purcell-see-where-she-sits
+work:
+  composer: Purcell, Henry
+  title: See Where She Sits
+  ids:
+    imslp: See Where She Sits, Z.508 (Purcell, Henry)
+  year: 1683
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/See_Where_She_Sits%2C_Z.508_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, 2 violins, continuo'
+duration_minutes: 6

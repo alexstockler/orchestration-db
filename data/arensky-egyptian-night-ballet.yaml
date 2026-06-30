@@ -1,0 +1,14 @@
+id: arensky-egyptian-night-ballet
+work:
+  composer: Arensky, Anton
+  title: Egyptian Night (ballet)
+  ids:
+    imslp: Egyptian Nights (ballet), Op.50 (Arensky, Anton)
+  year: 1908
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Egyptian_Nights_%28ballet%29%2C_Op.50_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra'

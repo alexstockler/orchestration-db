@@ -1,0 +1,27 @@
+id: telemann-gott-widerstehet-den-hoffartigen-twv-1-691
+work:
+  composer: Telemann, Georg Philipp
+  title: Gott widerstehet den Hoffärtigen, TWV 1:691
+  ids:
+    imslp: Gott widerstehet den Hoffärtigen, TWV 1:691 (Telemann, Georg Philipp)
+  year: 1727
+formula: 0200 0000 str
+instrumentation:
+  oboe:
+  - optional: true
+  - optional: true
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_widerstehet_den_Hoff%C3%A4rtigen%2C_TWV_1%3A691_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, mixed chorus (SATB), 2 oboes
+    (ad lib.), strings, continuo'
+duration_minutes: 10

@@ -1,0 +1,17 @@
+id: purcell-farewell-ye-rocks
+work:
+  composer: Purcell, Henry
+  title: Farewell, Ye Rocks
+  ids:
+    imslp: Farewell, Ye Rocks, Z.463 (Purcell, Henry)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Farewell%2C_Ye_Rocks%2C_Z.463_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

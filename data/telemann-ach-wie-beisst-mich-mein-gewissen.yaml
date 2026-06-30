@@ -1,0 +1,18 @@
+id: telemann-ach-wie-beisst-mich-mein-gewissen
+work:
+  composer: Telemann, Georg Philipp
+  title: Ach, wie beisst mich mein Gewissen
+  ids:
+    imslp: Ach, wie beisst mich mein Gewissen, TWV 1:36 (Telemann, Georg Philipp)
+  year: 1714
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach%2C_wie_beisst_mich_mein_Gewissen%2C_TWV_1%3A36_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings (2 violas), continuo'
+duration_minutes: 16

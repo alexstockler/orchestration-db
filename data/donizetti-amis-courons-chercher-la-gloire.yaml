@@ -1,0 +1,14 @@
+id: donizetti-amis-courons-chercher-la-gloire
+work:
+  composer: Donizetti, Gaetano
+  title: Amis courons chercher la gloire
+  ids:
+    imslp: Amis courons chercher la gloire, In.466 (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  additional_raw: 3 voices?
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Amis_courons_chercher_la_gloire%2C_In.466_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices?'

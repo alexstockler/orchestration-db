@@ -1,0 +1,16 @@
+id: loewe-hiob-s-todesschauer
+work:
+  composer: Loewe, Carl
+  title: Hiob's Todesschauer
+  ids:
+    imslp: Hiob's Todesschauer (Loewe, Carl)
+  year: 1848
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hiob%27s_Todesschauer_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Orchestra'

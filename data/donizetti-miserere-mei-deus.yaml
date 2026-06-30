@@ -1,0 +1,16 @@
+id: donizetti-miserere-mei-deus
+work:
+  composer: Donizetti, Gaetano
+  title: Miserere mei Deus
+  ids:
+    imslp: Miserere mei Deus, A 693 (Donizetti, Gaetano)
+  year: 1820
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Miserere_mei_Deus%2C_A_693_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus, orchestra'
+duration_minutes: 11

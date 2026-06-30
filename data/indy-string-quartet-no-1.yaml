@@ -1,0 +1,17 @@
+id: indy-string-quartet-no-1
+work:
+  composer: Indy, Vincent d'
+  title: String Quartet No.1
+  ids:
+    imslp: String Quartet No.1, Op.35 (Indy, Vincent d')
+  year: 1890
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: Viola and Cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.1%2C_Op.35_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Violins, Viola and Cello'

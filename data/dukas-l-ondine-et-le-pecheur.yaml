@@ -1,0 +1,16 @@
+id: dukas-l-ondine-et-le-pecheur
+work:
+  composer: Dukas, Paul
+  title: L'ondine et le pêcheur
+  ids:
+    imslp: L'ondine et le pêcheur (Dukas, Paul)
+  year: 1884
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27ondine_et_le_p%C3%AAcheur_%28Dukas%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, orchestra'

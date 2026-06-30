@@ -1,0 +1,15 @@
+id: purcell-sefauchi-s-farewell
+work:
+  composer: Purcell, Henry
+  title: Sefauchi's Farewell
+  ids:
+    imslp: Sefauchi's Farewell, Z.656 (Purcell, Henry)
+  year: 1687
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sefauchi%27s_Farewell%2C_Z.656_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

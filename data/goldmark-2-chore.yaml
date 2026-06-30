@@ -1,0 +1,15 @@
+id: goldmark-2-chore
+work:
+  composer: Goldmark, Carl
+  title: 2 Chöre
+  ids:
+    imslp: 2 Chöre, Op.41 (Goldmark, Carl)
+  year: 1896
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Ch%C3%B6re%2C_Op.41_%28Goldmark%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

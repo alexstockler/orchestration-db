@@ -1,0 +1,17 @@
+id: donizetti-oro-supplex
+work:
+  composer: Donizetti, Gaetano
+  title: Oro supplex
+  ids:
+    imslp: Oro supplex, A 708 (Donizetti, Gaetano)
+  year: 1819
+formula: 0000 1000
+instrumentation:
+  horn: 1
+  soloists:
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oro_supplex%2C_A_708_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, horn, orchestra'

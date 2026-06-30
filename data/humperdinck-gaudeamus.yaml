@@ -1,0 +1,17 @@
+id: humperdinck-gaudeamus
+work:
+  composer: Humperdinck, Engelbert
+  title: Gaudeamus
+  ids:
+    imslp: Gaudeamus (Humperdinck, Engelbert)
+  year: 1914
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gaudeamus_%28Humperdinck%2C_Engelbert%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra (presumed, see below, Comments)'

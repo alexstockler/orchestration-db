@@ -1,0 +1,16 @@
+id: telemann-ein-feste-burg-ist-unser-gott
+work:
+  composer: Telemann, Georg Philipp
+  title: Ein feste Burg ist unser Gott
+  ids:
+    imslp: Ein feste Burg ist unser Gott, TWV 8:7 (Telemann, Georg Philipp)
+  year: 1780
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ein_feste_Burg_ist_unser_Gott%2C_TWV_8%3A7_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 10

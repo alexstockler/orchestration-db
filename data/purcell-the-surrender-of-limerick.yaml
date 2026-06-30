@@ -1,0 +1,16 @@
+id: purcell-the-surrender-of-limerick
+work:
+  composer: Purcell, Henry
+  title: The Surrender of Limerick
+  ids:
+    imslp: The Surrender of Limerick, Z.278 (Purcell, Henry)
+  year: 1691
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Surrender_of_Limerick%2C_Z.278_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

@@ -1,0 +1,15 @@
+id: purcell-welcome-welcome-glorious-morn
+work:
+  composer: Purcell, Henry
+  title: Welcome, Welcome Glorious Morn
+  ids:
+    imslp: Welcome, Welcome Glorious Morn, Z.338 (Purcell, Henry)
+  year: 1691
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Welcome%2C_Welcome_Glorious_Morn%2C_Z.338_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (with soloists), orchestra'

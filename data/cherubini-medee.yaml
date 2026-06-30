@@ -1,0 +1,18 @@
+id: cherubini-medee
+work:
+  composer: Cherubini, Luigi
+  title: Médée
+  ids:
+    imslp: Médée (Cherubini, Luigi)
+  year: 1796
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/M%C3%A9d%C3%A9e_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'
+duration_minutes: 150

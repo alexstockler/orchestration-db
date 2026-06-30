@@ -1,0 +1,15 @@
+id: purcell-trumpet-tune
+work:
+  composer: Purcell, Henry
+  title: Trumpet Tune
+  ids:
+    imslp: Trumpet Tune in D major (Purcell, Henry)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trumpet_Tune_in_D_major_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: organ (or harpsichord)'

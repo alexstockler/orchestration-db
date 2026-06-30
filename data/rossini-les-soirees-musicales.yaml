@@ -1,0 +1,29 @@
+id: rossini-les-soirees-musicales
+work:
+  composer: Rossini, Gioachino
+  title: Les soirées musicales
+  ids:
+    imslp: La Danza (Rossini, Gioachino)
+  year: 1830
+formula: pf pf pf pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  - instrument: piano
+  - instrument: piano
+  - instrument: piano
+  soloists:
+  - soprano
+  - tenor
+  - sopranos
+  - soprano
+  - tenor
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_Danza_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, piano (Nos.1–7), tenor, piano (No.8), 2 sopranos,
+    piano (Nos.9, 10), soprano, tenor, piano (No.11), tenor, bass, piano (No.12)'

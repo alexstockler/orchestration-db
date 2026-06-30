@@ -1,0 +1,17 @@
+id: purcell-how-i-sigh-when-i-think-of-the-charms
+work:
+  composer: Purcell, Henry
+  title: How I Sigh when I Think of the Charms
+  ids:
+    imslp: How I Sigh when I Think of the Charms, Z.374 (Purcell, Henry)
+  year: 1681
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/How_I_Sigh_when_I_Think_of_the_Charms%2C_Z.374_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

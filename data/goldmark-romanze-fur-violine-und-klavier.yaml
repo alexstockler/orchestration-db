@@ -1,0 +1,17 @@
+id: goldmark-romanze-fur-violine-und-klavier
+work:
+  composer: Goldmark, Carl
+  title: Romanze für Violine und Klavier
+  ids:
+    imslp: Romanze, Op.51 (Goldmark, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romanze%2C_Op.51_%28Goldmark%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

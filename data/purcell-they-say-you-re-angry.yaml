@@ -1,0 +1,17 @@
+id: purcell-they-say-you-re-angry
+work:
+  composer: Purcell, Henry
+  title: They Say You're Angry
+  ids:
+    imslp: They Say You're Angry, Z.422 (Purcell, Henry)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/They_Say_You%27re_Angry%2C_Z.422_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

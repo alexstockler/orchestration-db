@@ -1,0 +1,17 @@
+id: spohr-sonata-no-1
+work:
+  composer: Spohr, Louis
+  title: Sonata No.1
+  ids:
+    imslp: Violin Sonata No.1, WoO 23 (Spohr, Louis)
+  year: 1805
+formula: hp
+instrumentation:
+  harp: 1
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_No.1%2C_WoO_23_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, harp'

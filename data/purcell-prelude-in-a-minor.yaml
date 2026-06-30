@@ -1,0 +1,14 @@
+id: purcell-prelude-in-a-minor
+work:
+  composer: Purcell, Henry
+  title: Prelude in A minor
+  ids:
+    imslp: Prelude in A minor, Z.652 (Purcell, Henry)
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude_in_A_minor%2C_Z.652_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

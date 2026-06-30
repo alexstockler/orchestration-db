@@ -1,0 +1,18 @@
+id: loewe-des-meister-phonix-sang
+work:
+  composer: Loewe, Carl
+  title: Des Meister Phönix-Sang
+  ids:
+    imslp: Des Meister Phönix-Sang (Loewe, Carl)
+  year: 1843
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Des_Meister_Ph%C3%B6nix-Sang_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

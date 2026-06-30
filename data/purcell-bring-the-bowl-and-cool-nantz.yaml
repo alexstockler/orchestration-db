@@ -1,0 +1,16 @@
+id: purcell-bring-the-bowl-and-cool-nantz
+work:
+  composer: Purcell, Henry
+  title: Bring the Bowl and Cool Nantz
+  ids:
+    imslp: Bring the Bowl and Cool Nantz, Z.243 (Purcell, Henry)
+  year: 1693
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bring_the_Bowl_and_Cool_Nantz%2C_Z.243_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

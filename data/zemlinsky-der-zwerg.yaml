@@ -1,0 +1,17 @@
+id: zemlinsky-der-zwerg
+work:
+  composer: Zemlinsky, Alexander von
+  title: Der Zwerg
+  ids:
+    imslp: Der Zwerg, Op.17 (Zemlinsky, Alexander von)
+  year: 1919
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Zwerg%2C_Op.17_%28Zemlinsky%2C_Alexander_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices, chorus (friends of the infanta), orchestra'

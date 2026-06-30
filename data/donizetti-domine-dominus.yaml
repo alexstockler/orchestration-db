@@ -1,0 +1,16 @@
+id: donizetti-domine-dominus
+work:
+  composer: Donizetti, Gaetano
+  title: Domine Dominus
+  ids:
+    imslp: Domine Dominus (Donizetti, Gaetano)
+  year: 1845
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Domine_Dominus_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, orchestra'

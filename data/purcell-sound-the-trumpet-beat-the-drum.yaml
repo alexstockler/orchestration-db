@@ -1,0 +1,24 @@
+id: purcell-sound-the-trumpet-beat-the-drum
+work:
+  composer: Purcell, Henry
+  title: Sound the Trumpet, Beat the Drum
+  ids:
+    imslp: Sound the Trumpet, Beat the Drum, Z.335 (Purcell, Henry)
+  year: 1687
+formula: ''
+instrumentation:
+  soloists:
+  - altos
+  - tenors
+  chorus_raw: mixed chorus
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: 2 basses (solo) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sound_the_Trumpet%2C_Beat_the_Drum%2C_Z.335_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 altos, 2 tenors, 2 basses (solo), mixed chorus (SATB),
+    2 violins, viola, continuo'
+duration_minutes: 24

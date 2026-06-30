@@ -1,0 +1,19 @@
+id: boccherini-flute-quintet-in-e-flat-major
+work:
+  composer: Boccherini, Luigi
+  title: Flute Quintet in E-flat major
+  ids:
+    imslp: Flute Quintet in E-flat major, G.424 (Boccherini, Luigi)
+  year: 1773
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flute_Quintet_in_E-flat_major%2C_G.424_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: flute (oboe), 2 violins, viola, cello'

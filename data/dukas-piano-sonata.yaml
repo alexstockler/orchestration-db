@@ -1,0 +1,17 @@
+id: dukas-piano-sonata
+work:
+  composer: Dukas, Paul
+  title: Piano Sonata
+  ids:
+    imslp: Piano Sonata (Dukas, Paul)
+  year: 1899
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_%28Dukas%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 50

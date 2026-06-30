@@ -1,0 +1,18 @@
+id: spohr-mass-in-c-minor
+work:
+  composer: Spohr, Louis
+  title: Mass in C minor
+  ids:
+    imslp: Mass in C minor, Op.54 (Spohr, Louis)
+  year: 1820
+formula: ''
+instrumentation:
+  additional_raw: 5 soloists | Double chorus in 10 parts (coro minore/coro maggiore)
+    (SSSSAATTBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mass_in_C_minor%2C_Op.54_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 5 soloists, Double chorus in 10 parts (coro minore/coro
+    maggiore) (SSSSAATTBB)'
+duration_minutes: 29

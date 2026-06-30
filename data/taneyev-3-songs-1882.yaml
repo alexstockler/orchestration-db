@@ -1,0 +1,19 @@
+id: taneyev-3-songs-1882
+work:
+  composer: Taneyev, Sergey
+  title: 3 Songs (1882)
+  ids:
+    imslp: 3 Songs (1882) (Taneyev, Sergey)
+  year: 1882
+formula: pf hp
+instrumentation:
+  keyboards:
+  - instrument: piano
+  harp: 1
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Songs_%281882%29_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, harp, piano'

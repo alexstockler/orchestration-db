@@ -1,0 +1,17 @@
+id: purcell-a-poor-blind-woman-zd-171
+work:
+  composer: Purcell, Henry
+  title: A Poor Blind Woman, ZD 171
+  ids:
+    imslp: A Poor Blind Woman, ZD 171 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_Poor_Blind_Woman%2C_ZD_171_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, bass, continuo'

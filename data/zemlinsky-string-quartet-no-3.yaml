@@ -1,0 +1,19 @@
+id: zemlinsky-string-quartet-no-3
+work:
+  composer: Zemlinsky, Alexander von
+  title: String Quartet No.3
+  ids:
+    imslp: String Quartet No.3, Op.19 (Zemlinsky, Alexander von)
+  year: 1924
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.3%2C_Op.19_%28Zemlinsky%2C_Alexander_von%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 24

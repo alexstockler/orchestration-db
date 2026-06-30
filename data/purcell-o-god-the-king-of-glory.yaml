@@ -1,0 +1,16 @@
+id: purcell-o-god-the-king-of-glory
+work:
+  composer: Purcell, Henry
+  title: O God the King of Glory
+  ids:
+    imslp: O God the King of Glory, Z.34 (Purcell, Henry)
+  year: 1679
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_God_the_King_of_Glory%2C_Z.34_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices'

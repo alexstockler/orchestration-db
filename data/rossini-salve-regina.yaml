@@ -1,0 +1,17 @@
+id: rossini-salve-regina
+work:
+  composer: Rossini, Gioachino
+  title: Salve Regina
+  ids:
+    imslp: Salve Regina (Rossini, Gioachino)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Salve_Regina_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), organ'
+duration_minutes: 3

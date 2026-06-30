@@ -1,0 +1,16 @@
+id: indy-13-pieces-breves
+work:
+  composer: Indy, Vincent d'
+  title: 13 pièces brèves
+  ids:
+    imslp: 13 Pièces Brèves, Op.68 (Indy, Vincent d')
+  year: 1908
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/13_Pi%C3%A8ces_Br%C3%A8ves%2C_Op.68_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

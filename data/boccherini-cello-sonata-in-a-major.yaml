@@ -1,0 +1,18 @@
+id: boccherini-cello-sonata-in-a-major
+work:
+  composer: Boccherini, Luigi
+  title: Cello Sonata in A major
+  ids:
+    imslp: Cello Sonata in A major, G.4 (Boccherini, Luigi)
+  year: 1771
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 1
+  additional_raw: basso (probably a second cello, though Grove Music lists it as continuo)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Sonata_in_A_major%2C_G.4_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, basso (probably a second cello, though Grove Music
+    lists it as continuo)'

@@ -1,0 +1,24 @@
+id: telemann-der-gottlose-ist-wie-ein-wetter
+work:
+  composer: Telemann, Georg Philipp
+  title: Der Gottlose ist wie ein Wetter
+  ids:
+    imslp: Der Gottlose ist wie ein Wetter, TWV 1:251 (Telemann, Georg Philipp)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: continuo (catalogue lists 2 oboes, bassoon in addition)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Gottlose_ist_wie_ein_Wetter%2C_TWV_1%3A251_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, 2 violins, viola, continuo
+    (catalogue lists 2 oboes, bassoon in addition)'
+duration_minutes: 12

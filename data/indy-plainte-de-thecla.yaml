@@ -1,0 +1,18 @@
+id: indy-plainte-de-thecla
+work:
+  composer: Indy, Vincent d'
+  title: Plainte de Thécla
+  ids:
+    imslp: Plainte de Thécla, Op.10 (Indy, Vincent d')
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Plainte_de_Th%C3%A9cla%2C_Op.10_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,19 @@
+id: donizetti-maria-di-rohan
+work:
+  composer: Donizetti, Gaetano
+  title: Maria di Rohan
+  ids:
+    imslp: Maria di Rohan (Donizetti, Gaetano)
+  year: 1842
+formula: ''
+instrumentation:
+  additional_raw: Maria (soprano) | Riccardo (tenor) | Enrico (baritone) | Armando
+    di Gondi (contralto/tenor) | Il Visconte di Suze (bass) | De Fiesque (bass) |
+    Aubry (tenor) | Un confindente di Chevreuse (bass) Mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Maria_di_Rohan_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Maria (soprano), Riccardo (tenor), Enrico (baritone),
+    Armando di Gondi (contralto/tenor), Il Visconte di Suze (bass), De Fiesque (bass),
+    Aubry (tenor), Un confindente di Chevreuse (bass) Mixed chorus (SATB), Orchestra'

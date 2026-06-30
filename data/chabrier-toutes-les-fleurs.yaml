@@ -1,0 +1,18 @@
+id: chabrier-toutes-les-fleurs
+work:
+  composer: Chabrier, Emmanuel
+  title: Toutes les fleurs
+  ids:
+    imslp: Toutes les fleurs (Chabrier, Emmanuel)
+  year: 1889
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Toutes_les_fleurs_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

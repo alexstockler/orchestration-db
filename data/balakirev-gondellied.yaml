@@ -1,0 +1,16 @@
+id: balakirev-gondellied
+work:
+  composer: Balakirev, Mily
+  title: Gondellied
+  ids:
+    imslp: Gondolier's Song (Balakirev, Mily)
+  year: 1901
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gondolier%27s_Song_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,13 @@
+id: boccherini-symphonie-in-c-minor
+work:
+  composer: Boccherini, Luigi
+  title: Symphonie in C minor
+  ids:
+    imslp: Symphony in C minor, G.519 (Boccherini, Luigi)
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_in_C_minor%2C_G.519_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

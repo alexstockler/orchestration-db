@@ -1,0 +1,17 @@
+id: donizetti-adelia
+work:
+  composer: Donizetti, Gaetano
+  title: Adelia
+  ids:
+    imslp: Adelia (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  additional_raw: Carlo (baritone) | Adelia (soprano) | Oliviero (tenor) | Arnold
+    (bass) | Comino (tenor) | Odetta (mezzo) | Uno scudiero (bass) Mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adelia_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices :Carlo (baritone), Adelia (soprano), Oliviero (tenor),,
+    Arnold (bass), Comino (tenor), Odetta (mezzo), Uno scudiero (bass) Mixed chorus,
+    Orchestra'

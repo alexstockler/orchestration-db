@@ -1,0 +1,16 @@
+id: donizetti-laudamus-et-gratias
+work:
+  composer: Donizetti, Gaetano
+  title: Laudamus et Gratias
+  ids:
+    imslp: Laudamus et Gratias, A 620 (Donizetti, Gaetano)
+formula: 0010 0000
+instrumentation:
+  clarinet: 1
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Laudamus_et_Gratias%2C_A_620_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voice(s?), clarinet, orchestra'

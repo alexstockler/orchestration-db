@@ -1,0 +1,16 @@
+id: rameau-les-fetes-de-l-hymen-et-de-l-amour
+work:
+  composer: Rameau, Jean-Philippe
+  title: Les Fêtes de l'Hymen et de l'Amour
+  ids:
+    imslp: Les Fêtes de l'Hymen et de l'Amour, RCT 38 (Rameau, Jean-Philippe)
+  year: 1747
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_F%C3%AAtes_de_l%27Hymen_et_de_l%27Amour%2C_RCT_38_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

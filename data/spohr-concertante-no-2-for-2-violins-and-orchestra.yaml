@@ -1,0 +1,23 @@
+id: spohr-concertante-no-2-for-2-violins-and-orchestra
+work:
+  composer: Spohr, Louis
+  title: Concertante No.2 for 2 Violins and Orchestra
+  ids:
+    imslp: Concertante No.2 for 2 Violins and Orchestra, Op.88 (Spohr, Louis)
+  year: 1833
+formula: 2022 4000 str
+instrumentation:
+  flute: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  strings: str
+  soloists:
+  - Solo - 2 violins
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concertante_No.2_for_2_Violins_and_Orchestra%2C_Op.88_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins and orchestra :Solo - 2 violins, Orchestra ::2
+    flutes, 2 clarinet, 2 bassoons, 4 horns, strings'
+duration_minutes: 13

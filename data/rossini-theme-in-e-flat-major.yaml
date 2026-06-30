@@ -1,0 +1,15 @@
+id: rossini-theme-in-e-flat-major
+work:
+  composer: Rossini, Gioachino
+  title: Theme in E-flat major
+  ids:
+    imslp: Theme in E-flat major (Rossini, Gioachino)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Theme_in_E-flat_major_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

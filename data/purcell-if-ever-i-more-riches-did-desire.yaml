@@ -1,0 +1,23 @@
+id: purcell-if-ever-i-more-riches-did-desire
+work:
+  composer: Purcell, Henry
+  title: If ever I more riches did desire
+  ids:
+    imslp: If ever I more riches did desire, Z.544 (Purcell, Henry)
+  year: 1686
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - tenor
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: (soli and chorus) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/If_ever_I_more_riches_did_desire%2C_Z.544_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, tenor, bass, (soli and chorus), 2 violins,
+    continuo'
+duration_minutes: 12

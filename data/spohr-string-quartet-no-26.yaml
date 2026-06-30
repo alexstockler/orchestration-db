@@ -1,0 +1,19 @@
+id: spohr-string-quartet-no-26
+work:
+  composer: Spohr, Louis
+  title: String Quartet No.26
+  ids:
+    imslp: String Quartet No.26, Op.83 (Spohr, Louis)
+  year: 1829
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.26%2C_Op.83_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 30

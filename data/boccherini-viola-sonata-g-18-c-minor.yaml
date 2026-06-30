@@ -1,0 +1,15 @@
+id: boccherini-viola-sonata-g-18-c-minor
+work:
+  composer: Boccherini, Luigi
+  title: Viola Sonata, G.18, C minor
+  ids:
+    imslp: Viola Sonata in C minor, G.18 (Boccherini, Luigi)
+  year: 1959
+formula: ''
+instrumentation:
+  additional_raw: viola (or cello) and cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Viola_Sonata_in_C_minor%2C_G.18_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: viola (or cello) and cello'

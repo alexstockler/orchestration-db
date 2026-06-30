@@ -1,0 +1,23 @@
+id: purcell-the-summer-s-absence-unconcerned-we-bear
+work:
+  composer: Purcell, Henry
+  title: The summer's absence unconcerned we bear
+  ids:
+    imslp: The Summer's Absence Unconcerned We Bear, Z.337 (Purcell, Henry)
+  year: 1682
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - sopranos
+  - altos
+  - tenor
+  chorus_raw: mixed chorus
+  additional_raw: 2 basses (solo) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Summer%27s_Absence_Unconcerned_We_Bear%2C_Z.337_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, 2 altos, tenor, 2 basses (solo), mixed chorus
+    (SATB), strings, continuo'
+duration_minutes: 16

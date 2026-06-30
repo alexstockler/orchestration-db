@@ -1,0 +1,16 @@
+id: chabrier-wileika
+work:
+  composer: Chabrier, Emmanuel
+  title: Wileika
+  ids:
+    imslp: Wileika, Op.7 (Chabrier, Emmanuel)
+  year: 1852
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Wileika%2C_Op.7_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

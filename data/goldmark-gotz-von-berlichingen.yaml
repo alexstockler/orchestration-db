@@ -1,0 +1,17 @@
+id: goldmark-gotz-von-berlichingen
+work:
+  composer: Goldmark, Carl
+  title: Götz von Berlichingen
+  ids:
+    imslp: Götz von Berlichingen (Goldmark, Carl)
+  year: 1902
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/G%C3%B6tz_von_Berlichingen_%28Goldmark%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices, chorus, orchestra'

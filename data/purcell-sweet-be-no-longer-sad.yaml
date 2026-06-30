@@ -1,0 +1,17 @@
+id: purcell-sweet-be-no-longer-sad
+work:
+  composer: Purcell, Henry
+  title: Sweet, Be No Longer Sad
+  ids:
+    imslp: Sweet, Be No Longer Sad, Z.418 (Purcell, Henry)
+  year: 1678
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sweet%2C_Be_No_Longer_Sad%2C_Z.418_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

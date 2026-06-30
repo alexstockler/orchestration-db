@@ -1,0 +1,18 @@
+id: purcell-i-saw-fair-cloris-all-alone
+work:
+  composer: Purcell, Henry
+  title: I Saw Fair Cloris All Alone
+  ids:
+    imslp: I Saw Fair Cloris All Alone, Z.498 (Purcell, Henry)
+  year: 1687
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/I_Saw_Fair_Cloris_All_Alone%2C_Z.498_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'

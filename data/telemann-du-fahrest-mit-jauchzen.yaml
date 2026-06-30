@@ -1,0 +1,18 @@
+id: telemann-du-fahrest-mit-jauchzen
+work:
+  composer: Telemann, Georg Philipp
+  title: Du fährest mit Jauchzen
+  ids:
+    imslp: Du fährest mit Jauchzen, TWV 1:387 (Telemann, Georg Philipp)
+  year: 1725
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+  additional_raw: medium voice | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Du_f%C3%A4hrest_mit_Jauchzen%2C_TWV_1%3A387_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: medium voice, violin, continuo'
+duration_minutes: 10

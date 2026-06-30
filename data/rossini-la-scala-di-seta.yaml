@@ -1,0 +1,16 @@
+id: rossini-la-scala-di-seta
+work:
+  composer: Rossini, Gioachino
+  title: La scala di seta
+  ids:
+    imslp: La scala di seta (Rossini, Gioachino)
+  year: 1812
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_scala_di_seta_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

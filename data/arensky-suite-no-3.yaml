@@ -1,0 +1,18 @@
+id: arensky-suite-no-3
+work:
+  composer: Arensky, Anton
+  title: Suite No.3
+  ids:
+    imslp: Suite No.3, Op.33 (Arensky, Anton)
+  year: 1894
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_No.3%2C_Op.33_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 pianos'
+duration_minutes: 25

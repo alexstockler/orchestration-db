@@ -1,0 +1,23 @@
+id: purcell-celebrate-this-festival
+work:
+  composer: Purcell, Henry
+  title: Celebrate this Festival
+  ids:
+    imslp: Celebrate this Festival, Z.321 (Purcell, Henry)
+  year: 1693
+formula: 0200 0100 str
+instrumentation:
+  oboe: 2
+  trumpet: 1
+  strings: str
+  soloists:
+  - SSATB soloists
+  - mixed chorus (SSAATTBB)
+  additional_raw: 3 recorders | (bassoon?) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Celebrate_this_Festival%2C_Z.321_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: SSATB soloists, mixed chorus (SSAATTBB), Orchestra:
+    3 recorders, 2 oboes, (bassoon?), trumpet, strings, continuo'
+duration_minutes: 32

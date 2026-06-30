@@ -1,0 +1,16 @@
+id: purcell-when-v-and-i-together-meet
+work:
+  composer: Purcell, Henry
+  title: When V and I Together Meet
+  ids:
+    imslp: When V and I Together Meet, Z.287 (Purcell, Henry)
+  year: 1686
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/When_V_and_I_Together_Meet%2C_Z.287_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

@@ -1,0 +1,18 @@
+id: purcell-how-great-are-the-blessings
+work:
+  composer: Purcell, Henry
+  title: How Great Are the Blessings
+  ids:
+    imslp: How Great Are the Blessings, Z.494 (Purcell, Henry)
+  year: 1686
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/How_Great_Are_the_Blessings%2C_Z.494_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'

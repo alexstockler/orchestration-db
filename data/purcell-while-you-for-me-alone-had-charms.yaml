@@ -1,0 +1,18 @@
+id: purcell-while-you-for-me-alone-had-charms
+work:
+  composer: Purcell, Henry
+  title: While You for Me Alone Had Charms
+  ids:
+    imslp: While You for Me Alone Had Charms, Z.524 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  chorus_raw: chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/While_You_for_Me_Alone_Had_Charms%2C_Z.524_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, bass, chorus, continuo'

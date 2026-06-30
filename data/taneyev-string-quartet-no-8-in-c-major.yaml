@@ -1,0 +1,19 @@
+id: taneyev-string-quartet-no-8-in-c-major
+work:
+  composer: Taneyev, Sergey
+  title: String Quartet No.8 in C major
+  ids:
+    imslp: String Quartet No.8 (Taneyev, Sergey)
+  year: 1882
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.8_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 35

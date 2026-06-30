@@ -1,0 +1,15 @@
+id: boieldieu-emma
+work:
+  composer: Boieldieu, François Adrien
+  title: Emma
+  ids:
+    imslp: Emma (Boieldieu, François Adrien)
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Emma_%28Boieldieu%2C_Fran%C3%A7ois_Adrien%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, Chorus, Orchestra'

@@ -1,0 +1,17 @@
+id: purcell-cupid-the-slyest-rogue-alive
+work:
+  composer: Purcell, Henry
+  title: Cupid, the Slyest Rogue Alive
+  ids:
+    imslp: Cupid, the Slyest Rogue Alive, Z.367 (Purcell, Henry)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cupid%2C_the_Slyest_Rogue_Alive%2C_Z.367_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

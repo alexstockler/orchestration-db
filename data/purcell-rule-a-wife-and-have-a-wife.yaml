@@ -1,0 +1,18 @@
+id: purcell-rule-a-wife-and-have-a-wife
+work:
+  composer: Purcell, Henry
+  title: Rule a Wife and Have a Wife
+  ids:
+    imslp: Rule a Wife and Have a Wife, Z.587 (Purcell, Henry)
+  year: 1693
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rule_a_Wife_and_Have_a_Wife%2C_Z.587_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'
+duration_minutes: 3

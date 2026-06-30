@@ -1,0 +1,20 @@
+id: telemann-beweget-euch-munter
+work:
+  composer: Telemann, Georg Philipp
+  title: Beweget euch munter
+  ids:
+    imslp: Beweget euch munter, TWV 1:125b (Telemann, Georg Philipp)
+  year: 1731
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Beweget_euch_munter%2C_TWV_1%3A125b_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, violins (unison), continuo'
+duration_minutes: 10

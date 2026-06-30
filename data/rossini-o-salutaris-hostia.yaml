@@ -1,0 +1,19 @@
+id: rossini-o-salutaris-hostia
+work:
+  composer: Rossini, Gioachino
+  title: O salutaris Hostia
+  ids:
+    imslp: O salutaris Hostia (Rossini, Gioachino)
+  year: 1857
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  - baritone
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_salutaris_Hostia_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, baritone, bass'

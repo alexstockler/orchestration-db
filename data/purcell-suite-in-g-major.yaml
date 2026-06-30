@@ -1,0 +1,15 @@
+id: purcell-suite-in-g-major
+work:
+  composer: Purcell, Henry
+  title: Suite in G major
+  ids:
+    imslp: Suite in G major, Z.660 (Purcell, Henry)
+  year: 1696
+formula: ''
+instrumentation:
+  additional_raw: keyboard (harpsichord, spinet)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_in_G_major%2C_Z.660_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard (harpsichord, spinet)'

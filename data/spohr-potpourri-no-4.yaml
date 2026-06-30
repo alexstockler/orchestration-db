@@ -1,0 +1,19 @@
+id: spohr-potpourri-no-4
+work:
+  composer: Spohr, Louis
+  title: Potpourri No.4
+  ids:
+    imslp: Potpourri No.4, Op.24 (Spohr, Louis)
+  year: 1808
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Potpourri_No.4%2C_Op.24_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello (=''basse'')'
+duration_minutes: 10

@@ -1,0 +1,21 @@
+id: taneyev-at-the-reading-of-a-psalm
+work:
+  composer: Taneyev, Sergey
+  title: At the Reading of a Psalm
+  ids:
+    imslp: At the Reading of a Psalm, Op.36 (Taneyev, Sergey)
+  year: 1912
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus and orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/At_the_Reading_of_a_Psalm%2C_Op.36_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices (solo soprano, alto, tenor and bass), Chorus and
+    Orchestra (piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets, bass clarinet,
+    3 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, triangle,
+    snare drum, bass drum, gong, cymbals, harp, strings)'
+duration_minutes: 70

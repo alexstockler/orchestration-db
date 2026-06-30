@@ -1,0 +1,20 @@
+id: humperdinck-sonntagsruhe
+work:
+  composer: Humperdinck, Engelbert
+  title: Sonntagsruhe
+  ids:
+    imslp: Sonntagsruhe (Humperdinck, Engelbert)
+  year: 1897
+formula: 2122 2000 str
+instrumentation:
+  flute: 2
+  oboe: 1
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonntagsruhe_%28Humperdinck%2C_Engelbert%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, oboe, 2 clarinets, 2 bassoons, 2 horns, strings'

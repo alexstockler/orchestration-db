@@ -1,0 +1,18 @@
+id: rossini-il-viaggio-a-reims
+work:
+  composer: Rossini, Gioachino
+  title: Il viaggio a Reims
+  ids:
+    imslp: Il viaggio a Reims (Rossini, Gioachino)
+  year: 1825
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_viaggio_a_Reims_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'
+duration_minutes: 150

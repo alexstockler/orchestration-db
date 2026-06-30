@@ -1,0 +1,17 @@
+id: corelli-trio-sonata-in-d-major
+work:
+  composer: Corelli, Arcangelo
+  title: Trio Sonata in D major
+  ids:
+    imslp: Trio Sonata in D major, Op.2 No.1 (Corelli, Arcangelo)
+  year: 1685
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_D_major%2C_Op.2_No.1_%28Corelli%2C_Arcangelo%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, violone, continuo'

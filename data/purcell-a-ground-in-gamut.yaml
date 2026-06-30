@@ -1,0 +1,14 @@
+id: purcell-a-ground-in-gamut
+work:
+  composer: Purcell, Henry
+  title: A Ground in Gamut
+  ids:
+    imslp: A Ground in Gamut, Z.645 (Purcell, Henry)
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_Ground_in_Gamut%2C_Z.645_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

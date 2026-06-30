@@ -1,0 +1,16 @@
+id: donizetti-presto
+work:
+  composer: Donizetti, Gaetano
+  title: Presto
+  ids:
+    imslp: Presto, A 532 (Donizetti, Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Presto%2C_A_532_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 4

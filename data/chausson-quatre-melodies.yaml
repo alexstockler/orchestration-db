@@ -1,0 +1,16 @@
+id: chausson-quatre-melodies
+work:
+  composer: Chausson, Ernest
+  title: Quatre mélodies
+  ids:
+    imslp: 4 Mélodies, Op.13 (Chausson, Ernest)
+  year: 1885
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_M%C3%A9lodies%2C_Op.13_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

@@ -1,0 +1,18 @@
+id: taneyev
+work:
+  composer: Taneyev, Sergey
+  title: Из Гафиза
+  ids:
+    imslp: From Hafiz (Taneyev, Sergey)
+  year: 1886
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/From_Hafiz_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

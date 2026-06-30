@@ -1,0 +1,20 @@
+id: boccherini-sextet-in-e-flat-major-g-467
+work:
+  composer: Boccherini, Luigi
+  title: Sextet in E-flat major, G.467
+  ids:
+    imslp: Sextet in E-flat major, G.467 (Boccherini, Luigi)
+formula: 0001 1000
+instrumentation:
+  bassoon: 1
+  horn: 1
+  solo_strings:
+    violin: 1
+    viola: 1
+    double_bass: 1
+  additional_raw: flute/oboe
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sextet_in_E-flat_major%2C_G.467_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: flute/oboe, bassoon, horn, violin, viola, double bass'

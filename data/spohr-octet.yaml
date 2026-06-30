@@ -1,0 +1,22 @@
+id: spohr-octet
+work:
+  composer: Spohr, Louis
+  title: Octet
+  ids:
+    imslp: Octet, Op.32 (Spohr, Louis)
+  year: 1814
+formula: 0010 2000
+instrumentation:
+  clarinet: 1
+  horn: 2
+  soloists:
+  - bass
+  solo_strings:
+    violin: 1
+    viola: 2
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Octet%2C_Op.32_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet (A), 2 horns (E), violin, 2 violas, cello, bass'

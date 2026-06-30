@@ -1,0 +1,16 @@
+id: purcell-in-nomine-of-six-parts
+work:
+  composer: Purcell, Henry
+  title: In Nomine of Six Parts
+  ids:
+    imslp: In Nomine of Six Parts, Z.746 (Purcell, Henry)
+  year: 1680
+formula: ''
+instrumentation:
+  additional_raw: 6 viols
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_Nomine_of_Six_Parts%2C_Z.746_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 6 viols'
+duration_minutes: 2

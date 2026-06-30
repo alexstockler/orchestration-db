@@ -1,0 +1,18 @@
+id: purcell-hence-fond-deceiver
+work:
+  composer: Purcell, Henry
+  title: Hence, Fond Deceiver
+  ids:
+    imslp: Hence, Fond Deceiver, Z.492 (Purcell, Henry)
+  year: 1687
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hence%2C_Fond_Deceiver%2C_Z.492_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, bass, continuo'

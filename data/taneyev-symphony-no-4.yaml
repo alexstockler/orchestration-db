@@ -1,0 +1,39 @@
+id: taneyev-symphony-no-4
+work:
+  composer: Taneyev, Sergey
+  title: Symphony No.4
+  ids:
+    imslp: Symphony No.4, Op.12 (Taneyev, Sergey)
+  year: 1896
+formula: 3[1.2.3/pic] 2 3 3[1.2.cbn] 4331 tmp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 3
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - snare drum
+    - triangle
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.4%2C_Op.12_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 2 oboes, 3 clarinets (B),
+    2 bassoons, contrabassoon, 4 horns (F), 3 trumpets (B), 3 trombones, tuba, timpani,
+    cymbals, snare drum, triangle, strings'
+duration_minutes: 40

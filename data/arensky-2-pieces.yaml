@@ -1,0 +1,18 @@
+id: arensky-2-pieces
+work:
+  composer: Arensky, Anton
+  title: 2 Pieces
+  ids:
+    imslp: 2 Pieces, Op.12 (Arensky, Anton)
+  year: 1887
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Pieces%2C_Op.12_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'

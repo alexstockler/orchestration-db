@@ -1,0 +1,21 @@
+id: purcell-come-ye-sons-of-art-away
+work:
+  composer: Purcell, Henry
+  title: Come, ye sons of art away
+  ids:
+    imslp: Come, Ye Sons of Art Away, Z.323 (Purcell, Henry)
+  year: 1694
+formula: 0200 0200
+instrumentation:
+  oboe: 2
+  trumpet: 2
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Come%2C_Ye_Sons_of_Art_Away%2C_Z.323_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 trumpets, 2 violins, viola, continuo'
+duration_minutes: 30

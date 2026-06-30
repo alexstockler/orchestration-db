@@ -1,0 +1,19 @@
+id: spohr-festgesang-woo-73
+work:
+  composer: Spohr, Louis
+  title: Festgesang, WoO 73
+  ids:
+    imslp: Festgesang, WoO 73 (Spohr, Louis)
+  year: 1887
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - alto
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Festgesang%2C_WoO_73_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: alto; mixed chorus (SATB), piano 4-hands'

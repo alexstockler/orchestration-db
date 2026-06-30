@@ -1,0 +1,16 @@
+id: donizetti-waltz-invito
+work:
+  composer: Donizetti, Gaetano
+  title: Waltz 'Invito'
+  ids:
+    imslp: Waltz 'Invito', In.666 (Donizetti, Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Waltz_%27Invito%27%2C_In.666_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 4

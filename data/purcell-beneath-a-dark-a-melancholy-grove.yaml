@@ -1,0 +1,16 @@
+id: purcell-beneath-a-dark-a-melancholy-grove
+work:
+  composer: Purcell, Henry
+  title: Beneath a Dark, a Melancholy Grove
+  ids:
+    imslp: Beneath a Dark, a Melancholy Grove, Z.761 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Beneath_a_Dark%2C_a_Melancholy_Grove%2C_Z.761_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

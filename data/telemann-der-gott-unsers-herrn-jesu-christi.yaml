@@ -1,0 +1,18 @@
+id: telemann-der-gott-unsers-herrn-jesu-christi
+work:
+  composer: Telemann, Georg Philipp
+  title: Der Gott unsers Herrn Jesu Christi
+  ids:
+    imslp: Der Gott unsers Herrn Jesu Christi, TWV 1:254 (Telemann, Georg Philipp)
+  year: 1720
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Gott_unsers_Herrn_Jesu_Christi%2C_TWV_1%3A254_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 recorders, 2 oboes, strings, continuo'
+duration_minutes: 15

@@ -1,0 +1,19 @@
+id: telemann-concerto-for-2-trombe-selvatiche-and-2-violins
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto for 2 Trombe selvatiche and 2 Violins
+  ids:
+    imslp: Concerto for 2 Trombe selvatiche and 2 Violins, TWV 54:Es1 (Telemann, Georg
+      Philipp)
+  year: 1733
+formula: str
+instrumentation:
+  strings: str
+  solo_strings:
+    violin: 2
+  additional_raw: 2 trombe selvatiche (horns) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Trombe_selvatiche_and_2_Violins%2C_TWV_54%3AEs1_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 trombe selvatiche (horns), 2 violins, strings, continuo'

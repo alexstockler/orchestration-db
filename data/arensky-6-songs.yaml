@@ -1,0 +1,17 @@
+id: arensky-6-songs
+work:
+  composer: Arensky, Anton
+  title: 6 Songs
+  ids:
+    imslp: 6 Songs, Op.10 (Arensky, Anton)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Songs%2C_Op.10_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice + Piano'

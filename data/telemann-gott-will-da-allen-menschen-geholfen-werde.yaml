@@ -1,0 +1,19 @@
+id: telemann-gott-will-da-allen-menschen-geholfen-werde
+work:
+  composer: Telemann, Georg Philipp
+  title: Gott will, daß allen Menschen geholfen werde
+  ids:
+    imslp: Gott will, daß allen Menschen geholfen werde, TWV 1:693 (Telemann, Georg
+      Philipp)
+  year: 1719
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_will%2C_da%C3%9F_allen_Menschen_geholfen_werde%2C_TWV_1%3A693_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'
+duration_minutes: 15

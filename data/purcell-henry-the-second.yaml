@@ -1,0 +1,20 @@
+id: purcell-henry-the-second
+work:
+  composer: Purcell, Henry
+  title: Henry the Second
+  ids:
+    imslp: Henry the Second, Z.580 (Purcell, Henry)
+  year: 1692
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Henry_the_Second%2C_Z.580_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, bass, strings, continuo'
+duration_minutes: 6

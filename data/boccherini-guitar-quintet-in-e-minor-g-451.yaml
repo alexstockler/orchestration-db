@@ -1,0 +1,20 @@
+id: boccherini-guitar-quintet-in-e-minor-g-451
+work:
+  composer: Boccherini, Luigi
+  title: Guitar Quintet in E minor, G.451
+  ids:
+    imslp: Guitar Quintet in E minor, G.451 (Boccherini, Luigi)
+  year: 1797
+formula: gtr
+instrumentation:
+  extras:
+  - instrument: guitar
+  solo_strings:
+    violin: 2
+  additional_raw: Viola and Cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Guitar_Quintet_in_E_minor%2C_G.451_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Guitar, 2 Violins, Viola and Cello'
+duration_minutes: 2530

@@ -1,0 +1,25 @@
+id: loewe-3-legenden
+work:
+  composer: Loewe, Carl
+  title: 3 Legenden
+  ids:
+    imslp: 3 Legenden, Op.37 (Loewe, Carl)
+  year: 1837
+formula: pf pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  - instrument: piano
+  soloists:
+  - voice
+  - voice
+  - voice
+  chorus_raw: male chorus
+  additional_raw: 1 | 2 | 3
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Legenden%2C_Op.37_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: 1. voice, piano, 2. voice (alto), piano, 3. voice (tenor),
+    male chorus (TTBB), piano'

@@ -1,0 +1,19 @@
+id: rossini-il-carnevale-di-venezia
+work:
+  composer: Rossini, Gioachino
+  title: Il Carnevale di Venezia
+  ids:
+    imslp: Il Carnevale di Venezia (Rossini, Gioachino)
+  year: 1821
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - tenors
+  additional_raw: 2 basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_Carnevale_di_Venezia_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 tenors, 2 basses, piano'

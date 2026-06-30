@@ -1,0 +1,17 @@
+id: rameau-platee-ou-junon-jalouse
+work:
+  composer: Rameau, Jean-Philippe
+  title: Platée ou Junon jalouse
+  ids:
+    imslp: Platée, RCT 53 (Rameau, Jean-Philippe)
+  year: 1745
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Plat%C3%A9e%2C_RCT_53_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

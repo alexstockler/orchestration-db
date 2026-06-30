@@ -1,0 +1,19 @@
+id: telemann-concerto-for-3-violins
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto for 3 Violins
+  ids:
+    imslp: Concerto for 3 Violins, TWV 53:F1 (Telemann, Georg Philipp)
+  year: 1733
+formula: str
+instrumentation:
+  strings: str
+  solo_strings:
+    violin: 3
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_3_Violins%2C_TWV_53%3AF1_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 violins, strings, continuo'
+duration_minutes: 15

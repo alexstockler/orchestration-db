@@ -1,0 +1,15 @@
+id: rossini-5-duets
+work:
+  composer: Rossini, Gioachino
+  title: 5 Duets
+  ids:
+    imslp: 5 Duets for 2 Horns (Rossini, Gioachino)
+  year: 1806
+formula: ''
+instrumentation:
+  additional_raw: 2 natural horns
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Duets_for_2_Horns_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 natural horns'

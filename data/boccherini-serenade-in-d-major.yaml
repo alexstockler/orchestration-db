@@ -1,0 +1,18 @@
+id: boccherini-serenade-in-d-major
+work:
+  composer: Boccherini, Luigi
+  title: Serenade in D major
+  ids:
+    imslp: Serenade in D major, G.501 (Boccherini, Luigi)
+formula: 0200 2000
+instrumentation:
+  oboe: 2
+  horn: 2
+  solo_strings:
+    violin: 2
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Serenade_in_D_major%2C_G.501_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 horns, 2 violins, cello or bass instrument (unfigured)'

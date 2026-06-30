@@ -1,0 +1,16 @@
+id: purcell-minuet-in-a-minor
+work:
+  composer: Purcell, Henry
+  title: Minuet in A minor
+  ids:
+    imslp: Minuet in A minor, Z.649 (Purcell, Henry)
+  year: 1689
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Minuet_in_A_minor%2C_Z.649_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

@@ -1,0 +1,16 @@
+id: purcell-tis-easy-to-force
+work:
+  composer: Purcell, Henry
+  title: Tis Easy to Force
+  ids:
+    imslp: Tis Easy to Force, Z.279 (Purcell, Henry)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tis_Easy_to_Force%2C_Z.279_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices'

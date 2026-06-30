@@ -1,0 +1,23 @@
+id: telemann-ein-mensch-ist-in-seinem-leben
+work:
+  composer: Telemann, Georg Philipp
+  title: Ein Mensch ist in seinem Leben
+  ids:
+    imslp: Ein Mensch ist in seinem Leben, TWV 4:18 (Telemann, Georg Philipp)
+  year: 1729
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+  - tenor
+  - bass
+  - 'Choir: (SATB)'
+  additional_raw: basso continuo.
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ein_Mensch_ist_in_seinem_Leben%2C_TWV_4%3A18_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, choir, orchestra, Voices: alto, tenor, bass, Choir:
+    (SATB), Orchestra: strings (incl. 2 violas), basso continuo.'
+duration_minutes: 49

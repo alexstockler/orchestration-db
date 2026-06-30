@@ -1,0 +1,14 @@
+id: rameau-la-musette
+work:
+  composer: Rameau, Jean-Philippe
+  title: La Musette
+  ids:
+    imslp: La Musette (Rameau, Jean-Philippe)
+formula: ''
+instrumentation:
+  additional_raw: Voice and continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_Musette_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and continuo'

@@ -1,0 +1,15 @@
+id: donizetti-canto-accompagnatorio
+work:
+  composer: Donizetti, Gaetano
+  title: Canto accompagnatorio
+  ids:
+    imslp: Canto accompagnatorio, A 709 (Donizetti, Gaetano)
+  year: 1819
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canto_accompagnatorio%2C_A_709_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SSTB), orchestra'

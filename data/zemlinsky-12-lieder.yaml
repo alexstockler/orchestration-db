@@ -1,0 +1,18 @@
+id: zemlinsky-12-lieder
+work:
+  composer: Zemlinsky, Alexander von
+  title: 12 Lieder
+  ids:
+    imslp: 12 Lieder, Op.27 (Zemlinsky, Alexander von)
+  year: 1937
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Lieder%2C_Op.27_%28Zemlinsky%2C_Alexander_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

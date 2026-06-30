@@ -1,0 +1,53 @@
+id: humperdinck-hansel-und-gretel
+work:
+  composer: Humperdinck, Engelbert
+  title: Hänsel und Gretel
+  ids:
+    imslp: Hänsel und Gretel (Humperdinck, Engelbert)
+formula: 3[pic.2.3] 2[1.2/Eh] 3[1.2.bcl] 2 4231 tmp hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - triangle
+    - tam-tam
+    - tambourine
+    - glockenspiel
+    - xylophone
+  harp: 1
+  strings: str
+  soloists:
+  - Peter (baritone) :Gertrud (mezzo-soprano) :Hänsel (mezzo-soprano) :Gretel (soprano)
+    :Gingerbread Witch (mezzo-soprano) :Sandman (soprano) :Dewman (soprano) :Voices
+    of Echoes (3 sopranos, 2 altos)
+  additional_raw: cuckoo whistle
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/H%C3%A4nsel_und_Gretel_%28Humperdinck%2C_Engelbert%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Peter (baritone) :Gertrud (mezzo-soprano) :Hänsel
+    (mezzo-soprano) :Gretel (soprano) :Gingerbread Witch (mezzo-soprano) :Sandman
+    (soprano) :Dewman (soprano) :Voices of Echoes (3 sopranos, 2 altos) Orchestra
+    :piccolo, 2 flutes, 2 oboes (2nd also english horn), 2 clarinets, bass clarinet,
+    2 bassoon :4 horns, 2 trumpets, 3 trombones, tuba :timpani, bass drum, cymbals,
+    triangle, tam-tam, cuckoo whistle, tambourine, glockenspiel, xylophone :harp,
+    strings'

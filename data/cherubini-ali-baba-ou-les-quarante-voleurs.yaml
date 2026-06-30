@@ -1,0 +1,21 @@
+id: cherubini-ali-baba-ou-les-quarante-voleurs
+work:
+  composer: Cherubini, Luigi
+  title: Ali-Baba, ou Les quarante voleurs
+  ids:
+    imslp: Ali Baba (Cherubini, Luigi)
+  year: 1834
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+  additional_raw: 2 oboes (2nd also English horn), 2 clarinets, 2 bassoons, 4 horns,
+    4 trumpets, 3 trombones, tuba, timpani, percussion, strings)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ali_Baba_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra (2 flutes (2nd also piccolo),
+    2 oboes (2nd also English horn), 2 clarinets, 2 bassoons, 4 horns, 4 trumpets,
+    3 trombones, tuba, timpani, percussion, strings)'

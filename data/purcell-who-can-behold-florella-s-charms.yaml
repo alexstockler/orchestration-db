@@ -1,0 +1,17 @@
+id: purcell-who-can-behold-florella-s-charms
+work:
+  composer: Purcell, Henry
+  title: Who Can Behold Florella's Charms?
+  ids:
+    imslp: Who Can Behold Florella's Charms?, Z.441 (Purcell, Henry)
+  year: 1695
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Who_Can_Behold_Florella%27s_Charms%3F%2C_Z.441_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

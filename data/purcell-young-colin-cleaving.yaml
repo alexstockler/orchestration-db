@@ -1,0 +1,16 @@
+id: purcell-young-colin-cleaving
+work:
+  composer: Purcell, Henry
+  title: Young Colin Cleaving
+  ids:
+    imslp: Young Colin Cleaving, Z.291 (Purcell, Henry)
+  year: 1691
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Young_Colin_Cleaving%2C_Z.291_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

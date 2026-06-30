@@ -1,0 +1,17 @@
+id: donizetti-plus-ne-m-est-rien
+work:
+  composer: Donizetti, Gaetano
+  title: Plus ne m'est rien
+  ids:
+    imslp: Plus ne m'est rien, A 371 (Donizetti, Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Plus_ne_m%27est_rien%2C_A_371_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

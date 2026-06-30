@@ -1,0 +1,15 @@
+id: rossini-kyrie
+work:
+  composer: Rossini, Gioachino
+  title: Kyrie
+  ids:
+    imslp: Kyrie (Rossini, Gioachino)
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kyrie_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

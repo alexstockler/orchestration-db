@@ -1,0 +1,17 @@
+id: purcell-let-us-kind-lesbia-give-away
+work:
+  composer: Purcell, Henry
+  title: Let Us, Kind Lesbia, Give Away
+  ids:
+    imslp: Let Us, Kind Lesbia, Give Away, Z.466 (Purcell, Henry)
+  year: 1684
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Let_Us%2C_Kind_Lesbia%2C_Give_Away%2C_Z.466_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

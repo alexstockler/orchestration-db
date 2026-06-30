@@ -1,0 +1,16 @@
+id: arensky-scherzo
+work:
+  composer: Arensky, Anton
+  title: Scherzo
+  ids:
+    imslp: Scherzo, Op.8 (Arensky, Anton)
+  year: 1884
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scherzo%2C_Op.8_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

@@ -1,0 +1,17 @@
+id: rameau-les-indes-galantes
+work:
+  composer: Rameau, Jean-Philippe
+  title: Les Indes galantes
+  ids:
+    imslp: Les Indes galantes, RCT 44 (Rameau, Jean-Philippe)
+  year: 1735
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_Indes_galantes%2C_RCT_44_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

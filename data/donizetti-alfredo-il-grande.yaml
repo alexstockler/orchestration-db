@@ -1,0 +1,22 @@
+id: donizetti-alfredo-il-grande
+work:
+  composer: Donizetti, Gaetano
+  title: Alfredo il grande
+  ids:
+    imslp: Alfredo il grande (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - altos
+  - tenors
+  additional_raw: Alfredo (tenor) | Amalia (soprano) | Eduardo (bass) | Atkins (bass)
+    | Enrichetta (mezzo) | Margherita (soprano) | Rivers (tenor) | Guglielmo (tenor)
+    Chorus | basses (SATB) Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alfredo_il_grande_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices :Alfredo (tenor), Amalia (soprano), Eduardo (bass),
+    Atkins (bass),, Enrichetta (mezzo), Margherita (soprano), Rivers (tenor), Guglielmo
+    (tenor) Chorus :sopranos, altos, tenors, basses (SATB) Orchestra'

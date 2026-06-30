@@ -1,0 +1,17 @@
+id: spohr-leise-rauscht-es-in-den-baumen
+work:
+  composer: Spohr, Louis
+  title: Leise rauscht es in den Bäumen
+  ids:
+    imslp: Leise rauscht es in den Bäumen (Spohr, Louis)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Leise_rauscht_es_in_den_B%C3%A4umen_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

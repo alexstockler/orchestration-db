@@ -1,0 +1,20 @@
+id: telemann-concerto-for-viola-d-amore-oboe-d-amore-and-flute
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto for Viola d'amore, Oboe d'amore and Flute
+  ids:
+    imslp: Concerto for Viola d'amore, Oboe d'amore and Flute, TWV 53:E1 (Telemann,
+      Georg Philipp)
+formula: 1 1[obda] 0 0 0000 str
+instrumentation:
+  flute: 1
+  oboe:
+  - instrument: oboe_damore
+  strings: str
+  additional_raw: viola d'amore | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_Viola_d%27amore%2C_Oboe_d%27amore_and_Flute%2C_TWV_53%3AE1_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe d''amore, viola d''amore, strings, continuo'
+duration_minutes: 17

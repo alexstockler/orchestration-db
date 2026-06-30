@@ -1,0 +1,15 @@
+id: purcell-sir-walter-enjoying
+work:
+  composer: Purcell, Henry
+  title: Sir Walter Enjoying
+  ids:
+    imslp: Sir Walter Enjoying, Z.273 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sir_Walter_Enjoying%2C_Z.273_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

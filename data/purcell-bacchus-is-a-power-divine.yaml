@@ -1,0 +1,16 @@
+id: purcell-bacchus-is-a-power-divine
+work:
+  composer: Purcell, Henry
+  title: Bacchus Is a Power Divine
+  ids:
+    imslp: Bacchus Is a Power Divine, Z.360 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bacchus_Is_a_Power_Divine%2C_Z.360_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

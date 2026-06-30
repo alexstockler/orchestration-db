@@ -1,0 +1,17 @@
+id: purcell-phyllis-i-can-ne-er-forgive-it
+work:
+  composer: Purcell, Henry
+  title: Phyllis, I Can Ne'er Forgive It
+  ids:
+    imslp: Phyllis, I Can Ne'er Forgive It, Z.408 (Purcell, Henry)
+  year: 1688
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Phyllis%2C_I_Can_Ne%27er_Forgive_It%2C_Z.408_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

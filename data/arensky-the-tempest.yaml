@@ -1,0 +1,17 @@
+id: arensky-the-tempest
+work:
+  composer: Arensky, Anton
+  title: The Tempest
+  ids:
+    imslp: The Tempest, Op.75 (Arensky, Anton)
+  year: 1905
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Tempest%2C_Op.75_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

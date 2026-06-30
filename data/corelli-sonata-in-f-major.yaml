@@ -1,0 +1,17 @@
+id: corelli-sonata-in-f-major
+work:
+  composer: Corelli, Arcangelo
+  title: Sonata in F major
+  ids:
+    imslp: Trio Sonata in F major, Op.3 No.1 (Corelli, Arcangelo)
+  year: 1689
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: violone (or archlute) | continuo (per l'organo)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_F_major%2C_Op.3_No.1_%28Corelli%2C_Arcangelo%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, violone (or archlute), continuo (per l''organo)'

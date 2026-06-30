@@ -1,0 +1,25 @@
+id: telemann-ach-mein-herze-schwimmt-in-blute
+work:
+  composer: Telemann, Georg Philipp
+  title: Ach, mein Herze schwimmt in Blute
+  ids:
+    imslp: Ach, mein Herze schwimmt in Blute, TWV 1:29 (Telemann, Georg Philipp)
+  year: 1711
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach%2C_mein_Herze_schwimmt_in_Blute%2C_TWV_1%3A29_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, alto, tenor, bass; mixed chorus (SATB),
+    Orchestra: 2 oboes, strings, continuo'
+duration_minutes: 18

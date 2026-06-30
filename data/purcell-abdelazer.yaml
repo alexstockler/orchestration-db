@@ -1,0 +1,19 @@
+id: purcell-abdelazer
+work:
+  composer: Purcell, Henry
+  title: Abdelazer
+  ids:
+    imslp: Abdelazer, Z.570 (Purcell, Henry)
+  year: 1695
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  additional_raw: continuo (No.10)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Abdelazer%2C_Z.570_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: strings (Nos.1-9), soprano, continuo (No.10)'
+duration_minutes: 15

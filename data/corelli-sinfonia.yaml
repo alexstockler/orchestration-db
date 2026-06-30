@@ -1,0 +1,19 @@
+id: corelli-sinfonia
+work:
+  composer: Corelli, Arcangelo
+  title: Sinfonia
+  ids:
+    imslp: Sinfonia in D minor, WoO 1 (Corelli, Arcangelo)
+formula: str
+instrumentation:
+  strings: str
+  solo_strings:
+    violin: 2
+    cello: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sinfonia_in_D_minor%2C_WoO_1_%28Corelli%2C_Arcangelo%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, cello, strings, continuo'
+duration_minutes: 8

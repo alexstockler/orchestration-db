@@ -1,0 +1,20 @@
+id: telemann-concerto-for-2-flutes-oboe-and-violin
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto for 2 Flutes, Oboe and Violin
+  ids:
+    imslp: Concerto for 2 Flutes, Oboe and Violin, TWV 54:B1 (Telemann, Georg Philipp)
+formula: 2100 0000 str
+instrumentation:
+  flute: 2
+  oboe: 1
+  strings: str
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Flutes%2C_Oboe_and_Violin%2C_TWV_54%3AB1_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, oboe, violin, strings, continuo'
+duration_minutes: 13

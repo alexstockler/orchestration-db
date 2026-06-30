@@ -1,0 +1,16 @@
+id: balakirev-nocturne-no-1
+work:
+  composer: Balakirev, Mily
+  title: Nocturne No.1
+  ids:
+    imslp: Nocturne No.1 (Balakirev, Mily)
+  year: 1898
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nocturne_No.1_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

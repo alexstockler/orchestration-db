@@ -1,0 +1,17 @@
+id: purcell-sawney-is-a-bonny-lad
+work:
+  composer: Purcell, Henry
+  title: Sawney Is a Bonny Lad
+  ids:
+    imslp: Sawney Is a Bonny Lad, Z.412 (Purcell, Henry)
+  year: 1694
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sawney_Is_a_Bonny_Lad%2C_Z.412_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

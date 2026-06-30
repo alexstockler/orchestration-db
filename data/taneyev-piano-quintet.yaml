@@ -1,0 +1,21 @@
+id: taneyev-piano-quintet
+work:
+  composer: Taneyev, Sergey
+  title: Piano Quintet
+  ids:
+    imslp: Piano Quintet in G minor, Op.30 (Taneyev, Sergey)
+  year: 1910
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quintet_in_G_minor%2C_Op.30_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: 2 violins, viola, cello + piano'
+duration_minutes: 45

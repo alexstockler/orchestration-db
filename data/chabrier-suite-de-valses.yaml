@@ -1,0 +1,16 @@
+id: chabrier-suite-de-valses
+work:
+  composer: Chabrier, Emmanuel
+  title: Suite de valses
+  ids:
+    imslp: Suite de valses (Chabrier, Emmanuel)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_de_valses_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

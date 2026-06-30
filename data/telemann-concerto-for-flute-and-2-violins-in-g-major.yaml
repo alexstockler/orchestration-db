@@ -1,0 +1,18 @@
+id: telemann-concerto-for-flute-and-2-violins-in-g-major
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto for Flute and 2 Violins in G major
+  ids:
+    imslp: Concerto for Flute and 2 Violins, TWV 51:AnhG1 (Telemann, Georg Philipp)
+  year: 1955
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_Flute_and_2_Violins%2C_TWV_51%3AAnhG1_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, 2 violins, continuo'
