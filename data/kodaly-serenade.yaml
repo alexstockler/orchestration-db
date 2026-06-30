@@ -1,0 +1,16 @@
+id: kodaly-serenade
+work:
+  composer: Kodály, Zoltán
+  title: Serenade
+  ids:
+    imslp: Serenade, Op.12 (Kodály, Zoltán)
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Serenade%2C_Op.12_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola'

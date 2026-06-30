@@ -18,11 +18,12 @@ instrumentation:
     timpani: 1
     instruments:
     - triangle
+    - drum
   strings: str
   soloists:
   - soprano
   - alto
-  additional_raw: No.1. | strings No.2. | strings No.3. | drum
+  additional_raw: No.1. | strings No.2. | strings No.3.
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/3_Pi%C3%A8ces_pour_Orchestre%2C_Op.96_%28Sibelius%2C_Jean%29

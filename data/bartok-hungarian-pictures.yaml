@@ -1,0 +1,40 @@
+id: bartok-hungarian-pictures
+work:
+  composer: Bartók, Béla
+  title: Hungarian Pictures
+  ids:
+    imslp: Hungarian Pictures, Sz.97 (Bartók, Béla)
+  year: 1931
+formula: 2[1.2/pic] 2 2[1.2/bcl] 2 2220 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet:
+  - {}
+  - doublings:
+    - bass_clarinet
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drum
+    - triangle
+    - xylophone
+    - bass drum
+    - cymbals
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hungarian_Pictures%2C_Sz.97_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: 25 parts :2 flutes (2nd also piccolo), 2 oboes, 2 clarinets
+    (2nd also bass clarinet), 2 bassoons, 2 horns, 2 trumpets, 2 trombones, timpani,
+    snare drum, triangle, xylophone, bass drum, cymbals, harp, strings'
+duration_minutes: 11

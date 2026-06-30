@@ -1,0 +1,17 @@
+id: vaughan-williams-lord-thou-hast-been-our-refuge
+work:
+  composer: Vaughan Williams, Ralph
+  title: Lord, Thou hast been our refuge
+  ids:
+    imslp: Lord, Thou Hast Been Our Refuge (Vaughan Williams, Ralph)
+  year: 1921
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: semi-chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lord%2C_Thou_Hast_Been_Our_Refuge_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus, semi-chorus, orchestra (or organ)'
+duration_minutes: 9

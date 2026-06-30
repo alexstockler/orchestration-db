@@ -1,0 +1,15 @@
+id: massenet-elevation
+work:
+  composer: Massenet, Jules
+  title: Élévation
+  ids:
+    imslp: Élévation (Massenet, Jules)
+  year: 1901
+formula: ''
+instrumentation:
+  additional_raw: harmonium / organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%89l%C3%A9vation_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: harmonium / organ'

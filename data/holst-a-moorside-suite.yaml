@@ -1,0 +1,38 @@
+id: holst-a-moorside-suite
+work:
+  composer: Holst, Gustav
+  title: A Moorside Suite
+  ids:
+    imslp: A Moorside Suite, H.173 (Holst, Gustav)
+  year: 1928
+formula: 0000 3 6[cnt.cnt.cnt.cnt.cnt.flhn] 3 3[euph.2.3]
+instrumentation:
+  horn: 3
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: flugelhorn
+  trombone: 3
+  tuba:
+  - instrument: euphonium
+  - {}
+  - {}
+  percussion:
+    instruments:
+    - snare drum
+    - bass drum
+    - triangle
+    - cymbals
+  soloists:
+  - baritones
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_Moorside_Suite%2C_H.173_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: 21 players :soprano cornet, 4 cornets, flugelhorn, 3 horns,,
+    2 baritones, 3 trombones, euphonium, 2 tubas, snare drum, bass drum, triangle,
+    cymbals'
+duration_minutes: 15

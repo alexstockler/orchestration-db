@@ -1,0 +1,16 @@
+id: respighi-invito-alla-danza
+work:
+  composer: Respighi, Ottorino
+  title: Invito alla danza
+  ids:
+    imslp: Invito alla danza (Respighi, Ottorino)
+  year: 1906
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Invito_alla_danza_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and piano'

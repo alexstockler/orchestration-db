@@ -1,0 +1,32 @@
+id: nielsen-native-land
+work:
+  composer: Nielsen, Carl
+  title: Native Land
+  ids:
+    imslp: Fædreland, CNW 14 (Nielsen, Carl)
+  year: 1915
+formula: 2[pic.2] 2 2 1 2221 pf
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 1
+  horn: 2
+  trumpet: 2
+  trombone: 2
+  tuba: 1
+  percussion:
+    instruments:
+    - snare drum
+    - bass drum
+    - triangle
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/F%C3%A6dreland%2C_CNW_14_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, flute, 2 oboes, 2 clarinets, bassoon, 2 horns,
+    2 trumpets,2 trombones, tuba,, snare drum, bass drum, triangle, piano'

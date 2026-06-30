@@ -1,0 +1,19 @@
+id: vaughan-williams-merciless-beauty
+work:
+  composer: Vaughan Williams, Ralph
+  title: Merciless Beauty
+  ids:
+    imslp: Merciless Beauty (Vaughan Williams, Ralph)
+  year: 1921
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    cello: 1
+  additional_raw: high voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Merciless_Beauty_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: high voice, 2 violins, cello (or piano)'
+duration_minutes: 6

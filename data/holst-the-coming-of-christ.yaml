@@ -1,0 +1,26 @@
+id: holst-the-coming-of-christ
+work:
+  composer: Holst, Gustav
+  title: The Coming of Christ
+  ids:
+    imslp: The Coming of Christ, H.170 (Holst, Gustav)
+  year: 1928
+formula: 0000 0100 pf org
+instrumentation:
+  trumpet: 1
+  percussion:
+    instruments:
+    - tubular bells
+  keyboards:
+  - instrument: piano
+  - instrument: organ
+  soloists:
+  - soprano
+  - alto
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Coming_of_Christ%2C_H.170_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, alto + mixed chorus (SATB), trumpet (B),
+    tubular bells (ad lib.), piano, organ'

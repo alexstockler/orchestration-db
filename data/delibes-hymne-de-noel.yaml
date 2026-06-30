@@ -1,0 +1,17 @@
+id: delibes-hymne-de-noel
+work:
+  composer: Delibes, Léo
+  title: Hymne de Noël
+  ids:
+    imslp: Hymne de Noël (Delibes, Léo)
+  year: 1865
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymne_de_No%C3%ABl_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), piano'

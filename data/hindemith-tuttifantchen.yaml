@@ -1,0 +1,56 @@
+id: hindemith-tuttifantchen
+work:
+  composer: Hindemith, Paul
+  title: Tuttifäntchen
+  ids:
+    imslp: Tuttifäntchen (Hindemith, Paul)
+  year: 1922
+formula: 1111 1100 tmp+1 str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 1
+  trumpet: 1
+  percussion:
+    timpani: 1
+    players: 1
+    instruments:
+    - tambourine
+    - snare drum
+    - glockenspiel
+  strings: str
+  soloists:
+  - Roles ::Master Tuttifant
+  - a wood carver
+  - Tuttifäntchen
+  - a wooden puppet
+  - Trudel
+  - the master's sister
+  - Peter
+  - Punoni
+  - The Mother
+  - Neighbors (Stoffel, Klaus, Hannes) (spoken)
+  - Children (Grete / Fritz / Lene) (spoken)
+  - The Mayor (spoken)
+  - The Confectioner (Spoken)
+  - The Waffle Seller (Spoken)
+  - The Fruit Women (Spoken) :Chorus (SATB) ::Children
+  - Village People
+  - Neighbors
+  - 'Wooden Puppet :'
+  additional_raw: bass drum with cymbals
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tuttif%C3%A4ntchen_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: voices (and speaking), chorus, and orchestra :Roles ::Master
+    Tuttifant, a wood carver, Tuttifäntchen, a wooden puppet, Trudel, the master''s
+    sister, Peter, Punoni, The Mother, Neighbors (Stoffel, Klaus, Hannes) (spoken),
+    Children (Grete / Fritz / Lene) (spoken), The Mayor (spoken), The Confectioner
+    (Spoken), The Waffle Seller (Spoken), The Fruit Women (Spoken) :Chorus (SATB)
+    ::Children, Village People, Neighbors, Wooden Puppet :Orchestra ::flute (also
+    piccolo), oboe, clarinet (B/A), bassoon, horn (F), trumpet (B), timpani, percussion
+    (1 player), strings ::: tambourine, snare drum, bass drum with cymbals, glockenspiel'
+duration_minutes: 15

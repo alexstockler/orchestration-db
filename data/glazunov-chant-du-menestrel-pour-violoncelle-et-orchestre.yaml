@@ -1,0 +1,25 @@
+id: glazunov-chant-du-menestrel-pour-violoncelle-et-orchestre
+work:
+  composer: Glazunov, Aleksandr
+  title: Chant du ménestrel pour Violoncelle et Orchestre
+  ids:
+    imslp: Chant du ménestrel, Op.71 (Glazunov, Aleksandr)
+  year: 1901
+formula: 3[pic.2.3] 2 2 2 2000 str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chant_du_m%C3%A9nestrel%2C_Op.71_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2
+    horns, strings'
+duration_minutes: 3

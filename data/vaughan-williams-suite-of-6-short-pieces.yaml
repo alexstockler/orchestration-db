@@ -1,0 +1,16 @@
+id: vaughan-williams-suite-of-6-short-pieces
+work:
+  composer: Vaughan Williams, Ralph
+  title: Suite of 6 Short Pieces
+  ids:
+    imslp: Suite of 6 Short Pieces (Vaughan Williams, Ralph)
+  year: 1920
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_of_6_Short_Pieces_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

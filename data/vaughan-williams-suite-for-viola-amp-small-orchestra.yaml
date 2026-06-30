@@ -1,0 +1,31 @@
+id: vaughan-williams-suite-for-viola-amp-small-orchestra
+work:
+  composer: Vaughan Williams, Ralph
+  title: Suite for viola &amp; small orchestra
+  ids:
+    imslp: Suite for Viola and Small Orchestra (Vaughan Williams, Ralph)
+  year: 1934
+formula: 2122 2200 tmp+1 cel hp str
+instrumentation:
+  flute: 2
+  oboe: 1
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+    players: 1
+  keyboards:
+  - instrument: celesta
+  harp: 1
+  strings: str
+  soloists:
+  - viola
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_for_Viola_and_Small_Orchestra_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: viola, Orchestra: 2 flutes, oboe, 2 clarinets, 2
+    bassoons, 2 horns, 2 trumpets, timpani, percussion, celesta, harp, strings'
+duration_minutes: 25

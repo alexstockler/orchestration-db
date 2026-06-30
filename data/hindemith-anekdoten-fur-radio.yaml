@@ -1,0 +1,23 @@
+id: hindemith-anekdoten-fur-radio
+work:
+  composer: Hindemith, Paul
+  title: Anekdoten für Radio
+  ids:
+    imslp: Anekdoten für Radio (Hindemith, Paul)
+  year: 1925
+formula: 0010 0100 pf
+instrumentation:
+  clarinet: 1
+  trumpet: 1
+  keyboards:
+  - instrument: piano
+  soloists:
+  - bass
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Anekdoten_f%C3%BCr_Radio_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet (B), trumpet (C), violin, bass, piano'
+duration_minutes: 6

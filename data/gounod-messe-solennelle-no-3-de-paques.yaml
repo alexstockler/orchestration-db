@@ -1,0 +1,15 @@
+id: gounod-messe-solennelle-no-3-de-paques
+work:
+  composer: Gounod, Charles
+  title: Messe solennelle No.3 de Pâques
+  ids:
+    imslp: Messe solennelle de Pâques, CG 59 (Gounod, Charles)
+  year: 1882
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Messe_solennelle_de_P%C3%A2ques%2C_CG_59_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), orchestra'

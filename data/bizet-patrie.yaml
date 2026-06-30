@@ -1,0 +1,44 @@
+id: bizet-patrie
+work:
+  composer: Bizet, Georges
+  title: Patrie
+  ids:
+    imslp: Patrie, WD 41 (Bizet, Georges)
+  year: 1873
+formula: 2[1.2/pic] 2[1.2/Eh] 2 2 4 4[1.2.cnt.cnt] 3 0 tmp hp ophicleide str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - bass drum
+    - cymbals
+    - snare drum
+  harp: 1
+  extras:
+  - instrument: ophicleide
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Patrie%2C_WD_41_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes (2nd also English
+    horn), 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 2 cornets, 3 trombones, ophicleide,
+    timpani, triangle, bass drum, cymbals, snare drum, harp, strings'

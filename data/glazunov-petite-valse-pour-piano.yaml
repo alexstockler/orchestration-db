@@ -1,0 +1,16 @@
+id: glazunov-petite-valse-pour-piano
+work:
+  composer: Glazunov, Aleksandr
+  title: Petite valse pour piano
+  ids:
+    imslp: Petite valse, Op.36 (Glazunov, Aleksandr)
+  year: 1892
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Petite_valse%2C_Op.36_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

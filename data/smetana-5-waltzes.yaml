@@ -1,0 +1,17 @@
+id: smetana-5-waltzes
+work:
+  composer: Smetana, Bedřich
+  title: 5 Waltzes
+  ids:
+    imslp: 5 Waltzes, JB 1:18 (Smetana, Bedřich)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Waltzes%2C_JB_1%3A18_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'
+duration_minutes: 8

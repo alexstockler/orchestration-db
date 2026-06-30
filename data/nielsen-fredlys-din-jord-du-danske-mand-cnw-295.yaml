@@ -1,0 +1,19 @@
+id: nielsen-fredlys-din-jord-du-danske-mand-cnw-295
+work:
+  composer: Nielsen, Carl
+  title: Fredlys din Jord, Du danske Mand!, CNW 295
+  ids:
+    imslp: Fredlys din Jord, Du danske Mand!, CNW 295 (Nielsen, Carl)
+  year: 1914
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+  additional_raw: mens choir (TTBB) 1914 (B-flat major)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fredlys_din_Jord%2C_Du_danske_Mand%21%2C_CNW_295_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano, mens choir (TTBB) 1914 (B-flat major)'

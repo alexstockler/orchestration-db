@@ -1,0 +1,16 @@
+id: delibes-jean-de-nivelle
+work:
+  composer: Delibes, Léo
+  title: Jean de Nivelle
+  ids:
+    imslp: Jean de Nivelle (Delibes, Léo)
+  year: 1880
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jean_de_Nivelle_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, Chorus, Orchestra'

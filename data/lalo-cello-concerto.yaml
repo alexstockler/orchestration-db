@@ -1,0 +1,28 @@
+id: lalo-cello-concerto
+work:
+  composer: Lalo, Édouard
+  title: Cello Concerto
+  ids:
+    imslp: Cello Concerto (Lalo, Édouard)
+  year: 1876
+formula: 2222 4230 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - 'Solo ::cello :'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Concerto_%28Lalo%2C_%C3%89douard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cello and Orchestra :Solo ::cello :Orchestra ::2 flutes,
+    2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, strings'
+duration_minutes: 23

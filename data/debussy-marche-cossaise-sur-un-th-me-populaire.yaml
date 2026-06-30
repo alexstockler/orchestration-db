@@ -24,9 +24,9 @@ instrumentation:
     timpani: 1
     instruments:
     - cymbals
+    - drum
   harp: 1
   strings: str
-  additional_raw: drum
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Marche_%C3%A9cossaise_sur_un_th%C3%A8me_populaire%2C_CD_83_%28Debussy%2C_Claude%29

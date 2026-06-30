@@ -1,0 +1,61 @@
+id: verdi-aroldo
+work:
+  composer: Verdi, Giuseppe
+  title: Aroldo
+  ids:
+    imslp: Aroldo (Verdi, Giuseppe)
+  year: 1856
+formula: 2 3[1.2.Eh] 2 2 4231 tmp+1 str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+  strings: str
+  soloists:
+  - Aroldo
+  - cavaliere sassone (tenor)
+  - Mina
+  - di lui moglie
+  - figlia di Egberto (soprano)
+  - Egberto
+  - vecchio cavaliere vassallo di Kenth (baritone)
+  - Briano
+  - pio Solitario (bass)
+  - Godvino
+  - cavaliere di Ventura ospite d'Egberto (tenor)
+  - Enrico
+  - cugino di Mina (tenor)
+  - Elena
+  - sua cugina (soprano)
+  - Jorg
+  - servo d'Aroldo che non parla (spoken) Mixed Chorus (SATB) :Cavalieri Crociati
+  - Gentiluomini e Dame di Kenth
+  - Scudieri
+  - Paggi
+  - Araldi
+  - Cacciatori
+  - Sassoni
+  - paesane scozzesi
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aroldo_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Aroldo, cavaliere sassone (tenor), Mina, di lui moglie,
+    figlia di Egberto (soprano), Egberto, vecchio cavaliere vassallo di Kenth (baritone),
+    Briano, pio Solitario (bass), Godvino, cavaliere di Ventura ospite d''Egberto
+    (tenor), Enrico, cugino di Mina (tenor), Elena, sua cugina (soprano), Jorg, servo
+    d''Aroldo che non parla (spoken) Mixed Chorus (SATB) :Cavalieri Crociati, Gentiluomini
+    e Dame di Kenth, Scudieri, Paggi, Araldi, Cacciatori, Sassoni, paesane scozzesi
+    Orchestra :2 flutes, 2 oboes, English horn, 2 clarinets, 2 bassoons, 4 horns,
+    2 trumpets, 3 trombones, tuba, timpani, percussion, strings'

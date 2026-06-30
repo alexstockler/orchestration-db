@@ -1,0 +1,16 @@
+id: gounod-les-pifferari-the-pipers
+work:
+  composer: Gounod, Charles
+  title: Les pifferari (The Pipers)
+  ids:
+    imslp: Les pifferari, CG 586 (Gounod, Charles)
+  year: 1863
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_pifferari%2C_CG_586_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

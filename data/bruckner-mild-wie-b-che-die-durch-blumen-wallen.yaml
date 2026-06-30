@@ -9,7 +9,8 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: voice
+  soloists:
+  - voice
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Mild_wie_B%C3%A4che%2C_die_durch_Blumen_wallen%2C_WAB_138_%28Bruckner%2C_Anton%29

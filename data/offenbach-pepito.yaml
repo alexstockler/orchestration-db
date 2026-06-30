@@ -1,0 +1,17 @@
+id: offenbach-pepito
+work:
+  composer: Offenbach, Jacques
+  title: Pépito
+  ids:
+    imslp: Pépito (Offenbach, Jacques)
+  year: 1853
+formula: ''
+instrumentation:
+  additional_raw: Cast | Vertigo | hotelier (baritone) | Miguel | a young Basque peasant
+    (tenor) | Manuelita | a young orphan (soprano)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/P%C3%A9pito_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, orchestra :Cast ::Vertigo, hotelier (baritone),
+    Miguel, a young Basque peasant (tenor), Manuelita, a young orphan (soprano) :Orchestra'

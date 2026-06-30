@@ -1,0 +1,17 @@
+id: bach-fantasia-in-c-minor
+work:
+  composer: Bach, Johann Sebastian
+  title: Fantasia in C minor
+  ids:
+    imslp: Fantasia in C minor, BWV Anh.205 (Bach, Johann Sebastian)
+  year: 1706
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_in_C_minor%2C_BWV_Anh.205_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 5

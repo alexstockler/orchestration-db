@@ -1,0 +1,18 @@
+id: glazunov-reverie
+work:
+  composer: Glazunov, Aleksandr
+  title: Rêverie
+  ids:
+    imslp: Rêverie, Op.24 (Glazunov, Aleksandr)
+  year: 1890
+formula: 0000 1000 pf
+instrumentation:
+  horn: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/R%C3%AAverie%2C_Op.24_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: horn, piano'
+duration_minutes: 3

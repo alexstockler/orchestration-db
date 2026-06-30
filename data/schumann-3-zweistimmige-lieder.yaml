@@ -8,7 +8,8 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: 2 voices (soprano and alto)
+  soloists:
+  - 2 voices
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/3_Zweistimmige_Lieder%2C_Op.43_%28Schumann%2C_Robert%29

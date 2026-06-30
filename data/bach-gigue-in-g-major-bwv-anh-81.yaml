@@ -1,0 +1,14 @@
+id: bach-gigue-in-g-major-bwv-anh-81
+work:
+  composer: Bach, Johann Sebastian
+  title: Gigue in G major, BWV Anh.81
+  ids:
+    imslp: Gigue in G major, BWV Anh.81 (Bach, Johann Sebastian)
+formula: ''
+instrumentation:
+  additional_raw: Keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gigue_in_G_major%2C_BWV_Anh.81_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Keyboard'

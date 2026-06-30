@@ -1,0 +1,15 @@
+id: weber-3-duets
+work:
+  composer: Weber, Carl Maria von
+  title: 3 Duets
+  ids:
+    imslp: 3 Duets, Op.31 (Weber, Carl Maria von)
+  year: 1811
+formula: ''
+instrumentation:
+  additional_raw: 2 sopranos and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Duets%2C_Op.31_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos and piano'

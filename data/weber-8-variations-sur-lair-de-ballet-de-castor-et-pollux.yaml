@@ -1,0 +1,17 @@
+id: weber-8-variations-sur-lair-de-ballet-de-castor-et-pollux
+work:
+  composer: Weber, Carl Maria von
+  title: 8 Variations sur l’air de ballet de Castor et Pollux
+  ids:
+    imslp: 8 Variations sur l'air de ballet de 'Castor et Pollux', Op.5 (Weber, Carl
+      Maria von)
+  year: 1804
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Variations_sur_l%27air_de_ballet_de_%27Castor_et_Pollux%27%2C_Op.5_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

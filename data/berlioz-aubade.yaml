@@ -1,0 +1,19 @@
+id: berlioz-aubade
+work:
+  composer: Berlioz, Hector
+  title: Aubade
+  ids:
+    imslp: Aubade, H 78 (Berlioz, Hector)
+  year: 1839
+formula: 0000 4 2[cnt.cnt] 0 0
+instrumentation:
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  additional_raw: high voice (tenor or soprano)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aubade%2C_H_78_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: high voice (tenor or soprano), 4 horns, 2 cornets'

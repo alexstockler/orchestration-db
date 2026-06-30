@@ -1,0 +1,41 @@
+id: hindemith-kammermusik-no-1
+work:
+  composer: Hindemith, Paul
+  title: Kammermusik No.1
+  ids:
+    imslp: Kammermusik No.1, Op.24 No.1 (Hindemith, Paul)
+  year: 1922
+formula: 1011 0100 1perc harm pf
+instrumentation:
+  flute: 1
+  clarinet: 1
+  bassoon: 1
+  trumpet: 1
+  percussion:
+    players: 1
+    instruments:
+    - snare drum
+    - wood block
+    - tambourine
+    - xylophone
+    - triangle
+    - siren
+    - glockenspiel
+  keyboards:
+  - instrument: harmonium
+  - instrument: piano
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+    double_bass: 1
+  additional_raw: small suspended cymbal | sand-filled tin box
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kammermusik_No.1%2C_Op.24_No.1_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: 12 Solo Instruments: flute (also piccolo), clarinet, bassoon,
+    trumpet, percussion (1 player), harmonium, piano, 2 violins, viola, cello, double
+    bass : snare drum, wood block, tambourine, small suspended cymbal, xylophone,,
+    triangle, siren, sand-filled tin box, glockenspiel'
+duration_minutes: 16

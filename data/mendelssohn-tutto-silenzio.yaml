@@ -9,7 +9,6 @@ formula: ''
 instrumentation:
   soloists:
   - soprano
-  additional_raw: orchestra
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Tutto_%C3%A8_silenzio%2C_MWV_H_2_%28Mendelssohn%2C_Felix%29

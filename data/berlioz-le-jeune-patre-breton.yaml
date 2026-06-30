@@ -1,0 +1,27 @@
+id: berlioz-le-jeune-patre-breton
+work:
+  composer: Berlioz, Hector
+  title: Le jeune Pâtre breton
+  ids:
+    imslp: Le jeune Pâtre breton, H 65 (Berlioz, Hector)
+  year: 1833
+formula: 1221 0000 str
+instrumentation:
+  flute: 1
+  oboe: 2
+  clarinet: 2
+  bassoon: 1
+  strings: str
+  soloists:
+  - voice
+  - horn
+  - piano
+  - ': mezzo-soprano or tenor'
+  additional_raw: 2 or 4 horns (see below)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_jeune_P%C3%A2tre_breton%2C_H_65_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano, soprano, orchestra (lost), : voice, horn,
+    piano, : mezzo-soprano or tenor, orchestra :: flute, 2 oboes, 2 clarinets, bassoon,
+    2 or 4 horns (see below), strings (without double bass)'

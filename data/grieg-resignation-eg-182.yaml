@@ -8,7 +8,8 @@ formula: 0000 1000 str
 instrumentation:
   horn: 1
   strings: str
-  additional_raw: orchestra | voice
+  soloists:
+  - voice
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Resignation%2C_EG_182_%28Grieg%2C_Edvard%29

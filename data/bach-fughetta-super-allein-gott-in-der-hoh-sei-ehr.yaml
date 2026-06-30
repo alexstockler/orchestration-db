@@ -1,0 +1,17 @@
+id: bach-fughetta-super-allein-gott-in-der-hoh-sei-ehr
+work:
+  composer: Bach, Johann Sebastian
+  title: Fughetta super 'Allein Gott in der Höh sei Ehr'
+  ids:
+    imslp: Fughetta super 'Allein Gott in der Höh sei Ehr', BWV 677 (Bach, Johann
+      Sebastian)
+  year: 1739
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fughetta_super_%27Allein_Gott_in_der_H%C3%B6h_sei_Ehr%27%2C_BWV_677_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

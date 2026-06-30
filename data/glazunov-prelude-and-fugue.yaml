@@ -1,0 +1,16 @@
+id: glazunov-prelude-and-fugue
+work:
+  composer: Glazunov, Aleksandr
+  title: Prelude and Fugue
+  ids:
+    imslp: Prelude and Fugue (Glazunov, Aleksandr)
+  year: 1926
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude_and_Fugue_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

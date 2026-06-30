@@ -1,0 +1,19 @@
+id: berlioz-la-mort-dophelie-ballade-dapres-shakespeare
+work:
+  composer: Berlioz, Hector
+  title: La mort d’Ophélie, ballade d’après Shakespeare
+  ids:
+    imslp: La mort d'Ophélie, H 92 (Berlioz, Hector)
+  year: 1842
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: A Soprano or tenor &amp | B Female chorus | 2 | ca | 2 | 0 – 3 |
+    0 | 0 | 0 – str 2 | 1 | 1 | 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_mort_d%27Oph%C3%A9lie%2C_H_92_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: A Soprano or tenor &amp; piano, B Female chorus, 2,ca,2,0
+    – 3,0,0,0 – str 2,1,1,1'

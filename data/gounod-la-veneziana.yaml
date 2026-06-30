@@ -1,0 +1,16 @@
+id: gounod-la-veneziana
+work:
+  composer: Gounod, Charles
+  title: La veneziana
+  ids:
+    imslp: La veneziana, CG 593 (Gounod, Charles)
+  year: 1874
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_veneziana%2C_CG_593_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

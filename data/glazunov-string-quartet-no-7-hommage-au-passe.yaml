@@ -1,0 +1,19 @@
+id: glazunov-string-quartet-no-7-hommage-au-passe
+work:
+  composer: Glazunov, Aleksandr
+  title: String Quartet No.7 ('Hommage au passé')
+  ids:
+    imslp: String Quartet No.7, Op.107 (Glazunov, Aleksandr)
+  year: 1930
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.7%2C_Op.107_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 30

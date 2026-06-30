@@ -1,0 +1,15 @@
+id: bach-air-with-variations
+work:
+  composer: Bach, Johann Sebastian
+  title: Air with Variations
+  ids:
+    imslp: Air with Variations in C minor, BWV 991 (Bach, Johann Sebastian)
+  year: 1722
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Air_with_Variations_in_C_minor%2C_BWV_991_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

@@ -1,0 +1,15 @@
+id: gounod-sancta-maria
+work:
+  composer: Gounod, Charles
+  title: Sancta Maria
+  ids:
+    imslp: Sancta Maria, CG 141 (Gounod, Charles)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: keyboard (ad lib.)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sancta_Maria%2C_CG_141_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), keyboard (ad lib.)'

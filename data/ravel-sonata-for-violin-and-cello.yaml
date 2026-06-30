@@ -7,7 +7,9 @@ work:
   year: 1920
 formula: ''
 instrumentation:
-  additional_raw: violin | cello
+  solo_strings:
+    violin: 1
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Sonata_for_Violin_and_Cello%2C_M.73_%28Ravel%2C_Maurice%29

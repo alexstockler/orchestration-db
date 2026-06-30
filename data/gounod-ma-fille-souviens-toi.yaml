@@ -1,0 +1,18 @@
+id: gounod-ma-fille-souviens-toi
+work:
+  composer: Gounod, Charles
+  title: Ma fille, souviens-toi
+  ids:
+    imslp: Ma fille, souviens-toi, CG 405 (Gounod, Charles)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ma_fille%2C_souviens-toi%2C_CG_405_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

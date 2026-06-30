@@ -1,0 +1,18 @@
+id: nielsen-violin-sonata-no-2
+work:
+  composer: Nielsen, Carl
+  title: Violin Sonata No.2
+  ids:
+    imslp: Violin Sonata No.2, Op.35 (Nielsen, Carl)
+  year: 1912
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_No.2%2C_Op.35_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

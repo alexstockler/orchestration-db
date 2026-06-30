@@ -1,0 +1,16 @@
+id: smetana-piece
+work:
+  composer: Smetana, Bedřich
+  title: Piece
+  ids:
+    imslp: Piece in A minor, JB 2:45 (Smetana, Bedřich)
+  year: 1862
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piece_in_A_minor%2C_JB_2%3A45_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

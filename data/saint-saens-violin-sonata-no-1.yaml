@@ -9,7 +9,8 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: violin
+  solo_strings:
+    violin: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Violin_Sonata_No.1%2C_Op.75_%28Saint-Sa%C3%ABns%2C_Camille%29

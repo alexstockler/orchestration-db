@@ -1,0 +1,16 @@
+id: hindemith-zwei-kanonische-duette-fur-zwei-violinen
+work:
+  composer: Hindemith, Paul
+  title: Zwei kanonische Duette für zwei Violinen
+  ids:
+    imslp: Kanonische Duette (Hindemith, Paul)
+  year: 1931
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kanonische_Duette_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins'

@@ -1,0 +1,16 @@
+id: weber-variations-sur-un-chant-tzigane
+work:
+  composer: Weber, Carl Maria von
+  title: Variations sur un chant tzigane
+  ids:
+    imslp: 7 Variations sur un chant tzigane, Op.55 (Weber, Carl Maria von)
+  year: 1817
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Variations_sur_un_chant_tzigane%2C_Op.55_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

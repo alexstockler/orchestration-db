@@ -1,0 +1,36 @@
+id: glazunov-overture-no-1
+work:
+  composer: Glazunov, Aleksandr
+  title: Overture No.1
+  ids:
+    imslp: Overture No.1 on 3 Greek Themes, Op.3 (Glazunov, Aleksandr)
+  year: 1881
+formula: 3[pic.2.3] 2 2 2 4231 tmp hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - side drum
+    - cymbals
+    - bass drum
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Overture_No.1_on_3_Greek_Themes%2C_Op.3_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons,, 4
+    horns, 2 trumpets, 3 trombones, tuba,, timpani, triangle, side drum, cymbals,
+    bass drum, harp (ad lib.), strings'

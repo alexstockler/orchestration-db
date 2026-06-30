@@ -24,6 +24,7 @@ instrumentation:
     - triangle
     - cymbals
     - snare drum
+    - tom-tom
   strings: str
   soloists:
   - 'The Fairy King: bass'
@@ -49,7 +50,6 @@ instrumentation:
   - 'General of Groma the magician: bass'
   - 'A messenger: tenor'
   - 'Voice of Groma the Magician: bass'
-  additional_raw: tom-tom
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Die_Feen%2C_WWV_32_%28Wagner%2C_Richard%29

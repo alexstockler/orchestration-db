@@ -5,12 +5,11 @@ work:
   ids:
     imslp: Psalm 13, Op.27 (Brahms, Johannes)
   year: 1859
-formula: org str
+formula: str
 instrumentation:
-  keyboards:
-  - instrument: organ
   strings: str
   chorus_raw: female chorus
+  additional_raw: organ (or Piano 3 or 4 hands)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Psalm_13%2C_Op.27_%28Brahms%2C_Johannes%29

@@ -7,7 +7,8 @@ work:
   year: 1920
 formula: ''
 instrumentation:
-  additional_raw: Violin and Piano
+  solo_strings:
+    violin: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Elegy%2C_Op.160_%28Saint-Sa%C3%ABns%2C_Camille%29

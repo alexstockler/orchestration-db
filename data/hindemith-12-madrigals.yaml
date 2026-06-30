@@ -1,0 +1,16 @@
+id: hindemith-12-madrigals
+work:
+  composer: Hindemith, Paul
+  title: 12 Madrigals
+  ids:
+    imslp: Fünfstimmige Madrigale (Hindemith, Paul)
+  year: 1958
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/F%C3%BCnfstimmige_Madrigale_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SSATB)'
+duration_minutes: 35

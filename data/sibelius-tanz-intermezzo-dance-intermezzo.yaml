@@ -5,7 +5,7 @@ work:
   ids:
     imslp: Dance Intermezzo, Op.45 No.2 (Sibelius, Jean)
   year: 1904
-formula: 2121 4 2[cnt.cnt] 1 0 tmp hp str
+formula: 2121 4 2[cnt.cnt] 0 0 tmp hp str
 instrumentation:
   flute: 2
   oboe: 1
@@ -15,7 +15,6 @@ instrumentation:
   trumpet:
   - instrument: cornet
   - instrument: cornet
-  trombone: 1
   percussion:
     timpani: 1
     instruments:
@@ -23,6 +22,7 @@ instrumentation:
     - castanets
   harp: 1
   strings: str
+  additional_raw: trombone (replaces 4th Horn or bassoon)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Dance_Intermezzo%2C_Op.45_No.2_%28Sibelius%2C_Jean%29

@@ -1,0 +1,38 @@
+id: nielsen-nearer-my-god-to-thee
+work:
+  composer: Nielsen, Carl
+  title: Nearer My God to Thee
+  ids:
+    imslp: Nærmere Gud til dig, CNW 37 (Nielsen, Carl)
+  year: 1912
+formula: 4[pic.pic.3.4] 2 6 0 4430 tmp
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 6
+  horn: 4
+  trumpet: 4
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - snare drum
+    - bass drum
+    - tam-tam
+  solo_strings:
+    double_bass: 2
+  additional_raw: 2 bassoons + | 2 soprano saxhorns (B) | 2 alto saxhorns (E) | 2
+    tenor saxhorns (B) | 2 baritone saxhorns (B) | 2 tubas +
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/N%C3%A6rmere_Gud_til_dig%2C_CNW_37_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Wind Band: 2 piccolos, 2 flutes, 2 oboes, 2 clarinets (E),
+    4 clarinets (B), 2 bassoons +, 4 horns (F), 4 trumpets (E), 2 soprano saxhorns
+    (B), 2 alto saxhorns (E), 2 tenor saxhorns (B), 2 baritone saxhorns (B), 3 trombones,
+    2 tubas +, timpani, cymbals, snare drum, bass drum, tam-tam + 2 double basses'

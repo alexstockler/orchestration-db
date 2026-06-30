@@ -1,0 +1,18 @@
+id: massenet-sevillana
+work:
+  composer: Massenet, Jules
+  title: Sevillana
+  ids:
+    imslp: Sevillana (Massenet, Jules)
+  year: 1895
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sevillana_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

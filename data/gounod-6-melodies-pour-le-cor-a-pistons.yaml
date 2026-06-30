@@ -1,0 +1,17 @@
+id: gounod-6-melodies-pour-le-cor-a-pistons
+work:
+  composer: Gounod, Charles
+  title: 6 Mélodies pour le cor à pistons
+  ids:
+    imslp: 6 Mélodies pour le cor à pistons, CG 566 (Gounod, Charles)
+  year: 1839
+formula: 0000 1000 pf
+instrumentation:
+  horn: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_M%C3%A9lodies_pour_le_cor_%C3%A0_pistons%2C_CG_566_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: horn, piano'

@@ -7,7 +7,10 @@ work:
 formula: str
 instrumentation:
   strings: str
-  additional_raw: 2 violins | 2 cellos | continuo
+  solo_strings:
+    violin: 2
+    cello: 2
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Concerto_in_D_major%2C_RV_564_%28Vivaldi%2C_Antonio%29

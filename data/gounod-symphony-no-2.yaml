@@ -1,0 +1,25 @@
+id: gounod-symphony-no-2
+work:
+  composer: Gounod, Charles
+  title: Symphony No.2
+  ids:
+    imslp: Symphony No.2, CG 528 (Gounod, Charles)
+  year: 1855
+formula: 2222 4200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.2%2C_CG_528_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2
+    trumpets, timpani, strings'
+duration_minutes: 35

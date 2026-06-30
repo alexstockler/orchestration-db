@@ -1,0 +1,16 @@
+id: offenbach-concerto-militaire
+work:
+  composer: Offenbach, Jacques
+  title: Concerto militaire
+  ids:
+    imslp: Concerto militaire (Offenbach, Jacques)
+  year: 1847
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_militaire_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, orchestra'

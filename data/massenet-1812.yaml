@@ -1,0 +1,15 @@
+id: massenet-1812
+work:
+  composer: Massenet, Jules
+  title: '1812'
+  ids:
+    imslp: 1812 (Massenet, Jules)
+  year: 1886
+formula: ''
+instrumentation:
+  additional_raw: 2 male choruses (TTBB.TTBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/1812_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 male choruses (TTBB.TTBB)'

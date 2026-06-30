@@ -1,0 +1,64 @@
+id: verdi-la-traviata
+work:
+  composer: Verdi, Giuseppe
+  title: La traviata
+  ids:
+    imslp: La traviata (Verdi, Giuseppe)
+  year: 1853
+formula: 2[1.2/pic] 2 2 2 4231 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tambourine
+    - castanets
+    - bass drum
+  harp: 1
+  strings: str
+  soloists:
+  - Violetta Valéry (soprano)
+  - Flora Bervoix (mezzo-soprano)
+  - Annina (mezzo-soprano)
+  - Alfredo Germont (tenor)
+  - Giorgio Germont
+  - suo padre (baritone)
+  - Gastone
+  - Visconte de Letorières (tenor)
+  - Barone Douphol (baritone)
+  - Marchese d'Obigny (bass)
+  - Dottore Grenvil (basso profondo)
+  - Giuseppe
+  - servo di Violetta (tenor)
+  - Domestico di Flora (corifeo basso)
+  - Commissionario (corifeo basso) Mixed Chorus (SATB) :Signori e Signore amici di
+    Violetta e Flora
+  - Matadori
+  - Piccadori
+  - Zingari
+  - Servi di Violetta e di Flora
+  - Maschere
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_traviata_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Violetta Valéry (soprano), Flora Bervoix (mezzo-soprano),
+    Annina (mezzo-soprano), Alfredo Germont (tenor), Giorgio Germont, suo padre (baritone),
+    Gastone, Visconte de Letorières (tenor), Barone Douphol (baritone), Marchese d''Obigny
+    (bass), Dottore Grenvil (basso profondo), Giuseppe, servo di Violetta (tenor),
+    Domestico di Flora (corifeo basso), Commissionario (corifeo basso) Mixed Chorus
+    (SATB) :Signori e Signore amici di Violetta e Flora, Matadori, Piccadori,, Zingari,
+    Servi di Violetta e di Flora, Maschere Orchestra :2 flutes (2nd also piccolo),
+    2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani,
+    triangle, tambourine, castanets, bass drum, harp, strings'

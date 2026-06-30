@@ -1,0 +1,17 @@
+id: kodaly-meditation-sur-un-motif-de-claude-debussy
+work:
+  composer: Kodály, Zoltán
+  title: Méditation sur un motif de Claude Debussy
+  ids:
+    imslp: Méditation sur un motif de Claude Debussy (Kodály, Zoltán)
+  year: 1907
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/M%C3%A9ditation_sur_un_motif_de_Claude_Debussy_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 6

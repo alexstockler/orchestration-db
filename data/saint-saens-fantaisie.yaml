@@ -8,7 +8,8 @@ work:
 formula: hp
 instrumentation:
   harp: 1
-  additional_raw: violin
+  solo_strings:
+    violin: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Fantaisie_for_Violin_and_Harp%2C_Op.124_%28Saint-Sa%C3%ABns%2C_Camille%29

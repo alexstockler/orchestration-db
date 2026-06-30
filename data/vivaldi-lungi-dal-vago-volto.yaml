@@ -8,7 +8,9 @@ formula: ''
 instrumentation:
   soloists:
   - soprano
-  additional_raw: violin | continuo
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Lungi_dal_vago_volto%2C_RV_680_%28Vivaldi%2C_Antonio%29

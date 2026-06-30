@@ -11,7 +11,10 @@ instrumentation:
   horn: 2
   soloists:
   - soprano
-  additional_raw: 2 violins | viola | bassi (cello, double bass and organ)
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: bassi (cello, double bass and organ)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Ave_maris_stella_%28Mendelssohn%2C_Felix%29

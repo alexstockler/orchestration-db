@@ -1,0 +1,21 @@
+id: bach-erfreute-zeit-im-neuen-bunde
+work:
+  composer: Bach, Johann Sebastian
+  title: Erfreute Zeit im neuen Bunde
+  ids:
+    imslp: Erfreute Zeit im neuen Bunde, BWV 83 (Bach, Johann Sebastian)
+  year: 1724
+formula: 0200 2000 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  strings: str
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erfreute_Zeit_im_neuen_Bunde%2C_BWV_83_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 horns, violin solo, strings, continuo'
+duration_minutes: 20

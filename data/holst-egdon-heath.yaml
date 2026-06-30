@@ -1,0 +1,30 @@
+id: holst-egdon-heath
+work:
+  composer: Holst, Gustav
+  title: Egdon Heath
+  ids:
+    imslp: Egdon Heath, Op.47 (Holst, Gustav)
+  year: 1927
+formula: 2 3[1.2.Eh] 2 3[1.2.cbn] 4331 str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Egdon_Heath%2C_Op.47_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, english horn, 2 clarinets, 2 bassoons,
+    contrabassoon, 4 horns, 3 trumpets, 3 trombones, tuba, strings'

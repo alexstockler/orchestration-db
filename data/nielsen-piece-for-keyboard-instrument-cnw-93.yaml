@@ -1,0 +1,15 @@
+id: nielsen-piece-for-keyboard-instrument-cnw-93
+work:
+  composer: Nielsen, Carl
+  title: Piece for Keyboard Instrument, CNW 93
+  ids:
+    imslp: Piece in C major, CNW 93 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piece_in_C_major%2C_CNW_93_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: piano or organ'

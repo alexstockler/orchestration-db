@@ -1,0 +1,73 @@
+id: bartok-the-wooden-prince
+work:
+  composer: Bartók, Béla
+  title: The Wooden Prince
+  ids:
+    imslp: A fából faragott királyfi, Sz.60 (Bartók, Béla)
+  year: 1917
+formula: 4[1.2.3/pic.4/pic] 4[1.2.3/Eh.4/Eh] 4 3[1.2.3/cbn] 4 6[1.2.3.4.cnt.cnt] 3
+  1 tmp cel 2hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - doublings:
+    - english_horn
+  - doublings:
+    - english_horn
+  clarinet: 4
+  bassoon:
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - glockenspiel
+    - xylophone
+    - triangle
+    - snare drum
+    - cymbals
+    - castanets
+    - tam-tam
+    - bass drum
+  keyboards:
+  - instrument: celesta
+  harp: 2
+  strings: str
+  saxophones:
+  - instrument: alto_sax
+    count: 1
+  - instrument: tenor_sax
+    count: 1
+  additional_raw: 'unknown doubling in clarinet: e-flat clarinet-flat clarinet | unknown
+    doubling in clarinet: 4th also bass clarinet'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_f%C3%A1b%C3%B3l_faragott_kir%C3%A1lyfi%2C_Sz.60_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 flutes (3rd and 4th also piccolo), 4 oboes (3rd and 4th
+    also english horn), 4 clarinets (3rd also E clarinet/4th also bass clarinet),
+    3 bassoons (3rd and 4th also contrabassoon), alto saxophone, tenor saxophone (also
+    baritone saxophone), 4 horns, 4 trumpets, 2 cornets, 3 trombones, tuba, timpani,
+    glockenspiel, xylophone, triangle, snare drum, cymbals, castanets, tam-tam, bass
+    drum, celesta, 2 harps, strings'
+duration_minutes: 48

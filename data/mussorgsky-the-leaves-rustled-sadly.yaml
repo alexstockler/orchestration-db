@@ -1,0 +1,19 @@
+id: mussorgsky-the-leaves-rustled-sadly
+work:
+  composer: Mussorgsky, Modest
+  title: The Leaves Rustled Sadly
+  ids:
+    imslp: The Leaves Rustled Sadly (Mussorgsky, Modest)
+  year: 1858
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Leaves_Rustled_Sadly_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'
+duration_minutes: 4

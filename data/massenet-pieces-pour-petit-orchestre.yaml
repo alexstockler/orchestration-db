@@ -1,0 +1,23 @@
+id: massenet-pieces-pour-petit-orchestre
+work:
+  composer: Massenet, Jules
+  title: Pièces pour petit orchestre
+  ids:
+    imslp: Pièces pour petit orchestre (Massenet, Jules)
+  year: 1901
+formula: 2022 4000 tmp hp str
+instrumentation:
+  flute: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  percussion:
+    timpani: 1
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pi%C3%A8ces_pour_petit_orchestre_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 clarinets, 2 bassoons, 4 horns, timpani, harp,
+    strings (with some solo parts)'

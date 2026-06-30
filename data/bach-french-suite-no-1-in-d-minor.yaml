@@ -1,0 +1,15 @@
+id: bach-french-suite-no-1-in-d-minor
+work:
+  composer: Bach, Johann Sebastian
+  title: French Suite No.1 in D minor
+  ids:
+    imslp: French Suite No.1 in D minor, BWV 812 (Bach, Johann Sebastian)
+  year: 1722
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/French_Suite_No.1_in_D_minor%2C_BWV_812_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

@@ -1,0 +1,17 @@
+id: bach-geist-und-seele-wird-verwirret
+work:
+  composer: Bach, Johann Sebastian
+  title: Geist und Seele wird verwirret
+  ids:
+    imslp: Geist und Seele wird verwirret, BWV 35 (Bach, Johann Sebastian)
+  year: 1726
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: taille | organ obbligato | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Geist_und_Seele_wird_verwirret%2C_BWV_35_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, taille, organ obbligato, strings, continuo'

@@ -12,7 +12,7 @@ instrumentation:
   - altos
   - tenor
   - bass
-  additional_raw: 2 mixed choruses (SATB/SATB)
+  chorus_raw: 2 mixed choruses
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Kyrie_in_C_minor%2C_MWV_B_12_%28Mendelssohn%2C_Felix%29

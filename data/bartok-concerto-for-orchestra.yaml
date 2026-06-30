@@ -1,13 +1,11 @@
 id: bartok-concerto-for-orchestra
 work:
-  composer: "Bartók, Béla"
-  title: "Concerto for Orchestra"
-  catalog: "Sz 116, BB 123"
-  year: 1943
+  composer: Bartók, Béla
+  title: Concerto for Orchestra
   ids:
-    imslp: "Concerto for Orchestra, Sz.116 (Bartók, Béla)"
-formula: "3[1.2.3/pic] 3[1.2.3/Eh] 3[1.2.3/bcl] 3[1.2.3/cbn] 4331 tmp+2 2hp str"
-duration_minutes: 38
+    imslp: Concerto for Orchestra, Sz.116 (Bartók, Béla)
+  year: 1943
+formula: 3[1.2.3/pic] 3[1.2.3/Eh] 3[1.2.3/bcl] 3[1.2.3/cbn] 4331 tmp 2hp str
 instrumentation:
   flute:
   - {}
@@ -35,17 +33,20 @@ instrumentation:
   tuba: 1
   percussion:
     timpani: 1
-    players: 2
     instruments:
-    - snare drum
+    - side drum
     - bass drum
     - cymbals
-    - tam-tam
     - triangle
+    - tam-tam
   harp: 2
   strings: str
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Concerto_for_Orchestra%2C_Sz.116_%28Bart%C3%B3k%2C_B%C3%A9la%29
   confidence: single_source
-  notes: "Instrumentation: 3 flutes (3rd also piccolo), 3 oboes (3rd also English horn), 3 clarinets (3rd also bass clarinet), 3 bassoons (3rd also contrabassoon), 4 horns, 3 trumpets, 3 trombones, tuba, timpani + 2 percussionists (snare drum, bass drum, cymbals, tam-tam, triangle), 2 harps, strings"
+  notes: 'Instrumentation: 3d1, 3d1, 3d1, 3d1 - 4, 3, 3, 1, tmp, 2prc, 2hp, strs :3
+    flutes (3rd also piccolo), 3 oboes (3rd also English horn) ::3 clarinets (3rd
+    also bass clarinet), 3 bassoons (3rd also contrabassoon) :4 horns, 3 trumpets,
+    3 trombones, tuba, timpani, side drum, bass drum, cymbals, triangle, tam-tam,
+    2 harps, strings'

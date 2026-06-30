@@ -1,0 +1,21 @@
+id: nielsen-clarinet-concerto
+work:
+  composer: Nielsen, Carl
+  title: Clarinet Concerto
+  ids:
+    imslp: Clarinet Concerto, Op.57 (Nielsen, Carl)
+  year: 1928
+formula: 0002 2000 str
+instrumentation:
+  bassoon: 2
+  horn: 2
+  percussion:
+    instruments:
+    - snare drum
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Clarinet_Concerto%2C_Op.57_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 bassoons, 2 horns, snare drum, strings'
+duration_minutes: 27

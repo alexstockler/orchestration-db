@@ -1,0 +1,16 @@
+id: bach-christ-lag-in-todesbanden
+work:
+  composer: Bach, Johann Sebastian
+  title: Christ lag in Todesbanden
+  ids:
+    imslp: Christ lag in Todes Banden, BWV Anh.171 (Bach, Johann Sebastian)
+  year: 1903
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Christ_lag_in_Todes_Banden%2C_BWV_Anh.171_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

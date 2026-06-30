@@ -8,7 +8,10 @@ formula: ''
 instrumentation:
   soloists:
   - soprano
-  additional_raw: 2 violins | viola | continuo
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Ascende_l%C3%A6ta%2C_RV_635_%28Vivaldi%2C_Antonio%29

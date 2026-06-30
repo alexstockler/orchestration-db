@@ -1,0 +1,16 @@
+id: weber-max-walzer
+work:
+  composer: Weber, Carl Maria von
+  title: Max-Walzer
+  ids:
+    imslp: Max-Walzer, J. Anh.81 (Weber, Carl Maria von)
+  year: 1825
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Max-Walzer%2C_J._Anh.81_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

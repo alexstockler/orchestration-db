@@ -1,0 +1,15 @@
+id: weber-warnung
+work:
+  composer: Weber, Carl Maria von
+  title: Warnung
+  ids:
+    imslp: Warnung (Weber, Carl Maria von)
+formula: ''
+instrumentation:
+  additional_raw: 3 equal voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Warnung_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 equal voices'
+duration_minutes: 2

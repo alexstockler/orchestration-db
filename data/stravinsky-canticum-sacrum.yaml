@@ -29,7 +29,9 @@ instrumentation:
   keyboards:
   - instrument: organ
   harp: 1
-  additional_raw: violas | double basses
+  solo_strings:
+    viola: 1
+    double_bass: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Canticum_sacrum%2C_K086_%28Stravinsky%2C_Igor%29

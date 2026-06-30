@@ -1,0 +1,21 @@
+id: weber-du-bekranzend-uns-re-laren-j-283
+work:
+  composer: Weber, Carl Maria von
+  title: Du, bekränzend uns're Laren, J.283
+  ids:
+    imslp: Du, bekränzend uns're Laren, J.283 (Weber, Carl Maria von)
+  year: 1821
+formula: 1000 0000 pf
+instrumentation:
+  flute: 1
+  keyboards:
+  - instrument: piano
+  soloists:
+  - sopranos
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Du%2C_bekr%C3%A4nzend_uns%27re_Laren%2C_J.283_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, tenor, bass, flute, piano'

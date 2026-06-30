@@ -1,0 +1,16 @@
+id: hindemith-sonata-for-4-horns
+work:
+  composer: Hindemith, Paul
+  title: Sonata for 4 Horns
+  ids:
+    imslp: Sonata for 4 Horns (Hindemith, Paul)
+  year: 1952
+formula: 0000 4000
+instrumentation:
+  horn: 4
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_for_4_Horns_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 horns (F)'
+duration_minutes: 15

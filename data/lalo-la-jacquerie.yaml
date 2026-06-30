@@ -1,0 +1,17 @@
+id: lalo-la-jacquerie
+work:
+  composer: Lalo, Édouard
+  title: La jacquerie
+  ids:
+    imslp: La jacquerie (Lalo, Édouard)
+  year: 1891
+formula: ''
+instrumentation:
+  additional_raw: '|Extra Information=Act I only completed by Lalo | Remainder by
+    (1846–1910).'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_jacquerie_%28Lalo%2C_%C3%89douard%29
+  confidence: single_source
+  notes: 'Instrumentation: |Extra Information=Act I only completed by Lalo. Remainder
+    by (1846–1910).'

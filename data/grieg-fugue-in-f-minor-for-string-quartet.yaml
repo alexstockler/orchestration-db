@@ -7,7 +7,10 @@ work:
   year: 1861
 formula: ''
 instrumentation:
-  additional_raw: 2 violins | viola | cello
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Fugue_in_F_minor_for_String_Quartet%2C_EG_114_%28Grieg%2C_Edvard%29

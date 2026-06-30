@@ -1,0 +1,15 @@
+id: bach-erhalt-uns-herr-bei-deinem-wort
+work:
+  composer: Bach, Johann Sebastian
+  title: Erhalt uns Herr bei deinem Wort
+  ids:
+    imslp: Erhalt uns, Herr, bei deinem Wort, BWV Anh.50 (Bach, Johann Sebastian)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erhalt_uns%2C_Herr%2C_bei_deinem_Wort%2C_BWV_Anh.50_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

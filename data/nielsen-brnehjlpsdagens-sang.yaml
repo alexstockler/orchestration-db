@@ -1,0 +1,22 @@
+id: nielsen-brnehjlpsdagens-sang
+work:
+  composer: Nielsen, Carl
+  title: Børnehjælpsdagens Sang
+  ids:
+    imslp: Børnehjælpsdagens Sang, CNW 293 (Nielsen, Carl)
+  year: 1911
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+  additional_raw: male chorus (TTBB) 1911 (G major) | mixed chorus (SATB) 1911 (D
+    major) | women's or children's chorus (SA) 1911 (F major)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/B%C3%B8rnehj%C3%A6lpsdagens_Sang%2C_CNW_293_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano (piano with text), male chorus (TTBB) 1911
+    (G major), mixed chorus (SATB) 1911 (D major), women''s or children''s chorus
+    (SA) 1911 (F major)'

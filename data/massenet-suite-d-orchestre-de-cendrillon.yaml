@@ -1,0 +1,14 @@
+id: massenet-suite-d-orchestre-de-cendrillon
+work:
+  composer: Massenet, Jules
+  title: Suite d'orchestre de Cendrillon
+  ids:
+    imslp: Cendrillon (suite) (Massenet, Jules)
+  year: 1894
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cendrillon_%28suite%29_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

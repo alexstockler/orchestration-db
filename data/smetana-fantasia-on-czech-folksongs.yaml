@@ -1,0 +1,17 @@
+id: smetana-fantasia-on-czech-folksongs
+work:
+  composer: Smetana, Bedřich
+  title: Fantasia on Czech Folksongs
+  ids:
+    imslp: Fantasie na české národní písně, JB 1:83 (Smetana, Bedřich)
+  year: 1862
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasie_na_%C4%8Desk%C3%A9_n%C3%A1rodn%C3%AD_p%C3%ADsn%C4%9B%2C_JB_1%3A83_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: 1 piano'
+duration_minutes: 9

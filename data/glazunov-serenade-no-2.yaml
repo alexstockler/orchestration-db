@@ -1,0 +1,20 @@
+id: glazunov-serenade-no-2
+work:
+  composer: Glazunov, Aleksandr
+  title: Serenade No.2
+  ids:
+    imslp: Serenade No.2, Op.11 (Glazunov, Aleksandr)
+  year: 1884
+formula: 2122 2000 str
+instrumentation:
+  flute: 2
+  oboe: 1
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Serenade_No.2%2C_Op.11_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, oboe, 2 clarinets, 2 bassoons, 2 horns, strings'

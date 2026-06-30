@@ -1,0 +1,50 @@
+id: vaughan-williams-english-folk-song-suite
+work:
+  composer: Vaughan Williams, Ralph
+  title: English Folk Song Suite
+  ids:
+    imslp: English Folk Song Suite (Vaughan Williams, Ralph)
+  year: 1923
+formula: 2[pic.2] 2 6[Ebcl.2.3.4.bcl.cbcl] 2 4 4[cnt.cnt.3.4] 3 2[euph.2] tmp
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 2
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  - instrument: contrabass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  trombone: 3
+  tuba:
+  - instrument: euphonium
+  - {}
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - bass drum
+    - snare drum
+    - triangle
+  additional_raw: solo clarinet | alto clarinet | 4 saxophones (alto, tenor, baritone,
+    bass) | solo cornet | string basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/English_Folk_Song_Suite_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: Military Band :piccolo, flute, 2 oboes, E-flat clarinet,
+    solo clarinet, 3 clarinets, alto clarinet, bass clarinet, ::contrabass clarinet,
+    2 bassoons, 4 saxophones (alto, tenor, baritone, bass) :solo cornet, 2 cornets,
+    2 trumpets, 4 horns, 3 trombones, euphonium, tubas,, timpani, cymbals, bass drum,
+    snare drum, triangle, string basses'
+duration_minutes: 12

@@ -1,0 +1,17 @@
+id: franck-piano-duo-no-2-sur-le-quatuor-de-lucile-de-andre-ernest-modeste-gretry
+work:
+  composer: Franck, César
+  title: Piano Duo No.2 sur le quatuor de "Lucile" de André-Ernest-Modeste Grétry
+  ids:
+    imslp: Piano Duo No.2 sur le quatuor de 'Lucile' de André-Ernest-Modeste Grétry,
+      FWV 19 (Franck, César)
+  year: 1846
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Duo_No.2_sur_le_quatuor_de_%27Lucile%27_de_Andr%C3%A9-Ernest-Modeste_Gr%C3%A9try%2C_FWV_19_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4 hands'

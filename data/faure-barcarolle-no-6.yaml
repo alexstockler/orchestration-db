@@ -1,0 +1,17 @@
+id: faure-barcarolle-no-6
+work:
+  composer: Fauré, Gabriel
+  title: Barcarolle No.6
+  ids:
+    imslp: Barcarolle No.6, Op.70 (Fauré, Gabriel)
+  year: 1896
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Barcarolle_No.6%2C_Op.70_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 4

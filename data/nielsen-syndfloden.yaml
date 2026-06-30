@@ -1,0 +1,17 @@
+id: nielsen-syndfloden
+work:
+  composer: Nielsen, Carl
+  title: Syndfloden
+  ids:
+    imslp: Syndfloden, CNW 257 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Syndfloden%2C_CNW_257_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

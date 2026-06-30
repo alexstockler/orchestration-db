@@ -1,0 +1,17 @@
+id: vaughan-williams-prelude-and-fugue-in-c-minor
+work:
+  composer: Vaughan Williams, Ralph
+  title: Prelude and Fugue in C minor
+  ids:
+    imslp: Prelude and Fugue in C minor (Vaughan Williams, Ralph)
+  year: 1921
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude_and_Fugue_in_C_minor_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 10

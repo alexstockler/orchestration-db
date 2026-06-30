@@ -1,0 +1,16 @@
+id: hindemith-sine-musica-nulla-disciplina
+work:
+  composer: Hindemith, Paul
+  title: Sine musica nulla disciplina
+  ids:
+    imslp: Sine musica nulla disciplina (Hindemith, Paul)
+  year: 1944
+formula: ''
+instrumentation:
+  additional_raw: 3 part mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sine_musica_nulla_disciplina_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 part mixed chorus'
+duration_minutes: 5

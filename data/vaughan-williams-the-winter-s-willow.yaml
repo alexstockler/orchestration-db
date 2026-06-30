@@ -1,0 +1,18 @@
+id: vaughan-williams-the-winter-s-willow
+work:
+  composer: Vaughan Williams, Ralph
+  title: The Winter's Willow
+  ids:
+    imslp: The Winter's Willow (Vaughan Williams, Ralph)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Winter%27s_Willow_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 3

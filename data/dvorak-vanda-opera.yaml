@@ -9,7 +9,7 @@ formula: ''
 instrumentation:
   soloists:
   - voices
-  additional_raw: chorus and orchestra
+  chorus_raw: chorus and orchestra
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Vanda_%28opera%29%2C_B.55_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29

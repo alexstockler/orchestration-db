@@ -1,0 +1,28 @@
+id: berlioz-hymne-des-marseillais
+work:
+  composer: Berlioz, Hector
+  title: Hymne des Marseillais
+  ids:
+    imslp: Hymne des Marseillais, H 51A (Berlioz, Hector)
+  year: 1830
+formula: 0022 4630 tmp ophicleide str
+instrumentation:
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 6
+  trombone: 3
+  percussion:
+    timpani: 3
+    instruments:
+    - bass drum
+  extras:
+  - instrument: ophicleide
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymne_des_Marseillais%2C_H_51A_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 clarinets, 2 bassoons, 4 horns, 6 trumpets, 3 trombones,
+    2 ophicleides, 3 timpani, bass drum, strings'
+duration_minutes: 8

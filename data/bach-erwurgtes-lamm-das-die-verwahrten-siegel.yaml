@@ -1,0 +1,17 @@
+id: bach-erwurgtes-lamm-das-die-verwahrten-siegel
+work:
+  composer: Bach, Johann Sebastian
+  title: Erwürgtes Lamm, das die verwahrten Siegel
+  ids:
+    imslp: Erwürgtes Lamm! das die verwahrten Siegel, BWV 455 (Bach, Johann Sebastian)
+  year: 1735
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erw%C3%BCrgtes_Lamm%21_das_die_verwahrten_Siegel%2C_BWV_455_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

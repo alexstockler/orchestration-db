@@ -1,0 +1,17 @@
+id: franck-stradella
+work:
+  composer: Franck, César
+  title: Stradella
+  ids:
+    imslp: Stradella, CFF 229 (Franck, César)
+  year: 1841
+formula: ''
+instrumentation:
+  additional_raw: Beppo | Léonor (s) | Michael | Pietro | Stradella (t) | Le Duc |
+    Spadoni (b)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Stradella%2C_CFF_229_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: 7 voices (SSTTTBB), mixed chorus (SATB), piano, Voices:
+    Beppo, Léonor (s); Michael, Pietro, Stradella (t); Le Duc, Spadoni (b)'

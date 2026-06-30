@@ -1,0 +1,18 @@
+id: nielsen-jeg-ved-en-lrkerede
+work:
+  composer: Nielsen, Carl
+  title: Jeg ved en Lærkerede
+  ids:
+    imslp: Jeg ved en Lærkerede, CNW 262 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: children's chorus
+  additional_raw: Version 2 (1926) voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jeg_ved_en_L%C3%A6rkerede%2C_CNW_262_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Version 1 (1924): children''s chorus, Version 2 (1926)
+    voice, piano'

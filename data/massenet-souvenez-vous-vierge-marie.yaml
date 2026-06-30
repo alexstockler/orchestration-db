@@ -1,0 +1,15 @@
+id: massenet-souvenez-vous-vierge-marie
+work:
+  composer: Massenet, Jules
+  title: Souvenez-vous, Vierge Marie
+  ids:
+    imslp: Souvenez-vous, Vierge Marie (Massenet, Jules)
+  year: 1880
+formula: ''
+instrumentation:
+  additional_raw: mezzo-soprano voice | 3-part female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Souvenez-vous%2C_Vierge_Marie_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: mezzo-soprano voice, 3-part female chorus, orchestra'

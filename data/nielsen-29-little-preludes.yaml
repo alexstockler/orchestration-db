@@ -1,0 +1,16 @@
+id: nielsen-29-little-preludes
+work:
+  composer: Nielsen, Carl
+  title: 29 Little Preludes
+  ids:
+    imslp: 29 Smaa præludier, Op.51 (Nielsen, Carl)
+  year: 1929
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/29_Smaa_pr%C3%A6ludier%2C_Op.51_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: organ (or harmonium)'

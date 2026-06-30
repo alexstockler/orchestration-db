@@ -1,0 +1,17 @@
+id: hindemith-14-leichte-stucke
+work:
+  composer: Hindemith, Paul
+  title: 14 leichte Stücke
+  ids:
+    imslp: 14 Leichte Stücke (Hindemith, Paul)
+  year: 1931
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/14_Leichte_St%C3%BCcke_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins'
+duration_minutes: 12

@@ -1,0 +1,16 @@
+id: scriabin-3-morceaux
+work:
+  composer: Scriabin, Aleksandr
+  title: 3 Morceaux
+  ids:
+    imslp: 3 Pieces, Op.45 (Scriabin, Aleksandr)
+  year: 1905
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Pieces%2C_Op.45_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

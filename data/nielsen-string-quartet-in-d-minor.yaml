@@ -1,0 +1,19 @@
+id: nielsen-string-quartet-in-d-minor
+work:
+  composer: Nielsen, Carl
+  title: String Quartet in D minor
+  ids:
+    imslp: String Quartet in D minor, CNW 49 (Nielsen, Carl)
+  year: 1883
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_in_D_minor%2C_CNW_49_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 15

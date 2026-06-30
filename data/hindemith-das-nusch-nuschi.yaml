@@ -1,0 +1,97 @@
+id: hindemith-das-nusch-nuschi
+work:
+  composer: Hindemith, Paul
+  title: Das Nusch-Nuschi
+  ids:
+    imslp: Das Nusch-Nuschi, Op.20 (Hindemith, Paul)
+  year: 1919
+formula: 2 3[1.2.Eh] 4[Ebcl.2.3.bcl] 3[1.2.cbn] 2220 tmp+1 cel hp mand str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 2
+  trumpet: 2
+  trombone: 2
+  percussion:
+    timpani: 1
+    players: 1
+    instruments:
+    - snare drum
+    - field drum
+    - suspended cymbals
+    - cymbals
+    - large gong
+    - triangle
+    - xylophone
+    - glockenspiel
+    - bells
+    - cowbells
+  keyboards:
+  - instrument: celesta
+  harp: 1
+  extras:
+  - instrument: mandolin
+  strings: str
+  soloists:
+  - Mung Tha Bya
+  - Emperor of Burma (bass)
+  - Ragweng
+  - the Crown Prince (spoken)
+  - Field General Kyce Waing (bass)
+  - The Master of Ceremonies (bass)
+  - The Executioner (bass)
+  - A beggar (bass)
+  - Susulü
+  - the Eunuch of the Emperor (tenor, falsetto)
+  - The beautiful Zatwai (silent role)
+  - Tum tum
+  - his servent (tenor, buffo)
+  - Kamadewa (tenor or soprano)
+  - First Herold (bass)
+  - Second Herold (tenor)
+  - 'The four Women of the Emperor: ::Bangsa (soprano)'
+  - Osasa (coloratura soprano)
+  - Twaïse (alto)
+  - Ratasata (soprano) :First Bayadere (soprano)
+  - Second Bayadere (alto)
+  - Two trained monkeys (tenors)
+  - The Nusch-Nuschi (silent role)
+  - First poet (tenor)
+  - Second poet (bass)
+  - First girl (soprano)
+  - Second girl (alto)
+  - Third Girl (soprano)
+  additional_raw: bass tuba | bass drum with cymbals | small and large tambourine
+    | rattle | brush | medium-large cowbell
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Nusch-Nuschi%2C_Op.20_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Roles :Mung Tha Bya, Emperor of Burma (bass), Ragweng,
+    the Crown Prince (spoken), Field General Kyce Waing (bass), The Master of Ceremonies
+    (bass), The Executioner (bass), A beggar (bass), Susulü, the Eunuch of the Emperor
+    (tenor, falsetto), The beautiful Zatwai (silent role), Tum tum, his servent (tenor,
+    buffo), Kamadewa (tenor or soprano), First Herold (bass), Second Herold (tenor),
+    The four Women of the Emperor: ::Bangsa (soprano), Osasa (coloratura soprano),
+    Twaïse (alto), Ratasata (soprano) :First Bayadere (soprano), Second Bayadere (alto),
+    Two trained monkeys (tenors), The Nusch-Nuschi (silent role), First poet (tenor),
+    Second poet (bass), First girl (soprano), Second girl (alto), Third Girl (soprano)
+    Orchestra :2 flutes (both also piccolo), 2 oboes, English horn, clarinet (E),
+    2 clarinets, ::bass clarinet, 2 bassoons, contrabassoon :2 horns, 2 trumpets,
+    2 trombones, bass tuba, timpani, percussion (4-5 players), celesta, harp, mandolin,
+    strings (large complement) :: snare drum, field drum, bass drum with cymbals,
+    suspended cymbals, cymbals, large gong, triangle,, small and large tambourine,
+    rattle, brush, xylophone, glockenspiel, 5 bells, cowbells, medium-large cowbell'
+duration_minutes: 60

@@ -1,0 +1,16 @@
+id: bach-credo-in-unum-deum-bwv-1081
+work:
+  composer: Bach, Johann Sebastian
+  title: Credo in unum Deum, BWV 1081
+  ids:
+    imslp: Credo in unum Deum, BWV 1081 (Bach, Johann Sebastian)
+formula: ''
+instrumentation:
+  chorus_raw: satb
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Credo_in_unum_Deum%2C_BWV_1081_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB, continuo'
+duration_minutes: 2

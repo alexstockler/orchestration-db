@@ -1,0 +1,15 @@
+id: offenbach-le-66
+work:
+  composer: Offenbach, Jacques
+  title: Le 66
+  ids:
+    imslp: Le 66 (Offenbach, Jacques)
+  year: 1856
+formula: ''
+instrumentation:
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_66_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, orchestra'

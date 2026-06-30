@@ -1,0 +1,26 @@
+id: vaughan-williams-prelude-on-an-old-carol-tune
+work:
+  composer: Vaughan Williams, Ralph
+  title: Prelude on an Old Carol Tune
+  ids:
+    imslp: Prelude on an Old Carol Tune (Vaughan Williams, Ralph)
+  year: 1953
+formula: 2121 2220 tmp str
+instrumentation:
+  flute: 2
+  oboe: 1
+  clarinet: 2
+  bassoon: 1
+  horn: 2
+  trumpet: 2
+  trombone: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude_on_an_Old_Carol_Tune_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, oboe, 2 clarinets, bassoon, 2 horns, 2 trumpets,
+    2 trombones, timpani, strings'
+duration_minutes: 8

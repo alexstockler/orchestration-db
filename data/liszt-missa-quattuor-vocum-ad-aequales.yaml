@@ -5,9 +5,11 @@ work:
   ids:
     imslp: Missa quattuor vocum ad aequales, S.8 (Liszt, Franz)
   year: 1846
-formula: ''
+formula: org
 instrumentation:
-  additional_raw: Chorus (TTBB) + Organ
+  keyboards:
+  - instrument: organ
+  chorus_raw: chorus
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Missa_quattuor_vocum_ad_aequales%2C_S.8_%28Liszt%2C_Franz%29

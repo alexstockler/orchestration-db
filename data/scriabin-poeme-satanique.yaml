@@ -1,0 +1,16 @@
+id: scriabin-poeme-satanique
+work:
+  composer: Scriabin, Aleksandr
+  title: Poeme Satanique
+  ids:
+    imslp: Poème Satanique, Op.36 (Scriabin, Aleksandr)
+  year: 1903
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Po%C3%A8me_Satanique%2C_Op.36_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

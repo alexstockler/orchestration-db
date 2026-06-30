@@ -1,0 +1,14 @@
+id: bach-chaconne
+work:
+  composer: Bach, Johann Sebastian
+  title: Chaconne
+  ids:
+    imslp: Chaconne in G major, BWV Anh.84 (Bach, Johann Sebastian)
+formula: ''
+instrumentation:
+  additional_raw: Clavier
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chaconne_in_G_major%2C_BWV_Anh.84_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Clavier'

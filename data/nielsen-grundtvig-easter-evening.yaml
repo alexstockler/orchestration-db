@@ -1,0 +1,26 @@
+id: nielsen-grundtvig-easter-evening
+work:
+  composer: Nielsen, Carl
+  title: Grundtvig Easter Evening
+  ids:
+    imslp: Grundtvig-Paaske-aften, CNW 24 (Nielsen, Carl)
+  year: 1931
+formula: 1111 2020 tmp
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 2
+  trombone: 2
+  percussion:
+    timpani: 1
+  soloists:
+  - reciter
+  - choir of Angels (TTBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grundtvig-Paaske-aften%2C_CNW_24_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: reciter, choir of Angels (TTBB), Orchestra: flute,
+    oboe, clarinet (A), bassoon, 2 horns (F), 2 trombones, timpani'

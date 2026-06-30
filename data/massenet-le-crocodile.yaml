@@ -1,0 +1,14 @@
+id: massenet-le-crocodile
+work:
+  composer: Massenet, Jules
+  title: Le crocodile
+  ids:
+    imslp: Le crocodile (Massenet, Jules)
+  year: 1886
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_crocodile_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra'

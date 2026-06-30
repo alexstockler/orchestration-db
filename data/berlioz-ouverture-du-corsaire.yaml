@@ -1,0 +1,31 @@
+id: berlioz-ouverture-du-corsaire
+work:
+  composer: Berlioz, Hector
+  title: Ouverture du Corsaire
+  ids:
+    imslp: Overture 'Le Corsaire', H 101 (Berlioz, Hector)
+  year: 1844
+formula: 2222 4 4[1.2.cnt.cnt] 3 0 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: ophecleide (tuba)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Overture_%27Le_Corsaire%27%2C_H_101_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: 26 parts :2 flutes, 2 oboes, 2 clarinets, 2 (4) bassoons,
+    4 horns, 2 trumpets, 2 cornets, 3 trombones, ophecleide (tuba), timpani, strings'
+duration_minutes: 10

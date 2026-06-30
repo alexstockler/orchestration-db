@@ -1,0 +1,19 @@
+id: faure-hymne-a-apollon
+work:
+  composer: Fauré, Gabriel
+  title: Hymne à Apollon
+  ids:
+    imslp: Hymne à Apollon, Op.63bis (Fauré, Gabriel)
+  year: 1894
+formula: 1020 0000 hp
+instrumentation:
+  flute: 1
+  clarinet: 2
+  harp: 1
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymne_%C3%A0_Apollon%2C_Op.63bis_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, flute, 2 clarinets, harp'

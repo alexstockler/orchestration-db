@@ -1,0 +1,16 @@
+id: bach-6-cello-suites
+work:
+  composer: Bach, Johann Sebastian
+  title: 6 Cello Suites
+  ids:
+    imslp: 6 Cello Suites, BWV 1007-1012 (Bach, Johann Sebastian)
+  year: 1717
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Cello_Suites%2C_BWV_1007-1012_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: cello*'

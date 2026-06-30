@@ -1,0 +1,18 @@
+id: faure-la-chanson-deve
+work:
+  composer: Fauré, Gabriel
+  title: La chanson d’Eve
+  ids:
+    imslp: La chanson d'Ève, Op.95 (Fauré, Gabriel)
+  year: 1906
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_chanson_d%27%C3%88ve%2C_Op.95_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,16 @@
+id: faure-prelude-and-fugue
+work:
+  composer: Fauré, Gabriel
+  title: Prelude and Fugue
+  ids:
+    imslp: Prelude and Fugue (Fauré, Gabriel)
+  year: 1869
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude_and_Fugue_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

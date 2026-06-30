@@ -1,0 +1,15 @@
+id: bach-es-spricht-der-unweisen-mund-wohl
+work:
+  composer: Bach, Johann Sebastian
+  title: Es spricht der Unweisen Mund wohl
+  ids:
+    imslp: Es spricht der Unweisen Mund wohl, BWV 308 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_spricht_der_Unweisen_Mund_wohl%2C_BWV_308_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

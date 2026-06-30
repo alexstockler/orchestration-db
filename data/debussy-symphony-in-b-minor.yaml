@@ -5,9 +5,10 @@ work:
   ids:
     imslp: Symphony in B minor, CD 8 (Debussy, Claude)
   year: 1880
-formula: ''
+formula: pf
 instrumentation:
-  additional_raw: piano 4-hands
+  keyboards:
+  - instrument: piano
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Symphony_in_B_minor%2C_CD_8_%28Debussy%2C_Claude%29

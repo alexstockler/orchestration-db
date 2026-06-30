@@ -1,0 +1,18 @@
+id: massenet-l-oiseau-du-paradis
+work:
+  composer: Massenet, Jules
+  title: L'oiseau du paradis
+  ids:
+    imslp: L'oiseau du paradis (Massenet, Jules)
+  year: 1912
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27oiseau_du_paradis_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

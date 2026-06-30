@@ -1,0 +1,18 @@
+id: nielsen-det-vi-ved-at-siden-slangens-gift
+work:
+  composer: Nielsen, Carl
+  title: Det vi véd, at siden slangens gift
+  ids:
+    imslp: Det vi véd, at siden slangens gift, CNW 316 (Nielsen, Carl)
+  year: 1923
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Det_vi_v%C3%A9d%2C_at_siden_slangens_gift%2C_CNW_316_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

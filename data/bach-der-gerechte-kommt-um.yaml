@@ -1,0 +1,17 @@
+id: bach-der-gerechte-kommt-um
+work:
+  composer: Bach, Johann Sebastian
+  title: Der Gerechte kömmt um
+  ids:
+    imslp: Der Gerechte kömmt um, BWV 1149 (Bach, Johann Sebastian)
+formula: 2200 0000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  strings: str
+  additional_raw: continuo (organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Gerechte_k%C3%B6mmt_um%2C_BWV_1149_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, strings, continuo (organ)'

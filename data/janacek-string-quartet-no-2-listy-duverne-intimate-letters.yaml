@@ -1,0 +1,19 @@
+id: janacek-string-quartet-no-2-listy-duverne-intimate-letters
+work:
+  composer: Janáček, Leoš
+  title: String Quartet No.2 “Listy důvěrné” (Intimate Letters)
+  ids:
+    imslp: String Quartet No.2 'Listy důvěrné' (Janáček, Leoš)
+  year: 1928
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.2_%27Listy_d%C5%AFv%C4%9Brn%C3%A9%27_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 25

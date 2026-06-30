@@ -1,0 +1,17 @@
+id: vaughan-williams-2-organ-preludes
+work:
+  composer: Vaughan Williams, Ralph
+  title: 2 Organ Preludes
+  ids:
+    imslp: 2 Organ Preludes (Vaughan Williams, Ralph)
+  year: 1956
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Organ_Preludes_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 4

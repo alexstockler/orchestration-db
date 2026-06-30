@@ -1,0 +1,42 @@
+id: vaughan-williams-sancta-civitas
+work:
+  composer: Vaughan Williams, Ralph
+  title: Sancta Civitas
+  ids:
+    imslp: Sancta Civitas (Vaughan Williams, Ralph)
+  year: 1923
+formula: 3 3[1.2.Eh] 2 3[1.2.cbn] 4331 pf org hp str
+instrumentation:
+  flute: 3
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    instruments:
+    - snare drum
+    - bass drum
+    - cymbals
+  keyboards:
+  - instrument: piano
+  - instrument: organ
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sancta_Civitas_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: 3, 2+1, 2, 2+1 - 4, 3, 3, 1, 2prc, pf, org, hp, strs :3
+    flutes, 2 oboes, English horn, 2 clarinets, 2 bassoons, contrabassoon, 4 horns,
+    3 trumpets, 3 trombones, tuba, snare drum, bass drum, cymbals, piano, organ, harp,
+    strings'
+duration_minutes: 35

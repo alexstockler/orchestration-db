@@ -6,7 +6,10 @@ work:
     imslp: Baryton Trio in C major, Hob.XI:90 (Haydn, Joseph)
 formula: ''
 instrumentation:
-  additional_raw: baryton | violin | cello
+  solo_strings:
+    violin: 1
+    cello: 1
+  additional_raw: baryton
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Baryton_Trio_in_C_major%2C_Hob.XI%3A90_%28Haydn%2C_Joseph%29

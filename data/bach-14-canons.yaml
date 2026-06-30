@@ -1,0 +1,16 @@
+id: bach-14-canons
+work:
+  composer: Bach, Johann Sebastian
+  title: 14 Canons
+  ids:
+    imslp: 14 Canons, BWV 1087 (Bach, Johann Sebastian)
+  year: 1747
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/14_Canons%2C_BWV_1087_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'
+duration_minutes: 10

@@ -6,7 +6,9 @@ work:
     imslp: Trio Sonata in C major, RV 60 (Vivaldi, Antonio)
 formula: ''
 instrumentation:
-  additional_raw: 2 violins | continuo
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Trio_Sonata_in_C_major%2C_RV_60_%28Vivaldi%2C_Antonio%29

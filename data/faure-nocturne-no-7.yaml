@@ -1,0 +1,16 @@
+id: faure-nocturne-no-7
+work:
+  composer: Fauré, Gabriel
+  title: Nocturne No.7
+  ids:
+    imslp: Nocturne No.7, Op.74 (Fauré, Gabriel)
+  year: 1898
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nocturne_No.7%2C_Op.74_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,24 @@
+id: holst-savitri
+work:
+  composer: Holst, Gustav
+  title: Sāvitri
+  ids:
+    imslp: Sāvitri, Op.25 (Holst, Gustav)
+  year: 1909
+formula: 2 1[Eh] 0 0 0000
+instrumentation:
+  flute: 2
+  oboe:
+  - instrument: english_horn
+  solo_strings:
+    violin: 4
+    viola: 2
+    cello: 2
+    double_bass: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/S%C4%81vitri%2C_Op.25_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, English horn, 4 violins, 2 violas, 2 cellos,
+    double bass (or double-sized small string orchestra?)'
+duration_minutes: 30

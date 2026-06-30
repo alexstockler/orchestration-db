@@ -1,0 +1,18 @@
+id: massenet-serenade-du-passant
+work:
+  composer: Massenet, Jules
+  title: Sérénade du Passant
+  ids:
+    imslp: Sérénade du passant (Massenet, Jules)
+  year: 1869
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/S%C3%A9r%C3%A9nade_du_passant_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

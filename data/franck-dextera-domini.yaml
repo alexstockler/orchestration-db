@@ -1,0 +1,18 @@
+id: franck-dextera-domini
+work:
+  composer: Franck, César
+  title: Dextera Domini
+  ids:
+    imslp: Dextera Domini, FWV 65 (Franck, César)
+  year: 1871
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dextera_Domini%2C_FWV_65_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, bass, orchestra (or organ, double bass)'

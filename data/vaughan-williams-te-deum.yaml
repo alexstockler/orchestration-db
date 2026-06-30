@@ -1,0 +1,16 @@
+id: vaughan-williams-te-deum
+work:
+  composer: Vaughan Williams, Ralph
+  title: Te Deum
+  ids:
+    imslp: Te Deum in G major (Vaughan Williams, Ralph)
+  year: 1928
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Te_Deum_in_G_major_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), orchestra'
+duration_minutes: 7

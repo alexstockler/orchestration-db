@@ -9,7 +9,9 @@ instrumentation:
   oboe: 1
   keyboards:
   - instrument: organ
-  additional_raw: violin | chalumeau (ad lib.) | continuo
+  solo_strings:
+    violin: 1
+  additional_raw: chalumeau (ad lib.) | continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Trio_Sonata_in_C_major%2C_RV_779_%28Vivaldi%2C_Antonio%29

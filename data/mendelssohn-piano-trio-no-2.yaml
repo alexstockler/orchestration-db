@@ -9,7 +9,9 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: Violin | Violoncello
+  solo_strings:
+    violin: 1
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Piano_Trio_No.2%2C_Op.66_%28Mendelssohn%2C_Felix%29

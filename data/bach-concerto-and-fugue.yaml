@@ -1,0 +1,15 @@
+id: bach-concerto-and-fugue
+work:
+  composer: Bach, Johann Sebastian
+  title: Concerto and Fugue
+  ids:
+    imslp: Concerto and Fugue in C minor, BWV 909 (Bach, Johann Sebastian)
+  year: 1703
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_and_Fugue_in_C_minor%2C_BWV_909_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

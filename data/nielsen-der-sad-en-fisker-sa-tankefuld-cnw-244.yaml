@@ -1,0 +1,18 @@
+id: nielsen-der-sad-en-fisker-sa-tankefuld-cnw-244
+work:
+  composer: Nielsen, Carl
+  title: Der sad en fisker så tankefuld, CNW 244
+  ids:
+    imslp: Der sad en fisker så tankefuld, CNW 244 (Nielsen, Carl)
+  year: 1919
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_sad_en_fisker_s%C3%A5_tankefuld%2C_CNW_244_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

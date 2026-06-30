@@ -1,0 +1,18 @@
+id: nielsen-sof-sott-du-lilla-sonja
+work:
+  composer: Nielsen, Carl
+  title: Sof sött, du lilla Sonja!
+  ids:
+    imslp: Sof sött, du lilla Sonja!, CNW 309 (Nielsen, Carl)
+  year: 1922
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sof_s%C3%B6tt%2C_du_lilla_Sonja%21%2C_CNW_309_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

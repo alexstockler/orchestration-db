@@ -1,0 +1,18 @@
+id: bizet-vous-ne-priez-pas
+work:
+  composer: Bizet, Georges
+  title: Vous ne priez pas
+  ids:
+    imslp: Vous ne priez pas (Bizet, Georges)
+  year: 1873
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vous_ne_priez_pas_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

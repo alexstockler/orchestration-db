@@ -1,0 +1,16 @@
+id: bach-fantasia-super-jesu-meine-freude
+work:
+  composer: Bach, Johann Sebastian
+  title: Fantasia super 'Jesu, meine Freude'
+  ids:
+    imslp: Fantasia super 'Jesu, meine Freude', BWV 713a (Bach, Johann Sebastian)
+  year: 1708
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_super_%27Jesu%2C_meine_Freude%27%2C_BWV_713a_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

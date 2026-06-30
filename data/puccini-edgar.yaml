@@ -1,0 +1,73 @@
+id: puccini-edgar
+work:
+  composer: Puccini, Giacomo
+  title: Edgar
+  ids:
+    imslp: Edgar, SC 62 (Puccini, Giacomo)
+  year: 1889
+formula: 3[pic.2.3] 2[1.2/Eh] 2[1.2/bcl] 2 4 11[1.2.3.4.5.6.7.8.9.10.11] 4[1.2.3.btbn]
+  0 tmp org hp
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet:
+  - {}
+  - doublings:
+    - bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 11
+  trombone:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_trombone
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - triangle
+    - tam-tam
+    - tambourine
+    - carillon
+    - drum
+    - bell
+  keyboards:
+  - instrument: organ
+  harp: 1
+  soloists:
+  - Edgar (tenor)
+  - Gualtiero (bass)
+  - Frank (Baritone)
+  - Fidelia (soprano)
+  - Tigrana (Soprano) Mixed Chorus (SSSTTBB, children) :Contadini
+  - Contadine
+  - Cortigiane
+  - Convitati
+  - Soldati
+  - Monaci
+  - Popolo
+  - Fanciulli
+  - Fanciulle
+  - Valletti
+  offstage:
+  - strings
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Edgar%2C_SC_62_%28Puccini%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Edgar (tenor), Gualtiero (bass), Frank (Baritone),
+    Fidelia (soprano), Tigrana (Soprano) Mixed Chorus (SSSTTBB, children) :Contadini,
+    Contadine, Cortigiane, Convitati, Soldati,, Monaci, Popolo, Fanciulli, Fanciulle,
+    Valletti Orchestra :piccolo (also flute), 2 flutes, 2 oboes (2nd also english
+    horn) ::2 clarinets (2nd also bass clarinet), 2 bassoons :4 horns, 3 trumpets,
+    3 trombones, bass trombone, timpani, bass drum, cymbals, triangle, tam-tam, tambourine,
+    carillon, harp, organ, strings Off-stage Instruments :8 trumpets, drum, bell (in
+    low F)'

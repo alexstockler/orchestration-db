@@ -1,0 +1,17 @@
+id: bach-auf-auf-die-rechte-zeit-ist-hier
+work:
+  composer: Bach, Johann Sebastian
+  title: Auf, auf! die rechte Zeit ist hier
+  ids:
+    imslp: Auf, auf! die rechte Zeit ist hier, BWV 440 (Bach, Johann Sebastian)
+  year: 1735
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Auf%2C_auf%21_die_rechte_Zeit_ist_hier%2C_BWV_440_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

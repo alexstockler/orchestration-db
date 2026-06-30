@@ -1,0 +1,18 @@
+id: massenet-dites-lui-que-je-l-aime
+work:
+  composer: Massenet, Jules
+  title: Dites-lui que je l'aime
+  ids:
+    imslp: Dites-lui que je l'aime (Massenet, Jules)
+  year: 1910
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dites-lui_que_je_l%27aime_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

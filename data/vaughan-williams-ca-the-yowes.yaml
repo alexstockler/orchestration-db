@@ -1,0 +1,17 @@
+id: vaughan-williams-ca-the-yowes
+work:
+  composer: Vaughan Williams, Ralph
+  title: Ca' the Yowes
+  ids:
+    imslp: Ca' the Yowes (Vaughan Williams, Ralph)
+  year: 1922
+formula: ''
+instrumentation:
+  soloists:
+  - tenor solo
+  additional_raw: mixed chorus (SATB) a cappella
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ca%27_the_Yowes_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor solo, mixed chorus (SATB) a cappella'

@@ -1,0 +1,16 @@
+id: hindemith-erster-schnee
+work:
+  composer: Hindemith, Paul
+  title: Erster Schnee
+  ids:
+    imslp: Erster Schnee (Hindemith, Paul)
+  year: 1939
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erster_Schnee_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'
+duration_minutes: 3

@@ -1,0 +1,38 @@
+id: hindemith-kammermusik-no-4
+work:
+  composer: Hindemith, Paul
+  title: Kammermusik No.4
+  ids:
+    imslp: Kammermusik No.4, Op.36 No.3 (Hindemith, Paul)
+  year: 1925
+formula: 2[pic.pic] 0 3[Ebcl.2.bcl] 3[1.2.cbn] 0 1[cnt] 1 1
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - instrument: piccolo
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  trumpet:
+  - instrument: cornet
+  trombone: 1
+  tuba: 1
+  soloists:
+  - violin
+  solo_strings:
+    viola: 4
+    cello: 4
+  additional_raw: 4 frame drums | 4 basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kammermusik_No.4%2C_Op.36_No.3_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: violin, Orchestra: 2 piccolos, clarinet (E), clarinet
+    (B), bass clarinet (B), 2 bassoons, contrabassoon, cornet (B), trombone, tuba,
+    4 frame drums, 4 violas, 4 cellos, 4 basses'
+duration_minutes: 23

@@ -1,0 +1,17 @@
+id: delibes-que-l-heure-est-donc-breve
+work:
+  composer: Delibes, Léo
+  title: Que l'heure est donc brève!
+  ids:
+    imslp: Que l'heure est donc brève! (Delibes, Léo)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Que_l%27heure_est_donc_br%C3%A8ve%21_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

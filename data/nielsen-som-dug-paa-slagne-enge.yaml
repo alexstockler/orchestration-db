@@ -1,0 +1,18 @@
+id: nielsen-som-dug-paa-slagne-enge
+work:
+  composer: Nielsen, Carl
+  title: Som Dug paa slagne Enge
+  ids:
+    imslp: Som Dug paa slagne Enge, CNW 299 (Nielsen, Carl)
+  year: 1915
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Som_Dug_paa_slagne_Enge%2C_CNW_299_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

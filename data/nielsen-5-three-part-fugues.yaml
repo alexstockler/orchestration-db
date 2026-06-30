@@ -1,0 +1,17 @@
+id: nielsen-5-three-part-fugues
+work:
+  composer: Nielsen, Carl
+  title: 5 Three part fugues
+  ids:
+    imslp: 5 Three-part Fugues (Nielsen, Carl)
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+    viola: 1
+  additional_raw: cello or
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Three-part_Fugues_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola, cello or'

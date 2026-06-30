@@ -1,0 +1,18 @@
+id: weber-variations-on-a-peine-au-sortir
+work:
+  composer: Weber, Carl Maria von
+  title: Variations on "À peine au sortir"
+  ids:
+    imslp: 7 Variations sur la romance "À peine au sortir", Op.28 (Weber, Carl Maria
+      von)
+  year: 1812
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Variations_sur_la_romance_%22%C3%80_peine_au_sortir%22%2C_Op.28_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'
+duration_minutes: 11

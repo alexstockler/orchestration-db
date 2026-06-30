@@ -1,0 +1,18 @@
+id: bizet-les-nymphes-des-bois
+work:
+  composer: Bizet, Georges
+  title: Les nymphes des bois
+  ids:
+    imslp: Les nymphes des bois (Bizet, Georges)
+  year: 1887
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_nymphes_des_bois_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices (soprano and mezzo-soprano), piano'

@@ -7,7 +7,7 @@ work:
   year: 1896
 formula: ''
 instrumentation:
-  additional_raw: Chorus and Orchestra
+  chorus_raw: chorus and orchestra
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/3_Songs_for_Chorus%2C_Op.31_%28Sibelius%2C_Jean%29

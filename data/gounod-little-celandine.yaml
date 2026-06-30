@@ -1,0 +1,17 @@
+id: gounod-little-celandine
+work:
+  composer: Gounod, Charles
+  title: Little Celandine
+  ids:
+    imslp: Little Celandine, CG 402 (Gounod, Charles)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Little_Celandine%2C_CG_402_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), piano'

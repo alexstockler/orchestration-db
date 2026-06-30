@@ -1,0 +1,23 @@
+id: bach-ehre-sei-gott-in-der-hohe-fragment
+work:
+  composer: Bach, Johann Sebastian
+  title: Ehre sei Gott in der Höhe (fragment)
+  ids:
+    imslp: Ehre sei Gott in der Höhe, BWV 197a (Bach, Johann Sebastian)
+  year: 1728
+formula: 2 1[obda] 0 0 0300 tmp str
+instrumentation:
+  flute: 2
+  oboe:
+  - instrument: oboe_damore
+  trumpet: 3
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: '[bassoon] | continuo'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ehre_sei_Gott_in_der_H%C3%B6he%2C_BWV_197a_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, oboe d''amore, [bassoon], 3 trumpets, timpani,
+    strings, continuo'

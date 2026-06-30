@@ -1,0 +1,17 @@
+id: nielsen-fred-og-glde-for-dem-grde
+work:
+  composer: Nielsen, Carl
+  title: Fred og Glæde, for dem græde
+  ids:
+    imslp: Fred og Glæde, for dem græde, CNW 167 (Nielsen, Carl)
+  year: 1913
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: piano / mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fred_og_Gl%C3%A6de%2C_for_dem_gr%C3%A6de%2C_CNW_167_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano / mixed chorus'

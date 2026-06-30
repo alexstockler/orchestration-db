@@ -1,0 +1,16 @@
+id: gounod-matinee-de-mai
+work:
+  composer: Gounod, Charles
+  title: Matinée de mai
+  ids:
+    imslp: Matinée de mai, CG 587a1 (Gounod, Charles)
+  year: 1896
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Matin%C3%A9e_de_mai%2C_CG_587a1_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

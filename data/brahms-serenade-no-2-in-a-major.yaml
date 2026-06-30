@@ -15,7 +15,10 @@ instrumentation:
   clarinet: 2
   bassoon: 2
   horn: 2
-  additional_raw: violas | cellos | double basses
+  solo_strings:
+    viola: 1
+    cello: 1
+    double_bass: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Serenade_No.2%2C_Op.16_%28Brahms%2C_Johannes%29

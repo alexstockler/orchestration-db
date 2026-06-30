@@ -12,9 +12,11 @@ instrumentation:
   clarinet: 11
   bassoon: 7
   horn: 7
-  additional_raw: I | II | III | IV | V | 2 violins | 2 violas | 2 cellos | VI | 2
-    violins | 2 violas | 2 cellos | VII | 2 violins | 2 violas | VIII | 2 violins
-    | 2 violas | 2 cellos
+  solo_strings:
+    violin: 8
+    viola: 8
+    cello: 6
+  additional_raw: I | II | III | IV | V | VI | VII | VIII
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/8_Instrumental_Miniatures%2C_K037_%28Stravinsky%2C_Igor%29

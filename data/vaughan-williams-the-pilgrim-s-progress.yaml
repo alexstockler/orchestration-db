@@ -1,0 +1,17 @@
+id: vaughan-williams-the-pilgrim-s-progress
+work:
+  composer: Vaughan Williams, Ralph
+  title: The Pilgrim's Progress
+  ids:
+    imslp: The Pilgrim's Progress (Vaughan Williams, Ralph)
+  year: 1949
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Pilgrim%27s_Progress_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

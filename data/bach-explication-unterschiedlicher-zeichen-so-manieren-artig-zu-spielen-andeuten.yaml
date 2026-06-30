@@ -1,0 +1,14 @@
+id: bach-explication-unterschiedlicher-zeichen-so-manieren-artig-zu-spielen-andeuten
+work:
+  composer: Bach, Johann Sebastian
+  title: Explication unterschiedlicher Zeichen, so Manieren, artig zu spielen, andeuten.
+  ids:
+    imslp: Explication unterschiedlicher Zeichen (Bach, Johann Sebastian)
+formula: ''
+instrumentation:
+  additional_raw: '|Tags=performance practice | open | de'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Explication_unterschiedlicher_Zeichen_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: |Tags=performance practice ; open ; de'

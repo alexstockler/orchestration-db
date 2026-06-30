@@ -1,0 +1,17 @@
+id: nielsen-stille-guds-folk-o-bj-dig-ned-cnw-297
+work:
+  composer: Nielsen, Carl
+  title: Stille, Guds Folk, o bøj dig ned, CNW 297
+  ids:
+    imslp: Stille, Guds Folk, o bøj dig ned, CNW 297 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Stille%2C_Guds_Folk%2C_o_b%C3%B8j_dig_ned%2C_CNW_297_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,17 @@
+id: vaughan-williams-at-the-name-of-jesus
+work:
+  composer: Vaughan Williams, Ralph
+  title: At the Name of Jesus
+  ids:
+    imslp: At the Name of Jesus (Vaughan Williams, Ralph)
+  year: 1925
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/At_the_Name_of_Jesus_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), organ'

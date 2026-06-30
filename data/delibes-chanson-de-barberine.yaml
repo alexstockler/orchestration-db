@@ -1,0 +1,19 @@
+id: delibes-chanson-de-barberine
+work:
+  composer: Delibes, Léo
+  title: Chanson de Barberine
+  ids:
+    imslp: Chanson de Barberine (Delibes, Léo)
+  year: 1882
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chanson_de_Barberine_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'
+duration_minutes: 23

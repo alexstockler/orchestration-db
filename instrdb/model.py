@@ -18,16 +18,22 @@ class Player:
         value means this player's PRIMARY instrument is an auxiliary
         (e.g. a dedicated contrabassoon chair).
     doublings: auxiliaries this same player also covers.
+    optional: True when marked ad lib. / opt. in the score.
     """
     instrument: Optional[str] = None
     doublings: list[str] = field(default_factory=list)
+    optional: bool = False
 
     @staticmethod
     def from_obj(obj) -> "Player":
         if obj is None:
             return Player()
         if isinstance(obj, dict):
-            return Player(obj.get("instrument"), list(obj.get("doublings", [])))
+            return Player(
+                obj.get("instrument"),
+                list(obj.get("doublings", [])),
+                obj.get("optional", False),
+            )
         raise TypeError(f"bad player: {obj!r}")
 
     def to_obj(self):
@@ -36,6 +42,8 @@ class Player:
             out["instrument"] = self.instrument
         if self.doublings:
             out["doublings"] = list(self.doublings)
+        if self.optional:
+            out["optional"] = True
         return out or None
 
 
@@ -136,8 +144,9 @@ class Instrumentation:
     chorus: list[str] = field(default_factory=list)
     chorus_raw: str = ""
     saxophones: list = field(default_factory=list)   # [{instrument, count}]
+    solo_strings: dict = field(default_factory=dict) # {key: count} for chamber/solo string writing
     additional_raw: str = ""                          # uncategorised extras
-    offstage: str = ""
+    offstage: list[str] = field(default_factory=list) # instruments marked off-stage
 
     @staticmethod
     def from_obj(obj) -> "Instrumentation":
@@ -154,8 +163,9 @@ class Instrumentation:
         inst.chorus = list(obj.get("chorus", []))
         inst.chorus_raw = obj.get("chorus_raw", "")
         inst.saxophones = list(obj.get("saxophones", []))
+        inst.solo_strings = dict(obj.get("solo_strings", {}))
         inst.additional_raw = obj.get("additional_raw", "")
-        inst.offstage = obj.get("offstage", "")
+        inst.offstage = list(obj.get("offstage", []))
         return inst
 
     def to_obj(self):
@@ -188,8 +198,10 @@ class Instrumentation:
             out["chorus_raw"] = self.chorus_raw
         if self.saxophones:
             out["saxophones"] = list(self.saxophones)
+        if self.solo_strings:
+            out["solo_strings"] = dict(self.solo_strings)
         if self.additional_raw:
             out["additional_raw"] = self.additional_raw
         if self.offstage:
-            out["offstage"] = self.offstage
+            out["offstage"] = list(self.offstage)
         return out

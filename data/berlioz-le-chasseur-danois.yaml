@@ -1,0 +1,22 @@
+id: berlioz-le-chasseur-danois
+work:
+  composer: Berlioz, Hector
+  title: Le chasseur danois
+  ids:
+    imslp: Le chasseur danois, H 104 (Berlioz, Hector)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - bass
+  additional_raw: arranged for bass | orchestra (2 flutes (picc), 2 oboes, 2 clarinets
+    in C, 4 bassoons, 4 horns in D and B, 3 trombones, timpani, strings)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_chasseur_danois%2C_H_104_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, piano. arranged for bass, orchestra (2 flutes (picc),
+    2 oboes, 2 clarinets in C, 4 bassoons, 4 horns in D and B, 3 trombones, timpani,
+    strings)'

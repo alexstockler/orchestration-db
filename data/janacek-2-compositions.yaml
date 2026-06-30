@@ -1,0 +1,17 @@
+id: janacek-2-compositions
+work:
+  composer: Janáček, Leoš
+  title: 2 Compositions
+  ids:
+    imslp: 2 Compositions, JW 8/7 (Janáček, Leoš)
+  year: 1884
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Compositions%2C_JW_8/7_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 3

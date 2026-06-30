@@ -1,0 +1,18 @@
+id: offenbach-fantaisie-sur-le-barbier-de-seville
+work:
+  composer: Offenbach, Jacques
+  title: Fantaisie sur "Le barbier de Séville"
+  ids:
+    imslp: Fantaisie sur 'Le barbier de Séville', Op.71 (Offenbach, Jacques)
+  year: 1856
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantaisie_sur_%27Le_barbier_de_S%C3%A9ville%27%2C_Op.71_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'

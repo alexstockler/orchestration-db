@@ -1,0 +1,39 @@
+id: massenet-marche-heroique-de-szabadi-szabady
+work:
+  composer: Massenet, Jules
+  title: Marche héroïque de Szabadi [Szabady]
+  ids:
+    imslp: Marche héroïque de Szabadi (Massenet, Jules)
+  year: 1879
+formula: 4[pic.pic.3.4] 2 2 4 4440 tmp+1 4hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 4
+  horn: 4
+  trumpet: 4
+  trombone: 4
+  percussion:
+    timpani: 1
+    players: 1
+  harp: 4
+  strings: str
+  soloists:
+  - altos
+  - tenors
+  - baritones
+  additional_raw: 9 saxophones (2 sopranos (B) | contrabass (B)) | sax-tuba
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marche_h%C3%A9ro%C3%AFque_de_Szabadi_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: 2 piccolos, 2 flutes, 2 oboes, 2 clarinets,
+    4 bassoons,, 9 saxophones (2 sopranos (B), 2 altos (E), 2 tenors (B), 2 baritones
+    (E), contrabass (B)), 4 horns (2 in A, 2 in D), 4 trumpets (A), 4 trombones, sax-tuba,
+    timpani (2 players), percussion (9 players: 2 glockenspiels, triangle, 4 snare
+    drums, cymbals, gong, bass drum), 4 harps, strings'

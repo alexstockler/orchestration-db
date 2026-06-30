@@ -1,0 +1,83 @@
+id: hindemith-neues-vom-tage
+work:
+  composer: Hindemith, Paul
+  title: Neues vom Tage
+  ids:
+    imslp: Neues vom Tage (Hindemith, Paul)
+  year: 1928
+formula: 2 2[1.Eh] 3[Ebcl.2.bcl] 3[1.2.cbn] 1221 1perc pf hp mand banjo str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 1
+  trumpet: 2
+  trombone: 2
+  tuba: 1
+  percussion:
+    players: 1
+    instruments:
+    - bass drum
+    - field drum
+    - snare drum
+    - tam-tam
+    - suspended cymbals
+    - cymbals
+    - gong
+    - triangle
+    - glockenspiel
+    - xylophone
+  keyboards:
+  - instrument: piano
+  harp: 1
+  extras:
+  - instrument: mandolin
+  - instrument: banjo
+  strings:
+    standard: true
+    description: 6,0,4,4,4
+  chorus_raw: satb
+  saxophones:
+  - instrument: alto_sax
+    count: 1
+  additional_raw: Vocal Roles (original version) | Laura (soprano) | Eduard (baritone)
+    | Der schöne Herr Hermann (tenor) | Herr M. (tenor) | Frau M. (mezzo soprano)
+    | Ein Hoteldirektor (bass) | Ein Standesbeamter (bass) | Ein Fremdenführer (bass)
+    | Ein Zimmermädchen (soprano) | Ein Oberkellner (tenor) | Sechs Manager (2 tenors,
+    2 baritones, 2 basses) | Vocal Roles (revised version) | Laura (soprano) | Eduard
+    (baritone) | Baron d’Houdoux | Präsident des Konzerns „Universum“ (bass) | Frau
+    Pick | Reporterin (alto) | Der schöne Herr Hermann (tenor) | Elli (soprano) |
+    Olli (alto) | Ali (tenor) | Uli (bass) | Fremdenführer (bass) | Hotelmanager (bass)
+    | Oberkellner (baritone) | Zimmermädchen (soprano) | Standesbeamter (bass) | Sechs
+    Manager (2 tenors, 2 baritones, 2 basses) | small cymbals | 3 electric doorbells
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Neues_vom_Tage_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Vocal Roles (original version)
+    ::Laura (soprano), Eduard (baritone), Der schöne Herr Hermann (tenor), Herr M.
+    (tenor), Frau M. (mezzo soprano), Ein Hoteldirektor (bass), Ein Standesbeamter
+    (bass), Ein Fremdenführer (bass), Ein Zimmermädchen (soprano), Ein Oberkellner
+    (tenor), Sechs Manager (2 tenors, 2 baritones, 2 basses) :Vocal Roles (revised
+    version) ::Laura (soprano), Eduard (baritone), Baron d’Houdoux, Präsident des
+    Konzerns „Universum“ (bass), Frau Pick, Reporterin (alto), Der schöne Herr Hermann
+    (tenor), Elli (soprano), Olli (alto), Ali (tenor), Uli (bass), Fremdenführer (bass),
+    Hotelmanager (bass), Oberkellner (baritone), Zimmermädchen (soprano), Standesbeamter
+    (bass), Sechs Manager (2 tenors, 2 baritones, 2 basses) :Mixed Chorus (both versions)
+    ::SATB :Orchestra (both versions) (revised instruments marked with *) ::2 flutes
+    (both also piccolo), oboe, English horn, E clarinet, clarinet (B), :::bass clarinet
+    (B), alto saxophone (E), 2 bassoons, contrabassoon ::horn (F), 2 trumpets (B),
+    2 trombones, tuba, percussion (2-4 players), piano (2 and 4 hands), mandolin,
+    banjo, harp, strings (6,0,4,4,4) :::bass drum, field drum*, snare drum, tam-tam,
+    suspended cymbals*, cymbals,, gong, small cymbals, triangle, glockenspiel, xylophone,
+    3 electric doorbells'
+duration_minutes: 110

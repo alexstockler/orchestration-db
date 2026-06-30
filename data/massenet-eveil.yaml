@@ -1,0 +1,18 @@
+id: massenet-eveil
+work:
+  composer: Massenet, Jules
+  title: Éveil
+  ids:
+    imslp: Éveil (Massenet, Jules)
+  year: 1906
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%89veil_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

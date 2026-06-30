@@ -1,0 +1,16 @@
+id: scriabin-waltz-op-1
+work:
+  composer: Scriabin, Aleksandr
+  title: Waltz, Op.1
+  ids:
+    imslp: Valse, Op.1 (Scriabin, Aleksandr)
+  year: 1886
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Valse%2C_Op.1_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

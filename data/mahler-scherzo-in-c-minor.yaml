@@ -6,8 +6,7 @@ work:
     imslp: Scherzo in C minor, GMW F55 (Mahler, Gustav)
   year: 1897
 formula: ''
-instrumentation:
-  additional_raw: orchestra
+instrumentation: {}
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Scherzo_in_C_minor%2C_GMW_F55_%28Mahler%2C_Gustav%29

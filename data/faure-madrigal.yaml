@@ -1,0 +1,17 @@
+id: faure-madrigal
+work:
+  composer: Fauré, Gabriel
+  title: Madrigal
+  ids:
+    imslp: Madrigal, Op.35 (Fauré, Gabriel)
+  year: 1883
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Madrigal%2C_Op.35_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), piano; mixed chorus (SATB), orchestra'

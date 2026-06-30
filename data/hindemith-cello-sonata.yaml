@@ -1,0 +1,19 @@
+id: hindemith-cello-sonata
+work:
+  composer: Hindemith, Paul
+  title: Cello Sonata
+  ids:
+    imslp: Cello Sonata, Op.11 No.3 (Hindemith, Paul)
+  year: 1919
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Sonata%2C_Op.11_No.3_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'
+duration_minutes: 22

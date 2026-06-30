@@ -1,0 +1,15 @@
+id: bartok-4-magyar-nepdal
+work:
+  composer: Bartók, Béla
+  title: 4 Magyar népdal
+  ids:
+    imslp: 4 Magyar népdal, Sz.93 (Bartók, Béla)
+  year: 1930
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Magyar_n%C3%A9pdal%2C_Sz.93_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

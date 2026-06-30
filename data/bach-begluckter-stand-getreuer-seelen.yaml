@@ -1,0 +1,17 @@
+id: bach-begluckter-stand-getreuer-seelen
+work:
+  composer: Bach, Johann Sebastian
+  title: Beglückter Stand getreuer Seelen
+  ids:
+    imslp: Beglückter Stand getreuer Seelen, BWV 442 (Bach, Johann Sebastian)
+  year: 1735
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Begl%C3%BCckter_Stand_getreuer_Seelen%2C_BWV_442_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

@@ -1,0 +1,51 @@
+id: hindemith-sing-und-spielmusik-fur-liebhaber-und-musikfreunde
+work:
+  composer: Hindemith, Paul
+  title: Sing und Spielmusik für Liebhaber und Musikfreunde
+  ids:
+    imslp: Sing und Spielmusik für Liebhaber und Musikfreunde, Op.45 (Hindemith, Paul)
+  year: 1928
+formula: 4222 2221 pf str
+instrumentation:
+  flute: 4
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 2
+  tuba: 1
+  keyboards:
+  - instrument: piano
+  strings: str
+  soloists:
+  - 2 voices
+  - 2 voices
+  - voices
+  chorus_raw: chorus
+  solo_strings:
+    violin: 2
+    cello: 1
+  additional_raw: '1 | Frau Musica: (both versions) | winds (ad.lib.) | strings (includes
+    2 solo violins, 1 can replace the flute) (i.e, orchestra with or without winds)
+    | Dame Music: | full chorus | 2 | Acht Kanons: | Two singers with various accompanied
+    instruments (ad, lib.) | (ex: String quartet: 2 violins, viola, cello) | 3 | Ein
+    Jäger aus Kurpfalz | 4 | Kleine Klaviermusik | Solo piano | 5.Martinslied | Individual
+    Voices or Groups of Men or Women | Instruments: 3 Voices (High, Middle, Low) |
+    High: violins | Middle: violas | clarinets etc. | Low: cellos | basses'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sing_und_Spielmusik_f%C3%BCr_Liebhaber_und_Musikfreunde%2C_Op.45_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: :1. Frau Musica: (both versions) ::2 voices (one female,
+    one male), mixed choir (including audience), flute, winds (ad.lib.),, strings
+    (includes 2 solo violins, 1 can replace the flute) (i.e. orchestra with or without
+    winds) :Dame Music: ::2 voices (one female, one male), chorus, full chorus, flute,
+    2 horns, 2 trumpets, 2 trombones, tuba, piano (4 hands), 2 violins, cello :2.
+    Acht Kanons: ::Two singers with various accompanied instruments (ad. lib.), (ex:
+    String quartet: 2 violins, viola, cello) :3. Ein Jäger aus Kurpfalz ::flutes,
+    oboes, clarinets (B), bassoons, strings (numbers ad. lib.) :4. Kleine Klaviermusik
+    ::Solo piano :5.Martinslied ::Voices :::Individual Voices or Groups of Men or
+    Women ::Instruments: 3 Voices (High, Middle, Low) :::High: violins, flutes, oboes,
+    clarinets, Middle: violas, clarinets etc., Low: cellos, basses, bassoons'
+duration_minutes: 29

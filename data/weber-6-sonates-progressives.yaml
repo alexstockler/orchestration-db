@@ -1,0 +1,18 @@
+id: weber-6-sonates-progressives
+work:
+  composer: Weber, Carl Maria von
+  title: 6 Sonates progressives
+  ids:
+    imslp: 6 Sonates progressives, Op.10 (Weber, Carl Maria von)
+  year: 1810
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Sonates_progressives%2C_Op.10_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: violin (or flute), piano'

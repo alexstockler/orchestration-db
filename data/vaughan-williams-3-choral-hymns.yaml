@@ -1,0 +1,15 @@
+id: vaughan-williams-3-choral-hymns
+work:
+  composer: Vaughan Williams, Ralph
+  title: 3 Choral Hymns
+  ids:
+    imslp: 3 Choral Hymns (Vaughan Williams, Ralph)
+  year: 1929
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Choral_Hymns_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), orchestra'

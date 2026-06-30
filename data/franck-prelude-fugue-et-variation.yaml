@@ -1,0 +1,16 @@
+id: franck-prelude-fugue-et-variation
+work:
+  composer: Franck, César
+  title: Prélude, Fugue et Variation
+  ids:
+    imslp: Prélude, fugue et variation, Op.18 (Franck, César)
+  year: 1860
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pr%C3%A9lude%2C_fugue_et_variation%2C_Op.18_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

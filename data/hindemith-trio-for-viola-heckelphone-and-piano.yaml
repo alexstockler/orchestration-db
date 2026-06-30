@@ -1,0 +1,21 @@
+id: hindemith-trio-for-viola-heckelphone-and-piano
+work:
+  composer: Hindemith, Paul
+  title: Trio for Viola, Heckelphone, and Piano
+  ids:
+    imslp: Trio for Viola, Heckelphone and Piano, Op.47 (Hindemith, Paul)
+  year: 1928
+formula: 0 1[heck] 0 0 0000 pf
+instrumentation:
+  oboe:
+  - instrument: heckelphone
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    viola: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_for_Viola%2C_Heckelphone_and_Piano%2C_Op.47_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: heckelphone (or tenor saxophone), viola, piano'
+duration_minutes: 15

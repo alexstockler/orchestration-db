@@ -1,0 +1,18 @@
+id: nielsen-dannebrog-vift-med-din-vinge
+work:
+  composer: Nielsen, Carl
+  title: Dannebrog, vift med din Vinge
+  ids:
+    imslp: Dannebrog, vift med din Vinge, CNW 404 (Nielsen, Carl)
+  year: 1926
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dannebrog%2C_vift_med_din_Vinge%2C_CNW_404_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

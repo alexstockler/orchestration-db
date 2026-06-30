@@ -1,0 +1,20 @@
+id: bach-es-ist-ein-trotzig-und-verzagt-ding
+work:
+  composer: Bach, Johann Sebastian
+  title: Es ist ein trotzig und verzagt Ding
+  ids:
+    imslp: Es ist ein trotzig und verzagt Ding, BWV 176 (Bach, Johann Sebastian)
+  year: 1725
+formula: 0200 0000
+instrumentation:
+  oboe: 2
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: oboe da caccia | continuo (harpsichord and/or organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_ist_ein_trotzig_und_verzagt_Ding%2C_BWV_176_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, oboe da caccia, 2 violins, viola, continuo (harpsichord
+    and/or organ)'

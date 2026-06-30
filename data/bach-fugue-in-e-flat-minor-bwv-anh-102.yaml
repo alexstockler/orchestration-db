@@ -1,0 +1,15 @@
+id: bach-fugue-in-e-flat-minor-bwv-anh-102
+work:
+  composer: Bach, Johann Sebastian
+  title: Fugue in E flat minor, BWV Anh.102
+  ids:
+    imslp: Fugue in E-flat minor, BWV Anh.102 (Bach, Johann Sebastian)
+formula: ''
+instrumentation:
+  additional_raw: Keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_E-flat_minor%2C_BWV_Anh.102_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Keyboard'
+duration_minutes: 3

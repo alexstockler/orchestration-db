@@ -8,7 +8,9 @@ work:
 formula: str
 instrumentation:
   strings: str
-  additional_raw: Violin | continuo
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Violin_Concerto_in_A_minor%2C_RV_355_%28Vivaldi%2C_Antonio%29

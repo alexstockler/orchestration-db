@@ -5,9 +5,10 @@ work:
   ids:
     imslp: Kinderball, Op.130 (Schumann, Robert)
   year: 1853
-formula: ''
+formula: pf
 instrumentation:
-  additional_raw: piano 4-hands
+  keyboards:
+  - instrument: piano
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Kinderball%2C_Op.130_%28Schumann%2C_Robert%29

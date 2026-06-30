@@ -1,0 +1,16 @@
+id: delibes-le-rossignol-ariette
+work:
+  composer: Delibes, Léo
+  title: Le rossignol (Ariette)
+  ids:
+    imslp: Le rossignol (Delibes, Léo)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: Mezzo-soprano voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_rossignol_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: Mezzo-soprano voice, Piano'

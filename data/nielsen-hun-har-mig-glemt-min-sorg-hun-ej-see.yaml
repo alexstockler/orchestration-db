@@ -1,0 +1,17 @@
+id: nielsen-hun-har-mig-glemt-min-sorg-hun-ej-see
+work:
+  composer: Nielsen, Carl
+  title: Hun har mig glemt! min Sorg hun ej see!
+  ids:
+    imslp: Hun har mig glemt! min Sorg hun ej see!, CNW 218 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hun_har_mig_glemt%21_min_Sorg_hun_ej_see%21%2C_CNW_218_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

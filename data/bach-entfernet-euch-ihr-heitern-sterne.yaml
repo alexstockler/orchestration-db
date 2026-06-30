@@ -1,0 +1,15 @@
+id: bach-entfernet-euch-ihr-heitern-sterne
+work:
+  composer: Bach, Johann Sebastian
+  title: Entfernet euch, ihr heitern Sterne
+  ids:
+    imslp: Entfernet euch, ihr heitern Sterne, BWV Anh.9 (Bach, Johann Sebastian)
+  year: 1727
+formula: ''
+instrumentation:
+  additional_raw: unknown
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Entfernet_euch%2C_ihr_heitern_Sterne%2C_BWV_Anh.9_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: unknown'

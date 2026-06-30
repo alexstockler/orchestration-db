@@ -1,0 +1,18 @@
+id: lalo-trois-melodies
+work:
+  composer: Lalo, Édouard
+  title: Trois mélodies
+  ids:
+    imslp: 3 Mélodies (Lalo, Édouard)
+  year: 1887
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_M%C3%A9lodies_%28Lalo%2C_%C3%89douard%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

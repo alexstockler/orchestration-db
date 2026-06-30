@@ -1,0 +1,17 @@
+id: weber-variationen-uber-ein-thema-aus-silvana
+work:
+  composer: Weber, Carl Maria von
+  title: Variationen über ein Thema aus Silvana
+  ids:
+    imslp: Variationen über ein Thema aus Silvana, Op.33 (Weber, Carl Maria von)
+  year: 1811
+formula: 0010 0000 pf
+instrumentation:
+  clarinet: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variationen_%C3%BCber_ein_Thema_aus_Silvana%2C_Op.33_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, piano'

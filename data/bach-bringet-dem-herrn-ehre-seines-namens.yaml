@@ -1,0 +1,19 @@
+id: bach-bringet-dem-herrn-ehre-seines-namens
+work:
+  composer: Bach, Johann Sebastian
+  title: Bringet dem Herrn Ehre seines Namens
+  ids:
+    imslp: Bringet dem Herrn Ehre seines Namens, BWV 148 (Bach, Johann Sebastian)
+  year: 1723
+formula: 0300 0100 str
+instrumentation:
+  oboe: 3
+  trumpet: 1
+  strings: str
+  additional_raw: continuo (organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bringet_dem_Herrn_Ehre_seines_Namens%2C_BWV_148_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 oboes (or 2 oboes d''amore, oboe da caccia), trumpet,
+    strings, continuo (organ)'

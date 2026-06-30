@@ -1,0 +1,18 @@
+id: gounod-clos-ta-paupiere
+work:
+  composer: Gounod, Charles
+  title: Clos ta paupière
+  ids:
+    imslp: Clos ta paupière, CG 424a (Gounod, Charles)
+  year: 1873
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Clos_ta_paupi%C3%A8re%2C_CG_424a_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

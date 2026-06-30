@@ -1,0 +1,18 @@
+id: gounod-medje
+work:
+  composer: Gounod, Charles
+  title: Medjé
+  ids:
+    imslp: Medjé, CG 407 (Gounod, Charles)
+  year: 1864
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Medj%C3%A9%2C_CG_407_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

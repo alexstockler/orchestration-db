@@ -7,7 +7,8 @@ work:
   year: 1796
 formula: ''
 instrumentation:
-  additional_raw: 2 violins
+  solo_strings:
+    violin: 2
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/String_Duo_in_E-flat_major%2C_Hob.VI%3AEs2_%28Haydn%2C_Joseph%29

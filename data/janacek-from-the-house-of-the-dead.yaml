@@ -1,0 +1,17 @@
+id: janacek-from-the-house-of-the-dead
+work:
+  composer: Janáček, Leoš
+  title: From the House of the Dead
+  ids:
+    imslp: Z mrtvého domu, JW 1/11 (Janáček, Leoš)
+  year: 1927
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Z_mrtv%C3%A9ho_domu%2C_JW_1/11_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

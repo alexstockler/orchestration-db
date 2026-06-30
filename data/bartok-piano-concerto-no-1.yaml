@@ -1,0 +1,43 @@
+id: bartok-piano-concerto-no-1
+work:
+  composer: Bartók, Béla
+  title: Piano Concerto No.1
+  ids:
+    imslp: Piano Concerto No.1, Sz.83 (Bartók, Béla)
+  year: 1926
+formula: 2[1.2/pic] 2[1.2/Eh] 2[1.2/bcl] 2 4230 tmp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet:
+  - {}
+  - doublings:
+    - bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - snare drums
+    - bass drum
+    - cymbals
+    - tam-tam
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Concerto_No.1%2C_Sz.83_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes (2nd also English
+    horn), 2 clarinets (2nd also bass clarinet), 2 bassoons, 4 horns, 2 trumpets,
+    3 trombones, timpani, triangle, 2 snare drums, bass drum, 4 cymbals, tam-tam,
+    strings'
+duration_minutes: 24

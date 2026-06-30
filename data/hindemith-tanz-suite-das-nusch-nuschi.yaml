@@ -1,0 +1,60 @@
+id: hindemith-tanz-suite-das-nusch-nuschi
+work:
+  composer: Hindemith, Paul
+  title: Tanz-Suite „Das Nusch-Nuschi“
+  ids:
+    imslp: Nusch-Nuschi Tänze (Hindemith, Paul)
+  year: 1920
+formula: 2[1.2/pic] 3[1.2.Eh] 4[Ebcl.2.3.bcl] 3[1.2.cbn] 2231 tmp+1 cel hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+    instruments:
+    - triangle
+    - large gong
+    - cymbals
+    - tambourine
+    - clash cymbals
+    - snare drum
+    - rute
+    - ratchet
+    - glockenspiel
+    - xylophone
+  keyboards:
+  - instrument: celesta
+  harp: 1
+  strings: str
+  additional_raw: bass drum (with or without cymbals)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nusch-Nuschi_T%C3%A4nze_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: :2 flutes (2nd also piccolo), 2 oboes, English horn, clarinet
+    (E), 2 clarinets (B), ::bass clarinet (B), 2 bassoons, contrabassoon :2 horns
+    (F), 2 trumpets (C), 3 trombones, tuba, timpani, percussion (6 players), celesta,
+    harp, strings :: triangle, large gong, cymbals, tambourine, clash cymbals, snare
+    drum,, bass drum (with or without cymbals), rute, ratchet, glockenspiel (with
+    keyboard), xylophone'
+duration_minutes: 9

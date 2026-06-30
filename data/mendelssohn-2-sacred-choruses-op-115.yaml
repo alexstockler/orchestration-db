@@ -7,7 +7,7 @@ work:
   year: 1837
 formula: ''
 instrumentation:
-  additional_raw: TTBB
+  chorus_raw: ttbb
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/2_Geistliche_Ch%C3%B6re%2C_Op.115_%28Mendelssohn%2C_Felix%29

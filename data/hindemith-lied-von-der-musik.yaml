@@ -1,0 +1,17 @@
+id: hindemith-lied-von-der-musik
+work:
+  composer: Hindemith, Paul
+  title: Lied von der Musik
+  ids:
+    imslp: A Song of Music (Hindemith, Paul)
+  year: 1940
+formula: str
+instrumentation:
+  strings: str
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_Song_of_Music_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SSA), strings (or piano)'
+duration_minutes: 2

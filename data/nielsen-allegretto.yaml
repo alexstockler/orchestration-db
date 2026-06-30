@@ -1,0 +1,14 @@
+id: nielsen-allegretto
+work:
+  composer: Nielsen, Carl
+  title: Allegretto
+  ids:
+    imslp: Allegretto in G minor, CNW 78 (Nielsen, Carl)
+formula: ''
+instrumentation:
+  additional_raw: unspecified keyboard (most likely piano?)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegretto_in_G_minor%2C_CNW_78_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: unspecified keyboard (most likely piano?)'

@@ -1,0 +1,16 @@
+id: gounod-la-colombe
+work:
+  composer: Gounod, Charles
+  title: La colombe
+  ids:
+    imslp: La colombe, CG 6 (Gounod, Charles)
+  year: 1860
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_colombe%2C_CG_6_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

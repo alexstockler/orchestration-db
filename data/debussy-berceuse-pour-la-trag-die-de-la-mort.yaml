@@ -7,7 +7,8 @@ work:
   year: 1899
 formula: ''
 instrumentation:
-  additional_raw: voice (unaccompanied)
+  soloists:
+  - voice
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Berceuse_pour_%27La_trag%C3%A9die_de_la_mort%27%2C_CD_100_%28Debussy%2C_Claude%29

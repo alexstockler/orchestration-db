@@ -1,0 +1,18 @@
+id: hindemith-viola-sonata
+work:
+  composer: Hindemith, Paul
+  title: Viola Sonata
+  ids:
+    imslp: Viola Sonata, IPH 172 (Hindemith, Paul)
+  year: 1938
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    viola: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Viola_Sonata%2C_IPH_172_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: viola, piano'

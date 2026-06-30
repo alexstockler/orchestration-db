@@ -65,7 +65,6 @@ instrumentation:
     - cymbals
     - snare drums
     - tambourine
-    - tenor drum
     - tam-tam
     - bells
     - xylophone
@@ -78,6 +77,8 @@ instrumentation:
   - instrument: piano
   harp: 3
   strings: str
+  offstage:
+  - tenor drum
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Petrushka%2C_K012_%28Stravinsky%2C_Igor%29

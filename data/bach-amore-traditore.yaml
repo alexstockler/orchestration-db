@@ -1,0 +1,18 @@
+id: bach-amore-traditore
+work:
+  composer: Bach, Johann Sebastian
+  title: Amore traditore
+  ids:
+    imslp: Amore traditore, BWV 203 (Bach, Johann Sebastian)
+  year: 1718
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+  additional_raw: harpsichord (possibly cello or viola da gamba)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Amore_traditore%2C_BWV_203_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, harpsichord (possibly cello or viola da gamba)'
+duration_minutes: 14

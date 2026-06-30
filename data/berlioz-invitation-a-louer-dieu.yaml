@@ -1,0 +1,17 @@
+id: berlioz-invitation-a-louer-dieu
+work:
+  composer: Berlioz, Hector
+  title: Invitation à louer Dieu
+  ids:
+    imslp: Invitation à louer Dieu, H 143 (Berlioz, Hector)
+  year: 1860
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: Choir SSA
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Invitation_%C3%A0_louer_Dieu%2C_H_143_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: Choir SSA, piano'

@@ -1,0 +1,58 @@
+id: massenet-werther
+work:
+  composer: Massenet, Jules
+  title: Werther
+  ids:
+    imslp: Werther (Massenet, Jules)
+  year: 1887
+formula: 2[1.2/pic] 2[1.2/Eh] 2 2 4 2[cnt.cnt] 3 1 tmp org hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - triangle
+    - tambourine
+    - tam-tam
+    - wind machine
+  keyboards:
+  - instrument: organ
+  harp: 1
+  strings: str
+  soloists:
+  - Werther (tenor) :Charlotte (mezzo-soprano) :Sophie (soprano) :Albert (baritone)
+    :Le Bailli (bass) :Schmidt (tenor) :Johann (baritone) :Brühlmann (tenor) :Käthchen
+    (soprano) :Fritz (child's voice) :Max (child's voice) :Hans (child's voice) :Karl
+    (child's voice) :Gretel (child's voice) :Clara (child's voice)
+  saxophones:
+  - instrument: alto_sax
+    count: 1
+  additional_raw: keyboard glockenspiel
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Werther_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Werther (tenor) :Charlotte (mezzo-soprano) :Sophie
+    (soprano) :Albert (baritone) :Le Bailli (bass) :Schmidt (tenor) :Johann (baritone)
+    :Brühlmann (tenor) :Käthchen (soprano) :Fritz (child''s voice) :Max (child''s
+    voice) :Hans (child''s voice) :Karl (child''s voice) :Gretel (child''s voice)
+    :Clara (child''s voice) Orchestra :2 flutes (2nd also piccolo), 2 oboes (2nd also
+    english horn), ::2 clarinets, 2 bassoons, alto saxophone :4 horns, 2 cornets,
+    3 trombones, tuba :timpani, bass drum, triangle, tambourine, harp, strings ''
+    :keyboard glockenspiel, organ, tam-tam, wind machine'

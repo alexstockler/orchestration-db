@@ -1,0 +1,30 @@
+id: berlioz-le-cinq-mai-chant-sur-la-mort-de-lempereur-napoleon
+work:
+  composer: Berlioz, Hector
+  title: Le cinq mai, chant sur la mort de l’Empereur Napoléon
+  ids:
+    imslp: Le cinq mai, H 74 (Berlioz, Hector)
+  year: 1835
+formula: 2024 4230 str
+instrumentation:
+  flute: 2
+  clarinet: 2
+  bassoon: 4
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    instruments:
+    - bass drum
+  strings: str
+  soloists:
+  - bass
+  - mixed chorus (SSTTBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_cinq_mai%2C_H_74_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: bass, mixed chorus (SSTTBB), Orchestra: 2 flutes,
+    2 clarinets (C), 4 bassoons, 4 horns (2 in E, 2 in C), 2 trumpets (F), 3 trombones,
+    bass drum, strings'
+duration_minutes: 11

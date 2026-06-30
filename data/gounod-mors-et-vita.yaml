@@ -1,0 +1,42 @@
+id: gounod-mors-et-vita
+work:
+  composer: Gounod, Charles
+  title: Mors et vita
+  ids:
+    imslp: Mors et vita, CG 33 (Gounod, Charles)
+  year: 1885
+formula: 2[1.2/pic] 2[1.2/Eh] 2 2 6642 tmp org hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 6
+  trumpet: 6
+  trombone: 4
+  tuba: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - tam-tam
+    - triangle
+  keyboards:
+  - instrument: organ
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mors_et_vita%2C_CG_33_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes (2nd also English
+    horn), 2 clarinets, 2 bassoons, 6 horns, 6 trumpets, 4 trombones, 2 tubas, timpani,
+    bass drum, cymbals, tam-tam, triangle, organ, harp, strings'
+duration_minutes: 40

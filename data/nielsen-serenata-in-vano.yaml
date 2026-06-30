@@ -1,0 +1,21 @@
+id: nielsen-serenata-in-vano
+work:
+  composer: Nielsen, Carl
+  title: Serenata in vano
+  ids:
+    imslp: Serenata in vano, CNW 69 (Nielsen, Carl)
+  year: 1914
+formula: 0011 1000
+instrumentation:
+  clarinet: 1
+  bassoon: 1
+  horn: 1
+  solo_strings:
+    cello: 1
+    double_bass: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Serenata_in_vano%2C_CNW_69_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, bassoon, horn, cello, double bass'
+duration_minutes: 8

@@ -1,0 +1,15 @@
+id: respighi-lauda-per-la-nativita-del-signore
+work:
+  composer: Respighi, Ottorino
+  title: Lauda per la Natività del Signore
+  ids:
+    imslp: Lauda per la Natività del Signore (Respighi, Ottorino)
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: solo voices | 6 pastoral instruments and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lauda_per_la_Nativit%C3%A0_del_Signore_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: solo voices, chorus, 6 pastoral instruments and piano'

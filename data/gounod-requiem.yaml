@@ -1,0 +1,33 @@
+id: gounod-requiem
+work:
+  composer: Gounod, Charles
+  title: Requiem
+  ids:
+    imslp: Requiem, CG 80 (Gounod, Charles)
+  year: 1891
+formula: 2 3[1.2.Eh] 2 2 4231 tmp+1 org hp str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+  keyboards:
+  - instrument: organ
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Requiem%2C_CG_80_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, English horn, 2 clarinets, 2 bassoons,
+    4 horns, 2 trumpets, 3 trombones, tuba, timpani, percussion, harp, strings, organ'

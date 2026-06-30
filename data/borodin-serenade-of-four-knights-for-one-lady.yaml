@@ -1,0 +1,16 @@
+id: borodin-serenade-of-four-knights-for-one-lady
+work:
+  composer: Borodin, Aleksandr
+  title: Serenade of Four Knights for One Lady
+  ids:
+    imslp: Serenade in Honor of One Lady by Four Cavaliers (Borodin, Aleksandr)
+formula: ''
+instrumentation:
+  soloists:
+  - tenors
+  additional_raw: 2 basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Serenade_in_Honor_of_One_Lady_by_Four_Cavaliers_%28Borodin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 tenors, 2 basses'

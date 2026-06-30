@@ -1,0 +1,16 @@
+id: bizet-fugue-in-f-minor
+work:
+  composer: Bizet, Georges
+  title: Fugue in F minor
+  ids:
+    imslp: Fugue in F minor (Bizet, Georges)
+  year: 1855
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_F_minor_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices'

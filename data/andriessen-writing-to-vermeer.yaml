@@ -9,49 +9,13 @@ work:
 version:
   publisher: Boosey & Hawkes
   label: Opera (with orchestra)
-formula: 3[1/pic.2/pic.3/pic/afl] 2[1/Eh.2/Eh] 2[bcl.bcl/cbcl] 0 2 2[1.2/btpt] 0 0
-  tmp+2 pf pf 2hp 6.6.4.4.2
+formula: ''
 duration_minutes: 102
 instrumentation:
-  flute:
-  - doublings:
-    - piccolo
-  - doublings:
-    - piccolo
-  - doublings:
-    - piccolo
-    - alto_flute
-  oboe:
-  - doublings:
-    - english_horn
-  - doublings:
-    - english_horn
-  clarinet:
-  - instrument: bass_clarinet
-  - instrument: bass_clarinet
-    doublings:
-    - contrabass_clarinet
-  horn: 2
-  trumpet:
-  - {}
-  - doublings:
-    - bass_trumpet
-  percussion:
-    timpani: 1
-    players: 2
-  keyboards:
-  - instrument: piano
-  - instrument: piano
-  harp: 2
-  strings:
-    standard: false
-    description: 6.6.4.4.2
-  soloists:
-  - 2S
-  - M
-  - 2children's voices
-  chorus_raw: SA
-  additional_raw: perc(2):cel/glsp/timp/SD-2pft-2harps-2elec.gtr-cimbalom-hpd(on stage)
+  additional_raw: 'Auto-extracted from B&H Scoring block | celesta/synth/guitars/cimbalom
+    and detailed percussion are kept in additional_raw | formula covers the orchestral
+    core | Raw: 2S | M | 2children''s voices | chorus (SA) 3(I,II,III=picc,III=afl).2(I,II=corA).0.2bcl(II=dbcl).0-2.2(II=btpt).0.0-perc(2)
+    | cel/glsp/timp/SD-2pft-2harps-2elec.gtr-cimbalom-hpd(on stage)-strings (min.6.6.4.4.2)'
 provenance:
   source: publisher:boosey
   source_url: https://www.boosey.com/pages/cr/catalogue/cat_detail?musicid=6144

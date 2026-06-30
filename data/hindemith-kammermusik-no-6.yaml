@@ -1,0 +1,29 @@
+id: hindemith-kammermusik-no-6
+work:
+  composer: Hindemith, Paul
+  title: Kammermusik No.6
+  ids:
+    imslp: Kammermusik No.6, Op.46 No.1 (Hindemith, Paul)
+  year: 1927
+formula: 1 1 2[1.bcl] 1 1110
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet:
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 1
+  horn: 1
+  trumpet: 1
+  trombone: 1
+  solo_strings:
+    cello: 3
+  additional_raw: viola d'amore | 2 basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kammermusik_No.6%2C_Op.46_No.1_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: viola d''amore, Orchestra (both versions): flute,
+    oboe, clarinet (B), bass clarinet (B), bassoon, horn (F), trumpet (C), trombone,
+    3 cellos, 2 basses'
+duration_minutes: 19

@@ -1,0 +1,59 @@
+id: offenbach-orphee-aux-enfers
+work:
+  composer: Offenbach, Jacques
+  title: Orphée aux enfers
+  ids:
+    imslp: Orphée aux enfers (Offenbach, Jacques)
+  year: 1858
+formula: 2[1.2/pic] 1 2 1 2 2[cnt.cnt] 1 0 tmp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 1
+  clarinet: 2
+  bassoon: 1
+  horn: 2
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+  strings: str
+  additional_raw: Pluton | god of the underworld | disguised as Aristée | a shepherd
+    (tenor) | Jupiter | king of the gods (low tenor–high baritone) | Orphée | a musician
+    (tenor) | John Styx | servant of Pluton | formerly king of Boeotia (tenor or baritone)
+    | Mercure | messenger of the gods (tenor) | Bacchus | god of wine (spoken) | Mars
+    | god of war (bass) | Eurydice | wife of Orphée (soprano) | Diane | goddess of
+    chastity (soprano) | L'Opinion publiqu (mezzo-soprano) | Junon | wife of Jupiter
+    (soprano or mezzo) | Vénus | goddess of beauty (soprano) | Cupidon | god of love
+    (soprano en travesti) | Minerve | goddess of wisdom (soprano) | Morphée | god
+    of sleep (tenor) | Cybèle | goddess of nature (soprano) | Pomone | goddess of
+    fruits (soprano) | Flore | goddess of flowers (soprano) | Cérès | goddess of agriculture
+    (soprano) | Amour (mezzo-soprano) | Cerbère | three-headed guardian of the underworld
+    (barked) | Minos (baritone/tenor) | Éaque (tenor) | Rhadamante (bass) Chorus |
+    Gods | goddesses | muses | shepherds | shepherdesses | lictors and spirits in
+    the underworld Orchestra *1858 version | bass drum/cymbals
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Orph%C3%A9e_aux_enfers_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Pluton, god of the underworld, disguised as Aristée,
+    a shepherd (tenor), Jupiter, king of the gods (low tenor–high baritone), Orphée,
+    a musician (tenor), John Styx, servant of Pluton, formerly king of Boeotia (tenor
+    or baritone), Mercure, messenger of the gods (tenor), Bacchus, god of wine (spoken),
+    Mars, god of war (bass), Eurydice, wife of Orphée (soprano), Diane, goddess of
+    chastity (soprano), L''Opinion publiqu (mezzo-soprano), Junon, wife of Jupiter
+    (soprano or mezzo), Vénus, goddess of beauty (soprano), Cupidon, god of love (soprano
+    en travesti), Minerve, goddess of wisdom (soprano), Morphée, god of sleep (tenor),
+    Cybèle, goddess of nature (soprano), Pomone, goddess of fruits (soprano), Flore,
+    goddess of flowers (soprano), Cérès, goddess of agriculture (soprano), Amour (mezzo-soprano),
+    Cerbère, three-headed guardian of the underworld (barked), Minos (baritone/tenor),
+    Éaque (tenor), Rhadamante (bass) Chorus :Gods, goddesses, muses, shepherds, shepherdesses,
+    lictors and spirits in the underworld Orchestra *1858 version :2 flutes (2nd also
+    piccolo), oboe, 2 clarinets, bassoon, 2 horns, 2 cornets, trombone, timpani, bass
+    drum/cymbals, triangle, strings'

@@ -1,0 +1,15 @@
+id: vaughan-williams-the-lake-in-the-mountains
+work:
+  composer: Vaughan Williams, Ralph
+  title: The Lake in the Mountains
+  ids:
+    imslp: The Lake in the Mountains (Vaughan Williams, Ralph)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Lake_in_the_Mountains_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

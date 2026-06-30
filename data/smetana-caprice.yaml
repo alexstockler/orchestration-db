@@ -1,0 +1,15 @@
+id: smetana-caprice
+work:
+  composer: Smetana, Bedřich
+  title: Caprice
+  ids:
+    imslp: Caprice, JB.2:17 (Smetana, Bedřich)
+  year: 1848
+formula: ''
+instrumentation:
+  additional_raw: '|Tags=caprices | rhapsodies | pf'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Caprice%2C_JB.2%3A17_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: |Tags=caprices ; rhapsodies ; pf'

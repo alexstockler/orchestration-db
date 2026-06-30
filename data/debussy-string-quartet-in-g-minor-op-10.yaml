@@ -6,7 +6,10 @@ work:
     imslp: String Quartet in G minor, Op.10 (Debussy, Claude)
 formula: ''
 instrumentation:
-  additional_raw: 2 violins | viola | cello
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/String_Quartet_in_G_minor%2C_Op.10_%28Debussy%2C_Claude%29

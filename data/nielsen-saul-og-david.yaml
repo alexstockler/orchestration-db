@@ -1,0 +1,16 @@
+id: nielsen-saul-og-david
+work:
+  composer: Nielsen, Carl
+  title: Saul og David
+  ids:
+    imslp: Saul og David, CNW 1 (Nielsen, Carl)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Saul_og_David%2C_CNW_1_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

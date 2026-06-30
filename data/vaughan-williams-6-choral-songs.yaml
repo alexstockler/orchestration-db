@@ -1,0 +1,40 @@
+id: vaughan-williams-6-choral-songs
+work:
+  composer: Vaughan Williams, Ralph
+  title: 6 Choral Songs
+  ids:
+    imslp: 6 Choral Songs (Vaughan Williams, Ralph)
+  year: 1940
+formula: 2[1.2/pic] 2 2 3[1.2.cbn] 4 2 3[1.2.btbn] 1 tmp+1 org hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 2
+  trombone:
+  - {}
+  - {}
+  - instrument: bass_trombone
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+  keyboards:
+  - instrument: organ
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Choral_Songs_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes, 2 clarinets, 2 bassoons,
+    contrabassoon, 4 horns, 2 trumpets, 2 trombones, bass trombone, tuba, timpani,
+    percussion (cymbals, bass drum), organ, harp, strings'

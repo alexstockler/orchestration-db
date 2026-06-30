@@ -1,0 +1,20 @@
+id: gounod-messe-des-anges-gardiens
+work:
+  composer: Gounod, Charles
+  title: Messe des Anges Gardiens
+  ids:
+    imslp: Messe des Anges Gardiens, CG 73 (Gounod, Charles)
+  year: 1872
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Messe_des_Anges_Gardiens%2C_CG_73_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, organ'
+duration_minutes: 20

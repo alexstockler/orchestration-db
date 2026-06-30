@@ -7,8 +7,9 @@ work:
   year: 1851
 formula: ''
 instrumentation:
+  soloists:
+  - voices
   chorus_raw: chorus
-  additional_raw: voices | orchestra
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Der_K%C3%B6nigssohn%2C_Op.116_%28Schumann%2C_Robert%29

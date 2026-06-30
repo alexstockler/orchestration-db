@@ -1,0 +1,23 @@
+id: vaughan-williams-mass-in-g-minor
+work:
+  composer: Vaughan Williams, Ralph
+  title: Mass in G minor
+  ids:
+    imslp: Communion Service in G minor (Vaughan Williams, Ralph)
+  year: 1921
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: double chorus
+  additional_raw: (organ ad lib)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Communion_Service_in_G_minor_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, double chorus (SATB SATB),
+    (organ ad lib)'
+duration_minutes: 24

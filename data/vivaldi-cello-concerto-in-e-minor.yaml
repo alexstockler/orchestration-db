@@ -8,7 +8,9 @@ formula: 0001 0000 str
 instrumentation:
   bassoon: 1
   strings: str
-  additional_raw: cello | continuo
+  solo_strings:
+    cello: 1
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Concerto_for_Cello_and_Bassoon_in_E_minor%2C_RV_409_%28Vivaldi%2C_Antonio%29

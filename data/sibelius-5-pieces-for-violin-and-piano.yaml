@@ -7,7 +7,8 @@ work:
   year: 1915
 formula: ''
 instrumentation:
-  additional_raw: Violin and Piano
+  solo_strings:
+    violin: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/5_Pieces_for_Violin_and_Piano%2C_Op.81_%28Sibelius%2C_Jean%29

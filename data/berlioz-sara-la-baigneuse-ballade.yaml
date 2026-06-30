@@ -1,0 +1,43 @@
+id: berlioz-sara-la-baigneuse-ballade
+work:
+  composer: Berlioz, Hector
+  title: 'Sara la baigneuse: ballade'
+  ids:
+    imslp: Sara la baigneuse, H 69 (Berlioz, Hector)
+  year: 1834
+formula: 2[1.2/pic] 1 2 2 3000 tmp pf
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 1
+  clarinet: 2
+  bassoon: 2
+  horn: 3
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: piano
+  soloists:
+  - 4 male voices
+  - orchestra
+  - 'Version : soprano'
+  - 2 tenors
+  - bass
+  - mixed chorus (STB)
+  - orchestra
+  - 'Version : male chorus (TTBB)'
+  - female chorus (SSAA)
+  - mixed chorus (STB)
+  additional_raw: strings Version | 2 voices (SA or TB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sara_la_baigneuse%2C_H_69_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: Version : 4 male voices, orchestra, Version : soprano,
+    2 tenors, bass, mixed chorus (STB), orchestra, Version : male chorus (TTBB), female
+    chorus (SSAA), mixed chorus (STB), orchestra :2 flutes (2nd also piccolo), oboe,
+    2 clarinets, 2 bassoons, 3 horns, timpani, strings Version : 2 voices (SA or TB),
+    piano (arrangement)'
+duration_minutes: 7

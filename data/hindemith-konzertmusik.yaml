@@ -1,0 +1,48 @@
+id: hindemith-konzertmusik
+work:
+  composer: Hindemith, Paul
+  title: Konzertmusik
+  ids:
+    imslp: Konzertmusik, Op.48 (Hindemith, Paul)
+  year: 1929
+formula: 4[pic.2.pic.4] 4[1.Eh.3.Eh] 4[1.bcl.3.bcl] 6[1.2.cbn.4.5.cbn] 6321
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - instrument: piccolo
+  - {}
+  oboe:
+  - {}
+  - instrument: english_horn
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - instrument: bass_clarinet
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 6
+  trumpet: 3
+  trombone: 2
+  tuba: 1
+  solo_strings:
+    cello: 8
+  additional_raw: 4 basses Orchestra (definitive Fassung) | 4 basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Konzertmusik%2C_Op.48_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra (frühe Fassung) :piccolo, flute, oboe, English
+    horn, clarinet, bass clarinet, 2 bassoons, contrabassoon, 3 horns, trumpet, trombone,
+    4 cellos, 4 basses Orchestra (definitive Fassung) :piccolo, flute, oboe, English
+    horn, clarinet, bass clarinet, 2 bassoons, contrabassoon, 3 horns, 2 trumpets,
+    trombone, tuba, 4 cellos, 4 basses'
+duration_minutes: 23

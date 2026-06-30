@@ -1,0 +1,15 @@
+id: vaughan-williams-5-english-folk-songs-freely-arranged-for-unaccompanied-chorus
+work:
+  composer: Vaughan Williams, Ralph
+  title: 5 English Folk Songs freely arranged for Unaccompanied Chorus
+  ids:
+    imslp: 5 English Folk Songs (Vaughan Williams, Ralph)
+  year: 1913
+formula: ''
+instrumentation:
+  additional_raw: mixed chorus (SATB) unaccompanied
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_English_Folk_Songs_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB) unaccompanied'

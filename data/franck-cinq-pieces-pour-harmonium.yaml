@@ -1,0 +1,16 @@
+id: franck-cinq-pieces-pour-harmonium
+work:
+  composer: Franck, César
+  title: Cinq Pièces pour harmonium
+  ids:
+    imslp: 5 Pièces pour harmonium (Franck, César)
+  year: 1864
+formula: harm
+instrumentation:
+  keyboards:
+  - instrument: harmonium
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Pi%C3%A8ces_pour_harmonium_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: harmonium'

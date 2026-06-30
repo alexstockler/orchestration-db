@@ -1,0 +1,23 @@
+id: glazunov-deux-morceaux-pour-violoncelle-avec-accompagnement-d-orchestre
+work:
+  composer: Glazunov, Aleksandr
+  title: Deux morceaux pour violoncelle avec accompagnement d'orchestre
+  ids:
+    imslp: 2 Pieces for Cello and Orchestra, Op.20 (Glazunov, Aleksandr)
+  year: 1888
+formula: 2222 4000 hp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Pieces_for_Cello_and_Orchestra%2C_Op.20_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinet, 2 bassoons,, 4 horns, harp,
+    strings'
+duration_minutes: 10

@@ -1,0 +1,15 @@
+id: kodaly-psalm-121
+work:
+  composer: Kodály, Zoltán
+  title: Psalm 121
+  ids:
+    imslp: Psalm 121, K.123 (Kodály, Zoltán)
+  year: 1943
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Psalm_121%2C_K.123_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

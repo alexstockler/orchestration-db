@@ -5,9 +5,8 @@ work:
   ids:
     imslp: 2 Nordic Melodies, Op.63 (Grieg, Edvard)
   year: 1895
-formula: str
-instrumentation:
-  strings: str
+formula: ''
+instrumentation: {}
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/2_Nordic_Melodies%2C_Op.63_%28Grieg%2C_Edvard%29

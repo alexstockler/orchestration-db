@@ -1,0 +1,14 @@
+id: kodaly-huszt
+work:
+  composer: Kodály, Zoltán
+  title: Huszt
+  ids:
+    imslp: Huszt (Kodály, Zoltán)
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Huszt_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus'

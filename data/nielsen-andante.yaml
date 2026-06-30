@@ -1,0 +1,16 @@
+id: nielsen-andante
+work:
+  composer: Nielsen, Carl
+  title: Andante
+  ids:
+    imslp: Andante in F major, CNW 75 (Nielsen, Carl)
+  year: 1884
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_in_F_major%2C_CNW_75_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

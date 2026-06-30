@@ -1,0 +1,15 @@
+id: offenbach-duos-for-2-cellos-op-53
+work:
+  composer: Offenbach, Jacques
+  title: Duos for 2 Cellos, Op.53
+  ids:
+    imslp: Duos for 2 Cellos, Op.53 (Offenbach, Jacques)
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Duos_for_2_Cellos%2C_Op.53_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Cellos'

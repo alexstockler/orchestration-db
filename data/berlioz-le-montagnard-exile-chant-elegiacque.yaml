@@ -1,0 +1,17 @@
+id: berlioz-le-montagnard-exile-chant-elegiacque
+work:
+  composer: Berlioz, Hector
+  title: Le montagnard exilé, Chant élégiacque
+  ids:
+    imslp: Le montagnard exilé, H 15 (Berlioz, Hector)
+  year: 1823
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 2 equal voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_montagnard_exil%C3%A9%2C_H_15_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 equal voices, piano (or harp)'

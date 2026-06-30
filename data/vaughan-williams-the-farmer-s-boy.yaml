@@ -1,0 +1,15 @@
+id: vaughan-williams-the-farmer-s-boy
+work:
+  composer: Vaughan Williams, Ralph
+  title: The Farmer's Boy
+  ids:
+    imslp: The Farmer's Boy (Vaughan Williams, Ralph)
+  year: 1921
+formula: ''
+instrumentation:
+  additional_raw: male voices or chorus (TTBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Farmer%27s_Boy_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: male voices or chorus (TTBB)'

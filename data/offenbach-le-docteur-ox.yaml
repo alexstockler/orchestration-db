@@ -1,0 +1,16 @@
+id: offenbach-le-docteur-ox
+work:
+  composer: Offenbach, Jacques
+  title: Le docteur Ox
+  ids:
+    imslp: Le docteur Ox (Offenbach, Jacques)
+  year: 1877
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_docteur_Ox_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

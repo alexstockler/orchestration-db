@@ -1,0 +1,19 @@
+id: vaughan-williams-love-is-a-sickness
+work:
+  composer: Vaughan Williams, Ralph
+  title: Love is a Sickness
+  ids:
+    imslp: Love is a Sickness (Vaughan Williams, Ralph)
+  year: 1924
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Love_is_a_Sickness_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass'

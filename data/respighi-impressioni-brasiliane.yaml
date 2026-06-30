@@ -1,0 +1,29 @@
+id: respighi-impressioni-brasiliane
+work:
+  composer: Respighi, Ottorino
+  title: Impressioni brasiliane
+  ids:
+    imslp: Impressioni brasiliane (Respighi, Ottorino)
+  year: 1928
+formula: 0002 4321 1perc cel pf hp
+instrumentation:
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 2
+  tuba: 1
+  percussion:
+    players: 1
+  keyboards:
+  - instrument: celesta
+  - instrument: piano
+  harp: 1
+  additional_raw: 3 Flutes/piccolo | 2 oboes/English horn | 2 clarinets (A)/bass clarinet
+    | and strings
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Impressioni_brasiliane_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 Flutes/piccolo, 2 oboes/English horn, 2 clarinets (A)/bass
+    clarinet, 2 bassoons, 4 horns, 3 trumpets, 2 trombones, tuba, percussion, harp,
+    celesta, piano, and strings'

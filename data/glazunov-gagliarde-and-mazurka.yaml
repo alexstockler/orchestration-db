@@ -1,0 +1,16 @@
+id: glazunov-gagliarde-and-mazurka
+work:
+  composer: Glazunov, Aleksandr
+  title: Gagliarde and Mazurka
+  ids:
+    imslp: Gagliarde and Mazurka (Glazunov, Aleksandr)
+  year: 1911
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gagliarde_and_Mazurka_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano solo'

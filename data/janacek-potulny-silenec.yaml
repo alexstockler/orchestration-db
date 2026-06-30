@@ -1,0 +1,19 @@
+id: janacek-potulny-silenec
+work:
+  composer: Janáček, Leoš
+  title: Potulný šílenec
+  ids:
+    imslp: Potulný šílenec (Janáček, Leoš)
+  year: 1922
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - baritone
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Potuln%C3%BD_%C5%A1%C3%ADlenec_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, baritone, male chorus (TTBB)'
+duration_minutes: 6

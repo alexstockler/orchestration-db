@@ -1,0 +1,16 @@
+id: vaughan-williams-fantasia-on-a-theme-by-thomas-tallis
+work:
+  composer: Vaughan Williams, Ralph
+  title: Fantasia on a Theme by Thomas Tallis
+  ids:
+    imslp: Fantasia on a Theme by Thomas Tallis (Vaughan Williams, Ralph)
+  year: 1910
+formula: ''
+instrumentation:
+  additional_raw: double string orchestra | with soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_on_a_Theme_by_Thomas_Tallis_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: double string orchestra, with soloists'
+duration_minutes: 16

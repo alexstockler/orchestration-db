@@ -1,0 +1,27 @@
+id: nielsen-from-rold-to-rebild-cnw-22
+work:
+  composer: Nielsen, Carl
+  title: From Rold to Rebild, CNW 22
+  ids:
+    imslp: Fra Rold til Rebild, CNW 22 (Nielsen, Carl)
+  year: 1929
+formula: 1010 0110 tmp pf str
+instrumentation:
+  flute: 1
+  clarinet: 1
+  trumpet: 1
+  trombone: 1
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: piano
+  strings: str
+  soloists:
+  - tenor (Hans)
+  - mens chorus (TB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fra_Rold_til_Rebild%2C_CNW_22_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: tenor (Hans), mens chorus (TB), Orchestra: flute,
+    clarinet (B), trumpet (F), trombone,, timpani, piano, strings'

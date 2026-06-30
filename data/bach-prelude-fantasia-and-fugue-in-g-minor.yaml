@@ -1,0 +1,17 @@
+id: bach-prelude-fantasia-and-fugue-in-g-minor
+work:
+  composer: Bach, Johann Sebastian
+  title: Prelude (Fantasia) and Fugue in G minor
+  ids:
+    imslp: Fantasia and Fugue in G minor, BWV 542 (Bach, Johann Sebastian)
+  year: 1720
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_and_Fugue_in_G_minor%2C_BWV_542_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 12

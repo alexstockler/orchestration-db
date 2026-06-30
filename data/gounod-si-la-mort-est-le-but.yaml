@@ -1,0 +1,18 @@
+id: gounod-si-la-mort-est-le-but
+work:
+  composer: Gounod, Charles
+  title: Si la mort est le but
+  ids:
+    imslp: Si la mort est le but, CG 439 (Gounod, Charles)
+  year: 1866
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Si_la_mort_est_le_but%2C_CG_439_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

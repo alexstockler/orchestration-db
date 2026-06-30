@@ -1,0 +1,16 @@
+id: massenet-therese
+work:
+  composer: Massenet, Jules
+  title: Thérèse
+  ids:
+    imslp: Thérèse (Massenet, Jules)
+  year: 1906
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Th%C3%A9r%C3%A8se_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, Chorus, Orchestra'

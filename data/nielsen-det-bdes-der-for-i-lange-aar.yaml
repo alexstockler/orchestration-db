@@ -1,0 +1,15 @@
+id: nielsen-det-bdes-der-for-i-lange-aar
+work:
+  composer: Nielsen, Carl
+  title: Det bødes der for i lange Aar
+  ids:
+    imslp: Det bødes der for i lange Aar, CNW 357 (Nielsen, Carl)
+  year: 1887
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Det_b%C3%B8des_der_for_i_lange_Aar%2C_CNW_357_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

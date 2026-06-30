@@ -1,0 +1,18 @@
+id: borodin-melodie-dans-ton-pays-si-plein-de-charmes
+work:
+  composer: Borodin, Aleksandr
+  title: Mélodie 'dans ton pays si plein de charmes'
+  ids:
+    imslp: Mélodie 'dans ton pays si plein de charmes' (Borodin, Aleksandr)
+  year: 1888
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/M%C3%A9lodie_%27dans_ton_pays_si_plein_de_charmes%27_%28Borodin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

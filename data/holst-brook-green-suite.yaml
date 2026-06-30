@@ -1,0 +1,23 @@
+id: holst-brook-green-suite
+work:
+  composer: Holst, Gustav
+  title: Brook Green Suite
+  ids:
+    imslp: Brook Green Suite, H.190 (Holst, Gustav)
+  year: 1933
+formula: 1111 0000 str
+instrumentation:
+  flute:
+  - optional: true
+  oboe:
+  - optional: true
+  clarinet:
+  - optional: true
+  bassoon: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Brook_Green_Suite%2C_H.190_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: flute (ad lib.), oboe (ad lib.), clarinet (ad lib.), bassoon,
+    strings'

@@ -1,0 +1,19 @@
+id: bach-bekennen-will-ich-seinen-namen
+work:
+  composer: Bach, Johann Sebastian
+  title: Bekennen will ich seinen Namen
+  ids:
+    imslp: Bekennen will ich seinen Namen, BWV 200 (Bach, Johann Sebastian)
+  year: 1742
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bekennen_will_ich_seinen_Namen%2C_BWV_200_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, 2 violins, continuo'

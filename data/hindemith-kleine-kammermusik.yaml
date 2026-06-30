@@ -1,0 +1,20 @@
+id: hindemith-kleine-kammermusik
+work:
+  composer: Hindemith, Paul
+  title: Kleine Kammermusik
+  ids:
+    imslp: Kleine Kammermusik, Op.24 No.2 (Hindemith, Paul)
+  year: 1922
+formula: 1111 1000
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kleine_Kammermusik%2C_Op.24_No.2_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: flute (also piccolo), oboe, clarinet, bassoon, horn (F)'
+duration_minutes: 13

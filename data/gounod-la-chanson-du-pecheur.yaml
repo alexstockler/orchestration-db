@@ -1,0 +1,19 @@
+id: gounod-la-chanson-du-pecheur
+work:
+  composer: Gounod, Charles
+  title: La chanson du pêcheur
+  ids:
+    imslp: La chanson du pêcheur, CG 397 (Gounod, Charles)
+  year: 1841
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_chanson_du_p%C3%AAcheur%2C_CG_397_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 5

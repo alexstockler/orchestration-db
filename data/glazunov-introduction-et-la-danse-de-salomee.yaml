@@ -1,0 +1,45 @@
+id: glazunov-introduction-et-la-danse-de-salomee
+work:
+  composer: Glazunov, Aleksandr
+  title: Introduction et la Danse de Salomée
+  ids:
+    imslp: Introduction et la Danse de Salomée, Op.90 (Glazunov, Aleksandr)
+  year: 1912
+formula: 3[pic.2.3] 3[1.2.Eh] 2 3[1.2.cbn] 4231 tmp hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - bass drum
+    - tambourine
+    - snare drum
+    - glockenspiel
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Introduction_et_la_Danse_de_Salom%C3%A9e%2C_Op.90_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets,
+    2 bassoons, contrabassoon, 4 horns, 2 trumpets, 3 trombones, tuba, timpani, triangle,
+    cymbals, bass drum,, tambourine, snare drum, glockenspiel, harp, strings'
+duration_minutes: 15

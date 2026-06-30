@@ -1,0 +1,42 @@
+id: berlioz-les-francs-juges-opera
+work:
+  composer: Berlioz, Hector
+  title: Les Francs-juges (opera)
+  ids:
+    imslp: Les francs-juges, H 23 (Berlioz, Hector)
+  year: 1825
+formula: 2[1.2/pic] 2 2 3[1.2.cbn] 4 4[1.2.cnt.cnt] 3 0 tmp ophicleide str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - bass drum
+  extras:
+  - instrument: ophicleide
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_francs-juges%2C_H_23_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes, 2 clarinets (C),
+    2 bassoons, contrabassoon, 4 horns (2 in E, 2 in D), 2 trumpets (E), 2 cornets
+    (E), 3 trombones (alto, tenor, bass), 2 ophicleides (C, B), timpani, cymbals,
+    bass drum, strings'

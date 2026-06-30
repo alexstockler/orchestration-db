@@ -1,0 +1,17 @@
+id: nielsen-naturens-dle-dyrker
+work:
+  composer: Nielsen, Carl
+  title: Naturens ædle dyrker
+  ids:
+    imslp: Naturens ædle dyrker, CNW 249 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Naturens_%C3%A6dle_dyrker%2C_CNW_249_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,38 @@
+id: nielsen-pan-og-syrinx
+work:
+  composer: Nielsen, Carl
+  title: Pan og Syrinx
+  ids:
+    imslp: Pan og Syrinx, Op.49 (Nielsen, Carl)
+  year: 1918
+formula: 2 2[1.2/Eh] 2 2 4200 tmp str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drum
+    - cymbals
+    - bass drum
+    - triangle
+    - glockenspiel
+    - xylophone
+  strings: str
+  additional_raw: raganella (cog rattle)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pan_og_Syrinx%2C_Op.49_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra :2 flutes (3nd also piccolo), 2 oboes (2nd also
+    English horn), 2 clarinets (B/A), 2 bassoons, 4 horns (F), 2 trumpets (F), timpani,
+    snare drum, cymbals, bass drum, triangle, raganella (cog rattle), glockenspiel,
+    xylophone, strings'
+duration_minutes: 9

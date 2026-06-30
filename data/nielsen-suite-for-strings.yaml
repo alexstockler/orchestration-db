@@ -1,0 +1,15 @@
+id: nielsen-suite-for-strings
+work:
+  composer: Nielsen, Carl
+  title: Suite for Strings
+  ids:
+    imslp: Suite for Strings, Op.1 (Nielsen, Carl)
+  year: 1888
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_for_Strings%2C_Op.1_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'

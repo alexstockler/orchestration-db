@@ -9,7 +9,9 @@ formula: 0200 0000 str
 instrumentation:
   oboe: 2
   strings: str
-  additional_raw: 'violins | Ripieno: 2 oboes | continuo (bassoons, keyboard)'
+  solo_strings:
+    violin: 1
+  additional_raw: 'Ripieno: 2 oboes | continuo (bassoons, keyboard)'
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Concerto_Grosso_in_F_major%2C_HWV_315_%28Handel%2C_George_Frideric%29

@@ -1,0 +1,13 @@
+id: vaughan-williams-the-running-set
+work:
+  composer: Vaughan Williams, Ralph
+  title: The Running Set
+  ids:
+    imslp: The Running Set (Vaughan Williams, Ralph)
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Running_Set_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

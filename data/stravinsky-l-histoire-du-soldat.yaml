@@ -14,10 +14,12 @@ instrumentation:
   trombone: 1
   percussion:
     players: 1
+  solo_strings:
+    violin: 1
+    double_bass: 1
   additional_raw: Narrator (speaking) | Soldier (silent) | Devil (speaking) | Devil
-    (playing and dancing) | Princess (silent) Ensemble | violin | double bass | (snare
-    drum | 2 side drums (large, small) without snares, bass drum, cymbals, tambourine,
-    triangle)
+    (playing and dancing) | Princess (silent) Ensemble | (snare drum | 2 side drums
+    (large, small) without snares, bass drum, cymbals, tambourine, triangle)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Histoire_du_soldat%2C_K029_%28Stravinsky%2C_Igor%29

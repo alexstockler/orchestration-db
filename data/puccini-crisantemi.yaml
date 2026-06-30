@@ -1,0 +1,19 @@
+id: puccini-crisantemi
+work:
+  composer: Puccini, Giacomo
+  title: Crisantemi
+  ids:
+    imslp: Crisantemi, SC 65 (Puccini, Giacomo)
+  year: 1890
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Crisantemi%2C_SC_65_%28Puccini%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 5

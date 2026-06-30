@@ -1,0 +1,17 @@
+id: vaughan-williams-magnificat-and-nunc-dimittis-in-c-major
+work:
+  composer: Vaughan Williams, Ralph
+  title: Magnificat and Nunc dimittis in C Major
+  ids:
+    imslp: Magnificat and Nunc dimittis in C major (Vaughan Williams, Ralph)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: satb
+  additional_raw: SAB or unison voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Magnificat_and_Nunc_dimittis_in_C_major_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB, SAB or unison voices, organ'

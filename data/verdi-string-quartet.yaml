@@ -1,0 +1,19 @@
+id: verdi-string-quartet
+work:
+  composer: Verdi, Giuseppe
+  title: String Quartet
+  ids:
+    imslp: String Quartet (Verdi, Giuseppe)
+  year: 1873
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 20

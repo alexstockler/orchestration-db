@@ -1,0 +1,17 @@
+id: nielsen-nar-jeg-betnker-tid-og-stund
+work:
+  composer: Nielsen, Carl
+  title: Når jeg betænker Tid og Stund
+  ids:
+    imslp: Når jeg betænker Tid og Stund, CNW 185 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/N%C3%A5r_jeg_bet%C3%A6nker_Tid_og_Stund%2C_CNW_185_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

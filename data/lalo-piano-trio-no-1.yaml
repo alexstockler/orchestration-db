@@ -1,0 +1,18 @@
+id: lalo-piano-trio-no-1
+work:
+  composer: Lalo, Édouard
+  title: Piano Trio No.1
+  ids:
+    imslp: Piano Trio No.1, Op.7 (Lalo, Édouard)
+  year: 1849
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio_No.1%2C_Op.7_%28Lalo%2C_%C3%89douard%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin, Cello and Piano'
+duration_minutes: 22

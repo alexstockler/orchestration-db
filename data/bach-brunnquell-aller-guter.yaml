@@ -1,0 +1,17 @@
+id: bach-brunnquell-aller-guter
+work:
+  composer: Bach, Johann Sebastian
+  title: Brunnquell aller Güter
+  ids:
+    imslp: Brunnquell aller Güter, BWV 445 (Bach, Johann Sebastian)
+  year: 1735
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Brunnquell_aller_G%C3%BCter%2C_BWV_445_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

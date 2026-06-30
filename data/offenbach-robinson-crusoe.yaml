@@ -1,0 +1,17 @@
+id: offenbach-robinson-crusoe
+work:
+  composer: Offenbach, Jacques
+  title: Robinson Crusoé
+  ids:
+    imslp: Robinson Crusoé (Offenbach, Jacques)
+  year: 1867
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Robinson_Cruso%C3%A9_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

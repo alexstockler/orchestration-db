@@ -1,0 +1,15 @@
+id: bach-lesson-no-3
+work:
+  composer: Bach, Johann Sebastian
+  title: Lesson No.3
+  ids:
+    imslp: Allemande in G minor, BWV 837 (Bach, Johann Sebastian)
+  year: 1720
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allemande_in_G_minor%2C_BWV_837_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

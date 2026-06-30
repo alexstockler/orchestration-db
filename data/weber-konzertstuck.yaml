@@ -1,0 +1,26 @@
+id: weber-konzertstuck
+work:
+  composer: Weber, Carl Maria von
+  title: Konzertstück
+  ids:
+    imslp: Konzertstück in F minor, Op.79 (Weber, Carl Maria von)
+  year: 1821
+formula: 2222 2210 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 1
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Konzertst%C3%BCck_in_F_minor%2C_Op.79_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2
+    trumpets, trombone, timpani, strings'
+duration_minutes: 16

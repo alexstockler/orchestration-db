@@ -1,0 +1,18 @@
+id: mussorgsky-from-my-tears
+work:
+  composer: Mussorgsky, Modest
+  title: From My Tears
+  ids:
+    imslp: From My Tears (Mussorgsky, Modest)
+  year: 1866
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/From_My_Tears_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

@@ -1,0 +1,15 @@
+id: bach-froher-tag-verlangte-stunden
+work:
+  composer: Bach, Johann Sebastian
+  title: Froher Tag, verlangte Stunden
+  ids:
+    imslp: Froher Tag, verlangte Stunden, BWV Anh.18 (Bach, Johann Sebastian)
+  year: 1732
+formula: ''
+instrumentation:
+  additional_raw: unknown
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Froher_Tag%2C_verlangte_Stunden%2C_BWV_Anh.18_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: unknown'

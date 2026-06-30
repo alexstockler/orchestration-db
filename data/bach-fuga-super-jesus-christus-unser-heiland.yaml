@@ -1,0 +1,16 @@
+id: bach-fuga-super-jesus-christus-unser-heiland
+work:
+  composer: Bach, Johann Sebastian
+  title: Fuga super 'Jesus Christus unser Heiland'
+  ids:
+    imslp: Fuga super 'Jesus Christus unser Heiland', BWV 689 (Bach, Johann Sebastian)
+  year: 1739
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fuga_super_%27Jesus_Christus_unser_Heiland%27%2C_BWV_689_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

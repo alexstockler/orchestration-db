@@ -1,0 +1,20 @@
+id: bach-die-freude-reget-sich
+work:
+  composer: Bach, Johann Sebastian
+  title: Die Freude reget sich
+  ids:
+    imslp: Die Freude reget sich, BWV 36b (Bach, Johann Sebastian)
+  year: 1735
+formula: 1 1[obda] 0 0 0000 str
+instrumentation:
+  flute: 1
+  oboe:
+  - instrument: oboe_damore
+  strings: str
+  additional_raw: continuo (harpsichord and/or organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Freude_reget_sich%2C_BWV_36b_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, 1 (or 2) oboe(s) d''amore, strings, continuo (harpsichord
+    and/or organ)'

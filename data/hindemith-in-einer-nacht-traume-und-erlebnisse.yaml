@@ -1,0 +1,16 @@
+id: hindemith-in-einer-nacht-traume-und-erlebnisse
+work:
+  composer: Hindemith, Paul
+  title: In einer Nacht... Träume und Erlebnisse
+  ids:
+    imslp: In einer Nacht..., Op.15 (Hindemith, Paul)
+  year: 1917
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_einer_Nacht...%2C_Op.15_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

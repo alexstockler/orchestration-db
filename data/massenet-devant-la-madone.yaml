@@ -1,0 +1,14 @@
+id: massenet-devant-la-madone
+work:
+  composer: Massenet, Jules
+  title: Devant la Madone
+  ids:
+    imslp: Devant la Madone (Massenet, Jules)
+  year: 1864
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Devant_la_Madone_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Chamber Orchestra (flute, oboe, clarinet, strings)'

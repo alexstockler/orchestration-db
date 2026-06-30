@@ -1,0 +1,17 @@
+id: nielsen-som-dybest-brnd-gir-altid-klarest-vand
+work:
+  composer: Nielsen, Carl
+  title: Som dybest Brønd gir altid klarest Vand
+  ids:
+    imslp: Som dybest Brønd gir altid klarest Vand, CNW 251 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Som_dybest_Br%C3%B8nd_gir_altid_klarest_Vand%2C_CNW_251_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

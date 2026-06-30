@@ -1,0 +1,19 @@
+id: smetana-libuse-s-judgement-music-for-a-live-picture-after-a-poem-from-the-zelena
+work:
+  composer: Smetana, Bedřich
+  title: Libuše's Judgement, Music for a Live Picture after a Poem from the Zelená
+    Hora Manuscript
+  ids:
+    imslp: Libušin soud, JB 1:98 (Smetana, Bedřich)
+  year: 1869
+formula: tmp str
+instrumentation:
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: 2-2-2-2 4-4-3-1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Libu%C5%A1in_soud%2C_JB_1%3A98_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: 2-2-2-2 4-4-3-1, Timpani, Strings'

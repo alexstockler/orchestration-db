@@ -7,7 +7,8 @@ work:
   year: 1815
 formula: ''
 instrumentation:
-  additional_raw: 4 voices (SATB)
+  soloists:
+  - 4 voices
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Gl%C3%BCck_zum_neuen_Jahr%2C_WoO_165_%28Beethoven%2C_Ludwig_van%29

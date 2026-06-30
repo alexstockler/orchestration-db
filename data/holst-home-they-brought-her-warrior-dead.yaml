@@ -1,0 +1,15 @@
+id: holst-home-they-brought-her-warrior-dead
+work:
+  composer: Holst, Gustav
+  title: Home they brought her warrior dead
+  ids:
+    imslp: Home they brought her warrior dead, H.81 (Holst, Gustav)
+  year: 1905
+formula: ''
+instrumentation:
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Home_they_brought_her_warrior_dead%2C_H.81_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SSAA)'

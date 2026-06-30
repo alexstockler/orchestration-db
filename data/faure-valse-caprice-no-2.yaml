@@ -1,0 +1,16 @@
+id: faure-valse-caprice-no-2
+work:
+  composer: Fauré, Gabriel
+  title: Valse-Caprice No.2
+  ids:
+    imslp: Valse-Caprice No.2, Op.38 (Fauré, Gabriel)
+  year: 1884
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Valse-Caprice_No.2%2C_Op.38_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

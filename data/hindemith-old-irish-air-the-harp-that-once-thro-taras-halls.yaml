@@ -1,0 +1,24 @@
+id: hindemith-old-irish-air-the-harp-that-once-thro-taras-halls
+work:
+  composer: Hindemith, Paul
+  title: 'Old Irish Air: "The harp that once thro’ Tara’s halls"'
+  ids:
+    imslp: Old Irish Air (Hindemith, Paul)
+  year: 1940
+formula: pf hp str
+instrumentation:
+  keyboards:
+  - instrument: piano
+  harp: 1
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Old_Irish_Air_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, piano, harp, strings'
+duration_minutes: 3

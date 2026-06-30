@@ -9,7 +9,8 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: voice
+  soloists:
+  - voice
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Des_Krieger%27s_Abschied%2C_WoO_143_%28Beethoven%2C_Ludwig_van%29

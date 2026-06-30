@@ -1,0 +1,16 @@
+id: franck-rebecca
+work:
+  composer: Franck, César
+  title: Rébecca
+  ids:
+    imslp: Rébecca (Franck, César)
+  year: 1880
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/R%C3%A9becca_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, chorus, orchestra'

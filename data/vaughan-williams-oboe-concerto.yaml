@@ -1,0 +1,17 @@
+id: vaughan-williams-oboe-concerto
+work:
+  composer: Vaughan Williams, Ralph
+  title: Oboe Concerto
+  ids:
+    imslp: Oboe Concerto (Vaughan Williams, Ralph)
+  year: 1944
+formula: 0100 0000 str
+instrumentation:
+  oboe: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oboe_Concerto_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, strings'
+duration_minutes: 20

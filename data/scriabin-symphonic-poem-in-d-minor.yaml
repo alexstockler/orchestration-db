@@ -1,0 +1,17 @@
+id: scriabin-symphonic-poem-in-d-minor
+work:
+  composer: Scriabin, Aleksandr
+  title: Symphonic Poem in D minor
+  ids:
+    imslp: Symphonic Poem in D minor, WoO 24 (Scriabin, Aleksandr)
+  year: 1896
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphonic_Poem_in_D_minor%2C_WoO_24_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 pianos'

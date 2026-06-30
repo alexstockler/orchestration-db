@@ -1,0 +1,16 @@
+id: bizet-romances-sans-paroles-chansons-melodies
+work:
+  composer: Bizet, Georges
+  title: Romances sans paroles, Chansons-Mélodies.
+  ids:
+    imslp: Romances sans paroles (Bizet, Georges)
+  year: 1886
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romances_sans_paroles_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,16 @@
+id: bach-cello-suite-no-4
+work:
+  composer: Bach, Johann Sebastian
+  title: Cello Suite No.4
+  ids:
+    imslp: Cello Suite No.4 in E-flat major, BWV 1010 (Bach, Johann Sebastian)
+  year: 1717
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Suite_No.4_in_E-flat_major%2C_BWV_1010_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: cello'

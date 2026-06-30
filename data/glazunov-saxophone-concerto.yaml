@@ -1,0 +1,19 @@
+id: glazunov-saxophone-concerto
+work:
+  composer: Glazunov, Aleksandr
+  title: Saxophone Concerto
+  ids:
+    imslp: Saxophone Concerto, Op.109 (Glazunov, Aleksandr)
+  year: 1934
+formula: str
+instrumentation:
+  strings: str
+  saxophones:
+  - instrument: alto_sax
+    count: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Saxophone_Concerto%2C_Op.109_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: alto saxophone, strings'
+duration_minutes: 14

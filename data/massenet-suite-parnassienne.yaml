@@ -1,0 +1,45 @@
+id: massenet-suite-parnassienne
+work:
+  composer: Massenet, Jules
+  title: Suite parnassienne
+  ids:
+    imslp: Suite parnassienne (Massenet, Jules)
+  year: 1902
+formula: 3[1.2.pic] 3[1.2.Eh] 3[1.2.bcl] 2 4341 tmp+1 5hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - instrument: piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 4
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+  harp: 5
+  strings: str
+  soloists:
+  - Narrator (Le poète)
+  - 2 mixed choruses (SATB/SATB)
+  solo_strings:
+    violin: 6
+  additional_raw: sarrusophone | Offstage -- 9 trumpets (C)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_parnassienne_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Narrator (Le poète); 2 mixed choruses (SATB/SATB), Orchestra:
+    2 flutes, piccolo, 2 oboes, English horn, 2 clarinets (B), bass clarinet (B),
+    2 bassoons, sarrusophone, 4 horns (F), 3 trumpets (C), 4 trombones, tuba, timpani,
+    percussion, 4 harps, strings :Offstage -- 9 trumpets (C), harp, 6 violins'

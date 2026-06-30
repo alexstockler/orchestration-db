@@ -1,0 +1,18 @@
+id: delibes-serenade-de-ruy-blas
+work:
+  composer: Delibes, Léo
+  title: Sérénade de Ruy-Blas
+  ids:
+    imslp: Sérénade de Ruy-Blas (Delibes, Léo)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+  additional_raw: SA or TB Chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/S%C3%A9r%C3%A9nade_de_Ruy-Blas_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, SA or TB Chorus, Piano'

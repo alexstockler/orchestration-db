@@ -1,0 +1,48 @@
+id: scriabin-symphony-no-3
+work:
+  composer: Scriabin, Aleksandr
+  title: Symphony No.3
+  ids:
+    imslp: Symphony No.3, Op.43 (Scriabin, Aleksandr)
+  year: 1902
+formula: 4[pic.2.3.4] 4[1.2.3.Eh] 4[1.2.3.bcl] 4[1.2.3.cbn] 8531 tmp 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 8
+  trumpet: 5
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - tam-tam
+    - bells
+  harp: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.3%2C_Op.43_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: :piccolo, 3 flutes, 3 oboes, English horn, 3 clarinets
+    (B), ::bass clarinet (B), 3 bassoons, contrabassoon :8 horns (F), 5 trumpets (B),
+    3 trombones, tuba, timpani, tam-tam, bells, 2 harps, strings'
+duration_minutes: 50

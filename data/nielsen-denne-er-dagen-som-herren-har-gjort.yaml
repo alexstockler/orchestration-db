@@ -1,0 +1,18 @@
+id: nielsen-denne-er-dagen-som-herren-har-gjort
+work:
+  composer: Nielsen, Carl
+  title: Denne er Dagen, som Herren har gjort
+  ids:
+    imslp: Denne er Dagen, som Herren har gjort, CNW 155 (Nielsen, Carl)
+  year: 1913
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Denne_er_Dagen%2C_som_Herren_har_gjort%2C_CNW_155_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

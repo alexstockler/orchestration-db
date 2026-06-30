@@ -9,7 +9,9 @@ formula: 1001 0000
 instrumentation:
   flute: 1
   bassoon: 1
-  additional_raw: 2 violins | continuo
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Chamber_Concerto_in_G_minor%2C_RV_104_%28Vivaldi%2C_Antonio%29

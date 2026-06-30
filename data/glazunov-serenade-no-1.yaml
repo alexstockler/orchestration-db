@@ -1,0 +1,29 @@
+id: glazunov-serenade-no-1
+work:
+  composer: Glazunov, Aleksandr
+  title: Serenade No.1
+  ids:
+    imslp: Serenade No.1, Op.7 (Glazunov, Aleksandr)
+  year: 1883
+formula: 2 2[1.Eh] 2 2 4200 tmp str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tambourine
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Serenade_No.1%2C_Op.7_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, oboe, English horn, 2 clarinets, 2 bassoons,,
+    4 horns, 2 trumpets (or 2 cornets), timpani, triangle, tambourine, strings'

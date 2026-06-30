@@ -1,0 +1,16 @@
+id: bartok-3-hungarian-folksongs-from-csik
+work:
+  composer: Bartók, Béla
+  title: 3 Hungarian Folksongs from Csik
+  ids:
+    imslp: 3 Hungarian Folksongs from Csík, Sz.35a (Bartók, Béla)
+  year: 1907
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Hungarian_Folksongs_from_Cs%C3%ADk%2C_Sz.35a_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

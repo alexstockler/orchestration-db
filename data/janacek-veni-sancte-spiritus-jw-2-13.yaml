@@ -1,0 +1,15 @@
+id: janacek-veni-sancte-spiritus-jw-2-13
+work:
+  composer: Janáček, Leoš
+  title: Veni Sancte Spiritus, JW 2/13
+  ids:
+    imslp: Veni Sancte Spiritus, JW 2/13 (Janáček, Leoš)
+  year: 1903
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Veni_Sancte_Spiritus%2C_JW_2/13_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

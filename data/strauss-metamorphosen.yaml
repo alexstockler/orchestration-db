@@ -7,7 +7,11 @@ work:
   year: 1945
 formula: ''
 instrumentation:
-  additional_raw: 10 violins | 5 violas | 5 cellos | 3 basses
+  solo_strings:
+    violin: 10
+    viola: 5
+    cello: 5
+  additional_raw: 3 basses
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Metamorphosen%2C_TrV_290_%28Strauss%2C_Richard%29

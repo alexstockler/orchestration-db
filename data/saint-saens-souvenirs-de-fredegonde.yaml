@@ -8,7 +8,8 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: cello
+  solo_strings:
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Souvenirs_de_Fr%C3%A9d%C3%A9gonde_%28Saint-Sa%C3%ABns%2C_Camille%29

@@ -1,0 +1,18 @@
+id: massenet-l-ame-des-fleurs
+work:
+  composer: Massenet, Jules
+  title: L'âme des fleurs
+  ids:
+    imslp: L'âme des fleurs (Massenet, Jules)
+  year: 1891
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27%C3%A2me_des_fleurs_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

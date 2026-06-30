@@ -1,0 +1,14 @@
+id: mussorgsky-the-angel-cried-out
+work:
+  composer: Mussorgsky, Modest
+  title: The Angel Cried Out
+  ids:
+    imslp: The Angel Cried Out (Mussorgsky, Modest)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Angel_Cried_Out_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

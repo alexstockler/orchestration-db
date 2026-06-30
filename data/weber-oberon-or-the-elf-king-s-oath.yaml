@@ -1,0 +1,60 @@
+id: weber-oberon-or-the-elf-king-s-oath
+work:
+  composer: Weber, Carl Maria von
+  title: Oberon, or The Elf-King's Oath
+  ids:
+    imslp: Oberon, J.306 (Weber, Carl Maria von)
+  year: 1825
+formula: 6[pic.pic.3.4.5.6] 2 4 4 4430 tmp gtr
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - instrument: piccolo
+  - {}
+  - {}
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 4
+  bassoon: 4
+  horn: 4
+  trumpet: 4
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - bass drum
+    - military drum
+    - triangle
+    - tambourine
+  extras:
+  - instrument: guitar
+  soloists:
+  - Oberon (tenor)
+  - Titania (actress)
+  - Puck (mezzo-soprano)
+  - Sir John of Bordeaux (tenor)
+  - Sherasmin (baritone)
+  - Rezia (soprano)
+  - Fatima (mezzo-soprano)
+  - Two Mermaids (mezzo-soprano) Mixed Chorus (SATB) :Faries
+  - ladies
+  - knights
+  - guards
+  - slaves
+  - mermaids etc.
+  additional_raw: 2oboes
+  offstage:
+  - strings
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oberon%2C_J.306_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Oberon (tenor), Titania (actress), Puck (mezzo-soprano),
+    Sir John of Bordeaux (tenor), Sherasmin (baritone), Rezia (soprano), Fatima (mezzo-soprano),
+    Two Mermaids (mezzo-soprano) Mixed Chorus (SATB) :Faries, ladies, knights, guards,
+    slaves, mermaids etc. Orchestra :2 piccolos, 2 flutes, 2oboes, 2 clarinets, 2
+    bassoons, 4 horns, 4 trumpets, 3 trombones, cymbals, bass drum, military drum,
+    triangle, tambourine, timpani, guitar, strings Off-stage Instruments :2 flutes,
+    2 oboes, 2 clarinets, 2 bassoons, cymbals, bass drum, triangle'

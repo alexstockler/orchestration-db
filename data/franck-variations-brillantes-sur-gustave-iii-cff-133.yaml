@@ -1,0 +1,16 @@
+id: franck-variations-brillantes-sur-gustave-iii-cff-133
+work:
+  composer: Franck, César
+  title: Variations brillantes sur 'Gustave III', CFF 133
+  ids:
+    imslp: Variations brillantes sur 'Gustave III', CFF 133 (Franck, César)
+  year: 1834
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variations_brillantes_sur_%27Gustave_III%27%2C_CFF_133_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: piano, orchestra'

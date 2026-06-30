@@ -9,7 +9,9 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: voice | unison chorus
+  soloists:
+  - voice
+  additional_raw: unison chorus
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Kriegslied_der_%C3%96sterreicher%2C_WoO_122_%28Beethoven%2C_Ludwig_van%29

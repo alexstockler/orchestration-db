@@ -8,7 +8,8 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: voice
+  soloists:
+  - voice
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Im_wundersch%C3%B6nen_Monat_Mai%2C_GMW_F51b_%28Mahler%2C_Gustav%29

@@ -1,0 +1,17 @@
+id: offenbach-genevieve-de-brabant
+work:
+  composer: Offenbach, Jacques
+  title: Geneviève de Brabant
+  ids:
+    imslp: Geneviève de Brabant (Offenbach, Jacques)
+  year: 1859
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Genevi%C3%A8ve_de_Brabant_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

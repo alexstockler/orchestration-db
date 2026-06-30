@@ -1,0 +1,17 @@
+id: bizet-djamileh
+work:
+  composer: Bizet, Georges
+  title: Djamileh
+  ids:
+    imslp: Djamileh (Bizet, Georges)
+  year: 1871
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Djamileh_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

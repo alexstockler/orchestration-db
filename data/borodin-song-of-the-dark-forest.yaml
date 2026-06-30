@@ -1,0 +1,18 @@
+id: borodin-song-of-the-dark-forest
+work:
+  composer: Borodin, Aleksandr
+  title: Song of the Dark Forest
+  ids:
+    imslp: Song of the Dark Forest (Borodin, Aleksandr)
+  year: 1868
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Song_of_the_Dark_Forest_%28Borodin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

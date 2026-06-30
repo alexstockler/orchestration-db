@@ -8,8 +8,9 @@ work:
 formula: 0000 0100
 instrumentation:
   trumpet: 1
-  additional_raw: 2 soprano parts (1st is solo, 2nd is unison chorus) | 2 violins
-    | continuo
+  solo_strings:
+    violin: 2
+  additional_raw: 2 soprano parts (1st is solo, 2nd is unison chorus) | continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Diana_cacciatrice%2C_HWV_79_%28Handel%2C_George_Frideric%29

@@ -9,7 +9,9 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: violin | cello
+  solo_strings:
+    violin: 1
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Piano_Trio_in_D_major_%27Korpo%27%2C_JS_209_%28Sibelius%2C_Jean%29

@@ -1,0 +1,18 @@
+id: massenet-come-into-the-garden-maud
+work:
+  composer: Massenet, Jules
+  title: Come into the Garden, Maud
+  ids:
+    imslp: Come into the Garden, Maud (Massenet, Jules)
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Come_into_the_Garden%2C_Maud_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

@@ -1,0 +1,18 @@
+id: gounod-solitude
+work:
+  composer: Gounod, Charles
+  title: Solitude
+  ids:
+    imslp: Solitude, CG 443 (Gounod, Charles)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Solitude%2C_CG_443_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

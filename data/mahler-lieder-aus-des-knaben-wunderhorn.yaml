@@ -5,7 +5,7 @@ work:
   ids:
     imslp: Des Knaben Wunderhorn, GMW 21-29, 32-36, 38 (Mahler, Gustav)
   year: 1892
-formula: 3[pic.2.3] 3[1.2.Eh] 2 3 4211 tmp hp str
+formula: 3[pic.2.3] 3[1.2.Eh] 3[Ebcl.2.3] 3 4211 tmp hp str
 instrumentation:
   flute:
   - instrument: piccolo
@@ -15,7 +15,10 @@ instrumentation:
   - {}
   - {}
   - instrument: english_horn
-  clarinet: 2
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
   bassoon: 3
   horn: 4
   trumpet: 2
@@ -29,9 +32,9 @@ instrumentation:
     - cymbals
     - tam-tam
     - triangle
+    - rute
   harp: 1
   strings: str
-  additional_raw: piccolo clarinet | rute
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Des_Knaben_Wunderhorn%2C_GMW_21-29%2C_32-36%2C_38_%28Mahler%2C_Gustav%29

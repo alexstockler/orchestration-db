@@ -11,7 +11,8 @@ instrumentation:
   clarinet: 1
   soloists:
   - mezzo-soprano
-  additional_raw: viola
+  solo_strings:
+    viola: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/3_Songs_from_William_Shakespeare%2C_K081_%28Stravinsky%2C_Igor%29

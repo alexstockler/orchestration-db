@@ -1,0 +1,16 @@
+id: offenbach-tarentelle
+work:
+  composer: Offenbach, Jacques
+  title: Tarentelle
+  ids:
+    imslp: Tarentelle (Offenbach, Jacques)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice [untexted]
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tarentelle_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: voice [untexted], piano'

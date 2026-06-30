@@ -1,0 +1,19 @@
+id: nielsen-string-quintet-in-g-major
+work:
+  composer: Nielsen, Carl
+  title: String Quintet in G major
+  ids:
+    imslp: String Quintet, CNW 59 (Nielsen, Carl)
+  year: 1888
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 2
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quintet%2C_CNW_59_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, 2 violas, cello'
+duration_minutes: 25

@@ -1,0 +1,18 @@
+id: gounod-matinee-dans-la-montagne
+work:
+  composer: Gounod, Charles
+  title: Matinée dans la montagne
+  ids:
+    imslp: Matinée dans la montagne, CG 190 (Gounod, Charles)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: mixed chorus
+  additional_raw: 4 vocal soloists (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Matin%C3%A9e_dans_la_montagne%2C_CG_190_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 vocal soloists (SATB), mixed chorus, piano'

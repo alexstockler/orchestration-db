@@ -1,0 +1,20 @@
+id: holst-lyric-movement
+work:
+  composer: Holst, Gustav
+  title: Lyric Movement
+  ids:
+    imslp: Lyric Movement, H.191 (Holst, Gustav)
+  year: 1933
+formula: 1111 0000 str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lyric_Movement%2C_H.191_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, clarinet, bassoon, strings'
+duration_minutes: 11

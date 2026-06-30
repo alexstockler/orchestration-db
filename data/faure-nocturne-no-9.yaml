@@ -1,0 +1,16 @@
+id: faure-nocturne-no-9
+work:
+  composer: Fauré, Gabriel
+  title: Nocturne No.9
+  ids:
+    imslp: Nocturne No.9, Op.97 (Fauré, Gabriel)
+  year: 1908
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nocturne_No.9%2C_Op.97_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

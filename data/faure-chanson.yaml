@@ -1,0 +1,18 @@
+id: faure-chanson
+work:
+  composer: Fauré, Gabriel
+  title: Chanson
+  ids:
+    imslp: Chanson, Op.94 (Fauré, Gabriel)
+  year: 1906
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chanson%2C_Op.94_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

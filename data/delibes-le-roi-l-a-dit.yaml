@@ -1,0 +1,17 @@
+id: delibes-le-roi-l-a-dit
+work:
+  composer: Delibes, Léo
+  title: Le roi l'a dit
+  ids:
+    imslp: Le roi l'a dit (Delibes, Léo)
+  year: 1873
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_roi_l%27a_dit_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

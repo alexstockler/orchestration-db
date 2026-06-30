@@ -1,0 +1,16 @@
+id: janacek-idyla
+work:
+  composer: Janáček, Leoš
+  title: Idyla
+  ids:
+    imslp: Idyla (Janáček, Leoš)
+  year: 1878
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Idyla_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'
+duration_minutes: 30

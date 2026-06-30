@@ -1,0 +1,18 @@
+id: gounod-heureux-sera-le-jour
+work:
+  composer: Gounod, Charles
+  title: Heureux sera le jour
+  ids:
+    imslp: Heureux sera le jour, CG 388 (Gounod, Charles)
+  year: 1871
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Heureux_sera_le_jour%2C_CG_388_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

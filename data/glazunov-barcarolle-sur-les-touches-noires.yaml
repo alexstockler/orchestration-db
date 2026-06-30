@@ -1,0 +1,16 @@
+id: glazunov-barcarolle-sur-les-touches-noires
+work:
+  composer: Glazunov, Aleksandr
+  title: Barcarolle sur les touches noires
+  ids:
+    imslp: Barcarolle sur les touches noires (Glazunov, Aleksandr)
+  year: 1887
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Barcarolle_sur_les_touches_noires_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

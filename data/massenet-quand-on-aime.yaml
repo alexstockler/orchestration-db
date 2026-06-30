@@ -1,0 +1,18 @@
+id: massenet-quand-on-aime
+work:
+  composer: Massenet, Jules
+  title: Quand on aime
+  ids:
+    imslp: Quand on aime (Massenet, Jules)
+  year: 1886
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Quand_on_aime_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

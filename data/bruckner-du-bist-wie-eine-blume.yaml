@@ -7,7 +7,8 @@ work:
   year: 1861
 formula: ''
 instrumentation:
-  additional_raw: 4 voices (SATB)
+  soloists:
+  - 4 voices
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Du_bist_wie_eine_Blume%2C_WAB_64_%28Bruckner%2C_Anton%29

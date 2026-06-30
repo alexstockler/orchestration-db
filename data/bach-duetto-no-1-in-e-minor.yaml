@@ -1,0 +1,15 @@
+id: bach-duetto-no-1-in-e-minor
+work:
+  composer: Bach, Johann Sebastian
+  title: Duetto No.1 in E minor
+  ids:
+    imslp: Duetto No.1 in E minor, BWV 802 (Bach, Johann Sebastian)
+  year: 1739
+formula: ''
+instrumentation:
+  additional_raw: keyboard (organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Duetto_No.1_in_E_minor%2C_BWV_802_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard (organ)'

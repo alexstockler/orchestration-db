@@ -1,0 +1,14 @@
+id: respighi-ballata-delle-gnomidi
+work:
+  composer: Respighi, Ottorino
+  title: Ballata delle Gnomidi
+  ids:
+    imslp: Ballata delle gnomidi (Respighi, Ottorino)
+  year: 1920
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ballata_delle_gnomidi_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

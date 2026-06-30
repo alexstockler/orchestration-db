@@ -49,7 +49,9 @@ instrumentation:
   - Prilepa / Прилепа (soprano)
   - Milovzor / Милозвор (contralto)
   - Zlatogor / Златогор (baritone) Mixed Chorus (SATB)
-  additional_raw: strings Offstage | children's trumpets
+  additional_raw: children's trumpets
+  offstage:
+  - strings
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/The_Queen_of_Spades%2C_Op.68_%28Tchaikovsky%2C_Pyotr%29

@@ -1,0 +1,15 @@
+id: gounod-stabat-mater
+work:
+  composer: Gounod, Charles
+  title: Stabat mater
+  ids:
+    imslp: Stabat mater, CG 186 (Gounod, Charles)
+  year: 1867
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Stabat_mater%2C_CG_186_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), orchestra'

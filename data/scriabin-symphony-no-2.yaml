@@ -1,0 +1,34 @@
+id: scriabin-symphony-no-2
+work:
+  composer: Scriabin, Aleksandr
+  title: Symphony No.2
+  ids:
+    imslp: Symphony No.2, Op.29 (Scriabin, Aleksandr)
+  year: 1901
+formula: 3[1.2.3/pic] 2 3 2 4331 tmp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 3
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - tam-tam
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.2%2C_Op.29_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: 3 flutes (3rd also piccolo), 2 oboes, 3 clarinets
+    (A, B), 2 bassoons, 4 horns (F), 3 trumpets (B), 3 trombones, tuba, timpani, tam-tam,
+    strings'
+duration_minutes: 50

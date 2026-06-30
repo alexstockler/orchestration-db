@@ -9,7 +9,8 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: voice
+  soloists:
+  - voice
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/3_M%C3%A9lodies_de_Verlaine%2C_CD_85_%28Debussy%2C_Claude%29

@@ -1,0 +1,19 @@
+id: weber-trio-in-g-minor
+work:
+  composer: Weber, Carl Maria von
+  title: Trio in G minor
+  ids:
+    imslp: Trio in G minor, Op.63 (Weber, Carl Maria von)
+  year: 1818
+formula: 1000 0000 pf
+instrumentation:
+  flute: 1
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_in_G_minor%2C_Op.63_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, cello, piano'

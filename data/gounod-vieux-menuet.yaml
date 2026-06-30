@@ -1,0 +1,14 @@
+id: gounod-vieux-menuet
+work:
+  composer: Gounod, Charles
+  title: Vieux menuet
+  ids:
+    imslp: Vieux menuet, CG 567 (Gounod, Charles)
+  year: 1888
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vieux_menuet%2C_CG_567_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: string orchestra'

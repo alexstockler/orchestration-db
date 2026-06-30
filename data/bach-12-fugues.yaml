@@ -1,0 +1,16 @@
+id: bach-12-fugues
+work:
+  composer: Bach, Johann Sebastian
+  title: 12 Fugues
+  ids:
+    imslp: Fugue in E minor, BWV 962 (Bach, Johann Sebastian)
+  year: 1780
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_E_minor%2C_BWV_962_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord (or organ)'

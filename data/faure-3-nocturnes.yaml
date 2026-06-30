@@ -1,0 +1,16 @@
+id: faure-3-nocturnes
+work:
+  composer: Fauré, Gabriel
+  title: 3 Nocturnes
+  ids:
+    imslp: Nocturne No.1, Op.33 No.1 (Fauré, Gabriel)
+  year: 1875
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nocturne_No.1%2C_Op.33_No.1_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

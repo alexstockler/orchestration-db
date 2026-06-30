@@ -7,7 +7,10 @@ work:
 formula: str
 instrumentation:
   strings: str
-  additional_raw: violin | 2 cellos | continuo
+  solo_strings:
+    violin: 1
+    cello: 2
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Concerto_in_C_major%2C_RV_561_%28Vivaldi%2C_Antonio%29

@@ -1,0 +1,16 @@
+id: delibes-rigaudon
+work:
+  composer: Delibes, Léo
+  title: Rigaudon
+  ids:
+    imslp: Rigaudon (Delibes, Léo)
+  year: 1888
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rigaudon_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

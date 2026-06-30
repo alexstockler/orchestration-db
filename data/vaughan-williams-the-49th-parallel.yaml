@@ -1,0 +1,14 @@
+id: vaughan-williams-the-49th-parallel
+work:
+  composer: Vaughan Williams, Ralph
+  title: The 49th Parallel
+  ids:
+    imslp: The 49th Parallel (Vaughan Williams, Ralph)
+  year: 1940
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_49th_Parallel_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

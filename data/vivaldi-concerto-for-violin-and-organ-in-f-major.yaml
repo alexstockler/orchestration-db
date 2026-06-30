@@ -9,7 +9,9 @@ instrumentation:
   keyboards:
   - instrument: organ
   strings: str
-  additional_raw: violin | continuo
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Concerto_for_Violin_and_Organ_in_F_major%2C_RV_767_%28Vivaldi%2C_Antonio%29

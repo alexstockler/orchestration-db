@@ -1,0 +1,25 @@
+id: nielsen-cantata-for-the-fiftieth-anniversary-of-the-society-for-the-education-of
+work:
+  composer: Nielsen, Carl
+  title: Cantata for the Fiftieth Anniversary of the Society for the Education of
+    Young Merchants
+  ids:
+    imslp: Foreningen til unge Handelsmænds Uddannelses Cantata, CNW 114 (Nielsen,
+      Carl)
+  year: 1930
+formula: 0202 2000 str
+instrumentation:
+  oboe: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+  soloists:
+  - reciter
+  - baritone
+  - mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Foreningen_til_unge_Handelsm%C3%A6nds_Uddannelses_Cantata%2C_CNW_114_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: reciter, baritone, mixed chorus (SATB), Orchestra:
+    2 oboes, 2 bassoons, 2 horns (F), strings'

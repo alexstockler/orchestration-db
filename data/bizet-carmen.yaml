@@ -1,0 +1,63 @@
+id: bizet-carmen
+work:
+  composer: Bizet, Georges
+  title: Carmen
+  ids:
+    imslp: Carmen (Bizet, Georges)
+  year: 1873
+formula: 2[1.2/pic] 2 2 2 4 4[cnt.cnt.cnt.cnt] 5 0 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 5
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - bass drum
+    - cymbals
+    - snare drum
+  harp: 1
+  strings: str
+  soloists:
+  - Carmen (mezzo-soprano)
+  - Don José (tenor)
+  - Micaëla (soprano)
+  - Escamillo (baritone)
+  - Moralès (baritone)
+  - Zuniga (bass)
+  - Andrès (tenor)
+  - Le Dancaïre (baritone)
+  - Le Remendado (tenor)
+  - Frasquita (soprano)
+  - Mercédès (mezzo)
+  - Un bohémien (bass)
+  - Une marchande d'oranges (alto) Mixed Chorus (SATB) :Officiers
+  - Dragons
+  - Cigarières
+  - Bohémiennes
+  - Bohémiens
+  - Marchands Ambulants Pit-
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Carmen_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Carmen (mezzo-soprano), Don José (tenor), Micaëla
+    (soprano), Escamillo (baritone), Moralès (baritone), Zuniga (bass), Andrès (tenor),
+    Le Dancaïre (baritone), Le Remendado (tenor), Frasquita (soprano), Mercédès (mezzo),
+    Un bohémien (bass), Une marchande d''oranges (alto) Mixed Chorus (SATB) :Officiers,
+    Dragons, Cigarières, Bohémiennes,, Bohémiens, Marchands Ambulants Pit-Orchestra
+    :2 flutes (2nd also piccolo), 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 cornets,
+    3 trombones, timpani, triangle, bass drum, cymbals, snare drum, harp, strings
+    '' :2 cornets, 2 trombones (from pit)'

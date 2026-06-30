@@ -1,0 +1,17 @@
+id: scriabin-piano-sonata-no-8
+work:
+  composer: Scriabin, Aleksandr
+  title: Piano Sonata No.8
+  ids:
+    imslp: Piano Sonata No.8, Op.66 (Scriabin, Aleksandr)
+  year: 1913
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.8%2C_Op.66_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 13

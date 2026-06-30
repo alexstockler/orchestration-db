@@ -1,0 +1,15 @@
+id: holst-nunc-dimittis
+work:
+  composer: Holst, Gustav
+  title: Nunc Dimittis
+  ids:
+    imslp: Nunc dimittis, H.127 (Holst, Gustav)
+  year: 1915
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nunc_dimittis%2C_H.127_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

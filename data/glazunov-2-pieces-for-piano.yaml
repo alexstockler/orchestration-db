@@ -1,0 +1,16 @@
+id: glazunov-2-pieces-for-piano
+work:
+  composer: Glazunov, Aleksandr
+  title: 2 Pieces for Piano
+  ids:
+    imslp: 2 Pieces for Piano, Op.22 (Glazunov, Aleksandr)
+  year: 1889
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Pieces_for_Piano%2C_Op.22_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

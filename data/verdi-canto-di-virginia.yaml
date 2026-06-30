@@ -1,0 +1,16 @@
+id: verdi-canto-di-virginia
+work:
+  composer: Verdi, Giuseppe
+  title: Canto di Virginia
+  ids:
+    imslp: Introduzione, Andante E Tema Con Variazioni (Verdi, Giuseppe)
+  year: 1837
+formula: 0100 0000
+instrumentation:
+  oboe: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Introduzione%2C_Andante_E_Tema_Con_Variazioni_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, orchestra'
+duration_minutes: 12

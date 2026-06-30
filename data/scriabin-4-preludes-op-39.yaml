@@ -1,0 +1,16 @@
+id: scriabin-4-preludes-op-39
+work:
+  composer: Scriabin, Aleksandr
+  title: 4 Preludes, Op.39
+  ids:
+    imslp: 4 Preludes, Op.39 (Scriabin, Aleksandr)
+  year: 1903
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Preludes%2C_Op.39_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano Solo'

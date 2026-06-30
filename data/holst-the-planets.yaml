@@ -1,0 +1,68 @@
+id: holst-the-planets
+work:
+  composer: Holst, Gustav
+  title: The Planets
+  ids:
+    imslp: The Planets, Op.32 (Holst, Gustav)
+  year: 1914
+formula: 4[pic.2.3.afl] 4[1.2.3.Eh] 4[1.2.3.bcl] 4[1.2.3.cbn] 6 4 3 2[euph.2] tmp
+  cel org 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  - instrument: alto_flute
+  oboe:
+  - {}
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 6
+  trumpet: 4
+  trombone: 3
+  tuba:
+  - instrument: euphonium
+  - {}
+  percussion:
+    timpani: 6
+    instruments:
+    - triangle
+    - side drum
+    - tambourine
+    - cymbals
+    - bass drum
+    - gong
+    - xylophone
+    - bells
+    - glockenspiel
+  keyboards:
+  - instrument: celesta
+  - instrument: organ
+  harp: 2
+  strings: str
+  soloists:
+  - SSA
+  - SSA
+  additional_raw: 'unknown doubling in oboe: bass oboe'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Planets%2C_Op.32_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: Female Chorus (last movement only) :SSA, SSA Orchestra
+    :piccolo (also flute), 2 flutes, alto flute (also flute, piccolo), ::3 oboes (3rd
+    also bass oboe), English horn, 3 clarinets,, bass clarinet, 3 bassoons, contrabassoon
+    :6 horns, 4 trumpets, 3 trombones, euphonium, tuba, 6 timpani (2 players), triangle,
+    side drum, tambourine, , cymbals, bass drum, gong, xylophone, bells, glockenspiel,,
+    celesta, 2 harps, organ, strings'
+duration_minutes: 52

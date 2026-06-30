@@ -1,0 +1,15 @@
+id: nielsen-aftenstemning
+work:
+  composer: Nielsen, Carl
+  title: Aftenstemning
+  ids:
+    imslp: Aftenstemning, CNW 359 (Nielsen, Carl)
+  year: 1908
+formula: ''
+instrumentation:
+  additional_raw: mens choir (TTBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aftenstemning%2C_CNW_359_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: mens choir (TTBB)'

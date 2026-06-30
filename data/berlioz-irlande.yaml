@@ -1,0 +1,17 @@
+id: berlioz-irlande
+work:
+  composer: Berlioz, Hector
+  title: Irlande
+  ids:
+    imslp: Irlande, H 38 (Berlioz, Hector)
+  year: 1829
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: male or mixed-voice chorus | and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Irlande%2C_H_38_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: voice(s), male or mixed-voice chorus, and piano'

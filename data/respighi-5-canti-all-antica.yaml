@@ -1,0 +1,18 @@
+id: respighi-5-canti-all-antica
+work:
+  composer: Respighi, Ottorino
+  title: 5 Canti all'antica
+  ids:
+    imslp: 5 Canti all'antica (Respighi, Ottorino)
+  year: 1906
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Canti_all%27antica_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

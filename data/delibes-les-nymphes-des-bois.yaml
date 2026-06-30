@@ -1,0 +1,16 @@
+id: delibes-les-nymphes-des-bois
+work:
+  composer: Delibes, Léo
+  title: Les nymphes des bois
+  ids:
+    imslp: Les nymphes des bois (Delibes, Léo)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: SA Chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_nymphes_des_bois_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: SA Chorus, Piano'

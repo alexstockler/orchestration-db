@@ -1,0 +1,18 @@
+id: mussorgsky-eremushka-s-lullaby
+work:
+  composer: Mussorgsky, Modest
+  title: Eremushka's Lullaby
+  ids:
+    imslp: Eremushka's Lullaby (Mussorgsky, Modest)
+  year: 1868
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Eremushka%27s_Lullaby_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,19 @@
+id: smetana-solemn-prelude-on-the-occasion-of-laying-the-foundation-stone-for-the-na
+work:
+  composer: Smetana, Bedřich
+  title: Solemn Prelude on the Occasion of Laying the Foundation Stone for the National
+    Theatre
+  ids:
+    imslp: Slavnostní předehra, JB 1:95 (Smetana, Bedřich)
+  year: 1868
+formula: 1perc str
+instrumentation:
+  percussion:
+    players: 1
+  strings: str
+  additional_raw: 3-2-2-2 4-4-3-1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Slavnostn%C3%AD_p%C5%99edehra%2C_JB_1%3A95_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: 3-2-2-2 4-4-3-1, Percussion, Strings'

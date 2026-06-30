@@ -1,0 +1,16 @@
+id: delibes-messe-breve
+work:
+  composer: Delibes, Léo
+  title: Messe brève
+  ids:
+    imslp: Messe brève (Delibes, Léo)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Messe_br%C3%A8ve_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SA), organ'

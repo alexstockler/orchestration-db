@@ -5,10 +5,13 @@ work:
   ids:
     imslp: Stabat Mater, Op.58 (Dvořák, Antonín)
   year: 1876
-formula: 2222 4231 tmp org str
+formula: 2 3[1.2.Eh] 2 2 4231 tmp org str
 instrumentation:
   flute: 2
-  oboe: 2
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
   clarinet: 2
   bassoon: 2
   horn: 4
@@ -20,7 +23,6 @@ instrumentation:
   keyboards:
   - instrument: organ
   strings: str
-  additional_raw: English horn*
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Stabat_Mater%2C_Op.58_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29

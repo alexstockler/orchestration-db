@@ -8,8 +8,10 @@ formula: 1100 0000
 instrumentation:
   flute: 1
   oboe: 1
-  additional_raw: 2 violins | viola | continuo | violin | viola | continuo | violin
-    | viola | continuo
+  solo_strings:
+    violin: 4
+    viola: 3
+  additional_raw: continuo | continuo | continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Quadro_Sonata_in_B-flat_major_%28Handel%2C_George_Frideric%29

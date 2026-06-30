@@ -1,0 +1,18 @@
+id: hindemith-horn-sonata
+work:
+  composer: Hindemith, Paul
+  title: Horn Sonata
+  ids:
+    imslp: Horn Sonata (Hindemith, Paul)
+  year: 1939
+formula: 0000 1000 pf
+instrumentation:
+  horn: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Horn_Sonata_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: horn (F), piano'
+duration_minutes: 17

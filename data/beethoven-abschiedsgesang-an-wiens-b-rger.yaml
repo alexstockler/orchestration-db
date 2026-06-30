@@ -9,7 +9,8 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: voice
+  soloists:
+  - voice
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Abschiedsgesang_an_Wiens_B%C3%BCrger%2C_WoO_121_%28Beethoven%2C_Ludwig_van%29

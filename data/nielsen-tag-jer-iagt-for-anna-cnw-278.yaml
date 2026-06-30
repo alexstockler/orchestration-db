@@ -1,0 +1,18 @@
+id: nielsen-tag-jer-iagt-for-anna-cnw-278
+work:
+  composer: Nielsen, Carl
+  title: Tag jer iagt for Anna, CNW 278
+  ids:
+    imslp: Tag jer iagt for Anna, CNW 278 (Nielsen, Carl)
+  year: 1886
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tag_jer_iagt_for_Anna%2C_CNW_278_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

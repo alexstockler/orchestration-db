@@ -1,0 +1,16 @@
+id: massenet-deux-pieces-pour-piano
+work:
+  composer: Massenet, Jules
+  title: Deux pièces pour piano
+  ids:
+    imslp: 2 Pièces pour piano (Massenet, Jules)
+  year: 1907
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Pi%C3%A8ces_pour_piano_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano solo'

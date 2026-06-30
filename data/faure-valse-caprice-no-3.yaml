@@ -1,0 +1,15 @@
+id: faure-valse-caprice-no-3
+work:
+  composer: Fauré, Gabriel
+  title: Valse Caprice No.3
+  ids:
+    imslp: Valse-Caprice No.3, Op.59 (Fauré, Gabriel)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Valse-Caprice_No.3%2C_Op.59_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

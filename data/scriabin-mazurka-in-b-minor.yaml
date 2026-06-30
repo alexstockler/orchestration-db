@@ -1,0 +1,16 @@
+id: scriabin-mazurka-in-b-minor
+work:
+  composer: Scriabin, Aleksandr
+  title: Mazurka in B minor
+  ids:
+    imslp: Mazurka in B minor (Scriabin, Aleksandr)
+  year: 1889
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mazurka_in_B_minor_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

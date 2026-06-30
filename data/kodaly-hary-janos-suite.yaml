@@ -1,0 +1,53 @@
+id: kodaly-hary-janos-suite
+work:
+  composer: Kodály, Zoltán
+  title: Háry János Suite
+  ids:
+    imslp: Háry János (suite) (Kodály, Zoltán)
+  year: 1926
+formula: 3 2 2[1.2/asx] 2 4 6[1.2.3.cnt.cnt.cnt] 3 1 cel pf cimbalom str
+instrumentation:
+  flute: 3
+  oboe: 2
+  clarinet:
+  - {}
+  - doublings:
+    - alto_sax
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  tuba: 1
+  percussion:
+    instruments:
+    - snare drum
+    - bass drum
+    - cymbals
+    - triangle
+    - tambourine
+    - tam-tam
+    - bells
+    - chimes
+    - xylophone
+  keyboards:
+  - instrument: celesta
+  - instrument: piano
+  extras:
+  - instrument: cimbalom
+  strings: str
+  additional_raw: 'unknown doubling in clarinet: e-flat clarinet-flat clarinet'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/H%C3%A1ry_J%C3%A1nos_%28suite%29_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (all also piccolo), 2 oboes,, 2 clarinets (, 1st
+    also E clarinet, 2nd also alto saxophone), 2 bassoons, 4 horns, 3 trumpets, 3
+    cornets, 3 trombones, tuba, snare drum, bass drum, cymbals, triangle, tambourine,
+    tam-tam, bells, chimes, xylophone, celesta, piano, cimbalom, strings'
+duration_minutes: 25

@@ -1,0 +1,18 @@
+id: gounod-soir-d-automne
+work:
+  composer: Gounod, Charles
+  title: Soir d'automne!
+  ids:
+    imslp: Soir d'automne!, CG 442 (Gounod, Charles)
+  year: 1896
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Soir_d%27automne%21%2C_CG_442_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

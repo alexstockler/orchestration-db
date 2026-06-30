@@ -1,0 +1,20 @@
+id: bach-concerto-for-2-harpsichords
+work:
+  composer: Bach, Johann Sebastian
+  title: Concerto for 2 Harpsichords
+  ids:
+    imslp: Concerto for 2 Harpsichords in C minor, BWV 1062 (Bach, Johann Sebastian)
+  year: 1736
+formula: hpd hpd str
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+  - instrument: harpsichord
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Harpsichords_in_C_minor%2C_BWV_1062_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 harpsichords, strings, continuo'
+duration_minutes: 15

@@ -1,0 +1,33 @@
+id: glazunov-mazurka
+work:
+  composer: Glazunov, Aleksandr
+  title: Mazurka
+  ids:
+    imslp: Mazurka, Op.18 (Glazunov, Aleksandr)
+  year: 1888
+formula: 3[pic.2.3] 2 2 2 4230 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - bass drum
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mazurka%2C_Op.18_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 2 clarinets (A), 2 bassoons,
+    4 horns (F), 2 trumpets (A), 3 trombones, timpani, triangle, cymbals, bass drum,
+    strings'

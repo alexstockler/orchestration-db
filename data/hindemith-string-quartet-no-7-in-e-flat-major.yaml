@@ -1,0 +1,19 @@
+id: hindemith-string-quartet-no-7-in-e-flat-major
+work:
+  composer: Hindemith, Paul
+  title: String Quartet No.7 in E-flat major
+  ids:
+    imslp: String Quartet No.7 (Hindemith, Paul)
+  year: 1944
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.7_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 16

@@ -1,0 +1,18 @@
+id: gounod-la-chanson-de-la-glu
+work:
+  composer: Gounod, Charles
+  title: La chanson de la glu
+  ids:
+    imslp: La chanson de la glu, CG 358 (Gounod, Charles)
+  year: 1883
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_chanson_de_la_glu%2C_CG_358_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

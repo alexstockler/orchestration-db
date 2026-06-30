@@ -1,0 +1,14 @@
+id: gounod-la-fete-de-jupiter
+work:
+  composer: Gounod, Charles
+  title: La fête de Jupiter
+  ids:
+    imslp: La fête de Jupiter (Gounod, Charles)
+  year: 1876
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_f%C3%AAte_de_Jupiter_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra (?)'

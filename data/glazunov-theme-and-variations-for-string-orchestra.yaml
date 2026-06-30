@@ -1,0 +1,14 @@
+id: glazunov-theme-and-variations-for-string-orchestra
+work:
+  composer: Glazunov, Aleksandr
+  title: Theme and Variations for String Orchestra
+  ids:
+    imslp: Theme and Variations for String Orchestra, Op.97 (Glazunov, Aleksandr)
+  year: 1895
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Theme_and_Variations_for_String_Orchestra%2C_Op.97_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: string orchestra'

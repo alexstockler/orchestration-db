@@ -1,0 +1,36 @@
+id: nielsen-homage-to-holberg-cnw-20
+work:
+  composer: Nielsen, Carl
+  title: Homage to Holberg, CNW 20
+  ids:
+    imslp: Hyldest til Holberg, CNW 20 (Nielsen, Carl)
+  year: 1922
+formula: 2[1.2/pic] 2 2 2 4300 tmp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - soprano 1 (Muse 1)
+  - soprano 2 (Muse 2)
+  - alto 1 (Muse 3)
+  - alto 2 (Muse 4)
+  - :baritone
+  - mixed chorus (SSAATTBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hyldest_til_Holberg%2C_CNW_20_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano 1 (Muse 1), soprano 2 (Muse 2), alto 1
+    (Muse 3), alto 2 (Muse 4), :baritone; mixed chorus (SSAATTBB) Orchestra: 2 flutes
+    (2nd also piccolo), 2 oboes, 2 clarinets (B/A), 2 bassoons, :4 horns (F), 3 trumpets
+    (F), timpani, strings'

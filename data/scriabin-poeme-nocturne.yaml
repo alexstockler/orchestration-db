@@ -1,0 +1,16 @@
+id: scriabin-poeme-nocturne
+work:
+  composer: Scriabin, Aleksandr
+  title: Poeme-Nocturne
+  ids:
+    imslp: Poème-Nocturne, Op.61 (Scriabin, Aleksandr)
+  year: 1911
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Po%C3%A8me-Nocturne%2C_Op.61_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

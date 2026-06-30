@@ -1,0 +1,17 @@
+id: holst-folk-songs-from-somerset
+work:
+  composer: Holst, Gustav
+  title: Folk Songs from Somerset
+  ids:
+    imslp: Folk Songs from Somerset (Holst, Gustav)
+  year: 1906
+formula: ''
+instrumentation:
+  additional_raw: Orchestra [2222 2210 t str] with opt Hn3+4 | Tbn 1+2 and 2 percussion
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Folk_Songs_from_Somerset_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra [2222 2210 t str] with opt Hn3+4, Tbn 1+2 and
+    2 percussion'
+duration_minutes: 8

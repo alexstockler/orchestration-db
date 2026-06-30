@@ -1,0 +1,17 @@
+id: nielsen-op-i-kristne-ruster-eder-cnw-192
+work:
+  composer: Nielsen, Carl
+  title: Op, I Kristne, ruster eder!, CNW 192
+  ids:
+    imslp: Op, I Kristne, ruster eder!, CNW 192 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Op%2C_I_Kristne%2C_ruster_eder%21%2C_CNW_192_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

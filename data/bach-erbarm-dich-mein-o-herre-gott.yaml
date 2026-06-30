@@ -1,0 +1,15 @@
+id: bach-erbarm-dich-mein-o-herre-gott
+work:
+  composer: Bach, Johann Sebastian
+  title: Erbarm dich mein, o Herre Gott
+  ids:
+    imslp: Erbarm dich mein, o Herre Gott, BWV 305 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erbarm_dich_mein%2C_o_Herre_Gott%2C_BWV_305_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

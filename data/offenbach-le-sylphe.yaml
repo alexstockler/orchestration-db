@@ -1,0 +1,17 @@
+id: offenbach-le-sylphe
+work:
+  composer: Offenbach, Jacques
+  title: Le sylphe
+  ids:
+    imslp: Le sylphe (Offenbach, Jacques)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_sylphe_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

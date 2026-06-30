@@ -1,0 +1,18 @@
+id: faure-poeme-dun-jour
+work:
+  composer: Fauré, Gabriel
+  title: Poème d’un jour
+  ids:
+    imslp: Poème d'un jour, Op.21 (Fauré, Gabriel)
+  year: 1878
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Po%C3%A8me_d%27un_jour%2C_Op.21_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

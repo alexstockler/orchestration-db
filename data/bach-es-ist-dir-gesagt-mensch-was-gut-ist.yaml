@@ -1,0 +1,21 @@
+id: bach-es-ist-dir-gesagt-mensch-was-gut-ist
+work:
+  composer: Bach, Johann Sebastian
+  title: Es ist dir gesagt, Mensch, was gut ist
+  ids:
+    imslp: Es ist dir gesagt, Mensch, was gut ist, BWV 45 (Bach, Johann Sebastian)
+  year: 1726
+formula: 2 2[1.obda] 0 0 0000 str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - instrument: oboe_damore
+  strings: str
+  additional_raw: continuo (organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_ist_dir_gesagt%2C_Mensch%2C_was_gut_ist%2C_BWV_45_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, oboe, oboe d''amore, strings, continuo (organ)'
+duration_minutes: 21

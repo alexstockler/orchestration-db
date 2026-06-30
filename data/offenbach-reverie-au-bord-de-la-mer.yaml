@@ -1,0 +1,18 @@
+id: offenbach-reverie-au-bord-de-la-mer
+work:
+  composer: Offenbach, Jacques
+  title: Rêverie au bord de la mer
+  ids:
+    imslp: Rêverie au bord de la mer (Offenbach, Jacques)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/R%C3%AAverie_au_bord_de_la_mer_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'

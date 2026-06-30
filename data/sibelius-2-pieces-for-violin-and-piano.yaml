@@ -7,7 +7,8 @@ work:
   year: 1888
 formula: ''
 instrumentation:
-  additional_raw: Violin and Piano
+  solo_strings:
+    violin: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/2_Pieces_for_Violin_and_Piano%2C_Op.2_%28Sibelius%2C_Jean%29

@@ -9,7 +9,8 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: voice
+  soloists:
+  - voice
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Das_Gl%C3%BCck_der_Freundschaft%2C_Op.88_%28Beethoven%2C_Ludwig_van%29

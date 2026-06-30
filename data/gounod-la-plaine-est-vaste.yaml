@@ -1,0 +1,18 @@
+id: gounod-la-plaine-est-vaste
+work:
+  composer: Gounod, Charles
+  title: La plaine est vaste
+  ids:
+    imslp: La plaine est vaste (Gounod, Charles)
+  year: 1857
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_plaine_est_vaste_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

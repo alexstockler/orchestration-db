@@ -1,0 +1,18 @@
+id: gounod-sur-la-montagne
+work:
+  composer: Gounod, Charles
+  title: Sur la montagne
+  ids:
+    imslp: Sur la montagne, CG 456a (Gounod, Charles)
+  year: 1871
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sur_la_montagne%2C_CG_456a_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

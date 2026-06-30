@@ -6,8 +6,7 @@ work:
     imslp: 12 German Dances, WoO 13 (Beethoven, Ludwig van)
   year: 1792
 formula: ''
-instrumentation:
-  additional_raw: orchestra
+instrumentation: {}
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/12_German_Dances%2C_WoO_13_%28Beethoven%2C_Ludwig_van%29

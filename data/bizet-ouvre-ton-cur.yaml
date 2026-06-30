@@ -1,0 +1,18 @@
+id: bizet-ouvre-ton-cur
+work:
+  composer: Bizet, Georges
+  title: Ouvre ton cœur
+  ids:
+    imslp: Ouvre ton cœur (Bizet, Georges)
+  year: 1860
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ouvre_ton_c%C5%93ur_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

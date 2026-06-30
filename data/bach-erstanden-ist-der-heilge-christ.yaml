@@ -1,0 +1,15 @@
+id: bach-erstanden-ist-der-heilge-christ
+work:
+  composer: Bach, Johann Sebastian
+  title: Erstanden ist der heilge Christ
+  ids:
+    imslp: Erstanden ist der heilige Christ, BWV Anh.51 (Bach, Johann Sebastian)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erstanden_ist_der_heilige_Christ%2C_BWV_Anh.51_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

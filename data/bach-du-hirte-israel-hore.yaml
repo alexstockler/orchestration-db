@@ -1,0 +1,21 @@
+id: bach-du-hirte-israel-hore
+work:
+  composer: Bach, Johann Sebastian
+  title: Du Hirte Israel, höre
+  ids:
+    imslp: Du Hirte Israel, höre, BWV 104 (Bach, Johann Sebastian)
+  year: 1724
+formula: 0200 0000
+instrumentation:
+  oboe: 2
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: taille | continuo (organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Du_Hirte_Israel%2C_h%C3%B6re%2C_BWV_104_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes (both also 2 oboes d''amore), taille, 2 violins,
+    viola, continuo (organ)'
+duration_minutes: 23

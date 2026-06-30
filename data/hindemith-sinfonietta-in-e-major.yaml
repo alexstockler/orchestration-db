@@ -1,0 +1,25 @@
+id: hindemith-sinfonietta-in-e-major
+work:
+  composer: Hindemith, Paul
+  title: Sinfonietta in E major
+  ids:
+    imslp: Sinfonietta in E major (Hindemith, Paul)
+  year: 1949
+formula: cel str
+instrumentation:
+  percussion:
+    instruments:
+    - crash cymbals
+    - glockenspiel
+  keyboards:
+  - instrument: celesta
+  strings: str
+  additional_raw: pair of cymbals
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sinfonietta_in_E_major_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, flute, 2 oboes, 2 clarinets (B), 2 bassoons, 3
+    horns (F), trumpet (B), 2 trombones, tuba, 3 timpani, Percussion (1 player): pair
+    of cymbals, crash cymbals, glockenspiel, celesta, strings'
+duration_minutes: 21

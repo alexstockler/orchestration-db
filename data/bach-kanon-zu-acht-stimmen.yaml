@@ -1,0 +1,15 @@
+id: bach-kanon-zu-acht-stimmen
+work:
+  composer: Bach, Johann Sebastian
+  title: Kanon zu acht Stimmen
+  ids:
+    imslp: Canon in D major, BWV 1072 (Bach, Johann Sebastian)
+  year: 1754
+formula: ''
+instrumentation:
+  additional_raw: 8 instruments
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canon_in_D_major%2C_BWV_1072_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 8 instruments'

@@ -1,0 +1,17 @@
+id: massenet-piano-concerto
+work:
+  composer: Massenet, Jules
+  title: Piano Concerto
+  ids:
+    imslp: Piano Concerto (Massenet, Jules)
+  year: 1902
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Concerto_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano, Orchestra (Piccolo, 2 flutes, 2 oboes, 2 clarinets,
+    2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, percussion, celesta, strings)'

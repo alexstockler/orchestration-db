@@ -1,0 +1,17 @@
+id: gounod-la-nonne-sanglante
+work:
+  composer: Gounod, Charles
+  title: La nonne sanglante
+  ids:
+    imslp: La nonne sanglante, CG 2 (Gounod, Charles)
+  year: 1852
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_nonne_sanglante%2C_CG_2_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

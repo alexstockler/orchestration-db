@@ -1,0 +1,18 @@
+id: glazunov-albumblatt
+work:
+  composer: Glazunov, Aleksandr
+  title: Albumblatt
+  ids:
+    imslp: Albumblatt (Glazunov, Aleksandr)
+  year: 1899
+formula: 0000 0100 pf
+instrumentation:
+  trumpet: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Albumblatt_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: trumpet, piano'
+duration_minutes: 4

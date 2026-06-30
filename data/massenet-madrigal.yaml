@@ -1,0 +1,18 @@
+id: massenet-madrigal
+work:
+  composer: Massenet, Jules
+  title: Madrigal
+  ids:
+    imslp: Madrigal (Massenet, Jules)
+  year: 1869
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Madrigal_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

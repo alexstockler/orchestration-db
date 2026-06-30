@@ -1,0 +1,23 @@
+id: bach-bereitet-die-wege-bereitet-die-bahn
+work:
+  composer: Bach, Johann Sebastian
+  title: Bereitet die Wege, bereitet die Bahn
+  ids:
+    imslp: Bereitet die Wege, bereitet die Bahn, BWV 132 (Bach, Johann Sebastian)
+  year: 1715
+formula: 0101 0000 str
+instrumentation:
+  oboe: 1
+  bassoon: 1
+  strings: str
+  soloists:
+  - Solo Voices (soprano, alto, tenor, bass)
+  - Mixed chorus (SATB)
+  additional_raw: continuo (organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bereitet_die_Wege%2C_bereitet_die_Bahn%2C_BWV_132_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo Voices (soprano, alto, tenor, bass), Mixed chorus
+    (SATB), Orchestra :1 (or 2) oboes, bassoon, strings, continuo (organ)'
+duration_minutes: 22

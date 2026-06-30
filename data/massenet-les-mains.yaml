@@ -1,0 +1,17 @@
+id: massenet-les-mains
+work:
+  composer: Massenet, Jules
+  title: Les mains
+  ids:
+    imslp: Les mains (Massenet, Jules)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_mains_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

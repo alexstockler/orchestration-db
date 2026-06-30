@@ -1,0 +1,16 @@
+id: offenbach-whittington
+work:
+  composer: Offenbach, Jacques
+  title: Whittington
+  ids:
+    imslp: Whittington (Offenbach, Jacques)
+  year: 1875
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Whittington_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

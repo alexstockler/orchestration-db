@@ -1,0 +1,21 @@
+id: gounod-the-sea-hath-its-pearls
+work:
+  composer: Gounod, Charles
+  title: The Sea Hath Its Pearls
+  ids:
+    imslp: The Sea Hath Its Pearls, CG 458 (Gounod, Charles)
+  year: 1871
+formula: pf harm
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: harmonium
+  soloists:
+  - voice
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Sea_Hath_Its_Pearls%2C_CG_458_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, violin, piano, harmonium'

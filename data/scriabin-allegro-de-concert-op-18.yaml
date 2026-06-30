@@ -1,0 +1,16 @@
+id: scriabin-allegro-de-concert-op-18
+work:
+  composer: Scriabin, Aleksandr
+  title: Allegro de Concert, Op.18
+  ids:
+    imslp: Allegro de concert, Op.18 (Scriabin, Aleksandr)
+  year: 1896
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegro_de_concert%2C_Op.18_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano Solo'

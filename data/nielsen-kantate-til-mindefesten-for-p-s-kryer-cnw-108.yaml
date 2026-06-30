@@ -1,0 +1,21 @@
+id: nielsen-kantate-til-mindefesten-for-p-s-kryer-cnw-108
+work:
+  composer: Nielsen, Carl
+  title: Kantate til Mindefesten for P.S. Krøyer, CNW 108
+  ids:
+    imslp: P.S. Krøyer Cantata, CNW 108 (Nielsen, Carl)
+  year: 1909
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - baritone
+  chorus_raw: male chorus
+  additional_raw: reciter
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/P.S._Kr%C3%B8yer_Cantata%2C_CNW_108_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: reciter, soprano, baritone, male chorus (TTBB), piano'

@@ -11,8 +11,11 @@ instrumentation:
   soloists:
   - soprano
   - 2 tenors
-  - bass + mixed chorus (STTB)
-  additional_raw: 2 violins | continuo
+  - bass
+  - mixed chorus (STTB)
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/O_Praise_the_Lord_with_One_Consent%2C_HWV_254_%28Handel%2C_George_Frideric%29

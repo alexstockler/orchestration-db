@@ -8,7 +8,8 @@ work:
 formula: 2000 0000
 instrumentation:
   flute: 2
-  additional_raw: cello
+  solo_strings:
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Divertimento_in_C_major%2C_Hob.IV%3A1_%28Haydn%2C_Joseph%29

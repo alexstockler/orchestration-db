@@ -1,0 +1,16 @@
+id: scriabin-quasi-valse
+work:
+  composer: Scriabin, Aleksandr
+  title: Quasi valse
+  ids:
+    imslp: Quasi valse, Op.47 (Scriabin, Aleksandr)
+  year: 1905
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Quasi_valse%2C_Op.47_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

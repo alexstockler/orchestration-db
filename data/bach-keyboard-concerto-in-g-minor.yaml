@@ -1,0 +1,15 @@
+id: bach-keyboard-concerto-in-g-minor
+work:
+  composer: Bach, Johann Sebastian
+  title: Keyboard Concerto in G minor
+  ids:
+    imslp: Concerto in G minor, BWV 983 (Bach, Johann Sebastian)
+  year: 1713
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_in_G_minor%2C_BWV_983_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

@@ -1,0 +1,15 @@
+id: vaughan-williams-suite-for-pipes
+work:
+  composer: Vaughan Williams, Ralph
+  title: Suite for Pipes
+  ids:
+    imslp: Suite for Pipes (Vaughan Williams, Ralph)
+  year: 1947
+formula: ''
+instrumentation:
+  additional_raw: 4 bamboo pipes (or 4 recorders)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_for_Pipes_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 bamboo pipes (or 4 recorders)'

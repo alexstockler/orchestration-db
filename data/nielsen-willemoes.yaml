@@ -1,0 +1,32 @@
+id: nielsen-willemoes
+work:
+  composer: Nielsen, Carl
+  title: Willemoes
+  ids:
+    imslp: Willemoes, CNW 8 (Nielsen, Carl)
+  year: 1907
+formula: 1120 2210 tmp pf str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 2
+  horn: 2
+  trumpet: 2
+  trombone: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+  keyboards:
+  - instrument: piano
+  strings: str
+  soloists:
+  - Vibeke (mezzo-soprano)
+  - male chorus (TTBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Willemoes%2C_CNW_8_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: Vibeke (mezzo-soprano); male chorus (TTBB), Orchestra:
+    flute, oboe, 2 clarinets (A), 2 horns (F), 2 trumpets (F),, trombone, timpani,
+    bass drum, piano, strings'

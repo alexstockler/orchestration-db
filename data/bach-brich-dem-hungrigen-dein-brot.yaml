@@ -1,0 +1,18 @@
+id: bach-brich-dem-hungrigen-dein-brot
+work:
+  composer: Bach, Johann Sebastian
+  title: Brich dem Hungrigen dein Brot
+  ids:
+    imslp: Brich dem Hungrigen dein Brot, BWV 39 (Bach, Johann Sebastian)
+  year: 1726
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Brich_dem_Hungrigen_dein_Brot%2C_BWV_39_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 recorders, 2 oboes, strings, continuo'
+duration_minutes: 24

@@ -1,0 +1,19 @@
+id: nielsen-kantate-ved-aarhus-landsudstillings-aabnings-hjtidelighed-1909
+work:
+  composer: Nielsen, Carl
+  title: Kantate ved Aarhus Landsudstillings Aabnings-Højtidelighed 1909
+  ids:
+    imslp: Kantate ved Aarhus Landsudstillings Aabnings-Højtidelighed 1909, CNW 107
+      (Nielsen, Carl)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  chorus_raw: mixed chorus
+  additional_raw: narrator
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kantate_ved_Aarhus_Landsudstillings_Aabnings-H%C3%B8jtidelighed_1909%2C_CNW_107_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, bass, narrator, mixed chorus, orchestra'

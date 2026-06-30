@@ -1,0 +1,17 @@
+id: faure-cantique-de-jean-racine
+work:
+  composer: Fauré, Gabriel
+  title: Cantique de Jean Racine
+  ids:
+    imslp: Cantique de Jean Racine, Op.11 (Fauré, Gabriel)
+  year: 1865
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cantique_de_Jean_Racine%2C_Op.11_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), organ'

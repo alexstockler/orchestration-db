@@ -1,0 +1,22 @@
+id: verdi-notturno-a-tre-voci
+work:
+  composer: Verdi, Giuseppe
+  title: Notturno a tre voci
+  ids:
+    imslp: Notturno a tre voci (Verdi, Giuseppe)
+  year: 1838
+formula: 1000 0000 pf
+instrumentation:
+  flute: 1
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Notturno_a_tre_voci_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: Soprano, Tenor, Bass, Flute, Piano'
+duration_minutes: 30

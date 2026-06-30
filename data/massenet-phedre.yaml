@@ -1,0 +1,14 @@
+id: massenet-phedre
+work:
+  composer: Massenet, Jules
+  title: Phèdre
+  ids:
+    imslp: Phèdre (Massenet, Jules)
+  year: 1873
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ph%C3%A8dre_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

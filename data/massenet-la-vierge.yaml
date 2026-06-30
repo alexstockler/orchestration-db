@@ -1,0 +1,17 @@
+id: massenet-la-vierge
+work:
+  composer: Massenet, Jules
+  title: La Vierge
+  ids:
+    imslp: La Vierge (Massenet, Jules)
+  year: 1877
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_Vierge_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

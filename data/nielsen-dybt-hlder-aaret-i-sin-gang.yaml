@@ -1,0 +1,17 @@
+id: nielsen-dybt-hlder-aaret-i-sin-gang
+work:
+  composer: Nielsen, Carl
+  title: Dybt hælder Aaret i sin gang
+  ids:
+    imslp: Dybt hælder Aaret i sin gang, CNW 163 (Nielsen, Carl)
+  year: 1913
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: piano / mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dybt_h%C3%A6lder_Aaret_i_sin_gang%2C_CNW_163_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano / mixed chorus'

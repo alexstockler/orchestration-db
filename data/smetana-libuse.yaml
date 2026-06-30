@@ -1,0 +1,17 @@
+id: smetana-libuse
+work:
+  composer: Smetana, Bedřich
+  title: Libuše
+  ids:
+    imslp: Libuše, JB 1:102 (Smetana, Bedřich)
+  year: 1869
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: solo voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Libu%C5%A1e%2C_JB_1%3A102_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: solo voices, mixed chorus, orchestra'
+duration_minutes: 160

@@ -1,0 +1,17 @@
+id: nielsen-velsignet-vre-du
+work:
+  composer: Nielsen, Carl
+  title: Velsignet være du
+  ids:
+    imslp: Velsignet være du, CNW 294 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Velsignet_v%C3%A6re_du%2C_CNW_294_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

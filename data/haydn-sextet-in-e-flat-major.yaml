@@ -10,7 +10,10 @@ instrumentation:
   oboe: 1
   bassoon: 1
   horn: 1
-  additional_raw: violin | viola | cello ('fondamento')
+  solo_strings:
+    violin: 1
+    viola: 1
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Sextet_in_E-flat_major%2C_Hob.II%3A40_%28Haydn%2C_Joseph%29

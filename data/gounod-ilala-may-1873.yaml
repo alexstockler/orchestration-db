@@ -1,0 +1,18 @@
+id: gounod-ilala-may-1873
+work:
+  composer: Gounod, Charles
+  title: Ilala (May 1873)
+  ids:
+    imslp: Ilala, CG 391 (Gounod, Charles)
+  year: 1873
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ilala%2C_CG_391_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,19 @@
+id: hindemith-drei-leichte-stucke
+work:
+  composer: Hindemith, Paul
+  title: Drei leichte Stücke
+  ids:
+    imslp: 3 Leichte Stücke (Hindemith, Paul)
+  year: 1938
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Leichte_St%C3%BCcke_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'
+duration_minutes: 8

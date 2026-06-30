@@ -1,0 +1,16 @@
+id: delibes-la-fille-du-golfe
+work:
+  composer: Delibes, Léo
+  title: La fille du golfe
+  ids:
+    imslp: La fille du golfe (Delibes, Léo)
+  year: 1859
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_fille_du_golfe_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, Chorus, Orchestra'

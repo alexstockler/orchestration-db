@@ -1,0 +1,16 @@
+id: scriabin-mazurka-in-f-major
+work:
+  composer: Scriabin, Aleksandr
+  title: Mazurka in F major
+  ids:
+    imslp: Mazurka in F major (Scriabin, Aleksandr)
+  year: 1889
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mazurka_in_F_major_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

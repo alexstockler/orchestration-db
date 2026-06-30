@@ -1,0 +1,18 @@
+id: hindemith-echo
+work:
+  composer: Hindemith, Paul
+  title: Echo
+  ids:
+    imslp: Echo (Hindemith, Paul)
+  year: 1942
+formula: 1000 0000 pf
+instrumentation:
+  flute: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Echo_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, piano'
+duration_minutes: 2

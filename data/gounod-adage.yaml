@@ -1,0 +1,14 @@
+id: gounod-adage
+work:
+  composer: Gounod, Charles
+  title: Adage
+  ids:
+    imslp: Adage (Gounod, Charles)
+formula: ''
+instrumentation:
+  additional_raw: Unknown original instrumentation
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adage_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: Unknown original instrumentation'

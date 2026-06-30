@@ -1,0 +1,41 @@
+id: bizet-carmen-suite-no-1
+work:
+  composer: Bizet, Georges
+  title: Carmen Suite No.1
+  ids:
+    imslp: Carmen Suite No.1 (Bizet, Georges)
+  year: 1885
+formula: 2[1.2/pic] 2[1.2/Eh] 2 2 4 2[cnt.cnt] 3 0 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - bass drum
+    - tambourine
+    - side drum
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Carmen_Suite_No.1_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra :2 flutes (2nd also piccolo), 2 oboes (2nd also
+    English horn), 2 clarinets, 2 bassoons, 4 horns, 2 cornets, 3 trombones, timpani,
+    triangle, cymbals, bass drum, tambourine, side drum, harp, strings'

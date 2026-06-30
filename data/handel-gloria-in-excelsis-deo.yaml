@@ -8,7 +8,9 @@ formula: ''
 instrumentation:
   soloists:
   - soprano
-  additional_raw: 2 violins | continuo
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Gloria_in_excelsis_Deo_%28Handel%2C_George_Frideric%29

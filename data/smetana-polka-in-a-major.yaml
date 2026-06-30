@@ -1,0 +1,17 @@
+id: smetana-polka-in-a-major
+work:
+  composer: Smetana, Bedřich
+  title: Polka in A major
+  ids:
+    imslp: Polka in A major, JB 1:57 (Smetana, Bedřich)
+  year: 1852
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Polka_in_A_major%2C_JB_1%3A57_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'
+duration_minutes: 5

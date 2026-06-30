@@ -1,0 +1,59 @@
+id: weber-der-freischutz
+work:
+  composer: Weber, Carl Maria von
+  title: Der Freischütz
+  ids:
+    imslp: Der Freischütz, Op.77 (Weber, Carl Maria von)
+  year: 1817
+formula: 4[pic.pic.3.4] 2 3 2 6330 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 3
+  bassoon: 2
+  horn: 6
+  trumpet: 3
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - Ottokar
+  - Duke of Bohemia (tenor)
+  - Kuno
+  - head gamekeeper (bass)
+  - Agathe
+  - Kuno's daughter (soprano)
+  - Ännchen
+  - Agathe's cousin (soprano)
+  - Kaspar
+  - a gamekeeper (bass)
+  - Max
+  - a gamekeeper (tenor)
+  - A hermit (bass)
+  - Kilian
+  - a rich peasant (tenor)
+  - Zamiel
+  - 'the dark hunter (spoken) Mixed Chorus: (SATB) :Hunters'
+  - Peasants
+  - Spirits
+  - Bridesmaids
+  - Attendants
+  solo_strings:
+    violin: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Freisch%C3%BCtz%2C_Op.77_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Ottokar, Duke of Bohemia (tenor), Kuno, head gamekeeper
+    (bass), Agathe, Kuno''s daughter (soprano), Ännchen, Agathe''s cousin (soprano),
+    Kaspar, a gamekeeper (bass), Max, a gamekeeper (tenor), A hermit (bass), Kilian,
+    a rich peasant (tenor), Zamiel, the dark hunter (spoken) Mixed Chorus: (SATB)
+    :Hunters, Peasants, Spirits, Bridesmaids, Attendants Orchestra: :2 piccolos, 2
+    flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani,
+    strings '' :clarinet, 2 horns, trumpet, violins, cellos'

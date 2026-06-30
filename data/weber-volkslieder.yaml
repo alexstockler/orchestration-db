@@ -1,0 +1,21 @@
+id: weber-volkslieder
+work:
+  composer: Weber, Carl Maria von
+  title: Volkslieder
+  ids:
+    imslp: 7 Volkslieder, Op.54 (Weber, Carl Maria von)
+  year: 1817
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  soloists:
+  - voice
+  - 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Volkslieder%2C_Op.54_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano (Nos.1, 3, 5, 6, 7), 2 Voices, Piano (Nos.2,
+    4)'

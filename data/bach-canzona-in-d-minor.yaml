@@ -1,0 +1,17 @@
+id: bach-canzona-in-d-minor
+work:
+  composer: Bach, Johann Sebastian
+  title: Canzona in D minor
+  ids:
+    imslp: Canzona in D minor, BWV 588 (Bach, Johann Sebastian)
+  year: 1705
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canzona_in_D_minor%2C_BWV_588_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 6

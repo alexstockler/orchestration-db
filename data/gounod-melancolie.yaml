@@ -1,0 +1,18 @@
+id: gounod-melancolie
+work:
+  composer: Gounod, Charles
+  title: Mélancolie
+  ids:
+    imslp: Mélancolie, CG 408 (Gounod, Charles)
+  year: 1875
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/M%C3%A9lancolie%2C_CG_408_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (mezzo-soprano), piano'

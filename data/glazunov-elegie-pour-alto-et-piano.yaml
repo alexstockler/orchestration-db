@@ -1,0 +1,18 @@
+id: glazunov-elegie-pour-alto-et-piano
+work:
+  composer: Glazunov, Aleksandr
+  title: Élégie pour alto et piano
+  ids:
+    imslp: Elegy, Op.44 (Glazunov, Aleksandr)
+  year: 1893
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    viola: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Elegy%2C_Op.44_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: viola, piano'

@@ -1,0 +1,18 @@
+id: bizet-le-gascon
+work:
+  composer: Bizet, Georges
+  title: Le gascon
+  ids:
+    imslp: Le gascon (Bizet, Georges)
+  year: 1868
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_gascon_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

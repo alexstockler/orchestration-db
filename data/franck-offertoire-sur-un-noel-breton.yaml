@@ -1,0 +1,16 @@
+id: franck-offertoire-sur-un-noel-breton
+work:
+  composer: Franck, César
+  title: Offertoire sur un noël breton
+  ids:
+    imslp: Offertoire sur un noël breton, CFF 34 (Franck, César)
+  year: 1865
+formula: harm
+instrumentation:
+  keyboards:
+  - instrument: harmonium
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Offertoire_sur_un_no%C3%ABl_breton%2C_CFF_34_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: harmonium (or organ)'

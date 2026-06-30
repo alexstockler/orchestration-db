@@ -1,0 +1,18 @@
+id: nielsen-den-gamle-skovvei-huer-mig-vel-cnw-281
+work:
+  composer: Nielsen, Carl
+  title: Den gamle Skovvei huer mig vel, CNW 281
+  ids:
+    imslp: Den gamle Skovvei huer mig vel, CNW 281 (Nielsen, Carl)
+  year: 1886
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Den_gamle_Skovvei_huer_mig_vel%2C_CNW_281_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

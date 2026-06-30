@@ -1,0 +1,16 @@
+id: nielsen-polka
+work:
+  composer: Nielsen, Carl
+  title: Polka
+  ids:
+    imslp: Polka, CNW 44 (Nielsen, Carl)
+  year: 1870
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Polka%2C_CNW_44_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: violin'

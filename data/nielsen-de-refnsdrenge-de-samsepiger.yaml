@@ -1,0 +1,17 @@
+id: nielsen-de-refnsdrenge-de-samsepiger
+work:
+  composer: Nielsen, Carl
+  title: De Refnæsdrenge, de Samsøepiger
+  ids:
+    imslp: De Refnæsdrenge, de Samsøepiger, CNW 202 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/De_Refn%C3%A6sdrenge%2C_de_Sams%C3%B8epiger%2C_CNW_202_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano (or piano with text)'

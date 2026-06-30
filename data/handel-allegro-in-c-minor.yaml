@@ -6,7 +6,9 @@ work:
     imslp: Allegro in C minor, HWV 408 (Handel, George Frideric)
 formula: ''
 instrumentation:
-  additional_raw: violin | continuo
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Allegro_in_C_minor%2C_HWV_408_%28Handel%2C_George_Frideric%29

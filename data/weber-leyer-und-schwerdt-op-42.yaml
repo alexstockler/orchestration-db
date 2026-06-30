@@ -1,0 +1,16 @@
+id: weber-leyer-und-schwerdt-op-42
+work:
+  composer: Weber, Carl Maria von
+  title: Leyer und Schwerdt, Op.42
+  ids:
+    imslp: Leyer und Schwerdt, Op.42 (Weber, Carl Maria von)
+  year: 1814
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+  additional_raw: and no.4 with piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Leyer_und_Schwerdt%2C_Op.42_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB), and no.4 with piano'

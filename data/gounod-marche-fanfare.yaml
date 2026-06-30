@@ -1,0 +1,15 @@
+id: gounod-marche-fanfare
+work:
+  composer: Gounod, Charles
+  title: Marche fanfare
+  ids:
+    imslp: Marche fanfare, CG 582 (Gounod, Charles)
+  year: 1877
+formula: ''
+instrumentation:
+  additional_raw: military band
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marche_fanfare%2C_CG_582_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: military band'

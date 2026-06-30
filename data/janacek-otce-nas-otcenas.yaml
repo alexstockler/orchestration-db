@@ -1,0 +1,25 @@
+id: janacek-otce-nas-otcenas
+work:
+  composer: Janáček, Leoš
+  title: Otče náš (Otčenáš)
+  ids:
+    imslp: Otče náš, JW 4/29 (Janáček, Leoš)
+  year: 1901
+formula: pf harm org hp
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: harmonium
+  - instrument: organ
+  harp: 1
+  soloists:
+  - tenor
+  - tenor
+  chorus_raw: mixed chorus
+  additional_raw: Version
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ot%C4%8De_n%C3%A1%C5%A1%2C_JW_4/29_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: Version : tenor, mixed chorus (SATB), piano, harmonium
+    (unpublished), Version : tenor, mixed chorus (SATB), harp, organ'

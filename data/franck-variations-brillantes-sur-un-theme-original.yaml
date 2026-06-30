@@ -1,0 +1,16 @@
+id: franck-variations-brillantes-sur-un-theme-original
+work:
+  composer: Franck, César
+  title: Variations brillantes sur un thème original
+  ids:
+    imslp: Variations brillantes sur un thème original, CFF 131 (Franck, César)
+  year: 1834
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variations_brillantes_sur_un_th%C3%A8me_original%2C_CFF_131_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: piano, orchestra'

@@ -1,0 +1,24 @@
+id: respighi-toccata
+work:
+  composer: Respighi, Ottorino
+  title: Toccata
+  ids:
+    imslp: Toccata (Respighi, Ottorino)
+  year: 1928
+formula: 3 3 0 2[1.cbn] 3000 pf
+instrumentation:
+  flute: 3
+  oboe: 3
+  bassoon:
+  - {}
+  - instrument: contrabassoon
+  horn: 3
+  keyboards:
+  - instrument: piano
+  additional_raw: strings.
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Toccata_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes, 3 oboes, 1 bassoon, 1 contrabassoon, 3 horns,
+    piano solo, strings.'

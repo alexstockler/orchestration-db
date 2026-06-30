@@ -1,0 +1,17 @@
+id: glazunov-suite-caracteristique
+work:
+  composer: Glazunov, Aleksandr
+  title: Suite caractéristique
+  ids:
+    imslp: Suite caractéristique, Op.9 (Glazunov, Aleksandr)
+  year: 1884
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_caract%C3%A9ristique%2C_Op.9_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra (piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons,
+    4 horns, 2 trumpets, 3 trombones, tuba, timpani, triangle, tambourine, side drum,
+    cymbals, bass drum, strings)'
+duration_minutes: 40

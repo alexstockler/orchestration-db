@@ -1,0 +1,15 @@
+id: nielsen-er-din-stue-lav-og-trang
+work:
+  composer: Nielsen, Carl
+  title: Er din Stue lav og trang
+  ids:
+    imslp: Er din Stue lav og trang, CNW 384 (Nielsen, Carl)
+  year: 1923
+formula: ''
+instrumentation:
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Er_din_Stue_lav_og_trang%2C_CNW_384_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SA)'

@@ -7,7 +7,10 @@ work:
   year: 1890
 formula: ''
 instrumentation:
-  additional_raw: 2 violins | 2 violas | cello
+  solo_strings:
+    violin: 2
+    viola: 2
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/String_Quintet_No.2%2C_Op.111_%28Brahms%2C_Johannes%29

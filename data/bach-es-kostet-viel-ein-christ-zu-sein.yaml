@@ -1,0 +1,17 @@
+id: bach-es-kostet-viel-ein-christ-zu-sein
+work:
+  composer: Bach, Johann Sebastian
+  title: Es kostet viel, ein Christ zu sein
+  ids:
+    imslp: Es kostet viel, ein Christ zu sein, BWV 459 (Bach, Johann Sebastian)
+  year: 1735
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_kostet_viel%2C_ein_Christ_zu_sein%2C_BWV_459_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

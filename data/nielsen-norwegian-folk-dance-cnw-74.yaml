@@ -1,0 +1,15 @@
+id: nielsen-norwegian-folk-dance-cnw-74
+work:
+  composer: Nielsen, Carl
+  title: Norwegian Folk Dance, CNW 74
+  ids:
+    imslp: Norsk folkedans, CNW 74 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Norsk_folkedans%2C_CNW_74_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

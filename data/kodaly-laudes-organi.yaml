@@ -1,0 +1,18 @@
+id: kodaly-laudes-organi
+work:
+  composer: Kodály, Zoltán
+  title: Laudes organi
+  ids:
+    imslp: Laudes organi (Kodály, Zoltán)
+  year: 1966
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Laudes_organi_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), organ'
+duration_minutes: 20

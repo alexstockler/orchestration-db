@@ -1,0 +1,16 @@
+id: lalo-allegro-appassionato
+work:
+  composer: Lalo, Édouard
+  title: Allegro appassionato
+  ids:
+    imslp: Allegro appassionato, Op.27 (Lalo, Édouard)
+  year: 1875
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegro_appassionato%2C_Op.27_%28Lalo%2C_%C3%89douard%29
+  confidence: single_source
+  notes: 'Instrumentation: Cello, Orchestra'

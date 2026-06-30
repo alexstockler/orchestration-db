@@ -1,0 +1,20 @@
+id: bach-barmherziges-herze-der-ewigen-liebe
+work:
+  composer: Bach, Johann Sebastian
+  title: Barmherziges Herze der ewigen Liebe
+  ids:
+    imslp: Barmherziges Herze der ewigen Liebe, BWV 185 (Bach, Johann Sebastian)
+  year: 1715
+formula: 0101 0000 str
+instrumentation:
+  oboe: 1
+  bassoon: 1
+  strings: str
+  additional_raw: corno da tirarsi?* | continuo (harpsichord and/or organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Barmherziges_Herze_der_ewigen_Liebe%2C_BWV_185_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe*, corno da tirarsi?*, bassoon, strings, continuo (harpsichord
+    and/or organ)'
+duration_minutes: 20

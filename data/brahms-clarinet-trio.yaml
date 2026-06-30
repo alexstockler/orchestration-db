@@ -10,7 +10,8 @@ instrumentation:
   clarinet: 1
   keyboards:
   - instrument: piano
-  additional_raw: cello
+  solo_strings:
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Clarinet_Trio%2C_Op.114_%28Brahms%2C_Johannes%29

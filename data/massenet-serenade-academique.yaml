@@ -1,0 +1,21 @@
+id: massenet-serenade-academique
+work:
+  composer: Massenet, Jules
+  title: Sérénade académique
+  ids:
+    imslp: Sérénade académique (Massenet, Jules)
+  year: 1911
+formula: 0000 0011
+instrumentation:
+  trombone: 1
+  tuba: 1
+  percussion:
+    instruments:
+    - snare drum
+  additional_raw: cornet in B
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/S%C3%A9r%C3%A9nade_acad%C3%A9mique_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: cornet in B, trombone, tuba, snare drum'
+duration_minutes: 3

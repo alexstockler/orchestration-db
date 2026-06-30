@@ -7,7 +7,10 @@ work:
   year: 1883
 formula: ''
 instrumentation:
-  additional_raw: 2 violins | viola | cello (harp ad lib.)
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: cello (harp ad lib.)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Am_Grabe_Richard_Wagners%2C_S.135_%28Liszt%2C_Franz%29

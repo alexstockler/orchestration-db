@@ -1,0 +1,16 @@
+id: glazunov-piano-sonata-no-2
+work:
+  composer: Glazunov, Aleksandr
+  title: Piano Sonata No.2
+  ids:
+    imslp: Piano Sonata No.2, Op.75 (Glazunov, Aleksandr)
+  year: 1901
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.2%2C_Op.75_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

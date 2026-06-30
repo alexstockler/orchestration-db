@@ -1,0 +1,17 @@
+id: smetana-4-sketches
+work:
+  composer: Smetana, Bedřich
+  title: 4 Sketches
+  ids:
+    imslp: 4 Sketches, Op.4 (Smetana, Bedřich)
+  year: 1848
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Sketches%2C_Op.4_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'
+duration_minutes: 29

@@ -5,7 +5,7 @@ work:
   ids:
     imslp: Symphony No.6, GMW 46 (Mahler, Gustav)
   year: 1903
-formula: cel
+formula: ''
 instrumentation:
   percussion:
     instruments:
@@ -19,9 +19,8 @@ instrumentation:
     - switch
     - hammer
     - xylophone
-  keyboards:
-  - instrument: celesta
-  additional_raw: 2 or more off-stage bells | on and off-stage cowbells
+  additional_raw: 2 or more off-stage bells | on and off-stage cowbells | celesta
+    (2 or more if possible)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Symphony_No.6%2C_GMW_46_%28Mahler%2C_Gustav%29

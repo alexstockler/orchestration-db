@@ -8,7 +8,9 @@ formula: 0000 2000 str
 instrumentation:
   horn: 2
   strings: str
-  additional_raw: Solo - 2 oboes | violin | Orchestra - bassoon | continuo
+  solo_strings:
+    violin: 1
+  additional_raw: Solo - 2 oboes | Orchestra - bassoon | continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Concerto_in_F_major%2C_RV_568_%28Vivaldi%2C_Antonio%29

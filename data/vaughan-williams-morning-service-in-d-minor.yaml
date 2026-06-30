@@ -1,0 +1,18 @@
+id: vaughan-williams-morning-service-in-d-minor
+work:
+  composer: Vaughan Williams, Ralph
+  title: Morning Service in D minor
+  ids:
+    imslp: Morning Service in D minor (Vaughan Williams, Ralph)
+  year: 1939
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+  additional_raw: unison chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Morning_Service_in_D_minor_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: unison chorus, mixed chorus (SATB), organ'

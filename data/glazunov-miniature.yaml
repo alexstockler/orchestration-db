@@ -1,0 +1,15 @@
+id: glazunov-miniature
+work:
+  composer: Glazunov, Aleksandr
+  title: Miniature
+  ids:
+    imslp: Miniature (Glazunov, Aleksandr)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Miniature_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

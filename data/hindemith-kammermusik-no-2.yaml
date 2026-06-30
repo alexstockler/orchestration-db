@@ -1,0 +1,34 @@
+id: hindemith-kammermusik-no-2
+work:
+  composer: Hindemith, Paul
+  title: Kammermusik No.2
+  ids:
+    imslp: Kammermusik No.2, Op.36 No.1 (Hindemith, Paul)
+  year: 1924
+formula: 1 1 2[1.bcl] 1 1110
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet:
+  - {}
+  - instrument: bass_clarinet
+    optional: true
+  bassoon: 1
+  horn: 1
+  trumpet: 1
+  trombone: 1
+  soloists:
+  - piano
+  - bass
+  solo_strings:
+    violin: 1
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kammermusik_No.2%2C_Op.36_No.1_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: piano, Orchestra: flute (also piccolo), oboe, clarinet
+    (B), bass clarinet (B) (ad lib.), bassoon, horn (F), trumpet (C), trombone, violin,
+    viola, cello, bass'
+duration_minutes: 20

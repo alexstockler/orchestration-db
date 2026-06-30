@@ -1,0 +1,17 @@
+id: bizet-la-chanson-de-la-rose
+work:
+  composer: Bizet, Georges
+  title: La chanson de la rose
+  ids:
+    imslp: La chanson de la rose (Bizet, Georges)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_chanson_de_la_rose_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

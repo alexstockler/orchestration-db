@@ -1,0 +1,16 @@
+id: nielsen-3-motets
+work:
+  composer: Nielsen, Carl
+  title: 3 Motets
+  ids:
+    imslp: 3 Motets, Op.55 (Nielsen, Carl)
+  year: 1929
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Motets%2C_Op.55_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (ATTB, SATB, SSATB)'
+duration_minutes: 15

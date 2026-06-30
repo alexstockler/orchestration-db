@@ -1,0 +1,18 @@
+id: verdi-la-battaglia-di-legnano
+work:
+  composer: Verdi, Giuseppe
+  title: La battaglia di Legnano
+  ids:
+    imslp: La battaglia di Legnano (Verdi, Giuseppe)
+  year: 1849
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+  additional_raw: and orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_battaglia_di_Legnano_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, and orchestra'

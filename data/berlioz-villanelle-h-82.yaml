@@ -1,0 +1,24 @@
+id: berlioz-villanelle-h-82
+work:
+  composer: Berlioz, Hector
+  title: Villanelle, H 82
+  ids:
+    imslp: Villanelle, H 82 (Berlioz, Hector)
+  year: 1841
+formula: 2122 3000 str
+instrumentation:
+  flute: 2
+  oboe: 1
+  clarinet: 2
+  bassoon: 2
+  horn: 3
+  strings: str
+  soloists:
+  - voice and piano
+  - arranged for voice and
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Villanelle%2C_H_82_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: voice and piano; arranged for voice and orchestra :2 flutes,
+    oboe, 2 clarinets, 2 bassoons, 3 horns, strings'

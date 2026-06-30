@@ -1,0 +1,17 @@
+id: hindemith-konzertstuck-fur-ein-trautonium-mit-begleitung-des-streichorchesters
+work:
+  composer: Hindemith, Paul
+  title: Konzertstück für ein Trautonium mit Begleitung des Streichorchesters
+  ids:
+    imslp: Konzertstück für ein Trautonium mit Begleitung des Streichorchesters (Hindemith,
+      Paul)
+  year: 1930
+formula: ''
+instrumentation:
+  additional_raw: trautonium
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Konzertst%C3%BCck_f%C3%BCr_ein_Trautonium_mit_Begleitung_des_Streichorchesters_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: trautonium, string orchestra'
+duration_minutes: 9

@@ -1,0 +1,18 @@
+id: vaughan-williams-let-all-the-world-in-every-corner-sing
+work:
+  composer: Vaughan Williams, Ralph
+  title: Let all the World in Every Corner Sing
+  ids:
+    imslp: Let All the World in Every Corner Sing (Vaughan Williams, Ralph)
+  year: 1911
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Let_All_the_World_in_Every_Corner_Sing_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, piano'

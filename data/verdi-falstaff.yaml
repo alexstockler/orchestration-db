@@ -1,0 +1,68 @@
+id: verdi-falstaff
+work:
+  composer: Verdi, Giuseppe
+  title: Falstaff
+  ids:
+    imslp: Falstaff (Verdi, Giuseppe)
+  year: 1893
+formula: 3[1.2.3/pic] 2[1.2/Eh] 2 2 4340 tmp gtr str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 4
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - triangle
+    - bell
+  extras:
+  - instrument: guitar
+  strings: str
+  soloists:
+  - Sir John Falstaff (baritone)
+  - Ford
+  - marito d'Alice (baritone)
+  - Fenton (tenor)
+  - Dr.Cajus (tenor)
+  - Bardolfo (tenor)
+  - Pistola (bass)
+  - Mrs. Alice Ford (soprano)
+  - Nannetta
+  - figlia d'Alice (soprano)
+  - Mrs. Quickly (mezzo-soprano)
+  - Mrs. Meg Page (mezzo-soprano)
+  - L'Oste della Giarrettiera
+  - Robin
+  - paggio di Falstaff :Mixed Chorus ::Borghesi e Popolani
+  - Servi di Ford
+  - Mascherata di folletti
+  - di fate
+  - 'di streghe :'
+  additional_raw: 'unknown doubling in clarinet: bass clarinet in a | natural horn'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Falstaff_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra :Cast ::Sir John Falstaff
+    (baritone), Ford, marito d''Alice (baritone), Fenton (tenor), Dr.Cajus (tenor),
+    Bardolfo (tenor), Pistola (bass), Mrs. Alice Ford (soprano), Nannetta, figlia
+    d''Alice (soprano), Mrs. Quickly (mezzo-soprano), Mrs. Meg Page (mezzo-soprano),
+    L''Oste della Giarrettiera, Robin, paggio di Falstaff :Mixed Chorus ::Borghesi
+    e Popolani, Servi di Ford, Mascherata di folletti, di fate, di streghe :Orchestra
+    ::3 flutes (3rd also piccolo), 2 oboes (2nd also English horn), :::2 clarinets
+    (C/B/A, 2nd also bass clarinet in A), 2 bassoons ::4 horns (F/E/E/D/D/C), 3 trumpets
+    (E/E/D/C/B), 4 trombones, timpani, bass drum, cymbals, triangle, strings :Off-Stage
+    Instruments ::guitar, natural horn, bell'

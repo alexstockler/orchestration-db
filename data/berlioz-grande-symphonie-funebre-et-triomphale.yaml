@@ -1,0 +1,102 @@
+id: berlioz-grande-symphonie-funebre-et-triomphale
+work:
+  composer: Berlioz, Hector
+  title: Grande symphonie funèbre et triomphale
+  ids:
+    imslp: Grande symphonie funèbre et triomphale, H 80 (Berlioz, Hector)
+  year: 1840
+formula: 9[pic.pic.pic.pic.5.6.7.8.9] 5 28[1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.22.23.24.25.26.bcl.bcl]
+  9[1.2.3.4.5.6.7.8.cbn] 12[1.2.3.4.5.6.7.8.9.10.11.12] 12[1.2.3.4.5.6.7.8.cnt.cnt.cnt.cnt]
+  11[1.2.3.4.5.6.7.8.9.10.btbn] 0 tmp+1 ophicleide
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - instrument: piccolo
+  - instrument: piccolo
+  - instrument: piccolo
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  oboe: 5
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 12
+  trumpet:
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  trombone:
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: bass_trombone
+  percussion:
+    timpani: 1
+    players: 1
+  extras:
+  - instrument: ophicleide
+  additional_raw: 5 sopranino clarinets | optional strings (20-20-15-15-10)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grande_symphonie_fun%C3%A8bre_et_triomphale%2C_H_80_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 piccolos, 5 flutes, 5 oboes, 5 sopranino clarinets, 26
+    clarinets,, 2 bass clarinets, 8 bassoons, contrabassoon, 12 horns, 8 trumpets,
+    4 cornets, 10 trombones, bass trombone, 6 ophicleïdes (tubas), timpani (8 players),
+    percussion (3 players), optional strings (20-20-15-15-10)'
+duration_minutes: 30

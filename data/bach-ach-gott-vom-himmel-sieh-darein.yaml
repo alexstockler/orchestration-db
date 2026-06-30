@@ -1,0 +1,20 @@
+id: bach-ach-gott-vom-himmel-sieh-darein
+work:
+  composer: Bach, Johann Sebastian
+  title: Ach Gott, vom Himmel sieh darein
+  ids:
+    imslp: Ach Gott, vom Himmel sieh darein, BWV 2 (Bach, Johann Sebastian)
+  year: 1724
+formula: 0200 0040 str
+instrumentation:
+  oboe: 2
+  trombone: 4
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach_Gott%2C_vom_Himmel_sieh_darein%2C_BWV_2_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soli (alto, tenor, bass), Mixed Chorus (SATB), Orchestra
+    :2 oboes, 4 trombones, strings, continuo'
+duration_minutes: 20

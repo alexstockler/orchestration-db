@@ -1,0 +1,20 @@
+id: smetana-fanfares-for-shakespeare-s-richard-iii
+work:
+  composer: Smetana, Bedřich
+  title: Fanfares for Shakespeare's Richard III
+  ids:
+    imslp: Fanfáry k Shakespearovu dramatu Richard III, JB 1:92 (Smetana, Bedřich)
+  year: 1867
+formula: 0000 4230 tmp
+instrumentation:
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fanf%C3%A1ry_k_Shakespearovu_dramatu_Richard_III%2C_JB_1%3A92_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 Horns, 2 Trumpets, 3 Trombones, Timpani'
+duration_minutes: 1

@@ -1,0 +1,15 @@
+id: bach-das-walt-gott-vater-und-gott-sohn
+work:
+  composer: Bach, Johann Sebastian
+  title: Das walt Gott Vater und Gott Sohn
+  ids:
+    imslp: Das walt Gott Vater und Gott Sohn, BWV 290 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_walt_Gott_Vater_und_Gott_Sohn%2C_BWV_290_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

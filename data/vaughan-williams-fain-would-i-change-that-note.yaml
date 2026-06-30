@@ -1,0 +1,16 @@
+id: vaughan-williams-fain-would-i-change-that-note
+work:
+  composer: Vaughan Williams, Ralph
+  title: Fain Would I Change That Note
+  ids:
+    imslp: Fain Would I Change That Note (Vaughan Williams, Ralph)
+  year: 1907
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fain_Would_I_Change_That_Note_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: mixed chorus (SATB)'
+duration_minutes: 2

@@ -1,0 +1,17 @@
+id: offenbach-la-perichole
+work:
+  composer: Offenbach, Jacques
+  title: La Périchole
+  ids:
+    imslp: La Périchole (Offenbach, Jacques)
+  year: 1868
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_P%C3%A9richole_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

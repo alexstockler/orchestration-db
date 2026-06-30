@@ -7,7 +7,9 @@ work:
   year: 1765
 formula: ''
 instrumentation:
-  additional_raw: 2 violins | cello
+  solo_strings:
+    violin: 2
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Ganz_kleine_Nachtmusik%2C_K.648_%28Mozart%2C_Wolfgang_Amadeus%29

@@ -134,11 +134,13 @@ class _ParseState:
         self.unrecognised: list[str] = []
 
     def _add_family_players(self, family: str, count: int,
-                             primary_key: str | None = None):
+                             primary_key: str | None = None,
+                             optional: bool = False):
         start = self.family_counts[family] + 1
         for i in range(start, start + count):
             p = Player(instrument=primary_key,
-                       doublings=self.family_doublings[family].get(i, []))
+                       doublings=self.family_doublings[family].get(i, []),
+                       optional=optional)
             getattr(self.inst, family).append(p)
         self.family_counts[family] += count
 
@@ -157,6 +159,32 @@ class _ParseState:
         token = _normalise(re.sub(r"^:+", "", raw_token))
         if not token:
             return
+
+        # --- Detect and strip off-stage annotation ---
+        offstage_m = re.search(
+            r"\s*\boff-?stage\b(\s+instruments?)?\s*", token, re.I
+        )
+        is_offstage = bool(offstage_m)
+        if is_offstage:
+            token = (token[:offstage_m.start()] + token[offstage_m.end():]).strip()
+            token = token.strip(" ,")
+        # Pure section label with nothing else → skip
+        if not token or token.lower() in ("on stage", "onstage", "instruments"):
+            return
+
+        # --- Detect and strip optional / ad lib. annotation ---
+        is_optional = bool(re.search(
+            r"\bad\s+lib\.?|\bopt\.?\b|\boptional\b", token, re.I
+        ))
+        if is_optional:
+            token = re.sub(
+                r"\s*\(?(?:ad\s+lib\.?|opt\.?|optional)\)?\s*", " ", token, flags=re.I
+            ).strip()
+
+        # --- Collapse "X or Y" instrument alternatives → take X ---
+        or_m = re.match(r"^(.+?)\s+or\s+.+$", token, re.I)
+        if or_m:
+            token = or_m.group(1).strip()
 
         # --- Split off parenthetical annotation ---
         paren_match = re.search(r"\(([^)]*)\)", token)
@@ -207,10 +235,20 @@ class _ParseState:
                 desc = ""
                 if paren_content and re.match(r"[\d,. ]+$", paren_content):
                     desc = paren_content.strip()
-                self.inst.strings = Strings(standard=True, description=desc)
+                if is_offstage:
+                    self.inst.offstage.append(token_base)
+                else:
+                    self.inst.strings = Strings(standard=True, description=desc)
             else:
-                # individual string desks — leave in additional_raw for now
-                self.unrecognised.append(raw_token.strip())
+                # Individual string players — chamber/solo writing
+                n = count or 1
+                if is_offstage:
+                    label = f"{n} {key}" if n > 1 else key
+                    self.inst.offstage.append(label)
+                else:
+                    self.inst.solo_strings[key] = (
+                        self.inst.solo_strings.get(key, 0) + n
+                    )
             return
 
         # --- Piano 4-hands (one instrument, two performers) ---
@@ -220,43 +258,61 @@ class _ParseState:
 
         # --- Timpani ---
         if key == "timpani":
-            self.inst.percussion.timpani = max(self.inst.percussion.timpani,
-                                               count or 1)
+            if is_offstage:
+                self.inst.offstage.append("timpani")
+            else:
+                self.inst.percussion.timpani = max(self.inst.percussion.timpani,
+                                                   count or 1)
             return
 
         # --- Generic percussion ---
         if key == "percussion":
-            name_lower = _normalise(name or token_base)
+            instr_name = name or token_base
+            if is_offstage:
+                self.inst.offstage.append(instr_name)
+                return
+            name_lower = _normalise(instr_name)
             if name_lower == "percussion":
                 self.inst.percussion.players = max(self.inst.percussion.players,
                                                    count or 1)
             else:
                 # Named instrument like "snare drum", "xylophone" etc.
-                instr_name = name or token_base
                 if instr_name not in self.inst.percussion.instruments:
                     self.inst.percussion.instruments.append(instr_name)
             return
 
         # --- Keyboards ---
         if key in KEYBOARD_KEYS:
-            n = count or 1
-            for _ in range(n):
-                self.inst.keyboards.append(KeyboardPlayer(key))
+            if is_offstage:
+                self.inst.offstage.append(name or token_base)
+            else:
+                n = count or 1
+                for _ in range(n):
+                    self.inst.keyboards.append(KeyboardPlayer(key))
             return
 
         # --- Harp ---
         if key == "harp":
-            self.inst.harp += count or 1
+            if is_offstage:
+                self.inst.offstage.append("harp")
+            else:
+                self.inst.harp += count or 1
             return
 
         # --- Extras (guitar, mandolin, etc.) ---
         if key in EXTRA_KEYS:
-            self.inst.extras.append(KeyboardPlayer(key))
+            if is_offstage:
+                self.inst.offstage.append(name or token_base)
+            else:
+                self.inst.extras.append(KeyboardPlayer(key))
             return
 
         # --- Saxophones ---
         if key in SAX_KEYS:
-            self.inst.saxophones.append({"instrument": key, "count": count or 1})
+            if is_offstage:
+                self.inst.offstage.append(name or token_base)
+            else:
+                self.inst.saxophones.append({"instrument": key, "count": count or 1})
             return
 
         # --- Wind / Brass families ---
@@ -266,24 +322,26 @@ class _ParseState:
             # Primary family instrument (e.g. "flute", "oboe")
             family = next(f for f, d in vocab.FAMILY_DEFAULT.items() if d == key)
             n = count or 1
-            self._add_family_players(family, n)
-            if paren_content:
-                self._process_paren(family, paren_content)
+            if is_offstage:
+                self.inst.offstage.append(f"{n} {key}" if n > 1 else key)
+            else:
+                self._add_family_players(family, n, optional=is_optional)
+                if paren_content:
+                    self._process_paren(family, paren_content)
             return
 
         if family and key not in vocab.FAMILY_DEFAULT.values():
             # Auxiliary instrument used as a named extra chair in a family
             n = count or 1
-            self._add_family_players(family, n, primary_key=key)
+            if is_offstage:
+                self.inst.offstage.append(f"{n} {key}" if n > 1 else key)
+            else:
+                self._add_family_players(family, n, primary_key=key,
+                                         optional=is_optional)
             return
 
         # --- Unrecognised ---
-        if paren_content:
-            # Token might be unrecognised but paren is a doubling annotation
-            # Preserve everything
-            self.unrecognised.append(raw_token.strip())
-        else:
-            self.unrecognised.append(raw_token.strip())
+        self.unrecognised.append(raw_token.strip())
 
     def _process_paren(self, family: str, paren_content: str):
         """Process a doubling parenthetical attached to a family token."""
@@ -385,7 +443,11 @@ def parse_imslp_scoring(text: str) -> dict:
     """
     raw = " ".join(text.split())
     raw = _strip_shorthand_prefix(raw)
+    # Spaced " + " used as list separator (distinct from N+M compaction)
+    raw = re.sub(r"\s+\+\s+", ", ", raw)
     raw = _expand_plus_notation(raw)
+    # Common IMSLP typos
+    raw = re.sub(r"\bclarinest\b", "clarinet", raw, flags=re.I)
     # Strip wiki ditto-marks and stray apostrophes/quotes attached to known tokens
     raw = re.sub(r"\bstrings\s*[''\"]+", "strings", raw)
     # Normalise "clarinet (E)" / "clarinet (Eb)" / "E clarinet" Mahler-style E-flat notation

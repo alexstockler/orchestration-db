@@ -1,0 +1,15 @@
+id: bach-es-ist-gewilich-an-der-zeit
+work:
+  composer: Bach, Johann Sebastian
+  title: Es ist gewißlich an der Zeit
+  ids:
+    imslp: Es ist gewißlich an der Zeit, BWV 307 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_ist_gewi%C3%9Flich_an_der_Zeit%2C_BWV_307_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

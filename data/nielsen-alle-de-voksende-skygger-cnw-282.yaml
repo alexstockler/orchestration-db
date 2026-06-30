@@ -1,0 +1,18 @@
+id: nielsen-alle-de-voksende-skygger-cnw-282
+work:
+  composer: Nielsen, Carl
+  title: Alle de voksende Skygger, CNW 282
+  ids:
+    imslp: Alle de voksende Skygger, CNW 282 (Nielsen, Carl)
+  year: 1887
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alle_de_voksende_Skygger%2C_CNW_282_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

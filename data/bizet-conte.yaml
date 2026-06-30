@@ -1,0 +1,17 @@
+id: bizet-conte
+work:
+  composer: Bizet, Georges
+  title: Conte
+  ids:
+    imslp: Conte (Bizet, Georges)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Conte_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

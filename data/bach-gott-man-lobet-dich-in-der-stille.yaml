@@ -1,0 +1,22 @@
+id: bach-gott-man-lobet-dich-in-der-stille
+work:
+  composer: Bach, Johann Sebastian
+  title: Gott, man lobet dich in der Stille
+  ids:
+    imslp: Gott, man lobet dich in der Stille, BWV 120 (Bach, Johann Sebastian)
+  year: 1728
+formula: 0200 0300 tmp str
+instrumentation:
+  oboe: 2
+  trumpet: 3
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott%2C_man_lobet_dich_in_der_Stille%2C_BWV_120_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes (both also oboe d''amore), 3 trumpets, timpani,
+    strings, continuo'
+duration_minutes: 26

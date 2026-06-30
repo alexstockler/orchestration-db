@@ -6,7 +6,9 @@ work:
     imslp: Allegro in G major, HWV 340 (Handel, George Frideric)
 formula: ''
 instrumentation:
-  additional_raw: 2 violins | basso
+  solo_strings:
+    violin: 2
+  additional_raw: basso
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Allegro_in_G_major%2C_HWV_340_%28Handel%2C_George_Frideric%29

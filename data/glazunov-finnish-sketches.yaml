@@ -1,0 +1,39 @@
+id: glazunov-finnish-sketches
+work:
+  composer: Glazunov, Aleksandr
+  title: Finnish Sketches
+  ids:
+    imslp: Finnish Sketches, Op.89 (Glazunov, Aleksandr)
+  year: 1912
+formula: 3[pic.2.3] 2[1.2/Eh] 2 2 4231 tmp hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - snare drum
+    - bass drum
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Finnish_Sketches%2C_Op.89_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes (2nd also English horn), 2 clarinets
+    (A), 2 bassoons, 4 horns (E/F), 2 trumpets (A), 3 trombones, tuba, timpani, triangle,
+    cymbals, snare drum, bass drum, harp, strings'

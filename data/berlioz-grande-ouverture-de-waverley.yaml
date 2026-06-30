@@ -1,0 +1,30 @@
+id: berlioz-grande-ouverture-de-waverley
+work:
+  composer: Berlioz, Hector
+  title: Grande Ouverture de Waverley
+  ids:
+    imslp: Overture 'Waverley', H 26 (Berlioz, Hector)
+  year: 1827
+formula: 2[1.2/pic] 2 2 4 4330 tmp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 4
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: ophecleide (tuba)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Overture_%27Waverley%27%2C_H_26_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes, 2 clarinets, 4 bassoons,
+    4 horns, 3 trumpets, 3 trombones, ophecleide (tuba), timpani, strings'
+duration_minutes: 12

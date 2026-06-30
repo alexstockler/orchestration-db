@@ -1,0 +1,18 @@
+id: massenet-le-coffret-d-ebene
+work:
+  composer: Massenet, Jules
+  title: Le coffret d'ébène
+  ids:
+    imslp: Le coffret d'ébène (Massenet, Jules)
+  year: 1912
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_coffret_d%27%C3%A9b%C3%A8ne_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

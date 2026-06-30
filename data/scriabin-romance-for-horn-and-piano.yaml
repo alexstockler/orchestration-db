@@ -1,0 +1,15 @@
+id: scriabin-romance-for-horn-and-piano
+work:
+  composer: Scriabin, Aleksandr
+  title: Romance for Horn and Piano
+  ids:
+    imslp: Romance for Horn and Piano (Scriabin, Aleksandr)
+  year: 1890
+formula: ''
+instrumentation:
+  additional_raw: Piano and Horn
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romance_for_Horn_and_Piano_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano and Horn'

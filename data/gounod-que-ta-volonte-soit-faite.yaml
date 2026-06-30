@@ -1,0 +1,18 @@
+id: gounod-que-ta-volonte-soit-faite
+work:
+  composer: Gounod, Charles
+  title: Que ta volonté soit faite
+  ids:
+    imslp: Que ta volonté soit faite, CG 461a (Gounod, Charles)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Que_ta_volont%C3%A9_soit_faite%2C_CG_461a_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

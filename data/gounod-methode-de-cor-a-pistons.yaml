@@ -1,0 +1,15 @@
+id: gounod-methode-de-cor-a-pistons
+work:
+  composer: Gounod, Charles
+  title: Méthode de cor à pistons
+  ids:
+    imslp: Méthode de cor à pistons, CG 640 (Gounod, Charles)
+  year: 1839
+formula: 0000 1000
+instrumentation:
+  horn: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/M%C3%A9thode_de_cor_%C3%A0_pistons%2C_CG_640_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: horn'

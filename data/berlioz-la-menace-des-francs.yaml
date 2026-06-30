@@ -1,0 +1,15 @@
+id: berlioz-la-menace-des-francs
+work:
+  composer: Berlioz, Hector
+  title: La menace des Francs
+  ids:
+    imslp: La menace des Francs, H 117 (Berlioz, Hector)
+  year: 1848
+formula: ''
+instrumentation:
+  additional_raw: 2 | 2 | 2 | 2 – 4 | 2+2cornet | 3 | oph/tub – timp (2) – str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_menace_des_Francs%2C_H_117_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: 2,2,2,2 – 4,2+2cornet,3,oph/tub – timp (2) – str'

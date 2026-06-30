@@ -1,0 +1,18 @@
+id: nielsen-i-seraillets-have
+work:
+  composer: Nielsen, Carl
+  title: I Seraillets Have
+  ids:
+    imslp: I Seraillets Have, CNW 117 (Nielsen, Carl)
+  year: 1892
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/I_Seraillets_Have%2C_CNW_117_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

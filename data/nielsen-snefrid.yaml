@@ -1,0 +1,43 @@
+id: nielsen-snefrid
+work:
+  composer: Nielsen, Carl
+  title: Snefrid
+  ids:
+    imslp: Snefrid, CNW 4 (Nielsen, Carl)
+  year: 1893
+formula: 2[1.2/pic] 1 2 1 2221 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 1
+  clarinet: 2
+  bassoon: 1
+  horn: 2
+  trumpet: 2
+  trombone: 2
+  tuba: 1
+  percussion:
+    timpani: 1
+  harp: 1
+  strings: str
+  soloists:
+  - Kong Harald Haarfager
+  - Gunnar
+  - Kongens Skjald
+  - Svase
+  - en Finne-Høvding
+  - Snefrid
+  - hans Datter
+  - Thorleif Spake
+  - Kongens gode Mand
+  - 'En Finne-Kone :'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Snefrid%2C_CNW_4_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: :Cast ::Kong Harald Haarfager, Gunnar, Kongens Skjald,
+    Svase, en Finne-Høvding, Snefrid, hans Datter, Thorleif Spake, Kongens gode Mand,
+    En Finne-Kone :Orchestra ::2 flutes (2nd also piccolo), oboe, 2 clarinets, bassoon,
+    2 horns, 2 trumpets, 2 trombones, tuba, timpani, harp, strings'

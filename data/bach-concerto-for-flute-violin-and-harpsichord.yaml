@@ -1,0 +1,22 @@
+id: bach-concerto-for-flute-violin-and-harpsichord
+work:
+  composer: Bach, Johann Sebastian
+  title: Concerto for Flute, Violin and Harpsichord
+  ids:
+    imslp: Concerto for Flute, Violin and Harpsichord in A minor, BWV 1044 (Bach,
+      Johann Sebastian)
+  year: 1738
+formula: 1000 0000 hpd str
+instrumentation:
+  flute: 1
+  keyboards:
+  - instrument: harpsichord
+  strings: str
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_Flute%2C_Violin_and_Harpsichord_in_A_minor%2C_BWV_1044_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, violin, harpsichord, strings, continuo'

@@ -9,8 +9,10 @@ instrumentation:
   keyboards:
   - instrument: organ
   strings: str
-  additional_raw: Coro 1 - 2 recorders | 2 violins | cello | continuo | Coro 2 - 2
-    recorders | 2 violins | cello | continuo
+  solo_strings:
+    violin: 4
+    cello: 2
+  additional_raw: Coro 1 - 2 recorders | continuo | Coro 2 - 2 recorders | continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Concerto_in_A_major%2C_RV_585_%28Vivaldi%2C_Antonio%29

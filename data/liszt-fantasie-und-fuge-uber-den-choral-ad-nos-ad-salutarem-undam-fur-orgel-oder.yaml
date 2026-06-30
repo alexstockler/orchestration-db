@@ -7,9 +7,10 @@ work:
     imslp: Fantasie und Fuge über den Choral Ad nos, ad salutarem undam, S.259 (Liszt,
       Franz)
   year: 1850
-formula: ''
+formula: org
 instrumentation:
-  additional_raw: organ or pedal-piano
+  keyboards:
+  - instrument: organ
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Fantasie_und_Fuge_%C3%BCber_den_Choral_Ad_nos%2C_ad_salutarem_undam%2C_S.259_%28Liszt%2C_Franz%29

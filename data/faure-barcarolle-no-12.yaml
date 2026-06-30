@@ -1,0 +1,16 @@
+id: faure-barcarolle-no-12
+work:
+  composer: Fauré, Gabriel
+  title: Barcarolle No.12
+  ids:
+    imslp: Barcarolle No.12, Op.106bis (Fauré, Gabriel)
+  year: 1915
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Barcarolle_No.12%2C_Op.106bis_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,17 @@
+id: messiaen-8-preludes-pour-piano
+work:
+  composer: Messiaen, Olivier
+  title: 8 Préludes pour piano
+  ids:
+    imslp: 8 Préludes (Messiaen, Olivier)
+  year: 1928
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Pr%C3%A9ludes_%28Messiaen%2C_Olivier%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 30

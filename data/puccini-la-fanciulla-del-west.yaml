@@ -1,0 +1,108 @@
+id: puccini-la-fanciulla-del-west
+work:
+  composer: Puccini, Giacomo
+  title: La fanciulla del West
+  ids:
+    imslp: La fanciulla del West, SC 78 (Puccini, Giacomo)
+  year: 1907
+formula: 4[pic.2.3.4] 4[1.2.3.Eh] 4[1.2.3.bcl] 4[1.2.3.cbn] 4 3 4[1.2.3.btbn] 0 tmp
+  cel 3hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_trombone
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - side drum
+    - triangle
+    - tam-tam
+    - glockenspiel
+    - chimes
+    - wind machine
+    - fonica
+  keyboards:
+  - instrument: celesta
+  harp: 3
+  strings: str
+  soloists:
+  - Minnie (soprano)
+  - Jack Rance
+  - sheriff (baritone)
+  - Dick Johnson alias Ramerrez
+  - bandit (tenor)
+  - Nick
+  - bartender at the Polka saloon (tenor)
+  - Ashby
+  - Wells Fargo agent (bass)
+  - Sonora
+  - miner (baritone)
+  - Trin
+  - miner (tenor)
+  - Sid
+  - miner (baritone)
+  - Bello
+  - miner (baritone)
+  - Harry
+  - miner (tenor)
+  - Joe
+  - miner (tenor)
+  - Happy
+  - miner (baritone)
+  - Jim Larkens
+  - miner (bass)
+  - Billy Jackrabbit
+  - a Red Indian (bass)
+  - Wowkle
+  - his squaw (mezzo-soprano)
+  - Jake Wallace
+  - a traveling camp minstrel (baritone)
+  - José Castro
+  - a mestizo "greaser"
+  - from Ramirez' band (bass)
+  - The Pony Express rider (tenor) Male Chorus (TTB) :Men of the camp and boys of
+    the ridge
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_fanciulla_del_West%2C_SC_78_%28Puccini%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: 3+1, 3+1, 3+1, 3+1 - 4, 3, 4, 0, tmp, 4prc, cel, 2hp, strs
+    Cast (17 roles) :Minnie (soprano), Jack Rance, sheriff (baritone), Dick Johnson
+    alias Ramerrez, bandit (tenor), Nick, bartender at the Polka saloon (tenor), Ashby,
+    Wells Fargo agent (bass), Sonora, miner (baritone), Trin, miner (tenor), Sid,
+    miner (baritone), Bello, miner (baritone), Harry, miner (tenor), Joe, miner (tenor),
+    Happy, miner (baritone), Jim Larkens, miner (bass), Billy Jackrabbit, a Red Indian
+    (bass), Wowkle, his squaw (mezzo-soprano), Jake Wallace, a traveling camp minstrel
+    (baritone), José Castro, a mestizo "greaser", from Ramirez'' band (bass), The
+    Pony Express rider (tenor) Male Chorus (TTB) :Men of the camp and boys of the
+    ridge Orchestra :piccolo, 3 flutes, 3 oboes, English horn, 3 clarinets, bass clarinet,
+    3 bassoons, contrabassoon, 4 horns, 3 trumpets, 3 trombones, bass trombone, timpani,
+    bass drum, cymbals, side drum, triangle, tam-tam, glockenspiel, celesta, 2 harps,
+    strings '' :chimes, wind machine, harp, fonica (= vibraphone)'
+duration_minutes: 140

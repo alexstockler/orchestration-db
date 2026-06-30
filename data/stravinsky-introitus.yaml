@@ -13,7 +13,9 @@ instrumentation:
   - instrument: piano
   harp: 1
   chorus_raw: male chorus
-  additional_raw: viola | double bass
+  solo_strings:
+    viola: 1
+    double_bass: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Introitus%2C_K104_%28Stravinsky%2C_Igor%29

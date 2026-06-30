@@ -1,0 +1,18 @@
+id: massenet-revons-c-est-l-heure
+work:
+  composer: Massenet, Jules
+  title: Rêvons, c'est l'heure
+  ids:
+    imslp: Rêvons, c'est l'heure (Massenet, Jules)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/R%C3%AAvons%2C_c%27est_l%27heure_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices (soprano and tenor), piano'

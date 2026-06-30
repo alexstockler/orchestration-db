@@ -1,0 +1,19 @@
+id: massenet-la-terre-promise
+work:
+  composer: Massenet, Jules
+  title: La terre promise
+  ids:
+    imslp: La terre promise (Massenet, Jules)
+  year: 1897
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  - baritone
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_terre_promise_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, baritone, mixed chorus, orchestra'

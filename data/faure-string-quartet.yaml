@@ -1,0 +1,19 @@
+id: faure-string-quartet
+work:
+  composer: Fauré, Gabriel
+  title: String Quartet
+  ids:
+    imslp: String Quartet, Op.121 (Fauré, Gabriel)
+  year: 1923
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet%2C_Op.121_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 30

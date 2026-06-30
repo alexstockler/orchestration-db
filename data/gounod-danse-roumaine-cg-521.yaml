@@ -1,0 +1,16 @@
+id: gounod-danse-roumaine-cg-521
+work:
+  composer: Gounod, Charles
+  title: Danse roumaine, CG 521
+  ids:
+    imslp: Danse roumaine, CG 521 (Gounod, Charles)
+  year: 1888
+formula: ''
+instrumentation:
+  additional_raw: pedal piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Danse_roumaine%2C_CG_521_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: pedal piano, orchestra'
+duration_minutes: 5

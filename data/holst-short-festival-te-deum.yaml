@@ -1,0 +1,15 @@
+id: holst-short-festival-te-deum
+work:
+  composer: Holst, Gustav
+  title: Short Festival Te Deum
+  ids:
+    imslp: Short Festival Te Deum (Holst, Gustav)
+  year: 1919
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Short_Festival_Te_Deum_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), orchestra'

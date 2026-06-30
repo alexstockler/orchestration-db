@@ -11,7 +11,9 @@ instrumentation:
   trombone: 3
   keyboards:
   - instrument: organ
-  strings: str
+  strings:
+    standard: true
+    description: 2,2,1,1,1
   soloists:
   - soprano
   - alto

@@ -1,0 +1,16 @@
+id: nielsen-chaconne
+work:
+  composer: Nielsen, Carl
+  title: Chaconne
+  ids:
+    imslp: Chaconne, Op.32 (Nielsen, Carl)
+  year: 1916
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chaconne%2C_Op.32_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

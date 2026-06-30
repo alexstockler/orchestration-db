@@ -1,0 +1,17 @@
+id: lalo-allegro-maestoso-pour-piano-et-violon
+work:
+  composer: Lalo, Édouard
+  title: Allegro maestoso pour piano et violon
+  ids:
+    imslp: Allegro maestoso, Op.2 (Lalo, Édouard)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegro_maestoso%2C_Op.2_%28Lalo%2C_%C3%89douard%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

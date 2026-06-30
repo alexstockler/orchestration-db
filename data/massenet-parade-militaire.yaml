@@ -1,0 +1,26 @@
+id: massenet-parade-militaire
+work:
+  composer: Massenet, Jules
+  title: Parade militaire
+  ids:
+    imslp: Parade militaire (Massenet, Jules)
+  year: 1887
+formula: 2[pic.2] 2 0 2 0030 str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 2
+  bassoon: 2
+  trombone: 3
+  percussion:
+    instruments:
+    - snare drums
+  strings: str
+  additional_raw: 2 clarinets in A | 4 horns in F | 2 cornets in A
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Parade_militaire_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, flute, 2 oboes, 2 clarinets in A, 2 bassoons,,
+    4 horns in F, 2 cornets in A, 3 trombones, 3 snare drums, strings'

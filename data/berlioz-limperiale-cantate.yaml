@@ -1,0 +1,17 @@
+id: berlioz-limperiale-cantate
+work:
+  composer: Berlioz, Hector
+  title: L’impériale, cantate
+  ids:
+    imslp: L'impériale, H 129 (Berlioz, Hector)
+  year: 1854
+formula: ''
+instrumentation:
+  additional_raw: SATB–SATB double choir – 2(6).2(6).2(6).2(8) – 4(8).2(6)+2.(6)cornet.8.2+2oph
+    – timp | bass dr – str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27imp%C3%A9riale%2C_H_129_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB–SATB double choir – 2(6).2(6).2(6).2(8) – 4(8).2(6)+2.(6)cornet.8.2+2oph
+    – timp, bass dr – str'

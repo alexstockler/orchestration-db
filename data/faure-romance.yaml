@@ -1,0 +1,18 @@
+id: faure-romance
+work:
+  composer: Fauré, Gabriel
+  title: Romance
+  ids:
+    imslp: Romance, Op.28 (Fauré, Gabriel)
+  year: 1883
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romance%2C_Op.28_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

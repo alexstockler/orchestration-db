@@ -1,0 +1,17 @@
+id: gounod-mass-no-5-in-c-major
+work:
+  composer: Gounod, Charles
+  title: Mass No.5 in C major
+  ids:
+    imslp: Mass No.5 in C major, CG 65 (Gounod, Charles)
+  year: 1872
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mass_No.5_in_C_major%2C_CG_65_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus, organ'

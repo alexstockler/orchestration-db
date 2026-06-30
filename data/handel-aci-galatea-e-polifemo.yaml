@@ -10,7 +10,11 @@ instrumentation:
   flute: 1
   oboe: 2
   trumpet: 2
-  additional_raw: 2 violins | viola | 2 cellos | continuo (harpsichord)
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 2
+  additional_raw: continuo (harpsichord)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Aci%2C_Galatea_e_Polifemo%2C_HWV_72_%28Handel%2C_George_Frideric%29

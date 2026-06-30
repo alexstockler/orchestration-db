@@ -1,0 +1,36 @@
+id: hindemith-hin-und-zuruck-there-and-back
+work:
+  composer: Hindemith, Paul
+  title: Hin und zurück (There and Back)
+  ids:
+    imslp: Hin und zurück, Op.45a (Hindemith, Paul)
+  year: 1927
+formula: 1011 0110 pf pf harm
+instrumentation:
+  flute: 1
+  clarinet: 1
+  bassoon: 1
+  trumpet: 1
+  trombone: 1
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  - instrument: harmonium
+  soloists:
+  - voices
+  saxophones:
+  - instrument: alto_sax
+    count: 1
+  additional_raw: Robert (tenor) | Helene | Robert's wife (soprano) | Aunt Emma (silent
+    role) | The Professor (baritone) | Ambulance Man (bass) | The Maid (spoken role)
+    | Wise Man (tenor) | Behind the Scene (On-stage)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hin_und_zur%C3%BCck%2C_Op.45a_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra :Voices ::Robert (tenor), Helene, Robert''s
+    wife (soprano), Aunt Emma (silent role), The Professor (baritone), Ambulance Man
+    (bass), The Maid (spoken role), Wise Man (tenor) :Orchestra (Chamber) ::flute,
+    clarinet (B), alto saxophone (E), bassoon, trumpet (C), trombone, 2 pianos (4-hand,
+    2-hand) :Behind the Scene (On-stage) ::harmonium (or organ)'
+duration_minutes: 12

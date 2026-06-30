@@ -1,0 +1,16 @@
+id: respighi-6-pieces-for-piano
+work:
+  composer: Respighi, Ottorino
+  title: 6 Pieces for Piano
+  ids:
+    imslp: 6 Pieces for Piano (Respighi, Ottorino)
+  year: 1903
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Pieces_for_Piano_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

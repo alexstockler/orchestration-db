@@ -6,7 +6,10 @@ work:
     imslp: Hornpipe Aria in C minor, HWV 355 (Handel, George Frideric)
 formula: ''
 instrumentation:
-  additional_raw: 2 violins | viola | basses
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: basses
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Hornpipe_Aria_in_C_minor%2C_HWV_355_%28Handel%2C_George_Frideric%29

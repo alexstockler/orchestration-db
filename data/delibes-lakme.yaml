@@ -1,0 +1,74 @@
+id: delibes-lakme
+work:
+  composer: Delibes, Léo
+  title: Lakmé
+  ids:
+    imslp: Lakmé (Delibes, Léo)
+  year: 1883
+formula: 2222 4 2[cnt.cnt] 3 1 tmp hp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tambourine
+    - bass drum
+    - cymbals
+    - snare drum
+    - crotales
+    - bell
+    - glockenspiel
+  harp: 1
+  strings: str
+  soloists:
+  - Lakmé
+  - a priestess
+  - daughter of Nilakantha (coloratura soprano)
+  - Gérald
+  - a British army officer (tenor)
+  - Nilakantha
+  - a Brahmin priest (bass)
+  - Frédéric
+  - officer friend of Gérald (baritone)
+  - Mallika
+  - slave of Lakmé (mezzo-soprano)
+  - Hadji
+  - slave of Nilakantha (tenor)
+  - Miss Ellen
+  - fiancée of Gérald (soprano)
+  - Miss Rose
+  - companion of Ellen (soprano)
+  - Mistress Bentson
+  - a governess (mezzo-soprano)
+  - Fortune teller (Un Domben) (tenor)
+  - A Chinese merchant (tenor)
+  - Le Kouravar (baritone) Chorus :Officers
+  - ladies
+  - merchants
+  - Brahmins
+  - musicians
+  additional_raw: small timpani
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lakm%C3%A9_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Lakmé, a priestess, daughter of Nilakantha (coloratura
+    soprano), Gérald, a British army officer (tenor), Nilakantha, a Brahmin priest
+    (bass), Frédéric, officer friend of Gérald (baritone), Mallika, slave of Lakmé
+    (mezzo-soprano), Hadji, slave of Nilakantha (tenor), Miss Ellen, fiancée of Gérald
+    (soprano), Miss Rose, companion of Ellen (soprano), Mistress Bentson, a governess
+    (mezzo-soprano), Fortune teller (Un Domben) (tenor), A Chinese merchant (tenor),
+    Le Kouravar (baritone) Chorus :Officers, ladies, merchants, Brahmins, musicians
+    Orchestra :2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 cornets, 3 trombones,
+    tuba, timpani, small timpani, triangle, tambourine, bass drum, cymbals,, snare
+    drum, crotales, bell (E), glockenspiel, harp, strings'

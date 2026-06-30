@@ -1,0 +1,36 @@
+id: vaughan-williams-flos-campi
+work:
+  composer: Vaughan Williams, Ralph
+  title: Flos Campi
+  ids:
+    imslp: Flos Campi (Vaughan Williams, Ralph)
+  year: 1925
+formula: 1111 1100 cel hp str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 1
+  trumpet: 1
+  percussion:
+    instruments:
+    - cymbals
+    - bass drum
+    - triangle
+    - snare drum
+  keyboards:
+  - instrument: celesta
+  harp: 1
+  strings: str
+  soloists:
+  - mixed chorus (SATB)
+  - 'Solo: viola'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flos_Campi_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: mixed chorus (SATB), Solo: viola, Orchestra: flute
+    (also piccolo), oboe, clarinet, bassoon, horn, trumpet, cymbals, bass drum, triangle,
+    snare drum, celesta, harp, strings'
+duration_minutes: 21

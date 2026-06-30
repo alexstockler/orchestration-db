@@ -1,0 +1,16 @@
+id: hindemith-kanonische-sonatine-fur-zwei-floten
+work:
+  composer: Hindemith, Paul
+  title: Kanonische Sonatine für Zwei Flöten
+  ids:
+    imslp: Kanonische Sonatine, Op.31 No.3 (Hindemith, Paul)
+  year: 1923
+formula: 2000 0000
+instrumentation:
+  flute: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kanonische_Sonatine%2C_Op.31_No.3_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes'
+duration_minutes: 6

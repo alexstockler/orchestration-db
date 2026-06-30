@@ -1,0 +1,15 @@
+id: bizet-romance-sans-paroles
+work:
+  composer: Bizet, Georges
+  title: Romance sans paroles
+  ids:
+    imslp: Romance sans paroles, WD 46 (Bizet, Georges)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romance_sans_paroles%2C_WD_46_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

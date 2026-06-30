@@ -1,0 +1,19 @@
+id: vaughan-williams-the-house-of-life
+work:
+  composer: Vaughan Williams, Ralph
+  title: The House of Life
+  ids:
+    imslp: The House of Life (Vaughan Williams, Ralph)
+  year: 1903
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_House_of_Life_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 27

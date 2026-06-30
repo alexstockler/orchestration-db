@@ -15,7 +15,9 @@ instrumentation:
   soloists:
   - tenor
   chorus_raw: mixed chorus
-  additional_raw: 1 | 2 | soli | cellos | basses | continuo | 3
+  solo_strings:
+    cello: 1
+  additional_raw: 1 | 2 | soli | basses | continuo | 3
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Kirchenmusik%2C_Op.23_%28Mendelssohn%2C_Felix%29

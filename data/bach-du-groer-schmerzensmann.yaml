@@ -1,0 +1,15 @@
+id: bach-du-groer-schmerzensmann
+work:
+  composer: Bach, Johann Sebastian
+  title: Du großer Schmerzensmann
+  ids:
+    imslp: Du großer Schmerzensmann, BWV 300 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Du_gro%C3%9Fer_Schmerzensmann%2C_BWV_300_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

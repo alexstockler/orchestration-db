@@ -1,0 +1,39 @@
+id: vaughan-williams-symphony-no-8-in-d-minor
+work:
+  composer: Vaughan Williams, Ralph
+  title: Symphony No.8 in D minor
+  ids:
+    imslp: Symphony No.8 in D minor (Vaughan Williams, Ralph)
+  year: 1956
+formula: 0223 2230 cel 2hp str
+instrumentation:
+  oboe: 2
+  clarinet: 2
+  bassoon: 3
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    instruments:
+    - vibraphone
+    - triangle
+    - glockenspiel
+    - snare drum
+    - cymbals
+    - chimes
+    - tuned gongs
+    - bass drum
+    - xylophone
+  keyboards:
+  - instrument: celesta
+  harp: 2
+  strings: str
+  additional_raw: 2 flutes/piccolo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.8_in_D_minor_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes/piccolo, 2 oboes, 2 clarinets, 3 bassoons + 2
+    horns, 2 trumpets, 3 trombones + vibraphone, triangle, glockenspiel, snare drum,
+    cymbals, chimes, tuned gongs, bass drum, xylophone + celesta + 2 harps + strings'
+duration_minutes: 29

@@ -1,0 +1,20 @@
+id: hindemith-tenor-horn-sonata
+work:
+  composer: Hindemith, Paul
+  title: Tenor Horn Sonata
+  ids:
+    imslp: Tenor Horn Sonata (Hindemith, Paul)
+  year: 1943
+formula: pf
+instrumentation:
+  percussion:
+    instruments:
+    - tenor horn
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tenor_Horn_Sonata_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor horn (or saxophone), piano'
+duration_minutes: 11

@@ -1,0 +1,17 @@
+id: vaughan-williams-prelude-for-brass
+work:
+  composer: Vaughan Williams, Ralph
+  title: Prelude for Brass
+  ids:
+    imslp: Prelude for Brass (Vaughan Williams, Ralph)
+formula: 0000 1211
+instrumentation:
+  horn: 1
+  trumpet: 2
+  trombone: 1
+  tuba: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude_for_Brass_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: horn, 2 trumpets, trombone, tuba'

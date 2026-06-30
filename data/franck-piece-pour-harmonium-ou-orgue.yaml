@@ -1,0 +1,16 @@
+id: franck-piece-pour-harmonium-ou-orgue
+work:
+  composer: Franck, César
+  title: (Pièce) pour harmonium ou orgue
+  ids:
+    imslp: Pièce in C minor, CFF 39 (Franck, César)
+  year: 1880
+formula: harm
+instrumentation:
+  keyboards:
+  - instrument: harmonium
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pi%C3%A8ce_in_C_minor%2C_CFF_39_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: Harmonium (organ)'

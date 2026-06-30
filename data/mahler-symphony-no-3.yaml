@@ -6,7 +6,7 @@ work:
     imslp: Symphony No.3, GMW 31 (Mahler, Gustav)
   year: 1896
 formula: 4 4[1.2.3.4/Eh] 5[Ebcl.Ebcl.3/bcl.4.5] 4[1.2.3/cbn.4/cbn] 8441 tmp+1 2hp
-  str
+  posthorn str
 instrumentation:
   flute: 4
   oboe:
@@ -47,10 +47,12 @@ instrumentation:
     - tam-tam
     - snare drums
   harp: 2
+  extras:
+  - instrument: posthorn
   strings: str
   soloists:
   - knabenchor")
-  additional_raw: posthorn or flügelhorn (3rd mvt) | 6 tuned bells (5th mvt)
+  additional_raw: 6 tuned bells (5th mvt)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Symphony_No.3%2C_GMW_31_%28Mahler%2C_Gustav%29

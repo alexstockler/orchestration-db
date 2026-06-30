@@ -1,0 +1,19 @@
+id: vaughan-williams-phantasy-quintet
+work:
+  composer: Vaughan Williams, Ralph
+  title: Phantasy Quintet
+  ids:
+    imslp: Phantasy Quintet (Vaughan Williams, Ralph)
+  year: 1912
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 2
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Phantasy_Quintet_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, 2 violas, cello'
+duration_minutes: 16

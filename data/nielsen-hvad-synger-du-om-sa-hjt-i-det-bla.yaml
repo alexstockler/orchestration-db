@@ -1,0 +1,17 @@
+id: nielsen-hvad-synger-du-om-sa-hjt-i-det-bla
+work:
+  composer: Nielsen, Carl
+  title: Hvad synger du om så højt i det blå?
+  ids:
+    imslp: Hvad synger du om så højt i det blå?, CNW 260 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hvad_synger_du_om_s%C3%A5_h%C3%B8jt_i_det_bl%C3%A5%3F%2C_CNW_260_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

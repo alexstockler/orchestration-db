@@ -1,0 +1,16 @@
+id: bach-christe-aller-welt-trost
+work:
+  composer: Bach, Johann Sebastian
+  title: Christe, aller Welt Trost
+  ids:
+    imslp: Christe, aller Welt Trost, BWV 673 (Bach, Johann Sebastian)
+  year: 1739
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Christe%2C_aller_Welt_Trost%2C_BWV_673_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

@@ -1,0 +1,18 @@
+id: massenet-le-noel-des-humbles
+work:
+  composer: Massenet, Jules
+  title: Le noël des humbles
+  ids:
+    imslp: Le noël des humbles (Massenet, Jules)
+  year: 1908
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_no%C3%ABl_des_humbles_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

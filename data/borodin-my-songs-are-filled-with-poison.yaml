@@ -1,0 +1,18 @@
+id: borodin-my-songs-are-filled-with-poison
+work:
+  composer: Borodin, Aleksandr
+  title: My Songs are Filled with Poison
+  ids:
+    imslp: My Songs are Filled with Poison (Borodin, Aleksandr)
+  year: 1868
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/My_Songs_are_Filled_with_Poison_%28Borodin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

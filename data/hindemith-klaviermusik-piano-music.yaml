@@ -1,0 +1,17 @@
+id: hindemith-klaviermusik-piano-music
+work:
+  composer: Hindemith, Paul
+  title: Klaviermusik, Piano Music
+  ids:
+    imslp: Klaviermusik, Op.37 (Hindemith, Paul)
+  year: 1924
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Klaviermusik%2C_Op.37_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 35

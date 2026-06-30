@@ -1,0 +1,39 @@
+id: bizet-carmen-suite-no-2
+work:
+  composer: Bizet, Georges
+  title: Carmen Suite No.2
+  ids:
+    imslp: Carmen Suite No.2 (Bizet, Georges)
+  year: 1886
+formula: 2 2[1.2/Eh] 2 2 4 2[cnt.cnt] 3 1 tmp hp str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - tambourine
+    - triangle
+    - bass drum
+    - cymbals
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Carmen_Suite_No.2_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (both also piccolo), 2 oboes (2nd also English
+    horn), 2 clarinets, 2 bassoons, 4 horns, 2 cornets, 3 trombones, tuba, timpani,
+    tambourine, triangle, bass drum, cymbals, harp, strings'
+duration_minutes: 19

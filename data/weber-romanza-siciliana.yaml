@@ -1,0 +1,25 @@
+id: weber-romanza-siciliana
+work:
+  composer: Weber, Carl Maria von
+  title: Romanza siciliana
+  ids:
+    imslp: Romanza siciliana, J.47 (Weber, Carl Maria von)
+  year: 1805
+formula: 0222 2010 tmp str
+instrumentation:
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trombone: 1
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - flute
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romanza_siciliana%2C_J.47_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: flute, Orchestra: 2 oboes, 2 clarinets, 2 bassoons,
+    2 horns, trombone, timpani, strings'

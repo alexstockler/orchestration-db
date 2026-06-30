@@ -1,0 +1,20 @@
+id: nielsen-wind-quintet
+work:
+  composer: Nielsen, Carl
+  title: Wind Quintet
+  ids:
+    imslp: Wind Quintet, Op.43 (Nielsen, Carl)
+  year: 1922
+formula: 1111 1000
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Wind_Quintet%2C_Op.43_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe (also English horn), clarinet (A), bassoon,
+    horn (F)'

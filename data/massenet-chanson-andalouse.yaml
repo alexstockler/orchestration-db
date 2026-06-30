@@ -1,0 +1,18 @@
+id: massenet-chanson-andalouse
+work:
+  composer: Massenet, Jules
+  title: Chanson andalouse
+  ids:
+    imslp: Chanson andalouse (Massenet, Jules)
+  year: 1885
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chanson_andalouse_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

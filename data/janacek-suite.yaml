@@ -1,0 +1,15 @@
+id: janacek-suite
+work:
+  composer: Janáček, Leoš
+  title: Suite
+  ids:
+    imslp: Suite, JW 6/6 (Janáček, Leoš)
+  year: 1889
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite%2C_JW_6/6_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'
+duration_minutes: 16

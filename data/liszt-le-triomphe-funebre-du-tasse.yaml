@@ -5,7 +5,7 @@ work:
   ids:
     imslp: Le triomphe funèbre du Tasse, S.112/3 (Liszt, Franz)
   year: 1866
-formula: 3[pic.2.3] 2 2 2 4231
+formula: 3[pic.2.3] 2 2 2 4231 tmp str
 instrumentation:
   flute:
   - instrument: piccolo
@@ -18,7 +18,9 @@ instrumentation:
   trumpet: 2
   trombone: 3
   tuba: 1
-  additional_raw: timpani + strings
+  percussion:
+    timpani: 1
+  strings: str
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Le_triomphe_fun%C3%A8bre_du_Tasse%2C_S.112/3_%28Liszt%2C_Franz%29

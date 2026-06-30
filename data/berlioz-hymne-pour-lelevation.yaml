@@ -1,0 +1,17 @@
+id: berlioz-hymne-pour-lelevation
+work:
+  composer: Berlioz, Hector
+  title: Hymne pour l’élévation
+  ids:
+    imslp: Hymne pour l'élévation, H 100 (Berlioz, Hector)
+  year: 1844
+formula: harm
+instrumentation:
+  keyboards:
+  - instrument: harmonium
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymne_pour_l%27%C3%A9l%C3%A9vation%2C_H_100_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: harmonium'
+duration_minutes: 4

@@ -1,0 +1,19 @@
+id: janacek-slezske-pisne-ze-sbirky-heleny-salichove
+work:
+  composer: Janáček, Leoš
+  title: Slezské písně ze sbírky Heleny Salichové
+  ids:
+    imslp: Slezské písně, JW 5/13 (Janáček, Leoš)
+  year: 1918
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Slezsk%C3%A9_p%C3%ADsn%C4%9B%2C_JW_5/13_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 20

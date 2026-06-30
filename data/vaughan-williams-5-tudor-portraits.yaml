@@ -1,0 +1,28 @@
+id: vaughan-williams-5-tudor-portraits
+work:
+  composer: Vaughan Williams, Ralph
+  title: 5 Tudor Portraits
+  ids:
+    imslp: 5 Tudor Portraits (Vaughan Williams, Ralph)
+  year: 1935
+formula: ''
+instrumentation:
+  soloists:
+  - mezzo soprano
+  - contralto
+  - baritone
+  - mixed chorus (SATB)
+  additional_raw: N.B | in movements 1 and 4 | the contralto / mezzo indications are
+    alternates | If the first listed is the preference | then all 3 voice types are
+    needed | but by using the alternate indications | this could be done with 2 voices
+    -- mezzo and baritone OR contralto and baritone
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Tudor_Portraits_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: mezzo soprano, contralto, baritone, mixed chorus
+    (SATB), Orchestra:, N.B. in movements 1 and 4, the contralto / mezzo indications
+    are alternates. If the first listed is the preference, then all 3 voice types
+    are needed, but by using the alternate indications, this could be done with 2
+    voices -- mezzo and baritone OR contralto and baritone'
+duration_minutes: 46

@@ -1,0 +1,16 @@
+id: massenet-sapho
+work:
+  composer: Massenet, Jules
+  title: Sapho
+  ids:
+    imslp: Sapho (Massenet, Jules)
+  year: 1897
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sapho_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

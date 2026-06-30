@@ -1,0 +1,19 @@
+id: smetana-z-domoviny
+work:
+  composer: Smetana, Bedřich
+  title: Z domoviny
+  ids:
+    imslp: Z domoviny, JB 1:118 (Smetana, Bedřich)
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Z_domoviny%2C_JB_1%3A118_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 12

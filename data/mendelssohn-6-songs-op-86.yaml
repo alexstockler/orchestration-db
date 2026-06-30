@@ -7,7 +7,8 @@ work:
   year: 1826
 formula: ''
 instrumentation:
-  additional_raw: voice and piano
+  soloists:
+  - voice and piano
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/6_Ges%C3%A4nge%2C_Op.86_%28Mendelssohn%2C_Felix%29

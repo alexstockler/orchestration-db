@@ -1,0 +1,33 @@
+id: massenet-scenes-hongroises
+work:
+  composer: Massenet, Jules
+  title: Scènes hongroises
+  ids:
+    imslp: Scènes hongroises (Massenet, Jules)
+  year: 1870
+formula: 1[pic] 2 2 0 4 4[cnt.cnt.3.4] 3 1 tmp
+instrumentation:
+  flute:
+  - instrument: piccolo
+  oboe: 2
+  clarinet: 2
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  additional_raw: Orchestra (2 flutes | 4 or 2 bassoons | percussion (triangle, cymbals,
+    bass drum, military drum), 2 harps and strings)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sc%C3%A8nes_hongroises_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra (2 flutes, piccolo, 2 oboes, 2 clarinets (B),
+    4 or 2 bassoons, 4 horns, 2 cornets, 2 trumpets, 3 trombones, (sax)tuba, timpani,
+    percussion (triangle, cymbals, bass drum, military drum), 2 harps and strings)'
+duration_minutes: 18

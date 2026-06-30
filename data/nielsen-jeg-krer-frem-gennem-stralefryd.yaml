@@ -1,0 +1,22 @@
+id: nielsen-jeg-krer-frem-gennem-stralefryd
+work:
+  composer: Nielsen, Carl
+  title: Jeg kører frem gennem Strålefryd
+  ids:
+    imslp: Jeg kører frem gennem Strålefryd, CNW 403 (Nielsen, Carl)
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  soloists:
+  - voice
+  additional_raw: unison voices | Version 2 (1926) | Version 3 (1926-7) | female or
+    children's chorus (SA)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jeg_k%C3%B8rer_frem_gennem_Str%C3%A5lefryd%2C_CNW_403_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Version 1 (1926): unison voices, piano, Version 2 (1926):
+    voice, piano (text over piano part, no separate line), Version 3 (1926-7): female
+    or children''s chorus (SA)'

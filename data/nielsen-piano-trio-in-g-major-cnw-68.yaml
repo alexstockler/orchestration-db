@@ -1,0 +1,19 @@
+id: nielsen-piano-trio-in-g-major-cnw-68
+work:
+  composer: Nielsen, Carl
+  title: Piano Trio in G major, CNW 68
+  ids:
+    imslp: Piano Trio, CNW 68 (Nielsen, Carl)
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio%2C_CNW_68_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'

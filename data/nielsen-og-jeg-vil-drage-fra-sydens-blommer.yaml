@@ -1,0 +1,17 @@
+id: nielsen-og-jeg-vil-drage-fra-sydens-blommer
+work:
+  composer: Nielsen, Carl
+  title: Og jeg vil drage fra Sydens Blommer
+  ids:
+    imslp: Og jeg vil drage fra Sydens Blommer, CNW 304 (Nielsen, Carl)
+  year: 1914
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: unison voices | piano 1916 (F-sharp major)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Og_jeg_vil_drage_fra_Sydens_Blommer%2C_CNW_304_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: unison voices, voice, piano 1916 (F-sharp major)'

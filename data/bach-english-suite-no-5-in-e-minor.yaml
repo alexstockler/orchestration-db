@@ -1,0 +1,15 @@
+id: bach-english-suite-no-5-in-e-minor
+work:
+  composer: Bach, Johann Sebastian
+  title: English Suite No.5 in E minor
+  ids:
+    imslp: English Suite No.5 in E minor, BWV 810 (Bach, Johann Sebastian)
+  year: 1715
+formula: ''
+instrumentation:
+  additional_raw: keyboard (harpsichord or clavichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/English_Suite_No.5_in_E_minor%2C_BWV_810_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard (harpsichord or clavichord)'

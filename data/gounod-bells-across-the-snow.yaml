@@ -1,0 +1,14 @@
+id: gounod-bells-across-the-snow
+work:
+  composer: Gounod, Charles
+  title: Bells Across the Snow
+  ids:
+    imslp: Bells Across the Snow, CG 2h (Gounod, Charles)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bells_Across_the_Snow%2C_CG_2h_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

@@ -1,0 +1,17 @@
+id: weber-12-allemandes
+work:
+  composer: Weber, Carl Maria von
+  title: 12 Allemandes
+  ids:
+    imslp: 12 Allemandes, Op.4 (Weber, Carl Maria von)
+  year: 1801
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Allemandes%2C_Op.4_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: piano (Nos.1–10); piano 4 hands (Nos.11–12)'

@@ -1,0 +1,15 @@
+id: massenet-vilanelle
+work:
+  composer: Massenet, Jules
+  title: Vilanelle
+  ids:
+    imslp: Vilanelle (Massenet, Jules)
+  year: 1872
+formula: ''
+instrumentation:
+  additional_raw: unaccompanied male chorus (TTBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vilanelle_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: unaccompanied male chorus (TTBB)'

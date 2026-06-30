@@ -1,0 +1,16 @@
+id: glazunov-theme-and-variations
+work:
+  composer: Glazunov, Aleksandr
+  title: Theme and Variations
+  ids:
+    imslp: Thème et Variations, Op.72 (Glazunov, Aleksandr)
+  year: 1900
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Th%C3%A8me_et_Variations%2C_Op.72_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

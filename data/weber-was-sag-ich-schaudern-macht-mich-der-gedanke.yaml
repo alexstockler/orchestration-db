@@ -1,0 +1,17 @@
+id: weber-was-sag-ich-schaudern-macht-mich-der-gedanke
+work:
+  composer: Weber, Carl Maria von
+  title: Was sag ich! Schaudern macht mich der Gedanke!
+  ids:
+    imslp: Was sag ich! Schaudern macht mich der Gedanke!, Op.56 (Weber, Carl Maria
+      von)
+  year: 1818
+formula: ''
+instrumentation:
+  additional_raw: Soprano and Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Was_sag_ich%21_Schaudern_macht_mich_der_Gedanke%21%2C_Op.56_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Soprano and Orchestra'
+duration_minutes: 8

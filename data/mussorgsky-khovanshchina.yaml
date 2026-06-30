@@ -1,0 +1,63 @@
+id: mussorgsky-khovanshchina
+work:
+  composer: Mussorgsky, Modest
+  title: Khovanshchina
+  ids:
+    imslp: Khovanshchina (Mussorgsky, Modest)
+  year: 1872
+formula: 3[1.2.3/pic] 2[1.2/Eh] 2 2 4661 tmp pf hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 6
+  trombone: 6
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - snare drum
+    - triangle
+    - tambourine
+    - cymbals
+    - tam-tam
+    - bells
+  keyboards:
+  - instrument: piano
+  harp: 1
+  strings: str
+  additional_raw: Prince Ivan Khovansky | head of the Streltsy (bass) | Prince Andrey
+    Khovansky | his son (tenor) | Prince Vasily Golitsin (tenor) | Dosifey | head
+    of the Schismatics (bass) | Boyar Fyodor Shaklovity (bass-baritone) | Marfa |
+    a schismatic (mezzo-soprano) | Susanna | an old Schismatic (soprano) | Scrivener
+    (tenor) | Emma | a maiden from the German quarter (soprano) | Pastor (baritone)
+    | Varsonofyev | a retainer of Golitsin (baritone) | Kuzka | a strelets (tenor)
+    | Streshnev | a Boyar (tenor) Mixed Chorus (SATB) | Streltsy (Musketeers) | Schismatics
+    (Old Believers) | Serving girls | Persian slaves | People Orchestra (Rimsky-Korsakov
+    completion)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Khovanshchina_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Prince Ivan Khovansky, head of the Streltsy (bass),
+    Prince Andrey Khovansky, his son (tenor), Prince Vasily Golitsin (tenor), Dosifey,
+    head of the Schismatics (bass), Boyar Fyodor Shaklovity (bass-baritone), Marfa,
+    a schismatic (mezzo-soprano), Susanna, an old Schismatic (soprano), Scrivener
+    (tenor), Emma, a maiden from the German quarter (soprano), Pastor (baritone),
+    Varsonofyev, a retainer of Golitsin (baritone), Kuzka, a strelets (tenor), Streshnev,
+    a Boyar (tenor) Mixed Chorus (SATB) :Streltsy (Musketeers), Schismatics (Old Believers),
+    Serving girls, Persian slaves, People Orchestra (Rimsky-Korsakov completion) :3
+    flutes (3rd also piccolo), 2 oboes (2nd also English horn), 2 clarinets, 2 bassoons,
+    4 horns, 2 trumpets, 3 trombones, tuba, timpani, bass drum, snare drum, triangle,
+    tambourine, cymbals, tam-tam, bells, piano, harp, strings '' (Rimsky-Korsakov
+    completion) :4 trumpets, 3 trombones'

@@ -14,7 +14,9 @@ instrumentation:
   - Soloists (SSATTB) ::Pilate (alto)
   - Evangelist (tenor)
   - 'Jesus (bass) :Chorus (SATTB) :'
-  additional_raw: violin solo | continuo
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Passion_nach_dem_Evang._Johannes%2C_HG_9_%28Handel%2C_George_Frideric%29

@@ -1,0 +1,16 @@
+id: vaughan-williams-festival-te-deum
+work:
+  composer: Vaughan Williams, Ralph
+  title: Festival Te Deum
+  ids:
+    imslp: Festival Te Deum (Vaughan Williams, Ralph)
+  year: 1937
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Festival_Te_Deum_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), orchestra'
+duration_minutes: 7

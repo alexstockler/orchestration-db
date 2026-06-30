@@ -1,0 +1,15 @@
+id: bach-auf-auf-mein-herz-und-du-mein-ganzer-sinn
+work:
+  composer: Bach, Johann Sebastian
+  title: Auf, auf, mein Herz, und du, mein ganzer Sinn
+  ids:
+    imslp: Auf, auf, mein Herz, und du, mein ganzer Sinn, BWV 268 (Bach, Johann Sebastian)
+  year: 1731
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Auf%2C_auf%2C_mein_Herz%2C_und_du%2C_mein_ganzer_Sinn%2C_BWV_268_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

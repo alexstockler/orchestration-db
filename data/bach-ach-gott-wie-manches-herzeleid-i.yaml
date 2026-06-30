@@ -1,0 +1,20 @@
+id: bach-ach-gott-wie-manches-herzeleid-i
+work:
+  composer: Bach, Johann Sebastian
+  title: Ach Gott, wie manches Herzeleid [I]
+  ids:
+    imslp: Ach Gott, wie manches Herzeleid, BWV 3 (Bach, Johann Sebastian)
+  year: 1725
+formula: 0000 1010 str
+instrumentation:
+  horn: 1
+  trombone: 1
+  strings: str
+  additional_raw: 2 oboes d'amore | continuo (harpsichord and/or organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach_Gott%2C_wie_manches_Herzeleid%2C_BWV_3_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes d''amore, horn, trombone, strings, continuo (harpsichord
+    and/or organ)'
+duration_minutes: 25

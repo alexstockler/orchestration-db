@@ -58,8 +58,10 @@ instrumentation:
   - Major-domo (bass)
   - '8 servants: (4 tenors, 4 basses)'
   - 'A young dancer: (silent role) Mixed Chorus (SATB) :Musicians and servants Pit'
-  additional_raw: strings (16,16,10,10,6) On-Stage Ensemble | violin | cello Backstage
-    Ensemble | String Sextet (2 violins, 2 violas, 2 cellos)
+  solo_strings:
+    violin: 1
+  additional_raw: strings (16,16,10,10,6) On-Stage Ensemble | cello Backstage Ensemble
+    | String Sextet (2 violins, 2 violas, 2 cellos)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Capriccio%2C_Op.85_%28Strauss%2C_Richard%29

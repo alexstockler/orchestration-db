@@ -1,0 +1,16 @@
+id: bach-gott-durch-deine-gute
+work:
+  composer: Bach, Johann Sebastian
+  title: Gott, durch deine Güte
+  ids:
+    imslp: Gott, durch deine Güte, BWV 724 (Bach, Johann Sebastian)
+  year: 1705
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott%2C_durch_deine_G%C3%BCte%2C_BWV_724_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

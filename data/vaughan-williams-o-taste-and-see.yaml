@@ -1,0 +1,19 @@
+id: vaughan-williams-o-taste-and-see
+work:
+  composer: Vaughan Williams, Ralph
+  title: O Taste and See
+  ids:
+    imslp: O Taste and See (Vaughan Williams, Ralph)
+  year: 1953
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - soprano
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_Taste_and_See_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, mixed chorus (SATB), organ (introduction only)'

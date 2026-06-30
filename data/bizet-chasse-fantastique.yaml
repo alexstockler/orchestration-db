@@ -1,0 +1,16 @@
+id: bizet-chasse-fantastique
+work:
+  composer: Bizet, Georges
+  title: Chasse fantastique
+  ids:
+    imslp: Chasse fantastique (Bizet, Georges)
+  year: 1866
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chasse_fantastique_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

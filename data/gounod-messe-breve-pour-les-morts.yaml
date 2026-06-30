@@ -1,0 +1,17 @@
+id: gounod-messe-breve-pour-les-morts
+work:
+  composer: Gounod, Charles
+  title: Messe brève pour les morts
+  ids:
+    imslp: Messe brève pour les morts, CG 78 (Gounod, Charles)
+  year: 1873
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Messe_br%C3%A8ve_pour_les_morts%2C_CG_78_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

@@ -1,0 +1,14 @@
+id: scriabin-scherzo
+work:
+  composer: Scriabin, Aleksandr
+  title: Scherzo
+  ids:
+    imslp: Scherzo for String Orchestra (Scriabin, Aleksandr)
+  year: 1888
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scherzo_for_String_Orchestra_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: string orchestra'

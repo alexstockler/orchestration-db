@@ -1,0 +1,17 @@
+id: hindemith-trauermusik
+work:
+  composer: Hindemith, Paul
+  title: Trauermusik
+  ids:
+    imslp: Trauermusik (Hindemith, Paul)
+  year: 1936
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: viola (or violin or cello)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trauermusik_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: viola (or violin or cello), strings'
+duration_minutes: 8

@@ -1,0 +1,17 @@
+id: gounod-les-deux-reines
+work:
+  composer: Gounod, Charles
+  title: Les deux reines
+  ids:
+    imslp: Les deux reines, CG 28 (Gounod, Charles)
+  year: 1872
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_deux_reines%2C_CG_28_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

@@ -1,0 +1,14 @@
+id: respighi-preludio-corale-e-fuga
+work:
+  composer: Respighi, Ottorino
+  title: Preludio, Corale e Fuga
+  ids:
+    imslp: Preludio, corale e fuga (Respighi, Ottorino)
+  year: 1901
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Preludio%2C_corale_e_fuga_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

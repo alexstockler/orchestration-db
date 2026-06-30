@@ -1,0 +1,16 @@
+id: scriabin-2-danses
+work:
+  composer: Scriabin, Aleksandr
+  title: 2 Danses
+  ids:
+    imslp: 2 Danses, Op.73 (Scriabin, Aleksandr)
+  year: 1914
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Danses%2C_Op.73_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

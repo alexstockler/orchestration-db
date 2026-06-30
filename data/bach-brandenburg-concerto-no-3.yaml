@@ -1,0 +1,20 @@
+id: bach-brandenburg-concerto-no-3
+work:
+  composer: Bach, Johann Sebastian
+  title: Brandenburg Concerto No.3
+  ids:
+    imslp: Brandenburg Concerto No.3 in G major, BWV 1048 (Bach, Johann Sebastian)
+  year: 1718
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 3
+    viola: 3
+    cello: 3
+  additional_raw: continuo (harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Brandenburg_Concerto_No.3_in_G_major%2C_BWV_1048_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 violins, 3 violas, 3 cellos, continuo (harpsichord)'
+duration_minutes: 12

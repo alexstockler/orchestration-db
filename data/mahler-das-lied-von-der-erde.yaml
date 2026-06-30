@@ -5,19 +5,32 @@ work:
   ids:
     imslp: Das Lied von der Erde, GMW 49 (Mahler, Gustav)
   year: 1908
-formula: 3 3[1.2.3/Eh] 4[1.2.3.bcl] 0 0331 tmp cel 2hp mand str
+formula: 4[pic.2.3/pic.4] 3[1.2.3/Eh] 5[Ebcl.2.3.4.bcl] 3[1.2.3/cbn] 4331 tmp cel
+  2hp mand str
 instrumentation:
-  flute: 3
+  flute:
+  - instrument: piccolo
+  - {}
+  - doublings:
+    - piccolo
+  - {}
   oboe:
   - {}
   - {}
   - doublings:
     - english_horn
   clarinet:
+  - instrument: eflat_clarinet
   - {}
   - {}
   - {}
   - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  horn: 4
   trumpet: 3
   trombone: 3
   tuba: 1
@@ -38,9 +51,8 @@ instrumentation:
   - instrument: mandolin
   strings: str
   soloists:
-  - alto
-  additional_raw: 'tenor Orchestra :piccolo | unknown doubling in flute: 2nd piccolo
-    | ::E clarinet | 3 bassoons (3rd also contrabassoon) :4 horns'
+  - alto (baritone)
+  - tenor
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Das_Lied_von_der_Erde%2C_GMW_49_%28Mahler%2C_Gustav%29

@@ -1,0 +1,16 @@
+id: hindemith-der-galgenritt-the-demon-of-the-gibbet
+work:
+  composer: Hindemith, Paul
+  title: Der Galgenritt, The Demon of the Gibbet
+  ids:
+    imslp: The Demon of the Gibbet (Hindemith, Paul)
+  year: 1949
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Demon_of_the_Gibbet_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TBB)'
+duration_minutes: 34

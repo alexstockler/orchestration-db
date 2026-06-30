@@ -1,0 +1,44 @@
+id: glazunov-finnish-fantasy
+work:
+  composer: Glazunov, Aleksandr
+  title: Finnish Fantasy
+  ids:
+    imslp: Finnish Fantasy, Op.88 (Glazunov, Aleksandr)
+  year: 1909
+formula: 3[pic.2.3] 3[1.2.Eh] 3 3[1.2.cbn] 4332 tmp hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 3
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - snare drum
+    - cymbals
+    - bass drum
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Finnish_Fantasy%2C_Op.88_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra :piccolo, 2 flutes, 2 oboes, English horn, ::3
+    clarinets (B) (3rd also bass clarinet in B), 2 bassoons, contrabassoon :4 horns
+    (F), 3 trumpets (2 in B, 1 in F), 3 trombones, 2 tubas, timpani, triangle, snare
+    drum, cymbals, bass drum, harp, strings'
+duration_minutes: 13

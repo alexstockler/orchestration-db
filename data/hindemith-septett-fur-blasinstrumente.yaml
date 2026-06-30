@@ -1,0 +1,23 @@
+id: hindemith-septett-fur-blasinstrumente
+work:
+  composer: Hindemith, Paul
+  title: Septett für Blasinstrumente
+  ids:
+    imslp: Septet (Hindemith, Paul)
+  year: 1948
+formula: 1 1 2[1.bcl] 1 1100
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet:
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 1
+  horn: 1
+  trumpet: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Septet_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, clarinet (B), bass clarinet (B), bassoon,
+    horn (F), trumpet (B)'

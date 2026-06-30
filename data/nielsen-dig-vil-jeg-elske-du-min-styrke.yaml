@@ -1,0 +1,17 @@
+id: nielsen-dig-vil-jeg-elske-du-min-styrke
+work:
+  composer: Nielsen, Carl
+  title: Dig vil jeg elske, du min Styrke
+  ids:
+    imslp: Dig vil jeg elske, du min Styrke, CNW 161 (Nielsen, Carl)
+  year: 1913
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: piano / mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dig_vil_jeg_elske%2C_du_min_Styrke%2C_CNW_161_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano / mixed chorus'

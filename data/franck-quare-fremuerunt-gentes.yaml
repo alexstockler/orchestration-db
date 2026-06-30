@@ -1,0 +1,23 @@
+id: franck-quare-fremuerunt-gentes
+work:
+  composer: Franck, César
+  title: Quare fremuerunt gentes
+  ids:
+    imslp: Quare fremuerunt gentes (Franck, César)
+  year: 1865
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - soprano
+  - tenor
+  - bass
+  solo_strings:
+    double_bass: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Quare_fremuerunt_gentes_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, bass, organ, double bass'
+duration_minutes: 5

@@ -1,0 +1,16 @@
+id: nielsen-guds-engle-i-flok
+work:
+  composer: Nielsen, Carl
+  title: Guds Engle i Flok
+  ids:
+    imslp: Guds Engle i Flok, CNW 170 (Nielsen, Carl)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: piano / 4 voices (voices in piano score)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Guds_Engle_i_Flok%2C_CNW_170_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano / 4 voices (voices in piano score)'

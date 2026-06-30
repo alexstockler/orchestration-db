@@ -1,0 +1,19 @@
+id: gounod-ou-voulez-vous-aller
+work:
+  composer: Gounod, Charles
+  title: Où voulez-vous aller?
+  ids:
+    imslp: Où voulez-vous aller?, CG 419 (Gounod, Charles)
+  year: 1839
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+  additional_raw: violin/flute/cello/harmonium
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O%C3%B9_voulez-vous_aller%3F%2C_CG_419_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, violin/flute/cello/harmonium, piano'

@@ -1,0 +1,17 @@
+id: bach-es-wartet-alles-auf-dich
+work:
+  composer: Bach, Johann Sebastian
+  title: Es wartet alles auf dich
+  ids:
+    imslp: Es wartet alles auf dich, BWV 187 (Bach, Johann Sebastian)
+  year: 1726
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo (harpsichord and/or organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_wartet_alles_auf_dich%2C_BWV_187_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo (harpsichord and/or organ)'

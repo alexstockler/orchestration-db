@@ -1,0 +1,19 @@
+id: faure-sicilienne
+work:
+  composer: Fauré, Gabriel
+  title: Sicilienne
+  ids:
+    imslp: Sicilienne, Op.78 (Fauré, Gabriel)
+  year: 1893
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sicilienne%2C_Op.78_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: cello (or violin), piano ; orchestra'
+duration_minutes: 4

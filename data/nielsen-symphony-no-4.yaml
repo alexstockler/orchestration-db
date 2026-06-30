@@ -1,0 +1,36 @@
+id: nielsen-symphony-no-4
+work:
+  composer: Nielsen, Carl
+  title: Symphony No.4
+  ids:
+    imslp: Symphony No.4, Op.29 (Nielsen, Carl)
+  year: 1915
+formula: 3[1.2.3/pic] 3 3 3[1.2.3/cbn] 4331 tmp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 3
+  clarinet: 3
+  bassoon:
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.4%2C_Op.29_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: 30 parts :3 flutes (3rd also piccolo), 3 oboes, 3 clarinets,
+    3 bassoons (3rd also contrabassoon), 4 horns, 3 trumpets, 3 trombones, tuba, 2
+    timpani, strings'
+duration_minutes: 38

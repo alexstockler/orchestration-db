@@ -10,7 +10,10 @@ instrumentation:
   flute: 1
   clarinet: 1
   harp: 1
-  additional_raw: 2 violins | viola | cello
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Introduction_et_allegro%2C_M.46_%28Ravel%2C_Maurice%29

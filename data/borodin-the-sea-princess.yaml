@@ -1,0 +1,18 @@
+id: borodin-the-sea-princess
+work:
+  composer: Borodin, Aleksandr
+  title: The Sea Princess
+  ids:
+    imslp: The Sea Princess (Borodin, Aleksandr)
+  year: 1868
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Sea_Princess_%28Borodin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

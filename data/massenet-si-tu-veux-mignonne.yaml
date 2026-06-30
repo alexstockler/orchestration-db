@@ -1,0 +1,18 @@
+id: massenet-si-tu-veux-mignonne
+work:
+  composer: Massenet, Jules
+  title: Si tu veux, Mignonne
+  ids:
+    imslp: Si tu veux, Mignonne (Massenet, Jules)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Si_tu_veux%2C_Mignonne_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,15 @@
+id: bach-als-vierzig-tag-nach-ostern-war
+work:
+  composer: Bach, Johann Sebastian
+  title: Als vierzig Tag nach Ostern war
+  ids:
+    imslp: Als vierzig Tag nach Ostern war, BWV 266 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Als_vierzig_Tag_nach_Ostern_war%2C_BWV_266_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

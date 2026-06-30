@@ -1,0 +1,18 @@
+id: massenet-ames-obscures
+work:
+  composer: Massenet, Jules
+  title: Âmes obscures
+  ids:
+    imslp: Âmes obscures (Massenet, Jules)
+  year: 1912
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%82mes_obscures_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,15 @@
+id: nielsen-jeg-har-baret-lrkens-vinge
+work:
+  composer: Nielsen, Carl
+  title: Jeg har båret lærkens vinge
+  ids:
+    imslp: Jeg har båret lærkens vinge, CNW 377 (Nielsen, Carl)
+  year: 1926
+formula: ''
+instrumentation:
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jeg_har_b%C3%A5ret_l%C3%A6rkens_vinge%2C_CNW_377_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SA)'

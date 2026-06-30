@@ -1,0 +1,16 @@
+id: franck-eglogue
+work:
+  composer: Franck, César
+  title: Eglogue
+  ids:
+    imslp: Eglogue, Op.3 (Franck, César)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Eglogue%2C_Op.3_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: 1 piano'

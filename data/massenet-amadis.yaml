@@ -1,0 +1,42 @@
+id: massenet-amadis
+work:
+  composer: Massenet, Jules
+  title: Amadis
+  ids:
+    imslp: Amadis (Massenet, Jules)
+  year: 1891
+formula: 3[pic.2.3] 3[1.2.Eh] 3[1.2.bcl] 2 4031 tmp 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - tam-tam
+    - cymbals
+  harp: 2
+  strings: str
+  additional_raw: sarussophone | 3 trumpets [+3 offstage] | percussion [glockenspiel
+    | bass drum]
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Amadis_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra: piccolo, 2 flutes,
+    2 oboes, english horn, 2 clarinets, bass clarinet, 2 bassoons, sarussophone, 4
+    horns, 3 trumpets [+3 offstage], 3 trombones, tuba, timpani, percussion [glockenspiel,
+    tam-tam, cymbals, bass drum], 2 harps, strings'

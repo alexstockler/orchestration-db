@@ -5,8 +5,14 @@ work:
   ids:
     imslp: The Nutcracker (ballet), Op.71 (Tchaikovsky, Pyotr)
   year: 1892
-formula: 0 3[1.2.Eh] 3[1.2.bcl] 2 4231 tmp cel 2hp str
+formula: 3[1.2/pic.3/pic] 3[1.2.Eh] 3[1.2.bcl] 2 4231 tmp+1 cel 2hp str
 instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  - doublings:
+    - piccolo
   oboe:
   - {}
   - {}
@@ -22,6 +28,7 @@ instrumentation:
   tuba: 1
   percussion:
     timpani: 1
+    players: 1
     instruments:
     - bass drum
     - triangle
@@ -33,9 +40,12 @@ instrumentation:
   - instrument: celesta
   harp: 2
   strings: str
-  additional_raw: boys (or female) chorus (SA) [offstage in Act 1 | No.9 only | wordless]
-    Orchestra :3 flutes (2nd and 3rd also piccolo) | percussion* | * cymbals | children's
-    instruments (rattle, trumpet, drums, cuckoo, quail)
+  soloists:
+  - boys (or female) chorus (SA) [offstage in Act 1
+  - No.9 only
+  - wordless]
+  additional_raw: '* cymbals | children''s instruments (rattle, trumpet, drums, cuckoo,
+    quail)'
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/The_Nutcracker_%28ballet%29%2C_Op.71_%28Tchaikovsky%2C_Pyotr%29

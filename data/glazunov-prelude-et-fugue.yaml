@@ -1,0 +1,16 @@
+id: glazunov-prelude-et-fugue
+work:
+  composer: Glazunov, Aleksandr
+  title: Prélude et fugue
+  ids:
+    imslp: Prélude et fugue, Op.93 (Glazunov, Aleksandr)
+  year: 1906
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pr%C3%A9lude_et_fugue%2C_Op.93_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

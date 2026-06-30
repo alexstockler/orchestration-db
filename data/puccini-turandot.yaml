@@ -1,0 +1,99 @@
+id: puccini-turandot
+work:
+  composer: Puccini, Giacomo
+  title: Turandot
+  ids:
+    imslp: Turandot, SC 91 (Puccini, Giacomo)
+  year: 1926
+formula: 3[1.2.3/pic] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 4 9 8[1.2.3.cbtbn/bass_voice.5.6.7.8]
+  0 tmp org cel 2hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 9
+  trombone:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabass_trombone
+    doublings:
+    - bass_voice
+  - {}
+  - {}
+  - {}
+  - {}
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - gong
+    - triangle
+    - snare drum
+    - bass drum
+    - tam-tam
+    - glockenspiel
+    - xylophones
+    - chimes
+    - chinese tuned gongs
+    - wood block
+    - large gong
+  keyboards:
+  - instrument: organ
+  - instrument: celesta
+  harp: 2
+  strings: str
+  soloists:
+  - Turandot (soprano)
+  - Calaf (tenor)
+  - Liù (soprano)
+  - Timur (bass)
+  - Emperor Altoum (tenor)
+  - Ping (baritone)
+  - Pang (tenor)
+  - Pong (tenor)
+  - A Mandarin (baritone)
+  - Prince of Persia (tenor) Mixed Chorus :Guards
+  - Executioner's servants
+  - Children
+  - Priests
+  - Mandarins
+  - 8 Wise men
+  - Turandot's handmaidens
+  - Soldiers
+  - Flag-carriers
+  - Musicians
+  - Ghosts of the dead
+  - Crowd
+  saxophones:
+  - instrument: alto_sax
+    count: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Turandot%2C_SC_91_%28Puccini%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Turandot (soprano), Calaf (tenor), Liù (soprano),
+    Timur (bass), Emperor Altoum (tenor), Ping (baritone), Pang (tenor), Pong (tenor),
+    A Mandarin (baritone), Prince of Persia (tenor) Mixed Chorus :Guards, Executioner''s
+    servants, Children, Priests, , Mandarins, 8 Wise men, Turandot''s handmaidens,
+    Soldiers, , Flag-carriers, Musicians, Ghosts of the dead, Crowd Orchestra :3 flutes
+    (3rd also piccolo), 2 oboes, English horn, ::2 clarinets, bass clarinet, 2 bassoons,
+    contrabassoon :4 horns, 3 trumpets, 3 trombones, contrabass trombone, timpani,
+    cymbals, gong, triangle, snare drum, bass drum, tam-tam,, glockenspiel, 2 xylophones
+    (2nd = bass), chimes, Chinese tuned gongs,, organ, celesta, 2 harps, strings ''
+    :2 alto saxophones, 6 trumpets,, 4 trombones (4th = bass), wood block, large gong'

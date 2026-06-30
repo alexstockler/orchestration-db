@@ -1,0 +1,15 @@
+id: offenbach-les-deux-pecheurs-ou-le-lever-du-soleil
+work:
+  composer: Offenbach, Jacques
+  title: Les deux pêcheurs, ou Le lever du soleil
+  ids:
+    imslp: Les deux pêcheurs (Offenbach, Jacques)
+  year: 1857
+formula: ''
+instrumentation:
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_deux_p%C3%AAcheurs_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, orchestra'

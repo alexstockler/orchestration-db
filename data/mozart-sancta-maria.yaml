@@ -4,9 +4,12 @@ work:
   title: Sancta Maria
   ids:
     imslp: Sancta Maria, K.Anh.C 3.15 (Mozart, Wolfgang Amadeus)
-formula: ''
+formula: org
 instrumentation:
-  additional_raw: Tenor or Soprano voice + organ or harmonium
+  keyboards:
+  - instrument: organ
+  soloists:
+  - tenor
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Sancta_Maria%2C_K.Anh.C_3.15_%28Mozart%2C_Wolfgang_Amadeus%29

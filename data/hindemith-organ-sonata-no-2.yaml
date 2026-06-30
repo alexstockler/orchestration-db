@@ -1,0 +1,17 @@
+id: hindemith-organ-sonata-no-2
+work:
+  composer: Hindemith, Paul
+  title: Organ Sonata No.2
+  ids:
+    imslp: Organ Sonata No.2 (Hindemith, Paul)
+  year: 1937
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Organ_Sonata_No.2_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 11

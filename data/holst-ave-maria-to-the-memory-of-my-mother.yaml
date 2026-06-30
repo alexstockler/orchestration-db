@@ -1,0 +1,15 @@
+id: holst-ave-maria-to-the-memory-of-my-mother
+work:
+  composer: Holst, Gustav
+  title: Ave Maria to the memory of my mother
+  ids:
+    imslp: Ave Maria, Op.9b (Holst, Gustav)
+  year: 1900
+formula: ''
+instrumentation:
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_Maria%2C_Op.9b_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SSAA/SSAA)'

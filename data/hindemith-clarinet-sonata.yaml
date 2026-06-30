@@ -1,0 +1,18 @@
+id: hindemith-clarinet-sonata
+work:
+  composer: Hindemith, Paul
+  title: Clarinet Sonata
+  ids:
+    imslp: Clarinet Sonata (Hindemith, Paul)
+  year: 1939
+formula: 0010 0000 pf
+instrumentation:
+  clarinet: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Clarinet_Sonata_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet (B), piano'
+duration_minutes: 17

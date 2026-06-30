@@ -1,0 +1,15 @@
+id: kodaly-4-madrigals
+work:
+  composer: Kodály, Zoltán
+  title: 4 Madrigals
+  ids:
+    imslp: 4 Madrigals (Kodály, Zoltán)
+  year: 1959
+formula: ''
+instrumentation:
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Madrigals_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus'

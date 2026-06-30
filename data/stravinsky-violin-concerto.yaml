@@ -32,7 +32,9 @@ instrumentation:
     timpani: 1
     instruments:
     - bass drum
-  strings: str
+  strings:
+    standard: true
+    description: 8,8,6,4,4
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Violin_Concerto%2C_K053_%28Stravinsky%2C_Igor%29

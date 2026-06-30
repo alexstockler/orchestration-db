@@ -1,0 +1,16 @@
+id: bach-durch-adams-fall-ist-ganz-verderbt
+work:
+  composer: Bach, Johann Sebastian
+  title: Durch Adams Fall ist ganz verderbt
+  ids:
+    imslp: Durch Adams Fall ist ganz verderbt, BWV 1101 (Bach, Johann Sebastian)
+  year: 1703
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Durch_Adams_Fall_ist_ganz_verderbt%2C_BWV_1101_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

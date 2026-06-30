@@ -1,0 +1,15 @@
+id: gounod-dans-cette-etable-pastorale-sur-un-noel-du-xviiie-siecle
+work:
+  composer: Gounod, Charles
+  title: Dans cette étable, pastorale sur un noël du XVIIIe siècle
+  ids:
+    imslp: Bethlehem (Gounod, Charles)
+  year: 1859
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bethlehem_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), orchestra'

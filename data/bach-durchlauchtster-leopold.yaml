@@ -1,0 +1,18 @@
+id: bach-durchlauchtster-leopold
+work:
+  composer: Bach, Johann Sebastian
+  title: Durchlauchtster Leopold
+  ids:
+    imslp: Durchlauchtster Leopold, BWV 173a (Bach, Johann Sebastian)
+  year: 1722
+formula: 2001 0000 str
+instrumentation:
+  flute: 2
+  bassoon: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Durchlauchtster_Leopold%2C_BWV_173a_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, bassoon, strings, continuo'

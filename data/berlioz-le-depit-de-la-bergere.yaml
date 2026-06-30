@@ -1,0 +1,18 @@
+id: berlioz-le-depit-de-la-bergere
+work:
+  composer: Berlioz, Hector
+  title: Le Dépit de la bergère
+  ids:
+    imslp: Le dépit de la bergère, H 7 (Berlioz, Hector)
+  year: 1819
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_d%C3%A9pit_de_la_berg%C3%A8re%2C_H_7_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

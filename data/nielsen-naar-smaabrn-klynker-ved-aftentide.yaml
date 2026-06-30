@@ -1,0 +1,18 @@
+id: nielsen-naar-smaabrn-klynker-ved-aftentide
+work:
+  composer: Nielsen, Carl
+  title: Naar Smaabørn klynker ved Aftentide
+  ids:
+    imslp: Naar Smaabørn klynker ved Aftentide, CNW 267 (Nielsen, Carl)
+  year: 1923
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Naar_Smaab%C3%B8rn_klynker_ved_Aftentide%2C_CNW_267_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

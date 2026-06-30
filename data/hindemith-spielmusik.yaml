@@ -1,0 +1,18 @@
+id: hindemith-spielmusik
+work:
+  composer: Hindemith, Paul
+  title: Spielmusik
+  ids:
+    imslp: Spielmusik, Op.43 No.1 (Hindemith, Paul)
+  year: 1926
+formula: 2200 0000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Spielmusik%2C_Op.43_No.1_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes (1 also solo), strings (viola also solo)'
+duration_minutes: 7

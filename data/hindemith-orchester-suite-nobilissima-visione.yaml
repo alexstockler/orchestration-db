@@ -1,0 +1,38 @@
+id: hindemith-orchester-suite-nobilissima-visione
+work:
+  composer: Hindemith, Paul
+  title: Orchester-Suite „Nobilissima Visione“
+  ids:
+    imslp: Nobilissima Visione, Konzert-Suite (Hindemith, Paul)
+  year: 1938
+formula: 2222 4231 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - suspended cymbals
+    - cymbals
+    - field drum
+    - snare drum
+    - bass drum
+    - glockenspiel
+  strings: str
+  additional_raw: small cymbals
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nobilissima_Visione%2C_Konzert-Suite_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra :2 flutes (both also piccolo), 2 oboes, 2 clarinets
+    (B, A), 2 bassoons, 4 horns (F), 2 trumpets (C), 3 trombones, tuba, timpani, triangle,
+    small cymbals, suspended cymbals, cymbals, field drum, snare drum, bass drum,
+    glockenspiel, strings'
+duration_minutes: 23

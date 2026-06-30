@@ -1,0 +1,15 @@
+id: offenbach-la-romance-de-la-rose
+work:
+  composer: Offenbach, Jacques
+  title: La romance de la rose
+  ids:
+    imslp: La romance de la rose (Offenbach, Jacques)
+  year: 1870
+formula: ''
+instrumentation:
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_romance_de_la_rose_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, orchestra'

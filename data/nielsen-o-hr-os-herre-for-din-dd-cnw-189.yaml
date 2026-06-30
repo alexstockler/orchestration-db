@@ -1,0 +1,17 @@
+id: nielsen-o-hr-os-herre-for-din-dd-cnw-189
+work:
+  composer: Nielsen, Carl
+  title: O hør os, Herre, for din Død !, CNW 189
+  ids:
+    imslp: O hør os, Herre, for din Død!, CNW 189 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_h%C3%B8r_os%2C_Herre%2C_for_din_D%C3%B8d%21%2C_CNW_189_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,23 @@
+id: bach-auf-christi-himmelfahrt-allein
+work:
+  composer: Bach, Johann Sebastian
+  title: Auf Christi Himmelfahrt allein
+  ids:
+    imslp: Auf Christi Himmelfahrt allein, BWV 128 (Bach, Johann Sebastian)
+  year: 1725
+formula: 0200 2100
+instrumentation:
+  oboe: 2
+  horn: 2
+  trumpet: 1
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: oboe da caccia | continuo (organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Auf_Christi_Himmelfahrt_allein%2C_BWV_128_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes (both also oboes d''amore), oboe da caccia,, 2
+    horns, trumpet, 2 violins, viola, continuo (organ)'
+duration_minutes: 22

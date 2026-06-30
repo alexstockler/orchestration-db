@@ -1,0 +1,16 @@
+id: scriabin-cinq-preludes
+work:
+  composer: Scriabin, Aleksandr
+  title: Cinq Préludes
+  ids:
+    imslp: 5 Preludes, Op.74 (Scriabin, Aleksandr)
+  year: 1914
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Preludes%2C_Op.74_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

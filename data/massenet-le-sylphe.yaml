@@ -1,0 +1,15 @@
+id: massenet-le-sylphe
+work:
+  composer: Massenet, Jules
+  title: Le sylphe
+  ids:
+    imslp: Le sylphe (Massenet, Jules)
+  year: 1879
+formula: ''
+instrumentation:
+  additional_raw: 4 male voices / male chorus (TTBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_sylphe_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 male voices / male chorus (TTBB)'

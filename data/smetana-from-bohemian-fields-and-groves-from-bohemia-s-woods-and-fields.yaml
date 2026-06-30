@@ -1,0 +1,33 @@
+id: smetana-from-bohemian-fields-and-groves-from-bohemia-s-woods-and-fields
+work:
+  composer: Smetana, Bedřich
+  title: From Bohemian Fields and Groves (From Bohemia's Woods and Fields)
+  ids:
+    imslp: Z českých luhů a hájů, JB 1:112/4 (Smetana, Bedřich)
+  year: 1875
+formula: 3[pic.2.3] 2 2 2 4231 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Z_%C4%8Desk%C3%BDch_luh%C5%AF_a_h%C3%A1j%C5%AF%2C_JB_1%3A112/4_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons
+    + 4 horns, 2 trumpets, 3 trombones, tuba + timpani, triangle, cymbals + strings'
+duration_minutes: 13

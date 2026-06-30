@@ -1,0 +1,15 @@
+id: bach-gigue
+work:
+  composer: Bach, Johann Sebastian
+  title: Gigue
+  ids:
+    imslp: Gigue in F minor, BWV 845 (Bach, Johann Sebastian)
+  year: 1894
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gigue_in_F_minor%2C_BWV_845_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

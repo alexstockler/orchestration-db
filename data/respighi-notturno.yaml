@@ -1,0 +1,18 @@
+id: respighi-notturno
+work:
+  composer: Respighi, Ottorino
+  title: Notturno
+  ids:
+    imslp: Notturno (Respighi, Ottorino)
+  year: 1896
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Notturno_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

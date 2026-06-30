@@ -1,0 +1,20 @@
+id: hindemith-clarinet-quintet
+work:
+  composer: Hindemith, Paul
+  title: Clarinet Quintet
+  ids:
+    imslp: Clarinet Quintet, Op.30 (Hindemith, Paul)
+  year: 1923
+formula: 0010 0000
+instrumentation:
+  clarinet: 1
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Clarinet_Quintet%2C_Op.30_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet (B/E), 2 violins, viola, cello'
+duration_minutes: 25

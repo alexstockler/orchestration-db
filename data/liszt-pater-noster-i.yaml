@@ -5,12 +5,12 @@ work:
   ids:
     imslp: Pater noster I, S.21 (Liszt, Franz)
   year: 1846
-formula: org
+formula: org org
 instrumentation:
   keyboards:
   - instrument: organ
+  - instrument: organ
   chorus_raw: male chorus
-  additional_raw: Organ ad lib. (1st version)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Pater_noster_I%2C_S.21_%28Liszt%2C_Franz%29

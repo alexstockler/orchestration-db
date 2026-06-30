@@ -1,0 +1,61 @@
+id: hindemith-symphony-in-b-flat
+work:
+  composer: Hindemith, Paul
+  title: Symphony in B-flat
+  ids:
+    imslp: Symphony in B-flat (Hindemith, Paul)
+  year: 1951
+formula: 3[pic.2.3] 2 5[1.2.3.Ebcl.bcl] 2 4 5[cnt.cnt.cnt.4.5] 3 0 tmp+1
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: eflat_clarinet
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  trombone: 3
+  percussion:
+    timpani: 1
+    players: 1
+    instruments:
+    - bass drum
+    - snare drum
+    - triangle
+    - cymbals
+    - tambourine
+    - glockenspiel
+  soloists:
+  - baritone
+  saxophones:
+  - instrument: alto_sax
+    count: 2
+  - instrument: tenor_sax
+    count: 1
+  - instrument: baritone_sax
+    count: 1
+  additional_raw: solo clarinet (B) | alto E-flat clarinet | solo cornet (B) | 2 basses
+    (tubas)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_in_B-flat_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Concert Band :piccolo, 2 flutes, 2 oboes, solo clarinet
+    (B), 3 clarinets (B), ::clarinet (E), alto clarinet (E), bass clarinet (B), 2
+    bassoons :2 alto saxophones (E), tenor saxophone (B), baritone saxophone (E),
+    4 horns (F), solo cornet (B), 3 cornets (B), 2 trumpets (B) ::3 trombones, baritone
+    (B.C.), 2 basses (tubas) :timpani, percussion (3 players) :: bass drum, snare
+    drum, triangle, cymbals, tambourine, glockenspiel'
+duration_minutes: 18

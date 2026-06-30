@@ -1,0 +1,18 @@
+id: nielsen-frisk-op-endnu-en-gang
+work:
+  composer: Nielsen, Carl
+  title: Frisk op! endnu en Gang
+  ids:
+    imslp: Frisk op! endnu en Gang, CNW 168 (Nielsen, Carl)
+  year: 1913
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Frisk_op%21_endnu_en_Gang%2C_CNW_168_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano (or mixed chorus)'

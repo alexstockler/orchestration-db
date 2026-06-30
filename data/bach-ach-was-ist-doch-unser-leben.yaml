@@ -1,0 +1,16 @@
+id: bach-ach-was-ist-doch-unser-leben
+work:
+  composer: Bach, Johann Sebastian
+  title: Ach, was ist doch unser Leben
+  ids:
+    imslp: Ach, was ist doch unser Leben, BWV 743 (Bach, Johann Sebastian)
+  year: 1740
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach%2C_was_ist_doch_unser_Leben%2C_BWV_743_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

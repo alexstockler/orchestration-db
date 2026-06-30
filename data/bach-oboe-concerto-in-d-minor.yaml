@@ -1,0 +1,17 @@
+id: bach-oboe-concerto-in-d-minor
+work:
+  composer: Bach, Johann Sebastian
+  title: Oboe Concerto in D minor
+  ids:
+    imslp: Concerto in D minor, BWV 974 (Bach, Johann Sebastian)
+  year: 1716
+formula: 0100 0000 str
+instrumentation:
+  oboe: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_in_D_minor%2C_BWV_974_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, strings, continuo'

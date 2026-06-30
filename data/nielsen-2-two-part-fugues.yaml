@@ -1,0 +1,15 @@
+id: nielsen-2-two-part-fugues
+work:
+  composer: Nielsen, Carl
+  title: 2 Two part fugues
+  ids:
+    imslp: 2 Two-part Fugues (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Two-part_Fugues_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: piano or organ'

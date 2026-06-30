@@ -1,0 +1,18 @@
+id: vaughan-williams-in-the-spring
+work:
+  composer: Vaughan Williams, Ralph
+  title: In the Spring
+  ids:
+    imslp: In the Spring (Vaughan Williams, Ralph)
+  year: 1952
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_the_Spring_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

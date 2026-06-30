@@ -1,0 +1,18 @@
+id: bizet-la-sirene
+work:
+  composer: Bizet, Georges
+  title: La sirène
+  ids:
+    imslp: La sirène (Bizet, Georges)
+  year: 1868
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_sir%C3%A8ne_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

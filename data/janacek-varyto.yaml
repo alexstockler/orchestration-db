@@ -1,0 +1,17 @@
+id: janacek-varyto
+work:
+  composer: Janáček, Leoš
+  title: Varyto
+  ids:
+    imslp: Varyto (Janáček, Leoš)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Varyto_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 4

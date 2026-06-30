@@ -1,0 +1,15 @@
+id: vaughan-williams-the-winter-is-gone
+work:
+  composer: Vaughan Williams, Ralph
+  title: The Winter Is Gone
+  ids:
+    imslp: The Winter Is Gone (Vaughan Williams, Ralph)
+  year: 1912
+formula: ''
+instrumentation:
+  additional_raw: men's chorus or quartet (TTBB) a cappella
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Winter_Is_Gone_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: men''s chorus or quartet (TTBB) a cappella'

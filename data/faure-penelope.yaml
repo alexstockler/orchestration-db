@@ -1,0 +1,16 @@
+id: faure-penelope
+work:
+  composer: Fauré, Gabriel
+  title: Pénélope
+  ids:
+    imslp: Pénélope (Fauré, Gabriel)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/P%C3%A9n%C3%A9lope_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

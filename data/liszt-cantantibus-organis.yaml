@@ -5,15 +5,19 @@ work:
   ids:
     imslp: Cantantibus organis, S.7 (Liszt, Franz)
   year: 1879
-formula: 0022 2 2 2[1.btbn] 0 tmp harm hp
+formula: 0222 2 2 2[1.btbn] 0 tmp harm hp
 instrumentation:
+  oboe: 2
   clarinet: 2
   bassoon: 2
   horn: 2
-  trumpet: 2
+  trumpet:
+  - optional: true
+  - optional: true
   trombone:
-  - {}
+  - optional: true
   - instrument: bass_trombone
+    optional: true
   percussion:
     timpani: 1
   keyboards:
@@ -21,8 +25,12 @@ instrumentation:
   harp: 1
   soloists:
   - alto solo
-  additional_raw: Chorus (SSATB) + 2 Oboes | Violins I | Violins II | Violas | Cellos
-    | Double Basses
+  chorus_raw: chorus
+  solo_strings:
+    viola: 1
+    cello: 1
+    double_bass: 1
+  additional_raw: Violins I | Violins II
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Cantantibus_organis%2C_S.7_%28Liszt%2C_Franz%29

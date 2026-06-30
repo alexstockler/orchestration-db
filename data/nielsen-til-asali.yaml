@@ -1,0 +1,15 @@
+id: nielsen-til-asali
+work:
+  composer: Nielsen, Carl
+  title: Til Asali
+  ids:
+    imslp: Til Asali, CNW 358 (Nielsen, Carl)
+  year: 1886
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Til_Asali%2C_CNW_358_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

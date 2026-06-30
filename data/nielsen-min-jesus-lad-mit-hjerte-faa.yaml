@@ -1,0 +1,17 @@
+id: nielsen-min-jesus-lad-mit-hjerte-faa
+work:
+  composer: Nielsen, Carl
+  title: Min Jesus, lad mit Hjerte faa
+  ids:
+    imslp: Min Jesus, lad mit Hjerte faa, CNW 184 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Min_Jesus%2C_lad_mit_Hjerte_faa%2C_CNW_184_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

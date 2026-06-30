@@ -1,0 +1,15 @@
+id: respighi-antiche-danze-et-arie-per-liuto-suite-no-3
+work:
+  composer: Respighi, Ottorino
+  title: Antiche danze et arie per liuto, Suite No.3
+  ids:
+    imslp: Antiche danze et arie per liuto, Suite No.3 (Respighi, Ottorino)
+  year: 1932
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Antiche_danze_et_arie_per_liuto%2C_Suite_No.3_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'

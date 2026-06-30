@@ -1,0 +1,16 @@
+id: bizet-a-une-fleur
+work:
+  composer: Bizet, Georges
+  title: À une fleur
+  ids:
+    imslp: À une fleur (Bizet, Georges)
+  year: 1866
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%80_une_fleur_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

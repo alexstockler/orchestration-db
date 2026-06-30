@@ -1,0 +1,19 @@
+id: hindemith-6-lieder-nach-gedichten-von-holderlin
+work:
+  composer: Hindemith, Paul
+  title: 6 Lieder nach Gedichten von Hölderlin
+  ids:
+    imslp: 6 Lieder nach Gedichten von Hölderlin (Hindemith, Paul)
+  year: 1933
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - tenor
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Lieder_nach_Gedichten_von_H%C3%B6lderlin_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, piano'
+duration_minutes: 16

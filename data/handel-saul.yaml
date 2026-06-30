@@ -14,6 +14,8 @@ instrumentation:
   trombone: 3
   percussion:
     timpani: 1
+    instruments:
+    - carillons
   keyboards:
   - instrument: organ
   harp: 1
@@ -31,7 +33,7 @@ instrumentation:
   - Doeg (bass)
   - Apparition of Samuel (bass)
   - Abiathar (bass) Mixed Chorus (SATB)
-  additional_raw: carillons | theorbo | continuo
+  additional_raw: theorbo | continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Saul%2C_HWV_53_%28Handel%2C_George_Frideric%29

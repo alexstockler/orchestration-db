@@ -7,9 +7,10 @@ work:
   year: 1852
 formula: ''
 instrumentation:
-  additional_raw: Tenor solo | Bass solo | TTBB chorus | Orchestra (2 flutes, 2 oboes,
-    2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani, triangle,
-    strings)
+  soloists:
+  - tenor solo
+  - bass solo
+  additional_raw: TTBB chorus
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Das_Gl%C3%BCck_von_Edenhall%2C_Op.143_%28Schumann%2C_Robert%29

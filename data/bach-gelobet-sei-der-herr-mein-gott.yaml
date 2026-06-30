@@ -1,0 +1,28 @@
+id: bach-gelobet-sei-der-herr-mein-gott
+work:
+  composer: Bach, Johann Sebastian
+  title: Gelobet sei der Herr, mein Gott
+  ids:
+    imslp: Gelobet sei der Herr, mein Gott, BWV 129 (Bach, Johann Sebastian)
+  year: 1726
+formula: 1 3[1.2.obda] 0 0 0300 tmp
+instrumentation:
+  flute: 1
+  oboe:
+  - {}
+  - {}
+  - instrument: oboe_damore
+  trumpet: 3
+  percussion:
+    timpani: 1
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: continuo (harpsichord and/or organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gelobet_sei_der_Herr%2C_mein_Gott%2C_BWV_129_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, 2 oboes, oboe d''amore, 3 trumpets, timpani, 2 violins,
+    viola, continuo (harpsichord and/or organ)'
+duration_minutes: 24

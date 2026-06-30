@@ -1,0 +1,25 @@
+id: glazunov-quartet-in-b-flat-major
+work:
+  composer: Glazunov, Aleksandr
+  title: Quartet in B-flat major
+  ids:
+    imslp: Saxophone Quartet, Op.109 (Glazunov, Aleksandr)
+  year: 1932
+formula: ''
+instrumentation:
+  saxophones:
+  - instrument: soprano_sax
+    count: 1
+  - instrument: alto_sax
+    count: 1
+  - instrument: tenor_sax
+    count: 1
+  - instrument: baritone_sax
+    count: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Saxophone_Quartet%2C_Op.109_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano saxophone (B), alto saxophone (E), tenor saxophone
+    (B), baritone saxophone (E)'
+duration_minutes: 22

@@ -1,0 +1,20 @@
+id: gounod-marche-religieuse
+work:
+  composer: Gounod, Charles
+  title: Marche religieuse
+  ids:
+    imslp: Marche religieuse, CG 524 (Gounod, Charles)
+  year: 1876
+formula: 0220 0000
+instrumentation:
+  oboe: 2
+  clarinet: 2
+  additional_raw: Orchestra (2 flutes | 2 (4) bassoons, 4 horns, 2 trumpets, 3 trombones,
+    timpani, cymbals, bass drum, triangle, harps, strings)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marche_religieuse%2C_CG_524_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra (2 flutes, 2 oboes, 2 clarinets, 2 (4) bassoons,
+    4 horns, 2 trumpets, 3 trombones, timpani, cymbals, bass drum, triangle, harps,
+    strings)'

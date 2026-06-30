@@ -1,0 +1,68 @@
+id: verdi-aida
+work:
+  composer: Verdi, Giuseppe
+  title: Aida
+  ids:
+    imslp: Aïda (Verdi, Giuseppe)
+  year: 1870
+formula: 3[1.2.3/pic] 3[1.2.Eh] 3[1.2.bcl] 2 4671 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 6
+  trombone: 7
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - triangle
+    - tam-tam
+  harp: 1
+  strings: str
+  soloists:
+  - Aida (soprano)
+  - Radamès (tenor)
+  - Amneris (mezzo-soprano)
+  - Amonasro (baritone)
+  - Ramfis (bass)
+  - King of Egypt (bass)
+  - Priestess (soprano)
+  - Messenger (tenor) Mixed Chorus (SSATTTTBBB) :Priests
+  - priestesses
+  - ministers
+  - captains
+  - soldiers
+  - officials
+  - Ethiopians
+  - slaves and prisoners
+  - Egyptians
+  - animals
+  - chorus
+  additional_raw: 6 Egyptian trumpets | wind band | harp ' (From the Underground)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A%C3%AFda_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Aida (soprano), Radamès (tenor), Amneris (mezzo-soprano),
+    Amonasro (baritone), Ramfis (bass), King of Egypt (bass), Priestess (soprano),
+    Messenger (tenor) Mixed Chorus (SSATTTTBBB) :Priests, priestesses, ministers,
+    captains, soldiers, officials, Ethiopians, slaves and prisoners, Egyptians, animals,
+    chorus Orchestra :3 flutes (3rd also piccolo), 2 oboes, English horn, ::2 clarinets,
+    bass clarinet, 2 bassoons :4 horns, 2 trumpets, 3 trombones, tuba, timpani, bass
+    drum, cymbals, triangle, tam-tam, harp, strings '' :6 Egyptian trumpets, wind
+    band, harp '' (From the Underground) ::4 trumpets, 4 trombones, bass drum'

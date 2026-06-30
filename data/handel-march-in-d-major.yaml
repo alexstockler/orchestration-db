@@ -9,7 +9,8 @@ instrumentation:
   trumpet: 1
   soloists:
   - bass
-  additional_raw: 2 violins
+  solo_strings:
+    violin: 2
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/March_in_D_major%2C_HWV_345_%28Handel%2C_George_Frideric%29

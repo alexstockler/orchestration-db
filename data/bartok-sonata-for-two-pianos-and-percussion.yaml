@@ -1,0 +1,46 @@
+id: bartok-sonata-for-two-pianos-and-percussion
+work:
+  composer: Bartók, Béla
+  title: Sonata for Two Pianos and Percussion
+  ids:
+    imslp: Sonata for 2 Pianos and Percussion, Sz.110 (Bartók, Béla)
+  year: 1937
+formula: 2[1.2/pic] 2[1.2/Eh] 2 2[1.2/cbn] 4230 tmp cel str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon:
+  - {}
+  - doublings:
+    - contrabassoon
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - xylophone
+    - snare drum
+    - cymbals
+    - bass drum
+    - triangle
+    - tam-tam
+  keyboards:
+  - instrument: celesta
+  strings: str
+  additional_raw: 2 solo pianos
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_for_2_Pianos_and_Percussion%2C_Sz.110_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestration :2 solo pianos, 2 flutes (2nd also piccolo),
+    2 oboes (2nd also English horn), ::2 clarinets, 2 bassoons (2nd also contrabassoon)
+    :4 horns, 2 trumpets, 3 trombones, timpani, xylophone, snare drum, cymbals, bass
+    drum, triangle, tam-tam, celesta, strings'

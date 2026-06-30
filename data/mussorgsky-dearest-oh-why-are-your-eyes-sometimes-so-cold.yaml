@@ -1,0 +1,19 @@
+id: mussorgsky-dearest-oh-why-are-your-eyes-sometimes-so-cold
+work:
+  composer: Mussorgsky, Modest
+  title: Dearest, Oh Why are Your Eyes Sometimes so Cold?
+  ids:
+    imslp: Dearest, Oh Why are Your Eyes Sometimes So Cold? (Mussorgsky, Modest)
+  year: 1866
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dearest%2C_Oh_Why_are_Your_Eyes_Sometimes_So_Cold%3F_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'
+duration_minutes: 3

@@ -1,0 +1,18 @@
+id: massenet-oh-si-les-fleurs-avaient-des-yeux
+work:
+  composer: Massenet, Jules
+  title: Oh! si les fleurs avaient des yeux
+  ids:
+    imslp: Oh! si les fleurs avaient des yeux (Massenet, Jules)
+  year: 1903
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oh%21_si_les_fleurs_avaient_des_yeux_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

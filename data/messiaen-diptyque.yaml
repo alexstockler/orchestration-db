@@ -1,0 +1,16 @@
+id: messiaen-diptyque
+work:
+  composer: Messiaen, Olivier
+  title: Diptyque
+  ids:
+    imslp: Diptyque (Messiaen, Olivier)
+  year: 1929
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Diptyque_%28Messiaen%2C_Olivier%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

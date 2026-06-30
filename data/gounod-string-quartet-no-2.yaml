@@ -1,0 +1,18 @@
+id: gounod-string-quartet-no-2
+work:
+  composer: Gounod, Charles
+  title: String Quartet No.2
+  ids:
+    imslp: String Quartet No.2 (Gounod, Charles)
+  year: 1885
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.2_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

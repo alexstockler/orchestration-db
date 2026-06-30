@@ -1,0 +1,15 @@
+id: offenbach-la-chatte-metamorphosee-en-femme
+work:
+  composer: Offenbach, Jacques
+  title: La chatte metamorphosée en femme
+  ids:
+    imslp: La chatte métamorphosée en femme (Offenbach, Jacques)
+  year: 1858
+formula: ''
+instrumentation:
+  additional_raw: 4 vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_chatte_m%C3%A9tamorphos%C3%A9e_en_femme_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 vocal soloists, orchestra'

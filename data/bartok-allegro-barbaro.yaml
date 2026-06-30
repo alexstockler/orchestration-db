@@ -1,0 +1,16 @@
+id: bartok-allegro-barbaro
+work:
+  composer: Bartók, Béla
+  title: Allegro barbaro
+  ids:
+    imslp: Allegro barbaro, Sz.49 (Bartók, Béla)
+  year: 1911
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegro_barbaro%2C_Sz.49_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

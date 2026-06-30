@@ -1,0 +1,19 @@
+id: glazunov-suite
+work:
+  composer: Glazunov, Aleksandr
+  title: Suite
+  ids:
+    imslp: Suite for String Quartet, Op.35 (Glazunov, Aleksandr)
+  year: 1887
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_for_String_Quartet%2C_Op.35_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello (or strings)'
+duration_minutes: 45

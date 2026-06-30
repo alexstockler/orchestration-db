@@ -1,0 +1,16 @@
+id: weber-non-paventar-mia-vita
+work:
+  composer: Weber, Carl Maria von
+  title: Non paventar mia vita
+  ids:
+    imslp: Non paventar mia vita, Op.51 (Weber, Carl Maria von)
+  year: 1815
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Non_paventar_mia_vita%2C_Op.51_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, orchestra'

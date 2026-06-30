@@ -1,0 +1,18 @@
+id: bizet-absence
+work:
+  composer: Bizet, Georges
+  title: Absence
+  ids:
+    imslp: Absence (Bizet, Georges)
+  year: 1871
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Absence_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

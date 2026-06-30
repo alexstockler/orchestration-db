@@ -1,0 +1,18 @@
+id: massenet-devant-l-infini
+work:
+  composer: Massenet, Jules
+  title: Devant l'infini
+  ids:
+    imslp: Devant l'infini (Massenet, Jules)
+  year: 1892
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Devant_l%27infini_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

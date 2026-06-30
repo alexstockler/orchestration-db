@@ -1,0 +1,29 @@
+id: hindemith-symphonic-metamorphosis-of-themes-by-carl-maria-von-weber
+work:
+  composer: Hindemith, Paul
+  title: Symphonic Metamorphosis of Themes by Carl Maria von Weber
+  ids:
+    imslp: Symphonic Metamorphosis of Themes by Carl Maria von Weber (Hindemith, Paul)
+  year: 1943
+formula: ''
+instrumentation:
+  percussion:
+    instruments:
+    - glockenspiel
+    - chimes
+    - triangle
+    - snare drum
+    - tambourine
+    - wood block
+  additional_raw: bass drum and cymbals | small cymbals | small and large suspended
+    cymbals | small gong | parade drum | chinese tam-tam
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphonic_Metamorphosis_of_Themes_by_Carl_Maria_von_Weber_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets (B),
+    bass clarinet (B), 2 bassoons, contrabassoon, 4 horns (F), 2 trumpets (B), 3 trombones,
+    tuba, timpani, percussion (3-4 players), strings : bass drum and cymbals, small
+    cymbals, small and large suspended cymbals, glockenspiel, chimes,, triangle, small
+    gong, snare drum, tambourine, parade drum, chinese tam-tam, wood block'
+duration_minutes: 21

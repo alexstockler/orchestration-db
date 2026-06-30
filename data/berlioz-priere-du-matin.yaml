@@ -1,0 +1,17 @@
+id: berlioz-priere-du-matin
+work:
+  composer: Berlioz, Hector
+  title: Prière du matin
+  ids:
+    imslp: Prière du matin, H 112 (Berlioz, Hector)
+  year: 1846
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: SS (children’s voices)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pri%C3%A8re_du_matin%2C_H_112_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: SS (children’s voices), piano'

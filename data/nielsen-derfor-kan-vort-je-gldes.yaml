@@ -1,0 +1,18 @@
+id: nielsen-derfor-kan-vort-je-gldes
+work:
+  composer: Nielsen, Carl
+  title: Derfor kan vort øje glædes
+  ids:
+    imslp: Derfor kan vort øje glædes, CNW 239 (Nielsen, Carl)
+  year: 1921
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Derfor_kan_vort_%C3%B8je_gl%C3%A6des%2C_CNW_239_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

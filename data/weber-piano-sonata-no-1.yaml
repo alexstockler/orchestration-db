@@ -1,0 +1,16 @@
+id: weber-piano-sonata-no-1
+work:
+  composer: Weber, Carl Maria von
+  title: Piano Sonata No.1
+  ids:
+    imslp: Piano Sonata No.1 in C major, Op.24 (Weber, Carl Maria von)
+  year: 1812
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.1_in_C_major%2C_Op.24_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

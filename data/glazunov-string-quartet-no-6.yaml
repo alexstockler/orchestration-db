@@ -1,0 +1,19 @@
+id: glazunov-string-quartet-no-6
+work:
+  composer: Glazunov, Aleksandr
+  title: String Quartet No.6
+  ids:
+    imslp: String Quartet No.6, Op.106 (Glazunov, Aleksandr)
+  year: 1921
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: and cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.6%2C_Op.106_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, and cello'
+duration_minutes: 45

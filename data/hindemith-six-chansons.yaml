@@ -1,0 +1,16 @@
+id: hindemith-six-chansons
+work:
+  composer: Hindemith, Paul
+  title: Six Chansons
+  ids:
+    imslp: 6 Chansons (Hindemith, Paul)
+  year: 1939
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Chansons_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 8

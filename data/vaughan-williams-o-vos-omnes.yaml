@@ -1,0 +1,18 @@
+id: vaughan-williams-o-vos-omnes
+work:
+  composer: Vaughan Williams, Ralph
+  title: O vos omnes
+  ids:
+    imslp: O vos omnes (Vaughan Williams, Ralph)
+  year: 1922
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  additional_raw: mixed chorus (SSAATTBB) a cappella
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_vos_omnes_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, mixed chorus (SSAATTBB) a cappella'
+duration_minutes: 5

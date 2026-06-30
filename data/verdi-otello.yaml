@@ -1,0 +1,99 @@
+id: verdi-otello
+work:
+  composer: Verdi, Giuseppe
+  title: Otello
+  ids:
+    imslp: Otello (Verdi, Giuseppe)
+  year: 1885
+formula: 3[1.2.3/pic] 3[1.2.Eh] 3[1.2.bcl] 4 4 10[cnt.cnt.3.4.5.6.7.8.9.10] 4[1.2.3.btbn]
+  0 tmp org hp mand gtr
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 4
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  trombone:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_trombone
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drums
+    - cymbals
+    - tam-tam
+  keyboards:
+  - instrument: organ
+  harp: 1
+  extras:
+  - instrument: mandolin
+  - instrument: guitar
+  soloists:
+  - Roles ::Otello
+  - moro
+  - generale dell'Armata Veneta (tenor)
+  - Jago
+  - alfiere (baritone)
+  - Cassio
+  - capo di Squadra (tenor)
+  - Roderigo
+  - gentiluomo Veneziano (tenor)
+  - Lodovico
+  - Ambasciatore della Repubblica Veneta (bass)
+  - Montano
+  - predecessore di Otello nel governo dell'Isola di Cipro (bass)
+  - Un Araldo (bass)
+  - Desdemona
+  - moglie di Otello (soprano)
+  - Emilia
+  - moglie di Jago (mezzo soparno) :Mixed Chorus ::Soldati e Marinai della Repubblica
+    Veneta
+  - Gentildonne e Gentiluomini Veneziani
+  - Popolani Ciprioti
+  - Uomini d'arme Greci
+  - Dalmati e Albanesi
+  - Fanciulli dell'isola
+  - un Taverniere
+  - quattro servi di taverna
+  - 'bassa ciurma :'
+  additional_raw: strings :' | bagpipe :' | brass band | lightning | thunder | canon
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Otello_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Roles ::Otello, moro, generale
+    dell''Armata Veneta (tenor), Jago, alfiere (baritone), Cassio, capo di Squadra
+    (tenor), Roderigo, gentiluomo Veneziano (tenor), Lodovico, Ambasciatore della
+    Repubblica Veneta (bass), Montano, predecessore di Otello nel governo dell''Isola
+    di Cipro (bass), Un Araldo (bass), Desdemona, moglie di Otello (soprano), Emilia,
+    moglie di Jago (mezzo soparno) :Mixed Chorus ::Soldati e Marinai della Repubblica
+    Veneta, Gentildonne e Gentiluomini Veneziani, Popolani Ciprioti, Uomini d''arme
+    Greci, Dalmati e Albanesi, Fanciulli dell''isola, un Taverniere, quattro servi
+    di taverna, bassa ciurma :Orchestra ::3 flutes (3rd also piccolo), 2 oboes, english
+    horn, :::2 clarinets, bass clarinet, 4 bassoons ::4 horns, 2 cornets, 2 trumpets,
+    3 trombones, bass trombone, timpani, 2 bass drums, cymbals, tam-tam, harp, strings
+    :'' ::2 mandolins, 2 guitars, bagpipe :'' ::6 trumpets, brass band, organ, lightning,
+    thunder, canon'

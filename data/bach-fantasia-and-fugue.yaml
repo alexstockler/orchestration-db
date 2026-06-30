@@ -1,0 +1,15 @@
+id: bach-fantasia-and-fugue
+work:
+  composer: Bach, Johann Sebastian
+  title: Fantasia and Fugue
+  ids:
+    imslp: Fantasia and Fugue in D minor, BWV 905 (Bach, Johann Sebastian)
+  year: 1880
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_and_Fugue_in_D_minor%2C_BWV_905_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

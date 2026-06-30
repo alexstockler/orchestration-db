@@ -1,0 +1,19 @@
+id: bach-bleib-bei-uns-denn-es-will-abend-werden
+work:
+  composer: Bach, Johann Sebastian
+  title: Bleib bei uns, denn es will Abend werden
+  ids:
+    imslp: Bleib bei uns, denn es will Abend werden, BWV 6 (Bach, Johann Sebastian)
+  year: 1725
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: oboe da caccia | violoncello piccolo | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bleib_bei_uns%2C_denn_es_will_Abend_werden%2C_BWV_6_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, oboe da caccia, violoncello piccolo, strings,
+    continuo'
+duration_minutes: 20

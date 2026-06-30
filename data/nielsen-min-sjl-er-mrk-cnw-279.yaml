@@ -1,0 +1,18 @@
+id: nielsen-min-sjl-er-mrk-cnw-279
+work:
+  composer: Nielsen, Carl
+  title: Min Sjæl er mørk, CNW 279
+  ids:
+    imslp: Min Sjæl er mørk, CNW 279 (Nielsen, Carl)
+  year: 1886
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Min_Sj%C3%A6l_er_m%C3%B8rk%2C_CNW_279_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

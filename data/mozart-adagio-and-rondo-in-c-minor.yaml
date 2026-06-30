@@ -9,7 +9,10 @@ formula: 1100 0000
 instrumentation:
   flute: 1
   oboe: 1
-  additional_raw: viola | cello | glass-harmonica
+  solo_strings:
+    viola: 1
+    cello: 1
+  additional_raw: glass-harmonica
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Adagio_and_Rondo_in_C_minor%2C_K.617_%28Mozart%2C_Wolfgang_Amadeus%29

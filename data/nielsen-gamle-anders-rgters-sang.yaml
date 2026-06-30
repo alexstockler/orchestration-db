@@ -1,0 +1,17 @@
+id: nielsen-gamle-anders-rgters-sang
+work:
+  composer: Nielsen, Carl
+  title: Gamle Anders Røgters Sang
+  ids:
+    imslp: Gamle Anders Røgters Sang, CNW 151 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gamle_Anders_R%C3%B8gters_Sang%2C_CNW_151_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

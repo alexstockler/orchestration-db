@@ -1,0 +1,23 @@
+id: gounod-les-sept-paroles-de-notre-seigneur-jesus-christ-sur-la-croix
+work:
+  composer: Gounod, Charles
+  title: Les Sept paroles de Notre Seigneur Jésus-Christ sur la croix
+  ids:
+    imslp: Les Sept paroles de Notre Seigneur Jésus-Christ sur la croix, CG 147 (Gounod,
+      Charles)
+  year: 1855
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_Sept_paroles_de_Notre_Seigneur_J%C3%A9sus-Christ_sur_la_croix%2C_CG_147_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass; mixed chorus (SATB, last movement
+    SATB/SATB)'
+duration_minutes: 15

@@ -1,0 +1,21 @@
+id: hindemith-apparebit-repentina-dies
+work:
+  composer: Hindemith, Paul
+  title: Apparebit repentina dies
+  ids:
+    imslp: Apparebit repentina dies (Hindemith, Paul)
+  year: 1947
+formula: 0000 0231
+instrumentation:
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  chorus_raw: mixed chorus
+  additional_raw: 'Brass Ensemble: 4 horns (F)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Apparebit_repentina_dies_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal: mixed chorus (SATB), Brass Ensemble: 4 horns (F),
+    2 trumpets (B), 3 trombones, tuba'
+duration_minutes: 17

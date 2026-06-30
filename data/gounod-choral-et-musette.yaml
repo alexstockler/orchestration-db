@@ -1,0 +1,16 @@
+id: gounod-choral-et-musette
+work:
+  composer: Gounod, Charles
+  title: Choral et musette
+  ids:
+    imslp: Choral et musette, CG 554a (Gounod, Charles)
+  year: 1866
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Choral_et_musette%2C_CG_554a_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,45 @@
+id: bartok-2-portraits-op-5
+work:
+  composer: Bartók, Béla
+  title: 2 Portraits, Op.5
+  ids:
+    imslp: 2 Portraits, Op.5 (Bartók, Béla)
+  year: 1907
+formula: 2[1/pic.2] 2[1.2/Eh] 2[1.2/bcl] 2 4221 tmp 2hp str
+instrumentation:
+  flute:
+  - doublings:
+    - piccolo
+  - {}
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet:
+  - {}
+  - doublings:
+    - bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 2
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - tam-tam
+    - triangle
+  harp: 2
+  strings: str
+  additional_raw: small drum
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Portraits%2C_Op.5_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (1st also piccolo), 2 oboes (2nd also english
+    horn), 2 clarinets (2nd also bass clarinet), 2 bassoons, 4 horns, 2 trumpets,
+    2 trombones, tuba, timpani, bass drum, cymbals, tam-tam, triangle, small drum,
+    2 harps, strings'
+duration_minutes: 13

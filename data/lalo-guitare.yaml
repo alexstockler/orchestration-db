@@ -1,0 +1,16 @@
+id: lalo-guitare
+work:
+  composer: Lalo, Édouard
+  title: Guitare
+  ids:
+    imslp: Guitare, Op.28 (Lalo, Édouard)
+  year: 1877
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Guitare%2C_Op.28_%28Lalo%2C_%C3%89douard%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin and Piano'

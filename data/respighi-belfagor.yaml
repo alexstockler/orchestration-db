@@ -1,0 +1,52 @@
+id: respighi-belfagor
+work:
+  composer: Respighi, Ottorino
+  title: Belfagor
+  ids:
+    imslp: Belfagor (Respighi, Ottorino)
+  year: 1923
+formula: 2 3[1.2.Eh] 3[Ebcl.2.3] 3[1.2.cbn] 4330 tmp cel hp str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - ratchet
+    - drum
+    - bass drum
+    - cymbals
+    - tam-tam
+    - xylophone
+    - bells
+  keyboards:
+  - instrument: celesta
+  harp: 1
+  strings: str
+  soloists:
+  - voices
+  chorus_raw: chorus
+  additional_raw: orchestra piccolo | bass tuba | handbells
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Belfagor_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices, chorus, orchestra piccolo, 2 flutes , 2 oboes,
+    English horn, E clarinet, 2 clarinets, 2 bassoons, double bassoon, 4 horns, 3
+    trumpets, 3 trombones, bass tuba, timpani, triangle, ratchet, drum, bass drum,
+    cymbals, tam-tam, xylophone, handbells, bells, celesta, harp, strings'

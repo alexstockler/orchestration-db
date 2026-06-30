@@ -1,0 +1,18 @@
+id: offenbach-deux-ames-au-ciel
+work:
+  composer: Offenbach, Jacques
+  title: Deux âmes au ciel
+  ids:
+    imslp: Deux âmes au ciel, Op.25 (Offenbach, Jacques)
+  year: 1842
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Deux_%C3%A2mes_au_ciel%2C_Op.25_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'

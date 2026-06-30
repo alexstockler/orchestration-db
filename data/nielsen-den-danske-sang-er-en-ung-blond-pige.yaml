@@ -1,0 +1,17 @@
+id: nielsen-den-danske-sang-er-en-ung-blond-pige
+work:
+  composer: Nielsen, Carl
+  title: Den danske Sang er en ung blond Pige
+  ids:
+    imslp: Den danske Sang er en ung blond Pige, CNW 271 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Den_danske_Sang_er_en_ung_blond_Pige%2C_CNW_271_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

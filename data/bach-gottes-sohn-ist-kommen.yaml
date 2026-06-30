@@ -1,0 +1,16 @@
+id: bach-gottes-sohn-ist-kommen
+work:
+  composer: Bach, Johann Sebastian
+  title: Gottes Sohn ist kommen
+  ids:
+    imslp: Gottes Sohn ist kommen, BWV 703 (Bach, Johann Sebastian)
+  year: 1739
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gottes_Sohn_ist_kommen%2C_BWV_703_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

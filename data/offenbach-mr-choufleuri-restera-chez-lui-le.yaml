@@ -1,0 +1,16 @@
+id: offenbach-mr-choufleuri-restera-chez-lui-le
+work:
+  composer: Offenbach, Jacques
+  title: Mr. Choufleuri restera chez lui le ...
+  ids:
+    imslp: Monsieur Choufleuri restera chez lui le (Offenbach, Jacques)
+  year: 1861
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Monsieur_Choufleuri_restera_chez_lui_le_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

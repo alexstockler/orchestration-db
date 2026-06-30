@@ -1,0 +1,24 @@
+id: glazunov-2-pieces-for-orchestra
+work:
+  composer: Glazunov, Aleksandr
+  title: 2 Pieces for Orchestra
+  ids:
+    imslp: 2 Pieces for Orchestra, Op.14 (Glazunov, Aleksandr)
+  year: 1886
+formula: 4344 6000 hp str
+instrumentation:
+  flute: 4
+  oboe: 3
+  clarinet: 4
+  bassoon: 4
+  horn: 6
+  harp: 1
+  strings: str
+  additional_raw: 1 | Idylle | strings 2 | Rêverie orientale
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Pieces_for_Orchestra%2C_Op.14_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: 1. Idylle :2 flutes, 2 oboes, 2 clarinets, 2 bassoons,
+    4 horns, harp (ad lib.), strings 2. Rêverie orientale :2 flutes, oboe, 2 clarinets,
+    2 bassoons, 2 horns, strings'

@@ -1,0 +1,31 @@
+id: nielsen-helios-overture
+work:
+  composer: Nielsen, Carl
+  title: Helios Overture
+  ids:
+    imslp: Helios Overture, Op.17 (Nielsen, Carl)
+  year: 1903
+formula: 3[1.2.3/pic] 2 2 2 4331 tmp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Helios_Overture%2C_Op.17_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 2 oboes, 2 clarinets, 2 bassoons,
+    4 horns, 3 trumpets, 3 trombones, tuba, timpani, strings'
+duration_minutes: 13

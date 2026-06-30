@@ -1,0 +1,19 @@
+id: holst-12-humbert-wolfe-songs-op-48
+work:
+  composer: Holst, Gustav
+  title: 12 Humbert Wolfe Songs, Op.48
+  ids:
+    imslp: 12 Humbert Wolfe Songs, Op.48 (Holst, Gustav)
+  year: 1929
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Humbert_Wolfe_Songs%2C_Op.48_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 26

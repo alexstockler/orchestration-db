@@ -1,0 +1,17 @@
+id: nielsen-drag-jesus-mig-dog-efter-dig
+work:
+  composer: Nielsen, Carl
+  title: Drag, Jesus, mig dog efter dig
+  ids:
+    imslp: Drag, Jesus, mig dog efter dig, CNW 162 (Nielsen, Carl)
+  year: 1913
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: piano / mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Drag%2C_Jesus%2C_mig_dog_efter_dig%2C_CNW_162_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano / mixed chorus'

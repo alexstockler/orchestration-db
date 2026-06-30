@@ -1,0 +1,16 @@
+id: offenbach-melodies-de-parisina
+work:
+  composer: Offenbach, Jacques
+  title: Mélodies de Parisina
+  ids:
+    imslp: Mélodies de Parisina (Offenbach, Jacques)
+  year: 1852
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/M%C3%A9lodies_de_Parisina_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: cello'

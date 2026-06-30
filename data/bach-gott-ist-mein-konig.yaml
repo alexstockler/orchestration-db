@@ -1,0 +1,23 @@
+id: bach-gott-ist-mein-konig
+work:
+  composer: Bach, Johann Sebastian
+  title: Gott ist mein König
+  ids:
+    imslp: Gott ist mein König, BWV 71 (Bach, Johann Sebastian)
+  year: 1708
+formula: 0201 0300 tmp str
+instrumentation:
+  oboe: 2
+  bassoon: 1
+  trumpet: 3
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: 2 recorders | continuo (organ obbligato)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_ist_mein_K%C3%B6nig%2C_BWV_71_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 recorders, 2 oboes, bassoon, 3 trumpets, timpani, strings,
+    continuo (organ obbligato)'
+duration_minutes: 20

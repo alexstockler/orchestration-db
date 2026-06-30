@@ -1,0 +1,16 @@
+id: franck-morceau-de-lecture-a-vue
+work:
+  composer: Franck, César
+  title: Morceau de lecture à vue
+  ids:
+    imslp: Morceau de lecture à vue, CFF 22 (Franck, César)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Morceau_de_lecture_%C3%A0_vue%2C_CFF_22_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

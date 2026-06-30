@@ -1,0 +1,15 @@
+id: bach-english-suite-no-1
+work:
+  composer: Bach, Johann Sebastian
+  title: English Suite No.1
+  ids:
+    imslp: English Suite No.1 in A major, BWV 806 (Bach, Johann Sebastian)
+  year: 1715
+formula: ''
+instrumentation:
+  additional_raw: keyboard (harpsichord or clavichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/English_Suite_No.1_in_A_major%2C_BWV_806_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard (harpsichord or clavichord)'

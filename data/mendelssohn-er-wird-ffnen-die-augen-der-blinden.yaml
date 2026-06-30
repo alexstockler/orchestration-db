@@ -7,7 +7,6 @@ work:
 formula: ''
 instrumentation:
   chorus_raw: mixed chorus
-  additional_raw: orchestra
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Er_wird_%C3%B6ffnen_die_Augen_der_Blinden%2C_MWV_S_78_%28Mendelssohn%2C_Felix%29

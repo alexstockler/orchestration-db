@@ -1,0 +1,15 @@
+id: bach-kanon-zu-zwei-stimmen
+work:
+  composer: Bach, Johann Sebastian
+  title: Kanon zu zwei Stimmen
+  ids:
+    imslp: Canon in D major, BWV 1086 (Bach, Johann Sebastian)
+  year: 1750
+formula: ''
+instrumentation:
+  additional_raw: 2 instruments
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canon_in_D_major%2C_BWV_1086_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 instruments'

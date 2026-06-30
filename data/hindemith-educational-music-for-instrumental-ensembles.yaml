@@ -1,0 +1,26 @@
+id: hindemith-educational-music-for-instrumental-ensembles
+work:
+  composer: Hindemith, Paul
+  title: Educational Music for Instrumental Ensembles
+  ids:
+    imslp: Schulwerk für Instrumental-Zusammenspiel, Op.44 (Hindemith, Paul)
+  year: 1927
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - ':1. Neun Stücke: ::2 violins or 2 part violin chorus :2. Acht Kanons: ::2 violins
+    or 2 part violin chorus either with accompanying 3rd violin or viola :3. Acht
+    Stücke: ::2 violins'
+  - viola
+  - cello
+  - 'bass :4. Fünf Stücke: String'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Schulwerk_f%C3%BCr_Instrumental-Zusammenspiel%2C_Op.44_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: :1. Neun Stücke: ::2 violins or 2 part violin chorus :2.
+    Acht Kanons: ::2 violins or 2 part violin chorus either with accompanying 3rd
+    violin or viola :3. Acht Stücke: ::2 violins, viola, cello, bass :4. Fünf Stücke:
+    String Orchestra: ::strings (with solo violin)'
+duration_minutes: 29

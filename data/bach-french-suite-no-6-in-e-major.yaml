@@ -1,0 +1,15 @@
+id: bach-french-suite-no-6-in-e-major
+work:
+  composer: Bach, Johann Sebastian
+  title: French Suite No.6 in E major
+  ids:
+    imslp: French Suite No.6 in E major, BWV 817 (Bach, Johann Sebastian)
+  year: 1722
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/French_Suite_No.6_in_E_major%2C_BWV_817_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

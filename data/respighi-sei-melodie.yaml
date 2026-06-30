@@ -1,0 +1,16 @@
+id: respighi-sei-melodie
+work:
+  composer: Respighi, Ottorino
+  title: Sei Melodie
+  ids:
+    imslp: 6 Melodie (Respighi, Ottorino)
+  year: 1906
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Melodie_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and piano'

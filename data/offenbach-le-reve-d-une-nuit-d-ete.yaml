@@ -1,0 +1,15 @@
+id: offenbach-le-reve-d-une-nuit-d-ete
+work:
+  composer: Offenbach, Jacques
+  title: Le rêve d'une nuit d'été
+  ids:
+    imslp: Le rêve d'une nuit d'été (Offenbach, Jacques)
+  year: 1855
+formula: ''
+instrumentation:
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_r%C3%AAve_d%27une_nuit_d%27%C3%A9t%C3%A9_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, orchestra'

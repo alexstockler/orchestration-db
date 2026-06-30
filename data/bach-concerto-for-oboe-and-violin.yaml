@@ -1,0 +1,19 @@
+id: bach-concerto-for-oboe-and-violin
+work:
+  composer: Bach, Johann Sebastian
+  title: Concerto for Oboe and Violin
+  ids:
+    imslp: Concerto for Oboe and Violin in B-flat major, BWV Anh.22 (Bach, Johann
+      Sebastian)
+formula: 0100 0000
+instrumentation:
+  oboe: 1
+  solo_strings:
+    violin: 1
+    viola: 1
+  additional_raw: violins I | violins II | basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_Oboe_and_Violin_in_B-flat_major%2C_BWV_Anh.22_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Oboe, violin + violins I, violins II, violas, basses'

@@ -5,9 +5,12 @@ work:
   ids:
     imslp: Spanische Liebeslieder, Op.138 (Schumann, Robert)
   year: 1849
-formula: ''
+formula: pf
 instrumentation:
-  additional_raw: 4 voices | piano 4 hands
+  keyboards:
+  - instrument: piano
+  soloists:
+  - 4 voices
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Spanische_Liebeslieder%2C_Op.138_%28Schumann%2C_Robert%29

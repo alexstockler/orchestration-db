@@ -1,0 +1,20 @@
+id: bach-aus-tiefer-noth-schrei-ich-zu-dir
+work:
+  composer: Bach, Johann Sebastian
+  title: Aus tiefer Noth schrei ich zu dir
+  ids:
+    imslp: Aus tiefer Not schrei ich zu dir, BWV 38 (Bach, Johann Sebastian)
+  year: 1724
+formula: 0200 0040 str
+instrumentation:
+  oboe: 2
+  trombone: 4
+  strings: str
+  additional_raw: '[bassoon] | continuo (cello, violone, organ)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aus_tiefer_Not_schrei_ich_zu_dir%2C_BWV_38_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, [bassoon], 4 trombones, strings, continuo (cello,
+    violone, organ)'
+duration_minutes: 21

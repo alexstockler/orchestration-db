@@ -1,0 +1,15 @@
+id: respighi-il-tramonto
+work:
+  composer: Respighi, Ottorino
+  title: Il tramonto
+  ids:
+    imslp: Il tramonto (Respighi, Ottorino)
+  year: 1914
+formula: ''
+instrumentation:
+  additional_raw: Voice and string quartet
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_tramonto_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and string quartet'

@@ -1,0 +1,15 @@
+id: bach-des-heilgen-geistes-reiche-gnad
+work:
+  composer: Bach, Johann Sebastian
+  title: Des Heilgen Geistes reiche Gnad
+  ids:
+    imslp: Des Heilgen Geistes reiche Gnad, BWV 295 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Des_Heilgen_Geistes_reiche_Gnad%2C_BWV_295_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

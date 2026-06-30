@@ -1,0 +1,18 @@
+id: vaughan-williams-i-will-give-my-love-an-apple
+work:
+  composer: Vaughan Williams, Ralph
+  title: I Will Give My Love an Apple
+  ids:
+    imslp: I Will Give My Love an Apple (Vaughan Williams, Ralph)
+  year: 1912
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/I_Will_Give_My_Love_an_Apple_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

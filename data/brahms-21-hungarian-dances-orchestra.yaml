@@ -6,8 +6,7 @@ work:
     imslp: 21 Hungarian Dances (Orchestra), WoO 1 (Brahms, Johannes)
   year: 1858
 formula: ''
-instrumentation:
-  additional_raw: orchestra
+instrumentation: {}
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/21_Hungarian_Dances_%28Orchestra%29%2C_WoO_1_%28Brahms%2C_Johannes%29

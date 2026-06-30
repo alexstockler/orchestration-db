@@ -1,0 +1,30 @@
+id: nielsen-saga-drm
+work:
+  composer: Nielsen, Carl
+  title: Saga-drøm
+  ids:
+    imslp: Saga-drøm, Op.39 (Nielsen, Carl)
+  year: 1907
+formula: 3222 4331 tmp str
+instrumentation:
+  flute: 3
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - suspended cymbal
+    - glockenspiel
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Saga-dr%C3%B8m%2C_Op.39_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 3
+    trumpets, 3 trombones, tuba, timpani, suspended cymbal, glockenspiel, strings'
+duration_minutes: 9

@@ -1,0 +1,16 @@
+id: franck-danse-lente
+work:
+  composer: Franck, César
+  title: Danse lente
+  ids:
+    imslp: Danse lente (Franck, César)
+  year: 1885
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Danse_lente_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

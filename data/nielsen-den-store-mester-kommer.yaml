@@ -1,0 +1,18 @@
+id: nielsen-den-store-mester-kommer
+work:
+  composer: Nielsen, Carl
+  title: Den store Mester kommer!
+  ids:
+    imslp: Den store Mester kommer!, CNW 243 (Nielsen, Carl)
+  year: 1919
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Den_store_Mester_kommer%21%2C_CNW_243_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

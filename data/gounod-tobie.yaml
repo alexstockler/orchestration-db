@@ -1,0 +1,17 @@
+id: gounod-tobie
+work:
+  composer: Gounod, Charles
+  title: Tobie
+  ids:
+    imslp: Tobie, CG 31 (Gounod, Charles)
+  year: 1854
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tobie%2C_CG_31_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

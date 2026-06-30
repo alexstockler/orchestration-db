@@ -5,7 +5,8 @@ work:
   ids:
     imslp: Symphony No.9, GMW 50 (Mahler, Gustav)
   year: 1909
-formula: 5[pic.2.3.4.5] 4[1.2.3.4/Eh] 5[1.2.3.4.bcl] 4[1.2.3.4/cbn] 4331 tmp 2hp str
+formula: 5[pic.2.3.4.5] 4[1.2.3.4/Eh] 5[Ebcl.2.3.4.bcl] 4[1.2.3.4/cbn] 4331 tmp 2hp
+  str
 instrumentation:
   flute:
   - instrument: piccolo
@@ -20,7 +21,7 @@ instrumentation:
   - doublings:
     - english_horn
   clarinet:
-  - {}
+  - instrument: eflat_clarinet
   - {}
   - {}
   - {}
@@ -43,10 +44,10 @@ instrumentation:
     - cymbals
     - triangle
     - tam-tam
+    - bells
     - glockenspiel
   harp: 2
   strings: str
-  additional_raw: bells (3)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Symphony_No.9%2C_GMW_50_%28Mahler%2C_Gustav%29

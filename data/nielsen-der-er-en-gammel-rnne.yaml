@@ -1,0 +1,18 @@
+id: nielsen-der-er-en-gammel-rnne
+work:
+  composer: Nielsen, Carl
+  title: Der er en gammel rønne
+  ids:
+    imslp: Der er en gammel rønne, CNW 323 (Nielsen, Carl)
+  year: 1926
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_er_en_gammel_r%C3%B8nne%2C_CNW_323_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,17 @@
+id: massenet-andante-cantabile
+work:
+  composer: Massenet, Jules
+  title: Andante cantabile
+  ids:
+    imslp: Andante cantabile (Massenet, Jules)
+  year: 1882
+formula: 0000 1000 pf
+instrumentation:
+  horn: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_cantabile_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: horn, piano'

@@ -1,0 +1,17 @@
+id: bizet-petite-marguerite
+work:
+  composer: Bizet, Georges
+  title: Petite Marguerite
+  ids:
+    imslp: Petite Marguerite (Bizet, Georges)
+  year: 1854
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: voice (soprano or tenor)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Petite_Marguerite_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (soprano or tenor), piano'

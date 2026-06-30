@@ -1,0 +1,16 @@
+id: kodaly-gyermektancok
+work:
+  composer: Kodály, Zoltán
+  title: Gyermektáncok
+  ids:
+    imslp: Gyermektáncok (Kodály, Zoltán)
+  year: 1945
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gyermekt%C3%A1ncok_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -5,7 +5,7 @@ work:
   ids:
     imslp: Ein Heldenleben, Op.40 (Strauss, Richard)
   year: 1898
-formula: 4[pic.2.3.4] 4[1.2.3.4/Eh] 4[Ebcl.2.3.bcl] 4[1.2.3.cbn] 8531 tmp 2hp str
+formula: 4[pic.2.3.4] 4[1.2.3.4/Eh] 4[Ebcl.2.3.bcl] 4[1.2.3.cbn] 8031 tmp 2hp str
 instrumentation:
   flute:
   - instrument: piccolo
@@ -29,7 +29,6 @@ instrumentation:
   - {}
   - instrument: contrabassoon
   horn: 8
-  trumpet: 5
   trombone: 3
   tuba: 1
   percussion:
@@ -44,6 +43,8 @@ instrumentation:
   harp: 2
   strings: str
   additional_raw: tenor tuba (or euphonium) | solo violin
+  offstage:
+  - 5 trumpet
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Ein_Heldenleben%2C_Op.40_%28Strauss%2C_Richard%29

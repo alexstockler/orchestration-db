@@ -1,0 +1,18 @@
+id: nielsen-jeg-gik-i-marken-og-vogtede-far
+work:
+  composer: Nielsen, Carl
+  title: Jeg gik i marken og vogtede får
+  ids:
+    imslp: Jeg gik i marken og vogtede får, CNW 327 (Nielsen, Carl)
+  year: 1928
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jeg_gik_i_marken_og_vogtede_f%C3%A5r%2C_CNW_327_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

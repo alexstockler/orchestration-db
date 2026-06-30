@@ -1,0 +1,17 @@
+id: berlioz-marche-funebre-pour-la-derniere-scene-dhamlet
+work:
+  composer: Berlioz, Hector
+  title: Marche funèbre pour la dernière scène d’Hamlet
+  ids:
+    imslp: Marche funèbre pour la dernière scène d'Hamlet, H 103 (Berlioz, Hector)
+  year: 1844
+formula: ''
+instrumentation:
+  additional_raw: 2 | 2 | 2 | 2(4) – 4 | 2+2cornet | 3 | 1+oph(btub) – timp | perc
+    (6) – str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marche_fun%C3%A8bre_pour_la_derni%C3%A8re_sc%C3%A8ne_d%27Hamlet%2C_H_103_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: 2,2,2,2(4) – 4,2+2cornet,3,1+oph(btub) – timp, perc (6)
+    – str'

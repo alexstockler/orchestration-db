@@ -1,0 +1,18 @@
+id: bizet-la-nuit
+work:
+  composer: Bizet, Georges
+  title: La nuit
+  ids:
+    imslp: La nuit (Bizet, Georges)
+  year: 1868
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_nuit_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

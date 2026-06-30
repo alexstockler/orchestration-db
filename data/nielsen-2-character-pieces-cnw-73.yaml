@@ -1,0 +1,16 @@
+id: nielsen-2-character-pieces-cnw-73
+work:
+  composer: Nielsen, Carl
+  title: 2 Character Pieces, CNW 73
+  ids:
+    imslp: 2 Karakterstykker, CNW 73 (Nielsen, Carl)
+  year: 1881
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Karakterstykker%2C_CNW_73_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

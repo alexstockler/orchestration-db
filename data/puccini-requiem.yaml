@@ -1,0 +1,18 @@
+id: puccini-requiem
+work:
+  composer: Puccini, Giacomo
+  title: Requiem
+  ids:
+    imslp: Requiem, SC 76 (Puccini, Giacomo)
+formula: harm
+instrumentation:
+  keyboards:
+  - instrument: harmonium
+  chorus_raw: mixed chorus
+  solo_strings:
+    viola: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Requiem%2C_SC_76_%28Puccini%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (STB), viola, harmonium (or organ)'

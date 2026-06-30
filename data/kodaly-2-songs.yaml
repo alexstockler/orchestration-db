@@ -1,0 +1,15 @@
+id: kodaly-2-songs
+work:
+  composer: Kodály, Zoltán
+  title: 2 Songs
+  ids:
+    imslp: 2 Songs, Op.5 (Kodály, Zoltán)
+  year: 1913
+formula: ''
+instrumentation:
+  additional_raw: low voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Songs%2C_Op.5_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: low voice, orchestra'

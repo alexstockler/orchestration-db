@@ -1,0 +1,18 @@
+id: janacek-hradcanske-pisnicky-jw-4-40
+work:
+  composer: Janáček, Leoš
+  title: Hradčanské písničky, JW 4/40
+  ids:
+    imslp: Hradčanské písničky, JW 4/40 (Janáček, Leoš)
+  year: 1916
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  chorus_raw: female chorus
+  additional_raw: flute and harp
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hrad%C4%8Dansk%C3%A9_p%C3%ADsni%C4%8Dky%2C_JW_4/40_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, female chorus, flute and harp'

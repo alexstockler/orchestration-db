@@ -1,0 +1,45 @@
+id: glazunov
+work:
+  composer: Glazunov, Aleksandr
+  title: Времена года
+  ids:
+    imslp: The Seasons, Op.67 (Glazunov, Aleksandr)
+  year: 1900
+formula: 3[pic.2.3] 2[1.2/Eh] 2 2 4231 tmp cel hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - tambourine
+    - bass drum
+    - military drum
+    - glockenspiel
+  keyboards:
+  - instrument: celesta
+  harp: 1
+  strings: str
+  additional_raw: upright piano ("pianino")
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Seasons%2C_Op.67_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra :piccolo, 2 flutes, 2 oboes (2nd also English
+    horn), 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani,
+    triangle, cymbals, tambourine, bass drum, military drum, glockenspiel,, celesta,
+    upright piano ("pianino"), harp, strings'

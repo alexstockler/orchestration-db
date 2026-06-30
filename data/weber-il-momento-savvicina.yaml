@@ -1,0 +1,22 @@
+id: weber-il-momento-savvicina
+work:
+  composer: Weber, Carl Maria von
+  title: Il momento s’avvicina
+  ids:
+    imslp: Il momento s'avvicina, Op.16 (Weber, Carl Maria von)
+  year: 1810
+formula: 2022 2000 str
+instrumentation:
+  flute: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+  soloists:
+  - Soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_momento_s%27avvicina%2C_Op.16_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice: Soprano, Orchestra: 2 flutes, 2 clarinets, 2 bassoons
+    + 2 horns + strings'

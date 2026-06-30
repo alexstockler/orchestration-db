@@ -1,0 +1,19 @@
+id: bartok-cantata-profana
+work:
+  composer: Bartók, Béla
+  title: Cantata profana
+  ids:
+    imslp: Cantata profana, Sz.94 (Bartók, Béla)
+  year: 1930
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  - baritone
+  additional_raw: double mixed chorus (SATB/SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cantata_profana%2C_Sz.94_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, baritone, double mixed chorus (SATB/SATB), orchestra'
+duration_minutes: 17

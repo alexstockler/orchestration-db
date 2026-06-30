@@ -26,6 +26,7 @@ instrumentation:
     - triangle
     - cymbals
     - glockenspiel
+    - drums
   keyboards:
   - instrument: organ
   harp: 1
@@ -67,7 +68,7 @@ instrumentation:
   - apprentices
   - young women
   - people of Nuremberg
-  additional_raw: drums | lute
+  additional_raw: lute
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Die_Meistersinger_von_N%C3%BCrnberg%2C_WWV_96_%28Wagner%2C_Richard%29

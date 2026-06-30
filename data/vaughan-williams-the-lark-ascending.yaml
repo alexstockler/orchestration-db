@@ -1,0 +1,24 @@
+id: vaughan-williams-the-lark-ascending
+work:
+  composer: Vaughan Williams, Ralph
+  title: The Lark Ascending
+  ids:
+    imslp: The Lark Ascending (Vaughan Williams, Ralph)
+  year: 1914
+formula: 2122 2000 str
+instrumentation:
+  flute: 2
+  oboe: 1
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  percussion:
+    instruments:
+    - triangle
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Lark_Ascending_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, oboe, 2 clarinets, 2 bassoons, 2 horns, triangle,
+    strings'

@@ -1,0 +1,16 @@
+id: scriabin-allegro-appassionato
+work:
+  composer: Scriabin, Aleksandr
+  title: Allegro appassionato
+  ids:
+    imslp: Allegro appassionato, Op.4 (Scriabin, Aleksandr)
+  year: 1894
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegro_appassionato%2C_Op.4_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

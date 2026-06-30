@@ -1,0 +1,18 @@
+id: massenet-loin-de-moi-ta-levre-qui-ment
+work:
+  composer: Massenet, Jules
+  title: Loin de moi ta lèvre qui ment
+  ids:
+    imslp: Loin de moi ta lèvre qui ment (Massenet, Jules)
+  year: 1881
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Loin_de_moi_ta_l%C3%A8vre_qui_ment_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

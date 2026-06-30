@@ -10,7 +10,8 @@ instrumentation:
   clarinet: 1
   keyboards:
   - instrument: piano
-  additional_raw: cello
+  solo_strings:
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Trio_in_E-flat_major%2C_Op.38_%28Beethoven%2C_Ludwig_van%29

@@ -1,0 +1,17 @@
+id: gounod-sapho-sappho
+work:
+  composer: Gounod, Charles
+  title: Sapho ; Sappho
+  ids:
+    imslp: Sapho, CG 1 (Gounod, Charles)
+  year: 1850
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sapho%2C_CG_1_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

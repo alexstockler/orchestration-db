@@ -1,0 +1,71 @@
+id: puccini-suor-angelica
+work:
+  composer: Puccini, Giacomo
+  title: Suor Angelica
+  ids:
+    imslp: Suor Angelica, SC 87 (Puccini, Giacomo)
+  year: 1918
+formula: 4[pic.2.3.pic] 3[1.2.Eh] 3[1.2.bcl] 2 4 6 4[1.2.3.btbn] 0 tmp cel org pf
+  pf hp
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  - instrument: piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 6
+  trombone:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_trombone
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - bass drum
+    - cymbals
+    - tavolette
+    - bells
+    - glockenspiel
+  keyboards:
+  - instrument: celesta
+  - instrument: organ
+  - instrument: piano
+  - instrument: piano
+  harp: 1
+  soloists:
+  - Sister Angelica (soprano) :The Princess
+  - her aunt (contralto) :The Abbess (mezzo-soprano) :The Monitress (mezzo-soprano)
+    :The Mistress of the novices (mezzo-soprano) :Sister Genovieffa (soprano) :Sister
+    Osmina (soprano) :Sister Dolcina (soprano) :The nursing sister (mezzo-soprano)
+    :The alms sisters (sopranos) :A novice (soprano) :The lay sisters (soprano and
+    mezzo-soprano) Mixed Chorus (SATB) :women
+  - children
+  - and men
+  offstage:
+  - strings
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suor_Angelica%2C_SC_87_%28Puccini%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Sister Angelica (soprano) :The Princess, her aunt
+    (contralto) :The Abbess (mezzo-soprano) :The Monitress (mezzo-soprano) :The Mistress
+    of the novices (mezzo-soprano) :Sister Genovieffa (soprano) :Sister Osmina (soprano)
+    :Sister Dolcina (soprano) :The nursing sister (mezzo-soprano) :The alms sisters
+    (sopranos) :A novice (soprano) :The lay sisters (soprano and mezzo-soprano) Mixed
+    Chorus (SATB) :women, children, and men Orchestra :piccolo, 2 flutes, 2 oboes,
+    English horn, 2 clarinets, bass clarinet, 2 bassoons :4 horns, 3 trumpets, 3 trombones,
+    bass trombone :timpani, triangle, bass drum, cymbals :celesta, harp, strings Off-stage
+    Instruments :piccolo, 3 trumpets, tavolette, cymbals, bells, glockenspiel, organ,
+    2 pianos'

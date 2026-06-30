@@ -9,7 +9,8 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: voice
+  soloists:
+  - voice
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Z%C3%A4rtliche_Liebe%2C_WoO_123_%28Beethoven%2C_Ludwig_van%29

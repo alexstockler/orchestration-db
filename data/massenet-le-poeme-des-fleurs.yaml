@@ -1,0 +1,22 @@
+id: massenet-le-poeme-des-fleurs
+work:
+  composer: Massenet, Jules
+  title: Le poème des fleurs
+  ids:
+    imslp: Le poème des fleurs (Massenet, Jules)
+  year: 1907
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - contralto
+  additional_raw: 'Piano (Female chorus ad lib, in movements 1, 3 and 4) #for 2 sopranos
+    and contralto | or SSA chorus #for contralto solo #for 2 sopranos | or SS chorus
+    #for SSA chorus | or 2 sopranos and contralto'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_po%C3%A8me_des_fleurs_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Sopranos, Contralto, Piano (Female chorus ad lib. in
+    movements 1, 3 and 4) #for 2 sopranos and contralto, or SSA chorus #for contralto
+    solo #for 2 sopranos, or SS chorus #for SSA chorus, or 2 sopranos and contralto'

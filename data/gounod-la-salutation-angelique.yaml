@@ -1,0 +1,21 @@
+id: gounod-la-salutation-angelique
+work:
+  composer: Gounod, Charles
+  title: La salutation angélique
+  ids:
+    imslp: La salutation angélique, CG 436 (Gounod, Charles)
+  year: 1876
+formula: org pf
+instrumentation:
+  keyboards:
+  - instrument: organ
+  - instrument: piano
+  soloists:
+  - voice
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_salutation_ang%C3%A9lique%2C_CG_436_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, violin (or cello), organ, piano'

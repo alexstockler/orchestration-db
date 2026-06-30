@@ -1,0 +1,15 @@
+id: kodaly-cohors-generosa
+work:
+  composer: Kodály, Zoltán
+  title: Cohors generosa
+  ids:
+    imslp: Cohors generosa (Kodály, Zoltán)
+  year: 1943
+formula: ''
+instrumentation:
+  additional_raw: mixed chorus (SAB) a cappella
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cohors_generosa_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SAB) a cappella'

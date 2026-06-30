@@ -1,0 +1,16 @@
+id: bach-ehre-sei-dir-christe-der-du-leidest-not
+work:
+  composer: Bach, Johann Sebastian
+  title: Ehre sei dir Christe, der du leidest Not
+  ids:
+    imslp: Ehre sei dir Christe, der du leidest Not, BWV 1097 (Bach, Johann Sebastian)
+  year: 1703
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ehre_sei_dir_Christe%2C_der_du_leidest_Not%2C_BWV_1097_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

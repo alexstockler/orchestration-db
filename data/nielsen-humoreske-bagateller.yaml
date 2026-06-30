@@ -1,0 +1,16 @@
+id: nielsen-humoreske-bagateller
+work:
+  composer: Nielsen, Carl
+  title: Humoreske Bagateller
+  ids:
+    imslp: Humoreske-bagateller, Op.11 (Nielsen, Carl)
+  year: 1897
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Humoreske-bagateller%2C_Op.11_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

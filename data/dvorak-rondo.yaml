@@ -14,7 +14,9 @@ instrumentation:
   keyboards:
   - instrument: piano
   strings: str
-  additional_raw: B.171 | cello | B.181 | cello
+  solo_strings:
+    cello: 2
+  additional_raw: B.171 | B.181
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Rondo%2C_Op.94_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29

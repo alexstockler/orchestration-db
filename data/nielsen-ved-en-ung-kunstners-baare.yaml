@@ -1,0 +1,15 @@
+id: nielsen-ved-en-ung-kunstners-baare
+work:
+  composer: Nielsen, Carl
+  title: Ved en ung Kunstners Baare
+  ids:
+    imslp: Ved en ung kunstners baare, CNW 36 (Nielsen, Carl)
+  year: 1910
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ved_en_ung_kunstners_baare%2C_CNW_36_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'

@@ -1,0 +1,17 @@
+id: smetana-erinnerung-an-pilsen
+work:
+  composer: Smetana, Bedřich
+  title: Erinnerung an Pilsen
+  ids:
+    imslp: Vzpomínka na Plzeň, JB 1:17 (Smetana, Bedřich)
+  year: 1843
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vzpom%C3%ADnka_na_Plze%C5%88%2C_JB_1%3A17_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: 1 piano'
+duration_minutes: 3

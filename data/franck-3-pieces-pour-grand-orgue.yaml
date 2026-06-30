@@ -1,0 +1,16 @@
+id: franck-3-pieces-pour-grand-orgue
+work:
+  composer: Franck, César
+  title: 3 Pièces pour Grand Orgue
+  ids:
+    imslp: 3 Pièces pour grand orgue (Franck, César)
+  year: 1878
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Pi%C3%A8ces_pour_grand_orgue_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

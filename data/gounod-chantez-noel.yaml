@@ -1,0 +1,18 @@
+id: gounod-chantez-noel
+work:
+  composer: Gounod, Charles
+  title: Chantez Noël
+  ids:
+    imslp: Chantez Noël, CG 184a (Gounod, Charles)
+  year: 1867
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chantez_No%C3%ABl%2C_CG_184a_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices (soprano and alto), piano'

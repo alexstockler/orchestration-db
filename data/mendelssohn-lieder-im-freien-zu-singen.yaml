@@ -7,7 +7,8 @@ work:
   year: 1834
 formula: ''
 instrumentation:
-  additional_raw: 4 voices (or mixed chorus) (SATB)
+  soloists:
+  - 4 voices
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/6_Lieder%2C_Op.41_%28Mendelssohn%2C_Felix%29

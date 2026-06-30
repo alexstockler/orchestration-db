@@ -1,0 +1,17 @@
+id: gounod-wedding-march-no-1
+work:
+  composer: Gounod, Charles
+  title: Wedding March No.1
+  ids:
+    imslp: Wedding March No.1, CG 529 (Gounod, Charles)
+  year: 1882
+formula: 0000 0030 org
+instrumentation:
+  trombone: 3
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Wedding_March_No.1%2C_CG_529_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 trombones, organ'

@@ -1,0 +1,19 @@
+id: franck-piano-trio
+work:
+  composer: Franck, César
+  title: Piano Trio
+  ids:
+    imslp: Piano Trio, CFF 108 (Franck, César)
+  year: 1834
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio%2C_CFF_108_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'

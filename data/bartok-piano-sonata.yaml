@@ -1,0 +1,17 @@
+id: bartok-piano-sonata
+work:
+  composer: Bartók, Béla
+  title: Piano Sonata
+  ids:
+    imslp: Piano Sonata, Sz.80 (Bartók, Béla)
+  year: 1926
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata%2C_Sz.80_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 15

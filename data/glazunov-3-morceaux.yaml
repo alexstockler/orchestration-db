@@ -1,0 +1,16 @@
+id: glazunov-3-morceaux
+work:
+  composer: Glazunov, Aleksandr
+  title: 3 Morceaux
+  ids:
+    imslp: 3 Pieces for Piano, Op.49 (Glazunov, Aleksandr)
+  year: 1894
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Pieces_for_Piano%2C_Op.49_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,18 @@
+id: nielsen-o-hvor-jeg-er-glad-i-dag
+work:
+  composer: Nielsen, Carl
+  title: O, hvor jeg er glad i Dag!
+  ids:
+    imslp: O, hvor jeg er glad i Dag!, CNW 270 (Nielsen, Carl)
+  year: 1923
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O%2C_hvor_jeg_er_glad_i_Dag%21%2C_CNW_270_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

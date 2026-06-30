@@ -1,0 +1,18 @@
+id: respighi-quattro-liriche-su-parole-di-poeti-armeni
+work:
+  composer: Respighi, Ottorino
+  title: Quattro liriche su parole di poeti armeni
+  ids:
+    imslp: 4 Liriche su parole di poeti armeni (Respighi, Ottorino)
+  year: 1921
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Liriche_su_parole_di_poeti_armeni_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'

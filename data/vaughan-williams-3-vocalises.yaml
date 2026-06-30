@@ -1,0 +1,18 @@
+id: vaughan-williams-3-vocalises
+work:
+  composer: Vaughan Williams, Ralph
+  title: 3 Vocalises
+  ids:
+    imslp: 3 Vocalises (Vaughan Williams, Ralph)
+  year: 1958
+formula: 0010 0000
+instrumentation:
+  clarinet: 1
+  soloists:
+  - soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Vocalises_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, clarinet'
+duration_minutes: 5

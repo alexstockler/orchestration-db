@@ -1,0 +1,18 @@
+id: weber-silvana
+work:
+  composer: Weber, Carl Maria von
+  title: Silvana
+  ids:
+    imslp: Silvana, J.87 (Weber, Carl Maria von)
+  year: 1808
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Silvana%2C_J.87_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'
+duration_minutes: 120

@@ -1,0 +1,16 @@
+id: offenbach-moucheron
+work:
+  composer: Offenbach, Jacques
+  title: Moucheron
+  ids:
+    imslp: Moucheron (Offenbach, Jacques)
+  year: 1870
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Moucheron_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

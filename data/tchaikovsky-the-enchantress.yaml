@@ -5,9 +5,13 @@ work:
   ids:
     imslp: The Enchantress, TH 9 (Tchaikovsky, Pyotr)
   year: 1885
-formula: 3 3[1.2.Eh] 2 2 4 4[cnt.cnt.3.4] 3 1 tmp hp str
+formula: 4[pic.2.3.4] 3[1.2.Eh] 2 2 4 4[cnt.cnt.3.4] 3 1 tmp hp str
 instrumentation:
-  flute: 3
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  - {}
   oboe:
   - {}
   - {}
@@ -34,24 +38,36 @@ instrumentation:
   harp: 1
   strings: str
   soloists:
+  - Roles ::Prince Nikita Kurlyatev (Князь Никита Курлятев)
   - baritone
+  - Princess Yevpraksiya (Княгиня Евпраксия)
   - mezzo-soprano
+  - Prince Yury (Княжич Юрий)
   - tenor
+  - Mamyrov (Мамыров)
   - bass
+  - Nenila (Ненила)
   - mezzo-soprano
+  - Ivan Zhuran (Иван Журан)
   - bass-baritone
+  - Nastasya/Kuma (Настасья/Кума)
+  - dramatic soprano
+  - Foka (Фока)
   - baritone
+  - Polya (Поля)
   - soprano
+  - Balakin (Балакин)
   - tenor
+  - Potap (Потап)
   - bass-baritone
+  - Lukash (Лукаш)
   - tenor
+  - Kichiga (Кичига)
   - bass
-  additional_raw: Roles ::Prince Nikita Kurlyatev (Князь Никита Курлятев) | Princess
-    Yevpraksiya (Княгиня Евпраксия) | Prince Yury (Княжич Юрий) | Mamyrov (Мамыров)
-    | Nenila (Ненила) | Ivan Zhuran (Иван Журан) | Nastasya/Kuma (Настасья/Кума) |
-    dramatic soprano | Foka (Фока) | Polya (Поля) | Balakin (Балакин) | Potap (Потап)
-    | Lukash (Лукаш) | Kichiga (Кичига) | Paisy (Паисий) | character tenor | Kudma
-    (Кудьма) | baritone :Mixed Chorus (SATB) :Orchestra ::piccolo
+  - Paisy (Паисий)
+  - character tenor
+  - Kudma (Кудьма)
+  - 'baritone :Mixed Chorus (SATB) :'
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/The_Enchantress%2C_TH_9_%28Tchaikovsky%2C_Pyotr%29

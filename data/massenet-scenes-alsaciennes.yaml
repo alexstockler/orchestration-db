@@ -1,0 +1,41 @@
+id: massenet-scenes-alsaciennes
+work:
+  composer: Massenet, Jules
+  title: Scènes alsaciennes
+  ids:
+    imslp: Scènes alsaciennes (Massenet, Jules)
+  year: 1882
+formula: 3[1.2.pic] 2 2 2 4 4[1.2.cnt.cnt] 3 1 tmp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - instrument: piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - bass drum
+    - cymbals
+    - snare drums
+    - bell
+  strings: str
+  additional_raw: offstage bugles
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sc%C3%A8nes_alsaciennes_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, piccolo, 2 oboes, 2 clarinets, 2 bassoons, 4
+    horns, 2 trumpets, 2 cornets, 3 trombones, tuba,, timpani, triangle, bass drum,
+    cymbals, strings, offstage bugles, snare drums, bell'

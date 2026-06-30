@@ -1,0 +1,32 @@
+id: nielsen-the-wolf-s-son-cnw-11
+work:
+  composer: Nielsen, Carl
+  title: The Wolf's Son, CNW 11
+  ids:
+    imslp: Ulvens søn, CNW 11 (Nielsen, Carl)
+  year: 1909
+formula: 1110 2210 tmp str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  horn: 2
+  trumpet: 2
+  trombone: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+  strings: str
+  soloists:
+  - Anders
+  - shepherd (bass)
+  - male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ulvens_s%C3%B8n%2C_CNW_11_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: Anders, shepherd (bass); male chorus, Orchestra:
+    flute, oboe, clarinets (B), 2 horns (F), 2 trumpets (F),, trombone, timpani, bass
+    drum, cymbals, strings'

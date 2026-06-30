@@ -1,0 +1,17 @@
+id: lalo-serenade
+work:
+  composer: Lalo, Édouard
+  title: Sérénade
+  ids:
+    imslp: Sérénade (Lalo, Édouard)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/S%C3%A9r%C3%A9nade_%28Lalo%2C_%C3%89douard%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'

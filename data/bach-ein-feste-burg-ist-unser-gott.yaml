@@ -1,0 +1,15 @@
+id: bach-ein-feste-burg-ist-unser-gott
+work:
+  composer: Bach, Johann Sebastian
+  title: Ein feste Burg ist unser Gott
+  ids:
+    imslp: Ein feste Burg ist unser Gott, BWV Anh.49 (Bach, Johann Sebastian)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ein_feste_Burg_ist_unser_Gott%2C_BWV_Anh.49_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

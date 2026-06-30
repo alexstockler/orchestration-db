@@ -7,7 +7,10 @@ work:
   year: 1865
 formula: ''
 instrumentation:
-  additional_raw: 2 violins | viola | cello
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/String_Quartet_in_B-flat_major%2C_TH_110_%28Tchaikovsky%2C_Pyotr%29

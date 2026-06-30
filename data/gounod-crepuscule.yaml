@@ -1,0 +1,18 @@
+id: gounod-crepuscule
+work:
+  composer: Gounod, Charles
+  title: Crépuscule
+  ids:
+    imslp: Crépuscule, CG 368 (Gounod, Charles)
+  year: 1866
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cr%C3%A9puscule%2C_CG_368_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

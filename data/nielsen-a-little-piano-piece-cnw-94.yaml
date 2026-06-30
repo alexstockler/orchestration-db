@@ -1,0 +1,16 @@
+id: nielsen-a-little-piano-piece-cnw-94
+work:
+  composer: Nielsen, Carl
+  title: A Little Piano Piece, CNW 94
+  ids:
+    imslp: Et lille klaverstykke, CNW 94 (Nielsen, Carl)
+  year: 1930
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Et_lille_klaverstykke%2C_CNW_94_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

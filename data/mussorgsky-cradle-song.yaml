@@ -1,0 +1,19 @@
+id: mussorgsky-cradle-song
+work:
+  composer: Mussorgsky, Modest
+  title: Cradle Song
+  ids:
+    imslp: Cradle Song (Mussorgsky, Modest)
+  year: 1865
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cradle_Song_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'
+duration_minutes: 5

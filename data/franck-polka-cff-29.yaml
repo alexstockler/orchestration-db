@@ -1,0 +1,16 @@
+id: franck-polka-cff-29
+work:
+  composer: Franck, César
+  title: Polka, CFF 29
+  ids:
+    imslp: Polka, CFF 29 (Franck, César)
+  year: 1850
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Polka%2C_CFF_29_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4 hands'

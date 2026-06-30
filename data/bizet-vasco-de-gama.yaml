@@ -1,0 +1,16 @@
+id: bizet-vasco-de-gama
+work:
+  composer: Bizet, Georges
+  title: Vasco de Gama
+  ids:
+    imslp: Vasco de Gama (Bizet, Georges)
+  year: 1859
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vasco_de_Gama_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, Chorus, Orchestra'

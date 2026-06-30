@@ -1,0 +1,21 @@
+id: bach-bisher-habt-ihr-nichts-gebeten-in-meinem-namen
+work:
+  composer: Bach, Johann Sebastian
+  title: Bisher habt ihr nichts gebeten in meinem Namen
+  ids:
+    imslp: Bisher habt ihr nichts gebeten in meinem Namen, BWV 87 (Bach, Johann Sebastian)
+  year: 1725
+formula: 0200 0000
+instrumentation:
+  oboe: 2
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: 2 oboes da caccia | continuo (harpsichord and/or organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bisher_habt_ihr_nichts_gebeten_in_meinem_Namen%2C_BWV_87_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 oboes da caccia, 2 violins, viola, continuo
+    (harpsichord and/or organ)'
+duration_minutes: 22

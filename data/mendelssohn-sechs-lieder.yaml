@@ -6,7 +6,7 @@ work:
     imslp: 6 Lieder, Op.50 (Mendelssohn, Felix)
 formula: ''
 instrumentation:
-  additional_raw: TTBB (+ 4 horns, trombone ad lib, in No.2)
+  chorus_raw: ttbb
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/6_Lieder%2C_Op.50_%28Mendelssohn%2C_Felix%29

@@ -1,0 +1,21 @@
+id: holst-seven-scottish-airs
+work:
+  composer: Holst, Gustav
+  title: Seven Scottish Airs
+  ids:
+    imslp: 7 Scottish Airs, H.93 (Holst, Gustav)
+  year: 1906
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Scottish_Airs%2C_H.93_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: piano, 2 violins, viola, cello'
+duration_minutes: 7

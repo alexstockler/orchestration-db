@@ -1,0 +1,17 @@
+id: delibes-le-meilleur-moment-des-amours
+work:
+  composer: Delibes, Léo
+  title: Le meilleur moment des amours
+  ids:
+    imslp: Le meilleur moment des amours (Delibes, Léo)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_meilleur_moment_des_amours_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

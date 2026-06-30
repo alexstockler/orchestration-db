@@ -1,0 +1,15 @@
+id: scriabin-andante-for-string-orchestra
+work:
+  composer: Scriabin, Aleksandr
+  title: Andante for String Orchestra
+  ids:
+    imslp: Andante for String Orchestra (Scriabin, Aleksandr)
+  year: 1899
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_for_String_Orchestra_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'

@@ -1,0 +1,18 @@
+id: gounod-notre-dame-des-petits-enfants
+work:
+  composer: Gounod, Charles
+  title: Notre-Dame des petits enfants
+  ids:
+    imslp: Notre-Dame des petits enfants, CG 413 (Gounod, Charles)
+  year: 1869
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Notre-Dame_des_petits_enfants%2C_CG_413_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano (or organ)'

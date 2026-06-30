@@ -1,0 +1,18 @@
+id: gounod-chanson-d-avril
+work:
+  composer: Gounod, Charles
+  title: Chanson d'avril
+  ids:
+    imslp: Chanson d'avril, CG 357 (Gounod, Charles)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chanson_d%27avril%2C_CG_357_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

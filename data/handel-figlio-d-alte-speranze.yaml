@@ -8,7 +8,9 @@ formula: ''
 instrumentation:
   soloists:
   - soprano
-  additional_raw: violin | continuo
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Figlio_d%27alte_speranze%2C_HWV_113_%28Handel%2C_George_Frideric%29

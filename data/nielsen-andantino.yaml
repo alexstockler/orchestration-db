@@ -1,0 +1,16 @@
+id: nielsen-andantino
+work:
+  composer: Nielsen, Carl
+  title: Andantino
+  ids:
+    imslp: Andantino in F major, CNW 91 (Nielsen, Carl)
+  year: 1929
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andantino_in_F_major%2C_CNW_91_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

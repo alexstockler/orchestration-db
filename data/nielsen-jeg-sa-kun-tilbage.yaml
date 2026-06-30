@@ -1,0 +1,20 @@
+id: nielsen-jeg-sa-kun-tilbage
+work:
+  composer: Nielsen, Carl
+  title: Jeg så kun tilbage
+  ids:
+    imslp: Jeg så kun tilbage, CNW 240 (Nielsen, Carl)
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  soloists:
+  - voice
+  additional_raw: Version 2 (1922)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jeg_s%C3%A5_kun_tilbage%2C_CNW_240_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Version 1 (1921): voice, piano, Version 2 (1922): piano
+    (with text over the top)'

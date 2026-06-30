@@ -1,0 +1,16 @@
+id: bach-nun-freut-euch-lieben-christen-gmein
+work:
+  composer: Bach, Johann Sebastian
+  title: Nun freut euch, lieben Christen gmein
+  ids:
+    imslp: Es ist gewisslich an der Zeit, BWV 734a (Bach, Johann Sebastian)
+  year: 1715
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_ist_gewisslich_an_der_Zeit%2C_BWV_734a_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

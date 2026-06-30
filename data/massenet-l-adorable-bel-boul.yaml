@@ -1,0 +1,19 @@
+id: massenet-l-adorable-bel-boul
+work:
+  composer: Massenet, Jules
+  title: L'adorable Bel'-Boul'
+  ids:
+    imslp: L'adorable Bel'-Boul' (Massenet, Jules)
+formula: 0010 0010 pf
+instrumentation:
+  clarinet: 1
+  trombone: 1
+  keyboards:
+  - instrument: piano
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27adorable_Bel%27-Boul%27_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, clarinet, trombone, piano (Overture - 4
+    hands)'

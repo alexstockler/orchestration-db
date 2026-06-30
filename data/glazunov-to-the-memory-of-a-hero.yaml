@@ -1,0 +1,29 @@
+id: glazunov-to-the-memory-of-a-hero
+work:
+  composer: Glazunov, Aleksandr
+  title: To the Memory of a Hero / Памяти героя
+  ids:
+    imslp: To the Memory of a Hero, Op.8 (Glazunov, Aleksandr)
+  year: 1885
+formula: 2 2[1.Eh] 2 2 4231 tmp str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/To_the_Memory_of_a_Hero%2C_Op.8_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, oboe, English horn, 2 clarinets (A), 2 bassoons,
+    4 horns (F), 2 trumpets (B), 3 trombones, tuba, timpani, strings'
+duration_minutes: 16

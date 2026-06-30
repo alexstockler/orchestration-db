@@ -7,7 +7,7 @@ work:
   year: 1918
 formula: ''
 instrumentation:
-  additional_raw: Chorus and Orchestra
+  chorus_raw: chorus and orchestra
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Oma_maa%2C_Op.92_%28Sibelius%2C_Jean%29

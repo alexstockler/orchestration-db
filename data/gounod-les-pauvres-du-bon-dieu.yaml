@@ -1,0 +1,15 @@
+id: gounod-les-pauvres-du-bon-dieu
+work:
+  composer: Gounod, Charles
+  title: Les pauvres du bon Dieu
+  ids:
+    imslp: Les pauvres du bon Dieu, CG 236 (Gounod, Charles)
+  year: 1854
+formula: ''
+instrumentation:
+  additional_raw: 3 equal voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_pauvres_du_bon_Dieu%2C_CG_236_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 equal voices'

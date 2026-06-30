@@ -1,0 +1,18 @@
+id: franck-les-cloches-du-soir
+work:
+  composer: Franck, César
+  title: Les cloches du soir
+  ids:
+    imslp: Les cloches du soir, FWV 87 (Franck, César)
+  year: 1888
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_cloches_du_soir%2C_FWV_87_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

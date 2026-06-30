@@ -1,0 +1,19 @@
+id: mussorgsky-i-have-many-palaces-and-gardens
+work:
+  composer: Mussorgsky, Modest
+  title: I Have Many Palaces and Gardens
+  ids:
+    imslp: I Have Many Palaces and Gardens (Mussorgsky, Modest)
+  year: 1863
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/I_Have_Many_Palaces_and_Gardens_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'
+duration_minutes: 3

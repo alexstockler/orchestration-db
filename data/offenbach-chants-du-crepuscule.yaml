@@ -1,0 +1,18 @@
+id: offenbach-chants-du-crepuscule
+work:
+  composer: Offenbach, Jacques
+  title: Chants du crépuscule
+  ids:
+    imslp: Chants du crépuscule, Op.29 (Offenbach, Jacques)
+  year: 1846
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chants_du_cr%C3%A9puscule%2C_Op.29_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'

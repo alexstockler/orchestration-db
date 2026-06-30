@@ -1,0 +1,56 @@
+id: hindemith-when-lilacs-last-in-the-door-yard-bloom-d-als-flieder-jungst-mir-im-ga
+work:
+  composer: Hindemith, Paul
+  title: When lilacs last in the door-yard bloom'd, Als Flieder jüngst mir im Garten
+    blüht'
+  ids:
+    imslp: When Lilacs last in the Door-yard Bloom'd (Hindemith, Paul)
+  year: 1946
+formula: 2[pic.2] 2[1.Eh] 2[1.bcl] 2[1.cbn] 3221 tmp+1 org str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe:
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - instrument: contrabassoon
+  horn: 3
+  trumpet: 2
+  trombone: 2
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+    instruments:
+    - bass drum
+    - chimes
+    - cymbals
+    - suspended cymbals
+    - glockenspiel
+    - gong
+    - snare drum
+    - triangle
+  keyboards:
+  - instrument: organ
+  strings: str
+  soloists:
+  - Mezzo Soprano (Solo)
+  - 'Baritone (Solo) :Mixed Chorus (SATB) :'
+  additional_raw: army bugle (B, offstage) | parade drum
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/When_Lilacs_last_in_the_Door-yard_Bloom%27d_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Voices ::Mezzo Soprano (Solo),
+    Baritone (Solo) :Mixed Chorus (SATB) :Orchestra ::piccolo, flute, oboe, English
+    horn, clarinet (B), :::bass clarinet (B), bassoon, contrabassoon ::3 horns (F),
+    army bugle (B, offstage), 2 trumpets (B), 2 trombones, tuba, timpani, percussion
+    (3 players), organ, strings ::: bass drum, chimes, cymbals, suspended cymbals,
+    glockenspiel, gong,, parade drum, snare drum, triangle'
+duration_minutes: 63

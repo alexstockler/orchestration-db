@@ -1,0 +1,18 @@
+id: bach-violin-concerto-in-d-minor
+work:
+  composer: Bach, Johann Sebastian
+  title: Violin Concerto in D minor
+  ids:
+    imslp: Concerto in D minor, BWV 987 (Bach, Johann Sebastian)
+  year: 1718
+formula: str
+instrumentation:
+  strings: str
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_in_D_minor%2C_BWV_987_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, strings, continuo'

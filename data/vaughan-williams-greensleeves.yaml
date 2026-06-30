@@ -1,0 +1,15 @@
+id: vaughan-williams-greensleeves
+work:
+  composer: Vaughan Williams, Ralph
+  title: Greensleeves
+  ids:
+    imslp: Greensleeves (part song) (Vaughan Williams, Ralph)
+  year: 1945
+formula: ''
+instrumentation:
+  additional_raw: mixed chorus (SATB) a cappella
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Greensleeves_%28part_song%29_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB) a cappella'

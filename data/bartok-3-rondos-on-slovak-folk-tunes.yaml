@@ -1,0 +1,17 @@
+id: bartok-3-rondos-on-slovak-folk-tunes
+work:
+  composer: Bartók, Béla
+  title: 3 Rondos on Slovak Folk Tunes
+  ids:
+    imslp: Rondos on Slovak Folk Tunes, Sz.84 (Bartók, Béla)
+  year: 1916
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rondos_on_Slovak_Folk_Tunes%2C_Sz.84_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 9

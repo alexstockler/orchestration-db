@@ -1,0 +1,15 @@
+id: bartok-5-slovak-folksongs
+work:
+  composer: Bartók, Béla
+  title: 5 Slovak Folksongs
+  ids:
+    imslp: 5 Slovak Folksongs, Sz.69 (Bartók, Béla)
+  year: 1917
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Slovak_Folksongs%2C_Sz.69_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

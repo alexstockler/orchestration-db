@@ -1,0 +1,21 @@
+id: nielsen-danmark-nu-blunder-den-lyse-nat
+work:
+  composer: Nielsen, Carl
+  title: Danmark, nu blunder den lyse Nat
+  ids:
+    imslp: Danmark, nu blunder den lyse Nat, CNW 336 (Nielsen, Carl)
+  year: 1929
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+  additional_raw: female chorus (SSA) 1930 (E major) | female chorus (SA) 1930 (D
+    major)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Danmark%2C_nu_blunder_den_lyse_Nat%2C_CNW_336_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano, female chorus (SSA) 1930 (E major), female
+    chorus (SA) 1930 (D major)'

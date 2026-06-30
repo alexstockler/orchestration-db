@@ -1,0 +1,17 @@
+id: bizet-les-pecheurs-de-perles
+work:
+  composer: Bizet, Georges
+  title: Les pêcheurs de perles
+  ids:
+    imslp: Les pêcheurs de perles (Bizet, Georges)
+  year: 1863
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_p%C3%AAcheurs_de_perles_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

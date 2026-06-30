@@ -1,0 +1,28 @@
+id: delibes-le-roi-s-amuse
+work:
+  composer: Delibes, Léo
+  title: Le roi s'amuse
+  ids:
+    imslp: Le roi s'amuse (Delibes, Léo)
+  year: 1882
+formula: 2222 2200 tmp mand str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  extras:
+  - instrument: mandolin
+  strings: str
+  additional_raw: '*Vieille chanson only.'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_roi_s%27amuse_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2
+    trumpets, timpani (also tambourine), mandolin*, strings, *Vieille chanson only.'
+duration_minutes: 13

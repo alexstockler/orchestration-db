@@ -19,8 +19,7 @@ instrumentation:
   keyboards:
   - instrument: organ
   strings: str
-  additional_raw: SST soli | SATB chorus / 2 | 2 | 2 | 2 - 2 | 2 | 3 | 0 | timp |
-    org | strs
+  additional_raw: SST soli | SATB chorus / 2 | 2 | 2 | 2 - 2 | 2 | 3 | 0 | org
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Kommt%2C_la%C3%9Ft_uns_anbeten%2C_Op.46_%28Mendelssohn%2C_Felix%29

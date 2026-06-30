@@ -1,0 +1,15 @@
+id: bach-alles-ist-an-gottes-segen
+work:
+  composer: Bach, Johann Sebastian
+  title: Alles ist an Gottes Segen
+  ids:
+    imslp: Alles ist an Gottes Segen, BWV 263 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alles_ist_an_Gottes_Segen%2C_BWV_263_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

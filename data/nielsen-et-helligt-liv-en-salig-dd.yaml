@@ -1,0 +1,17 @@
+id: nielsen-et-helligt-liv-en-salig-dd
+work:
+  composer: Nielsen, Carl
+  title: Et helligt Liv, en salig Død
+  ids:
+    imslp: Et helligt Liv, en salig Død, CNW 164 (Nielsen, Carl)
+  year: 1914
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: piano / mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Et_helligt_Liv%2C_en_salig_D%C3%B8d%2C_CNW_164_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano / mixed chorus'

@@ -1,0 +1,15 @@
+id: delibes-pas-de-fleurs
+work:
+  composer: Delibes, Léo
+  title: Pas de fleurs
+  ids:
+    imslp: Pas de fleurs (Delibes, Léo)
+  year: 1867
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pas_de_fleurs_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'
+duration_minutes: 7

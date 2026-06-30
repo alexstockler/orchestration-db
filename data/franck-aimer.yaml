@@ -1,0 +1,18 @@
+id: franck-aimer
+work:
+  composer: Franck, César
+  title: Aimer
+  ids:
+    imslp: Aimer (Franck, César)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aimer_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'

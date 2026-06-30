@@ -1,0 +1,41 @@
+id: bartok-piano-concerto-no-3
+work:
+  composer: Bartók, Béla
+  title: Piano Concerto No.3
+  ids:
+    imslp: Piano Concerto No.3, Sz.119 (Bartók, Béla)
+  year: 1945
+formula: 2[1.2/pic] 2[1.2/Eh] 0 2 4231 tmp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - snare drum
+    - tam-tam
+    - triangle
+  strings: str
+  additional_raw: 2 clarinets (A, B) (2nd also bass clarinet (B))
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Concerto_No.3%2C_Sz.119_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes (2nd also English
+    horn),, 2 clarinets (A, B) (2nd also bass clarinet (B)), 2 bassoons,, 4 horns
+    (F), 2 trumpets (C), 3 trombones, tuba,, timpani, bass drum, cymbals, snare drum,
+    tam-tam, triangle, strings'
+duration_minutes: 25

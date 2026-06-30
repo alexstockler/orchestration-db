@@ -1,0 +1,26 @@
+id: faure-la-naissance-de-venus
+work:
+  composer: Fauré, Gabriel
+  title: La naissance de Vénus
+  ids:
+    imslp: La naissance de Vénus, Op.29 (Fauré, Gabriel)
+  year: 1882
+formula: 2222 4230 tmp 2hp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  harp: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_naissance_de_V%C3%A9nus%2C_Op.29_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2
+    trumpets, 3 trombones, timpani, 2 harps, strings'

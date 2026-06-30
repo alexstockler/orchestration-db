@@ -1,0 +1,20 @@
+id: massenet-on-dit
+work:
+  composer: Massenet, Jules
+  title: On dit !
+  ids:
+    imslp: On dit (Massenet, Jules)
+  year: 1901
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/On_dit_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, violoncello, piano'

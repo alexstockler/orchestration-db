@@ -1,0 +1,18 @@
+id: vaughan-williams-reveillez-vous-picards
+work:
+  composer: Vaughan Williams, Ralph
+  title: Réveillez-vous Picards
+  ids:
+    imslp: Réveillez-vous Picards (Vaughan Williams, Ralph)
+  year: 1907
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/R%C3%A9veillez-vous_Picards_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

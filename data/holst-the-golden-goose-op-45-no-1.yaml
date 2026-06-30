@@ -1,0 +1,40 @@
+id: holst-the-golden-goose-op-45-no-1
+work:
+  composer: Holst, Gustav
+  title: The Golden Goose, Op.45 No.1
+  ids:
+    imslp: The Golden Goose, Op.45 No.1 (Holst, Gustav)
+formula: 3[pic.2.3] 3[1.2.Eh] 2 2 2231 tmp cel str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tambourine
+    - glockenspiel
+  keyboards:
+  - instrument: celesta
+  strings: str
+  soloists:
+  - mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Golden_Goose%2C_Op.45_No.1_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: mixed chorus (SATB), Orchestra: piccolo, 2 flutes,
+    2 oboes, English horn, 2 clarinets, 2 bassoons + 2 horns, 2 trumpets, 3 trombones,
+    tuba + timpani, triangle, tambourine, glockenspiel, celesta + strings'

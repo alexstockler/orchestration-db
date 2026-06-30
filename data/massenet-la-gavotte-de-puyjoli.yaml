@@ -1,0 +1,18 @@
+id: massenet-la-gavotte-de-puyjoli
+work:
+  composer: Massenet, Jules
+  title: La gavotte de Puyjoli
+  ids:
+    imslp: La gavotte de Puyjoli (Massenet, Jules)
+  year: 1909
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_gavotte_de_Puyjoli_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices (soprano and baritone), piano'

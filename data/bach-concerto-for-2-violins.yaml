@@ -1,0 +1,18 @@
+id: bach-concerto-for-2-violins
+work:
+  composer: Bach, Johann Sebastian
+  title: Concerto for 2 Violins
+  ids:
+    imslp: Concerto for 2 Violins in D minor, BWV 1043 (Bach, Johann Sebastian)
+  year: 1718
+formula: str
+instrumentation:
+  strings: str
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Violins_in_D_minor%2C_BWV_1043_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, strings, continuo'

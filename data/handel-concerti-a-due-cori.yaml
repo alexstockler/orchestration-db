@@ -8,9 +8,11 @@ formula: 0201 0000
 instrumentation:
   oboe: 2
   bassoon: 1
-  additional_raw: 'choirs" or cori) #I: Strings (V | I & II | Viola | Basses (cello
-    & double bass) | Chor I & II: 2 Oboes | Bassoon #II & III: Strings (V | I & II
-    | Viola | Basses (cello & double bass) | Chor I & II: 2 Corni'
+  solo_strings:
+    viola: 2
+  additional_raw: 'choirs" or cori) #I: Strings (V | I & II | Basses (cello & double
+    bass) | Chor I & II: 2 Oboes | Bassoon #II & III: Strings (V | I & II | Basses
+    (cello & double bass) | Chor I & II: 2 Corni'
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Concerti_a_due_Cori%2C_HWV_332-334_%28Handel%2C_George_Frideric%29

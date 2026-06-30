@@ -1,0 +1,87 @@
+id: puccini-gianni-schicchi
+work:
+  composer: Puccini, Giacomo
+  title: Gianni Schicchi
+  ids:
+    imslp: Gianni Schicchi, SC 88 (Puccini, Giacomo)
+  year: 1918
+formula: 3[pic.2.3] 3[1.2.Eh] 3[1.2.bcl] 2 4340 tmp+1 hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 4
+  percussion:
+    timpani: 1
+    players: 1
+  harp: 1
+  strings: str
+  soloists:
+  - Gianni Schicchi
+  - age 50 (baritone)
+  - Lauretta
+  - his daughter
+  - age 21 (soprano)
+  - Zita
+  - cousin of Buoso Donati
+  - age 60 (alto)
+  - Rinuccio
+  - Zita's nephew
+  - age 24 (tenor)
+  - Gherardo
+  - Buoso's nephew
+  - age 40 (tenor)
+  - Nella
+  - Gherardo's wife
+  - age 34 (soprano)
+  - Gherardino
+  - their son
+  - age 7 (soprano or treble)
+  - Betto di Signa
+  - Buoso's brother-in-law
+  - poor and shabbily dressed
+  - of uncertain age (bass)
+  - Simone
+  - cousin of Buoso
+  - age 70 (bass)
+  - Marco
+  - Simone's son
+  - age 45 (baritone)
+  - La Ciesca
+  - Marco's wife
+  - age 38 (mezzo-soprano)
+  - Maestro Spinelloccio
+  - a doctor (bass)
+  - Ser Amantio di Nicolao
+  - a notary (baritone)
+  - Pinellino
+  - a cobbler (bass)
+  - Guccio
+  - a dyer
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gianni_Schicchi%2C_SC_88_%28Puccini%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Gianni Schicchi, age 50 (baritone), Lauretta, his
+    daughter, age 21 (soprano), Zita, cousin of Buoso Donati, age 60 (alto), Rinuccio,
+    Zita''s nephew, age 24 (tenor), Gherardo, Buoso''s nephew, age 40 (tenor), Nella,
+    Gherardo''s wife, age 34 (soprano), Gherardino, their son, age 7 (soprano or treble),
+    Betto di Signa, Buoso''s brother-in-law, poor and shabbily dressed, of uncertain
+    age (bass), Simone, cousin of Buoso, age 70 (bass), Marco, Simone''s son, age
+    45 (baritone), La Ciesca, Marco''s wife, age 38 (mezzo-soprano), Maestro Spinelloccio,
+    a doctor (bass), Ser Amantio di Nicolao, a notary (baritone), Pinellino, a cobbler
+    (bass), Guccio, a dyer Orchestra :piccolo, 2 flutes, 2 oboes, English horn, 2
+    clarinets, bass clarinet, 2 bassoons, 4 horns, 3 trumpets, 4 trombones (4th bass),
+    timpani, percussion, harp, strings'

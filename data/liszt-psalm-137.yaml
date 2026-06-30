@@ -13,8 +13,10 @@ instrumentation:
   harp: 2
   soloists:
   - alto
+  - soprano
   chorus_raw: chorus
-  additional_raw: violin | soprano + female chorus (SA) | violin
+  solo_strings:
+    violin: 2
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Psalm_137%2C_S.17_%28Liszt%2C_Franz%29

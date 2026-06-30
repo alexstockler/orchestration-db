@@ -1,0 +1,18 @@
+id: faure-en-priere
+work:
+  composer: Fauré, Gabriel
+  title: En prière
+  ids:
+    imslp: En prière (Fauré, Gabriel)
+  year: 1890
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/En_pri%C3%A8re_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

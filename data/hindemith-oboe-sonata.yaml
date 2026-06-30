@@ -1,0 +1,18 @@
+id: hindemith-oboe-sonata
+work:
+  composer: Hindemith, Paul
+  title: Oboe Sonata
+  ids:
+    imslp: Oboe Sonata (Hindemith, Paul)
+  year: 1938
+formula: 0100 0000 pf
+instrumentation:
+  oboe: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oboe_Sonata_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, piano'
+duration_minutes: 12

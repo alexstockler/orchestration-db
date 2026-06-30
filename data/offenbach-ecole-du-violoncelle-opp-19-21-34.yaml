@@ -1,0 +1,16 @@
+id: offenbach-ecole-du-violoncelle-opp-19-21-34
+work:
+  composer: Offenbach, Jacques
+  title: École du violoncelle, Opp.19-21, 34
+  ids:
+    imslp: École du violoncelle, Opp.19-21, 34 (Offenbach, Jacques)
+  year: 1839
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%89cole_du_violoncelle%2C_Opp.19-21%2C_34_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Cellos'

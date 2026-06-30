@@ -7,7 +7,8 @@ work:
   year: 1888
 formula: ''
 instrumentation:
-  additional_raw: violin | Orchestra
+  solo_strings:
+    violin: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Mazurka_on_Polish_Themes_%28Rimsky-Korsakov%2C_Nikolay%29

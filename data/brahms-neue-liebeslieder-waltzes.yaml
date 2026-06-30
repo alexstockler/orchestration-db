@@ -5,16 +5,28 @@ work:
   ids:
     imslp: Neue Liebeslieder Waltzes, Op.65 (Brahms, Johannes)
   year: 1869
-formula: ''
+formula: pf pf pf pf pf pf
 instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  - instrument: piano
+  - instrument: piano
+  - instrument: piano
+  - instrument: piano
   soloists:
+  - soprano
   - alto
   - tenor
   - bass
+  - soprano
+  - bass
   - alto
-  additional_raw: 'Nos.1 | 2 | 7 | 8 | 12 | 14 | 15: soprano | piano 4-hands :Nos.3
-    | 6 | 9 | 11: soprano | piano 4-hands :No.4: bass | piano 4-hands :No.5: alto
-    | piano 4-hands :No.10: tenor | piano 4-hands :No.13: soprano | piano 4-hands'
+  - tenor
+  - soprano
+  - alto
+  additional_raw: Nos.1 | 2 | 7 | 8 | 12 | 14 | 15 | Nos.3 | 6 | 9 | 11 | No.4 | No.5
+    | No.10 | No.13
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Neue_Liebeslieder_Waltzes%2C_Op.65_%28Brahms%2C_Johannes%29

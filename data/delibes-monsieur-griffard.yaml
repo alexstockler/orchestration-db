@@ -1,0 +1,17 @@
+id: delibes-monsieur-griffard
+work:
+  composer: Delibes, Léo
+  title: Monsieur Griffard
+  ids:
+    imslp: Monsieur Griffard (Delibes, Léo)
+  year: 1858
+formula: ''
+instrumentation:
+  additional_raw: 4 Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Monsieur_Griffard_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 Vocal soloists, Orchestra (includes flutes, oboes, clarinets
+    in A, bassoons, horns in C and E, trumpets in A, trombones, timpani, triangle,
+    strings)'

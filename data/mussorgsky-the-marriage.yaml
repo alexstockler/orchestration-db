@@ -1,0 +1,18 @@
+id: mussorgsky-the-marriage
+work:
+  composer: Mussorgsky, Modest
+  title: The Marriage
+  ids:
+    imslp: The Marriage (Mussorgsky, Modest)
+  year: 1868
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Marriage_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (mezzo-soprano, tenor, baritone, bass), piano'

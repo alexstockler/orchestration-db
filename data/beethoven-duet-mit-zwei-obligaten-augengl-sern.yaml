@@ -7,7 +7,9 @@ work:
   year: 1796
 formula: ''
 instrumentation:
-  additional_raw: viola | cello
+  solo_strings:
+    viola: 1
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Duet_mit_zwei_obligaten_Augengl%C3%A4sern%2C_WoO_32_%28Beethoven%2C_Ludwig_van%29

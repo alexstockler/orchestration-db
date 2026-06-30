@@ -1,0 +1,15 @@
+id: bach-adagio
+work:
+  composer: Bach, Johann Sebastian
+  title: Adagio
+  ids:
+    imslp: Adagio in G major, BWV 968 (Bach, Johann Sebastian)
+  year: 1720
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adagio_in_G_major%2C_BWV_968_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

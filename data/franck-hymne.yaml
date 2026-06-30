@@ -1,0 +1,17 @@
+id: franck-hymne
+work:
+  composer: Franck, César
+  title: Hymne
+  ids:
+    imslp: Hymne (Franck, César)
+  year: 1888
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymne_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB), piano'

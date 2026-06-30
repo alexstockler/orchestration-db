@@ -1,0 +1,19 @@
+id: hindemith-9-english-songs
+work:
+  composer: Hindemith, Paul
+  title: 9 English Songs
+  ids:
+    imslp: 9 English Songs (Hindemith, Paul)
+  year: 1942
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/9_English_Songs_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 22

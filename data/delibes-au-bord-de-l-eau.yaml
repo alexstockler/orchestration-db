@@ -1,0 +1,17 @@
+id: delibes-au-bord-de-l-eau
+work:
+  composer: Delibes, Léo
+  title: Au bord de l'eau
+  ids:
+    imslp: Au bord de l'eau (Delibes, Léo)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Au_bord_de_l%27eau_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

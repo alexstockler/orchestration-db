@@ -1,0 +1,17 @@
+id: faure-ave-maria-in-a-major
+work:
+  composer: Fauré, Gabriel
+  title: Ave Maria in A major
+  ids:
+    imslp: Ave Maria in A major (Fauré, Gabriel)
+  year: 1871
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_Maria_in_A_major_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTB), organ'

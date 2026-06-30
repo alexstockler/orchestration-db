@@ -1,0 +1,18 @@
+id: offenbach-fantaisie-sur-norma
+work:
+  composer: Offenbach, Jacques
+  title: Fantaisie sur Norma
+  ids:
+    imslp: Fantaisie sur Norma, Op.73 (Offenbach, Jacques)
+  year: 1857
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantaisie_sur_Norma%2C_Op.73_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'

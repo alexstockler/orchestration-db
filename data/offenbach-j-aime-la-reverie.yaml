@@ -1,0 +1,18 @@
+id: offenbach-j-aime-la-reverie
+work:
+  composer: Offenbach, Jacques
+  title: J'aime la rêverie
+  ids:
+    imslp: J'aime la rêverie (Offenbach, Jacques)
+  year: 1839
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/J%27aime_la_r%C3%AAverie_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,18 @@
+id: massenet-jamais-plus
+work:
+  composer: Massenet, Jules
+  title: Jamais plus !
+  ids:
+    imslp: Jamais plus (Massenet, Jules)
+  year: 1912
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jamais_plus_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

@@ -5,9 +5,10 @@ work:
   ids:
     imslp: 8 Variations on a Theme by Count Waldstein, WoO 67 (Beethoven, Ludwig van)
   year: 1792
-formula: ''
+formula: pf
 instrumentation:
-  additional_raw: piano 4-hands
+  keyboards:
+  - instrument: piano
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/8_Variations_on_a_Theme_by_Count_Waldstein%2C_WoO_67_%28Beethoven%2C_Ludwig_van%29

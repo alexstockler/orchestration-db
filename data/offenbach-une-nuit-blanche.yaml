@@ -1,0 +1,15 @@
+id: offenbach-une-nuit-blanche
+work:
+  composer: Offenbach, Jacques
+  title: Une nuit blanche
+  ids:
+    imslp: Une nuit blanche (Offenbach, Jacques)
+  year: 1855
+formula: ''
+instrumentation:
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Une_nuit_blanche_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, orchestra'

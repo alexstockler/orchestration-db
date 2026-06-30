@@ -1,0 +1,18 @@
+id: gounod-depart
+work:
+  composer: Gounod, Charles
+  title: Départ
+  ids:
+    imslp: Départ, CG 369 (Gounod, Charles)
+  year: 1868
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/D%C3%A9part%2C_CG_369_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

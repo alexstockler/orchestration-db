@@ -1,0 +1,15 @@
+id: gounod-saltarello-cg-525
+work:
+  composer: Gounod, Charles
+  title: Saltarello, CG 525
+  ids:
+    imslp: Saltarello, CG 525 (Gounod, Charles)
+  year: 1870
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Saltarello%2C_CG_525_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'
+duration_minutes: 6

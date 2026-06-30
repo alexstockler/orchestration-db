@@ -1,0 +1,18 @@
+id: massenet-le-sais-tu
+work:
+  composer: Massenet, Jules
+  title: Le sais-tu ?
+  ids:
+    imslp: Le sais-tu (Massenet, Jules)
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_sais-tu_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

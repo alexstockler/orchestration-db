@@ -1,0 +1,16 @@
+id: hindemith-chorlieder-fur-knaben
+work:
+  composer: Hindemith, Paul
+  title: Chorlieder für Knaben
+  ids:
+    imslp: Chorlieder für Knaben (Hindemith, Paul)
+  year: 1930
+formula: ''
+instrumentation:
+  additional_raw: boys chorus (SSA or SSS)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chorlieder_f%C3%BCr_Knaben_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: boys chorus (SSA or SSS)'
+duration_minutes: 8

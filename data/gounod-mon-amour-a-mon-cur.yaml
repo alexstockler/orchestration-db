@@ -1,0 +1,18 @@
+id: gounod-mon-amour-a-mon-cur
+work:
+  composer: Gounod, Charles
+  title: Mon amour a mon cœur
+  ids:
+    imslp: Mon amour a mon cœur, CG 278a (Gounod, Charles)
+  year: 1875
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mon_amour_a_mon_c%C5%93ur%2C_CG_278a_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

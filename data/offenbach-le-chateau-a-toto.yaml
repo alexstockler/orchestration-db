@@ -1,0 +1,17 @@
+id: offenbach-le-chateau-a-toto
+work:
+  composer: Offenbach, Jacques
+  title: Le château à Toto
+  ids:
+    imslp: Le château à Toto (Offenbach, Jacques)
+  year: 1868
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_ch%C3%A2teau_%C3%A0_Toto_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

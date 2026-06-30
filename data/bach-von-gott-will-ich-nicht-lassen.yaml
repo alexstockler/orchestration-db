@@ -1,0 +1,17 @@
+id: bach-von-gott-will-ich-nicht-lassen
+work:
+  composer: Bach, Johann Sebastian
+  title: Von Gott will ich nicht lassen
+  ids:
+    imslp: Fantasia super 'Von Gott will ich nicht lassen', BWV 658a (Bach, Johann
+      Sebastian)
+  year: 1748
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_super_%27Von_Gott_will_ich_nicht_lassen%27%2C_BWV_658a_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

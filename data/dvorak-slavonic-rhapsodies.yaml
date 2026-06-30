@@ -5,9 +5,13 @@ work:
   ids:
     imslp: Slavonic Rhapsodies, Op.45 (Dvořák, Antonín)
   year: 1878
-formula: 2222 4230 tmp str
+formula: 4[pic.pic.3.4] 2 2 2 4230 tmp hp str
 instrumentation:
-  flute: 2
+  flute:
+  - instrument: piccolo
+  - instrument: piccolo
+  - {}
+  - {}
   oboe: 2
   clarinet: 2
   bassoon: 2
@@ -20,9 +24,10 @@ instrumentation:
     - bass drum
     - cymbals
     - triangle
+  harp: 1
   strings: str
-  additional_raw: 2 piccolos* | harp* | *No.1 uses a single piccolo | No.3 employs
-    2 | harp in Nos.2 and 3 only
+  additional_raw: '*No.1 uses a single piccolo | No.3 employs 2 | harp in Nos.2 and
+    3 only'
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Slavonic_Rhapsodies%2C_Op.45_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29

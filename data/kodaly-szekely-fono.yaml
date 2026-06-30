@@ -1,0 +1,17 @@
+id: kodaly-szekely-fono
+work:
+  composer: Kodály, Zoltán
+  title: Székely fonó
+  ids:
+    imslp: Székely fonó, K.48 (Kodály, Zoltán)
+  year: 1932
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sz%C3%A9kely_fon%C3%B3%2C_K.48_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

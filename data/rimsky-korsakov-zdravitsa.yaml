@@ -6,8 +6,7 @@ work:
     imslp: Zdravitsa (Rimsky-Korsakov, Nikolay)
   year: 1906
 formula: ''
-instrumentation:
-  additional_raw: orchestra
+instrumentation: {}
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Zdravitsa_%28Rimsky-Korsakov%2C_Nikolay%29

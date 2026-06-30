@@ -46,6 +46,7 @@ instrumentation:
     - cymbals
     - castanets
     - crotales
+    - anvil
     - tambourine
   harp: 2
   strings: str
@@ -68,7 +69,7 @@ instrumentation:
   - Lords and Ladies of the Court of Francois the 1st
   - Guards
   - Men and Women of the People
-  additional_raw: harmonica | anvil
+  additional_raw: harmonica
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Ascanio_%28Saint-Sa%C3%ABns%2C_Camille%29

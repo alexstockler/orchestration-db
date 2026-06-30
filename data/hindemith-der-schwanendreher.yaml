@@ -1,0 +1,32 @@
+id: hindemith-der-schwanendreher
+work:
+  composer: Hindemith, Paul
+  title: Der Schwanendreher
+  ids:
+    imslp: Der Schwanendreher (Hindemith, Paul)
+  year: 1935
+formula: 2[1.2/pic] 1 2 2 3110 tmp hp
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 1
+  clarinet: 2
+  bassoon: 2
+  horn: 3
+  trumpet: 1
+  trombone: 1
+  percussion:
+    timpani: 2
+  harp: 1
+  solo_strings:
+    cello: 4
+  additional_raw: 3 basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Schwanendreher_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), oboe, 2 clarinets, 2 bassoons,
+    3 horns, trumpet, trombone, 2 timpani, harp, 4 cellos, 3 basses'
+duration_minutes: 26

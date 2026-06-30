@@ -1,0 +1,16 @@
+id: smetana-ballade
+work:
+  composer: Smetana, Bedřich
+  title: Ballade
+  ids:
+    imslp: Ballade in E minor, JB 2:43 (Smetana, Bedřich)
+  year: 1858
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ballade_in_E_minor%2C_JB_2%3A43_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

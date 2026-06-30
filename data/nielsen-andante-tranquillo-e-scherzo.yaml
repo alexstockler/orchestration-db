@@ -1,0 +1,14 @@
+id: nielsen-andante-tranquillo-e-scherzo
+work:
+  composer: Nielsen, Carl
+  title: Andante tranquillo e scherzo
+  ids:
+    imslp: Andante tranquillo e scherzo, CNW 31 (Nielsen, Carl)
+  year: 1887
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Andante_tranquillo_e_scherzo%2C_CNW_31_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: string orchestra'

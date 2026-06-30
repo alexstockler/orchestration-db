@@ -7,7 +7,7 @@ work:
   year: 1842
 formula: ''
 instrumentation:
-  additional_raw: TTBB choir
+  chorus_raw: ttbb choir
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Die_Stiftungsfeier%2C_WoO_22_%28Mendelssohn%2C_Felix%29

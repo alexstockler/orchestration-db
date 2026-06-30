@@ -1,0 +1,19 @@
+id: copland-old-poem
+work:
+  composer: Copland, Aaron
+  title: Old Poem
+  ids:
+    imslp: Old Poem (Copland, Aaron)
+  year: 1920
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Old_Poem_%28Copland%2C_Aaron%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 3

@@ -1,0 +1,42 @@
+id: vaughan-williams-old-king-cole
+work:
+  composer: Vaughan Williams, Ralph
+  title: Old King Cole
+  ids:
+    imslp: Old King Cole (Vaughan Williams, Ralph)
+  year: 1923
+formula: 3[1.2/pic.3] 2 2 2 4231 tmp cel hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - snare drum
+    - triangle
+    - glockenspiel
+  keyboards:
+  - instrument: celesta
+  harp: 1
+  strings: str
+  additional_raw: mixed chorus (SATB ad lib.)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Old_King_Cole_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB ad lib.), 3 flutes (2nd also piccolo),
+    2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani,
+    bass drum, cymbals, snare drum, triangle, glockenspiel, harp, celesta, strings'
+duration_minutes: 19

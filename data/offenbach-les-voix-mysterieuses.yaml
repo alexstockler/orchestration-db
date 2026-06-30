@@ -1,0 +1,18 @@
+id: offenbach-les-voix-mysterieuses
+work:
+  composer: Offenbach, Jacques
+  title: Les voix mystérieuses
+  ids:
+    imslp: Les voix mystérieuses (Offenbach, Jacques)
+  year: 1852
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_voix_myst%C3%A9rieuses_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,16 @@
+id: massenet-esclarmonde
+work:
+  composer: Massenet, Jules
+  title: Esclarmonde
+  ids:
+    imslp: Esclarmonde (opera) (Massenet, Jules)
+  year: 1888
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Esclarmonde_%28opera%29_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

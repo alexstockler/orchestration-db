@@ -5,7 +5,7 @@ work:
   ids:
     imslp: The Water Goblin, Op.107 (Dvořák, Antonín)
   year: 1896
-formula: 3[pic.2.3] 3[1.2.Eh] 3[1.2.bcl] 2 4231 tmp str
+formula: 3[pic.2.3] 3[1.2.Eh] 3[1.2.bcl] 2 4230 tmp str
 instrumentation:
   flute:
   - instrument: piccolo
@@ -23,7 +23,6 @@ instrumentation:
   horn: 4
   trumpet: 2
   trombone: 3
-  tuba: 1
   percussion:
     timpani: 1
     instruments:
@@ -33,6 +32,7 @@ instrumentation:
     - triangle
     - bell
   strings: str
+  additional_raw: tuba (+ 2nd tuba ad lib.)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/The_Water_Goblin%2C_Op.107_%28Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn%29

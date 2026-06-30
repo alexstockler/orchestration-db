@@ -1,0 +1,17 @@
+id: delibes-morceau-a-dechiffrer-pour-le-trombone
+work:
+  composer: Delibes, Léo
+  title: Morceau à déchiffrer pour le trombone
+  ids:
+    imslp: Morceau à déchiffrer pour le trombone (Delibes, Léo)
+  year: 1887
+formula: 0000 0010 pf
+instrumentation:
+  trombone: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Morceau_%C3%A0_d%C3%A9chiffrer_pour_le_trombone_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: trombone, piano'

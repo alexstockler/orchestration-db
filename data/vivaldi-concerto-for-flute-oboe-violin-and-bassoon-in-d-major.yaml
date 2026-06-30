@@ -10,7 +10,9 @@ instrumentation:
   flute: 1
   oboe: 1
   bassoon: 1
-  additional_raw: violin | continuo
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Chamber_Concerto_in_D_major%2C_RV_90_%28Vivaldi%2C_Antonio%29

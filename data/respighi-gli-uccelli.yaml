@@ -1,0 +1,28 @@
+id: respighi-gli-uccelli
+work:
+  composer: Respighi, Ottorino
+  title: Gli uccelli
+  ids:
+    imslp: Gli uccelli (Respighi, Ottorino)
+  year: 1928
+formula: 2[1.2/pic] 1 2 2 2200 cel hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 1
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  keyboards:
+  - instrument: celesta
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gli_uccelli_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), oboe, 2 clarinets, 2 bassoons,,
+    2 horns, 2 trumpets, celesta, harp, strings'

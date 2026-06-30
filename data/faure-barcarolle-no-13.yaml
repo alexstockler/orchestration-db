@@ -1,0 +1,16 @@
+id: faure-barcarolle-no-13
+work:
+  composer: Fauré, Gabriel
+  title: Barcarolle No.13
+  ids:
+    imslp: Barcarolle No.13, Op.116 (Fauré, Gabriel)
+  year: 1921
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Barcarolle_No.13%2C_Op.116_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

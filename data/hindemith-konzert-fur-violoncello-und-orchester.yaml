@@ -1,0 +1,45 @@
+id: hindemith-konzert-fur-violoncello-und-orchester
+work:
+  composer: Hindemith, Paul
+  title: Konzert für Violoncello und Orchester
+  ids:
+    imslp: Cello Concerto (Hindemith, Paul)
+  year: 1940
+formula: 2[1.2/pic] 2 3[1.2.bcl] 2 4231 tmp cel str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 2
+    instruments:
+    - triangle
+    - tambourine
+    - snare drum
+    - cymbals
+    - bass drum
+    - glockenspiel
+  keyboards:
+  - instrument: celesta
+  strings: str
+  additional_raw: small suspended cymbal | wooden drum | filed drum
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Concerto_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes, 2 clarinets, bass
+    clarinet, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, 2 timpani, triangle,
+    tambourine, snare drum, small suspended cymbal, wooden drum, cymbals, filed drum,
+    bass drum, glockenspiel, celesta, strings'
+duration_minutes: 28

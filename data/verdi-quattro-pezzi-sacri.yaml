@@ -1,0 +1,23 @@
+id: verdi-quattro-pezzi-sacri
+work:
+  composer: Verdi, Giuseppe
+  title: Quattro Pezzi Sacri
+  ids:
+    imslp: 4 Pezzi sacri (Verdi, Giuseppe)
+  year: 1898
+formula: ''
+instrumentation:
+  additional_raw: 1 | Ave Maria (harmonized on an enigmatic scale [scala enigmatica],
+    for unaccompanied mixed chorus) | 2 | Stabat Mater (for mixed chorus with orchestral
+    accompaniment) | 3 | Laudi alla Vergine Maria (from the final canto of Dante's
+    Paradise, for unaccompanied four part women's chorus) | 4 | Te Deum (for double
+    chorus of mixed voices with orchestral accompaniment).
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Pezzi_sacri_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: 1. Ave Maria (harmonized on an enigmatic scale [scala enigmatica],
+    for unaccompanied mixed chorus), 2. Stabat Mater (for mixed chorus with orchestral
+    accompaniment), 3. Laudi alla Vergine Maria (from the final canto of Dante''s
+    Paradise, for unaccompanied four part women''s chorus), 4. Te Deum (for double
+    chorus of mixed voices with orchestral accompaniment).'

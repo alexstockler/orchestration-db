@@ -5,9 +5,10 @@ work:
   ids:
     imslp: 6 Variations on a Swiss Song, WoO 64 (Beethoven, Ludwig van)
   year: 1790
-formula: ''
+formula: pf
 instrumentation:
-  additional_raw: piano or harp
+  keyboards:
+  - instrument: piano
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/6_Variations_on_a_Swiss_Song%2C_WoO_64_%28Beethoven%2C_Ludwig_van%29

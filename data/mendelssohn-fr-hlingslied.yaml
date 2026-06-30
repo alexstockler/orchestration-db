@@ -10,7 +10,10 @@ instrumentation:
   flute: 1
   clarinet: 1
   horn: 1
-  additional_raw: voice | cello
+  soloists:
+  - voice
+  solo_strings:
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Fr%C3%BChlingslied%2C_MWV_I_1_%28Mendelssohn%2C_Felix%29

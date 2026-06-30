@@ -1,0 +1,15 @@
+id: nielsen-morten-brups-majvise
+work:
+  composer: Nielsen, Carl
+  title: Morten Børups Majvise
+  ids:
+    imslp: Morten Børups Majvise, CNW 375 (Nielsen, Carl)
+  year: 1906
+formula: ''
+instrumentation:
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Morten_B%C3%B8rups_Majvise%2C_CNW_375_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SSA)'

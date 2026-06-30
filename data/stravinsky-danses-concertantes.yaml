@@ -16,7 +16,11 @@ instrumentation:
   trombone: 1
   percussion:
     timpani: 1
-  additional_raw: 6 violins | 4 violas | 3 cellos | 2 contrabasses
+  solo_strings:
+    violin: 6
+    viola: 4
+    cello: 3
+    double_bass: 2
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Danses_concertantes%2C_K063_%28Stravinsky%2C_Igor%29

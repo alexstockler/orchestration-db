@@ -1,0 +1,17 @@
+id: delibes-sancta-maria-mater-christi
+work:
+  composer: Delibes, Léo
+  title: Sancta Maria mater Christi
+  ids:
+    imslp: Sancta Maria mater Christi (Delibes, Léo)
+  year: 1888
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sancta_Maria_mater_Christi_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (STB), organ'

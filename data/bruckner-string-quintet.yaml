@@ -7,7 +7,10 @@ work:
   year: 1878
 formula: ''
 instrumentation:
-  additional_raw: 2 violins | 2 violas | cello
+  solo_strings:
+    violin: 2
+    viola: 2
+    cello: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/String_Quintet%2C_WAB_112_%28Bruckner%2C_Anton%29

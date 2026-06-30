@@ -1,0 +1,18 @@
+id: gounod-le-banc-de-pierre
+work:
+  composer: Gounod, Charles
+  title: Le banc de pierre
+  ids:
+    imslp: Le banc de pierre, CG 335 (Gounod, Charles)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_banc_de_pierre%2C_CG_335_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

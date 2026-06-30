@@ -1,0 +1,17 @@
+id: massenet-rien-n-est-que-de-france
+work:
+  composer: Massenet, Jules
+  title: Rien n'est que de France
+  ids:
+    imslp: Rien n'est que de France (Massenet, Jules)
+  year: 1891
+formula: hp
+instrumentation:
+  harp: 1
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rien_n%27est_que_de_France_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Harp or Harpsichord'

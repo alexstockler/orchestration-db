@@ -1,0 +1,19 @@
+id: borodin-string-quartet-no-1
+work:
+  composer: Borodin, Aleksandr
+  title: String Quartet No.1
+  ids:
+    imslp: String Quartet No.1 (Borodin, Aleksandr)
+  year: 1874
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.1_%28Borodin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 45

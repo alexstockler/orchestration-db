@@ -1,0 +1,17 @@
+id: bach-gedenke-doch-mein-geist
+work:
+  composer: Bach, Johann Sebastian
+  title: Gedenke doch, mein Geist
+  ids:
+    imslp: Gedenke doch, mein Geist, BWV 509 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gedenke_doch%2C_mein_Geist%2C_BWV_509_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

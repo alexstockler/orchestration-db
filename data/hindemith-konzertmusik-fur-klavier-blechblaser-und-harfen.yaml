@@ -1,0 +1,21 @@
+id: hindemith-konzertmusik-fur-klavier-blechblaser-und-harfen
+work:
+  composer: Hindemith, Paul
+  title: Konzertmusik für Klavier, Blechbläser und Harfen
+  ids:
+    imslp: Konzertmusik für Klavier, Blechbläser und Harfen, Op.49 (Hindemith, Paul)
+  year: 1930
+formula: 0000 4321 2hp
+instrumentation:
+  horn: 4
+  trumpet: 3
+  trombone: 2
+  tuba: 1
+  harp: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Konzertmusik_f%C3%BCr_Klavier%2C_Blechbl%C3%A4ser_und_Harfen%2C_Op.49_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano solo and Wind Ensemble :4 horns (F), 3 trumpets (C),
+    2 trombones, tuba, 2 harps'
+duration_minutes: 21

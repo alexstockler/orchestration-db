@@ -1,0 +1,15 @@
+id: bach-fugue-in-c-minor-bwv-anh-104
+work:
+  composer: Bach, Johann Sebastian
+  title: Fugue in C minor, BWV Anh.104
+  ids:
+    imslp: Fugue in C minor, BWV Anh.104 (Bach, Johann Sebastian)
+formula: ''
+instrumentation:
+  additional_raw: Keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_C_minor%2C_BWV_Anh.104_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Keyboard'
+duration_minutes: 3

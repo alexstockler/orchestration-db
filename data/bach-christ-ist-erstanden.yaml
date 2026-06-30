@@ -1,0 +1,15 @@
+id: bach-christ-ist-erstanden
+work:
+  composer: Bach, Johann Sebastian
+  title: Christ ist erstanden
+  ids:
+    imslp: Christ ist erstanden, BWV 276 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Christ_ist_erstanden%2C_BWV_276_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

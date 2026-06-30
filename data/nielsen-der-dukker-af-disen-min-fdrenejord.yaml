@@ -1,0 +1,18 @@
+id: nielsen-der-dukker-af-disen-min-fdrenejord
+work:
+  composer: Nielsen, Carl
+  title: Der dukker af Disen min fædrenejord
+  ids:
+    imslp: Der dukker af Disen min fædrenejord, CNW 222 (Nielsen, Carl)
+  year: 1914
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_dukker_af_Disen_min_f%C3%A6drenejord%2C_CNW_222_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,18 @@
+id: massenet-le-sentier-perdu
+work:
+  composer: Massenet, Jules
+  title: Le sentier perdu
+  ids:
+    imslp: Le sentier perdu (Massenet, Jules)
+  year: 1877
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_sentier_perdu_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

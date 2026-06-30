@@ -1,0 +1,20 @@
+id: hindemith-des-todes-tod
+work:
+  composer: Hindemith, Paul
+  title: Des Todes Tod
+  ids:
+    imslp: Des Todes Tod, Op.23a (Hindemith, Paul)
+  year: 1922
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  solo_strings:
+    viola: 2
+    cello: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Des_Todes_Tod%2C_Op.23a_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 2 violas, 2 cellos'
+duration_minutes: 16

@@ -5,9 +5,10 @@ work:
   ids:
     imslp: 12 Klavierstücke für kleine und große Kinder, Op.85 (Schumann, Robert)
   year: 1849
-formula: ''
+formula: pf
 instrumentation:
-  additional_raw: piano 4-hands
+  keyboards:
+  - instrument: piano
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/12_Klavierst%C3%BCcke_f%C3%BCr_kleine_und_gro%C3%9Fe_Kinder%2C_Op.85_%28Schumann%2C_Robert%29

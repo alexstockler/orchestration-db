@@ -1,0 +1,18 @@
+id: nielsen-string-quartet-no-1
+work:
+  composer: Nielsen, Carl
+  title: String Quartet No.1
+  ids:
+    imslp: String Quartet No.1, Op.13 (Nielsen, Carl)
+  year: 1889
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.1%2C_Op.13_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

@@ -1,0 +1,47 @@
+id: nielsen-tove
+work:
+  composer: Nielsen, Carl
+  title: Tove
+  ids:
+    imslp: Tove, CNW 10 (Nielsen, Carl)
+  year: 1907
+formula: 2[1.2/pic] 1 2 1 2220 tmp pf str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 1
+  clarinet: 2
+  bassoon: 1
+  horn: 2
+  trumpet: 2
+  trombone: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - tam-tam
+    - suspended cymbal
+  keyboards:
+  - instrument: piano
+  strings: str
+  soloists:
+  - Bengt (tenor)
+  - Palle (tenor)
+  - Tove (soprano)
+  - Volmer (tenor)
+  - Folkvard (tenor)
+  - The Mother
+  - The Monk
+  - Hunter (Baritone)
+  - Girls (SSAA)
+  - 'A Singer (Baritone): :'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tove%2C_CNW_10_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra :Cast ::Bengt (tenor), Palle (tenor),
+    Tove (soprano), Volmer (tenor), Folkvard (tenor), The Mother, The Monk, Hunter
+    (Baritone), Girls (SSAA), A Singer (Baritone): :Orchestra: ::2 flutes (2nd also
+    piccolo), oboe, 2 clarinets (B/A), bassoon, 2 horns (F), 2 trumpets (F), 2 trombones,
+    timpani, tam-tam, suspended cymbal, piano, strings'

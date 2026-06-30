@@ -1,0 +1,17 @@
+id: nielsen-det-er-et-under-pa-verdens
+work:
+  composer: Nielsen, Carl
+  title: Det er et Under på Verdens Ø
+  ids:
+    imslp: Det er et Under på Verdens Ø, CNW 159 (Nielsen, Carl)
+  year: 1913
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: piano / mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Det_er_et_Under_p%C3%A5_Verdens_%C3%98%2C_CNW_159_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano / mixed chorus'

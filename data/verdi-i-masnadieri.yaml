@@ -1,0 +1,25 @@
+id: verdi-i-masnadieri
+work:
+  composer: Verdi, Giuseppe
+  title: I masnadieri
+  ids:
+    imslp: I masnadieri (Verdi, Giuseppe)
+  year: 1847
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: Cast | Massimiliano | Conte di Moor (bass) | Carlo | figlo di lui
+    (tenor) | Francesco | figlo di lui (baritone) | Amalia | orfana | nipote del Conte
+    (soprano) | Arminio | camerlengo della famiglia reggente (tenor) | Moser | pastore
+    (bass) | Rolla | compagno di Carlo Moor (tenor) | Coro di giovani traviati | poi
+    Masnadieri | Donne | Fanciulli | Servi
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/I_masnadieri_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Cast ::Massimiliano, Conte di
+    Moor (bass), Carlo, figlo di lui (tenor), Francesco, figlo di lui (baritone),
+    Amalia, orfana, nipote del Conte (soprano), Arminio, camerlengo della famiglia
+    reggente (tenor), Moser, pastore (bass), Rolla, compagno di Carlo Moor (tenor)
+    :Mixed Chorus ::Coro di giovani traviati, poi Masnadieri, Donne, Fanciulli, Servi
+    :Orchestra'

@@ -1,0 +1,31 @@
+id: respighi-poema-autunnale
+work:
+  composer: Respighi, Ottorino
+  title: Poema autunnale
+  ids:
+    imslp: Poema autunnale (Respighi, Ottorino)
+  year: 1925
+formula: 2 3[1.2.Eh] 2 2 2100 cel hp str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 1
+  keyboards:
+  - instrument: celesta
+  harp: 1
+  strings: str
+  soloists:
+  - violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Poema_autunnale_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: violin, Orchestra: 2 flutes (one takes piccolo),
+    2 oboes, English horn,, 2 clarinets, 2 bassoons, 2 horns, trumpet, celesta, harp,
+    strings'

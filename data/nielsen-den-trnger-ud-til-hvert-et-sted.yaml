@@ -1,0 +1,18 @@
+id: nielsen-den-trnger-ud-til-hvert-et-sted
+work:
+  composer: Nielsen, Carl
+  title: Den trænger ud til hvert et sted
+  ids:
+    imslp: Den trænger ud til hvert et sted, CNW 326 (Nielsen, Carl)
+  year: 1928
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Den_tr%C3%A6nger_ud_til_hvert_et_sted%2C_CNW_326_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

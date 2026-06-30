@@ -1,0 +1,15 @@
+id: vaughan-williams-come-away-death
+work:
+  composer: Vaughan Williams, Ralph
+  title: Come away, Death
+  ids:
+    imslp: Come away, Death (Vaughan Williams, Ralph)
+  year: 1899
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Come_away%2C_Death_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: mixed chorus (SSATB)'

@@ -1,0 +1,27 @@
+id: faure-elegy
+work:
+  composer: Fauré, Gabriel
+  title: Elegy
+  ids:
+    imslp: Elegy, Op.24 (Fauré, Gabriel)
+  year: 1883
+formula: 2222 4000 pf str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  keyboards:
+  - instrument: piano
+  strings: str
+  solo_strings:
+    cello: 1
+  additional_raw: 'Composer''s Orchestration: cello solo'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Elegy%2C_Op.24_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: Original: cello, piano, Composer''s Orchestration: cello
+    solo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, strings'
+duration_minutes: 7

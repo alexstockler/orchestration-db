@@ -1,0 +1,18 @@
+id: gounod-a-la-reine-des-apotres
+work:
+  composer: Gounod, Charles
+  title: À la reine des apôtres
+  ids:
+    imslp: À la reine des apôtres, CG 370 (Gounod, Charles)
+  year: 1852
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%80_la_reine_des_ap%C3%B4tres%2C_CG_370_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano or organ'

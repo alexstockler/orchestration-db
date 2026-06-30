@@ -1,0 +1,22 @@
+id: bartok-mikrokosmos
+work:
+  composer: Bartók, Béla
+  title: Mikrokosmos
+  ids:
+    imslp: Mikrokosmos, Sz.107 (Bartók, Béla)
+  year: 1926
+formula: pf pf pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  - instrument: piano
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mikrokosmos%2C_Sz.107_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: piano; 2 pianos (Nos. 43a, 44, 55, 68); voice, piano (Nos.
+    65, 74b, 95b, 127)'

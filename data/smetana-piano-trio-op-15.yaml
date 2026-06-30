@@ -1,0 +1,20 @@
+id: smetana-piano-trio-op-15
+work:
+  composer: Smetana, Bedřich
+  title: Piano Trio, Op.15
+  ids:
+    imslp: Piano Trio, Op.15 (Smetana, Bedřich)
+  year: 1854
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio%2C_Op.15_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'
+duration_minutes: 2832

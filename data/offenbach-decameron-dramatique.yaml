@@ -1,0 +1,16 @@
+id: offenbach-decameron-dramatique
+work:
+  composer: Offenbach, Jacques
+  title: Décaméron dramatique
+  ids:
+    imslp: Décaméron dramatique (Offenbach, Jacques)
+  year: 1854
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/D%C3%A9cam%C3%A9ron_dramatique_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

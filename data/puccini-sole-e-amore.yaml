@@ -1,0 +1,18 @@
+id: puccini-sole-e-amore
+work:
+  composer: Puccini, Giacomo
+  title: Sole e amore
+  ids:
+    imslp: Sole e amore (Puccini, Giacomo)
+  year: 1888
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sole_e_amore_%28Puccini%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -5,8 +5,9 @@ work:
   ids:
     imslp: Christus am Ölberge, Op.85 (Beethoven, Ludwig van)
   year: 1803
-formula: 0222 2230 tmp str
+formula: 2222 2230 tmp str
 instrumentation:
+  flute: 2
   oboe: 2
   clarinet: 2
   bassoon: 2
@@ -16,8 +17,9 @@ instrumentation:
   percussion:
     timpani: 1
   strings: str
-  chorus_raw: mixed chorus
-  additional_raw: Solo voices (soprano, tenor, bass) | Orchestra ::2 flutes
+  soloists:
+  - Solo voices (soprano, tenor, bass)
+  - Mixed chorus (SATTBB)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Christus_am_%C3%96lberge%2C_Op.85_%28Beethoven%2C_Ludwig_van%29

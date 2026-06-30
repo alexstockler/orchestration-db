@@ -1,0 +1,75 @@
+id: puccini-il-trittico-il-tabarro
+work:
+  composer: Puccini, Giacomo
+  title: 'Il trittico: Il tabarro'
+  ids:
+    imslp: Il tabarro, SC 85 (Puccini, Giacomo)
+  year: 1918
+formula: 3[1.2.3/pic] 3[1.2.Eh] 3[1.2.bcl] 2 4 4[1.2.3.cnt] 4[1.2.3.btbn] 0 tmp cel
+  2hp
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - {}
+  - instrument: cornet
+  trombone:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_trombone
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - snare drum
+    - triangle
+    - glockenspiel
+    - low bell
+    - tugboat siren
+    - auto horn
+  keyboards:
+  - instrument: celesta
+  harp: 2
+  soloists:
+  - Michele
+  - a barge-owner (baritone) :Giorgietta
+  - his wife (soprano) :Luigi
+  - scaricatore (tenor) :"Talpa"
+  - scaricatore (bass) :"Tinca"
+  - scaricatore (tenor) :"La Frugola"
+  - Talpa's wife
+  - (mezzo-soprano) :Song seller (tenor) :Lover (soprano) Chorus :Stevedores
+  - midinettes
+  - an organ-grinder
+  - two lovers
+  offstage:
+  - strings
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_tabarro%2C_SC_85_%28Puccini%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Michele, a barge-owner (baritone) :Giorgietta, his
+    wife (soprano) :Luigi, scaricatore (tenor) :"Talpa", scaricatore (bass) :"Tinca",
+    scaricatore (tenor) :"La Frugola", Talpa''s wife, (mezzo-soprano) :Song seller
+    (tenor) :Lover (soprano) Chorus :Stevedores, midinettes, an organ-grinder, two
+    lovers Orchestra :3 flutes (3rd also piccolo), 2 oboes, English horn, 2 clarinets,
+    bass clarinet, 2 bassoons :4 horns, 3 trumpets, 3 trombones, bass trombone :timpani,
+    bass drum, cymbals, snare drum, triangle, glockenspiel :celesta, harp, strings
+    Off-stage Instruments :cornet, harp, low bell, tugboat siren, auto horn'

@@ -1,0 +1,16 @@
+id: massenet-un-momento-musicale
+work:
+  composer: Massenet, Jules
+  title: Un momento musicale
+  ids:
+    imslp: Un momento musicale (Massenet, Jules)
+  year: 1897
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Un_momento_musicale_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano solo'

@@ -1,0 +1,16 @@
+id: massenet-perce-neige
+work:
+  composer: Massenet, Jules
+  title: Perce-neige
+  ids:
+    imslp: Perce-neige (Massenet, Jules)
+  year: 1909
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Perce-neige_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voice'

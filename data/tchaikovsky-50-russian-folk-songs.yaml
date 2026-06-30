@@ -5,9 +5,10 @@ work:
   ids:
     imslp: 50 Russian Folk Songs, TH 176 (Tchaikovsky, Pyotr)
   year: 1868
-formula: ''
+formula: pf
 instrumentation:
-  additional_raw: piano 4-hands (arranged)
+  keyboards:
+  - instrument: piano
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/50_Russian_Folk_Songs%2C_TH_176_%28Tchaikovsky%2C_Pyotr%29

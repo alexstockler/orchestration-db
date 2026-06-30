@@ -5,7 +5,7 @@ work:
   ids:
     imslp: Festmarsch nach Motiven von E.H.z.S.-C.-G., S.116 (Liszt, Franz)
   year: 1858
-formula: 3[pic.2.3] 2 2 0 0 2 3[1.2.btbn] 0
+formula: 3[pic.2.3] 2 2 2 4 2 3[1.2.btbn] 1 tmp str
 instrumentation:
   flute:
   - instrument: piccolo
@@ -13,16 +13,21 @@ instrumentation:
   - {}
   oboe: 2
   clarinet: 2
+  bassoon: 2
+  horn: 4
   trumpet: 2
   trombone:
   - {}
   - {}
   - instrument: bass_trombone
+  tuba: 1
   percussion:
+    timpani: 1
     instruments:
     - bass drum
     - snare drum
-  additional_raw: 2 bassoons + 4 horns (F) | tuba + timpani | cymbals + strings
+    - cymbals
+  strings: str
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Festmarsch_nach_Motiven_von_E.H.z.S.-C.-G.%2C_S.116_%28Liszt%2C_Franz%29

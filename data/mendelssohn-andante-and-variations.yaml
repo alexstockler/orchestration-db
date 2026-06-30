@@ -5,9 +5,10 @@ work:
   ids:
     imslp: Andante and Variations, Op.83a (Mendelssohn, Felix)
   year: 1850
-formula: ''
+formula: pf
 instrumentation:
-  additional_raw: piano 4 hands
+  keyboards:
+  - instrument: piano
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Andante_and_Variations%2C_Op.83a_%28Mendelssohn%2C_Felix%29

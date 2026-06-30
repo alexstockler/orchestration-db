@@ -23,7 +23,11 @@ instrumentation:
   keyboards:
   - instrument: piano
   strings: str
-  additional_raw: offstage cornet | viola | cello
+  solo_strings:
+    viola: 1
+    cello: 1
+  offstage:
+  - cornet
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Scaramouche%2C_Op.71_%28Sibelius%2C_Jean%29

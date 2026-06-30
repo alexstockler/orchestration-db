@@ -1,0 +1,47 @@
+id: janacek-the-cunning-little-vixen
+work:
+  composer: Janáček, Leoš
+  title: The Cunning Little Vixen
+  ids:
+    imslp: Příhody lišky Bystroušky (Janáček, Leoš)
+  year: 1922
+formula: 4[1.2.3/pic.4/pic] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.3/cbn] 4331 tmp+1 cel hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+  keyboards:
+  - instrument: celesta
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/P%C5%99%C3%ADhody_li%C5%A1ky_Bystrou%C5%A1ky_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 flutes (3rd and 4th also piccolo), 2 oboes, English horn,,
+    2 clarinets, bass clarinet, 3 bassoons (3rd also contrabassoon), 4 horns, 3 trumpets,
+    3 trombones, tuba, timpani, percussion, harp, celesta, strings'

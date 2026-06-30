@@ -1,0 +1,15 @@
+id: holst-6-choral-folksongs
+work:
+  composer: Holst, Gustav
+  title: 6 Choral Folksongs
+  ids:
+    imslp: 6 Choral Folksongs, Op.36 (Holst, Gustav)
+  year: 1916
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Choral_Folksongs%2C_Op.36_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

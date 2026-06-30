@@ -1,0 +1,16 @@
+id: scriabin-7-preludes
+work:
+  composer: Scriabin, Aleksandr
+  title: 7 Preludes
+  ids:
+    imslp: 7 Preludes, Op.17 (Scriabin, Aleksandr)
+  year: 1896
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Preludes%2C_Op.17_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

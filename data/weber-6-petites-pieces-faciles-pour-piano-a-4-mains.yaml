@@ -1,0 +1,16 @@
+id: weber-6-petites-pieces-faciles-pour-piano-a-4-mains
+work:
+  composer: Weber, Carl Maria von
+  title: 6 Petites pièces faciles pour piano à 4 mains
+  ids:
+    imslp: 6 Petites pièces faciles, Op.3 (Weber, Carl Maria von)
+  year: 1802
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Petites_pi%C3%A8ces_faciles%2C_Op.3_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'

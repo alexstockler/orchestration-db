@@ -1,0 +1,14 @@
+id: delibes-ave-verum
+work:
+  composer: Delibes, Léo
+  title: Ave verum
+  ids:
+    imslp: Ave verum (Delibes, Léo)
+formula: ''
+instrumentation:
+  additional_raw: 3 male voices (TBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_verum_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 male voices (TBB)'

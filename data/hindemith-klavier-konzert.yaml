@@ -1,0 +1,44 @@
+id: hindemith-klavier-konzert
+work:
+  composer: Hindemith, Paul
+  title: Klavier Konzert
+  ids:
+    imslp: Piano Concerto (Hindemith, Paul)
+  year: 1945
+formula: 2[pic.2] 2 3[1.2.bcl] 2 2221 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 2
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 2
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - triangle
+    - cymbals
+    - glockenspiel
+  strings: str
+  soloists:
+  - 'Solo - Piano :'
+  additional_raw: percussion (3 or 4 players [score says 2 players, which is incorrect])
+    | parade drum | 2 tomtoms
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Concerto_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano and Orchestra :Solo - Piano :Orchestra ::piccolo,
+    flute, 2 oboes, 2 clarinets (B), bass clarinet (B), 2 bassoons, 2 horns (F), 2
+    trumpets (B), 2 trombones, tuba, timpani (3 drums), percussion (3 or 4 players
+    [score says 2 players, which is incorrect]), strings :::bass drum, parade drum,
+    triangle, cymbals, 2 tomtoms, glockenspiel'
+duration_minutes: 34

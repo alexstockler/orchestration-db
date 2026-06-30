@@ -1,0 +1,15 @@
+id: bach-die-sonn-hat-sich-mit-ihrem-glanz-gewendet
+work:
+  composer: Bach, Johann Sebastian
+  title: Die Sonn hat sich mit ihrem Glanz gewendet
+  ids:
+    imslp: Die Sonn hat sich mit ihrem Glanz gewendet, BWV 297 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Sonn_hat_sich_mit_ihrem_Glanz_gewendet%2C_BWV_297_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

@@ -1,0 +1,17 @@
+id: nielsen-god-help-me
+work:
+  composer: Nielsen, Carl
+  title: God help me!
+  ids:
+    imslp: Atalanta, CNW 6 (Nielsen, Carl)
+  year: 1901
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: glass harmonica
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Atalanta%2C_CNW_6_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, glass harmonica'

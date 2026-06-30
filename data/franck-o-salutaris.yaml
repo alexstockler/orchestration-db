@@ -1,0 +1,18 @@
+id: franck-o-salutaris
+work:
+  composer: Franck, César
+  title: O salutaris
+  ids:
+    imslp: O salutaris, CFF 208 (Franck, César)
+  year: 1862
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  additional_raw: 2 equal voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_salutaris%2C_CFF_208_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 equal voices, organ'
+duration_minutes: 3

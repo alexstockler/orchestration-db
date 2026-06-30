@@ -1,0 +1,39 @@
+id: bizet-l-arlesienne-suite-no-1
+work:
+  composer: Bizet, Georges
+  title: L'Arlésienne Suite No.1
+  ids:
+    imslp: L'Arlésienne Suite No.1 (Bizet, Georges)
+  year: 1872
+formula: 2 2[1.2/Eh] 2 2 4 4[1.2.cnt.cnt] 3 0 tmp hp str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - side drum
+  harp: 1
+  strings: str
+  saxophones:
+  - instrument: alto_sax
+    count: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27Arl%C3%A9sienne_Suite_No.1_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes (2nd also English horn), 2 clarinets,
+    alto saxophone, 2 bassoons, 4 horns, 2 trumpets, 2 cornets, 3 trombones, timpani,
+    side drum, harp (or piano), strings'

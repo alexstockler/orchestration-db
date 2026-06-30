@@ -32,6 +32,7 @@ instrumentation:
   percussion:
     timpani: 1
     instruments:
+    - bell
     - cymbals
     - bass drum
     - tambourine
@@ -41,7 +42,6 @@ instrumentation:
   - instrument: harmonium
   harp: 2
   strings: str
-  additional_raw: bell
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Manfred_Symphony%2C_Op.58_%28Tchaikovsky%2C_Pyotr%29

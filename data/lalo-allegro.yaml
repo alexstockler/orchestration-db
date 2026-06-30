@@ -1,0 +1,18 @@
+id: lalo-allegro
+work:
+  composer: Lalo, Édouard
+  title: Allegro
+  ids:
+    imslp: Allegro, Op.16 (Lalo, Édouard)
+  year: 1856
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegro%2C_Op.16_%28Lalo%2C_%C3%89douard%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'

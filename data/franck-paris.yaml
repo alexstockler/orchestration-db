@@ -1,0 +1,16 @@
+id: franck-paris
+work:
+  composer: Franck, César
+  title: Paris
+  ids:
+    imslp: Paris (Franck, César)
+  year: 1870
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Paris_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), orchestra'

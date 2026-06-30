@@ -1,0 +1,15 @@
+id: bach-gott-der-du-selber-bist-das-licht
+work:
+  composer: Bach, Johann Sebastian
+  title: Gott, der du selber bist das Licht
+  ids:
+    imslp: Gott, der du selber bist das Licht, BWV 316 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott%2C_der_du_selber_bist_das_Licht%2C_BWV_316_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

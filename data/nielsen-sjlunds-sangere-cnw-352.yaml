@@ -1,0 +1,15 @@
+id: nielsen-sjlunds-sangere-cnw-352
+work:
+  composer: Nielsen, Carl
+  title: Sjølunds Sangere, CNW 352
+  ids:
+    imslp: Sjølunds Sangere, CNW 352 (Nielsen, Carl)
+  year: 1924
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sj%C3%B8lunds_Sangere%2C_CNW_352_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATTB)'

@@ -1,0 +1,18 @@
+id: nielsen-lorenz-frlich-celebration-cantata
+work:
+  composer: Nielsen, Carl
+  title: Lorenz Frølich Celebration Cantata
+  ids:
+    imslp: Lorenz Frølich Celebration Cantata, CNW 103 (Nielsen, Carl)
+  year: 1900
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lorenz_Fr%C3%B8lich_Celebration_Cantata%2C_CNW_103_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

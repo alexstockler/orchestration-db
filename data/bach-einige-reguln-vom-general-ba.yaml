@@ -1,0 +1,15 @@
+id: bach-einige-reguln-vom-general-ba
+work:
+  composer: Bach, Johann Sebastian
+  title: Einige Reguln vom General Baß
+  ids:
+    imslp: Einige Reguln vom General Baß, BWV deest (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  additional_raw: '| *****COMMENTS***** ='
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Einige_Reguln_vom_General_Ba%C3%9F%2C_BWV_deest_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: | *****COMMENTS***** ='

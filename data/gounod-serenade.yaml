@@ -1,0 +1,15 @@
+id: gounod-serenade
+work:
+  composer: Gounod, Charles
+  title: Sérénade
+  ids:
+    imslp: Passacaille (Gounod, Charles)
+  year: 1893
+formula: ''
+instrumentation:
+  additional_raw: Originally violin | guitar?
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Passacaille_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: Originally violin, guitar?'

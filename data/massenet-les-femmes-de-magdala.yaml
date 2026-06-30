@@ -1,0 +1,18 @@
+id: massenet-les-femmes-de-magdala
+work:
+  composer: Massenet, Jules
+  title: Les Femmes de Magdala
+  ids:
+    imslp: Les femmes de Magdala (Massenet, Jules)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_femmes_de_Magdala_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

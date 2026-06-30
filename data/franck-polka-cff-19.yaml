@@ -1,0 +1,16 @@
+id: franck-polka-cff-19
+work:
+  composer: Franck, César
+  title: Polka, CFF 19
+  ids:
+    imslp: Polka, CFF 19 (Franck, César)
+  year: 1846
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Polka%2C_CFF_19_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

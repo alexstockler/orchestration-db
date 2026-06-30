@@ -1,0 +1,15 @@
+id: massenet-moines-et-forbans
+work:
+  composer: Massenet, Jules
+  title: Moines et forbans
+  ids:
+    imslp: Moines et forbans (Massenet, Jules)
+  year: 1877
+formula: ''
+instrumentation:
+  additional_raw: unaccompanied male chorus (TTBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Moines_et_forbans_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: unaccompanied male chorus (TTBB)'

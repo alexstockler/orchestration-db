@@ -1,0 +1,15 @@
+id: bach-du-o-schones-weltgebaude
+work:
+  composer: Bach, Johann Sebastian
+  title: Du, o schönes Weltgebäude
+  ids:
+    imslp: Du, o schönes Weltgebäude, BWV 301 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Du%2C_o_sch%C3%B6nes_Weltgeb%C3%A4ude%2C_BWV_301_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

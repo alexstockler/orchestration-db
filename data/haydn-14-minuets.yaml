@@ -13,7 +13,9 @@ instrumentation:
   horn: 2
   percussion:
     timpani: 1
-  additional_raw: 2 violins | double bass
+  solo_strings:
+    violin: 2
+    double_bass: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/14_Minuets%2C_Hob.IX%3A7_%28Haydn%2C_Joseph%29

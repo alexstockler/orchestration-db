@@ -1,0 +1,38 @@
+id: nielsen-cantata-for-the-centenary-of-the-polytechnic-college-cnw-112
+work:
+  composer: Nielsen, Carl
+  title: Cantata for the Centenary of the Polytechnic College, CNW 112
+  ids:
+    imslp: Polyteknisk Læreanstalts Centenary Cantata, CNW 112 (Nielsen, Carl)
+  year: 1929
+formula: 2251 4 5[cnt.cnt.3.4.5] 3 2 tmp+1
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 5
+  bassoon: 1
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  - {}
+  trombone: 3
+  tuba: 2
+  percussion:
+    timpani: 1
+    players: 1
+  soloists:
+  - reciter
+  - mens chorus (TTBB)
+  additional_raw: 'unknown doubling in flute: e-flat clarinet piccolo | 2 tenor saxhorns
+    (B) | baritone saxhorn (B)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Polyteknisk_L%C3%A6reanstalts_Centenary_Cantata%2C_CNW_112_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: reciter, mens chorus (TTBB), Orchestra: 2 flutes
+    (2nd also E piccolo), 2 oboes, 2 clarinets (E), 3 clarinets (B), bassoon,, 4 horns
+    (F/E), 2 cornets (B), 3 trumpets (F/E), 2 tenor saxhorns (B),, baritone saxhorn
+    (B), 3 trombones, 2 tubas, timpani, percussion (cymbals, triangle)'

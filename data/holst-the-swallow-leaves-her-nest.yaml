@@ -1,0 +1,15 @@
+id: holst-the-swallow-leaves-her-nest
+work:
+  composer: Holst, Gustav
+  title: The Swallow leaves her nest
+  ids:
+    imslp: The Swallow leaves her nest, H.119 (Holst, Gustav)
+  year: 1914
+formula: ''
+instrumentation:
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Swallow_leaves_her_nest%2C_H.119_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SSA)'

@@ -1,0 +1,16 @@
+id: respighi-contrasto
+work:
+  composer: Respighi, Ottorino
+  title: Contrasto
+  ids:
+    imslp: Contrasto (Respighi, Ottorino)
+  year: 1906
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Contrasto_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and piano'

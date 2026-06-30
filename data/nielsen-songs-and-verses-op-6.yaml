@@ -1,0 +1,18 @@
+id: nielsen-songs-and-verses-op-6
+work:
+  composer: Nielsen, Carl
+  title: Songs and Verses, Op.6
+  ids:
+    imslp: Viser og vers, Op.6 (Nielsen, Carl)
+  year: 1891
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Viser_og_vers%2C_Op.6_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

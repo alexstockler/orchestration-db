@@ -1,0 +1,19 @@
+id: nielsen-violin-sonata-no-1
+work:
+  composer: Nielsen, Carl
+  title: Violin Sonata No.1
+  ids:
+    imslp: Violin Sonata No.1, Op.9 (Nielsen, Carl)
+  year: 1895
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_No.1%2C_Op.9_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 2022

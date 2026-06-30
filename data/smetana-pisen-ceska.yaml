@@ -1,0 +1,15 @@
+id: smetana-pisen-ceska
+work:
+  composer: Smetana, Bedřich
+  title: Píseň česká
+  ids:
+    imslp: Píseň česká, JB 1:78 (Smetana, Bedřich)
+  year: 1860
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/P%C3%ADse%C5%88_%C4%8Desk%C3%A1%2C_JB_1%3A78_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed Chorus (SATB) + Orchestra'

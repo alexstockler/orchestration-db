@@ -1,0 +1,18 @@
+id: gounod-a-une-jeune-grecque
+work:
+  composer: Gounod, Charles
+  title: À une jeune grecque
+  ids:
+    imslp: À une jeune grecque, CG 324 (Gounod, Charles)
+  year: 1860
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%80_une_jeune_grecque%2C_CG_324_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

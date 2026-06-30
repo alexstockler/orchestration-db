@@ -1,0 +1,18 @@
+id: gounod-si-vous-n-ouvrez-votre-fenetre
+work:
+  composer: Gounod, Charles
+  title: Si vous n'ouvrez votre fenêtre
+  ids:
+    imslp: Si vous n'ouvrez votre fenêtre, CG 440 (Gounod, Charles)
+  year: 1871
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Si_vous_n%27ouvrez_votre_fen%C3%AAtre%2C_CG_440_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

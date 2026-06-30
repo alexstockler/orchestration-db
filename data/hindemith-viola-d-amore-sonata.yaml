@@ -1,0 +1,18 @@
+id: hindemith-viola-d-amore-sonata
+work:
+  composer: Hindemith, Paul
+  title: Viola d'amore Sonata
+  ids:
+    imslp: Kleine Sonate, Op.25 No.2 (Hindemith, Paul)
+  year: 1922
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: viola d'amore
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kleine_Sonate%2C_Op.25_No.2_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: viola d''amore, piano'
+duration_minutes: 13

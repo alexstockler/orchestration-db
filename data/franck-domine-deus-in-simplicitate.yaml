@@ -1,0 +1,23 @@
+id: franck-domine-deus-in-simplicitate
+work:
+  composer: Franck, César
+  title: Domine Deus in simplicitate
+  ids:
+    imslp: Domine Deus in simplicitate (Franck, César)
+  year: 1861
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - soprano
+  - tenor
+  - bass
+  solo_strings:
+    double_bass: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Domine_Deus_in_simplicitate_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, bass, double bass, organ'
+duration_minutes: 4

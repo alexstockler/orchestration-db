@@ -1,0 +1,16 @@
+id: weber-6-variations-sur-l-air-de-naga-de-samori-op-6
+work:
+  composer: Weber, Carl Maria von
+  title: 6 Variations sur l'air de Naga de "Samori", Op.6
+  ids:
+    imslp: 6 Variations sur l'air de Naga de 'Samori', Op.6 (Weber, Carl Maria von)
+  year: 1804
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Variations_sur_l%27air_de_Naga_de_%27Samori%27%2C_Op.6_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

@@ -6,7 +6,9 @@ work:
     imslp: Andante in A minor, HWV 412 (Handel, George Frideric)
 formula: ''
 instrumentation:
-  additional_raw: violin | continuo
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Andante_in_A_minor%2C_HWV_412_%28Handel%2C_George_Frideric%29

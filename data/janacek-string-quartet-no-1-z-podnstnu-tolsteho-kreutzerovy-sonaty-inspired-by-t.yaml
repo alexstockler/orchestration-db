@@ -1,0 +1,19 @@
+id: janacek-string-quartet-no-1-z-podnstnu-tolsteho-kreutzerovy-sonaty-inspired-by-t
+work:
+  composer: Janáček, Leoš
+  title: String Quartet No. 1 “Z podnštnu Tolstého Kreutzerovy sonáty” (Inspired by
+    Tolstoy’s Kreutzer Sonata)
+  ids:
+    imslp: String Quartet No.1 (Janáček, Leoš)
+  year: 1923
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: Viola and Cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.1_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Violins, Viola and Cello'
+duration_minutes: 18

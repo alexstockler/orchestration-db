@@ -1,0 +1,18 @@
+id: offenbach-bleib-bei-mir
+work:
+  composer: Offenbach, Jacques
+  title: Bleib bei mir
+  ids:
+    imslp: Bleib bei mir (Offenbach, Jacques)
+  year: 1858
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bleib_bei_mir_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

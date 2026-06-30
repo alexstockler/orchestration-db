@@ -1,0 +1,16 @@
+id: offenbach-lischen-et-fritzchen
+work:
+  composer: Offenbach, Jacques
+  title: Lischen et Fritzchen
+  ids:
+    imslp: Lischen et Fritzchen (Offenbach, Jacques)
+  year: 1864
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lischen_et_Fritzchen_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

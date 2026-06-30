@@ -1,0 +1,16 @@
+id: vaughan-williams-forest-green-the-ploughboy-s-dream
+work:
+  composer: Vaughan Williams, Ralph
+  title: Forest Green ; The Ploughboy's Dream
+  ids:
+    imslp: Forest Green (Vaughan Williams, Ralph)
+  year: 1906
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Forest_Green_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (SATB)'

@@ -8,7 +8,9 @@ work:
 formula: str
 instrumentation:
   strings: str
-  additional_raw: cello | continuo
+  solo_strings:
+    cello: 1
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Cello_Concerto_No.4_in_D_major%2C_Hob.VIIb%3A4_%28Haydn%2C_Joseph%29

@@ -1,0 +1,18 @@
+id: offenbach-la-course-en-traineaux
+work:
+  composer: Offenbach, Jacques
+  title: La course en traîneaux
+  ids:
+    imslp: La course en traîneaux (Offenbach, Jacques)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_course_en_tra%C3%AEneaux_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'

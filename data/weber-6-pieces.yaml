@@ -1,0 +1,16 @@
+id: weber-6-pieces
+work:
+  composer: Weber, Carl Maria von
+  title: 6 Pieces
+  ids:
+    imslp: 6 Pièces, Op.10a (Weber, Carl Maria von)
+  year: 1809
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Pi%C3%A8ces%2C_Op.10a_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'

@@ -1,0 +1,17 @@
+id: smetana-reves
+work:
+  composer: Smetana, Bedřich
+  title: Rêves
+  ids:
+    imslp: Rêves, JB 1:103 (Smetana, Bedřich)
+  year: 1875
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/R%C3%AAves%2C_JB_1%3A103_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'
+duration_minutes: 29

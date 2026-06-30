@@ -9,7 +9,8 @@ formula: ''
 instrumentation:
   soloists:
   - tenors
-  additional_raw: bass or 2 tenors | 2 basses (instrumentation is uncertain)
+  - bass
+  additional_raw: 2 basses (instrumentation is uncertain)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Badelied%2C_D.Anh.I/21_%28Schubert%2C_Franz%29

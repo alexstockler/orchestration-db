@@ -1,0 +1,17 @@
+id: nielsen-de-snkker-mdtes-i-kvld-pa-hav
+work:
+  composer: Nielsen, Carl
+  title: De snækker mødtes i kvæld på hav
+  ids:
+    imslp: De snækker mødtes i kvæld på hav, CNW 248 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/De_sn%C3%A6kker_m%C3%B8dtes_i_kv%C3%A6ld_p%C3%A5_hav%2C_CNW_248_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,15 @@
+id: gounod-marche-solennelle-de-procession
+work:
+  composer: Gounod, Charles
+  title: Marche solennelle de procession
+  ids:
+    imslp: Marche solennelle de procession, CG 627 (Gounod, Charles)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marche_solennelle_de_procession%2C_CG_627_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: organ (or pedal-piano)'

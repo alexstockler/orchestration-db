@@ -1,0 +1,18 @@
+id: nielsen-kr-est-du-fdeland-sdt-er-dit-navn-cnw-380
+work:
+  composer: Nielsen, Carl
+  title: Kær est du, Fødeland, sødt er dit Navn, CNW 380
+  ids:
+    imslp: Kær est du, Fødeland, sødt er dit Navn, CNW 380 (Nielsen, Carl)
+  year: 1923
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/K%C3%A6r_est_du%2C_F%C3%B8deland%2C_s%C3%B8dt_er_dit_Navn%2C_CNW_380_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

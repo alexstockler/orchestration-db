@@ -1,0 +1,18 @@
+id: bach-es-reiet-euch-ein-schrecklich-ende
+work:
+  composer: Bach, Johann Sebastian
+  title: Es reißet euch ein schrecklich Ende
+  ids:
+    imslp: Es reißet euch ein schrecklich Ende, BWV 90 (Bach, Johann Sebastian)
+  year: 1723
+formula: 0000 0100 str
+instrumentation:
+  trumpet: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_rei%C3%9Fet_euch_ein_schrecklich_Ende%2C_BWV_90_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: trumpet, strings, continuo'
+duration_minutes: 14

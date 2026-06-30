@@ -1,0 +1,17 @@
+id: hindemith-ludus-tonalis
+work:
+  composer: Hindemith, Paul
+  title: Ludus Tonalis
+  ids:
+    imslp: Ludus Tonalis (Hindemith, Paul)
+  year: 1942
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ludus_Tonalis_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 60

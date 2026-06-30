@@ -1,0 +1,15 @@
+id: verdi-pater-noster
+work:
+  composer: Verdi, Giuseppe
+  title: Pater noster
+  ids:
+    imslp: Pater noster (Verdi, Giuseppe)
+  year: 1873
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pater_noster_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

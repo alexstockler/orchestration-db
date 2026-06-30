@@ -1,0 +1,17 @@
+id: gounod-la-nuit
+work:
+  composer: Gounod, Charles
+  title: La nuit
+  ids:
+    imslp: La nuit, CG 182 (Gounod, Charles)
+  year: 1867
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_nuit%2C_CG_182_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, mixed chorus (SATTBB)'

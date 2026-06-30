@@ -1,0 +1,16 @@
+id: bach-fantasia-and-fughetta
+work:
+  composer: Bach, Johann Sebastian
+  title: Fantasia and Fughetta
+  ids:
+    imslp: Fantasia and Fughetta in D major, BWV 908 (Bach, Johann Sebastian)
+  year: 1839
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_and_Fughetta_in_D_major%2C_BWV_908_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

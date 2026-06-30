@@ -1,0 +1,51 @@
+id: scriabin-mysterium
+work:
+  composer: Scriabin, Aleksandr
+  title: Mysterium
+  ids:
+    imslp: Mysterium (Scriabin, Aleksandr)
+  year: 1903
+formula: 3[pic.2.afl] 2[1.Eh] 2[1.bcl] 2[1.cbn] 1111 tmp org pf cel 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - instrument: alto_flute
+  oboe:
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - instrument: contrabassoon
+  horn: 1
+  trumpet: 1
+  trombone: 1
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - bass drum
+    - tam-tam
+    - glockenspiel
+    - tubular bells
+  keyboards:
+  - instrument: organ
+  - instrument: piano
+  - instrument: celesta
+  harp: 2
+  strings: str
+  soloists:
+  - mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mysterium_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: mixed chorus (SATB), Orchestra: piccolo, flutes,
+    alto flute (G), oboes, English horn, clarinets (B), bass clarinet, bassoons, contrabassoon,
+    horns (F), trumpets (B), trombone, tuba, timpani, triangle, cymbals, bass drum,
+    tam-tam, glockenspiel, tubular bells, organ, piano, celesta, 2 harps, strings'

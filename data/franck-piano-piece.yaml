@@ -1,0 +1,16 @@
+id: franck-piano-piece
+work:
+  composer: Franck, César
+  title: Piano Piece
+  ids:
+    imslp: Piano Piece, CFF 23 (Franck, César)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Piece%2C_CFF_23_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

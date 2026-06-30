@@ -1,0 +1,17 @@
+id: nielsen-underlige-aftenlufte
+work:
+  composer: Nielsen, Carl
+  title: Underlige aftenlufte
+  ids:
+    imslp: Underlige aftenlufte, CNW 205 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Underlige_aftenlufte%2C_CNW_205_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

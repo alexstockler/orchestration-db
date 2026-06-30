@@ -1,0 +1,16 @@
+id: gounod-royal-menuet
+work:
+  composer: Gounod, Charles
+  title: Royal Menuet
+  ids:
+    imslp: Royal Menuet, CG 588 (Gounod, Charles)
+  year: 1861
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Royal_Menuet%2C_CG_588_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

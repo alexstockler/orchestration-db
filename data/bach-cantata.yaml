@@ -1,0 +1,22 @@
+id: bach-cantata
+work:
+  composer: Bach, Johann Sebastian
+  title: Cantata
+  ids:
+    imslp: Cantata, BWV Anh.2 (Bach, Johann Sebastian)
+  year: 1729
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - mixed chorus (SATB)
+  additional_raw: violin concertante | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cantata%2C_BWV_Anh.2_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, alto, tenor; mixed chorus (SATB), Orchestra:
+    violin concertante, strings, continuo'

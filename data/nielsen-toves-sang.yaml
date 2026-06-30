@@ -1,0 +1,17 @@
+id: nielsen-toves-sang
+work:
+  composer: Nielsen, Carl
+  title: Toves sang
+  ids:
+    imslp: Toves sang, CNW 149 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Toves_sang%2C_CNW_149_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

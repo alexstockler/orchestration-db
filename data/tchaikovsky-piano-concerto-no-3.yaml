@@ -5,8 +5,13 @@ work:
   ids:
     imslp: Piano Concerto No.3, Op.75 (Tchaikovsky, Pyotr)
   year: 1893
-formula: 0222 4231 tmp pf str
+formula: 3[1.2.3/pic] 2 2 2 4231 tmp str
 instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
   oboe: 2
   clarinet: 2
   bassoon: 2
@@ -16,10 +21,9 @@ instrumentation:
   tuba: 1
   percussion:
     timpani: 1
-  keyboards:
-  - instrument: piano
   strings: str
-  additional_raw: 'Orchestra: 3 flutes (3rd also piccolo)'
+  soloists:
+  - piano
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Piano_Concerto_No.3%2C_Op.75_%28Tchaikovsky%2C_Pyotr%29

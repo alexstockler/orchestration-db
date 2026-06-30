@@ -16,7 +16,9 @@ instrumentation:
   - instrument: piano
   soloists:
   - bass
-  additional_raw: Violin I | Violin II | Viola
+  solo_strings:
+    viola: 1
+  additional_raw: Violin I | Violin II
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Movement_to_a_Piano_Concerto_in_C%2C_K._Anh._59/K._459a/K._466a_%28Mozart%2C_Wolfgang_Amadeus%29

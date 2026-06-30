@@ -7,7 +7,8 @@ work:
   year: 1944
 formula: ''
 instrumentation:
-  additional_raw: viola
+  solo_strings:
+    viola: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/%C3%89legie%2C_K072_%28Stravinsky%2C_Igor%29

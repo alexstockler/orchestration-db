@@ -1,0 +1,16 @@
+id: bach-ach-gott-und-herr-per-canonem
+work:
+  composer: Bach, Johann Sebastian
+  title: Ach Gott und Herr (per canonem)
+  ids:
+    imslp: Ach Gott und Herr, BWV 714 (Bach, Johann Sebastian)
+  year: 1715
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach_Gott_und_Herr%2C_BWV_714_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

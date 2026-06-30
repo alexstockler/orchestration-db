@@ -1,0 +1,18 @@
+id: gounod-entreat-me-not-to-leave-thee
+work:
+  composer: Gounod, Charles
+  title: Entreat Me Not to Leave Thee
+  ids:
+    imslp: Entreat Me Not to Leave Thee, CG 392 (Gounod, Charles)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Entreat_Me_Not_to_Leave_Thee%2C_CG_392_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

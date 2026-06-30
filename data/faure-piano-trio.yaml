@@ -1,0 +1,18 @@
+id: faure-piano-trio
+work:
+  composer: Fauré, Gabriel
+  title: Piano Trio
+  ids:
+    imslp: Piano Trio, Op.120 (Fauré, Gabriel)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio%2C_Op.120_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'

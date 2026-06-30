@@ -1,0 +1,17 @@
+id: vaughan-williams-10-blake-songs
+work:
+  composer: Vaughan Williams, Ralph
+  title: 10 Blake Songs
+  ids:
+    imslp: 10 Blake Songs (Vaughan Williams, Ralph)
+  year: 1957
+formula: 0100 0000
+instrumentation:
+  oboe: 1
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/10_Blake_Songs_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, oboe'

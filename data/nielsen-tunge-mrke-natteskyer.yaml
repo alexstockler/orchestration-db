@@ -1,0 +1,18 @@
+id: nielsen-tunge-mrke-natteskyer
+work:
+  composer: Nielsen, Carl
+  title: Tunge, mørke natteskyer
+  ids:
+    imslp: Tunge, mørke natteskyer, CNW 250 (Nielsen, Carl)
+  year: 1930
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tunge%2C_m%C3%B8rke_natteskyer%2C_CNW_250_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,18 @@
+id: gounod-bolero
+work:
+  composer: Gounod, Charles
+  title: Boléro
+  ids:
+    imslp: Boléro, CG 354 (Gounod, Charles)
+  year: 1871
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bol%C3%A9ro%2C_CG_354_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

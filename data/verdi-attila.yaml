@@ -1,0 +1,24 @@
+id: verdi-attila
+work:
+  composer: Verdi, Giuseppe
+  title: Attila
+  ids:
+    imslp: Attila (Verdi, Giuseppe)
+  year: 1846
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: Cast | Attila (bass) | Ezio (baritone) | Odabella (soprano) | Foresto
+    (tenor) | Uldino (tenor) | Leone (bass) | duci | re e soldati | Unni | Gepidi
+    | Ostrogoti | Eruli | Turingi | Quadi | Druidi | sacerdotesse | popolo di Aquileja
+    | vergini di Aquileja | ufficiali e soldati romani | vergini e fanciulli di Roma
+    | eremiti e schiavi
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Attila_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Cast ::Attila (bass), Ezio (baritone),
+    Odabella (soprano), Foresto (tenor), Uldino (tenor), Leone (bass) :Mixed chorus
+    ::duci, re e soldati, Unni, Gepidi, Ostrogoti, Eruli, Turingi, Quadi,, Druidi,
+    sacerdotesse, popolo di Aquileja, vergini di Aquileja,, ufficiali e soldati romani,
+    vergini e fanciulli di Roma, eremiti e schiavi :Orchestra'

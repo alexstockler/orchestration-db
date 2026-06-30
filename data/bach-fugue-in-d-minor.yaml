@@ -1,0 +1,15 @@
+id: bach-fugue-in-d-minor
+work:
+  composer: Bach, Johann Sebastian
+  title: Fugue in D minor
+  ids:
+    imslp: Fugue in D minor, BWV Anh 180 (Bach, Johann Sebastian)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_D_minor%2C_BWV_Anh_180_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

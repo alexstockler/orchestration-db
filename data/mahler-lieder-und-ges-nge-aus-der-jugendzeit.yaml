@@ -9,7 +9,8 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: voice
+  soloists:
+  - voice
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Lieder_und_Ges%C3%A4nge_aus_der_Jugendzeit_%28Mahler%2C_Gustav%29

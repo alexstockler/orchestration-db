@@ -1,0 +1,23 @@
+id: janacek-concertino
+work:
+  composer: Janáček, Leoš
+  title: Concertino
+  ids:
+    imslp: Concertino (Janáček, Leoš)
+  year: 1925
+formula: 0011 1000 pf
+instrumentation:
+  clarinet: 1
+  bassoon: 1
+  horn: 1
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 2
+    viola: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concertino_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, bassoon, horn, 2 violins, viola, piano'
+duration_minutes: 18

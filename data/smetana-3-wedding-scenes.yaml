@@ -1,0 +1,17 @@
+id: smetana-3-wedding-scenes
+work:
+  composer: Smetana, Bedřich
+  title: 3 Wedding Scenes
+  ids:
+    imslp: Svatební scény, JB 1:44 (Smetana, Bedřich)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Svatebn%C3%AD_sc%C3%A9ny%2C_JB_1%3A44_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 12

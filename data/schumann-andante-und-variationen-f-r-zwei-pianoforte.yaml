@@ -13,7 +13,8 @@ instrumentation:
   - instrument: piano
   - instrument: piano
   - instrument: piano
-  additional_raw: 2 cellos
+  solo_strings:
+    cello: 2
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Andante_und_Variationen%2C_Op.46_%28Schumann%2C_Robert%29

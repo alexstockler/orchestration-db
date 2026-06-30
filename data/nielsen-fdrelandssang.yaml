@@ -1,0 +1,23 @@
+id: nielsen-fdrelandssang
+work:
+  composer: Nielsen, Carl
+  title: Fædrelandssang
+  ids:
+    imslp: Fædrelandssang, CNW 288 (Nielsen, Carl)
+  year: 1906
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+  additional_raw: men's choir (TTBB) 1906 (B-flat major) | unison choir (1909) | mixed
+    choir (SATB) 1915-16 (A major) | womens's or children's choir (SSA) 1920 (G major)
+    | piano with text 1922 | children's choir (SA) 1924
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/F%C3%A6drelandssang%2C_CNW_288_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano, men''s choir (TTBB) 1906 (B-flat major),
+    unison choir (1909), mixed choir (SATB) 1915-16 (A major), womens''s or children''s
+    choir (SSA) 1920 (G major), piano with text 1922, children''s choir (SA) 1924'

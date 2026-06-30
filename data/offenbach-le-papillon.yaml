@@ -1,0 +1,13 @@
+id: offenbach-le-papillon
+work:
+  composer: Offenbach, Jacques
+  title: Le papillon
+  ids:
+    imslp: Le papillon (Offenbach, Jacques)
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_papillon_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

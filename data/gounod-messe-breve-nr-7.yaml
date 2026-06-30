@@ -1,0 +1,24 @@
+id: gounod-messe-breve-nr-7
+work:
+  composer: Gounod, Charles
+  title: Messe breve Nr.7
+  ids:
+    imslp: Messe breve No.7 (Gounod, Charles)
+  year: 1890
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Messe_breve_No.7_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, mixed chorus (SATB), organ
+    (or piano)'
+duration_minutes: 12

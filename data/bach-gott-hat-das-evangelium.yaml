@@ -1,0 +1,15 @@
+id: bach-gott-hat-das-evangelium
+work:
+  composer: Bach, Johann Sebastian
+  title: Gott hat das Evangelium
+  ids:
+    imslp: Gott hat das Evangelium, BWV 319 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_hat_das_Evangelium%2C_BWV_319_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

@@ -1,0 +1,19 @@
+id: faure-tantum-ergo
+work:
+  composer: Fauré, Gabriel
+  title: Tantum ergo
+  ids:
+    imslp: Tantum ergo, Op.55 (Fauré, Gabriel)
+  year: 1890
+formula: org hp
+instrumentation:
+  keyboards:
+  - instrument: organ
+  harp: 1
+  chorus_raw: chorus
+  additional_raw: tenor/soprano solo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tantum_ergo%2C_Op.55_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor/soprano solo, chorus, harp (or piano), organ'

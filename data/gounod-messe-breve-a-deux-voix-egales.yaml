@@ -1,0 +1,17 @@
+id: gounod-messe-breve-a-deux-voix-egales
+work:
+  composer: Gounod, Charles
+  title: Messe brève à deux voix égales
+  ids:
+    imslp: Messe à deux voix égales, CG 72 (Gounod, Charles)
+  year: 1876
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  additional_raw: 2 equal voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Messe_%C3%A0_deux_voix_%C3%A9gales%2C_CG_72_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 equal voices, organ or harmonium'

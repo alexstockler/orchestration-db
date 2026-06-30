@@ -1,0 +1,17 @@
+id: massenet-deux-morceaux-a-dechiffrer-pour-flute
+work:
+  composer: Massenet, Jules
+  title: Deux morceaux à déchiffrer pour flûte
+  ids:
+    imslp: 2 Morceaux à déchiffrer (Massenet, Jules)
+  year: 1881
+formula: 1000 0000 pf
+instrumentation:
+  flute: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Morceaux_%C3%A0_d%C3%A9chiffrer_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, piano'

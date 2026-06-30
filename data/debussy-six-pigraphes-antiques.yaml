@@ -5,9 +5,10 @@ work:
   ids:
     imslp: 6 Épigraphes antiques, CD 139 (Debussy, Claude)
   year: 1914
-formula: ''
+formula: pf
 instrumentation:
-  additional_raw: piano 4-hands
+  keyboards:
+  - instrument: piano
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/6_%C3%89pigraphes_antiques%2C_CD_139_%28Debussy%2C_Claude%29

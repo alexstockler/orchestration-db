@@ -1,0 +1,16 @@
+id: nielsen-har-haand-du-lagt-pa-herrens-plov
+work:
+  composer: Nielsen, Carl
+  title: Har Haand du lagt på Herrens Plov
+  ids:
+    imslp: Har Haand du lagt på Herrens Plov, CNW 173 (Nielsen, Carl)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: piano / 4 voices (voices in piano score)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Har_Haand_du_lagt_p%C3%A5_Herrens_Plov%2C_CNW_173_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano / 4 voices (voices in piano score)'

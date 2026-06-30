@@ -1,0 +1,17 @@
+id: faure-promethee
+work:
+  composer: Fauré, Gabriel
+  title: Prométhée
+  ids:
+    imslp: Prométhée, Op.82 (Fauré, Gabriel)
+  year: 1900
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prom%C3%A9th%C3%A9e%2C_Op.82_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

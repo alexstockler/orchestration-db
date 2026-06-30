@@ -1,0 +1,120 @@
+id: hindemith-cardillac-cardillac-neufassung-1952
+work:
+  composer: Hindemith, Paul
+  title: Cardillac ; Cardillac (Neufassung 1952)
+  ids:
+    imslp: Cardillac, Op.39 (Hindemith, Paul)
+  year: 1925
+formula: 5 6[1.Eh.3.4.Eh.6] 6[Ebcl.2.bcl.Ebcl.5.bcl] 7[1.2.cbn.4.5.cbn.7] 4662 tmp+1
+  pf pf hpd hp str
+instrumentation:
+  flute: 5
+  oboe:
+  - {}
+  - instrument: english_horn
+  - {}
+  - {}
+  - instrument: english_horn
+  - {}
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - instrument: bass_clarinet
+  - instrument: eflat_clarinet
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  - {}
+  - {}
+  - instrument: contrabassoon
+  - {}
+  horn: 4
+  trumpet: 6
+  trombone: 6
+  tuba: 2
+  percussion:
+    timpani: 1
+    players: 1
+    instruments:
+    - triangle
+    - snare drum
+    - tambourine
+    - field drum
+    - timbales
+    - cymbals
+    - suspended cymbal
+    - bass drum
+    - bells
+    - glockenspiel
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  - instrument: harpsichord
+  harp: 1
+  strings:
+    standard: true
+    description: 6,0,4,4,4
+  soloists:
+  - Original Version (1926) ::Cast :::The Goldsmith Cardillac (baritone)
+  - The Daughter (soprano)
+  - The Officer (tenor)
+  - The Gold Merchant (bass)
+  - The Gentleman (tenor)
+  - The Lady (soprano)
+  - The Marshal of Prévôté (high bass)
+  - The King (silent role)
+  - Courtiers [Cavaliers] and Ladies of the Court (silent roles)
+  - The Prévôté (silent role) ::Mixed Chorus (SATB) :::Folk People ::Pit-
+  - bass
+  chorus_raw: mixed chorus
+  saxophones:
+  - instrument: tenor_sax
+    count: 1
+  - instrument: tenor_sax
+    count: 1
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+  additional_raw: '(2nd also piccolo) | small cymbals | small gong | large tam-tam
+    | Onstage Instruments (Behind the Scenes/Bühnenmusik) | 2 basses | Revised Version
+    (1952) | Cast | Cardillac | A Famous Goldsmith (baritone) | Cardillac''s Daughter
+    (soprano) | Cardillac''s Journeyman (tenor) | The First Singer of the Opera (soprano)
+    | The Officer (bass) | The Young Cavalier (tenor) | The Rich Marquis (silent role)
+    | Folk People | Guards | Theater Staff | In Lully''s Opera: (Phaeston) | Clymene
+    (contralto) | Phaeton (tenor) | Apollo (bass) | Singers and Dancers | Pit-Orchestra
+    | (2nd also piccolo) | small gong | large tam-tam | Onstage Instruments (Behind
+    the Scenes/Bühnenmusik)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cardillac%2C_Op.39_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra (both versions) :Original Version
+    (1926) ::Cast :::The Goldsmith Cardillac (baritone), The Daughter (soprano), The
+    Officer (tenor), The Gold Merchant (bass), The Gentleman (tenor), The Lady (soprano),
+    The Marshal of Prévôté (high bass), The King (silent role), Courtiers [Cavaliers]
+    and Ladies of the Court (silent roles), The Prévôté (silent role) ::Mixed Chorus
+    (SATB) :::Folk People ::Pit-Orchestra :::2 flutes, (2nd also piccolo), oboe, English
+    horn, E clarinet, clarinet (B), ::::bass clarinet (B), tenor saxophone (B), 2
+    bassoons, contrabassoon :::horn (F), 2 trumpets (C), 2 trombones, tuba, timpani,
+    percussion (3-4 players), piano, strings (6,0,4,4,4) :::: triangle, snare drum,
+    tambourine, field drum, 4 timbales, small cymbals, cymbals,, suspended cymbal,
+    bass drum, small gong, large tam-tam, 2 bells, glockenspiel ::Onstage Instruments
+    (Behind the Scenes/Bühnenmusik) :::oboe, 2 horns (F), trumpet (C), trombone, trumpet,
+    trombone, violin, 2 basses :Revised Version (1952) ::Cast :::Cardillac, A Famous
+    Goldsmith (baritone), Cardillac''s Daughter (soprano), Cardillac''s Journeyman
+    (tenor), The First Singer of the Opera (soprano), The Officer (bass), The Young
+    Cavalier (tenor), The Rich Marquis (silent role) ::Mixed Chorus (SATB) :::Folk
+    People, Guards, Theater Staff ::In Lully''s Opera: (Phaeston) :::Clymene (contralto),
+    Phaeton (tenor), Apollo (bass), Singers and Dancers ::Pit-Orchestra :::2 flutes,
+    (2nd also piccolo), oboe, English horn, E clarinet, clarinet (B), ::::bass clarinet
+    (B), tenor saxophone (B) (or heckelphone), 2 bassoons, contrabassoon :::horn (F),
+    2 trumpets (C), 2 trombones, tuba, timpani, percussion (3-4 players), piano, strings
+    (6,0,4,4,4) :::: triangle, snare drum, tambourine, field drum, suspended cymbal,
+    cymbals,, bass drum, small gong, large tam-tam, glockenspiel ::Onstage Instruments
+    (Behind the Scenes/Bühnenmusik) :::flute, oboe, bassoon, harpsichord, harp, violin,
+    viola, cello, bass'
+duration_minutes: 90

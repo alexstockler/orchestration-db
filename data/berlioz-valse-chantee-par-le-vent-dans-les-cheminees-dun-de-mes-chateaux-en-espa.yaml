@@ -1,0 +1,15 @@
+id: berlioz-valse-chantee-par-le-vent-dans-les-cheminees-dun-de-mes-chateaux-en-espa
+work:
+  composer: Berlioz, Hector
+  title: Valse chantée par le vent dans les cheminées d’un de mes châteaux en Espagne
+  ids:
+    imslp: Valse chantée, H 131 (Berlioz, Hector)
+  year: 1855
+formula: ''
+instrumentation:
+  additional_raw: piano right hand
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Valse_chant%C3%A9e%2C_H_131_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: piano right hand'

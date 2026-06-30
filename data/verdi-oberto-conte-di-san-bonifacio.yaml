@@ -1,0 +1,19 @@
+id: verdi-oberto-conte-di-san-bonifacio
+work:
+  composer: Verdi, Giuseppe
+  title: Oberto, Conte di San Bonifacio
+  ids:
+    imslp: Oberto (Verdi, Giuseppe)
+  year: 1839
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: Cast | Oberto (bass) | Leonora (soprano) | Riccardo (tenor) | Cuniza
+    (mezzo-soprano) | Imelda (mezzo-soprano) | Courtiers | Ladies | Vassals
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oberto_%28Verdi%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Cast ::Oberto (bass), Leonora
+    (soprano), Riccardo (tenor), Cuniza (mezzo-soprano), Imelda (mezzo-soprano) :Mixed
+    Chorus ::Courtiers, Ladies, Vassals :Orchestra'

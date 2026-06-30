@@ -1,0 +1,34 @@
+id: hindemith-kammermusik-no-5
+work:
+  composer: Hindemith, Paul
+  title: Kammermusik No.5
+  ids:
+    imslp: Kammermusik No.5, Op.36 No.4 (Hindemith, Paul)
+  year: 1927
+formula: 1 1 3[Ebcl.2.bcl] 3[1.2.cbn] 1221
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 1
+  trumpet: 2
+  trombone: 2
+  tuba: 1
+  solo_strings:
+    cello: 4
+  additional_raw: 4 basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kammermusik_No.5%2C_Op.36_No.4_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: flute (also piccolo), oboe, clarinet (E), clarinet (B),
+    bass clarinet (B), 2 bassoons, contrabassoon, horn (F), 2 trumpets (C), 2 trombones,
+    tuba, 4 cellos, 4 basses'
+duration_minutes: 20

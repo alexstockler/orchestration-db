@@ -1,0 +1,34 @@
+id: hindemith-cello-concerto-in-e-flat-major
+work:
+  composer: Hindemith, Paul
+  title: Cello Concerto in E-flat major
+  ids:
+    imslp: Cello Concerto in E-flat major, Op.3 (Hindemith, Paul)
+  year: 1915
+formula: 2[1.2/pic] 2 2 2 4230 tmp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings:
+    standard: true
+    description: 12,12,8,6,6
+  soloists:
+  - cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Concerto_in_E-flat_major%2C_Op.3_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: cello, Orchestra: 2 flutes (2nd also piccolo), 2
+    oboes, 2 clarinets (B), 2 bassoons, 4 horns (F), 2 trumpets (B), 3 trombones,
+    timpani, strings (12,12,8,6,6)'
+duration_minutes: 30

@@ -1,0 +1,19 @@
+id: bach-es-ist-euch-gut-dass-ich-hingehe
+work:
+  composer: Bach, Johann Sebastian
+  title: Es ist euch gut, dass ich hingehe
+  ids:
+    imslp: Es ist euch gut, daß ich hingehe, BWV 108 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: 2 oboes d'amore | continuo (organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_ist_euch_gut%2C_da%C3%9F_ich_hingehe%2C_BWV_108_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes d''amore, 2 violins, viola, continuo (organ)'
+duration_minutes: 20

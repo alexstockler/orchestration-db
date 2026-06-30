@@ -1,0 +1,17 @@
+id: franck-qu-est-ista
+work:
+  composer: Franck, César
+  title: Quæ est ista
+  ids:
+    imslp: Quae est ista, FWV 63 (Franck, César)
+  year: 1871
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Quae_est_ista%2C_FWV_63_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

@@ -1,0 +1,16 @@
+id: massenet-musique-pour-bercer-les-petits-enfants
+work:
+  composer: Massenet, Jules
+  title: Musique pour bercer les petits enfants
+  ids:
+    imslp: Musique pour bercer les petits enfants (Massenet, Jules)
+  year: 1902
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Musique_pour_bercer_les_petits_enfants_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano solo'

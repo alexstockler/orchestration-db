@@ -1,0 +1,15 @@
+id: vaughan-williams-3-shakespeare-songs
+work:
+  composer: Vaughan Williams, Ralph
+  title: 3 Shakespeare Songs
+  ids:
+    imslp: 3 Shakespeare Songs (Vaughan Williams, Ralph)
+  year: 1951
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Shakespeare_Songs_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

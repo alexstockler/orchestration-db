@@ -1,0 +1,66 @@
+id: bizet-la-jolie-fille-de-perth
+work:
+  composer: Bizet, Georges
+  title: La jolie fille de Perth
+  ids:
+    imslp: La jolie fille de Perth (Bizet, Georges)
+  year: 1866
+formula: 3[1.2/pic.3] 3 2 2 4 4[cnt.cnt.cnt.cnt] 4 0 tmp 2hp
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  - {}
+  oboe: 3
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 4
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - tambourine
+    - bass drum
+    - cymbals
+    - anvil
+  harp: 2
+  soloists:
+  - Catherine Glover (soprano)
+  - Mab (soprano)
+  - Henri Smith (tenor)
+  - Le Duc de Rothsay (baritone or tenor)
+  - Ralph (bass or baritone)
+  - Simon Glover (bass)
+  - Le Majordome (bass)
+  - Un Ouvrier (bass)
+  - Un Seigneur (tenor) :Mixed Chorus ::workers
+  - watch patrol
+  - masqueraders
+  - gypsies
+  - guests of the duke
+  - noblemen
+  - artisans
+  - bachelors
+  - 'young girls :'
+  solo_strings:
+    violin: 2
+  additional_raw: 'strings :'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_jolie_fille_de_Perth_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, chorus, orchestra :Cast ::Catherine Glover
+    (soprano), Mab (soprano), Henri Smith (tenor), Le Duc de Rothsay (baritone or
+    tenor), Ralph (bass or baritone), Simon Glover (bass), Le Majordome (bass), Un
+    Ouvrier (bass), Un Seigneur (tenor) :Mixed Chorus ::workers, watch patrol, masqueraders,
+    gypsies, guests of the duke, noblemen, artisans, bachelors, young girls :Orchestra
+    ::2 flutes (2nd also piccolo), 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 cornets,
+    3 trombones, timpani, triangle, tambourine, bass drum, cymbals, harps, strings
+    : ::flute, oboe, 2 cornets, trombone, triangle, anvil, harps, 2 violins'

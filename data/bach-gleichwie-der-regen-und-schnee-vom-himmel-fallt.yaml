@@ -1,0 +1,22 @@
+id: bach-gleichwie-der-regen-und-schnee-vom-himmel-fallt
+work:
+  composer: Bach, Johann Sebastian
+  title: Gleichwie der Regen und Schnee vom Himmel fällt
+  ids:
+    imslp: Gleich wie der Regen und Schnee vom Himmel fällt, BWV 18 (Bach, Johann
+      Sebastian)
+  year: 1713
+formula: 0001 0000
+instrumentation:
+  bassoon: 1
+  solo_strings:
+    viola: 4
+    cello: 1
+  additional_raw: 2 recorders (none in Weimar) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gleich_wie_der_Regen_und_Schnee_vom_Himmel_f%C3%A4llt%2C_BWV_18_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 recorders (none in Weimar), bassoon, 4 violas, cello,
+    continuo'
+duration_minutes: 21

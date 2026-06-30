@@ -5,9 +5,12 @@ work:
   ids:
     imslp: Der glorreiche Augenblick, Op.136 (Beethoven, Ludwig van)
   year: 1814
-formula: 2222 4230 tmp str
+formula: 3[pic.2.3] 2 2 2 4230 tmp str
 instrumentation:
-  flute: 2
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
   oboe: 2
   clarinet: 2
   bassoon: 2
@@ -22,11 +25,10 @@ instrumentation:
     - cymbals
   strings: str
   soloists:
-  - sopranos
+  - 2 sopranos
   - tenor
   - bass
-  chorus_raw: mixed chorus
-  additional_raw: 'Orchestra: piccolo'
+  - mixed chorus (SATB)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Der_glorreiche_Augenblick%2C_Op.136_%28Beethoven%2C_Ludwig_van%29

@@ -1,0 +1,16 @@
+id: nielsen-vuggevise-cnw-390
+work:
+  composer: Nielsen, Carl
+  title: Vuggevise, CNW 390
+  ids:
+    imslp: Vuggevise, CNW 390 (Nielsen, Carl)
+  year: 1879
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vuggevise%2C_CNW_390_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice'

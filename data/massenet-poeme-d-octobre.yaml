@@ -1,0 +1,18 @@
+id: massenet-poeme-d-octobre
+work:
+  composer: Massenet, Jules
+  title: Poème d'octobre
+  ids:
+    imslp: Poème d'octobre (Massenet, Jules)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Po%C3%A8me_d%27octobre_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

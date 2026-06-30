@@ -1,0 +1,15 @@
+id: faure-huit-pieces-breves
+work:
+  composer: Fauré, Gabriel
+  title: Huit Pièces brèves
+  ids:
+    imslp: Nocturne No.8, Op.84 No.8 (Fauré, Gabriel)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nocturne_No.8%2C_Op.84_No.8_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

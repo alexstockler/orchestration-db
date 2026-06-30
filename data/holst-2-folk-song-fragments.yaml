@@ -1,0 +1,16 @@
+id: holst-2-folk-song-fragments
+work:
+  composer: Holst, Gustav
+  title: 2 Folk Song Fragments
+  ids:
+    imslp: 2 Folk Song Fragments, H.166 (Holst, Gustav)
+  year: 1927
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Folk_Song_Fragments%2C_H.166_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

@@ -1,0 +1,18 @@
+id: holst-7-part-songs
+work:
+  composer: Holst, Gustav
+  title: 7 Part-songs
+  ids:
+    imslp: 7 Part-songs, Op.44 (Holst, Gustav)
+  year: 1925
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - female chorus (SSSSAA)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Part-songs%2C_Op.44_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: female chorus (SSSSAA), Orchestra: strings'
+duration_minutes: 24

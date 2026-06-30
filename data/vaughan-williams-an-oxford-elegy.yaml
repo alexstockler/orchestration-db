@@ -1,0 +1,17 @@
+id: vaughan-williams-an-oxford-elegy
+work:
+  composer: Vaughan Williams, Ralph
+  title: An Oxford Elegy
+  ids:
+    imslp: An Oxford Elegy (Vaughan Williams, Ralph)
+  year: 1947
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: narrator
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_Oxford_Elegy_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: narrator, mixed chorus, orchestra'
+duration_minutes: 25

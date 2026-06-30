@@ -1,0 +1,15 @@
+id: smetana-fuga-in-a-major
+work:
+  composer: Smetana, Bedřich
+  title: Fuga in A major
+  ids:
+    imslp: Fugue in A major (Smetana, Bedřich)
+  year: 1844
+formula: ''
+instrumentation:
+  additional_raw: unspecified
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_A_major_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: unspecified'

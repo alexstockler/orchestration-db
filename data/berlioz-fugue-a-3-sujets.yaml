@@ -1,0 +1,16 @@
+id: berlioz-fugue-a-3-sujets
+work:
+  composer: Berlioz, Hector
+  title: Fugue à 3 sujets
+  ids:
+    imslp: Fugue à 3 sujets, H 35 (Berlioz, Hector)
+  year: 1829
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_%C3%A0_3_sujets%2C_H_35_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB) (or organ)'
+duration_minutes: 4

@@ -1,0 +1,16 @@
+id: offenbach-la-fille-du-tambour-major
+work:
+  composer: Offenbach, Jacques
+  title: La fille du tambour-major
+  ids:
+    imslp: La fille du tambour-major (Offenbach, Jacques)
+  year: 1880
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_fille_du_tambour-major_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

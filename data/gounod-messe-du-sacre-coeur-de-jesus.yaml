@@ -1,0 +1,17 @@
+id: gounod-messe-du-sacre-coeur-de-jesus
+work:
+  composer: Gounod, Charles
+  title: Messe du Sacré-Coeur de Jésus,
+  ids:
+    imslp: Messe du Sacré-Cœur de Jésus, CG 58 (Gounod, Charles)
+  year: 1876
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Messe_du_Sacr%C3%A9-C%C5%93ur_de_J%C3%A9sus%2C_CG_58_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

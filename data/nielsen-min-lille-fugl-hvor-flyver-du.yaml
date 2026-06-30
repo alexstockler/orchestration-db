@@ -1,0 +1,17 @@
+id: nielsen-min-lille-fugl-hvor-flyver-du
+work:
+  composer: Nielsen, Carl
+  title: Min lille Fugl, hvor flyver du
+  ids:
+    imslp: Min lille Fugl, hvor flyver du, CNW 217 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Min_lille_Fugl%2C_hvor_flyver_du%2C_CNW_217_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

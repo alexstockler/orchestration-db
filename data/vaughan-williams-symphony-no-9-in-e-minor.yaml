@@ -1,0 +1,61 @@
+id: vaughan-williams-symphony-no-9-in-e-minor
+work:
+  composer: Vaughan Williams, Ralph
+  title: Symphony No.9 in E minor
+  ids:
+    imslp: Symphony No.9 in E minor (Vaughan Williams, Ralph)
+  year: 1956
+formula: 3[pic.2.3] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 4231 tmp cel 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drum
+    - tenor drum
+    - bass drum
+    - cymbals
+    - triangle
+    - large gong
+    - tam-tam
+    - glockenspiel
+    - xylophone
+  keyboards:
+  - instrument: celesta
+  harp: 2
+  strings: str
+  saxophones:
+  - instrument: alto_sax
+    count: 2
+  - instrument: tenor_sax
+    count: 1
+  additional_raw: flügelhorn | deep bells
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.9_in_E_minor_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: piccolo, 2 flutes, 2 oboes, English horn, 2
+    clarinets, bass clarinet, 2 bassoons, contrabassoon, 2 alto saxophones, tenor
+    saxophone, 4 horns, 2 trumpets, flügelhorn, 3 trombones, tuba, timpani, snare
+    drum, tenor drum, bass drum, cymbals, triangle, large gong, tam-tam, deep bells,
+    glockenspiel, xylophone, celesta, 2 harps, strings'
+duration_minutes: 33

@@ -7,7 +7,7 @@ work:
   year: 1845
 formula: ''
 instrumentation:
-  additional_raw: SATB
+  chorus_raw: satb
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Trauergesang%2C_Op.116_%28Mendelssohn%2C_Felix%29

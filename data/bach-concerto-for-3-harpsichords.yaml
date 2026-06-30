@@ -1,0 +1,21 @@
+id: bach-concerto-for-3-harpsichords
+work:
+  composer: Bach, Johann Sebastian
+  title: Concerto for 3 Harpsichords
+  ids:
+    imslp: Concerto for 3 Harpsichords in D minor, BWV 1063 (Bach, Johann Sebastian)
+  year: 1735
+formula: hpd hpd hpd str
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+  - instrument: harpsichord
+  - instrument: harpsichord
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_3_Harpsichords_in_D_minor%2C_BWV_1063_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 harpsichords, strings, continuo'
+duration_minutes: 14

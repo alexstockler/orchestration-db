@@ -1,0 +1,18 @@
+id: nielsen-en-svunden-dag
+work:
+  composer: Nielsen, Carl
+  title: En svunden Dag
+  ids:
+    imslp: En svunden Dag, CNW 284 (Nielsen, Carl)
+  year: 1890
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/En_svunden_Dag%2C_CNW_284_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

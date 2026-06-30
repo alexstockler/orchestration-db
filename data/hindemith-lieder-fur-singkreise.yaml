@@ -1,0 +1,18 @@
+id: hindemith-lieder-fur-singkreise
+work:
+  composer: Hindemith, Paul
+  title: Lieder für Singkreise
+  ids:
+    imslp: Lieder für Singkreise, Op.43 No.2 (Hindemith, Paul)
+  year: 1926
+formula: ''
+instrumentation:
+  additional_raw: Nos.1-3 | 3-Part mixed chorus (2 female voices, 1 male voice - [ex,
+    SST, SAT]) | No.4 | 6-part Divided chorus (SSTSST) or (SATSAT)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lieder_f%C3%BCr_Singkreise%2C_Op.43_No.2_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus :Nos.1-3: 3-Part mixed chorus (2 female voices,
+    1 male voice - [ex. SST, SAT]), No.4: 6-part Divided chorus (SSTSST) or (SATSAT)'
+duration_minutes: 3

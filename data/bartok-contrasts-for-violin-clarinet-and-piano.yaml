@@ -1,0 +1,20 @@
+id: bartok-contrasts-for-violin-clarinet-and-piano
+work:
+  composer: Bartók, Béla
+  title: Contrasts for Violin, Clarinet and Piano
+  ids:
+    imslp: Contrasts, Sz.111 (Bartók, Béla)
+  year: 1938
+formula: 0010 0000 pf
+instrumentation:
+  clarinet: 1
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Contrasts%2C_Sz.111_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, violin, piano'
+duration_minutes: 20

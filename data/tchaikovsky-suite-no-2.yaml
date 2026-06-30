@@ -5,7 +5,7 @@ work:
   ids:
     imslp: Suite No.2, Op.53 (Tchaikovsky, Pyotr)
   year: 1883
-formula: 4[pic.2.3.4] 3[1.2.Eh] 2 2 4331 tmp hp acc str
+formula: 4[pic.2.3.4] 3[1.2.Eh] 2 2 4331 tmp hp str
 instrumentation:
   flute:
   - instrument: piccolo
@@ -30,9 +30,8 @@ instrumentation:
     - cymbals
     - bass drum
   harp: 1
-  extras:
-  - instrument: accordion
   strings: str
+  additional_raw: 4 accordions (ad libitum, in Scherzo)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Suite_No.2%2C_Op.53_%28Tchaikovsky%2C_Pyotr%29

@@ -1,0 +1,18 @@
+id: weber-5-songs-and-a-canon
+work:
+  composer: Weber, Carl Maria von
+  title: 5 Songs and a Canon
+  ids:
+    imslp: 5 Lieder und ein Kanon, Op.13 (Weber, Carl Maria von)
+  year: 1811
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Lieder_und_ein_Kanon%2C_Op.13_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

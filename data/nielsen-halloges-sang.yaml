@@ -1,0 +1,18 @@
+id: nielsen-halloges-sang
+work:
+  composer: Nielsen, Carl
+  title: Halloges Sang
+  ids:
+    imslp: Halloges Sang, CNW 292 (Nielsen, Carl)
+  year: 1910
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Halloges_Sang%2C_CNW_292_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

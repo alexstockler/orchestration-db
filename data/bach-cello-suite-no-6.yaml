@@ -1,0 +1,17 @@
+id: bach-cello-suite-no-6
+work:
+  composer: Bach, Johann Sebastian
+  title: Cello Suite No.6
+  ids:
+    imslp: Cello Suite No.6 in D major, BWV 1012 (Bach, Johann Sebastian)
+  year: 1717
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Suite_No.6_in_D_major%2C_BWV_1012_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: cello (or 5-stringed cello) (violoncello piccolo, possibly
+    viola pomposa)'

@@ -4,9 +4,10 @@ work:
   title: Prelude and Capriccio, HWV 571
   ids:
     imslp: Prelude and Capriccio, HWV 571 (Handel, George Frideric)
-formula: ''
+formula: hpd
 instrumentation:
-  additional_raw: harpsichord or organ (but see below, Comments)
+  keyboards:
+  - instrument: harpsichord
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Prelude_and_Capriccio%2C_HWV_571_%28Handel%2C_George_Frideric%29

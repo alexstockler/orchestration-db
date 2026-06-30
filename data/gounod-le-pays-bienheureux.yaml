@@ -1,0 +1,18 @@
+id: gounod-le-pays-bienheureux
+work:
+  composer: Gounod, Charles
+  title: Le pays bienheureux
+  ids:
+    imslp: Le pays bienheureux, CG 448a (Gounod, Charles)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_pays_bienheureux%2C_CG_448a_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

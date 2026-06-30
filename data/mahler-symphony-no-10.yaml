@@ -27,9 +27,11 @@ instrumentation:
   tuba: 1
   percussion:
     timpani: 1
+    instruments:
+    - tam tam
+    - large muted field drum
   harp: 1
   strings: str
-  additional_raw: tam tam | large muted field drum
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Symphony_No.10%2C_GMW_F58_%28Mahler%2C_Gustav%29

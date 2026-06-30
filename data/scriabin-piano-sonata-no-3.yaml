@@ -1,0 +1,16 @@
+id: scriabin-piano-sonata-no-3
+work:
+  composer: Scriabin, Aleksandr
+  title: Piano Sonata No.3
+  ids:
+    imslp: Piano Sonata No.3, Op.23 (Scriabin, Aleksandr)
+  year: 1897
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.3%2C_Op.23_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

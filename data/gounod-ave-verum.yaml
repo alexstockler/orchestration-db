@@ -1,0 +1,17 @@
+id: gounod-ave-verum
+work:
+  composer: Gounod, Charles
+  title: Ave Verum
+  ids:
+    imslp: Ave verum, CG 142 (Gounod, Charles)
+  year: 1871
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_verum%2C_CG_142_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), organ'

@@ -1,0 +1,22 @@
+id: bach-gott-der-herr-ist-sonn-und-schild
+work:
+  composer: Bach, Johann Sebastian
+  title: Gott der Herr ist Sonn und Schild
+  ids:
+    imslp: Gott der Herr ist Sonn und Schild, BWV 79 (Bach, Johann Sebastian)
+  year: 1725
+formula: 0200 2000 tmp str
+instrumentation:
+  oboe: 2
+  horn: 2
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: 2 flutes [1730 | 2nd flute ad lib.] | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_der_Herr_ist_Sonn_und_Schild%2C_BWV_79_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes [1730, 2nd flute ad lib.], 2 oboes, 2 horns, timpani,
+    strings, continuo'
+duration_minutes: 17

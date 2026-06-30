@@ -1,0 +1,15 @@
+id: bach-die-nacht-ist-kommen
+work:
+  composer: Bach, Johann Sebastian
+  title: Die Nacht ist kommen
+  ids:
+    imslp: Die Nacht ist kommen, BWV 296 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Nacht_ist_kommen%2C_BWV_296_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

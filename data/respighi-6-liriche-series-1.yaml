@@ -1,0 +1,16 @@
+id: respighi-6-liriche-series-1
+work:
+  composer: Respighi, Ottorino
+  title: 6 Liriche, Series 1
+  ids:
+    imslp: 6 Liriche, Series 1 (Respighi, Ottorino)
+  year: 1909
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Liriche%2C_Series_1_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and piano'

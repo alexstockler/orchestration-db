@@ -1,0 +1,18 @@
+id: nielsen-den-store-hvide-flok-cnw-156
+work:
+  composer: Nielsen, Carl
+  title: Den store hvide Flok, CNW 156
+  ids:
+    imslp: Den store hvide Flok, CNW 156 (Nielsen, Carl)
+  year: 1913
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Den_store_hvide_Flok%2C_CNW_156_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano (or mixed chorus)'

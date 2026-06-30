@@ -1,0 +1,15 @@
+id: nielsen-grshoppen
+work:
+  composer: Nielsen, Carl
+  title: Græshoppen
+  ids:
+    imslp: Græshoppen, CNW 372 (Nielsen, Carl)
+  year: 1898
+formula: ''
+instrumentation:
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gr%C3%A6shoppen%2C_CNW_372_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: female chorus (SSAA)'

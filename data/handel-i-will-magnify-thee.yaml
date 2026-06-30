@@ -14,7 +14,8 @@ instrumentation:
   strings: str
   soloists:
   - soprano
-  - tenor + mixed chorus (STB)
+  - tenor
+  - mixed chorus (STB)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/I_Will_Magnify_Thee%2C_HWV_250a_%28Handel%2C_George_Frideric%29

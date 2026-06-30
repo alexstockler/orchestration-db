@@ -1,0 +1,18 @@
+id: mussorgsky-rustic-song-where-are-you-little-star
+work:
+  composer: Mussorgsky, Modest
+  title: Rustic Song ("Where are You Little Star?")
+  ids:
+    imslp: Rustic Song (Mussorgsky, Modest)
+  year: 1857
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rustic_Song_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

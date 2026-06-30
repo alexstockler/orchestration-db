@@ -1,0 +1,17 @@
+id: bach-ach-da-nicht-die-letzte-stunde
+work:
+  composer: Bach, Johann Sebastian
+  title: Ach, daß nicht die letzte Stunde
+  ids:
+    imslp: Ach, daß nicht die letzte Stunde, BWV 439 (Bach, Johann Sebastian)
+  year: 1735
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach%2C_da%C3%9F_nicht_die_letzte_Stunde%2C_BWV_439_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

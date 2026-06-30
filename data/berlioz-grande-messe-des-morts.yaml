@@ -1,0 +1,56 @@
+id: berlioz-grande-messe-des-morts
+work:
+  composer: Berlioz, Hector
+  title: Grande messe des morts
+  ids:
+    imslp: Grande messe des morts, H 75 (Berlioz, Hector)
+  year: 1837
+formula: 4 4[1.2.Eh.Eh] 4 8 12[1.2.3.4.5.6.7.8.9.10.11.12] 4[cnt.cnt.cnt.cnt] 0 4
+  tmp str
+instrumentation:
+  flute: 4
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  - instrument: english_horn
+  clarinet: 4
+  bassoon: 8
+  horn: 12
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  tuba: 4
+  percussion:
+    timpani: 16
+    instruments:
+    - bass drums
+    - tam-tams
+  strings: str
+  soloists:
+  - Vocal Solo (tenor)
+  - Mixed Chorus (SSTTBB) ::80 female voices
+  - 60 tenors
+  - 70 basses :4 Brass Choirs ::Choir I (North) :::4 cornets
+  - 4 trombones
+  - 2 tubas ::Choir II (East) :::4 trumpets
+  - 4 trombones ::Choir III (West) :::4 trumpets
+  - 4 trombones ::Choir IV (South) :::4 trumpets
+  - 4 trombones
+  - '4 ophicleides (tubas) :'
+  additional_raw: 10 pairs of cymbals
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grande_messe_des_morts%2C_H_75_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, chorus and orchestra :Vocal Solo (tenor), Mixed
+    Chorus (SSTTBB) ::80 female voices, 60 tenors, 70 basses :4 Brass Choirs ::Choir
+    I (North) :::4 cornets, 4 trombones, 2 tubas ::Choir II (East) :::4 trumpets,
+    4 trombones ::Choir III (West) :::4 trumpets, 4 trombones ::Choir IV (South) :::4
+    trumpets, 4 trombones, 4 ophicleides (tubas) :Orchestra ::4 flutes, 2 oboes, 2
+    English horns, 4 clarinets (B), 8 bassoons, 12 horns, 4 cornets, 4 tubas, 16 timpani
+    (10 players), 10 pairs of cymbals, 2 bass drums, 4 tam-tams, strings (25, 25,
+    20, 20, 18 players)'
+duration_minutes: 90

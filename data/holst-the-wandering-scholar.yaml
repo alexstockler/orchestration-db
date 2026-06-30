@@ -1,0 +1,33 @@
+id: holst-the-wandering-scholar
+work:
+  composer: Holst, Gustav
+  title: The Wandering Scholar
+  ids:
+    imslp: The Wandering Scholar, Op.50 (Holst, Gustav)
+  year: 1929
+formula: 2[pic.2] 2[1.Eh] 0 0 0000 str
+instrumentation:
+  flute:
+  - instrument: piccolo
+    optional: true
+  - {}
+  oboe:
+  - {}
+  - instrument: english_horn
+    optional: true
+  strings: str
+  soloists:
+  - Pierre (tenor)
+  - Father Philippe (bass)
+  - Louis (baritone)
+  - Alison (soprano)
+  additional_raw: 2 clarinets (2nd ad lib.) | 2 bassoons (2nd ad lib.) | 2 horns (2nd
+    ad lib.)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Wandering_Scholar%2C_Op.50_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Pierre (tenor), Father Philippe (bass), Louis (baritone),
+    Alison (soprano) Orchestra :piccolo (ad lib.), flute, oboe, English horn (ad lib.),
+    2 clarinets (2nd ad lib.), 2 bassoons (2nd ad lib.), 2 horns (2nd ad lib.), strings'
+duration_minutes: 30

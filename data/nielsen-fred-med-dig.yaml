@@ -1,0 +1,17 @@
+id: nielsen-fred-med-dig
+work:
+  composer: Nielsen, Carl
+  title: Fred med dig
+  ids:
+    imslp: Fred med dig, CNW 166 (Nielsen, Carl)
+  year: 1914
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: piano / mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fred_med_dig%2C_CNW_166_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano / mixed chorus'

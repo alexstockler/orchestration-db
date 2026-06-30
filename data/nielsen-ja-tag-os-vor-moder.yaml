@@ -1,0 +1,17 @@
+id: nielsen-ja-tag-os-vor-moder
+work:
+  composer: Nielsen, Carl
+  title: Ja, tag os, vor Moder
+  ids:
+    imslp: Ja, tag os, vor Moder, CNW 143 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ja%2C_tag_os%2C_vor_Moder%2C_CNW_143_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

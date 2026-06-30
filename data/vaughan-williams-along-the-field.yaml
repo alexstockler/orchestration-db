@@ -1,0 +1,19 @@
+id: vaughan-williams-along-the-field
+work:
+  composer: Vaughan Williams, Ralph
+  title: Along The Field
+  ids:
+    imslp: Along the Field (Vaughan Williams, Ralph)
+  year: 1927
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Along_the_Field_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, violin'
+duration_minutes: 18

@@ -1,0 +1,19 @@
+id: faure-piano-quintet-no-1
+work:
+  composer: Fauré, Gabriel
+  title: Piano Quintet No.1
+  ids:
+    imslp: Piano Quintet No.1, Op.89 (Fauré, Gabriel)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quintet_No.1%2C_Op.89_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello, piano'

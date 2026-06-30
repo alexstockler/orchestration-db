@@ -1,0 +1,16 @@
+id: franck-final
+work:
+  composer: Franck, César
+  title: Final
+  ids:
+    imslp: Final, Op.21 (Franck, César)
+  year: 1860
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Final%2C_Op.21_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

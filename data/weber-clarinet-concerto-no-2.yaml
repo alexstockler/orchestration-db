@@ -1,0 +1,24 @@
+id: weber-clarinet-concerto-no-2
+work:
+  composer: Weber, Carl Maria von
+  title: Clarinet Concerto No.2
+  ids:
+    imslp: Clarinet Concerto No.2 in E-flat major, Op.74 (Weber, Carl Maria von)
+  year: 1811
+formula: 2202 2200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Clarinet_Concerto_No.2_in_E-flat_major%2C_Op.74_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 bassoons, 2 horns, 2 trumpets, timpani,
+    strings'
+duration_minutes: 22

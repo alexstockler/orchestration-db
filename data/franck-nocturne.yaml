@@ -1,0 +1,18 @@
+id: franck-nocturne
+work:
+  composer: Franck, César
+  title: Nocturne
+  ids:
+    imslp: Nocturne (Franck, César)
+  year: 1884
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nocturne_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

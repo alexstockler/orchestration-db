@@ -1,0 +1,18 @@
+id: janacek-pohadka
+work:
+  composer: Janáček, Leoš
+  title: Pohádka
+  ids:
+    imslp: Pohádka (Janáček, Leoš)
+  year: 1910
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Poh%C3%A1dka_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'

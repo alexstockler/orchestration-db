@@ -1,0 +1,15 @@
+id: delibes-marche-de-soldats
+work:
+  composer: Delibes, Léo
+  title: Marche de soldats
+  ids:
+    imslp: Marche de soldats (Delibes, Léo)
+  year: 1866
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marche_de_soldats_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: Male chorus (TTBB)'

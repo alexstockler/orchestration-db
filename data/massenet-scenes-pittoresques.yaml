@@ -1,0 +1,34 @@
+id: massenet-scenes-pittoresques
+work:
+  composer: Massenet, Jules
+  title: Scènes pittoresques
+  ids:
+    imslp: Scènes pittoresques (Massenet, Jules)
+  year: 1874
+formula: 2[1.2/pic] 2 2 2 4430 tmp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 4
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - bass drum
+    - snare drum
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sc%C3%A8nes_pittoresques_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes, 2 clarinets, 2 bassoons,
+    4 horns, 4 trumpets, 3 trombones, timpani, triangle, cymbals, bass drum, snare
+    drum, strings'

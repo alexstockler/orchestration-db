@@ -1,0 +1,15 @@
+id: bach-ach-gott-erhor-mein-seufzen-und-wehklagen
+work:
+  composer: Bach, Johann Sebastian
+  title: Ach Gott, erhör mein Seufzen und Wehklagen
+  ids:
+    imslp: Ach Gott, erhör mein Seufzen und Wehklagen, BWV 254 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach_Gott%2C_erh%C3%B6r_mein_Seufzen_und_Wehklagen%2C_BWV_254_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

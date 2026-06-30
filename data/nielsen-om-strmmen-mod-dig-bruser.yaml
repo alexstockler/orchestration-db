@@ -1,0 +1,17 @@
+id: nielsen-om-strmmen-mod-dig-bruser
+work:
+  composer: Nielsen, Carl
+  title: Om strømmen mod dig bruser
+  ids:
+    imslp: Om strømmen mod dig bruser, CNW 324 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Om_str%C3%B8mmen_mod_dig_bruser%2C_CNW_324_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

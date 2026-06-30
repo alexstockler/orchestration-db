@@ -1,0 +1,17 @@
+id: holst-a-song-of-the-night
+work:
+  composer: Holst, Gustav
+  title: A Song of the Night
+  ids:
+    imslp: A Song of the Night, Op.19 No.1 (Holst, Gustav)
+  year: 1905
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_Song_of_the_Night%2C_Op.19_No.1_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, orchestra'
+duration_minutes: 8

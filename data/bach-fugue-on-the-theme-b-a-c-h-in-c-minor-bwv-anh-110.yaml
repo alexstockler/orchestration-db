@@ -1,0 +1,15 @@
+id: bach-fugue-on-the-theme-b-a-c-h-in-c-minor-bwv-anh-110
+work:
+  composer: Bach, Johann Sebastian
+  title: Fugue (on the theme 'B-A-C-H') in C minor , BWV Anh.110
+  ids:
+    imslp: Fugue (on the theme 'B-A-C-H') in C minor, BWV Anh.110 (Bach, Johann Sebastian)
+formula: ''
+instrumentation:
+  additional_raw: Keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_%28on_the_theme_%27B-A-C-H%27%29_in_C_minor%2C_BWV_Anh.110_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: Keyboard'
+duration_minutes: 3

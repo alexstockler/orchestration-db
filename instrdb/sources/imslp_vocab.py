@@ -50,6 +50,8 @@ IMSLP_TO_KEY = {
     "tenor sax": "tenor_sax",
     "baritone saxophone": "baritone_sax",
     "baritone sax": "baritone_sax",
+    "bass saxophone": "bass_sax",
+    "bass sax": "bass_sax",
     # horn family
     "horn": "horn",
     "horns": "horn",
@@ -62,6 +64,7 @@ IMSLP_TO_KEY = {
     "trumpets": "trumpet",
     "piccolo trumpet": "piccolo_trumpet",
     "cornet": "cornet",
+    "soprano cornet": "cornet",
     "flugelhorn": "flugelhorn",
     "bass trumpet": "bass_trumpet",
     # trombone family
@@ -210,6 +213,26 @@ IMSLP_TO_KEY = {
     "tom-tom": "percussion",
     "tom tom": "percussion",
     "anvil": "percussion",
+    "carillon": "percussion",
+    "jingles": "percussion",
+    "clash cymbal": "percussion",
+    "tavolette": "percussion",
+    "fonica": "percussion",
+    "large gong": "percussion",
+    "chinese tuned gongs": "percussion",
+    "tuned gongs": "percussion",
+    "low bell": "percussion",
+    "tugboat siren": "percussion",
+    "auto horn": "percussion",
+    "siren": "percussion",
+    "rifle": "percussion",
+    "rifles": "percussion",
+    "cannon": "percussion",
+    "thunder sheet": "percussion",
+    "log drum": "percussion",
+    "lion's roar": "percussion",
+    "police whistle": "percussion",
+    "pistol shot": "percussion",
     # strings abbreviation
     "strs": "strings",
     # piano variants
@@ -258,7 +281,7 @@ KEY_FAMILY = {
     "euphonium": "tuba", "cimbasso": "tuba", "contrabass_tuba": "tuba",
 }
 
-SAX_KEYS = {"soprano_sax", "alto_sax", "tenor_sax", "baritone_sax"}
+SAX_KEYS = {"soprano_sax", "alto_sax", "tenor_sax", "baritone_sax", "bass_sax"}
 
 VOICE_KEYS = {
     "soprano", "mezzo_soprano", "alto", "contralto",

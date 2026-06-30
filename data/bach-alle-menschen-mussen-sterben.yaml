@@ -1,0 +1,15 @@
+id: bach-alle-menschen-mussen-sterben
+work:
+  composer: Bach, Johann Sebastian
+  title: Alle Menschen müssen sterben
+  ids:
+    imslp: Alle Menschen müssen sterben, BWV 262 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alle_Menschen_m%C3%BCssen_sterben%2C_BWV_262_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

@@ -1,0 +1,18 @@
+id: gounod-quintette-pour-2-violons-alto-violoncelle-et-cor
+work:
+  composer: Gounod, Charles
+  title: Quintette pour 2 Violons, Alto, Violoncelle et Cor
+  ids:
+    imslp: Quintet for Horn and Strings, CG 572 (Gounod, Charles)
+formula: 0000 1000
+instrumentation:
+  horn: 1
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Quintet_for_Horn_and_Strings%2C_CG_572_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: Horn, 2 Violins, Viola, Cello'

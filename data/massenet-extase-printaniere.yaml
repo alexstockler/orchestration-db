@@ -1,0 +1,18 @@
+id: massenet-extase-printaniere
+work:
+  composer: Massenet, Jules
+  title: Extase printanière
+  ids:
+    imslp: Extase printanière (Massenet, Jules)
+  year: 1902
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Extase_printani%C3%A8re_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

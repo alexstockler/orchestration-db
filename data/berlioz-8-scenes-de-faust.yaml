@@ -1,0 +1,41 @@
+id: berlioz-8-scenes-de-faust
+work:
+  composer: Berlioz, Hector
+  title: 8 scènes de Faust
+  ids:
+    imslp: 8 Scènes de Faust, H 33 (Berlioz, Hector)
+  year: 1828
+formula: 2 4[1.2.Eh.Eh] 2 4 4200 tmp 2hp gtr str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 4
+  horn: 4
+  trumpet: 2
+  percussion:
+    timpani: 1
+  harp: 2
+  extras:
+  - instrument: guitar
+  strings: str
+  soloists:
+  - Solo Voices ::3 sopranos
+  - alto
+  - 2 tenors
+  - baritone
+  - 2 basses :Mixed Chorus (SSTTBB)
+  additional_raw: ophcleide | harmonica (glockenspiel or celesta)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Sc%C3%A8nes_de_Faust%2C_H_33_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Solo Voices ::3 sopranos, alto,
+    2 tenors, baritone, 2 basses :Mixed Chorus (SSTTBB), Orchestra ::2 flutes (also
+    2 piccolos), 2 oboes, 2 English horns, 2 clarinets, 4 bassoons, 4 horns, 2 trumpets,
+    ophcleide, timpani, harmonica (glockenspiel or celesta), 2 harps, guitar, strings'
+duration_minutes: 33

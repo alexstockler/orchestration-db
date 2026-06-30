@@ -1,0 +1,17 @@
+id: janacek-folk-nocturnes-jw-4-32
+work:
+  composer: Janáček, Leoš
+  title: Folk Nocturnes, JW 4/32
+  ids:
+    imslp: Lidová nokturna, JW 4/32 (Janáček, Leoš)
+  year: 1906
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 2 female voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lidov%C3%A1_nokturna%2C_JW_4/32_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 female voices, piano'

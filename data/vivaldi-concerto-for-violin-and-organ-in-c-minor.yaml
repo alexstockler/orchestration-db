@@ -9,7 +9,8 @@ instrumentation:
   keyboards:
   - instrument: organ
   strings: str
-  additional_raw: Violin
+  solo_strings:
+    violin: 1
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Concerto_for_Violin_and_Organ_in_C_minor%2C_RV_766_%28Vivaldi%2C_Antonio%29

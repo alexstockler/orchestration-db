@@ -1,0 +1,19 @@
+id: franck-veni-creator
+work:
+  composer: Franck, César
+  title: Veni creator
+  ids:
+    imslp: Veni creator (Franck, César)
+  year: 1872
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Veni_creator_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, bass, organ'

@@ -1,0 +1,18 @@
+id: faure-4-melodies
+work:
+  composer: Fauré, Gabriel
+  title: 4 Mélodies
+  ids:
+    imslp: 4 Mélodies, Op.51 (Fauré, Gabriel)
+  year: 1888
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_M%C3%A9lodies%2C_Op.51_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

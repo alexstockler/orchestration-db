@@ -1,0 +1,18 @@
+id: hindemith-lieder-nach-alten-texten
+work:
+  composer: Hindemith, Paul
+  title: Lieder nach alten Texten
+  ids:
+    imslp: Der Guguck (Hindemith, Paul)
+  year: 1923
+formula: ''
+instrumentation:
+  additional_raw: 'Nos.1 | 5 | 6 | (7): (SSATBarB) | Nos.2 | 4: (SSATB or SSATTB)
+    | No.3: (SATB)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Guguck_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed Chorus :Nos.1, 5, 6, (7): (SSATBarB), Nos.2, 4: (SSATB
+    or SSATTB), No.3: (SATB)'
+duration_minutes: 8

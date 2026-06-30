@@ -1,0 +1,48 @@
+id: respighi-le-fontane-di-roma
+work:
+  composer: Respighi, Ottorino
+  title: Le Fontane di Roma
+  ids:
+    imslp: Fontane di Roma (Respighi, Ottorino)
+  year: 1916
+formula: 3[pic.2.3] 3[1.2.Eh] 3[1.2.bcl] 2 4331 tmp cel org pf 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - glockenspiel
+  keyboards:
+  - instrument: celesta
+  - instrument: organ
+  - instrument: piano
+  harp: 2
+  strings: str
+  additional_raw: chime
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fontane_di_Roma_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: 2+1, 2+1, 2+1, 2 - 4, 3, 3, 1, timp, 4perc, pf, cel, org,
+    2hp, strs :piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets, bass clarinet,
+    2 bassoons, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, chime, triangle,
+    cymbals, glockenspiel, celesta, organ (ad lib.), piano, 2 harps, strings'
+duration_minutes: 18

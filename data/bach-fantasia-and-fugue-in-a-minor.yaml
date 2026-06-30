@@ -1,0 +1,16 @@
+id: bach-fantasia-and-fugue-in-a-minor
+work:
+  composer: Bach, Johann Sebastian
+  title: Fantasia and Fugue in A minor
+  ids:
+    imslp: Fantasia and Fugue in A minor, BWV 561 (Bach, Johann Sebastian)
+  year: 1881
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_and_Fugue_in_A_minor%2C_BWV_561_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

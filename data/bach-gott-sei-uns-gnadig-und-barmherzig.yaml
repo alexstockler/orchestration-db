@@ -1,0 +1,15 @@
+id: bach-gott-sei-uns-gnadig-und-barmherzig
+work:
+  composer: Bach, Johann Sebastian
+  title: Gott sei uns gnädig und barmherzig
+  ids:
+    imslp: Gott sei uns gnädig und barmherzig, BWV 323 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_sei_uns_gn%C3%A4dig_und_barmherzig%2C_BWV_323_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

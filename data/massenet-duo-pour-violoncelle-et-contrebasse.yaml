@@ -1,0 +1,18 @@
+id: massenet-duo-pour-violoncelle-et-contrebasse
+work:
+  composer: Massenet, Jules
+  title: Duo pour violoncelle et contrebasse
+  ids:
+    imslp: Duo pour violoncelle et contrebasse (Massenet, Jules)
+  year: 1876
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 1
+    double_bass: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Duo_pour_violoncelle_et_contrebasse_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, double bass'
+duration_minutes: 5

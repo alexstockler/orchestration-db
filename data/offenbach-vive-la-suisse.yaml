@@ -1,0 +1,15 @@
+id: offenbach-vive-la-suisse
+work:
+  composer: Offenbach, Jacques
+  title: Vive la Suisse
+  ids:
+    imslp: Vive la Suisse (Offenbach, Jacques)
+  year: 1873
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vive_la_Suisse_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

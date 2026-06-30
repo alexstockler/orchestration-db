@@ -1,0 +1,19 @@
+id: glazunov-reverie-orientale
+work:
+  composer: Glazunov, Aleksandr
+  title: Rêverie orientale
+  ids:
+    imslp: Rêverie orientale (Glazunov, Aleksandr)
+  year: 1886
+formula: 0010 0000
+instrumentation:
+  clarinet: 1
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/R%C3%AAverie_orientale_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, 2 violins, viola, cello'

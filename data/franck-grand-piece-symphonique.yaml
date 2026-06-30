@@ -1,0 +1,17 @@
+id: franck-grand-piece-symphonique
+work:
+  composer: Franck, César
+  title: Grand Pièce Symphonique
+  ids:
+    imslp: Grande pièce symphonique, Op.17 (Franck, César)
+  year: 1860
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grande_pi%C3%A8ce_symphonique%2C_Op.17_%28Franck%2C_C%C3%A9sar%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 25

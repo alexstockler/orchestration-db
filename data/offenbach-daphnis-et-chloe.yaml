@@ -1,0 +1,16 @@
+id: offenbach-daphnis-et-chloe
+work:
+  composer: Offenbach, Jacques
+  title: Daphnis et Chloé
+  ids:
+    imslp: Daphnis et Chloé (Offenbach, Jacques)
+  year: 1860
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Daphnis_et_Chlo%C3%A9_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, chorus, orchestra'

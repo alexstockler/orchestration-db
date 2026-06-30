@@ -1,0 +1,50 @@
+id: hindemith-das-unaufhorliche
+work:
+  composer: Hindemith, Paul
+  title: Das Unaufhörliche
+  ids:
+    imslp: Das Unaufhörliche (Hindemith, Paul)
+  year: 1931
+formula: 3[pic.2.3] 2 2 3[1.2.cbn] 3221 tmp+1 org str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 3
+  trumpet: 2
+  trombone: 2
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+    instruments:
+    - cymbals
+    - suspended cymbals
+    - field drum
+    - snare drum
+  keyboards:
+  - instrument: organ
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - baritone
+  - bass Boys Chorus (SA)
+  - Mixed Chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Unaufh%C3%B6rliche_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices :soprano, alto, baritone, bass Boys Chorus (SA),
+    Mixed Chorus (SATB), Orchestra :piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons,
+    contrabassoon (ad.lib.), 3 horns, 2 trumpets, 2 trombones, tuba, timpani, percussion
+    (1 player): cymbals, suspended cymbals, field drum, snare drum, organ* (ad.lib.),
+    strings'
+duration_minutes: 85

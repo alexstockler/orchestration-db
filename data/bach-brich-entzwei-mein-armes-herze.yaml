@@ -1,0 +1,17 @@
+id: bach-brich-entzwei-mein-armes-herze
+work:
+  composer: Bach, Johann Sebastian
+  title: Brich entzwei, mein armes Herze
+  ids:
+    imslp: Brich entzwei, mein armes Herze, BWV 444 (Bach, Johann Sebastian)
+  year: 1736
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Brich_entzwei%2C_mein_armes_Herze%2C_BWV_444_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

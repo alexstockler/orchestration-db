@@ -1,0 +1,18 @@
+id: weber-divertimento
+work:
+  composer: Weber, Carl Maria von
+  title: Divertimento
+  ids:
+    imslp: Divertimento assai facile, Op.38 (Weber, Carl Maria von)
+  year: 1816
+formula: pf gtr
+instrumentation:
+  keyboards:
+  - instrument: piano
+  extras:
+  - instrument: guitar
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Divertimento_assai_facile%2C_Op.38_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: guitar, piano'

@@ -1,0 +1,21 @@
+id: vaughan-williams-household-music
+work:
+  composer: Vaughan Williams, Ralph
+  title: Household Music
+  ids:
+    imslp: Household Music (Vaughan Williams, Ralph)
+  year: 1940
+formula: 0000 1000
+instrumentation:
+  horn:
+  - optional: true
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Household_Music_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: horn (ad lib.), 2 violins, viola, cello'
+duration_minutes: 17

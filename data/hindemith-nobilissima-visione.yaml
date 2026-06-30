@@ -1,0 +1,48 @@
+id: hindemith-nobilissima-visione
+work:
+  composer: Hindemith, Paul
+  title: Nobilissima Visione
+  ids:
+    imslp: Nobilissima Visione (Hindemith, Paul)
+  year: 1938
+formula: 3[1.2/pic.3] 3 4 3 6441 tmp+1 str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  - {}
+  oboe: 3
+  clarinet: 4
+  bassoon: 3
+  horn: 6
+  trumpet: 4
+  trombone: 4
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+    instruments:
+    - snare drum
+    - bass drum
+    - triangle
+    - glockenspiel
+    - suspended cymbal
+    - tambourine
+    - cymbals
+  strings: str
+  additional_raw: Dancers | 5 (or 3?) male dancers | 3 female dancers | dance group
+    | small cymbals | wooden drum | small cymbals | wooden drum
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nobilissima_Visione_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: :Dancers ::5 (or 3?) male dancers, 3 female dancers, dance
+    group :Orchestra (Smaller Version, 1938) ::flute (also piccolo), oboe, 2 clarinets
+    (B/A), bassoon, 2 horns (F), 2 trumpets (C), trombone, timpani, percussion (3
+    players), snare drum, bass drum, small cymbals,, triangle, wooden drum, glockenspiel,
+    strings :Orchestra (Larger Version, 1939) ::2 flutes (2nd also piccolo), 2 oboes,
+    2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani, triangle,
+    small cymbals, suspended cymbal, tambourine, cymbals, wooden drum, snare drum,
+    bass drum, glockenspiel, strings'
+duration_minutes: 50

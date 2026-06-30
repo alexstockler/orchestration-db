@@ -1,0 +1,16 @@
+id: bach-fantasia-and-imitation
+work:
+  composer: Bach, Johann Sebastian
+  title: Fantasia and Imitation
+  ids:
+    imslp: Fantasia and Imitation in B minor, BWV 563 (Bach, Johann Sebastian)
+  year: 1707
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_and_Imitation_in_B_minor%2C_BWV_563_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

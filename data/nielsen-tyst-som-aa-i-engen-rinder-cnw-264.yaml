@@ -1,0 +1,18 @@
+id: nielsen-tyst-som-aa-i-engen-rinder-cnw-264
+work:
+  composer: Nielsen, Carl
+  title: Tyst som Aa i Engen rinder, CNW 264
+  ids:
+    imslp: Tyst som Aa i Engen rinder, CNW 264 (Nielsen, Carl)
+  year: 1923
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tyst_som_Aa_i_Engen_rinder%2C_CNW_264_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

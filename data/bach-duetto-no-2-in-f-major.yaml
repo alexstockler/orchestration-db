@@ -1,0 +1,15 @@
+id: bach-duetto-no-2-in-f-major
+work:
+  composer: Bach, Johann Sebastian
+  title: Duetto No.2 in F major
+  ids:
+    imslp: Duetto No.2 in F major, BWV 803 (Bach, Johann Sebastian)
+  year: 1739
+formula: ''
+instrumentation:
+  additional_raw: keyboard (organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Duetto_No.2_in_F_major%2C_BWV_803_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard (organ)'

@@ -1,0 +1,26 @@
+id: hindemith-herodiade
+work:
+  composer: Hindemith, Paul
+  title: Herodiade
+  ids:
+    imslp: Hérodiade (Hindemith, Paul)
+  year: 1944
+formula: 1111 1000 pf str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 1
+  keyboards:
+  - instrument: piano
+  strings: str
+  soloists:
+  - 'Dancers ::2 female dancers :'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/H%C3%A9rodiade_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Dancers and Orchestra :Dancers ::2 female dancers :Orchestra
+    ::flute, oboe, clarinet, bassoon, horn, piano, strings'
+duration_minutes: 25

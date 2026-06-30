@@ -1,0 +1,17 @@
+id: janacek-predehra
+work:
+  composer: Janáček, Leoš
+  title: Předehra
+  ids:
+    imslp: Předehra, JW 8/2 (Janáček, Leoš)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/P%C5%99edehra%2C_JW_8/2_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 4

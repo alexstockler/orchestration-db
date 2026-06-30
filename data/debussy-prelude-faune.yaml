@@ -1,27 +1,20 @@
 id: debussy-prelude-a-lapres-midi-dun-faune
 work:
-  composer: "Debussy, Claude"
-  title: "Prélude à l'après-midi d'un faune"
+  composer: Debussy, Claude
+  title: Prélude à l'après-midi d'un faune
   year: 1894
   ids:
     wikidata: null
-formula: "3 3[1.2.Eh] 2 2 4000 1perc 2hp str"
+formula: ''
 duration_minutes: 10
 instrumentation:
-  flute: 3
-  oboe:
-    - {}
-    - {}
-    - {instrument: english_horn}
-  clarinet: 2
-  bassoon: 2
-  horn: 4
-  percussion: {players: 1, instruments: [antique_cymbals]}
-  harp: 2
-  strings: str
+  additional_raw: Demonstrates a mixed woodwind block | no timpani | and two harps
+    | English horn modelled as a dedicated 3rd oboe chair | Confirm crotales player
+    count.
 provenance:
   source: score
   confidence: unverified
-  notes: >
-    Demonstrates a mixed woodwind block, no timpani, and two harps. English horn
-    modelled as a dedicated 3rd oboe chair. Confirm crotales player count.
+  notes: 'Demonstrates a mixed woodwind block, no timpani, and two harps. English
+    horn modelled as a dedicated 3rd oboe chair. Confirm crotales player count.
+
+    '

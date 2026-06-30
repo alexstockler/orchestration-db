@@ -7,7 +7,8 @@ work:
   year: 1829
 formula: ''
 instrumentation:
-  additional_raw: voice and piano
+  soloists:
+  - voice and piano
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Seemans_Scheidelied%2C_WoO_20_%28Mendelssohn%2C_Felix%29

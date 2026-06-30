@@ -1,0 +1,15 @@
+id: kodaly-organoedia
+work:
+  composer: Kodály, Zoltán
+  title: Organoedia
+  ids:
+    imslp: Organoedia (Kodály, Zoltán)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Organoedia_%28Kod%C3%A1ly%2C_Zolt%C3%A1n%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

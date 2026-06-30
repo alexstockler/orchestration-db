@@ -9,7 +9,8 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: 2 voices (soprano and tenor)
+  soloists:
+  - 2 voices
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/4_Duets%2C_Op.34_%28Schumann%2C_Robert%29

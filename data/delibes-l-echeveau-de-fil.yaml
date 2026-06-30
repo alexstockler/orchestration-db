@@ -1,0 +1,15 @@
+id: delibes-l-echeveau-de-fil
+work:
+  composer: Delibes, Léo
+  title: L'écheveau de fil
+  ids:
+    imslp: L'écheveau de fil (Delibes, Léo)
+  year: 1874
+formula: ''
+instrumentation:
+  additional_raw: 3 equal voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27%C3%A9cheveau_de_fil_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 equal voices'

@@ -1,0 +1,16 @@
+id: smetana-to-our-girls-jb-1-86
+work:
+  composer: Smetana, Bedřich
+  title: To Our Girls, JB 1:86
+  ids:
+    imslp: Našim děvám, JB 1:86 (Smetana, Bedřich)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Na%C5%A1im_d%C4%9Bv%C3%A1m%2C_JB_1%3A86_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano solo'

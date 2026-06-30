@@ -1,0 +1,18 @@
+id: weber-grand-duo-concertant
+work:
+  composer: Weber, Carl Maria von
+  title: Grand duo concertant
+  ids:
+    imslp: Grand duo concertant, Op.48 (Weber, Carl Maria von)
+  year: 1815
+formula: 0010 0000 pf
+instrumentation:
+  clarinet: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grand_duo_concertant%2C_Op.48_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet (or violin), piano'
+duration_minutes: 20

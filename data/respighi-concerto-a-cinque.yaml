@@ -1,0 +1,23 @@
+id: respighi-concerto-a-cinque
+work:
+  composer: Respighi, Ottorino
+  title: Concerto a cinque
+  ids:
+    imslp: Concerto a cinque, P.174 (Respighi, Ottorino)
+  year: 1933
+formula: 0100 0100 pf str
+instrumentation:
+  oboe: 1
+  trumpet: 1
+  keyboards:
+  - instrument: piano
+  strings: str
+  solo_strings:
+    violin: 1
+    double_bass: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_a_cinque%2C_P.174_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, trumpet, violin, double bass, piano, strings'
+duration_minutes: 18

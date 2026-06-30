@@ -1,0 +1,18 @@
+id: nielsen-4-folk-melodies
+work:
+  composer: Nielsen, Carl
+  title: 4 folk Melodies
+  ids:
+    imslp: 4 Folk Melodies, FS 101 (Nielsen, Carl)
+  year: 1922
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Folk_Melodies%2C_FS_101_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

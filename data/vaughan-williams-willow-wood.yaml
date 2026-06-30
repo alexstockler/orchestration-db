@@ -1,0 +1,16 @@
+id: vaughan-williams-willow-wood
+work:
+  composer: Vaughan Williams, Ralph
+  title: Willow-Wood
+  ids:
+    imslp: Willow-Wood (Vaughan Williams, Ralph)
+  year: 1909
+formula: ''
+instrumentation:
+  chorus_raw: female chorus
+  additional_raw: baritone solo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Willow-Wood_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: baritone solo, female chorus (SA), orchestra'

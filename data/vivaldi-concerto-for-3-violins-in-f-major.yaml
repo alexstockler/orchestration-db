@@ -8,7 +8,9 @@ work:
 formula: str
 instrumentation:
   strings: str
-  additional_raw: 3 violins | continuo
+  solo_strings:
+    violin: 3
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Concerto_for_3_Violins_in_F_major%2C_RV_551_%28Vivaldi%2C_Antonio%29

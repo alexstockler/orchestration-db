@@ -1,0 +1,15 @@
+id: borodin
+work:
+  composer: Borodin, Aleksandr
+  title: Слава Кириллу и Мефодию
+  ids:
+    imslp: Glory to Cyril and Methodius! (Borodin, Aleksandr)
+  year: 1885
+formula: ''
+instrumentation:
+  additional_raw: male chorus a cappella
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Glory_to_Cyril_and_Methodius%21_%28Borodin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus a cappella'

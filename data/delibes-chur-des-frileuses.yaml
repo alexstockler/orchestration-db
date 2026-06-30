@@ -1,0 +1,16 @@
+id: delibes-chur-des-frileuses
+work:
+  composer: Delibes, Léo
+  title: Chœur des frileuses
+  ids:
+    imslp: Chœur des frileuses (Delibes, Léo)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: SA Chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ch%C5%93ur_des_frileuses_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: SA Chorus, Piano'

@@ -1,0 +1,54 @@
+id: bartok-scherzo-for-piano-and-orchestra
+work:
+  composer: Bartók, Béla
+  title: Scherzo for Piano and Orchestra
+  ids:
+    imslp: Scherzo for Piano and Orchestra, Sz.28 (Bartók, Béla)
+  year: 1904
+formula: 4[pic.2.3/pic.4] 3[1.2.Eh] 3[Ebcl.2.3] 4[1.2.3.cbn] 4331 tmp 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - doublings:
+    - piccolo
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - bass drum
+    - triangle
+    - glockenspiel
+    - snare drum
+    - field drum
+    - tam-tam
+  harp: 2
+  strings: str
+  additional_raw: A clarinet
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scherzo_for_Piano_and_Orchestra%2C_Sz.28_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 3 flutes (3rd also piccolo), 2 oboes, English
+    horn, A clarinet, E clarinet, 2 clarinets, 3 bassoons, contrabassoon, 4 horns,
+    3 trumpets, 3 trombones, tuba, timpani, cymbals, bass drum, triangle,, glockenspiel,
+    snare drum, field drum, tam-tam, 2 harps, strings'
+duration_minutes: 30

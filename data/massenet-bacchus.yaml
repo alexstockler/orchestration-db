@@ -1,0 +1,27 @@
+id: massenet-bacchus
+work:
+  composer: Massenet, Jules
+  title: Bacchus
+  ids:
+    imslp: Bacchus (Massenet, Jules)
+  year: 1908
+formula: pf cel 4hp str
+instrumentation:
+  percussion:
+    instruments:
+    - triangle
+    - tambourines
+  keyboards:
+  - instrument: piano
+  - instrument: celesta
+  harp: 4
+  strings: str
+  additional_raw: timbres" | 13 pairs of cymbals (12 small, 1 large) | large drum
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bacchus_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 piccolos, 2 flutes, 2 oboes, English horn, 2 clarinets,
+    bass clarinet, 3 bassoons, 4 horns, 3 trumpets, 4 trombones, tuba, 3 timpani,
+    "timbres", 13 pairs of cymbals (12 small, 1 large), triangle, 12 tambourines,
+    large drum, 4 harps, piano, celesta, strings'

@@ -1,0 +1,17 @@
+id: nielsen-korsets-tegn-og-korsets-ord
+work:
+  composer: Nielsen, Carl
+  title: Korsets Tegn og Korsets Ord
+  ids:
+    imslp: Korsets Tegn og Korsets Ord, CNW 181 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Korsets_Tegn_og_Korsets_Ord%2C_CNW_181_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano (or mixed chorus)'

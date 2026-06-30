@@ -1,0 +1,20 @@
+id: weber-clarinet-quintet
+work:
+  composer: Weber, Carl Maria von
+  title: Clarinet Quintet
+  ids:
+    imslp: Clarinet Quintet, Op.34 (Weber, Carl Maria von)
+  year: 1811
+formula: 0010 0000
+instrumentation:
+  clarinet: 1
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Clarinet_Quintet%2C_Op.34_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, 2 violins, viola, cello'
+duration_minutes: 30

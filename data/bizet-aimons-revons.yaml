@@ -1,0 +1,17 @@
+id: bizet-aimons-revons
+work:
+  composer: Bizet, Georges
+  title: Aimons, rêvons!
+  ids:
+    imslp: Aimons, rêvons! (Bizet, Georges)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aimons%2C_r%C3%AAvons%21_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

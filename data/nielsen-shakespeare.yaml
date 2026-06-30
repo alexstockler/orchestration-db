@@ -1,0 +1,26 @@
+id: nielsen-shakespeare
+work:
+  composer: Nielsen, Carl
+  title: Shakespeare
+  ids:
+    imslp: Shakespeare, CNW 15 (Nielsen, Carl)
+  year: 1916
+formula: 2[1.2/pic] 2 2 2 2210 str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Shakespeare%2C_CNW_15_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes, 2 clarinets, 2 bassoons,
+    2 horns, 2 trumpets, trombone, strings'

@@ -5,10 +5,9 @@ work:
   ids:
     imslp: König Harald Harfagar, Op.59 (Saint-Saëns, Camille)
   year: 1880
-formula: pf pf
+formula: pf
 instrumentation:
   keyboards:
-  - instrument: piano
   - instrument: piano
 provenance:
   source: imslp

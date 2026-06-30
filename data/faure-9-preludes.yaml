@@ -1,0 +1,15 @@
+id: faure-9-preludes
+work:
+  composer: Fauré, Gabriel
+  title: 9 Préludes
+  ids:
+    imslp: 9 Préludes, Op.103 (Fauré, Gabriel)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/9_Pr%C3%A9ludes%2C_Op.103_%28Faur%C3%A9%2C_Gabriel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

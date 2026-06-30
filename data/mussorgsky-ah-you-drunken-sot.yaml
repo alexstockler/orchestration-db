@@ -1,0 +1,18 @@
+id: mussorgsky-ah-you-drunken-sot
+work:
+  composer: Mussorgsky, Modest
+  title: Ah, You Drunken Sot
+  ids:
+    imslp: Ah, You Drunken Sot (Mussorgsky, Modest)
+  year: 1866
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ah%2C_You_Drunken_Sot_%28Mussorgsky%2C_Modest%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

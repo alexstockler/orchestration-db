@@ -1,0 +1,15 @@
+id: gounod-ulysse
+work:
+  composer: Gounod, Charles
+  title: Ulysse
+  ids:
+    imslp: Ulysse, CG 26 (Gounod, Charles)
+  year: 1851
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ulysse%2C_CG_26_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus, orchestra'

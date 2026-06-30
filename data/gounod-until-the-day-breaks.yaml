@@ -1,0 +1,18 @@
+id: gounod-until-the-day-breaks
+work:
+  composer: Gounod, Charles
+  title: Until the Day Breaks
+  ids:
+    imslp: Until the Day Breaks, CG 466 (Gounod, Charles)
+  year: 1886
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Until_the_Day_Breaks%2C_CG_466_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

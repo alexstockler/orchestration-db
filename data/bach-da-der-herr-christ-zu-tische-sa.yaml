@@ -1,0 +1,15 @@
+id: bach-da-der-herr-christ-zu-tische-sa
+work:
+  composer: Bach, Johann Sebastian
+  title: Da der Herr Christ zu Tische saß
+  ids:
+    imslp: Da der Herr Christ zu Tische saß, BWV 285 (Bach, Johann Sebastian)
+  year: 1725
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Da_der_Herr_Christ_zu_Tische_sa%C3%9F%2C_BWV_285_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

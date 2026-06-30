@@ -1,0 +1,15 @@
+id: holst-lullay-my-liking
+work:
+  composer: Holst, Gustav
+  title: Lullay My Liking
+  ids:
+    imslp: Lullay My Liking, Op.34 No.2 (Holst, Gustav)
+  year: 1916
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lullay_My_Liking%2C_Op.34_No.2_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

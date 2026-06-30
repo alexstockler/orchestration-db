@@ -1,0 +1,18 @@
+id: nielsen-2-spiritual-songs
+work:
+  composer: Nielsen, Carl
+  title: 2 Spiritual Songs
+  ids:
+    imslp: 2 Spiritual Songs, FS 92 (Nielsen, Carl)
+  year: 1917
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Spiritual_Songs%2C_FS_92_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

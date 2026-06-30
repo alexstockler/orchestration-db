@@ -1,0 +1,18 @@
+id: nielsen-julesang-himlen-mrkner-stor-og-stum
+work:
+  composer: Nielsen, Carl
+  title: Julesang (Himlen mørkner stor og stum)
+  ids:
+    imslp: Julesang, CNW 313 (Nielsen, Carl)
+  year: 1923
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Julesang%2C_CNW_313_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

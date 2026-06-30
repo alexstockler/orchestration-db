@@ -1,0 +1,18 @@
+id: nielsen-i-maneskin-titter
+work:
+  composer: Nielsen, Carl
+  title: I Måneskin titter
+  ids:
+    imslp: I Måneskin titter, CNW 340 (Nielsen, Carl)
+  year: 1913
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: 2 mixed choruses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/I_M%C3%A5neskin_titter%2C_CNW_340_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: children''s chorus (SSAA), 2 mixed choruses (SSAATTBB),
+    piano'

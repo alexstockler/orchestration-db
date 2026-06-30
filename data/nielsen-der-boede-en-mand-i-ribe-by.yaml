@@ -1,0 +1,17 @@
+id: nielsen-der-boede-en-mand-i-ribe-by
+work:
+  composer: Nielsen, Carl
+  title: Der boede en Mand i Ribe By
+  ids:
+    imslp: Der boede en Mand i Ribe By, CNW 224 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_boede_en_Mand_i_Ribe_By%2C_CNW_224_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

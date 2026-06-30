@@ -1,0 +1,17 @@
+id: delibes-lecon-a-dechiffrer-pour-la-contrebasse
+work:
+  composer: Delibes, Léo
+  title: Leçon à déchiffrer pour la contrebasse
+  ids:
+    imslp: Leçon à déchiffrer pour la contrebasse (Delibes, Léo)
+  year: 1884
+formula: ''
+instrumentation:
+  solo_strings:
+    double_bass: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le%C3%A7on_%C3%A0_d%C3%A9chiffrer_pour_la_contrebasse_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: double bass, cello'

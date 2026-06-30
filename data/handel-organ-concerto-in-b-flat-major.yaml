@@ -8,7 +8,8 @@ work:
 formula: 0201 0000 str
 instrumentation:
   oboe: 2
-  bassoon: 1
+  bassoon:
+  - optional: true
   strings: str
   soloists:
   - organ

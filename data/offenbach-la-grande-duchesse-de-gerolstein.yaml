@@ -1,0 +1,60 @@
+id: offenbach-la-grande-duchesse-de-gerolstein
+work:
+  composer: Offenbach, Jacques
+  title: La grande-duchesse de Gérolstein
+  ids:
+    imslp: La grande-duchesse de Gérolstein (Offenbach, Jacques)
+  year: 1867
+formula: 2[pic.2] 2 2 2 4230 1perc str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    players: 1
+  strings: str
+  soloists:
+  - Grand Duchess (mezzo-soprano)
+  - Fritz (tenor)
+  - Wanda (soprano)
+  - General Boum (baritone)
+  - Prince Paul (tenor)
+  - Baron Puck (bass)
+  - Baron Grog (bass)
+  - Népomuc
+  - an aide-de-camp (tenor)
+  - Iza
+  - a maid of honor (soprano)
+  - Amélie
+  - a maid of honor (mezzo-soprano)
+  - Olga
+  - a maid of honor (soprano)
+  - Charlotte
+  - a maid of honor (mezzo-soprano) Chorus :Officers
+  - Soldiers
+  - Musiciens
+  - Drummers
+  - Peasants
+  - Cantinières
+  - Maids of Honour
+  - Courtiers
+  - Pages
+  - Bailiffs
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_grande-duchesse_de_G%C3%A9rolstein_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Grand Duchess (mezzo-soprano), Fritz (tenor), Wanda
+    (soprano), General Boum (baritone), Prince Paul (tenor), Baron Puck (bass), Baron
+    Grog (bass), Népomuc, an aide-de-camp (tenor), Iza, a maid of honor (soprano),
+    Amélie, a maid of honor (mezzo-soprano), Olga, a maid of honor (soprano), Charlotte,
+    a maid of honor (mezzo-soprano) Chorus :Officers, Soldiers, Musiciens, Drummers,
+    Peasants,, Cantinières, Maids of Honour, Courtiers, Pages, Bailiffs Orchestra
+    :piccolo, flute, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones,
+    percussion (timpani/snare drum, timpani/bass drum), strings'

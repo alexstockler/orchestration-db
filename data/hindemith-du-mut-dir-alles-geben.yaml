@@ -1,0 +1,16 @@
+id: hindemith-du-mut-dir-alles-geben
+work:
+  composer: Hindemith, Paul
+  title: Du mußt dir Alles geben
+  ids:
+    imslp: Du mußt dir Alles geben (Hindemith, Paul)
+  year: 1930
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Du_mu%C3%9Ft_dir_Alles_geben_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'
+duration_minutes: 2

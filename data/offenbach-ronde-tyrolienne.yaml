@@ -1,0 +1,18 @@
+id: offenbach-ronde-tyrolienne
+work:
+  composer: Offenbach, Jacques
+  title: Ronde tyrolienne
+  ids:
+    imslp: Ronde tyrolienne (Offenbach, Jacques)
+formula: 0100 0000 pf
+instrumentation:
+  oboe: 1
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ronde_tyrolienne_%28Offenbach%2C_Jacques%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, oboe, piano'

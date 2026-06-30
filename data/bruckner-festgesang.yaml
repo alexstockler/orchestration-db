@@ -12,7 +12,8 @@ instrumentation:
   soloists:
   - soprano
   - tenor
-  additional_raw: bass + mixed chorus (SATB)
+  - bass
+  chorus_raw: mixed chorus
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Festgesang%2C_WAB_15_%28Bruckner%2C_Anton%29

@@ -9,7 +9,10 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: 1-2 voice(s) | violin | cello
+  solo_strings:
+    violin: 1
+    cello: 1
+  additional_raw: 1-2 voice(s)
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/26_Welsh_Songs%2C_WoO_155_%28Beethoven%2C_Ludwig_van%29

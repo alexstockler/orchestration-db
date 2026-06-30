@@ -1,0 +1,16 @@
+id: massenet-apollon-aux-muses
+work:
+  composer: Massenet, Jules
+  title: Apollon aux muses
+  ids:
+    imslp: Apollon aux muses (Massenet, Jules)
+formula: ''
+instrumentation:
+  additional_raw: tenor voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Apollon_aux_muses_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor voice, orchestra (2 flutes +piccolo, 2 oboes, 2 clarinets
+    in B, 2 bassoons, 2 horns in E, 2 horns in F, 2 trumpets in F, 3 trombones, tuba,
+    timpani, harp, percussion, organ, strings)'

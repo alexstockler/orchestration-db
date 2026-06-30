@@ -1,0 +1,19 @@
+id: hindemith-das-marienleben
+work:
+  composer: Hindemith, Paul
+  title: Das Marienleben
+  ids:
+    imslp: Das Marienleben, Op.27 (Hindemith, Paul)
+  year: 1922
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Marienleben%2C_Op.27_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, piano'
+duration_minutes: 30

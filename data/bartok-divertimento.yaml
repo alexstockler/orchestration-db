@@ -1,0 +1,16 @@
+id: bartok-divertimento
+work:
+  composer: Bartók, Béla
+  title: Divertimento
+  ids:
+    imslp: Divertimento, Sz.113 (Bartók, Béla)
+  year: 1939
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Divertimento%2C_Sz.113_%28Bart%C3%B3k%2C_B%C3%A9la%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'
+duration_minutes: 22

@@ -1,0 +1,51 @@
+id: holst-second-suite-for-military-band
+work:
+  composer: Holst, Gustav
+  title: Second Suite for Military Band
+  ids:
+    imslp: Second Suite for Military Band, Op.28 No.2 (Holst, Gustav)
+  year: 1911
+formula: 2[pic.2] 1 5[Ebcl.2.3.4.bcl] 2 8 2[cnt.cnt] 3 2[euph.2]
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 1
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 2
+  horn: 8
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  tuba:
+  - instrument: euphonium
+  - {}
+  percussion:
+    instruments:
+    - triangle
+    - cymbals
+    - bass drum
+    - tambourine
+    - anvil
+  saxophones:
+  - instrument: alto_sax
+    count: 2
+  - instrument: tenor_sax
+    count: 1
+  - instrument: baritone_sax
+    count: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Second_Suite_for_Military_Band%2C_Op.28_No.2_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, flute, oboe, E clarinet, 3 clarinets, bass clarinet,
+    2 bassoons, 2 alto saxophones, tenor saxophone, baritone saxophone, 4 horns, 2
+    cornets, 4 horns, 3 trombones, euphonium, tuba, triangle, cymbals, bass drum,
+    tambourine, anvil'
+duration_minutes: 13

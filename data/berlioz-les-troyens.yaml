@@ -1,0 +1,133 @@
+id: berlioz-les-troyens
+work:
+  composer: Berlioz, Hector
+  title: Les Troyens
+  ids:
+    imslp: Les Troyens, H 133 (Berlioz, Hector)
+  year: 1856
+formula: 3[pic.2/pic.3] 5[1.2/Eh.3.4.5] 2[1.2/bcl] 4 4 8[1.2.cnt.cnt.5.6.cnt.cnt]
+  6 0 tmp hp ophicleide ophicleide str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - doublings:
+    - piccolo
+  - {}
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  - {}
+  - {}
+  - {}
+  clarinet:
+  - {}
+  - doublings:
+    - bass_clarinet
+  bassoon: 4
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 6
+  percussion:
+    timpani: 1
+    instruments:
+    - triangles
+    - bass drum
+    - cymbals
+    - military drum
+    - tenor drum
+    - crotales
+    - tam-tam
+  harp: 1
+  extras:
+  - instrument: ophicleide
+  - instrument: ophicleide
+  strings: str
+  soloists:
+  - Cassandre (mezzo-soprano)
+  - prophétesse troyenne
+  - fille de Priam et fiancée de Chorèbe
+  - Didon (mezzo-soprano)
+  - reine de Carthage
+  - veuve de Sichée prince de Tyr
+  - Anna (contralto)
+  - sœur de Didon
+  - Énée (ténor)
+  - héros troyen
+  - fils de Venus et d’Anchise
+  - Chorèbe (baryton)
+  - jeune prince d’Asie
+  - fiancé de Cassandre
+  - Ascagne (soprano)
+  - jeune fils d’Énée (15 ans)
+  - Panthée (basse)
+  - prêtre troyen
+  - ami d’Énée
+  - Iopas (ténor)
+  - poète tyrien de la cour de Didon
+  - Narbal (basse)
+  - ministre de Didon Coryphées :Polyxène (soprano)
+  - sœur de Cassandre
+  - Hécube (soprano)
+  - reine des Troyens
+  - Priam (basse)
+  - roi des Troyens
+  - Hélénus (ténor)
+  - prêtre troyen
+  - fils de Priam
+  - L’Ombre d’Hector (basse)
+  - héros troyen
+  - fils de Priam
+  - Hylas (ténor ou contralto)
+  - jeune matelot phrygien
+  - Un Chef Grec (basse)
+  - Deux Soldats Troyens (basses)
+  - Le Dieu Mercure (baryton ou basse)
+  - Un Prêtre de Pluton (basse) Personnages muets (silent roles) :Andromaque
+  - veuve d’Hector
+  - Asyanax
+  - son fils (8 ans) Chœurs (mixed chorus) :Troyens
+  - Grecs
+  - Tyriens
+  - et Carthaginois
+  - Nymphes
+  - Satyres
+  - Faunes et Sylvaines
+  - Ombres Invisibles (Il faut une certaine de choristes surnuméraires)
+  additional_raw: provencal drum | 6–8 harps | sistrum | tarbuka ' | 9 saxhorns (sopranino,
+    2 soprano, 2 alto, 2-4 tenor, 2 contrabass) | 2 pairs of timpani | multiple cymbals
+    | thunder effect
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_Troyens%2C_H_133_%28Berlioz%2C_Hector%29
+  confidence: single_source
+  notes: 'Instrumentation: Personnages (major roles) :Cassandre (mezzo-soprano), prophétesse
+    troyenne, fille de Priam et fiancée de Chorèbe, Didon (mezzo-soprano), reine de
+    Carthage, veuve de Sichée prince de Tyr, Anna (contralto), sœur de Didon, Énée
+    (ténor), héros troyen, fils de Venus et d’Anchise, Chorèbe (baryton), jeune prince
+    d’Asie, fiancé de Cassandre, Ascagne (soprano), jeune fils d’Énée (15 ans), Panthée
+    (basse), prêtre troyen, ami d’Énée, Iopas (ténor), poète tyrien de la cour de
+    Didon, Narbal (basse), ministre de Didon Coryphées :Polyxène (soprano), sœur de
+    Cassandre, Hécube (soprano), reine des Troyens, Priam (basse), roi des Troyens,
+    Hélénus (ténor), prêtre troyen, fils de Priam, L’Ombre d’Hector (basse), héros
+    troyen, fils de Priam, Hylas (ténor ou contralto), jeune matelot phrygien, Un
+    Chef Grec (basse), Deux Soldats Troyens (basses), Le Dieu Mercure (baryton ou
+    basse), Un Prêtre de Pluton (basse) Personnages muets (silent roles) :Andromaque,
+    veuve d’Hector, Asyanax, son fils (8 ans) Chœurs (mixed chorus) :Troyens, Grecs,
+    Tyriens, et Carthaginois, Nymphes, Satyres, Faunes et Sylvaines, Ombres Invisibles
+    (Il faut une certaine de choristes surnuméraires) Orchestra :piccolo, 2 flutes
+    (2nd also piccolo), 2 oboes (2nd also English horn), ::2 clarinets (2nd also bass
+    clarinet), 4 bassoons :4 horns, 2 trumpets, 2 cornets, 3 trombones, ophicleïde
+    (tuba) :timpani, triangles, bass drum, cymbals, military drum, tenor drum,, provencal
+    drum, crotales, 6–8 harps, strings '' :sistrum, tarbuka '' :3 oboes, 2 trumpets,
+    2 cornets, 3 trombones, ophicleïde, 9 saxhorns (sopranino, 2 soprano, 2 alto,
+    2-4 tenor, 2 contrabass), 2 pairs of timpani, multiple cymbals, thunder effect,
+    tam-tam, harps'

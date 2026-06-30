@@ -1,0 +1,18 @@
+id: glazunov-in-modo-religioso
+work:
+  composer: Glazunov, Aleksandr
+  title: In Modo Religioso
+  ids:
+    imslp: In modo religioso, Op.38 (Glazunov, Aleksandr)
+  year: 1892
+formula: 0000 1120
+instrumentation:
+  horn: 1
+  trumpet: 1
+  trombone: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_modo_religioso%2C_Op.38_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: horn, trumpet, 2 trombones'
+duration_minutes: 4

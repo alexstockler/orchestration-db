@@ -1,0 +1,15 @@
+id: massenet-cleopatre
+work:
+  composer: Massenet, Jules
+  title: Cléopâtre
+  ids:
+    imslp: Cléopâtre (Massenet, Jules)
+  year: 1914
+formula: ''
+instrumentation:
+  additional_raw: Soloists and orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cl%C3%A9op%C3%A2tre_%28Massenet%2C_Jules%29
+  confidence: single_source
+  notes: 'Instrumentation: Soloists and orchestra'

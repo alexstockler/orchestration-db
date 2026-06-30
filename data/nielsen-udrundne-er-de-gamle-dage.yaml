@@ -1,0 +1,17 @@
+id: nielsen-udrundne-er-de-gamle-dage
+work:
+  composer: Nielsen, Carl
+  title: Udrundne er de gamle dage
+  ids:
+    imslp: Udrundne er de gamle dage, CNW 253 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Udrundne_er_de_gamle_dage%2C_CNW_253_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

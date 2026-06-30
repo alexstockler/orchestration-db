@@ -1,0 +1,17 @@
+id: nielsen-mit-hjem-hvor-mine-fdres-fjed
+work:
+  composer: Nielsen, Carl
+  title: Mit hjem, hvor mine fædres fjed
+  ids:
+    imslp: Mit hjem, hvor mine fædres fjed, CNW 322 (Nielsen, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mit_hjem%2C_hvor_mine_f%C3%A6dres_fjed%2C_CNW_322_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,18 @@
+id: janacek-6-folk-songs-jw-5-9
+work:
+  composer: Janáček, Leoš
+  title: 6 Folk Songs, JW 5/9
+  ids:
+    imslp: 6 Folk Songs, JW 5/9 (Janáček, Leoš)
+  year: 1909
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Folk_Songs%2C_JW_5/9_%28Jan%C3%A1%C4%8Dek%2C_Leo%C5%A1%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano (arranged)'

@@ -6,7 +6,10 @@ work:
     imslp: Baryton Trio in A major, Hob.XI:4 (Haydn, Joseph)
 formula: ''
 instrumentation:
-  additional_raw: baryton | viola | cello
+  solo_strings:
+    viola: 1
+    cello: 1
+  additional_raw: baryton
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Baryton_Trio_in_A_major%2C_Hob.XI%3A4_%28Haydn%2C_Joseph%29

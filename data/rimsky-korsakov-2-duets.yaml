@@ -9,7 +9,8 @@ formula: pf
 instrumentation:
   keyboards:
   - instrument: piano
-  additional_raw: 2 voices
+  soloists:
+  - 2 voices
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/2_Duets%2C_Op.52_%28Rimsky-Korsakov%2C_Nikolay%29

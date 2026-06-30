@@ -1,0 +1,26 @@
+id: gounod-messe-a-la-memoire-de-jeanne-darc
+work:
+  composer: Gounod, Charles
+  title: Messe à la mémoire de Jeanne d’Arc
+  ids:
+    imslp: Messe à la mémoire de Jeanne d'Arc, CG 74 (Gounod, Charles)
+  year: 1887
+formula: 0000 0830 org
+instrumentation:
+  trumpet: 8
+  trombone: 3
+  keyboards:
+  - instrument: organ
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  - 4 voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Messe_%C3%A0_la_m%C3%A9moire_de_Jeanne_d%27Arc%2C_CG_74_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass; mixed chorus (SATB), 4 voices,
+    8 trumpets, 3 trombones, organ'

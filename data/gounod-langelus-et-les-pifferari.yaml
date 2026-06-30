@@ -1,0 +1,14 @@
+id: gounod-langelus-et-les-pifferari
+work:
+  composer: Gounod, Charles
+  title: L’Angélus et les Pifferari
+  ids:
+    imslp: L'angélus et les pifferari (Gounod, Charles)
+formula: ''
+instrumentation:
+  additional_raw: piano solo and piano 4-hands
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27ang%C3%A9lus_et_les_pifferari_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: piano solo and piano 4-hands'

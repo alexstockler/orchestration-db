@@ -1,0 +1,17 @@
+id: smetana-bettina-polka
+work:
+  composer: Smetana, Bedřich
+  title: Bettina Polka
+  ids:
+    imslp: Bettina Polka, JB 1:74 (Smetana, Bedřich)
+  year: 1859
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bettina_Polka%2C_JB_1%3A74_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'
+duration_minutes: 3

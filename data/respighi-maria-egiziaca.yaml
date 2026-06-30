@@ -1,0 +1,34 @@
+id: respighi-maria-egiziaca
+work:
+  composer: Respighi, Ottorino
+  title: Maria Egiziaca
+  ids:
+    imslp: Maria egiziaca (Respighi, Ottorino)
+  year: 1931
+formula: 1121 2120 hpd str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 2
+  bassoon: 1
+  horn: 2
+  trumpet: 1
+  trombone: 2
+  keyboards:
+  - instrument: harpsichord
+  strings: str
+  soloists:
+  - Maria (soprano)
+  - Abbate Zosimo (Abbot Zosima)/Pilgrim (baritone)
+  - Sailor (tenor)
+  - The leper (tenor)
+  - Second companion/Poor man (contralto)
+  - First companion/Blind woman/Voice of an angel (soprano)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Maria_egiziaca_%28Respighi%2C_Ottorino%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Maria (soprano), Abbate Zosimo (Abbot Zosima)/Pilgrim
+    (baritone), Sailor (tenor), The leper (tenor), Second companion/Poor man (contralto),
+    First companion/Blind woman/Voice of an angel (soprano) Orchestra :flute, oboe,
+    2 clarinets, bassoon, 2 horns, trumpet, 2 trombones, harpsichord (or piano), strings'

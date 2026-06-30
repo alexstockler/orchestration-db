@@ -1,0 +1,16 @@
+id: hindemith-mass
+work:
+  composer: Hindemith, Paul
+  title: Mass
+  ids:
+    imslp: Messe (Hindemith, Paul)
+  year: 1963
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Messe_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 20

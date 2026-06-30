@@ -1,0 +1,16 @@
+id: nielsen-edderkoppens-sang
+work:
+  composer: Nielsen, Carl
+  title: Edderkoppens sang
+  ids:
+    imslp: Edderkoppens sang, FS 27 (Nielsen, Carl)
+  year: 1899
+formula: ''
+instrumentation:
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Edderkoppens_sang%2C_FS_27_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Female chorus (SSA)'
+duration_minutes: 1

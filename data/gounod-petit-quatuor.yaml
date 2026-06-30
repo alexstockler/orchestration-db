@@ -1,0 +1,18 @@
+id: gounod-petit-quatuor
+work:
+  composer: Gounod, Charles
+  title: Petit quatuor
+  ids:
+    imslp: Petit quatuor (Gounod, Charles)
+  year: 1885
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Petit_quatuor_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

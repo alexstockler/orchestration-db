@@ -1,0 +1,20 @@
+id: gounod-petite-symphonie
+work:
+  composer: Gounod, Charles
+  title: Petite symphonie
+  ids:
+    imslp: Petite symphonie, CG 560 (Gounod, Charles)
+  year: 1885
+formula: 1222 2000
+instrumentation:
+  flute: 1
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Petite_symphonie%2C_CG_560_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, 2 oboes, 2 clarinets, 2 bassoons, 2 horns'
+duration_minutes: 20

@@ -1,0 +1,18 @@
+id: gounod-the-arrow-and-the-song
+work:
+  composer: Gounod, Charles
+  title: The Arrow and the Song
+  ids:
+    imslp: The Arrow and the Song, CG 447 (Gounod, Charles)
+  year: 1885
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Arrow_and_the_Song%2C_CG_447_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

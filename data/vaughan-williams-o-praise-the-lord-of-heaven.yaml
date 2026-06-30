@@ -1,0 +1,15 @@
+id: vaughan-williams-o-praise-the-lord-of-heaven
+work:
+  composer: Vaughan Williams, Ralph
+  title: O Praise the Lord of Heaven
+  ids:
+    imslp: O Praise the Lord of Heaven (Vaughan Williams, Ralph)
+  year: 1913
+formula: ''
+instrumentation:
+  additional_raw: semi-chorus (SATB) | 2 choruses (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_Praise_the_Lord_of_Heaven_%28Vaughan_Williams%2C_Ralph%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: semi-chorus (SATB) + 2 choruses (SATB)'

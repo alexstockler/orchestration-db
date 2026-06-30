@@ -6,7 +6,10 @@ work:
     imslp: Trio Sonata in G major, RV 820 (Vivaldi, Antonio)
 formula: ''
 instrumentation:
-  additional_raw: violin | cello | continuo
+  solo_strings:
+    violin: 1
+    cello: 1
+  additional_raw: continuo
 provenance:
   source: imslp
   source_url: https://imslp.org/wiki/Trio_Sonata_in_G_major%2C_RV_820_%28Vivaldi%2C_Antonio%29

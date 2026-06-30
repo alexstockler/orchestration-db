@@ -1,0 +1,17 @@
+id: hindemith-organ-sonata-no-3
+work:
+  composer: Hindemith, Paul
+  title: Organ Sonata No.3
+  ids:
+    imslp: Organ Sonata No.3 (Hindemith, Paul)
+  year: 1940
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Organ_Sonata_No.3_%28Hindemith%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 10

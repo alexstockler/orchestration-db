@@ -1,0 +1,18 @@
+id: nielsen-i-klende-skygger
+work:
+  composer: Nielsen, Carl
+  title: I kølende Skygger
+  ids:
+    imslp: I kølende Skygger, CNW 399 (Nielsen, Carl)
+  year: 1926
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/I_k%C3%B8lende_Skygger%2C_CNW_399_%28Nielsen%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

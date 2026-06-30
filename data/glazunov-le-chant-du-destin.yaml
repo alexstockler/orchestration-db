@@ -1,0 +1,44 @@
+id: glazunov-le-chant-du-destin
+work:
+  composer: Glazunov, Aleksandr
+  title: Le chant du destin
+  ids:
+    imslp: Le chant du destin, Op.84 (Glazunov, Aleksandr)
+  year: 1908
+formula: 3[1.2.3/pic] 3[1.2.Eh] 3[1.2.3/bcl] 3[1.2.cbn] 4431 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - doublings:
+    - bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 4
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  harp: 1
+  strings: str
+  additional_raw: contralto trumpet
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_chant_du_destin%2C_Op.84_%28Glazunov%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 2 oboes, English horn,, 3
+    clarinets (3rd also bass clarinet), 2 bassoons, contrabassoon, 4 horns, 2 trumpets
+    (B), 2 trumpets, contralto trumpet, 3 trombones, tuba, timpani, harp, strings'
+duration_minutes: 15

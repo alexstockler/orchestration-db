@@ -1,0 +1,16 @@
+id: smetana-6-preludes
+work:
+  composer: Smetana, Bedřich
+  title: 6 Preludes
+  ids:
+    imslp: 6 Preludes, JB 1:30 (Smetana, Bedřich)
+  year: 1846
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Preludes%2C_JB_1%3A30_%28Smetana%2C_Bed%C5%99ich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

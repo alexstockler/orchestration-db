@@ -1,0 +1,16 @@
+id: gounod-gavotte
+work:
+  composer: Gounod, Charles
+  title: Gavotte
+  ids:
+    imslp: Gavotte, CG 578 (Gounod, Charles)
+  year: 1895
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gavotte%2C_CG_578_%28Gounod%2C_Charles%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

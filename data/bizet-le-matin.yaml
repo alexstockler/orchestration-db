@@ -1,0 +1,18 @@
+id: bizet-le-matin
+work:
+  composer: Bizet, Georges
+  title: Le matin
+  ids:
+    imslp: Le matin (Bizet, Georges)
+  year: 1873
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_matin_%28Bizet%2C_Georges%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,16 @@
+id: weber-landlicher-tanz
+work:
+  composer: Weber, Carl Maria von
+  title: Ländlicher Tanz
+  ids:
+    imslp: Ländlicher Tanz (Weber, Carl Maria von)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%C3%A4ndlicher_Tanz_%28Weber%2C_Carl_Maria_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: violin, Orchestra: strings'

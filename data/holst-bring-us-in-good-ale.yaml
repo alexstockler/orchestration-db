@@ -1,0 +1,16 @@
+id: holst-bring-us-in-good-ale
+work:
+  composer: Holst, Gustav
+  title: Bring us in good ale
+  ids:
+    imslp: Bring us in good ale, Op.34 No.4 (Holst, Gustav)
+  year: 1916
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bring_us_in_good_ale%2C_Op.34_No.4_%28Holst%2C_Gustav%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 1

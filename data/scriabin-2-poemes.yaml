@@ -1,0 +1,16 @@
+id: scriabin-2-poemes
+work:
+  composer: Scriabin, Aleksandr
+  title: 2 Poemes
+  ids:
+    imslp: 2 Poèmes, Op.44 (Scriabin, Aleksandr)
+  year: 1905
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Po%C3%A8mes%2C_Op.44_%28Scriabin%2C_Aleksandr%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

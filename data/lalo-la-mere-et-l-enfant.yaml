@@ -1,0 +1,16 @@
+id: lalo-la-mere-et-l-enfant
+work:
+  composer: Lalo, Édouard
+  title: La mère et l'enfant
+  ids:
+    imslp: La mère et l'enfant, Op.32 (Lalo, Édouard)
+  year: 1873
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_m%C3%A8re_et_l%27enfant%2C_Op.32_%28Lalo%2C_%C3%89douard%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4 hands'

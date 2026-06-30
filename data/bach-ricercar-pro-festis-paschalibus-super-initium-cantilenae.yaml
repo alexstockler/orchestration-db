@@ -1,0 +1,16 @@
+id: bach-ricercar-pro-festis-paschalibus-super-initium-cantilenae
+work:
+  composer: Bach, Johann Sebastian
+  title: Ricercar pro Festis Paschalibus super Initium Cantilenae
+  ids:
+    imslp: Christ ist erstanden, BWV 746 (Bach, Johann Sebastian)
+  year: 1702
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Christ_ist_erstanden%2C_BWV_746_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

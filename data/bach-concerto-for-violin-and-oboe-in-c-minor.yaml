@@ -1,0 +1,20 @@
+id: bach-concerto-for-violin-and-oboe-in-c-minor
+work:
+  composer: Bach, Johann Sebastian
+  title: Concerto for Violin and Oboe in C minor
+  ids:
+    imslp: Concerto for Violin and Oboe in C minor, BWV 1060R (Bach, Johann Sebastian)
+  year: 1736
+formula: 0100 0000 str
+instrumentation:
+  oboe: 1
+  strings: str
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_Violin_and_Oboe_in_C_minor%2C_BWV_1060R_%28Bach%2C_Johann_Sebastian%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, violin, strings, continuo'
+duration_minutes: 14

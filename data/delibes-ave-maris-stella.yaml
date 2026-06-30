@@ -1,0 +1,17 @@
+id: delibes-ave-maris-stella
+work:
+  composer: Delibes, Léo
+  title: Ave maris stella
+  ids:
+    imslp: Ave maris stella (Delibes, Léo)
+  year: 1891
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 2 female voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_maris_stella_%28Delibes%2C_L%C3%A9o%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 female voices, piano'
