@@ -1,0 +1,17 @@
+id: adam-la-poupee-de-nuremberg
+work:
+  composer: Adam, Adolphe
+  title: La poupée de Nuremberg
+  ids:
+    imslp: La poupée de Nuremberg (Adam, Adolphe)
+  year: 1852
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_poup%C3%A9e_de_Nuremberg_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

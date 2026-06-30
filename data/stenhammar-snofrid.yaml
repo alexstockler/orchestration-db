@@ -1,0 +1,39 @@
+id: stenhammar-snofrid
+work:
+  composer: Stenhammar, Wilhelm
+  title: Snöfrid
+  ids:
+    imslp: Snöfrid, Op.5 (Stenhammar, Wilhelm)
+  year: 1891
+formula: 3[pic.2.3] 2 2 2 4230 tmp hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+  harp: 1
+  strings: str
+  soloists:
+  - soprano
+  - mezzo soprano (Snöfrid)
+  - tenor (Gunnar) :Mixed Chorus (SSAATTBB)
+  - Male Chorus (TTBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sn%C3%B6frid%2C_Op.5_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Voices ::soprano, mezzo soprano
+    (Snöfrid), tenor (Gunnar) :Mixed Chorus (SSAATTBB), Male Chorus (TTBB), Orchestra:
+    :piccolo, 2 flutes, 2 oboes, 2 clarinets (A), 2 bassoons, 4 horns (F), 2 trumpets
+    (F), 3 trombones, timpani, cymbals, harp, strings'
+duration_minutes: 20

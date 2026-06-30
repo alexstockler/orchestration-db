@@ -1,0 +1,19 @@
+id: lully-isis
+work:
+  composer: Lully, Jean-Baptiste
+  title: Isis
+  ids:
+    imslp: Isis, LWV 54 (Lully, Jean-Baptiste)
+  year: 1676
+formula: ''
+instrumentation:
+  additional_raw: solo voices | Chœur | Sol 2 | Ut 3 | Ut 4 | Fa 4 (prologue) . -
+    Chœur | Ut 1 | Ut 3 | Ut 4 | Fa 4 (tragédie). - Orchestre | Sol 1 | Ut 1 | Ut
+    2 | Ut 3 | Fa 4. - Mentions d'instrumentation sous la musique | trompettes | violons
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Isis%2C_LWV_54_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: solo voices, Chœur : Sol 2, Ut 3, Ut 4, Fa 4 (prologue)
+    . - Chœur : Ut 1, Ut 3, Ut 4, Fa 4 (tragédie). - Orchestre : Sol 1, Ut 1, Ut 2,
+    Ut 3, Fa 4. - Mentions d''instrumentation sous la musique : trompettes, violons'

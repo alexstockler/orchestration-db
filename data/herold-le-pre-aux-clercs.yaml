@@ -1,0 +1,55 @@
+id: herold-le-pre-aux-clercs
+work:
+  composer: Hérold, Ferdinand
+  title: Le pré aux clercs
+  ids:
+    imslp: Le pré aux clercs (Hérold, Ferdinand)
+  year: 1832
+formula: 2[pic.2] 2 2 2 4230 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - drum
+    - triangle
+    - bass drum
+    - cymbals
+  strings: str
+  soloists:
+  - Marguerite de Valois (mezzo-soprano)
+  - Isabelle Montal (soprano)
+  - Nicette (soprano)
+  - Baron de Mergy (tenor)
+  - Comte de Comminges (baritone)
+  - Cantarelli (baritone)
+  - Girot (bass)
+  - Un exempt du guet (bass)
+  - Three archers
+  - An officer Mixed Chorus :Guards
+  - officers
+  - light horsemen
+  - courtiers
+  - archers
+  - masques
+  - people
+  - dancers
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_pr%C3%A9_aux_clercs_%28H%C3%A9rold%2C_Ferdinand%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Marguerite de Valois (mezzo-soprano), Isabelle Montal
+    (soprano), Nicette (soprano), Baron de Mergy (tenor), Comte de Comminges (baritone),
+    Cantarelli (baritone), Girot (bass), Un exempt du guet (bass), Three archers,
+    An officer Mixed Chorus :Guards, officers, light horsemen, courtiers, archers,
+    masques, people, dancers Orchestra :piccolo, flute, 2 oboes, 2 clarinets, 2 bassoons,
+    4 horns, 2 trumpets, 3 trombones, timpani, drum, triangle, bass drum, cymbals,
+    strings'

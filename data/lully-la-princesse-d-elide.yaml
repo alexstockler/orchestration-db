@@ -1,0 +1,18 @@
+id: lully-la-princesse-d-elide
+work:
+  composer: Lully, Jean-Baptiste
+  title: La Princesse d'Élide
+  ids:
+    imslp: La Princesse d'Élide (Lully, Jean-Baptiste)
+  year: 1664
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_Princesse_d%27%C3%89lide_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, strings, continuo'

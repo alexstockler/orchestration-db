@@ -1,0 +1,16 @@
+id: gade-4-idyllen
+work:
+  composer: Gade, Niels
+  title: 4 Idyllen
+  ids:
+    imslp: 4 Idyllen, Op.34 (Gade, Niels)
+  year: 1857
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Idyllen%2C_Op.34_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

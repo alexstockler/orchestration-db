@@ -1,0 +1,18 @@
+id: charpentier-veni-sponsa-christi
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Veni sponsa Christi
+  ids:
+    imslp: Veni sponsa Christi, H.17 (Charpentier, Marc-Antoine)
+  year: 1672
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  additional_raw: recorder (flute) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Veni_sponsa_Christi%2C_H.17_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, recorder (flute), continuo'
+duration_minutes: 3

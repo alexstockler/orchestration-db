@@ -1,0 +1,25 @@
+id: gade-symphony-no-4
+work:
+  composer: Gade, Niels
+  title: Symphony No.4
+  ids:
+    imslp: Symphony No.4, Op.20 (Gade, Niels)
+  year: 1849
+formula: 2222 4200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.4%2C_Op.20_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2
+    trumpets, timpani, strings'
+duration_minutes: 22

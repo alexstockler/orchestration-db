@@ -1,0 +1,17 @@
+id: raff-cello-sonata
+work:
+  composer: Raff, Joachim
+  title: Cello Sonata
+  ids:
+    imslp: Cello Sonata, Op.183 (Raff, Joachim)
+  year: 1873
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Sonata%2C_Op.183_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Cello and Piano'
+duration_minutes: 30

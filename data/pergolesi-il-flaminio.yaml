@@ -1,0 +1,15 @@
+id: pergolesi-il-flaminio
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Il Flaminio
+  ids:
+    imslp: Il Flaminio (Pergolesi, Giovanni Battista)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_Flaminio_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra (see below, Comments)'

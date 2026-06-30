@@ -1,0 +1,16 @@
+id: buxtehude-kommt-her-zu-mir-spricht-gottes-sohn
+work:
+  composer: Buxtehude, Dietrich
+  title: Kommt her zu mir, spricht Gottes Sohn
+  ids:
+    imslp: Kommt her zu mir, spricht Gottes Sohn, BuxWV 201 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kommt_her_zu_mir%2C_spricht_Gottes_Sohn%2C_BuxWV_201_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

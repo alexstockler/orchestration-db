@@ -1,0 +1,16 @@
+id: buxtehude-es-ist-das-heil-uns-kommen-her
+work:
+  composer: Buxtehude, Dietrich
+  title: Es ist das Heil uns kommen her
+  ids:
+    imslp: Es ist das Heil uns kommen her, BuxWV 186 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_ist_das_Heil_uns_kommen_her%2C_BuxWV_186_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

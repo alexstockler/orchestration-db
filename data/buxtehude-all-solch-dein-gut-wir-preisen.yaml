@@ -1,0 +1,23 @@
+id: buxtehude-all-solch-dein-gut-wir-preisen
+work:
+  composer: Buxtehude, Dietrich
+  title: All solch dein Güt wir preisen
+  ids:
+    imslp: All solch dein Güt wir preisen, BuxWV 3 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - alto
+  - tenor
+  - bass
+  solo_strings:
+    violin: 2
+    viola: 2
+  additional_raw: violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/All_solch_dein_G%C3%BCt_wir_preisen%2C_BuxWV_3_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, alto, tenor, bass, 2 violins, 2 violas, violone,
+    continuo'

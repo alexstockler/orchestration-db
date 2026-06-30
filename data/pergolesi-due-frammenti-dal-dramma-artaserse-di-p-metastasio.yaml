@@ -1,0 +1,14 @@
+id: pergolesi-due-frammenti-dal-dramma-artaserse-di-p-metastasio
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Due frammenti dal dramma 'Artaserse' di P. Metastasio
+  ids:
+    imslp: Artaserse (Pergolesi, Giovanni Battista)
+formula: ''
+instrumentation:
+  additional_raw: '|Tags=operas | und | it'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Artaserse_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: |Tags=operas; und; it'

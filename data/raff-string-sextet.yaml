@@ -1,0 +1,19 @@
+id: raff-string-sextet
+work:
+  composer: Raff, Joachim
+  title: String Sextet
+  ids:
+    imslp: String Sextet, Op.178 (Raff, Joachim)
+  year: 1872
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 2
+    cello: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Sextet%2C_Op.178_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, 2 violas, 2 cellos'
+duration_minutes: 2530

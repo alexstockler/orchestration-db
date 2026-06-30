@@ -1,0 +1,16 @@
+id: lully-le-triomphe-de-bacchus-dans-les-indes
+work:
+  composer: Lully, Jean-Baptiste
+  title: Le triomphe de Bacchus dans les Indes
+  ids:
+    imslp: Le triomphe de Bacchus dans les Indes, LWV 30 (Lully, Jean-Baptiste)
+  year: 1666
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_triomphe_de_Bacchus_dans_les_Indes%2C_LWV_30_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

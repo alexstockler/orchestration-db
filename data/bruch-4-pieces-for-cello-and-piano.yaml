@@ -1,0 +1,16 @@
+id: bruch-4-pieces-for-cello-and-piano
+work:
+  composer: Bruch, Max
+  title: 4 Pieces for Cello and Piano
+  ids:
+    imslp: 4 Pieces for Cello and Piano, Op.70 (Bruch, Max)
+  year: 1896
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Pieces_for_Cello_and_Piano%2C_Op.70_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Cello and Piano'

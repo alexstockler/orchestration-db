@@ -1,0 +1,23 @@
+id: charpentier-velum-templi
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Velum templi
+  ids:
+    imslp: Velum templi, H.128 (Charpentier, Marc-Antoine)
+  year: 1690
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Velum_templi%2C_H.128_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, 2 violins, 2 recorders, continuo'
+duration_minutes: 5

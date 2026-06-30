@@ -1,0 +1,17 @@
+id: auber-messe-solennelle
+work:
+  composer: Auber, Daniel François Esprit
+  title: Messe solennelle
+  ids:
+    imslp: Messe solennelle, AWV 52 (Auber, Daniel François Esprit)
+  year: 1812
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: 3 vocal soloists (STB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Messe_solennelle%2C_AWV_52_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 vocal soloists (STB), mixed chorus (STB), orchestra (2
+    clarinets, 2 horns, 2 trumpets, timpani, strings)'

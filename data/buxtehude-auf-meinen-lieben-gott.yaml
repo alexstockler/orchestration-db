@@ -1,0 +1,15 @@
+id: buxtehude-auf-meinen-lieben-gott
+work:
+  composer: Buxtehude, Dietrich
+  title: Auf meinen lieben Gott
+  ids:
+    imslp: Auf meinen lieben Gott, BuxWV 179 (Buxtehude, Dietrich)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Auf_meinen_lieben_Gott%2C_BuxWV_179_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

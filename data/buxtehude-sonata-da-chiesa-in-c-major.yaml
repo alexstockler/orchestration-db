@@ -1,0 +1,18 @@
+id: buxtehude-sonata-da-chiesa-in-c-major
+work:
+  composer: Buxtehude, Dietrich
+  title: Sonata da chiesa in C major
+  ids:
+    imslp: Trio Sonata in C major, BuxWV 266 (Buxtehude, Dietrich)
+  year: 1903
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: viola da gamba | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_C_major%2C_BuxWV_266_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola da gamba, continuo'
+duration_minutes: 8

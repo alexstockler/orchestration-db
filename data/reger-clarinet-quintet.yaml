@@ -1,0 +1,20 @@
+id: reger-clarinet-quintet
+work:
+  composer: Reger, Max
+  title: Clarinet Quintet
+  ids:
+    imslp: Clarinet Quintet, Op.146 (Reger, Max)
+  year: 1915
+formula: 0010 0000
+instrumentation:
+  clarinet: 1
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Clarinet_Quintet%2C_Op.146_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, 2 violins, viola, cello'
+duration_minutes: 3540

@@ -1,0 +1,19 @@
+id: buxtehude-herzlich-thut-mich-verlangen
+work:
+  composer: Buxtehude, Dietrich
+  title: Herzlich thut mich verlangen
+  ids:
+    imslp: Herzlich tut mich verlangen, BuxWV 42 (Buxtehude, Dietrich)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - soprano
+  solo_strings:
+    violin: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Herzlich_tut_mich_verlangen%2C_BuxWV_42_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 2 violins, organ'

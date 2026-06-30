@@ -1,0 +1,16 @@
+id: reger-3-suites-for-solo-viola
+work:
+  composer: Reger, Max
+  title: 3 Suites for Solo Viola
+  ids:
+    imslp: 3 Suites for Solo Viola, Op.131d (Reger, Max)
+  year: 1915
+formula: ''
+instrumentation:
+  solo_strings:
+    viola: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Suites_for_Solo_Viola%2C_Op.131d_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: viola'

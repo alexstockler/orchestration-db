@@ -1,0 +1,17 @@
+id: ponchielli-piccolo-concertino
+work:
+  composer: Ponchielli, Amilcare
+  title: Piccolo Concertino
+  ids:
+    imslp: Piccolo Concertino Op. 75 (Ponchielli, Amilcare)
+formula: 0100 0000 pf
+instrumentation:
+  oboe: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piccolo_Concertino_Op._75_%28Ponchielli%2C_Amilcare%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, piano'
+duration_minutes: 7

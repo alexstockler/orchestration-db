@@ -1,0 +1,16 @@
+id: martucci-3-piccoli-pezzi-per-pianoforte
+work:
+  composer: Martucci, Giuseppe
+  title: 3 Piccoli pezzi per pianoforte
+  ids:
+    imslp: 3 Piccoli pezzi, Op.78 (Martucci, Giuseppe)
+  year: 1900
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Piccoli_pezzi%2C_Op.78_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

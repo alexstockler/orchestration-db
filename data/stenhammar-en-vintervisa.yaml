@@ -1,0 +1,19 @@
+id: stenhammar-en-vintervisa
+work:
+  composer: Stenhammar, Wilhelm
+  title: En vintervisa
+  ids:
+    imslp: En vintervisa (Stenhammar, Wilhelm)
+  year: 1900
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/En_vintervisa_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 5

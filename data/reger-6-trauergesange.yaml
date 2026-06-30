@@ -1,0 +1,15 @@
+id: reger-6-trauergesange
+work:
+  composer: Reger, Max
+  title: 6 Trauergesänge
+  ids:
+    imslp: 6 Trauergesänge, Op.61g (Reger, Max)
+  year: 1902
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Trauerges%C3%A4nge%2C_Op.61g_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

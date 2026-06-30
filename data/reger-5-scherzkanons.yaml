@@ -1,0 +1,16 @@
+id: reger-5-scherzkanons
+work:
+  composer: Reger, Max
+  title: 5 Scherzkanons
+  ids:
+    imslp: 5 Scherzkanons (Reger, Max)
+  year: 1895
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Scherzkanons_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

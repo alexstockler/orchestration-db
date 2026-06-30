@@ -1,0 +1,18 @@
+id: charpentier-in-honorem-sancti-benedicti
+work:
+  composer: Charpentier, Marc-Antoine
+  title: In honorem Sancti Benedicti
+  ids:
+    imslp: In honorem Sancti Benedicti, H.347 (Charpentier, Marc-Antoine)
+  year: 1687
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_honorem_Sancti_Benedicti%2C_H.347_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, continuo'
+duration_minutes: 3

@@ -1,0 +1,18 @@
+id: raff-chaconne-for-two-pianos
+work:
+  composer: Raff, Joachim
+  title: Chaconne for Two Pianos
+  ids:
+    imslp: Chaconne for 2 Pianos, Op.150 (Raff, Joachim)
+  year: 1868
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chaconne_for_2_Pianos%2C_Op.150_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Two Pianos'
+duration_minutes: 15

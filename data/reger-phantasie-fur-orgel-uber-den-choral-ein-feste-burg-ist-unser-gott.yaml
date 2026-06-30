@@ -1,0 +1,16 @@
+id: reger-phantasie-fur-orgel-uber-den-choral-ein-feste-burg-ist-unser-gott
+work:
+  composer: Reger, Max
+  title: Phantasie für Orgel über den Choral 'Ein feste Burg ist unser Gott'
+  ids:
+    imslp: Choralfantasie über "Ein feste Burg ist unser Gott", Op.27 (Reger, Max)
+  year: 1898
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Choralfantasie_%C3%BCber_%22Ein_feste_Burg_ist_unser_Gott%22%2C_Op.27_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

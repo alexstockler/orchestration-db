@@ -1,0 +1,16 @@
+id: buxtehude-prelude-in-a-major
+work:
+  composer: Buxtehude, Dietrich
+  title: Prelude in A major
+  ids:
+    imslp: Prelude in A major, BuxWV 151 (Buxtehude, Dietrich)
+  year: 1903
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude_in_A_major%2C_BuxWV_151_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

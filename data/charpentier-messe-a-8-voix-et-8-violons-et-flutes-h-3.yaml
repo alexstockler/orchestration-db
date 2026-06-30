@@ -1,0 +1,24 @@
+id: charpentier-messe-a-8-voix-et-8-violons-et-flutes-h-3
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Messe à 8 voix et 8 violons et flûtes, H.3
+  ids:
+    imslp: Messe à 8 voix et 8 violons et flûtes, H.3 (Charpentier, Marc-Antoine)
+  year: 1671
+formula: 2000 0000 str
+instrumentation:
+  flute: 2
+  strings: str
+  soloists:
+  - 2 haut-dessus
+  - 2 hautes-contres
+  - 2 tailles
+  - 2 basses
+  - 2 mixed choruses (SATB, SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Messe_%C3%A0_8_voix_et_8_violons_et_fl%C3%BBtes%2C_H.3_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: 2 haut-dessus, 2 hautes-contres, 2 tailles, 2 basses
+    + 2 mixed choruses (SATB, SATB), Orchestra: 2 flutes + strings + continuo'

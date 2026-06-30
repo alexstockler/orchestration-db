@@ -1,0 +1,31 @@
+id: gade-hamlet-overture
+work:
+  composer: Gade, Niels
+  title: Hamlet Overture
+  ids:
+    imslp: Hamlet, Op.37 (Gade, Niels)
+  year: 1861
+formula: 3[1.2.3/pic] 2 2 2 4231 tmp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hamlet%2C_Op.37_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra :3 flutes (3rd also piccolo), 2 oboes, 2 clarinets
+    (B), 2 bassoons, 4 horns (2 in F, 2 in D/C), 2 trumpets (F), 3 trombones, tuba,
+    timpani (C, G), strings'

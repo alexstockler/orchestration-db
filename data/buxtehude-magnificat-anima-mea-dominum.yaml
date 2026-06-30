@@ -1,0 +1,17 @@
+id: buxtehude-magnificat-anima-mea-dominum
+work:
+  composer: Buxtehude, Dietrich
+  title: Magnificat anima mea Dominum
+  ids:
+    imslp: Magnificat anima mea Dominum, BuxWV Anh.1 (Buxtehude, Dietrich)
+  year: 1931
+formula: str
+instrumentation:
+  strings: str
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Magnificat_anima_mea_Dominum%2C_BuxWV_Anh.1_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SSATB), strings, continuo'

@@ -1,0 +1,17 @@
+id: charpentier-gloria-in-excelsis-deo
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Gloria in excelsis Deo
+  ids:
+    imslp: Gloria in excelsis pour le catéchisme, H.370 (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gloria_in_excelsis_pour_le_cat%C3%A9chisme%2C_H.370_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'
+duration_minutes: 1

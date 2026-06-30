@@ -1,0 +1,18 @@
+id: buxtehude-mein-herz-ist-bereit
+work:
+  composer: Buxtehude, Dietrich
+  title: Mein Herz ist bereit
+  ids:
+    imslp: Mein Herz ist bereit, BuxWV 73 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+  solo_strings:
+    violin: 3
+  additional_raw: continuo (see below)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mein_Herz_ist_bereit%2C_BuxWV_73_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, 3 violins, continuo (see below)'

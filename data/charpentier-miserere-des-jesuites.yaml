@@ -1,0 +1,16 @@
+id: charpentier-miserere-des-jesuites
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Miserere des Jésuites
+  ids:
+    imslp: Miserere des Jésuites, H.193 (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Miserere_des_J%C3%A9suites%2C_H.193_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

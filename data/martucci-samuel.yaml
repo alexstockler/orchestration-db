@@ -1,0 +1,17 @@
+id: martucci-samuel
+work:
+  composer: Martucci, Giuseppe
+  title: Samuel
+  ids:
+    imslp: Samuel (Martucci, Giuseppe)
+  year: 1881
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Samuel_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

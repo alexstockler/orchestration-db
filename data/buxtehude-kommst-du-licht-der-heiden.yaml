@@ -1,0 +1,17 @@
+id: buxtehude-kommst-du-licht-der-heiden
+work:
+  composer: Buxtehude, Dietrich
+  title: Kommst du Licht der Heiden
+  ids:
+    imslp: Kommst du Licht der Heiden, BuxWV 66 (Buxtehude, Dietrich)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - 3 voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kommst_du_Licht_der_Heiden%2C_BuxWV_66_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices (SSB), strings (2 violas), continuo'

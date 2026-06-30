@@ -1,0 +1,15 @@
+id: martucci-foglie-sparse
+work:
+  composer: Martucci, Giuseppe
+  title: Foglie sparse
+  ids:
+    imslp: Foglie sparse, Op.60 (Martucci, Giuseppe)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Foglie_sparse%2C_Op.60_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,15 @@
+id: bruch-serenade-nach-schwedischen-melodien
+work:
+  composer: Bruch, Max
+  title: Serenade nach schwedischen Melodien
+  ids:
+    imslp: Serenade nach schwedischen Melodien (Bruch, Max)
+  year: 1916
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Serenade_nach_schwedischen_Melodien_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'

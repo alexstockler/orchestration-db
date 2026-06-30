@@ -1,0 +1,15 @@
+id: scarlatti-keyboard-sonata-in-a-minor
+work:
+  composer: Scarlatti, Domenico
+  title: Keyboard Sonata in A minor
+  ids:
+    imslp: Keyboard Sonata in A minor, K.3 (Scarlatti, Domenico)
+  year: 1738
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Keyboard_Sonata_in_A_minor%2C_K.3_%28Scarlatti%2C_Domenico%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

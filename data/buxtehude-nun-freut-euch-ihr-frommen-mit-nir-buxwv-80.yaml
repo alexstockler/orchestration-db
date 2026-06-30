@@ -1,0 +1,18 @@
+id: buxtehude-nun-freut-euch-ihr-frommen-mit-nir-buxwv-80
+work:
+  composer: Buxtehude, Dietrich
+  title: Nun freut euch, ihr Frommen, mit nir, BuxWV 80
+  ids:
+    imslp: Nun freut euch, ihr Frommen, mit nir, BuxWV 80 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nun_freut_euch%2C_ihr_Frommen%2C_mit_nir%2C_BuxWV_80_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, 2 violins, continuo'

@@ -1,0 +1,15 @@
+id: bellini-per-pieta-bell-idol-mio
+work:
+  composer: Bellini, Vincenzo
+  title: Per pietà, bell'idol mio
+  ids:
+    imslp: Per pietà, bell'idol mio (Bellini, Vincenzo)
+  year: 1865
+formula: ''
+instrumentation:
+  additional_raw: Solo voice and Piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Per_piet%C3%A0%2C_bell%27idol_mio_%28Bellini%2C_Vincenzo%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo voice and Piano'

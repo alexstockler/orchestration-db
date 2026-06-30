@@ -1,0 +1,18 @@
+id: adam-il-me-l-a-dit-cent-fois
+work:
+  composer: Adam, Adolphe
+  title: Il me l'a dit cent fois
+  ids:
+    imslp: Il me l'a dit cent fois (Adam, Adolphe)
+  year: 1842
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_me_l%27a_dit_cent_fois_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

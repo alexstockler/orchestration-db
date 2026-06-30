@@ -1,0 +1,16 @@
+id: suppe-die-kartenschlagerin-oder-pique-dame
+work:
+  composer: Suppé, Franz von
+  title: Die Kartenschlägerin, oder Pique Dame
+  ids:
+    imslp: Die Kartenschlägerin (Suppé, Franz von)
+  year: 1862
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Kartenschl%C3%A4gerin_%28Supp%C3%A9%2C_Franz_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

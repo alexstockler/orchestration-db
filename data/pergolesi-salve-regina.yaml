@@ -1,0 +1,18 @@
+id: pergolesi-salve-regina
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Salve regina
+  ids:
+    imslp: Salve Regina in C minor (Pergolesi, Giovanni Battista)
+  year: 1736
+formula: org str
+instrumentation:
+  keyboards:
+  - instrument: organ
+  strings: str
+  additional_raw: Soprano voice (or Contralto)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Salve_Regina_in_C_minor_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: Soprano voice (or Contralto), Strings, Organ'

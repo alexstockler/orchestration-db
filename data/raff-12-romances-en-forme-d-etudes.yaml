@@ -1,0 +1,16 @@
+id: raff-12-romances-en-forme-d-etudes
+work:
+  composer: Raff, Joachim
+  title: 12 Romances en forme d'études
+  ids:
+    imslp: 12 Romances en forme d'études, Op.8 (Raff, Joachim)
+  year: 1843
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Romances_en_forme_d%27%C3%A9tudes%2C_Op.8_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

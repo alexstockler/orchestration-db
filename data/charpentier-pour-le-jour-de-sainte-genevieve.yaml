@@ -1,0 +1,22 @@
+id: charpentier-pour-le-jour-de-sainte-genevieve
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Pour le jour de Sainte Geneviève
+  ids:
+    imslp: Pour le jour de Sainte Geneviève, H.317 (Charpentier, Marc-Antoine)
+  year: 1676
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pour_le_jour_de_Sainte_Genevi%C3%A8ve%2C_H.317_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, bass, 2 violins (or 2 recorders), continuo'
+duration_minutes: 5

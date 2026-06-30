@@ -1,0 +1,18 @@
+id: buxtehude-cantate-domino-canticum-novum
+work:
+  composer: Buxtehude, Dietrich
+  title: Cantate Domino canticum novum
+  ids:
+    imslp: Cantate Domino canticum novum, BuxWV 12 (Buxtehude, Dietrich)
+  year: 1932
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cantate_Domino_canticum_novum%2C_BuxWV_12_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, bass, continuo'

@@ -1,0 +1,20 @@
+id: buxtehude-o-wie-seelig-sind-buxwv-90
+work:
+  composer: Buxtehude, Dietrich
+  title: O wie seelig sind, BuxWV 90
+  ids:
+    imslp: O wie seelig sind, BuxWV 90 (Buxtehude, Dietrich)
+  year: 1930
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: violone | basso continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_wie_seelig_sind%2C_BuxWV_90_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, bass, 2 violins, violone, basso continuo'

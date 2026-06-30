@@ -1,0 +1,41 @@
+id: reger-castra-vetera
+work:
+  composer: Reger, Max
+  title: Castra vetera
+  ids:
+    imslp: Castra vetera, WoO V/1 (Reger, Max)
+formula: 2 2 2 3[1.2.cbn] 4 8[1.2.3.4.flhn.flhn.flhn.flhn] 3 2 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: flugelhorn
+  - instrument: flugelhorn
+  - instrument: flugelhorn
+  - instrument: flugelhorn
+  trombone: 3
+  tuba: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - Mixed Chorus (SATB)
+  additional_raw: tenor tuba
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Castra_vetera%2C_WoO_V/1_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: chorus and orchestra :Mixed Chorus (SATB), Orchestra ::2
+    flutes, 2 oboes, 2 clarinets (B/A), 2 bassoons, contrabassoon, 4 horns (F/E/E),
+    4 trumpets (F/E, 2 in E), 4 flugelhorns (2 in B alto, 2 in B basso), :::3 trombones,
+    tenor tuba, 2 tubas ::timpani, strings (violin solo)'

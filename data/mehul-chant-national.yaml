@@ -1,0 +1,40 @@
+id: mehul-chant-national
+work:
+  composer: Méhul, Etienne Nicolas
+  title: Chant National
+  ids:
+    imslp: Chant National (Méhul, Etienne Nicolas)
+  year: 1800
+formula: 2444 4460 tmp 2hp str
+instrumentation:
+  flute: 2
+  oboe: 4
+  clarinet: 4
+  bassoon: 4
+  horn: 4
+  trumpet: 4
+  trombone: 6
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - tam-tam
+  harp: 2
+  strings: str
+  soloists:
+  - 2 tenors
+  - 2 basses Choruses (SATB) :female chorus (2 parts)
+  - 2 mixed choruses Orchestras :1st
+  additional_raw: 'buccine | tuba curva | 2nd orchestra: 2 flutes (also 2 piccolos)
+    | buccine | tuba curva | 3rd orchestra: horn'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chant_National_%28M%C3%A9hul%2C_Etienne_Nicolas%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices :2 tenors, 2 basses Choruses (SATB) :female chorus
+    (2 parts), 2 mixed choruses Orchestras :1st orchestra: 2 flutes (also 2 piccolos),
+    2 oboes, 2 clarinets, 2 bassoons ::2 horns, 2 trumpets, 3 trombones, buccine,
+    tuba curva, timpani, strings :2nd orchestra: 2 flutes (also 2 piccolos), 2 oboes,
+    2 clarinets, 2 bassoons ::2 horns, 2 trumpets, 3 trombones, buccine, tuba curva,
+    bass drum, tam-tam, timpani, strings :3rd orchestra: horn, 2 harps'
+duration_minutes: 20

@@ -1,0 +1,18 @@
+id: reger-am-meer
+work:
+  composer: Reger, Max
+  title: Am Meer
+  ids:
+    imslp: Am Meer, VII/18 (Reger, Max)
+  year: 1894
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Am_Meer%2C_VII/18_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

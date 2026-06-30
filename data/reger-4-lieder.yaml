@@ -1,0 +1,18 @@
+id: reger-4-lieder
+work:
+  composer: Reger, Max
+  title: 4 Lieder
+  ids:
+    imslp: 4 Lieder, Op.23 (Reger, Max)
+  year: 1898
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Lieder%2C_Op.23_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

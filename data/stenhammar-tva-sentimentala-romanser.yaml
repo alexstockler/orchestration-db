@@ -1,0 +1,24 @@
+id: stenhammar-tva-sentimentala-romanser
+work:
+  composer: Stenhammar, Wilhelm
+  title: Två sentimentala romanser
+  ids:
+    imslp: 2 Sentimentala romanser, Op.28 (Stenhammar, Wilhelm)
+  year: 1910
+formula: 1122 2000 str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+  soloists:
+  - violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Sentimentala_romanser%2C_Op.28_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: solo: violin, orchestra: flute, oboe, 2 clarinets, 2 bassoons,,
+    2 horns, strings'
+duration_minutes: 15

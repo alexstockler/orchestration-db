@@ -1,0 +1,16 @@
+id: martucci-notturnini
+work:
+  composer: Martucci, Giuseppe
+  title: Notturnini
+  ids:
+    imslp: Notturnini, Op.42 (Martucci, Giuseppe)
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Notturnini%2C_Op.42_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

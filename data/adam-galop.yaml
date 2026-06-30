@@ -1,0 +1,14 @@
+id: adam-galop
+work:
+  composer: Adam, Adolphe
+  title: Galop
+  ids:
+    imslp: Galop in D major (Adam, Adolphe)
+  year: 1833
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Galop_in_D_major_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

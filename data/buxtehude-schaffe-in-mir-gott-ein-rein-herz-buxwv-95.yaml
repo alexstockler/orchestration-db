@@ -1,0 +1,20 @@
+id: buxtehude-schaffe-in-mir-gott-ein-rein-herz-buxwv-95
+work:
+  composer: Buxtehude, Dietrich
+  title: Schaffe in mir, Gott, ein rein Herz, BuxWV 95
+  ids:
+    imslp: Schaffe in mir, Gott, ein rein Herz, BuxWV 95 (Buxtehude, Dietrich)
+  year: 1941
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  solo_strings:
+    violin: 2
+    cello: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Schaffe_in_mir%2C_Gott%2C_ein_rein_Herz%2C_BuxWV_95_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 2 violins, cello, continuo'

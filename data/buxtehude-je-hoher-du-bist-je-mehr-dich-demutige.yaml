@@ -1,0 +1,17 @@
+id: buxtehude-je-hoher-du-bist-je-mehr-dich-demutige
+work:
+  composer: Buxtehude, Dietrich
+  title: Je höher du bist je mehr dich demütige
+  ids:
+    imslp: Je höher du bist je mehr dich demütige, BuxWV 55 (Buxtehude, Dietrich)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - 3 voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Je_h%C3%B6her_du_bist_je_mehr_dich_dem%C3%BCtige%2C_BuxWV_55_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices (SSB), strings (no violas), continuo'

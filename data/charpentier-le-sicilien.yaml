@@ -1,0 +1,19 @@
+id: charpentier-le-sicilien
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Le Sicilien
+  ids:
+    imslp: Le Sicilien, H.497 (Charpentier, Marc-Antoine)
+  year: 1678
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - tenor
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_Sicilien%2C_H.497_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, bass, strings, continuo'

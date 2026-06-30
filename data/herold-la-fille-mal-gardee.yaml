@@ -1,0 +1,13 @@
+id: herold-la-fille-mal-gardee
+work:
+  composer: Hérold, Ferdinand
+  title: La fille mal gardée
+  ids:
+    imslp: La fille mal gardée (Hérold, Ferdinand)
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_fille_mal_gard%C3%A9e_%28H%C3%A9rold%2C_Ferdinand%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra'

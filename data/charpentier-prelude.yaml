@@ -1,0 +1,15 @@
+id: charpentier-prelude
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Prélude
+  ids:
+    imslp: Prélude, H.510 (Charpentier, Marc-Antoine)
+  year: 1673
+formula: ''
+instrumentation:
+  additional_raw: 2 instruments | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pr%C3%A9lude%2C_H.510_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 instruments, continuo'

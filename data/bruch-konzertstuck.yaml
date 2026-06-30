@@ -1,0 +1,35 @@
+id: bruch-konzertstuck
+work:
+  composer: Bruch, Max
+  title: Konzertstück
+  ids:
+    imslp: Konzertstück, Op.84 (Bruch, Max)
+  year: 1910
+formula: 2 3[1.2.Eh] 2 3[1.2.cbn] 4230 tmp str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Konzertst%C3%BCck%2C_Op.84_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: violin, Orchestra: 2 flutes, 2 oboes, English horn,
+    2 clarinets, 2 bassoons, contrabassoon + 4 horns, 2 trumpets, 3 trombones + timpani
+    + strings'
+duration_minutes: 11

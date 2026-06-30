@@ -1,0 +1,16 @@
+id: auber-le-sejour-militaire
+work:
+  composer: Auber, Daniel François Esprit
+  title: Le séjour militaire
+  ids:
+    imslp: Le séjour militaire (Auber, Daniel François Esprit)
+  year: 1813
+formula: ''
+instrumentation:
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_s%C3%A9jour_militaire_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, orchestra (2 flutes, 2 oboes, 2 clarinets,
+    2 bassoons, 2 horns, strings)'

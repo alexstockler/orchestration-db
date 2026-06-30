@@ -1,0 +1,21 @@
+id: charpentier-ave-verum-corpus
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Ave verum corpus
+  ids:
+    imslp: Ave verum corpus, H.233 (Charpentier, Marc-Antoine)
+  year: 1673
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_verum_corpus%2C_H.233_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, 2 violins, continuo'
+duration_minutes: 4

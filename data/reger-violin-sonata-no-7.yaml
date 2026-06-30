@@ -1,0 +1,19 @@
+id: reger-violin-sonata-no-7
+work:
+  composer: Reger, Max
+  title: Violin Sonata No.7
+  ids:
+    imslp: Violin Sonata No.7, Op.103b No.2 (Reger, Max)
+  year: 1909
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_No.7%2C_Op.103b_No.2_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 2023

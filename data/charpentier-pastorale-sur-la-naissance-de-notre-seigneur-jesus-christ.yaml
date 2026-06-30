@@ -1,0 +1,24 @@
+id: charpentier-pastorale-sur-la-naissance-de-notre-seigneur-jesus-christ
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Pastorale sur la Naissance de Notre Seigneur Jesus Christ
+  ids:
+    imslp: Pastorale sur la Naissance de Notre Seigneur Jesus Christ, H.483 (Charpentier,
+      Marc-Antoine)
+  year: 1684
+formula: 2000 0000
+instrumentation:
+  flute: 2
+  soloists:
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+  solo_strings:
+    violin: 2
+  additional_raw: 3 dessus | haute-contre | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pastorale_sur_la_Naissance_de_Notre_Seigneur_Jesus_Christ%2C_H.483_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 dessus, haute-contre, tenor, bass, mixed chorus (SATB),
+    2 flutes, 2 violins, continuo'

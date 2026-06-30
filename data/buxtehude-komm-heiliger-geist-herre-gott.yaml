@@ -1,0 +1,16 @@
+id: buxtehude-komm-heiliger-geist-herre-gott
+work:
+  composer: Buxtehude, Dietrich
+  title: Komm, heiliger Geist, Herre Gott
+  ids:
+    imslp: Komm, heiliger Geist, Herre Gott, BuxWV 199 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Komm%2C_heiliger_Geist%2C_Herre_Gott%2C_BuxWV_199_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

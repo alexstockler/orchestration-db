@@ -1,0 +1,20 @@
+id: raff-piano-quintet
+work:
+  composer: Raff, Joachim
+  title: Piano Quintet
+  ids:
+    imslp: Piano Quintet, Op.107 (Raff, Joachim)
+  year: 1862
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quintet%2C_Op.107_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello, piano'

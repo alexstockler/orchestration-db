@@ -1,0 +1,16 @@
+id: pergolesi-sinfonia-for-cello-and-continuo
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Sinfonia for Cello and Continuo
+  ids:
+    imslp: Sinfonia for Cello and Continuo (Pergolesi, Giovanni Battista)
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sinfonia_for_Cello_and_Continuo_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, continuo'

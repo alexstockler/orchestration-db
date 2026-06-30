@@ -1,0 +1,19 @@
+id: stenhammar-string-quartet-no-3-op-18
+work:
+  composer: Stenhammar, Wilhelm
+  title: String Quartet No.3, Op.18
+  ids:
+    imslp: String Quartet No.3, Op.18 (Stenhammar, Wilhelm)
+  year: 1897
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.3%2C_Op.18_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 30

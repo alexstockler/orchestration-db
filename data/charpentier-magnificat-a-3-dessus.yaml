@@ -1,0 +1,19 @@
+id: charpentier-magnificat-a-3-dessus
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Magnificat à 3 dessus
+  ids:
+    imslp: Magnificat à 3 dessus, H.75 (Charpentier, Marc-Antoine)
+  year: 1684
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Magnificat_%C3%A0_3_dessus%2C_H.75_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, alto, continuo'
+duration_minutes: 8

@@ -1,0 +1,15 @@
+id: martucci-fuga
+work:
+  composer: Martucci, Giuseppe
+  title: Fuga
+  ids:
+    imslp: Fuga, Op.14 (Martucci, Giuseppe)
+  year: 1874
+formula: ''
+instrumentation:
+  additional_raw: keyboard (piano implied)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fuga%2C_Op.14_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard (piano implied)'

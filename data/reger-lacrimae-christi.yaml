@@ -1,0 +1,15 @@
+id: reger-lacrimae-christi
+work:
+  composer: Reger, Max
+  title: Lacrimae Christi
+  ids:
+    imslp: Lacrimae Christi (Reger, Max)
+  year: 1890
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lacrimae_Christi_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Male chorus (TTBB)'

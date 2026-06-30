@@ -1,0 +1,18 @@
+id: reger-5-neue-kinderlieder
+work:
+  composer: Reger, Max
+  title: 5 Neue Kinderlieder
+  ids:
+    imslp: 5 Neue Kinderlieder, Op.142 (Reger, Max)
+  year: 1915
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Neue_Kinderlieder%2C_Op.142_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'

@@ -1,0 +1,21 @@
+id: buxtehude-alles-was-ihr-tut-mir-worten-oder-werken
+work:
+  composer: Buxtehude, Dietrich
+  title: Alles, was ihr tut mir Worten oder Werken
+  ids:
+    imslp: Alles, was ihr tut mit Worten oder Werken, BuxWV 4 (Buxtehude, Dietrich)
+  year: 1666
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - 2 voices
+  chorus_raw: chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alles%2C_was_ihr_tut_mit_Worten_oder_Werken%2C_BuxWV_4_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices (soprano, bass), chorus (SATB), strings (2 violas),
+    continuo'
+duration_minutes: 13

@@ -1,0 +1,16 @@
+id: raff-den-manen-scarlatti-s
+work:
+  composer: Raff, Joachim
+  title: Den Manen Scarlatti's
+  ids:
+    imslp: Den Manen Scarlatti's, Op.26 (Raff, Joachim)
+  year: 1846
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Den_Manen_Scarlatti%27s%2C_Op.26_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

@@ -1,0 +1,16 @@
+id: charpentier-noel-pour-les-instruments
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Noël pour les instruments
+  ids:
+    imslp: Noëls pour les instruments, H.531 (Charpentier, Marc-Antoine)
+  year: 1690
+formula: 2000 0000
+instrumentation:
+  flute: 2
+  additional_raw: 2 violons | haute-contre | taille | basse continue
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/No%C3%ABls_pour_les_instruments%2C_H.531_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 violons, haute-contre, taille, basse continue'

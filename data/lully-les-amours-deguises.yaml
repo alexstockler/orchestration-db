@@ -1,0 +1,19 @@
+id: lully-les-amours-deguises
+work:
+  composer: Lully, Jean-Baptiste
+  title: Les amours déguisés
+  ids:
+    imslp: Ballet les amours déguisés, LWV 21 (Lully, Jean-Baptiste)
+  year: 1664
+formula: ''
+instrumentation:
+  additional_raw: Rôles et solistes | Marc-Antoine (Ut 4) | Cléopâtre (Ut 1) | Ut
+    3 (récit champêtre, Mr Le Gros) | Armide (Ut 1, Seignora Anna). - Orchestre |
+    Sol 1 | Ut 1 | Ut 2 | Ut 3 | Fa 4
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ballet_les_amours_d%C3%A9guis%C3%A9s%2C_LWV_21_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: Rôles et solistes : Marc-Antoine (Ut 4), Cléopâtre (Ut
+    1), Ut 3 (récit champêtre, Mr Le Gros), Armide (Ut 1, Seignora Anna). - Orchestre
+    : Sol 1, Ut 1, Ut 2, Ut 3, Fa 4'

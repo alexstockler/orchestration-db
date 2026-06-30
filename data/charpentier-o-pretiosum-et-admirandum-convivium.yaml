@@ -1,0 +1,23 @@
+id: charpentier-o-pretiosum-et-admirandum-convivium
+work:
+  composer: Charpentier, Marc-Antoine
+  title: O pretiosum et admirandum convivium
+  ids:
+    imslp: O pretiosum et admirandum convivium, H.255 (Charpentier, Marc-Antoine)
+  year: 1683
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_pretiosum_et_admirandum_convivium%2C_H.255_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto (or soprano), bass (or 2 sopranos, alto),
+    2 violins (or 2 viols, and/or 2 recorders), continuo'
+duration_minutes: 4

@@ -1,0 +1,18 @@
+id: svendsen-octet
+work:
+  composer: Svendsen, Johan
+  title: Octet
+  ids:
+    imslp: String Octet, Op.3 (Svendsen, Johan)
+  year: 1866
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 4
+    viola: 2
+    cello: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Octet%2C_Op.3_%28Svendsen%2C_Johan%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 violins, 2 violas, 2 cellos'

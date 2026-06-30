@@ -1,0 +1,23 @@
+id: charpentier-deus-noster-refugium
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Deus noster refugium
+  ids:
+    imslp: Deus noster refugium, H.218 (Charpentier, Marc-Antoine)
+  year: 1693
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Deus_noster_refugium%2C_H.218_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, tenor, bass, mixed chorus (SATB), 2 violins, continuo'
+duration_minutes: 5

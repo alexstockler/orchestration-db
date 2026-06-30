@@ -1,0 +1,16 @@
+id: suppe-des-matrosen-heimkehr
+work:
+  composer: Suppé, Franz von
+  title: Des Matrosen Heimkehr
+  ids:
+    imslp: Des Matrosen Heimkehr (Suppé, Franz von)
+  year: 1885
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Des_Matrosen_Heimkehr_%28Supp%C3%A9%2C_Franz_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, Chorus, Orchestra'

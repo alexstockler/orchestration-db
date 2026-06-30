@@ -1,0 +1,17 @@
+id: gade-vi-vandre-sammen-arm-i-arm
+work:
+  composer: Gade, Niels
+  title: Vi vandre sammen arm i arm
+  ids:
+    imslp: Vi vandre sammen arm i arm (Gade, Niels)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vi_vandre_sammen_arm_i_arm_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

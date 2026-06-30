@@ -1,0 +1,23 @@
+id: charpentier-domine-quid-multiplicati-sunt
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Domine, quid multiplicati sunt
+  ids:
+    imslp: Domine, quid multiplicati sunt, H.172 (Charpentier, Marc-Antoine)
+  year: 1679
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Domine%2C_quid_multiplicati_sunt%2C_H.172_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, bass, 2 violins (or viols and/or recorders),
+    continuo'
+duration_minutes: 7

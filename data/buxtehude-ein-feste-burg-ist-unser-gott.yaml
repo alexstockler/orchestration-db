@@ -1,0 +1,16 @@
+id: buxtehude-ein-feste-burg-ist-unser-gott
+work:
+  composer: Buxtehude, Dietrich
+  title: Ein feste Burg ist unser Gott
+  ids:
+    imslp: Ein feste Burg ist unser Gott, BuxWV 184 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ein_feste_Burg_ist_unser_Gott%2C_BuxWV_184_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

@@ -1,0 +1,17 @@
+id: gade-sonata-per-violino-viola-e-piano
+work:
+  composer: Gade, Niels
+  title: Sonata per Violino (Viola) e Piano
+  ids:
+    imslp: Violin Sonata No.1, Op.6 (Gade, Niels)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_No.1%2C_Op.6_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

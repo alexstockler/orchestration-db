@@ -1,0 +1,15 @@
+id: charpentier-canticum-pro-pace
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Canticum pro pace
+  ids:
+    imslp: Canticum pro pace, H.392 (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  additional_raw: 2 x SATB solos and chorus | 2 x string orchestra | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canticum_pro_pace%2C_H.392_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 x SATB solos and chorus, 2 x string orchestra, continuo'
+duration_minutes: 11

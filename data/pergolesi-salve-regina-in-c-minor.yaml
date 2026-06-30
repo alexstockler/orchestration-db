@@ -1,0 +1,18 @@
+id: pergolesi-salve-regina-in-c-minor
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Salve Regina in C minor
+  ids:
+    imslp: Salve Regina in C minor, P.79 (Pergolesi, Giovanni Battista)
+  year: 1881
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Salve_Regina_in_C_minor%2C_P.79_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, bass, strings'

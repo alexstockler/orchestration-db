@@ -1,0 +1,22 @@
+id: buxtehude-nichts-soll-uns-scheiden-von-der-liebe-gottes
+work:
+  composer: Buxtehude, Dietrich
+  title: Nichts soll uns scheiden von der Liebe Gottes
+  ids:
+    imslp: Nichts soll uns scheiden von der Liebe Gottes, BuxWV 77 (Buxtehude, Dietrich)
+  year: 1700
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nichts_soll_uns_scheiden_von_der_Liebe_Gottes%2C_BuxWV_77_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, bass, 2 violins, violone, continuo'
+duration_minutes: 9

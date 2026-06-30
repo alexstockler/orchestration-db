@@ -1,0 +1,19 @@
+id: charpentier-medee
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Médée
+  ids:
+    imslp: Médée, H.491 (Charpentier, Marc-Antoine)
+  year: 1694
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/M%C3%A9d%C3%A9e%2C_H.491_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra (dessus de violon - Sol
+    1, hautes-contre -Ut 1, tailles - Ut 2, quintes -Ut 3, basses de violon - Fa 4
+    & bc chiffrée)'

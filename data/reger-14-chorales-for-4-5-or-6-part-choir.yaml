@@ -1,0 +1,15 @@
+id: reger-14-chorales-for-4-5-or-6-part-choir
+work:
+  composer: Reger, Max
+  title: 14 Chorales for 4, 5 or 6 part Choir
+  ids:
+    imslp: 14 Chorales for 4, 5 or 6 Part Chorus, Op.79f (Reger, Max)
+  year: 1900
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/14_Chorales_for_4%2C_5_or_6_Part_Chorus%2C_Op.79f_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

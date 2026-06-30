@@ -1,0 +1,15 @@
+id: suppe-das-madchen-vom-lande
+work:
+  composer: Suppé, Franz von
+  title: Das Mädchen vom Lande
+  ids:
+    imslp: Das Mädchen vom Lande (Suppé, Franz von)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_M%C3%A4dchen_vom_Lande_%28Supp%C3%A9%2C_Franz_von%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

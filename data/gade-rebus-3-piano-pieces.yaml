@@ -1,0 +1,16 @@
+id: gade-rebus-3-piano-pieces
+work:
+  composer: Gade, Niels
+  title: Rebus, 3 Piano Pieces
+  ids:
+    imslp: Rebus, Op.2a (Gade, Niels)
+  year: 1841
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rebus%2C_Op.2a_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

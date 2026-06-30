@@ -1,0 +1,19 @@
+id: auber-benedictus-no-4
+work:
+  composer: Auber, Daniel François Esprit
+  title: Benedictus No.4
+  ids:
+    imslp: Benedictus No.4, AWV 80 (Auber, Daniel François Esprit)
+formula: org hp
+instrumentation:
+  keyboards:
+  - instrument: organ
+  harp: 1
+  soloists:
+  - soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Benedictus_No.4%2C_AWV_80_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, harp, organ'
+duration_minutes: 4

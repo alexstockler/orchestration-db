@@ -1,0 +1,16 @@
+id: reger-perpetuum-mobile
+work:
+  composer: Reger, Max
+  title: Perpetuum mobile
+  ids:
+    imslp: Perpetuum mobile, WoO III/19 (Reger, Max)
+  year: 1905
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Perpetuum_mobile%2C_WoO_III/19_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

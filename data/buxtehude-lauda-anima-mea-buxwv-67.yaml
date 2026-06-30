@@ -1,0 +1,20 @@
+id: buxtehude-lauda-anima-mea-buxwv-67
+work:
+  composer: Buxtehude, Dietrich
+  title: Lauda anima mea, BuxWV 67
+  ids:
+    imslp: Lauda anima mea, BuxWV 67 (Buxtehude, Dietrich)
+  year: 1925
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  solo_strings:
+    violin: 1
+    cello: 1
+  additional_raw: 2 violettas | basso continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lauda_anima_mea%2C_BuxWV_67_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, violin, 2 violettas, cello, basso continuo'

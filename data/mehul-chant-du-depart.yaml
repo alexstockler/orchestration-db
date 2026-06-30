@@ -1,0 +1,15 @@
+id: mehul-chant-du-depart
+work:
+  composer: Méhul, Etienne Nicolas
+  title: Chant du départ
+  ids:
+    imslp: Chant du départ (Méhul, Etienne Nicolas)
+  year: 1794
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chant_du_d%C3%A9part_%28M%C3%A9hul%2C_Etienne_Nicolas%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), orchestra'

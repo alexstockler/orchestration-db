@@ -1,0 +1,16 @@
+id: ponchielli-i-mori-de-valenza
+work:
+  composer: Ponchielli, Amilcare
+  title: I mori de Valenza
+  ids:
+    imslp: I mori di Valenza (Ponchielli, Amilcare)
+  year: 1914
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/I_mori_di_Valenza_%28Ponchielli%2C_Amilcare%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, chorus, orchestra'

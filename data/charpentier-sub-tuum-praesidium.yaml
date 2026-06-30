@@ -1,0 +1,20 @@
+id: charpentier-sub-tuum-praesidium
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Sub tuum praesidium
+  ids:
+    imslp: Sub tuum praesidium, H.20 (Charpentier, Marc-Antoine)
+  year: 1671
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  - tenor
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sub_tuum_praesidium%2C_H.20_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, tenor, bass, continuo'
+duration_minutes: 2

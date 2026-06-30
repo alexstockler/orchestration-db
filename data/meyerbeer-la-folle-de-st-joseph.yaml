@@ -1,0 +1,18 @@
+id: meyerbeer-la-folle-de-st-joseph
+work:
+  composer: Meyerbeer, Giacomo
+  title: La folle de St. Joseph
+  ids:
+    imslp: La folle de St. Joseph (Meyerbeer, Giacomo)
+  year: 1837
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_folle_de_St._Joseph_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

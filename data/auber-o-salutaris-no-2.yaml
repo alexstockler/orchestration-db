@@ -1,0 +1,17 @@
+id: auber-o-salutaris-no-2
+work:
+  composer: Auber, Daniel François Esprit
+  title: O salutaris No.2
+  ids:
+    imslp: O salutaris No.2, AWV 69 (Auber, Daniel François Esprit)
+  year: 1854
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_salutaris_No.2%2C_AWV_69_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SSTB), organ'

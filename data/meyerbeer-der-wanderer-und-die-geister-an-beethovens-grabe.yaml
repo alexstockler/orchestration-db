@@ -1,0 +1,16 @@
+id: meyerbeer-der-wanderer-und-die-geister-an-beethovens-grabe
+work:
+  composer: Meyerbeer, Giacomo
+  title: Der Wanderer und die Geister an Beethovens Grabe
+  ids:
+    imslp: Der Wanderer und die Geister an Beethovens Grabe (Meyerbeer, Giacomo)
+  year: 1845
+formula: ''
+instrumentation:
+  chorus_raw: female chorus
+  additional_raw: Bass voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Wanderer_und_die_Geister_an_Beethovens_Grabe_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Bass voice, Female chorus (SSA)'

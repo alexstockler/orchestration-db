@@ -1,0 +1,17 @@
+id: lully-ballet-des-plaisirs
+work:
+  composer: Lully, Jean-Baptiste
+  title: Ballet des plaisirs
+  ids:
+    imslp: Ballet des plaisirs, LWV 2 (Lully, Jean-Baptiste)
+  year: 1655
+formula: ''
+instrumentation:
+  additional_raw: Rôle et soliste | Pan (Fa 4, Sieur Munier St Elme) | Ut 1 (Mr Le
+    Gros). - Orchestre | Sol 1 | Ut 1 | Ut 2 | Ut 3 | Fa 4.
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ballet_des_plaisirs%2C_LWV_2_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: Rôle et soliste : Pan (Fa 4, Sieur Munier St Elme), Ut
+    1 (Mr Le Gros). - Orchestre : Sol 1, Ut 1, Ut 2, Ut 3, Fa 4.'

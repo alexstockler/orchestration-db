@@ -1,0 +1,16 @@
+id: reger-7-violin-solo-sonatas
+work:
+  composer: Reger, Max
+  title: 7 Violin Solo Sonatas
+  ids:
+    imslp: 7 Sonatas for Solo Violin, Op.91 (Reger, Max)
+  year: 1905
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Sonatas_for_Solo_Violin%2C_Op.91_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: violin'

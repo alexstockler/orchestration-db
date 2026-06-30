@@ -1,0 +1,20 @@
+id: bruch-das-lied-von-der-glocke
+work:
+  composer: Bruch, Max
+  title: Das Lied von der Glocke
+  ids:
+    imslp: Das Lied von der Glocke, Op.45 (Bruch, Max)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Lied_von_der_Glocke%2C_Op.45_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, alto, tenor, bass + mixed chorus (SATB),
+    Orchestra'

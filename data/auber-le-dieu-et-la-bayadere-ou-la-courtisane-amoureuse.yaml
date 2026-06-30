@@ -1,0 +1,17 @@
+id: auber-le-dieu-et-la-bayadere-ou-la-courtisane-amoureuse
+work:
+  composer: Auber, Daniel François Esprit
+  title: Le dieu et la bayadère, ou La courtisane amoureuse
+  ids:
+    imslp: Le dieu et la bayadère (Auber, Daniel François Esprit)
+  year: 1830
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_dieu_et_la_bayad%C3%A8re_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

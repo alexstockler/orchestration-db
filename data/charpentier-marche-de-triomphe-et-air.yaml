@@ -1,0 +1,14 @@
+id: charpentier-marche-de-triomphe-et-air
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Marche de triomphe et air
+  ids:
+    imslp: Marche de triomphe et air, H.547 (Charpentier, Marc-Antoine)
+  year: 1691
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marche_de_triomphe_et_air%2C_H.547_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

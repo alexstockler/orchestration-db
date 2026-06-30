@@ -1,0 +1,18 @@
+id: lully-marches-et-batteries-de-tambour
+work:
+  composer: Lully, Jean-Baptiste
+  title: Marches et batteries de tambour
+  ids:
+    imslp: Marches et batteries de tambour, LWV 44 (Lully, Jean-Baptiste)
+  year: 1670
+formula: ''
+instrumentation:
+  percussion:
+    instruments:
+    - drums
+  additional_raw: hautbois")
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marches_et_batteries_de_tambour%2C_LWV_44_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 instruments ("hautbois"), 2 drums'

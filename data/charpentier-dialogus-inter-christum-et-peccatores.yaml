@@ -1,0 +1,14 @@
+id: charpentier-dialogus-inter-christum-et-peccatores
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Dialogus inter Christum et peccatores
+  ids:
+    imslp: Dialogus inter Christum et peccatores, H.425 (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  additional_raw: 2 dessus (treble) | haute-contre (F3) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dialogus_inter_Christum_et_peccatores%2C_H.425_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 dessus (treble), haute-contre (F3), continuo'

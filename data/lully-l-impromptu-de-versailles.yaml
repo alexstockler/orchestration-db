@@ -1,0 +1,14 @@
+id: lully-l-impromptu-de-versailles
+work:
+  composer: Lully, Jean-Baptiste
+  title: L'Impromptu de Versailles
+  ids:
+    imslp: L'Impromptu de Versailles, LWV 28 (Lully, Jean-Baptiste)
+  year: 1663
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27Impromptu_de_Versailles%2C_LWV_28_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

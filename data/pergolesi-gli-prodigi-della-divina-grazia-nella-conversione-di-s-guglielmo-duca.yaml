@@ -1,0 +1,28 @@
+id: pergolesi-gli-prodigi-della-divina-grazia-nella-conversione-di-s-guglielmo-duca
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Gli prodigi della divina grazia nella conversione di S. Guglielmo Duca d’Aquitania
+  ids:
+    imslp: Gli prodigi della divina grazia (Pergolesi, Giovanni Battista)
+formula: 0200 2200 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  trumpet: 2
+  strings: str
+  soloists:
+  - S. Guglielmo (S)
+  - Angelo (S)
+  - S. Bernardo (S)
+  - Arsenio (S)
+  - Alberto (S)
+  - Demonio (B)
+  - Capitano (B)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gli_prodigi_della_divina_grazia_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: S. Guglielmo (S), Angelo (S), S. Bernardo (S),
+    Arsenio (S),, Alberto (S), Demonio (B), Capitano (B), Orchestra: 2 oboes, 2 trumpets,
+    2 horns, strings, continuo'

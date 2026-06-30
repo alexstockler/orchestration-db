@@ -1,0 +1,15 @@
+id: buxtehude-gamba-sonata
+work:
+  composer: Buxtehude, Dietrich
+  title: Gamba Sonata
+  ids:
+    imslp: Viola da Gamba Sonata, BuxWV 268 (Buxtehude, Dietrich)
+  year: 1956
+formula: ''
+instrumentation:
+  additional_raw: viola da gamba | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Viola_da_Gamba_Sonata%2C_BuxWV_268_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: viola da gamba, continuo'

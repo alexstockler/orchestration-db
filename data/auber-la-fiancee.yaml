@@ -1,0 +1,16 @@
+id: auber-la-fiancee
+work:
+  composer: Auber, Daniel François Esprit
+  title: La fiancée
+  ids:
+    imslp: La fiancée (Auber, Daniel François Esprit)
+  year: 1829
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_fianc%C3%A9e_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

@@ -1,0 +1,16 @@
+id: reger-traume-am-kamin
+work:
+  composer: Reger, Max
+  title: Träume am Kamin
+  ids:
+    imslp: Träume am Kamin, Op.143 (Reger, Max)
+  year: 1916
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tr%C3%A4ume_am_Kamin%2C_Op.143_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

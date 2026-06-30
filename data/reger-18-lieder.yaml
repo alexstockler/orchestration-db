@@ -1,0 +1,18 @@
+id: reger-18-lieder
+work:
+  composer: Reger, Max
+  title: 18 Lieder
+  ids:
+    imslp: 18 Lieder, Op.75 (Reger, Max)
+  year: 1903
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/18_Lieder%2C_Op.75_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

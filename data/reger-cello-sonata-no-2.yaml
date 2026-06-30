@@ -1,0 +1,17 @@
+id: reger-cello-sonata-no-2
+work:
+  composer: Reger, Max
+  title: Cello Sonata No.2
+  ids:
+    imslp: Cello Sonata No.2, Op.28 (Reger, Max)
+  year: 1898
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Sonata_No.2%2C_Op.28_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Cello and Piano'
+duration_minutes: 23

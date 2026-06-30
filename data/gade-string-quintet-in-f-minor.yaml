@@ -1,0 +1,19 @@
+id: gade-string-quintet-in-f-minor
+work:
+  composer: Gade, Niels
+  title: String Quintet in F minor
+  ids:
+    imslp: String Quintet in F minor (Gade, Niels)
+  year: 1837
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quintet_in_F_minor_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, 2 cellos'
+duration_minutes: 15

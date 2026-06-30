@@ -1,0 +1,16 @@
+id: ponchielli-lina
+work:
+  composer: Ponchielli, Amilcare
+  title: Lina
+  ids:
+    imslp: Lina, Op.4a (Ponchielli, Amilcare)
+  year: 1877
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lina%2C_Op.4a_%28Ponchielli%2C_Amilcare%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, Chorus, Orchestra'

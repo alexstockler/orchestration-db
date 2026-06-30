@@ -1,0 +1,16 @@
+id: buxtehude-es-spricht-der-unweisen-mund-wohl
+work:
+  composer: Buxtehude, Dietrich
+  title: Es spricht der Unweisen Mund wohl
+  ids:
+    imslp: Es spricht der Unweisen Mund wohl, BuxWV 187 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_spricht_der_Unweisen_Mund_wohl%2C_BuxWV_187_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

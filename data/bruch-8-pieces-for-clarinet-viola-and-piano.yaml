@@ -1,0 +1,19 @@
+id: bruch-8-pieces-for-clarinet-viola-and-piano
+work:
+  composer: Bruch, Max
+  title: 8 Pieces for Clarinet, Viola and Piano
+  ids:
+    imslp: 8 Pieces for Clarinet, Viola and Piano, Op.83 (Bruch, Max)
+  year: 1910
+formula: 0010 0000 pf
+instrumentation:
+  clarinet: 1
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    viola: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Pieces_for_Clarinet%2C_Viola_and_Piano%2C_Op.83_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, viola (or cello), piano'

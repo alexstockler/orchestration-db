@@ -1,0 +1,26 @@
+id: bruch-romanze
+work:
+  composer: Bruch, Max
+  title: Romanze
+  ids:
+    imslp: Romanze, Op.42 (Bruch, Max)
+  year: 1874
+formula: 2222 4200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romanze%2C_Op.42_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: violin, Orchestra: 2 flutes, 2 oboes, 2 clarinets,
+    2 bassoons + 4 horns, 2 trumpets + timpani + strings'

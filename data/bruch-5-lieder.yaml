@@ -1,0 +1,14 @@
+id: bruch-5-lieder
+work:
+  composer: Bruch, Max
+  title: 5 Lieder
+  ids:
+    imslp: 5 Lieder, Op.22 (Bruch, Max)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Lieder%2C_Op.22_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

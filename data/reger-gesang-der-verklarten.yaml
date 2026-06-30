@@ -1,0 +1,47 @@
+id: reger-gesang-der-verklarten
+work:
+  composer: Reger, Max
+  title: Gesang der Verklärten
+  ids:
+    imslp: Gesang der Verklärten, Op.71 (Reger, Max)
+  year: 1903
+formula: 3 4[1.2.3.Eh] 4[1.2.3.bcl] 4[1.2.3.cbn] 6331 tmp 2hp str
+instrumentation:
+  flute: 3
+  oboe:
+  - {}
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 6
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - tam-tam
+  harp: 2
+  strings: str
+  soloists:
+  - 'Mixed Chorus (SSATB) :'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gesang_der_Verkl%C3%A4rten%2C_Op.71_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: chorus, orchestra :Mixed Chorus (SSATB) :Orchestra ::3
+    flutes, 3 oboes, English horn, 3 clarinets (A) :::bass clarinet (A), 3 bassoons,
+    contrabassoon ::6 horns (F), 3 trumpets (C), 3 trombones, tuba, timpani, bass
+    drum, tam-tam, 2 harps, strings'
+duration_minutes: 18

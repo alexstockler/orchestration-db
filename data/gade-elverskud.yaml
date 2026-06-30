@@ -1,0 +1,21 @@
+id: gade-elverskud
+work:
+  composer: Gade, Niels
+  title: Elverskud
+  ids:
+    imslp: Erl King's Daughter, Op.30 (Gade, Niels)
+  year: 1851
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - mezzo-soprano
+  - baritone
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erl_King%27s_Daughter%2C_Op.30_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, mezzo-soprano, baritone, mixed chorus (SATB),
+    orchestra'
+duration_minutes: 40

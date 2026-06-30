@@ -1,0 +1,16 @@
+id: herold-le-premier-venu-ou-six-lieues-de-chemin
+work:
+  composer: Hérold, Ferdinand
+  title: Le premier venu, ou Six lieues de chemin
+  ids:
+    imslp: Le premier venu (Hérold, Ferdinand)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_premier_venu_%28H%C3%A9rold%2C_Ferdinand%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

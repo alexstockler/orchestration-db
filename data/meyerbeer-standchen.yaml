@@ -1,0 +1,17 @@
+id: meyerbeer-standchen
+work:
+  composer: Meyerbeer, Giacomo
+  title: Ständchen
+  ids:
+    imslp: Ständchen (Meyerbeer, Giacomo)
+  year: 1840
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: Tenor voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/St%C3%A4ndchen_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Tenor voice, Piano'

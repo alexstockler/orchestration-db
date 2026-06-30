@@ -1,0 +1,16 @@
+id: reger-prelude-and-fugue-in-f-sharp-minor
+work:
+  composer: Reger, Max
+  title: Prelude and Fugue in F-sharp minor
+  ids:
+    imslp: Prelude and Fugue in F-sharp minor (Reger, Max)
+  year: 1912
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude_and_Fugue_in_F-sharp_minor_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

@@ -1,0 +1,19 @@
+id: buxtehude-trio-sonata-in-e-major-buxwv-264
+work:
+  composer: Buxtehude, Dietrich
+  title: Trio Sonata in E major, BuxWV 264
+  ids:
+    imslp: Trio Sonata in E major, BuxWV 264 (Buxtehude, Dietrich)
+  year: 1696
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+  solo_strings:
+    violin: 1
+  additional_raw: viola da gamba
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_E_major%2C_BuxWV_264_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola da gamba, harpsichord'

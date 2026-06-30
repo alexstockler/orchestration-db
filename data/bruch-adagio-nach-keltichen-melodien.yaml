@@ -1,0 +1,21 @@
+id: bruch-adagio-nach-keltichen-melodien
+work:
+  composer: Bruch, Max
+  title: Adagio nach keltichen Melodien
+  ids:
+    imslp: Adagio on Celtic Melodies, Op.56 (Bruch, Max)
+  year: 1890
+formula: 0022 2200 str
+instrumentation:
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  strings: str
+  additional_raw: Solo — cello | Orchestra — 2 oboes
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adagio_on_Celtic_Melodies%2C_Op.56_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo — cello, Orchestra — 2 oboes, 2 clarinets, 2 bassoons
+    + 2 horns, 2 trumpets + strings'

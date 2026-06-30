@@ -1,0 +1,15 @@
+id: martucci-tempo-di-mazurka
+work:
+  composer: Martucci, Giuseppe
+  title: Tempo di mazurka
+  ids:
+    imslp: Tempo di mazurka, Op.11 (Martucci, Giuseppe)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tempo_di_mazurka%2C_Op.11_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

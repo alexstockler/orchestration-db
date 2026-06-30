@@ -1,0 +1,18 @@
+id: lully-roland
+work:
+  composer: Lully, Jean-Baptiste
+  title: Roland
+  ids:
+    imslp: Roland, LWV 65 (Lully, Jean-Baptiste)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Roland%2C_LWV_65_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra (dessus de violon, hautes-contre,
+    tailles, quintes, basses de violon)'

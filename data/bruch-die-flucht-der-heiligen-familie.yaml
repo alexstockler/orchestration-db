@@ -1,0 +1,14 @@
+id: bruch-die-flucht-der-heiligen-familie
+work:
+  composer: Bruch, Max
+  title: Die Flucht der Heiligen Familie
+  ids:
+    imslp: Die Flucht der Heiligen Familie, Op.20 (Bruch, Max)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Flucht_der_Heiligen_Familie%2C_Op.20_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), orchestra'

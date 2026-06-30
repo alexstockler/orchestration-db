@@ -1,0 +1,28 @@
+id: stenhammar-piano-concerto-no-2
+work:
+  composer: Stenhammar, Wilhelm
+  title: Piano Concerto No.2
+  ids:
+    imslp: Piano Concerto No.2, Op.23 (Stenhammar, Wilhelm)
+  year: 1904
+formula: 2222 4231 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Concerto_No.2%2C_Op.23_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: piano, Orchestra: 2 flutes, 2 oboes, 2 clarinets
+    (A), 2 bassoons, 4 horns (F), 2 trumpets (F), 3 trombones, tuba, timpani, strings'

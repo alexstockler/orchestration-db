@@ -1,0 +1,17 @@
+id: bruch-fantaisie-for-2-pianos
+work:
+  composer: Bruch, Max
+  title: Fantaisie for 2 Pianos
+  ids:
+    imslp: Fantaisie for 2 Pianos, Op.11 (Bruch, Max)
+  year: 1861
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantaisie_for_2_Pianos%2C_Op.11_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 pianos'

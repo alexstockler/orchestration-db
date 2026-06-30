@@ -1,0 +1,19 @@
+id: gade-violin-sonata-no-3
+work:
+  composer: Gade, Niels
+  title: Violin Sonata No.3
+  ids:
+    imslp: Violin Sonata No.3, Op.59 (Gade, Niels)
+  year: 1885
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_No.3%2C_Op.59_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 22

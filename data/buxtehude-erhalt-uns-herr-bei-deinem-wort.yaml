@@ -1,0 +1,22 @@
+id: buxtehude-erhalt-uns-herr-bei-deinem-wort
+work:
+  composer: Buxtehude, Dietrich
+  title: Erhalt uns Herr bei deinem Wort
+  ids:
+    imslp: Erhalt uns Herr bei deinem Wort, BuxWV 27 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: violone (or bombarde) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erhalt_uns_Herr_bei_deinem_Wort%2C_BuxWV_27_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, 2 violins, violone (or bombarde),
+    continuo'

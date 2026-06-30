@@ -1,0 +1,20 @@
+id: charpentier-caro-mea-vere-est-cibus
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Caro mea vere est cibus
+  ids:
+    imslp: Caro mea vere est cibus, H.246 (Charpentier, Marc-Antoine)
+  year: 1678
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Caro_mea_vere_est_cibus%2C_H.246_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, bass, continuo'
+duration_minutes: 4

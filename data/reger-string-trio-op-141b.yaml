@@ -1,0 +1,18 @@
+id: reger-string-trio-op-141b
+work:
+  composer: Reger, Max
+  title: String Trio, Op.141b
+  ids:
+    imslp: String Trio No.2, Op.141b (Reger, Max)
+  year: 1915
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+  additional_raw: Viola and Cello
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Trio_No.2%2C_Op.141b_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin, Viola and Cello'
+duration_minutes: 20

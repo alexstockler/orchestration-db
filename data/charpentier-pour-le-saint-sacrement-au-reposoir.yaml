@@ -1,0 +1,23 @@
+id: charpentier-pour-le-saint-sacrement-au-reposoir
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Pour le Saint Sacrement au reposoir
+  ids:
+    imslp: Pour le Saint Sacrement au reposoir, H.346 (Charpentier, Marc-Antoine)
+  year: 1687
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  soloists:
+  - sopranos
+  - alto
+  - tenor
+  - bass
+  additional_raw: recorder | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pour_le_Saint_Sacrement_au_reposoir%2C_H.346_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, alto, tenor, bass (solos and chorus), recorder,
+    flute, continuo'
+duration_minutes: 5

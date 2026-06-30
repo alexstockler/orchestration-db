@@ -1,0 +1,20 @@
+id: auber-o-salutaris-no-5
+work:
+  composer: Auber, Daniel François Esprit
+  title: O salutaris No.5
+  ids:
+    imslp: O salutaris No.5, AWV 85 (Auber, Daniel François Esprit)
+  year: 1859
+formula: 0100 0000 org hp
+instrumentation:
+  oboe: 1
+  keyboards:
+  - instrument: organ
+  harp: 1
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_salutaris_No.5%2C_AWV_85_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, oboe (or clarinet), harp, organ'

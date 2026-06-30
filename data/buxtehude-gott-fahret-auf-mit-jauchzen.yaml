@@ -1,0 +1,19 @@
+id: buxtehude-gott-fahret-auf-mit-jauchzen
+work:
+  composer: Buxtehude, Dietrich
+  title: Gott fähret auf mit Jauchzen
+  ids:
+    imslp: Gott fähret auf mit Jauchzen, BuxWV 33 (Buxtehude, Dietrich)
+formula: 0002 0220 str
+instrumentation:
+  bassoon: 2
+  trumpet: 2
+  trombone: 2
+  strings: str
+  additional_raw: 2 cornettos | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_f%C3%A4hret_auf_mit_Jauchzen%2C_BuxWV_33_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: bassoon, 2 cornettos, 2 trumpets, 2 trombones, bassoon,
+    strings, continuo'

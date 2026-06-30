@@ -1,0 +1,20 @@
+id: buxtehude-wachet-auf-ruft-uns-die-stimme-buxwv-101
+work:
+  composer: Buxtehude, Dietrich
+  title: Wachet auf, ruft uns die Stimme, BuxWV 101
+  ids:
+    imslp: Wachet auf, ruft uns die Stimme, BuxWV 101 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  - tenor
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Wachet_auf%2C_ruft_uns_die_Stimme%2C_BuxWV_101_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, tenor, bass, 2 violins, continuo'

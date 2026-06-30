@@ -1,0 +1,40 @@
+id: raff-sleeping-beauty
+work:
+  composer: Raff, Joachim
+  title: Sleeping Beauty
+  ids:
+    imslp: Sleeping Beauty, WoO.19 (Raff, Joachim)
+  year: 1855
+formula: 3[pic.2.3] 2 2 2 4 3[cnt.2.3] 3 1 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - {}
+  - {}
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - triangle
+  strings: str
+  soloists:
+  - Voices (soprano, alto, tenor, bass)
+  - Mixed Chorus (SSATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sleeping_Beauty%2C_WoO.19_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Voices (soprano, alto, tenor,
+    bass), Mixed Chorus (SSATB), Orchestra ::piccolo, 2 flutes, 2 oboes, 2 clarinets,
+    2 bassoons, 4 horns, cornet, 2 trumpets, 3 trombones, tuba, timpani, bass drum,
+    triangle, strings'

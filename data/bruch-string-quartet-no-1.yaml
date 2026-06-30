@@ -1,0 +1,18 @@
+id: bruch-string-quartet-no-1
+work:
+  composer: Bruch, Max
+  title: String Quartet No.1
+  ids:
+    imslp: String Quartet No.1, Op.9 (Bruch, Max)
+  year: 1859
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.1%2C_Op.9_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

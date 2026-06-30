@@ -1,0 +1,16 @@
+id: adam-regine-ou-les-deux-nuits
+work:
+  composer: Adam, Adolphe
+  title: Régine, ou Les deux nuits
+  ids:
+    imslp: Régine (Adam, Adolphe)
+  year: 1839
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/R%C3%A9gine_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

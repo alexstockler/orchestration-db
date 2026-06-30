@@ -1,0 +1,20 @@
+id: buxtehude-furwahr-er-trug-unsere-krankheit
+work:
+  composer: Buxtehude, Dietrich
+  title: Fürwahr er trug unsere Krankheit
+  ids:
+    imslp: Fürwahr er trug unsere Krankheit, BuxWV 31 (Buxtehude, Dietrich)
+formula: 0001 0000
+instrumentation:
+  bassoon: 1
+  soloists:
+  - 5 voices
+  solo_strings:
+    violin: 2
+  additional_raw: 2 violas da gamba | violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/F%C3%BCrwahr_er_trug_unsere_Krankheit%2C_BuxWV_31_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 5 voices (SSATB), bassoon, 2 violins, 2 violas da gamba,
+    violone, continuo'

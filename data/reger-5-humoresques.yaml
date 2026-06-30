@@ -1,0 +1,16 @@
+id: reger-5-humoresques
+work:
+  composer: Reger, Max
+  title: 5 Humoresques
+  ids:
+    imslp: 5 Humoresques, Op.20 (Reger, Max)
+  year: 1898
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Humoresques%2C_Op.20_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

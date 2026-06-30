@@ -1,0 +1,16 @@
+id: raff-capriccietto-uber-motive-aus-dem-freischutz-von-c-m-von-weber-op-35
+work:
+  composer: Raff, Joachim
+  title: Capriccietto über Motive aus dem Freischütz von C.M. von Weber, Op.35
+  ids:
+    imslp: Capriccietto über Motive aus der Oper 'Der Freischütz', Op.35 (Raff, Joachim)
+  year: 1847
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Capriccietto_%C3%BCber_Motive_aus_der_Oper_%27Der_Freisch%C3%BCtz%27%2C_Op.35_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

@@ -1,0 +1,20 @@
+id: charpentier-regina-coeli
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Regina coeli
+  ids:
+    imslp: Regina coeli, H.30 (Charpentier, Marc-Antoine)
+  year: 1687
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  - tenor
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Regina_coeli%2C_H.30_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: alto (counter tenor), tenor, bass, continuo'
+duration_minutes: 3

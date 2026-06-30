@@ -1,0 +1,17 @@
+id: adam-le-chalet
+work:
+  composer: Adam, Adolphe
+  title: Le chalet
+  ids:
+    imslp: Le chalet (Adam, Adolphe)
+  year: 1834
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_chalet_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

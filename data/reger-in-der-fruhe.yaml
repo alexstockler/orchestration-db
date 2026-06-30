@@ -1,0 +1,18 @@
+id: reger-in-der-fruhe
+work:
+  composer: Reger, Max
+  title: In der Frühe
+  ids:
+    imslp: In der Frühe, WoO VII/41 (Reger, Max)
+  year: 1907
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_der_Fr%C3%BChe%2C_WoO_VII/41_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

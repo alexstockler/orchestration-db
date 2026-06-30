@@ -1,0 +1,18 @@
+id: buxtehude-att-du-jesu-will-mig-hora-buxwv-8
+work:
+  composer: Buxtehude, Dietrich
+  title: Att du, Jesu, will mig höra, BuxWV 8
+  ids:
+    imslp: Att du, Jesu, will mig höra, BuxWV 8 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  solo_strings:
+    violin: 2
+  additional_raw: viola da gamba | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Att_du%2C_Jesu%2C_will_mig_h%C3%B6ra%2C_BuxWV_8_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 2 violins, viola da gamba, continuo'

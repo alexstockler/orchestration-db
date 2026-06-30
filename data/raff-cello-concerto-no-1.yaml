@@ -1,0 +1,16 @@
+id: raff-cello-concerto-no-1
+work:
+  composer: Raff, Joachim
+  title: Cello Concerto No.1
+  ids:
+    imslp: Cello Concerto No.1, Op.193 (Raff, Joachim)
+  year: 1874
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Concerto_No.1%2C_Op.193_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, orchestra'

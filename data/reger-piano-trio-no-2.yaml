@@ -1,0 +1,20 @@
+id: reger-piano-trio-no-2
+work:
+  composer: Reger, Max
+  title: Piano Trio No.2
+  ids:
+    imslp: Piano Trio No.2, Op.102 (Reger, Max)
+  year: 1907
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio_No.2%2C_Op.102_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'
+duration_minutes: 45

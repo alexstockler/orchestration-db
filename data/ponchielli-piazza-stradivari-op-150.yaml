@@ -1,0 +1,15 @@
+id: ponchielli-piazza-stradivari-op-150
+work:
+  composer: Ponchielli, Amilcare
+  title: Piazza Stradivari, Op.150
+  ids:
+    imslp: Piazza Stradivari, Op.150 (Ponchielli, Amilcare)
+  year: 1870
+formula: ''
+instrumentation:
+  additional_raw: Wind band
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piazza_Stradivari%2C_Op.150_%28Ponchielli%2C_Amilcare%29
+  confidence: single_source
+  notes: 'Instrumentation: Wind band'

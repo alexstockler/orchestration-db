@@ -1,0 +1,18 @@
+id: meyerbeer-chant-de-mai
+work:
+  composer: Meyerbeer, Giacomo
+  title: Chant de mai
+  ids:
+    imslp: Chant de mai (Meyerbeer, Giacomo)
+  year: 1837
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chant_de_mai_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

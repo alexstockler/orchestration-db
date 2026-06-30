@@ -1,0 +1,18 @@
+id: reger-3-duette
+work:
+  composer: Reger, Max
+  title: 3 Duette
+  ids:
+    imslp: 3 Duets, Op.111a (Reger, Max)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - alto
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Duets%2C_Op.111a_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, piano'

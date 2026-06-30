@@ -1,0 +1,16 @@
+id: scarlatti-avrei-ben-folle-il-core
+work:
+  composer: Scarlatti, Domenico
+  title: Avrei ben folle il core
+  ids:
+    imslp: Avrei ben folle il core (Scarlatti, Domenico)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Avrei_ben_folle_il_core_%28Scarlatti%2C_Domenico%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

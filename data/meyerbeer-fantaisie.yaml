@@ -1,0 +1,18 @@
+id: meyerbeer-fantaisie
+work:
+  composer: Meyerbeer, Giacomo
+  title: Fantaisie
+  ids:
+    imslp: Fantaisie (Meyerbeer, Giacomo)
+  year: 1836
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantaisie_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

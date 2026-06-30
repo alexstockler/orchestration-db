@@ -1,0 +1,15 @@
+id: gade-5-gesange-fur-mannerchor
+work:
+  composer: Gade, Niels
+  title: 5 Gesänge für Männerchor
+  ids:
+    imslp: 5 Gesänge für Männerchor, Op.38 (Gade, Niels)
+  year: 1861
+formula: ''
+instrumentation:
+  chorus_raw: ttbb choir
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Ges%C3%A4nge_f%C3%BCr_M%C3%A4nnerchor%2C_Op.38_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: TTBB choir'

@@ -1,0 +1,18 @@
+id: raff-volker
+work:
+  composer: Raff, Joachim
+  title: Volker
+  ids:
+    imslp: Volker, Op.203 (Raff, Joachim)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Volker%2C_Op.203_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano (Nos. 5 + 8 were also orchestrated)'

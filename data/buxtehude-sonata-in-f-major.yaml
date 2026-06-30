@@ -1,0 +1,16 @@
+id: buxtehude-sonata-in-f-major
+work:
+  composer: Buxtehude, Dietrich
+  title: Sonata in F major
+  ids:
+    imslp: Trio Sonata in F major, BuxWV 269 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: viola da gamba | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_F_major%2C_BuxWV_269_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola da gamba, continuo'

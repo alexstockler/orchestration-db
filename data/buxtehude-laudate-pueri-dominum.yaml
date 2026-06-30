@@ -1,0 +1,18 @@
+id: buxtehude-laudate-pueri-dominum
+work:
+  composer: Buxtehude, Dietrich
+  title: Laudate, pueri Dominum
+  ids:
+    imslp: Laudate, pueri Dominum, BuxWV 69 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  additional_raw: 5 viols (TrTrATB) (or 2 violins, 2 violas, cello) | violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Laudate%2C_pueri_Dominum%2C_BuxWV_69_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, 5 viols (TrTrATB) (or 2 violins, 2 violas,
+    cello), violone, continuo'
+duration_minutes: 7

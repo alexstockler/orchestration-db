@@ -1,0 +1,16 @@
+id: charpentier-ecce-panis-angelorum
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Ecce panis Angelorum
+  ids:
+    imslp: Ecce panis Angelorum, H.242 (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ecce_panis_Angelorum%2C_H.242_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

@@ -1,0 +1,15 @@
+id: gade-oscars-ghost
+work:
+  composer: Gade, Niels
+  title: Oscars Ghost
+  ids:
+    imslp: Oscars Ghost (Gade, Niels)
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 3
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oscars_Ghost_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 violins'

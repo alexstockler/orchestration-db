@@ -1,0 +1,18 @@
+id: reger-string-quartet-no-2-op-54-no-2
+work:
+  composer: Reger, Max
+  title: String Quartet No.2, Op.54, No.2
+  ids:
+    imslp: String Quartet No.2, Op.54 No.2 (Reger, Max)
+  year: 1900
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.2%2C_Op.54_No.2_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

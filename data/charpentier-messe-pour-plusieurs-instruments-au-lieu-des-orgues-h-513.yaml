@@ -1,0 +1,16 @@
+id: charpentier-messe-pour-plusieurs-instruments-au-lieu-des-orgues-h-513
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Messe pour plusieurs instruments au lieu des orgues, H 513
+  ids:
+    imslp: Messe pour plusieurs instruments au lieu des orgues, H.513 (Charpentier,
+      Marc-Antoine)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Messe_pour_plusieurs_instruments_au_lieu_des_orgues%2C_H.513_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

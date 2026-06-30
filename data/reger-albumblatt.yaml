@@ -1,0 +1,18 @@
+id: reger-albumblatt
+work:
+  composer: Reger, Max
+  title: Albumblatt
+  ids:
+    imslp: Albumblatt, WoO II/13 (Reger, Max)
+  year: 1902
+formula: 0010 0000 pf
+instrumentation:
+  clarinet: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Albumblatt%2C_WoO_II/13_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, piano'
+duration_minutes: 23

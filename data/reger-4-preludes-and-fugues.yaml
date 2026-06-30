@@ -1,0 +1,16 @@
+id: reger-4-preludes-and-fugues
+work:
+  composer: Reger, Max
+  title: 4 Preludes and Fugues
+  ids:
+    imslp: 4 Preludes and Fugues, Op.85 (Reger, Max)
+  year: 1904
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Preludes_and_Fugues%2C_Op.85_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

@@ -1,0 +1,20 @@
+id: buxtehude-o-clemens-o-mitis-o-coelestis-pater
+work:
+  composer: Buxtehude, Dietrich
+  title: O clemens, o mitis, o coelestis Pater
+  ids:
+    imslp: O clemens, o mitis, o coelestis Pater, BuxWV 82 (Buxtehude, Dietrich)
+formula: 0100 0000
+instrumentation:
+  oboe: 1
+  soloists:
+  - soprano
+  solo_strings:
+    violin: 1
+    viola: 1
+  additional_raw: 2 violetta | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_clemens%2C_o_mitis%2C_o_coelestis_Pater%2C_BuxWV_82_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, oboe*, violin, 2 violetta, viola (basso), continuo'

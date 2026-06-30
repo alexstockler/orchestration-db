@@ -1,0 +1,14 @@
+id: charpentier-trio-de-mr-charpentier
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Trio de Mr. Charpentier
+  ids:
+    imslp: Trio de Mr. Charpentier (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  additional_raw: SSB instrumentation
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_de_Mr._Charpentier_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: SSB instrumentation'

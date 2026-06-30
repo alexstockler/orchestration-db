@@ -1,0 +1,15 @@
+id: martucci-polacca
+work:
+  composer: Martucci, Giuseppe
+  title: Polacca
+  ids:
+    imslp: Polacca, Op.19 (Martucci, Giuseppe)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Polacca%2C_Op.19_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,27 @@
+id: bruch-dopel-konzerte-fur-karinette-oder-violine-viola-und-orchester
+work:
+  composer: Bruch, Max
+  title: Dopel-Konzerte für Karinette (oder Violine), Viola und Orchester
+  ids:
+    imslp: Double Concerto in E minor, Op.88 (Bruch, Max)
+  year: 1911
+formula: 2 3[1.2.Eh] 2 2 4200 tmp str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Double_Concerto_in_E_minor%2C_Op.88_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, English horn, 2 clarinets, 2 bassoons,,
+    4 horns, 2 trumpets, timpani, strings'

@@ -1,0 +1,20 @@
+id: reger-scherzo-for-flute-and-string-quintet
+work:
+  composer: Reger, Max
+  title: Scherzo for Flute and String Quintet
+  ids:
+    imslp: Scherzo, WoO II/1 (Reger, Max)
+  year: 1888
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+    double_bass: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scherzo%2C_WoO_II/1_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Flute, 2 violins, viola, cello, contrabass'

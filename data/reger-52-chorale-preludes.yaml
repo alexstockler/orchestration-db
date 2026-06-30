@@ -1,0 +1,16 @@
+id: reger-52-chorale-preludes
+work:
+  composer: Reger, Max
+  title: 52 Chorale Preludes
+  ids:
+    imslp: 52 Choralvorspiele, Op.67 (Reger, Max)
+  year: 1902
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/52_Choralvorspiele%2C_Op.67_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

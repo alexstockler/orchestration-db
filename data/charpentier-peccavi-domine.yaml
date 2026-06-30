@@ -1,0 +1,18 @@
+id: charpentier-peccavi-domine
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Peccavi Domine
+  ids:
+    imslp: Peccavi Domine, H.378 (Charpentier, Marc-Antoine)
+  year: 1709
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Peccavi_Domine%2C_H.378_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, bass, continuo'

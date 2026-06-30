@@ -1,0 +1,19 @@
+id: herold-caprice-for-piano-quintet
+work:
+  composer: Hérold, Ferdinand
+  title: Caprice for Piano Quintet
+  ids:
+    imslp: Caprice for Piano Quintet, Op.8 (Hérold, Ferdinand)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Caprice_for_Piano_Quintet%2C_Op.8_%28H%C3%A9rold%2C_Ferdinand%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello, piano'

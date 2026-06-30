@@ -1,0 +1,16 @@
+id: gade-3-pieces-for-organ
+work:
+  composer: Gade, Niels
+  title: 3 Pieces for Organ
+  ids:
+    imslp: 3 Pieces for Organ, Op.22 (Gade, Niels)
+  year: 1851
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Pieces_for_Organ%2C_Op.22_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

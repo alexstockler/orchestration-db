@@ -1,0 +1,16 @@
+id: reger-dreissig-kleine-choralvorspiele-zu-den-gebrauchlichsten-choralen
+work:
+  composer: Reger, Max
+  title: Dreissig kleine Choralvorspiele zu den gebräuchlichsten Chorälen
+  ids:
+    imslp: 30 Kleine Choralvorspiele, Op.135a (Reger, Max)
+  year: 1914
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/30_Kleine_Choralvorspiele%2C_Op.135a_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

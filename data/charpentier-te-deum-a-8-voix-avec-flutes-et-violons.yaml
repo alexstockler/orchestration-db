@@ -1,0 +1,20 @@
+id: charpentier-te-deum-a-8-voix-avec-flutes-et-violons
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Te Deum à 8 voix avec flûtes et violons
+  ids:
+    imslp: Te Deum, H.145 (Charpentier, Marc-Antoine)
+  year: 1672
+formula: 1100 0000 str
+instrumentation:
+  flute: 1
+  oboe: 1
+  strings:
+    standard: true
+    description: '8'
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Te_Deum%2C_H.145_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, strings (8), continuo'

@@ -1,0 +1,17 @@
+id: reger-an-die-hoffnung
+work:
+  composer: Reger, Max
+  title: An die Hoffnung
+  ids:
+    imslp: An die Hoffnung, Op.124 (Reger, Max)
+  year: 1912
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_die_Hoffnung%2C_Op.124_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: alto (resp. mezzo-soprano), orchestra (or piano)'
+duration_minutes: 12

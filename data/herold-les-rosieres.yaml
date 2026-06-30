@@ -1,0 +1,16 @@
+id: herold-les-rosieres
+work:
+  composer: Hérold, Ferdinand
+  title: Les rosières
+  ids:
+    imslp: Les rosières (Hérold, Ferdinand)
+  year: 1817
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_rosi%C3%A8res_%28H%C3%A9rold%2C_Ferdinand%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

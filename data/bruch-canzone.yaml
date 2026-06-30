@@ -1,0 +1,16 @@
+id: bruch-canzone
+work:
+  composer: Bruch, Max
+  title: Canzone
+  ids:
+    imslp: Canzone, Op.55 (Bruch, Max)
+  year: 1890
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canzone%2C_Op.55_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, orchestra'

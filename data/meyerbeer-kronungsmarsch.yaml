@@ -1,0 +1,50 @@
+id: meyerbeer-kronungsmarsch
+work:
+  composer: Meyerbeer, Giacomo
+  title: Krönungsmarsch
+  ids:
+    imslp: Krönungsmarsch (Meyerbeer, Giacomo)
+  year: 1861
+formula: 4[pic.pic.3.4] 2 2 4 4 8[cnt.cnt.3.4.5.6.7.8] 3 0 tmp+1 ophicleide str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 4
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  trombone: 3
+  percussion:
+    timpani: 1
+    players: 1
+    instruments:
+    - snare drum
+  extras:
+  - instrument: ophicleide
+  strings: str
+  soloists:
+  - '2 orchestras: :First'
+  additional_raw: Second orchestra (brass band) | sopranino saxhorn | 2 soprano saxhorns
+    | 2 alto saxhorns | 2 tenor saxhorns | baritone saxhorn | bass saxhorn
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kr%C3%B6nungsmarsch_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 orchestras: :First orchestra: 2 piccolos, 2 flutes, 2
+    oboes, 2 clarinets, 4 bassoons, 4 horns, 3 trombones, ophicleide, 2 cornets, 2
+    trumpets, timpani, percussion, strings :Second orchestra (brass band): 4 trumpets,
+    sopranino saxhorn, 2 soprano saxhorns, 2 alto saxhorns, 2 tenor saxhorns, baritone
+    saxhorn, bass saxhorn, timpani, snare drum'
+duration_minutes: 6

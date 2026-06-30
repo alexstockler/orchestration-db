@@ -1,0 +1,19 @@
+id: charpentier-ecce-quomodo-moritur
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Ecce quomodo moritur
+  ids:
+    imslp: Ecce quomodo moritur, H.131 (Charpentier, Marc-Antoine)
+  year: 1690
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ecce_quomodo_moritur%2C_H.131_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, strings, continuo'
+duration_minutes: 5

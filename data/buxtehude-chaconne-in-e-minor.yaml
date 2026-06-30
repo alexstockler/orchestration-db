@@ -1,0 +1,16 @@
+id: buxtehude-chaconne-in-e-minor
+work:
+  composer: Buxtehude, Dietrich
+  title: Chaconne in E minor
+  ids:
+    imslp: Chaconne in E minor, BuxWV 160 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chaconne_in_E_minor%2C_BuxWV_160_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

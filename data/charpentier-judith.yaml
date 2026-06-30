@@ -1,0 +1,23 @@
+id: charpentier-judith
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Judith
+  ids:
+    imslp: Judith, H.391 (Charpentier, Marc-Antoine)
+  year: 1674
+formula: 2000 0000
+instrumentation:
+  flute: 2
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Judith%2C_H.391_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, 2 violins (viols), 2 flutes (recorders),
+    continuo'
+duration_minutes: 35

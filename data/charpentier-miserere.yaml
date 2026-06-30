@@ -1,0 +1,18 @@
+id: charpentier-miserere
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Miserere
+  ids:
+    imslp: Miserere, H.157 (Charpentier, Marc-Antoine)
+formula: 2000 0000
+instrumentation:
+  flute: 2
+  soloists:
+  - sopranos
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Miserere%2C_H.157_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, 2 flutes, continuo'
+duration_minutes: 25

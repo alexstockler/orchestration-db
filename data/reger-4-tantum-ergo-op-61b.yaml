@@ -1,0 +1,16 @@
+id: reger-4-tantum-ergo-op-61b
+work:
+  composer: Reger, Max
+  title: 4 Tantum ergo, Op.61b
+  ids:
+    imslp: 4 Tantum ergo, Op.61b (Reger, Max)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  additional_raw: voices (SA or TB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Tantum_ergo%2C_Op.61b_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voices (SA or TB), organ'

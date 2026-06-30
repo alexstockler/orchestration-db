@@ -1,0 +1,19 @@
+id: buxtehude-jesu-meine-freude
+work:
+  composer: Buxtehude, Dietrich
+  title: Jesu meine Freude
+  ids:
+    imslp: Jesu meine Freude, BuxWV 60 (Buxtehude, Dietrich)
+formula: 0001 0000
+instrumentation:
+  bassoon: 1
+  soloists:
+  - voices
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jesu_meine_Freude%2C_BuxWV_60_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: voices (SSB), 2 violins, bassoon, continuo'

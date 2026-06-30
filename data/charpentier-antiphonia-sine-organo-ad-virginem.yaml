@@ -1,0 +1,15 @@
+id: charpentier-antiphonia-sine-organo-ad-virginem
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Antiphonia sine organo ad Virginem
+  ids:
+    imslp: Antiphonia sine organo ad Virginem (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  additional_raw: SSA voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Antiphonia_sine_organo_ad_Virginem_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: SSA voices'
+duration_minutes: 5

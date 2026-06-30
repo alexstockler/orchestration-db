@@ -1,0 +1,29 @@
+id: bruch-normannenzug
+work:
+  composer: Bruch, Max
+  title: Normannenzug
+  ids:
+    imslp: Normannenzug, Op.32 (Bruch, Max)
+  year: 1870
+formula: 1111 4130 tmp str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 4
+  trumpet: 1
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - baritone
+  - male chorus (TB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Normannenzug%2C_Op.32_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: baritone + male chorus (TB), Orchestra: flutes,
+    oboes, clarinets (A), bassoons + 4 horns (F), trumpets (E), 3 trombones + timpani
+    + strings'

@@ -1,0 +1,16 @@
+id: martucci-3-valzer
+work:
+  composer: Martucci, Giuseppe
+  title: 3 Valzer
+  ids:
+    imslp: 3 Valzer, Op.46 (Martucci, Giuseppe)
+  year: 1879
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Valzer%2C_Op.46_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,16 @@
+id: buxtehude-toccata-in-d-minor
+work:
+  composer: Buxtehude, Dietrich
+  title: Toccata in D minor
+  ids:
+    imslp: Toccata in D minor, BuxWV 155 (Buxtehude, Dietrich)
+  year: 1685
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Toccata_in_D_minor%2C_BuxWV_155_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

@@ -1,0 +1,16 @@
+id: adam-ave-verum
+work:
+  composer: Adam, Adolphe
+  title: Ave verum
+  ids:
+    imslp: Ave verum (Adam, Adolphe)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  additional_raw: Soprano voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_verum_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: Soprano voice, organ'

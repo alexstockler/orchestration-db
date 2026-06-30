@@ -1,0 +1,19 @@
+id: bellini-malinconia
+work:
+  composer: Bellini, Vincenzo
+  title: Malinconia
+  ids:
+    imslp: Malinconia (Bellini, Vincenzo)
+  year: 1820
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Malinconia_%28Bellini%2C_Vincenzo%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 2

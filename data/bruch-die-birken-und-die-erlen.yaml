@@ -1,0 +1,27 @@
+id: bruch-die-birken-und-die-erlen
+work:
+  composer: Bruch, Max
+  title: Die Birken und die Erlen
+  ids:
+    imslp: Die Birken und die Erlen, Op.8 (Bruch, Max)
+  year: 1859
+formula: 2222 4200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - soprano :Mixed Chorus (SATTBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Birken_und_die_Erlen%2C_Op.8_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, chorus, orchestra :Voices ::soprano :Mixed Chorus
+    (SATTBB), Orchestra ::2 flutes, 2 oboes, 2 clarinets (A), 2 bassoons, 4 horns
+    (F), 2 trumpets (F), timpani, strings'

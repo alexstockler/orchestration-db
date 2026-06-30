@@ -1,0 +1,15 @@
+id: lully-ballet-les-facheux-lwv-16
+work:
+  composer: Lully, Jean-Baptiste
+  title: Ballet Les Fâcheux, LWV 16
+  ids:
+    imslp: Les Fâcheux, LWV 16 (Lully, Jean-Baptiste)
+  year: 1661
+formula: ''
+instrumentation:
+  additional_raw: '|Tags=ballets | open'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_F%C3%A2cheux%2C_LWV_16_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: |Tags=ballets ; open'

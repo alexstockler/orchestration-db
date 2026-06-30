@@ -1,0 +1,19 @@
+id: charpentier-revelabunt-coeli
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Revelabunt coeli
+  ids:
+    imslp: Revelabunt coeli, H.118 (Charpentier, Marc-Antoine)
+  year: 1680
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Revelabunt_coeli%2C_H.118_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, alto, continuo'
+duration_minutes: 5

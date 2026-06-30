@@ -1,0 +1,16 @@
+id: reger-4-marienlieder-op-61f
+work:
+  composer: Reger, Max
+  title: 4 Marienlieder, Op.61f
+  ids:
+    imslp: 4 Marienlieder, Op.61f (Reger, Max)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: choir
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Marienlieder%2C_Op.61f_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: choir (SATB), organ'

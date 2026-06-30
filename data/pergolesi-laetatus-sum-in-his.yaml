@@ -1,0 +1,17 @@
+id: pergolesi-laetatus-sum-in-his
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Laetatus sum in his
+  ids:
+    imslp: Laetatus sum in his (Pergolesi, Giovanni Battista)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Laetatus_sum_in_his_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: Soprano, strings, continuo'

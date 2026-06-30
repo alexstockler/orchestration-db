@@ -1,0 +1,15 @@
+id: reger-3-gesange
+work:
+  composer: Reger, Max
+  title: 3 Gesänge
+  ids:
+    imslp: 3 Gesänge, Op.111c (Reger, Max)
+  year: 1909
+formula: ''
+instrumentation:
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Ges%C3%A4nge%2C_Op.111c_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Female chorus (SSA)'

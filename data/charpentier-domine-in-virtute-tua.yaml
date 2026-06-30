@@ -1,0 +1,23 @@
+id: charpentier-domine-in-virtute-tua
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Domine in virtute tua
+  ids:
+    imslp: Domine in virtute tua, H.164 (Charpentier, Marc-Antoine)
+  year: 1677
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Domine_in_virtute_tua%2C_H.164_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, bass; 2 violins (or viols, and/or recorders),
+    continuo'
+duration_minutes: 7

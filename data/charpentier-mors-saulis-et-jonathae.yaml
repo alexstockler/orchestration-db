@@ -1,0 +1,20 @@
+id: charpentier-mors-saulis-et-jonathae
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Mors Saulis et Jonathae
+  ids:
+    imslp: Mors Saulis et Jonathae, H.403 (Charpentier, Marc-Antoine)
+  year: 1681
+formula: ''
+instrumentation:
+  soloists:
+  - 8 voices
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mors_Saulis_et_Jonathae%2C_H.403_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 8 voices (solo and chorus), 2 violins, continuo'
+duration_minutes: 35

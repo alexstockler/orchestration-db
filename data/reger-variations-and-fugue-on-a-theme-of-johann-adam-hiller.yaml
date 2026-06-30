@@ -1,0 +1,30 @@
+id: reger-variations-and-fugue-on-a-theme-of-johann-adam-hiller
+work:
+  composer: Reger, Max
+  title: Variations and Fugue on a Theme of Johann Adam Hiller
+  ids:
+    imslp: Variations and Fugue on a Theme by J.A. Hiller, Op.100 (Reger, Max)
+formula: 2 2 2 3[1.2.cbn] 4231 tmp hp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variations_and_Fugue_on_a_Theme_by_J.A._Hiller%2C_Op.100_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets (A), 2 bassoons, contrabassoon,
+    4 horns (F), 2 trumpets (C), 3 trombones, tuba, timpani, harp, strings'
+duration_minutes: 40

@@ -1,0 +1,23 @@
+id: pergolesi-confitebor-tibi-domine
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Confitebor tibi Domine
+  ids:
+    imslp: Confitebor tibi Domine, P.66 (Pergolesi, Giovanni Battista)
+formula: 0200 2000 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - mixed chorus (SSATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Confitebor_tibi_Domine%2C_P.66_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, alto; mixed chorus (SSATB), Orchestra:
+    2 oboes, 2 horns, strings, continuo'
+duration_minutes: 18

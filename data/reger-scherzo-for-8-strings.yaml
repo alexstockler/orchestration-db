@@ -1,0 +1,18 @@
+id: reger-scherzo-for-8-strings
+work:
+  composer: Reger, Max
+  title: Scherzo for 8 Strings
+  ids:
+    imslp: Scherzo, WoO II/6 (Reger, Max)
+  year: 1890
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 4
+    viola: 2
+    cello: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scherzo%2C_WoO_II/6_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 violins, 2 violas, 2 cellos'

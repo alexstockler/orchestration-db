@@ -1,0 +1,16 @@
+id: herold-emeline
+work:
+  composer: Hérold, Ferdinand
+  title: Émeline
+  ids:
+    imslp: Émeline (Hérold, Ferdinand)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%89meline_%28H%C3%A9rold%2C_Ferdinand%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

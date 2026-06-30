@@ -1,0 +1,17 @@
+id: lully-persee
+work:
+  composer: Lully, Jean-Baptiste
+  title: Persée
+  ids:
+    imslp: Persée, LWV 60 (Lully, Jean-Baptiste)
+  year: 1682
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pers%C3%A9e%2C_LWV_60_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

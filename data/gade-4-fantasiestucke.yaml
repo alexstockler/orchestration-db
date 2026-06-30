@@ -1,0 +1,17 @@
+id: gade-4-fantasiestucke
+work:
+  composer: Gade, Niels
+  title: 4 Fantasiestücke
+  ids:
+    imslp: 4 Fantasiestücke for Clarinet and Piano, Op.43 (Gade, Niels)
+  year: 1864
+formula: 0010 0000 pf
+instrumentation:
+  clarinet: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Fantasiest%C3%BCcke_for_Clarinet_and_Piano%2C_Op.43_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet (or violin), piano'

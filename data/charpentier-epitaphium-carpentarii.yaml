@@ -1,0 +1,17 @@
+id: charpentier-epitaphium-carpentarii
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Epitaphium Carpentarii
+  ids:
+    imslp: Epitaphium Carpentarii, H.474 (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  soloists:
+  - 6 voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Epitaphium_Carpentarii%2C_H.474_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 6 voices (SSAATB), continuo'
+duration_minutes: 15

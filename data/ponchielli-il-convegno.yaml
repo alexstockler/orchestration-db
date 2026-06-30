@@ -1,0 +1,16 @@
+id: ponchielli-il-convegno
+work:
+  composer: Ponchielli, Amilcare
+  title: Il Convegno
+  ids:
+    imslp: Il Convegno, Op.76 (Ponchielli, Amilcare)
+  year: 1865
+formula: 0020 0000
+instrumentation:
+  clarinet: 2
+  additional_raw: wind band
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_Convegno%2C_Op.76_%28Ponchielli%2C_Amilcare%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 clarinets, wind band'

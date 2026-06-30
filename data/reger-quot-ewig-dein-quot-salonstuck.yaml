@@ -1,0 +1,16 @@
+id: reger-quot-ewig-dein-quot-salonstuck
+work:
+  composer: Reger, Max
+  title: '&quot;Ewig dein!&quot; - Salonstück'
+  ids:
+    imslp: Ewig dein!, WoO III/23 (Reger, Max)
+  year: 1907
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ewig_dein%21%2C_WoO_III/23_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: 1 piano'

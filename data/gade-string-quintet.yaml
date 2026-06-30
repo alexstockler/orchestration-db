@@ -1,0 +1,19 @@
+id: gade-string-quintet
+work:
+  composer: Gade, Niels
+  title: String Quintet
+  ids:
+    imslp: String Quintet, Op.8 (Gade, Niels)
+  year: 1845
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 2
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quintet%2C_Op.8_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, 2 violas, cello'
+duration_minutes: 20

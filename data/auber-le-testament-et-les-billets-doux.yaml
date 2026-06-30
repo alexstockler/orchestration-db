@@ -1,0 +1,16 @@
+id: auber-le-testament-et-les-billets-doux
+work:
+  composer: Auber, Daniel François Esprit
+  title: Le testament et les billets doux
+  ids:
+    imslp: Le testament et les billets doux (Auber, Daniel François Esprit)
+  year: 1819
+formula: ''
+instrumentation:
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_testament_et_les_billets_doux_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, orchestra (2 flutes, 2 oboes, 2 clarinets,
+    2 bassoons, 2 horns, strings)'

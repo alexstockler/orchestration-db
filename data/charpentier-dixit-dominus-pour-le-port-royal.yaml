@@ -1,0 +1,20 @@
+id: charpentier-dixit-dominus-pour-le-port-royal
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Dixit Dominus pour le Port Royal
+  ids:
+    imslp: Dixit Dominus pour le Port Royal, H.226 (Charpentier, Marc-Antoine)
+  year: 1687
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - sopranos
+  chorus_raw: female chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dixit_Dominus_pour_le_Port_Royal%2C_H.226_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 sopranos, female chorus (SA), organ'
+duration_minutes: 6

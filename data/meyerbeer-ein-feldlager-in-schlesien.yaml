@@ -1,0 +1,17 @@
+id: meyerbeer-ein-feldlager-in-schlesien
+work:
+  composer: Meyerbeer, Giacomo
+  title: Ein Feldlager in Schlesien
+  ids:
+    imslp: Ein Feldlager in Schlesien (Meyerbeer, Giacomo)
+  year: 1847
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ein_Feldlager_in_Schlesien_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices, chorus, orchestra'

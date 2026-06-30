@@ -1,0 +1,20 @@
+id: bellini-oboe-concerto-in-e-flat-major
+work:
+  composer: Bellini, Vincenzo
+  title: Oboe Concerto in E-flat major
+  ids:
+    imslp: Oboe Concerto in E-flat major (Bellini, Vincenzo)
+  year: 1823
+formula: 2222 2000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oboe_Concerto_in_E-flat_major_%28Bellini%2C_Vincenzo%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, strings'

@@ -1,0 +1,17 @@
+id: reger-4-violin-solo-sonatas
+work:
+  composer: Reger, Max
+  title: 4 Violin Solo Sonatas
+  ids:
+    imslp: 4 Sonatas for Solo Violin, Op.42 (Reger, Max)
+  year: 1899
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Sonatas_for_Solo_Violin%2C_Op.42_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: violin'
+duration_minutes: 50

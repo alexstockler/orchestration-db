@@ -1,0 +1,19 @@
+id: charpentier-o-crux-ave-spes-unica
+work:
+  composer: Charpentier, Marc-Antoine
+  title: O crux, ave spes unica
+  ids:
+    imslp: O crux, ave spes unica, H.349 (Charpentier, Marc-Antoine)
+  year: 1690
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  - tenor
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_crux%2C_ave_spes_unica%2C_H.349_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, tenor, continuo'
+duration_minutes: 3

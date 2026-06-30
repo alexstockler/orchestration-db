@@ -1,0 +1,18 @@
+id: raff-blondel-de-nesle
+work:
+  composer: Raff, Joachim
+  title: Blondel de Nesle
+  ids:
+    imslp: Blondel de Nesle, Op.211 (Raff, Joachim)
+  year: 1881
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Blondel_de_Nesle%2C_Op.211_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (baritone), piano'

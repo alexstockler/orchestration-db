@@ -1,0 +1,16 @@
+id: meyerbeer-freundschaft
+work:
+  composer: Meyerbeer, Giacomo
+  title: Freundschaft
+  ids:
+    imslp: Freundschaft (Meyerbeer, Giacomo)
+  year: 1842
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Freundschaft_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (2 tenors, 2 basses)'

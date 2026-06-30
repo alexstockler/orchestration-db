@@ -1,0 +1,16 @@
+id: reger-dreistimmiger-kanon-uber-das-lied-letzte-rose
+work:
+  composer: Reger, Max
+  title: Dreistimmiger Kanon über das Lied 'Letzte Rose'
+  ids:
+    imslp: Dreistimmiger Kanon über 'Letzte Rose', WoO VIII/11 (Reger, Max)
+  year: 1904
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dreistimmiger_Kanon_%C3%BCber_%27Letzte_Rose%27%2C_WoO_VIII/11_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

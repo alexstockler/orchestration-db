@@ -1,0 +1,16 @@
+id: bruch-in-memoriam
+work:
+  composer: Bruch, Max
+  title: In Memoriam
+  ids:
+    imslp: In Memoriam, Op.65 (Bruch, Max)
+  year: 1893
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_Memoriam%2C_Op.65_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin, orchestra'

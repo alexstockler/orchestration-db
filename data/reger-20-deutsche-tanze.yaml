@@ -1,0 +1,16 @@
+id: reger-20-deutsche-tanze
+work:
+  composer: Reger, Max
+  title: 20 Deutsche Tänze
+  ids:
+    imslp: 20 Deutsche Tänze, Op.10 (Reger, Max)
+  year: 1893
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/20_Deutsche_T%C3%A4nze%2C_Op.10_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'

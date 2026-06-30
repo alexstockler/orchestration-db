@@ -1,0 +1,25 @@
+id: raff-symphony-no-6
+work:
+  composer: Raff, Joachim
+  title: Symphony No.6
+  ids:
+    imslp: Symphony No.6, Op.189 (Raff, Joachim)
+  year: 1873
+formula: 2222 4230 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.6%2C_Op.189_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2
+    trumpets, 3 trombones, timpani, strings'

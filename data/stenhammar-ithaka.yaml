@@ -1,0 +1,18 @@
+id: stenhammar-ithaka
+work:
+  composer: Stenhammar, Wilhelm
+  title: Ithaka
+  ids:
+    imslp: Ithaka, Op.21 (Stenhammar, Wilhelm)
+  year: 1904
+formula: ''
+instrumentation:
+  soloists:
+  - baritone
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ithaka%2C_Op.21_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: baritone, orchestra (2 flutes, 2 oboes, 3 clarinets, 3
+    bassoons, 4 horns, 3 trumpets, 3 trombones, tuba, timpani, 2 harps, strings)'
+duration_minutes: 10

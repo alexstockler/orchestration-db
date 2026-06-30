@@ -1,0 +1,19 @@
+id: stenhammar-4-stockholm-poems
+work:
+  composer: Stenhammar, Wilhelm
+  title: 4 Stockholm Poems
+  ids:
+    imslp: 4 Stockholm Poems, Op.38 (Stenhammar, Wilhelm)
+  year: 1917
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Stockholm_Poems%2C_Op.38_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 10

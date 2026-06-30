@@ -1,0 +1,15 @@
+id: martucci-2-pezzi
+work:
+  composer: Martucci, Giuseppe
+  title: 2 Pezzi
+  ids:
+    imslp: 2 Pezzi, Op.73 (Martucci, Giuseppe)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Pezzi%2C_Op.73_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

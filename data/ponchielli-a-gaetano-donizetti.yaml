@@ -1,0 +1,15 @@
+id: ponchielli-a-gaetano-donizetti
+work:
+  composer: Ponchielli, Amilcare
+  title: A Gaetano Donizetti
+  ids:
+    imslp: A Gaetano Donizetti (Ponchielli, Amilcare)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: 5 vocal soloists (SATBarB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_Gaetano_Donizetti_%28Ponchielli%2C_Amilcare%29
+  confidence: single_source
+  notes: 'Instrumentation: 5 vocal soloists (SATBarB), mixed chorus, orchestra'

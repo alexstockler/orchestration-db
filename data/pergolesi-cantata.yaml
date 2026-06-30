@@ -1,0 +1,16 @@
+id: pergolesi-cantata
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Cantata
+  ids:
+    imslp: Segreto tormento (Pergolesi, Giovanni Battista)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: vl 1 | vl 2 | vla | bc
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Segreto_tormento_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: Soprano, vl 1, vl 2, vla, bc'

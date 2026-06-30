@@ -1,0 +1,16 @@
+id: buxtehude-der-tag-der-ist-so-freudenreich
+work:
+  composer: Buxtehude, Dietrich
+  title: Der Tag, der ist so freudenreich
+  ids:
+    imslp: Der Tag, der ist so freudenreich, BuxWV 182 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Tag%2C_der_ist_so_freudenreich%2C_BuxWV_182_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

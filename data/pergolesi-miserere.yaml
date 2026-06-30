@@ -1,0 +1,16 @@
+id: pergolesi-miserere
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Miserere
+  ids:
+    imslp: Miserere, P.344 (Pergolesi, Giovanni Battista)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Miserere%2C_P.344_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

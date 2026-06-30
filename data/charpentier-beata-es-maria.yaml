@@ -1,0 +1,21 @@
+id: charpentier-beata-es-maria
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Beata es Maria
+  ids:
+    imslp: Beata es Maria, H.25 (Charpentier, Marc-Antoine)
+  year: 1677
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  - tenor
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Beata_es_Maria%2C_H.25_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, tenor, 2 violins, continuo'
+duration_minutes: 5

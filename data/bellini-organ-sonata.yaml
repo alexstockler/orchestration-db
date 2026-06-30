@@ -1,0 +1,15 @@
+id: bellini-organ-sonata
+work:
+  composer: Bellini, Vincenzo
+  title: Organ Sonata
+  ids:
+    imslp: Organ Sonata (Bellini, Vincenzo)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Organ_Sonata_%28Bellini%2C_Vincenzo%29
+  confidence: single_source
+  notes: 'Instrumentation: Organ'

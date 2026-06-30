@@ -1,0 +1,17 @@
+id: raff-suite-no-4
+work:
+  composer: Raff, Joachim
+  title: Suite No.4
+  ids:
+    imslp: Suite No.4 for Piano, Op.91 (Raff, Joachim)
+  year: 1859
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_No.4_for_Piano%2C_Op.91_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 40

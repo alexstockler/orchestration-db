@@ -1,0 +1,77 @@
+id: stenhammar-tirfing
+work:
+  composer: Stenhammar, Wilhelm
+  title: Tirfing
+  ids:
+    imslp: Tirfing, Op.15 (Stenhammar, Wilhelm)
+  year: 1897
+formula: 3[1.2.3/pic] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.3/cbn] 6331 tmp 2hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - doublings:
+    - contrabassoon
+  horn: 6
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - triangle
+    - cymbals
+  harp: 2
+  strings: str
+  soloists:
+  - Gullväg (soprano)
+  - Hervor/Hervardur (mezzo-soprano)
+  - The servants' foreman (tenor)
+  - Gestur (tenor)
+  - Harald (tenor)
+  - A chieftain (tenor)
+  - Vidar (baritone)
+  - King Gudmund (baritone)
+  - A shepherd (baritone)
+  - A bard (baritone)
+  - Svasur (baritone)
+  - Angantyr (bass)
+  - evil-doers
+  - servants
+  - maids of the court
+  - knights
+  - squires :Voices ::soprano
+  - mezzo-soprano
+  - 4 tenors
+  - 5 baritones
+  - bass
+  - mixed chorus (SATB)
+  - 'female chorus :'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tirfing%2C_Op.15_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Cast ::Gullväg (soprano), Hervor/Hervardur
+    (mezzo-soprano), The servants'' foreman (tenor), Gestur (tenor), Harald (tenor),
+    A chieftain (tenor), Vidar (baritone), King Gudmund (baritone), A shepherd (baritone),
+    A bard (baritone), Svasur (baritone), Angantyr (bass), evil-doers, servants, maids
+    of the court, knights, squires :Voices ::soprano, mezzo-soprano, 4 tenors, 5 baritones,
+    bass,, mixed chorus (SATB), female chorus :Orchestra ::3 flutes (3rd also piccolo),
+    2 oboes, english horn, 2 clarinets (B/A),, bass clarinet (B/A), 3 bassoons (3rd
+    also contrabassoon),, 6 horns, 3 trumpets, 3 trombones, tuba, timpani,, bass drum,
+    triangle, cymbals, 2 harps, strings'
+duration_minutes: 180

@@ -1,0 +1,18 @@
+id: gade-9-lieder-im-volkston
+work:
+  composer: Gade, Niels
+  title: 9 Lieder im Volkston
+  ids:
+    imslp: 9 Lieder im Volkston, Op.9 (Gade, Niels)
+  year: 1845
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - sopranos
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/9_Lieder_im_Volkston%2C_Op.9_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, piano'

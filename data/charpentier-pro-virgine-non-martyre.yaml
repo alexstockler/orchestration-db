@@ -1,0 +1,20 @@
+id: charpentier-pro-virgine-non-martyre
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Pro Virgine non martyre
+  ids:
+    imslp: Pro Virgine non martyre, H.369 (Charpentier, Marc-Antoine)
+  year: 1694
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  - tenor
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pro_Virgine_non_martyre%2C_H.369_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, tenor, bass, continuo'
+duration_minutes: 4

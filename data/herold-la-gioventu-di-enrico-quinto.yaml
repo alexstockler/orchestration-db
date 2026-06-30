@@ -1,0 +1,16 @@
+id: herold-la-gioventu-di-enrico-quinto
+work:
+  composer: Hérold, Ferdinand
+  title: La gioventù di Enrico Quinto
+  ids:
+    imslp: La gioventù di Enrico Quinto (Hérold, Ferdinand)
+  year: 1815
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_giovent%C3%B9_di_Enrico_Quinto_%28H%C3%A9rold%2C_Ferdinand%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, Chorus, Orchestra'

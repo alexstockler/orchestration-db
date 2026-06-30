@@ -1,0 +1,17 @@
+id: buxtehude-afferte-domino-gloriam-honorem
+work:
+  composer: Buxtehude, Dietrich
+  title: Afferte Domino gloriam honorem
+  ids:
+    imslp: Afferte Domino gloriam honorem, BuxWV 2 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Afferte_Domino_gloriam_honorem%2C_BuxWV_2_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, bass, continuo'

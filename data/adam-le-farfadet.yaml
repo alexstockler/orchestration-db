@@ -1,0 +1,15 @@
+id: adam-le-farfadet
+work:
+  composer: Adam, Adolphe
+  title: Le farfadet
+  ids:
+    imslp: Le farfadet (Adam, Adolphe)
+  year: 1852
+formula: ''
+instrumentation:
+  additional_raw: Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_farfadet_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, Orchestra'

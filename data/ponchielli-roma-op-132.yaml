@@ -1,0 +1,15 @@
+id: ponchielli-roma-op-132
+work:
+  composer: Ponchielli, Amilcare
+  title: Roma! Op.132
+  ids:
+    imslp: Roma!, Op.132 (Ponchielli, Amilcare)
+  year: 1866
+formula: ''
+instrumentation:
+  additional_raw: Wind band
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Roma%21%2C_Op.132_%28Ponchielli%2C_Amilcare%29
+  confidence: single_source
+  notes: 'Instrumentation: Wind band'

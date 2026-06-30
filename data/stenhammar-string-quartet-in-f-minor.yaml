@@ -1,0 +1,19 @@
+id: stenhammar-string-quartet-in-f-minor
+work:
+  composer: Stenhammar, Wilhelm
+  title: String Quartet in F minor
+  ids:
+    imslp: String Quartet in F minor (Stenhammar, Wilhelm)
+  year: 1897
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_in_F_minor_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 21

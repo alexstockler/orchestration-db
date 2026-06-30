@@ -1,0 +1,19 @@
+id: raff-string-quartet-no-5
+work:
+  composer: Raff, Joachim
+  title: String Quartet No.5
+  ids:
+    imslp: String Quartet No.5, Op.138 (Raff, Joachim)
+  year: 1867
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.5%2C_Op.138_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 31

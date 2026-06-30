@@ -1,0 +1,15 @@
+id: svendsen-i-fjol-gjtte-gjeitinn
+work:
+  composer: Svendsen, Johan
+  title: I Fjol gjætt’e Gjeitinn
+  ids:
+    imslp: I Fjol gjætt’e Gjeitinn, Op.31 (Svendsen, Johan)
+  year: 1877
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/I_Fjol_gj%C3%A6tt%E2%80%99e_Gjeitinn%2C_Op.31_%28Svendsen%2C_Johan%29
+  confidence: single_source
+  notes: 'Instrumentation: strings (all divisi except basses)'

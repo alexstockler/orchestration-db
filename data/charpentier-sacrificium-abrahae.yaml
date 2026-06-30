@@ -1,0 +1,25 @@
+id: charpentier-sacrificium-abrahae
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Sacrificium Abrahae
+  ids:
+    imslp: Sacrificium Abrahae, H.402 (Charpentier, Marc-Antoine)
+  year: 1681
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sacrificium_Abrahae%2C_H.402_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, alto, tenor, bass (solos), mixed chorus (SATB),
+    2 violins, continuo'
+duration_minutes: 20

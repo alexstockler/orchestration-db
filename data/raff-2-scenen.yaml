@@ -1,0 +1,24 @@
+id: raff-2-scenen
+work:
+  composer: Raff, Joachim
+  title: 2 Scenen
+  ids:
+    imslp: 2 Scenen, Op.199 (Raff, Joachim)
+  year: 1875
+formula: 2102 1000 tmp str
+instrumentation:
+  flute: 2
+  oboe: 1
+  bassoon: 2
+  horn: 1
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - Voice - solo voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Scenen%2C_Op.199_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: voice and orchestra :Voice - solo voice, Orchestra ::2
+    flutes, oboe, 2 bassoons, horn, timpani, strings'

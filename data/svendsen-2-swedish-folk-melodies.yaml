@@ -1,0 +1,15 @@
+id: svendsen-2-swedish-folk-melodies
+work:
+  composer: Svendsen, Johan
+  title: 2 Swedish Folk-Melodies
+  ids:
+    imslp: 2 Swedish Folk-Melodies, Op.27 (Svendsen, Johan)
+  year: 1879
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Swedish_Folk-Melodies%2C_Op.27_%28Svendsen%2C_Johan%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'

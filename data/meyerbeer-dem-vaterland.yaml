@@ -1,0 +1,16 @@
+id: meyerbeer-dem-vaterland
+work:
+  composer: Meyerbeer, Giacomo
+  title: Dem Vaterland
+  ids:
+    imslp: Dem Vaterland (Meyerbeer, Giacomo)
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dem_Vaterland_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (TTBB), male chorus (TTBB)'

@@ -1,0 +1,16 @@
+id: raff-valse-impromptu-a-la-tyrolienne
+work:
+  composer: Raff, Joachim
+  title: Valse-impromptu à la tyrolienne
+  ids:
+    imslp: Valse-impromptu à la tyrolienne, WoO.28 (Raff, Joachim)
+  year: 1868
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Valse-impromptu_%C3%A0_la_tyrolienne%2C_WoO.28_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

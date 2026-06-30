@@ -1,0 +1,16 @@
+id: reger-erste-suite-fur-orgel-in-e-moll
+work:
+  composer: Reger, Max
+  title: Erste Suite für Orgel in E-moll
+  ids:
+    imslp: Suite No.1, Op.16 (Reger, Max)
+  year: 1895
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_No.1%2C_Op.16_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

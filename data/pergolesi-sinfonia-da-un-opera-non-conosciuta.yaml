@@ -1,0 +1,13 @@
+id: pergolesi-sinfonia-da-un-opera-non-conosciuta
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Sinfonia da un'opera non conosciuta
+  ids:
+    imslp: Sinfonia in D major (Pergolesi, Giovanni Battista)
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sinfonia_in_D_major_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra (flutes, oboes, trumpets, timpani, strings, continuo)'

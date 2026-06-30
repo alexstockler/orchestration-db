@@ -1,0 +1,26 @@
+id: svendsen-cantata
+work:
+  composer: Svendsen, Johan
+  title: Cantata
+  ids:
+    imslp: Wedding Cantata, Op.29 (Svendsen, Johan)
+  year: 1881
+formula: 2222 4231 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Wedding_Cantata%2C_Op.29_%28Svendsen%2C_Johan%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2
+    trumpets, 3 trombones, tuba, timpani, strings'

@@ -1,0 +1,18 @@
+id: gade-3-digte-af-carsten-hauch
+work:
+  composer: Gade, Niels
+  title: 3 Digte af Carsten Hauch
+  ids:
+    imslp: 3 Digte, Op.21b (Gade, Niels)
+  year: 1850
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Digte%2C_Op.21b_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

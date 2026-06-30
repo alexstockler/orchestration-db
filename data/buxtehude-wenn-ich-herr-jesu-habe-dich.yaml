@@ -1,0 +1,19 @@
+id: buxtehude-wenn-ich-herr-jesu-habe-dich
+work:
+  composer: Buxtehude, Dietrich
+  title: Wenn ich, Herr Jesu, habe dich
+  ids:
+    imslp: Wenn ich, Herr Jesu, habe dich, BuxWV 107 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Wenn_ich%2C_Herr_Jesu%2C_habe_dich%2C_BuxWV_107_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, 2 violins, continuo'
+duration_minutes: 5

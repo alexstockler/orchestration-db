@@ -1,0 +1,18 @@
+id: charpentier-caecilia-virgo-et-martyr
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Caecilia Virgo et Martyr
+  ids:
+    imslp: Caecilia Virgo et Martyr, H.397 (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  soloists:
+  - 8 voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Caecilia_Virgo_et_Martyr%2C_H.397_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 8 voices (or 2 mixed choruses) (SATB/SATB), 2 string orchestras,
+    continuo'
+duration_minutes: 28

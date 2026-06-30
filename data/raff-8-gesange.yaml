@@ -1,0 +1,18 @@
+id: raff-8-gesange
+work:
+  composer: Raff, Joachim
+  title: 8 Gesänge
+  ids:
+    imslp: 8 Gesänge, Op.173 (Raff, Joachim)
+  year: 1868
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Ges%C3%A4nge%2C_Op.173_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

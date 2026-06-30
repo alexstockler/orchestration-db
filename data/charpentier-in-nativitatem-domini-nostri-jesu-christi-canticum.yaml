@@ -1,0 +1,24 @@
+id: charpentier-in-nativitatem-domini-nostri-jesu-christi-canticum
+work:
+  composer: Charpentier, Marc-Antoine
+  title: In nativitatem Domini nostri Jesu Christi canticum
+  ids:
+    imslp: In nativitatem Domini canticum, H.314 (Charpentier, Marc-Antoine)
+  year: 1671
+formula: 2000 0000
+instrumentation:
+  flute: 2
+  soloists:
+  - dessus
+  - haute-contre
+  - taille
+  - basse
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_nativitatem_Domini_canticum%2C_H.314_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: dessus, haute-contre, taille, basse, Orchestra:
+    2 flutes + 2 violins + continuo'

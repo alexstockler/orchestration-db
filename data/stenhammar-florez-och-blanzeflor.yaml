@@ -1,0 +1,27 @@
+id: stenhammar-florez-och-blanzeflor
+work:
+  composer: Stenhammar, Wilhelm
+  title: Florez och Blanzeflor
+  ids:
+    imslp: Florez och Blanzeflor, Op.3 (Stenhammar, Wilhelm)
+  year: 1891
+formula: 2222 2200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - baritone
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Florez_och_Blanzeflor%2C_Op.3_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: voice: baritone, orchestra: 2 flutes, 2 oboes, 2 clarinets,
+    2 bassoons,, 2 horns, 2 trumpets, timpani, strings'
+duration_minutes: 10

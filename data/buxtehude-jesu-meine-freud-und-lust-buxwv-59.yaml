@@ -1,0 +1,18 @@
+id: buxtehude-jesu-meine-freud-und-lust-buxwv-59
+work:
+  composer: Buxtehude, Dietrich
+  title: Jesu, meine Freud und Lust, BuxWV 59
+  ids:
+    imslp: Jesu, meine Freud und Lust, BuxWV 59 (Buxtehude, Dietrich)
+  year: 1926
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jesu%2C_meine_Freud_und_Lust%2C_BuxWV_59_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, strings, continuo'

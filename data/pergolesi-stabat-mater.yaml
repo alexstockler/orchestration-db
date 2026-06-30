@@ -1,0 +1,19 @@
+id: pergolesi-stabat-mater
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Stabat mater
+  ids:
+    imslp: Stabat Mater, P.77 (Pergolesi, Giovanni Battista)
+  year: 1736
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Stabat_Mater%2C_P.77_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, strings, continuo'

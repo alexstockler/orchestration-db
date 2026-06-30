@@ -1,0 +1,18 @@
+id: raff-tears-idle-tears
+work:
+  composer: Raff, Joachim
+  title: Tears, Idle Tears
+  ids:
+    imslp: Tears, Idle Tears, WoO.52A (Raff, Joachim)
+  year: 1879
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tears%2C_Idle_Tears%2C_WoO.52A_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

@@ -1,0 +1,17 @@
+id: gade-pa-sjlunds-fagre-sletter
+work:
+  composer: Gade, Niels
+  title: På Sjølunds fagre sletter
+  ids:
+    imslp: På Sjølunds fagre sletter (Gade, Niels)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/P%C3%A5_Sj%C3%B8lunds_fagre_sletter_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

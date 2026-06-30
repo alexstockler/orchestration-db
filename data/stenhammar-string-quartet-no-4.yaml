@@ -1,0 +1,19 @@
+id: stenhammar-string-quartet-no-4
+work:
+  composer: Stenhammar, Wilhelm
+  title: String Quartet No.4
+  ids:
+    imslp: String Quartet No.4, Op.25 (Stenhammar, Wilhelm)
+  year: 1904
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.4%2C_Op.25_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Violins, viola, cello'
+duration_minutes: 3036

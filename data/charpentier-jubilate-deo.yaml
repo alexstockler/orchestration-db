@@ -1,0 +1,22 @@
+id: charpentier-jubilate-deo
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Jubilate Deo
+  ids:
+    imslp: Jubilate Deo, H.194 (Charpentier, Marc-Antoine)
+  year: 1684
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jubilate_Deo%2C_H.194_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, bass; 2 violins, continuo'
+duration_minutes: 7

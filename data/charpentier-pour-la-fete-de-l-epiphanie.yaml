@@ -1,0 +1,23 @@
+id: charpentier-pour-la-fete-de-l-epiphanie
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Pour la fête de l'Epiphanie
+  ids:
+    imslp: Pour la fête de l'Epiphanie, H.395 (Charpentier, Marc-Antoine)
+  year: 1676
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pour_la_f%C3%AAte_de_l%27Epiphanie%2C_H.395_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, bass, 2 violins (or viols, and/or recorders),
+    continuo'
+duration_minutes: 10

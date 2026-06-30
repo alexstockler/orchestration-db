@@ -1,0 +1,16 @@
+id: raff-la-polka-de-la-reine
+work:
+  composer: Raff, Joachim
+  title: La polka de la reine
+  ids:
+    imslp: La polka de la reine, Op.95 (Raff, Joachim)
+  year: 1861
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_polka_de_la_reine%2C_Op.95_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

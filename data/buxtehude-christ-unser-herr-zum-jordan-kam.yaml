@@ -1,0 +1,16 @@
+id: buxtehude-christ-unser-herr-zum-jordan-kam
+work:
+  composer: Buxtehude, Dietrich
+  title: Christ unser Herr zum Jordan kam
+  ids:
+    imslp: Christ unser Herr zum Jordan kam, BuxWV 180 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Christ_unser_Herr_zum_Jordan_kam%2C_BuxWV_180_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

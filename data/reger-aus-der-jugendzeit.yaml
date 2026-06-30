@@ -1,0 +1,16 @@
+id: reger-aus-der-jugendzeit
+work:
+  composer: Reger, Max
+  title: Aus der Jugendzeit
+  ids:
+    imslp: Aus der Jugendzeit, Op.17 (Reger, Max)
+  year: 1895
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aus_der_Jugendzeit%2C_Op.17_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

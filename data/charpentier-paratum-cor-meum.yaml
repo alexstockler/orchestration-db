@@ -1,0 +1,20 @@
+id: charpentier-paratum-cor-meum
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Paratum cor meum
+  ids:
+    imslp: Paratum cor meum, H.183 (Charpentier, Marc-Antoine)
+  year: 1681
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  - tenor
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Paratum_cor_meum%2C_H.183_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, tenor, bass, continuo'
+duration_minutes: 6

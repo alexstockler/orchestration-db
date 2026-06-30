@@ -1,0 +1,15 @@
+id: bruch-4-mannerchore
+work:
+  composer: Bruch, Max
+  title: 4 Männerchöre
+  ids:
+    imslp: 4 Männerchöre, Op.48 (Bruch, Max)
+  year: 1881
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_M%C3%A4nnerch%C3%B6re%2C_Op.48_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: male chorus (TTBB in nos.1-3; TTTBBB in no.4)'

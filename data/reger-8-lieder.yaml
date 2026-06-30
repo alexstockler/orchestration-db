@@ -1,0 +1,18 @@
+id: reger-8-lieder
+work:
+  composer: Reger, Max
+  title: 8 Lieder
+  ids:
+    imslp: 8 Lieder, Op.43 (Reger, Max)
+  year: 1899
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Lieder%2C_Op.43_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano (1-3, high voice; 4-8, medium voice)'

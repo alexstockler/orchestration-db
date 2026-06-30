@@ -1,0 +1,16 @@
+id: lully-le-bourgeois-gentilhomme
+work:
+  composer: Lully, Jean-Baptiste
+  title: Le bourgeois gentilhomme
+  ids:
+    imslp: Le bourgeois gentilhomme, LWV 43 (Lully, Jean-Baptiste)
+  year: 1670
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_bourgeois_gentilhomme%2C_LWV_43_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

@@ -1,0 +1,22 @@
+id: charpentier-domine-dominus-noster
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Domine Dominus noster
+  ids:
+    imslp: Domine Dominus noster, H.163 (Charpentier, Marc-Antoine)
+  year: 1674
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Domine_Dominus_noster%2C_H.163_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, bass, 2 violins (viols), continuo'
+duration_minutes: 7

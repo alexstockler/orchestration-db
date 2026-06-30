@@ -1,0 +1,17 @@
+id: suppe-donna-juanita
+work:
+  composer: Suppé, Franz von
+  title: Donna Juanita
+  ids:
+    imslp: Donna Juanita (Suppé, Franz von)
+  year: 1880
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Donna_Juanita_%28Supp%C3%A9%2C_Franz_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

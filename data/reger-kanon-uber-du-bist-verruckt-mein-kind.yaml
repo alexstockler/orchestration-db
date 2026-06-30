@@ -1,0 +1,16 @@
+id: reger-kanon-uber-du-bist-verruckt-mein-kind
+work:
+  composer: Reger, Max
+  title: Kanon über 'Du bist verrückt, mein Kind'
+  ids:
+    imslp: Kanon über 'Du bist verrückt, mein Kind', WoO VIII/4 (Reger, Max)
+  year: 1895
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kanon_%C3%BCber_%27Du_bist_verr%C3%BCckt%2C_mein_Kind%27%2C_WoO_VIII/4_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

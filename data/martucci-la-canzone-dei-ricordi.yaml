@@ -1,0 +1,18 @@
+id: martucci-la-canzone-dei-ricordi
+work:
+  composer: Martucci, Giuseppe
+  title: La canzone dei ricordi
+  ids:
+    imslp: La canzone dei ricordi, Op.68b (Martucci, Giuseppe)
+  year: 1886
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_canzone_dei_ricordi%2C_Op.68b_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

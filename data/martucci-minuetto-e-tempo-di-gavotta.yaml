@@ -1,0 +1,15 @@
+id: martucci-minuetto-e-tempo-di-gavotta
+work:
+  composer: Martucci, Giuseppe
+  title: Minuetto e Tempo di gavotta
+  ids:
+    imslp: Minuetto e Tempo di gavotta, Op.55 (Martucci, Giuseppe)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Minuetto_e_Tempo_di_gavotta%2C_Op.55_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

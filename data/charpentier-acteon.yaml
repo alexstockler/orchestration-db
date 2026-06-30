@@ -1,0 +1,16 @@
+id: charpentier-acteon
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Actéon
+  ids:
+    imslp: Actéon, H.481 (Charpentier, Marc-Antoine)
+  year: 1683
+formula: 2000 0000
+instrumentation:
+  flute: 2
+  additional_raw: 2 treble instruments | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Act%C3%A9on%2C_H.481_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 treble instruments, continuo'

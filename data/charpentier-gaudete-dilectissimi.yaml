@@ -1,0 +1,20 @@
+id: charpentier-gaudete-dilectissimi
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Gaudete dilectissimi
+  ids:
+    imslp: Gaudete dilectissimi, H.238 (Charpentier, Marc-Antoine)
+  year: 1676
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gaudete_dilectissimi%2C_H.238_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, 2 violins (or 2 recorders), continuo'
+duration_minutes: 4

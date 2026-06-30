@@ -1,0 +1,16 @@
+id: lully-les-jeux-pithiens
+work:
+  composer: Lully, Jean-Baptiste
+  title: Les jeux pithiens
+  ids:
+    imslp: Les jeux pithiens, LWV 42 (Lully, Jean-Baptiste)
+  year: 1669
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_jeux_pithiens%2C_LWV_42_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

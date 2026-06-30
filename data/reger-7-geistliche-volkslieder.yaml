@@ -1,0 +1,15 @@
+id: reger-7-geistliche-volkslieder
+work:
+  composer: Reger, Max
+  title: 7 Geistliche Volkslieder
+  ids:
+    imslp: 7 Geistliche Volkslieder, WoO VI/14 (Reger, Max)
+  year: 1900
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Geistliche_Volkslieder%2C_WoO_VI/14_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

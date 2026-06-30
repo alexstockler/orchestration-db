@@ -1,0 +1,19 @@
+id: buxtehude-wo-ist-doch-mein-freund-gelieben-buxwv-111
+work:
+  composer: Buxtehude, Dietrich
+  title: Wo ist doch mein Freund gelieben?, BuxWV 111
+  ids:
+    imslp: Wo ist doch mein Freund gelieben?, BuxWV 111 (Buxtehude, Dietrich)
+formula: 0001 0000
+instrumentation:
+  bassoon: 1
+  soloists:
+  - soprano
+  solo_strings:
+    violin: 2
+  additional_raw: basso continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Wo_ist_doch_mein_Freund_gelieben%3F%2C_BuxWV_111_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, bassoon, 2 violins, basso continuo'

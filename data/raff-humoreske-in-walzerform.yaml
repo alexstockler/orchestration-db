@@ -1,0 +1,17 @@
+id: raff-humoreske-in-walzerform
+work:
+  composer: Raff, Joachim
+  title: Humoreske in Walzerform
+  ids:
+    imslp: Humoreske in Walzerform, Op.159 (Raff, Joachim)
+  year: 1870
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Humoreske_in_Walzerform%2C_Op.159_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'
+duration_minutes: 11

@@ -1,0 +1,20 @@
+id: charpentier-amate-jesum-omnes-gentes
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Amate Jesum omnes gentes
+  ids:
+    imslp: Amate Jesum omnes gentes, H.271 (Charpentier, Marc-Antoine)
+  year: 1696
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  - tenor
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Amate_Jesum_omnes_gentes%2C_H.271_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, tenor, bass, continuo'
+duration_minutes: 3

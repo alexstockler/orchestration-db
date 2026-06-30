@@ -1,0 +1,16 @@
+id: adam-rondeau-a-quatre-mains
+work:
+  composer: Adam, Adolphe
+  title: Rondeau à quatre mains
+  ids:
+    imslp: Rondeau à quatre mains, Op.3 (Adam, Adolphe)
+  year: 1822
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rondeau_%C3%A0_quatre_mains%2C_Op.3_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4 hands'

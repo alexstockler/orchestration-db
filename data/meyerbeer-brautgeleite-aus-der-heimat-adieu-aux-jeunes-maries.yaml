@@ -1,0 +1,15 @@
+id: meyerbeer-brautgeleite-aus-der-heimat-adieu-aux-jeunes-maries
+work:
+  composer: Meyerbeer, Giacomo
+  title: Brautgeleite aus der Heimat / Adieu aux jeunes mariés
+  ids:
+    imslp: Brautgeleite aus der Heimat (Meyerbeer, Giacomo)
+  year: 1856
+formula: ''
+instrumentation:
+  additional_raw: 2 SATB choruses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Brautgeleite_aus_der_Heimat_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 SATB choruses'

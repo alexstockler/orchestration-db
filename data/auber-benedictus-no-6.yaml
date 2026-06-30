@@ -1,0 +1,23 @@
+id: auber-benedictus-no-6
+work:
+  composer: Auber, Daniel François Esprit
+  title: Benedictus No.6
+  ids:
+    imslp: Benedictus No.6 (Auber, Daniel François Esprit)
+  year: 1856
+formula: org hp
+instrumentation:
+  keyboards:
+  - instrument: organ
+  harp: 1
+  soloists:
+  - soprano
+  chorus_raw: choir
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Benedictus_No.6_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, violoncello, harp, choir, organ'
+duration_minutes: 5

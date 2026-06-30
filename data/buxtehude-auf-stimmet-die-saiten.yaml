@@ -1,0 +1,21 @@
+id: buxtehude-auf-stimmet-die-saiten
+work:
+  composer: Buxtehude, Dietrich
+  title: Auf stimmet die Saiten
+  ids:
+    imslp: Auf stimmet die Saiten, BuxWV 116 (Buxtehude, Dietrich)
+  year: 1672
+formula: 0001 0220
+instrumentation:
+  bassoon: 1
+  trumpet: 2
+  trombone: 2
+  soloists:
+  - altos
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Auf_stimmet_die_Saiten%2C_BuxWV_116_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 altos, bass, 2 trumpets, 2 trombones, bassoon, continuo'

@@ -1,0 +1,23 @@
+id: charpentier-in-festo-purificationis
+work:
+  composer: Charpentier, Marc-Antoine
+  title: In festo purificationis
+  ids:
+    imslp: In festo purificationis, H.318 (Charpentier, Marc-Antoine)
+  year: 1677
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_festo_purificationis%2C_H.318_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, bass, 2 violins (or viols, and/or recorders),
+    continuo'
+duration_minutes: 5

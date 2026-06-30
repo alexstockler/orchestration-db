@@ -1,0 +1,14 @@
+id: ponchielli-marcia-no-12-op-170
+work:
+  composer: Ponchielli, Amilcare
+  title: Marcia No.12, Op.170
+  ids:
+    imslp: Marcia No.12, Op.170 (Ponchielli, Amilcare)
+formula: ''
+instrumentation:
+  additional_raw: Wind band
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marcia_No.12%2C_Op.170_%28Ponchielli%2C_Amilcare%29
+  confidence: single_source
+  notes: 'Instrumentation: Wind band'

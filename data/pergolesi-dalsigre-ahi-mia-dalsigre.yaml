@@ -1,0 +1,16 @@
+id: pergolesi-dalsigre-ahi-mia-dalsigre
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Dalsigre ahi mia Dalsigre
+  ids:
+    imslp: Dalsigre ahi mia Dalsigre, P.114 (Pergolesi, Giovanni Battista)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dalsigre_ahi_mia_Dalsigre%2C_P.114_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

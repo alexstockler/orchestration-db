@@ -1,0 +1,19 @@
+id: martucci-violin-sonata
+work:
+  composer: Martucci, Giuseppe
+  title: Violin Sonata
+  ids:
+    imslp: Violin Sonata, Op.22 (Martucci, Giuseppe)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata%2C_Op.22_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 15

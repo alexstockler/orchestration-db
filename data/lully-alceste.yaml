@@ -1,0 +1,17 @@
+id: lully-alceste
+work:
+  composer: Lully, Jean-Baptiste
+  title: Alceste
+  ids:
+    imslp: Alceste, LWV 50 (Lully, Jean-Baptiste)
+  year: 1673
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alceste%2C_LWV_50_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

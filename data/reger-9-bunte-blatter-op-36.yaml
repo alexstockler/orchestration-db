@@ -1,0 +1,16 @@
+id: reger-9-bunte-blatter-op-36
+work:
+  composer: Reger, Max
+  title: 9 Bunte Blätter, Op.36
+  ids:
+    imslp: Bunte Blätter, Op.36 (Reger, Max)
+  year: 1899
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bunte_Bl%C3%A4tter%2C_Op.36_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

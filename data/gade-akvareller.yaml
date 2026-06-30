@@ -1,0 +1,16 @@
+id: gade-akvareller
+work:
+  composer: Gade, Niels
+  title: Akvareller
+  ids:
+    imslp: Akvareller, Op.57 (Gade, Niels)
+  year: 1881
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Akvareller%2C_Op.57_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano solo'

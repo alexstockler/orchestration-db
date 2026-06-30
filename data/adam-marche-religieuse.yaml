@@ -1,0 +1,14 @@
+id: adam-marche-religieuse
+work:
+  composer: Adam, Adolphe
+  title: Marche religieuse
+  ids:
+    imslp: Marche religieuse (Adam, Adolphe)
+formula: ''
+instrumentation:
+  additional_raw: unknown (see below, Comments)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marche_religieuse_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: unknown (see below, Comments)'

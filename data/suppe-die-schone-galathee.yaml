@@ -1,0 +1,16 @@
+id: suppe-die-schone-galathee
+work:
+  composer: Suppé, Franz von
+  title: Die schöne Galathée
+  ids:
+    imslp: Die schöne Galathée (Suppé, Franz von)
+  year: 1865
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_sch%C3%B6ne_Galath%C3%A9e_%28Supp%C3%A9%2C_Franz_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

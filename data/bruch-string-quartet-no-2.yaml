@@ -1,0 +1,19 @@
+id: bruch-string-quartet-no-2
+work:
+  composer: Bruch, Max
+  title: String Quartet No.2
+  ids:
+    imslp: String Quartet No.2, Op.10 (Bruch, Max)
+  year: 1860
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.2%2C_Op.10_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 2730

@@ -1,0 +1,23 @@
+id: charpentier-gratitudina-erga-deum-canticum
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Gratitudina erga Deum canticum
+  ids:
+    imslp: Gratitudinis erga Deum canticum, H.431 (Charpentier, Marc-Antoine)
+  year: 1687
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gratitudinis_erga_Deum_canticum%2C_H.431_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, bass; 2 violins (or viols, and/or recorders),
+    continuo'
+duration_minutes: 8

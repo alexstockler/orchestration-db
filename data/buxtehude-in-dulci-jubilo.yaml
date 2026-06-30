@@ -1,0 +1,18 @@
+id: buxtehude-in-dulci-jubilo
+work:
+  composer: Buxtehude, Dietrich
+  title: In dulci jubilo
+  ids:
+    imslp: In dulci jubilo, BuxWV 52 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_dulci_jubilo%2C_BuxWV_52_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices (SSB), 2 violins, continuo'

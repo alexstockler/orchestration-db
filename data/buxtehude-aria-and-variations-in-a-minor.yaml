@@ -1,0 +1,14 @@
+id: buxtehude-aria-and-variations-in-a-minor
+work:
+  composer: Buxtehude, Dietrich
+  title: Aria and Variations in A minor
+  ids:
+    imslp: Aria and Variations in A minor, BuxWV 249 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  additional_raw: keyboard (harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aria_and_Variations_in_A_minor%2C_BuxWV_249_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard (harpsichord)'

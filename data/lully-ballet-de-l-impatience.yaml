@@ -1,0 +1,16 @@
+id: lully-ballet-de-l-impatience
+work:
+  composer: Lully, Jean-Baptiste
+  title: Ballet de l'impatience
+  ids:
+    imslp: Ballet de l'Impatience, LWV 14 (Lully, Jean-Baptiste)
+  year: 1661
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ballet_de_l%27Impatience%2C_LWV_14_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

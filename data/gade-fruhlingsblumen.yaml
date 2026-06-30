@@ -1,0 +1,16 @@
+id: gade-fruhlingsblumen
+work:
+  composer: Gade, Niels
+  title: Frühlingsblumen
+  ids:
+    imslp: Frühlingsblumen, Op.2b (Gade, Niels)
+  year: 1841
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fr%C3%BChlingsblumen%2C_Op.2b_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

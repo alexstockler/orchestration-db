@@ -1,0 +1,16 @@
+id: buxtehude-nun-lob-mein-seel-den-herren
+work:
+  composer: Buxtehude, Dietrich
+  title: Nun lob mein Seel' den Herren
+  ids:
+    imslp: Nun lob mein Seel' den Herren, BuxWV 212 (Buxtehude, Dietrich)
+  year: 1903
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nun_lob_mein_Seel%27_den_Herren%2C_BuxWV_212_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

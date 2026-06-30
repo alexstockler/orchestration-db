@@ -1,0 +1,15 @@
+id: adam-le-morceau-d-ensemble
+work:
+  composer: Adam, Adolphe
+  title: Le Morceau d'ensemble
+  ids:
+    imslp: Le morceau d'ensemble (Adam, Adolphe)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_morceau_d%27ensemble_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

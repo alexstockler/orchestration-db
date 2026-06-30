@@ -1,0 +1,20 @@
+id: charpentier-o-pretiosum-o-salutiferum
+work:
+  composer: Charpentier, Marc-Antoine
+  title: O pretiosum, O salutiferum
+  ids:
+    imslp: O pretiosum, O salutiferum, H.245 (Charpentier, Marc-Antoine)
+  year: 1670
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_pretiosum%2C_O_salutiferum%2C_H.245_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 2 violins, continuo'
+duration_minutes: 4

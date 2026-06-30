@@ -1,0 +1,16 @@
+id: buxtehude-jesus-christus-unser-heiland-der-den-tod-uberwand
+work:
+  composer: Buxtehude, Dietrich
+  title: Jesus Christus, unser Heiland, der den Tod überwand
+  ids:
+    imslp: Jesus Christus, unser Heiland, BuxWV 198 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jesus_Christus%2C_unser_Heiland%2C_BuxWV_198_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

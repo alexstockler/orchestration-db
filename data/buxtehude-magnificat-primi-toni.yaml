@@ -1,0 +1,16 @@
+id: buxtehude-magnificat-primi-toni
+work:
+  composer: Buxtehude, Dietrich
+  title: Magnificat primi toni
+  ids:
+    imslp: Magnificat primi toni, BuxWV 203 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Magnificat_primi_toni%2C_BuxWV_203_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

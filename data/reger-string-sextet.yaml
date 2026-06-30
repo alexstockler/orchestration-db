@@ -1,0 +1,19 @@
+id: reger-string-sextet
+work:
+  composer: Reger, Max
+  title: String Sextet
+  ids:
+    imslp: String Sextet, Op.118 (Reger, Max)
+  year: 1910
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 2
+    cello: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Sextet%2C_Op.118_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, 2 violas, 2 cellos'
+duration_minutes: 45

@@ -1,0 +1,20 @@
+id: stenhammar-turandot-musik-till-carlo-gozzis-skadespel-op-42
+work:
+  composer: Stenhammar, Wilhelm
+  title: Turandot, Musik till Carlo Gozzis skådespel Op.42
+  ids:
+    imslp: Turandot, Op.42 (Stenhammar, Wilhelm)
+  year: 1920
+formula: 1011 0000 4perc
+instrumentation:
+  flute: 1
+  clarinet: 1
+  bassoon: 1
+  percussion:
+    players: 4
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Turandot%2C_Op.42_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, clarinet (B/A), bassoon, 4 percussion'
+duration_minutes: 2

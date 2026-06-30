@@ -1,0 +1,14 @@
+id: pergolesi-maestro-di-musica
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Maestro di musica
+  ids:
+    imslp: Il maestro di musica (Pergolesi, Giovanni Battista)
+formula: ''
+instrumentation:
+  additional_raw: unknown (see below, Comments)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_maestro_di_musica_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: unknown (see below, Comments)'

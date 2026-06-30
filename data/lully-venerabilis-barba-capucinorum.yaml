@@ -1,0 +1,15 @@
+id: lully-venerabilis-barba-capucinorum
+work:
+  composer: Lully, Jean-Baptiste
+  title: Venerabilis barba capucinorum
+  ids:
+    imslp: Venerabilis barba capucinorum, LWV 76/26 (Lully, Jean-Baptiste)
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Venerabilis_barba_capucinorum%2C_LWV_76/26_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

@@ -1,0 +1,19 @@
+id: buxtehude-accedite-gentes-accurrite-populi
+work:
+  composer: Buxtehude, Dietrich
+  title: Accedite gentes accurrite populi
+  ids:
+    imslp: Accedite gentes accurrite populi, BuxWV 1 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - 5 voices
+  solo_strings:
+    violin: 2
+  additional_raw: continuo (see below)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Accedite_gentes_accurrite_populi%2C_BuxWV_1_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 5 voices (SSATB), 2 violins, continuo (see below)'
+duration_minutes: 6

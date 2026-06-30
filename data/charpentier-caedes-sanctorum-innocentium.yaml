@@ -1,0 +1,24 @@
+id: charpentier-caedes-sanctorum-innocentium
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Caedes sanctorum innocentium
+  ids:
+    imslp: Caedes sanctorum innocentium, H.411 (Charpentier, Marc-Antoine)
+  year: 1683
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - alto
+  - tenor
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Caedes_sanctorum_innocentium%2C_H.411_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 sopranos, alto, tenor, bass (soli and chorus), 2 violins,
+    continuo'
+duration_minutes: 17

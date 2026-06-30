@@ -1,0 +1,16 @@
+id: raff-2-etudes-melodiques
+work:
+  composer: Raff, Joachim
+  title: 2 Études mélodiques
+  ids:
+    imslp: 2 Études mélodiques, Op.130 (Raff, Joachim)
+  year: 1866
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_%C3%89tudes_m%C3%A9lodiques%2C_Op.130_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: 1 piano'

@@ -1,0 +1,18 @@
+id: raff-6-morceaux
+work:
+  composer: Raff, Joachim
+  title: 6 Morceaux
+  ids:
+    imslp: 6 Morceaux, Op.85 (Raff, Joachim)
+  year: 1859
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Morceaux%2C_Op.85_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

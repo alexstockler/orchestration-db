@@ -1,0 +1,16 @@
+id: ponchielli-sinfonia-per-pianoforte-a-quattro-mani
+work:
+  composer: Ponchielli, Amilcare
+  title: Sinfonia per pianoforte a quattro mani
+  ids:
+    imslp: Sinfonia in G minor, Op.106a (Ponchielli, Amilcare)
+  year: 1850
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sinfonia_in_G_minor%2C_Op.106a_%28Ponchielli%2C_Amilcare%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4 hands'

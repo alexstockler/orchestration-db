@@ -1,0 +1,17 @@
+id: lully-achille-et-polixene
+work:
+  composer: Lully, Jean-Baptiste
+  title: Achille et Polixène
+  ids:
+    imslp: Achille et Polixène, LWV 74 (Lully, Jean-Baptiste)
+  year: 1687
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Achille_et_Polix%C3%A8ne%2C_LWV_74_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

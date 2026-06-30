@@ -1,0 +1,14 @@
+id: scarlatti-keyboard-sonata-in-e-flat-major
+work:
+  composer: Scarlatti, Domenico
+  title: Keyboard Sonata in E-flat major
+  ids:
+    imslp: Keyboard Sonata in E-flat major, K.51 (Scarlatti, Domenico)
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Keyboard_Sonata_in_E-flat_major%2C_K.51_%28Scarlatti%2C_Domenico%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

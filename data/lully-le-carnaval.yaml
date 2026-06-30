@@ -1,0 +1,16 @@
+id: lully-le-carnaval
+work:
+  composer: Lully, Jean-Baptiste
+  title: Le carnaval
+  ids:
+    imslp: Le carnaval, LWV 36 (Lully, Jean-Baptiste)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_carnaval%2C_LWV_36_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

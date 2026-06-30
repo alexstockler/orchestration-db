@@ -1,0 +1,16 @@
+id: reger-vorspiel-komm-susser-tod
+work:
+  composer: Reger, Max
+  title: Vorspiel 'Komm Süsser Tod'
+  ids:
+    imslp: Vorspiel über "Komm süßer Tod", WoO IV/3 (Reger, Max)
+  year: 1911
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vorspiel_%C3%BCber_%22Komm_s%C3%BC%C3%9Fer_Tod%22%2C_WoO_IV/3_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Organ'

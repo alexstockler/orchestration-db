@@ -1,0 +1,18 @@
+id: buxtehude-nun-lasst-uns-gott-dem-herren-dank-sagen
+work:
+  composer: Buxtehude, Dietrich
+  title: Nun lasst uns Gott dem Herren Dank sagen
+  ids:
+    imslp: Nun lasst uns Gott dem Herren Dank sagen, BuxWV 81 (Buxtehude, Dietrich)
+  year: 1955
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nun_lasst_uns_Gott_dem_Herren_Dank_sagen%2C_BuxWV_81_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), 2 violins, continuo'

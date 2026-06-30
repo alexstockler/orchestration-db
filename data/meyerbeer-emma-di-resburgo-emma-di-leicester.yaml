@@ -1,0 +1,17 @@
+id: meyerbeer-emma-di-resburgo-emma-di-leicester
+work:
+  composer: Meyerbeer, Giacomo
+  title: Emma di Resburgo [Emma di Leicester]
+  ids:
+    imslp: Emma di Resburgo (Meyerbeer, Giacomo)
+  year: 1820
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Emma_di_Resburgo_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

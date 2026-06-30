@@ -1,0 +1,18 @@
+id: lully-ballet-des-arts
+work:
+  composer: Lully, Jean-Baptiste
+  title: Ballet des Arts
+  ids:
+    imslp: Ballet des Arts, LWV 18 (Lully, Jean-Baptiste)
+  year: 1706
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - 4 voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ballet_des_Arts%2C_LWV_18_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices, strings, continuo'

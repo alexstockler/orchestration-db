@@ -1,0 +1,15 @@
+id: svendsen-festive-cantata
+work:
+  composer: Svendsen, Johan
+  title: Festive Cantata
+  ids:
+    imslp: Festive Cantata, Op.32 (Svendsen, Johan)
+  year: 1892
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Festive_Cantata%2C_Op.32_%28Svendsen%2C_Johan%29
+  confidence: single_source
+  notes: 'Instrumentation: Male chorus (TTBB) + Orchestra'

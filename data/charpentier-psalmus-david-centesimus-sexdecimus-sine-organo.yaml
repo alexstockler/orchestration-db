@@ -1,0 +1,20 @@
+id: charpentier-psalmus-david-centesimus-sexdecimus-sine-organo
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Psalmus David centesimus sexdecimus sine organo
+  ids:
+    imslp: Laudate Dominum, H.182 (Charpentier, Marc-Antoine)
+  year: 1682
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - sopranos
+  - altos
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Laudate_Dominum%2C_H.182_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 soprano, alto; 2 sopranos, 2 altos'
+duration_minutes: 2

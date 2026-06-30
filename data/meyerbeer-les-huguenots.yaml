@@ -1,0 +1,52 @@
+id: meyerbeer-les-huguenots
+work:
+  composer: Meyerbeer, Giacomo
+  title: Les Huguenots
+  ids:
+    imslp: Les Huguenots (Meyerbeer, Giacomo)
+  year: 1836
+formula: 3[1.2.pic] 2[1/Eh.2] 2[1/bcl.2] 2 4230 tmp+1 2hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - instrument: piccolo
+  oboe:
+  - doublings:
+    - english_horn
+  - {}
+  clarinet:
+  - doublings:
+    - bass_clarinet
+  - {}
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    players: 1
+  harp: 2
+  strings: str
+  soloists:
+  - Vocal roles ::Raoul de Nangis (tenor)
+  - Comte de Nevers (baritone)
+  - Marcel (bass)
+  - Comte de St. Bris (bass)
+  - Valentine (soprano)
+  - Marguerite de Valois (soprano)
+  - Urbain (mezzo-soprano) :Mixed Chorus ::Citizens
+  - Soldiers
+  - Gypsies
+  - 'etc. :'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_Huguenots_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Vocal roles ::Raoul de Nangis
+    (tenor), Comte de Nevers (baritone), Marcel (bass), Comte de St. Bris (bass),
+    Valentine (soprano), Marguerite de Valois (soprano), Urbain (mezzo-soprano) :Mixed
+    Chorus ::Citizens, Soldiers, Gypsies, etc. :Orchestra ::2 flutes, piccolo, 2 oboes
+    (1st also english horn), 2 clarinets (1st also bass clarinet), 2 bassoons, 4 horns,
+    2 trumpets, 3 trombones, timpani, percussion, 2 harps, strings'
+duration_minutes: 30

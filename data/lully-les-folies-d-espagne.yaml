@@ -1,0 +1,15 @@
+id: lully-les-folies-d-espagne
+work:
+  composer: Lully, Jean-Baptiste
+  title: Les folies d'Espagne
+  ids:
+    imslp: Les folies d'Espagne, LWV 48 (Lully, Jean-Baptiste)
+  year: 1672
+formula: ''
+instrumentation:
+  additional_raw: consort (see below about choice of instruments)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_folies_d%27Espagne%2C_LWV_48_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: consort (see below about choice of instruments)'

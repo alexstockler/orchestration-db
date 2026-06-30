@@ -1,0 +1,14 @@
+id: svendsen-polonaise-no-2
+work:
+  composer: Svendsen, Johan
+  title: Polonaise No.2
+  ids:
+    imslp: Polonaise No.2, Op.28 (Svendsen, Johan)
+  year: 1881
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Polonaise_No.2%2C_Op.28_%28Svendsen%2C_Johan%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

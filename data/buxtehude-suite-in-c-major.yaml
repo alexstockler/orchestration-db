@@ -1,0 +1,14 @@
+id: buxtehude-suite-in-c-major
+work:
+  composer: Buxtehude, Dietrich
+  title: Suite in C major
+  ids:
+    imslp: Suite in C major, BuxWV 227 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_in_C_major%2C_BuxWV_227_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

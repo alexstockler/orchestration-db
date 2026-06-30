@@ -1,0 +1,16 @@
+id: martucci-allegro-appassionato
+work:
+  composer: Martucci, Giuseppe
+  title: Allegro appassionato
+  ids:
+    imslp: Allegro appassionato, Op.13 (Martucci, Giuseppe)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegro_appassionato%2C_Op.13_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

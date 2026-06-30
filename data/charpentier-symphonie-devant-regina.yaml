@@ -1,0 +1,15 @@
+id: charpentier-symphonie-devant-regina
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Symphonie devant Regina
+  ids:
+    imslp: Symphonie devant Regina, H.509 (Charpentier, Marc-Antoine)
+  year: 1673
+formula: ''
+instrumentation:
+  additional_raw: 2 treble instruments | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphonie_devant_Regina%2C_H.509_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 treble instruments, continuo'

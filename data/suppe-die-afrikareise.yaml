@@ -1,0 +1,17 @@
+id: suppe-die-afrikareise
+work:
+  composer: Suppé, Franz von
+  title: Die Afrikareise
+  ids:
+    imslp: Die Afrikareise (Suppé, Franz von)
+  year: 1883
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Afrikareise_%28Supp%C3%A9%2C_Franz_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

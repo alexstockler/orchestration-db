@@ -1,0 +1,19 @@
+id: charpentier-sur-la-naissance-de-notre-seigneur-jesus-christ
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Sur la naissance de notre Seigneur Jésus Christ
+  ids:
+    imslp: Sur la naissance de notre Seigneur Jésus Christ, H.482 (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  soloists:
+  - 6 voices
+  chorus_raw: mixed chorus
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sur_la_naissance_de_notre_Seigneur_J%C3%A9sus_Christ%2C_H.482_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 6 voices, mixed chorus (á5), 2 violins, continuo'

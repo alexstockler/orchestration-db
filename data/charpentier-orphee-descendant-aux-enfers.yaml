@@ -1,0 +1,24 @@
+id: charpentier-orphee-descendant-aux-enfers
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Orphée descendant aux enfers
+  ids:
+    imslp: Orphée descendant aux enfers, H.471 (Charpentier, Marc-Antoine)
+  year: 1683
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  soloists:
+  - alto
+  - tenor
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: recorder | continuo (harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Orph%C3%A9e_descendant_aux_enfers%2C_H.471_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: alto, tenor, bass, Orchestra: recorder, flute,
+    2 violins (or 2 viols), continuo (harpsichord)'
+duration_minutes: 20

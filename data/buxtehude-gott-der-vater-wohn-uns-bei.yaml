@@ -1,0 +1,16 @@
+id: buxtehude-gott-der-vater-wohn-uns-bei
+work:
+  composer: Buxtehude, Dietrich
+  title: Gott der Vater wohn uns bei
+  ids:
+    imslp: Gott der Vater wohn uns bei, BuxWV 190 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_der_Vater_wohn_uns_bei%2C_BuxWV_190_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

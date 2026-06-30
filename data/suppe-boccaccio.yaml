@@ -1,0 +1,43 @@
+id: suppe-boccaccio
+work:
+  composer: Suppé, Franz von
+  title: Boccaccio
+  ids:
+    imslp: Boccaccio (Suppé, Franz von)
+  year: 1879
+formula: 2222 4230 1perc str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    players: 1
+  strings: str
+  soloists:
+  - Roles ::Fiametta (soprano)
+  - Giovanni Boccaccio (alto)
+  - Beatrice (soprano)
+  - Isabella (mezzo-soprano)
+  - Peronella (alto)
+  - Pietro (tenor)
+  - Lambertuccio (baritone)
+  - Lotteringhi (baritone)
+  - Scalza (baritone)
+  - Leonello (baritone)
+  - Checco (bass)
+  - Fratelli (baritone)
+  - Majordomo (baritone) :Mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Boccaccio_%28Supp%C3%A9%2C_Franz_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra :Roles ::Fiametta (soprano),
+    Giovanni Boccaccio (alto), Beatrice (soprano), Isabella (mezzo-soprano), Peronella
+    (alto), Pietro (tenor), Lambertuccio (baritone), Lotteringhi (baritone), Scalza
+    (baritone), Leonello (baritone), Checco (bass), Fratelli (baritone), Majordomo
+    (baritone) :Mixed chorus (SATB), Orchestra: ::2 flutes, 2 oboes, 2 clarinets,
+    2 bassoons, 4 horns, 2 trumpets, 3 trombones, percussion, strings'

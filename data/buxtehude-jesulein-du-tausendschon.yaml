@@ -1,0 +1,21 @@
+id: buxtehude-jesulein-du-tausendschon
+work:
+  composer: Buxtehude, Dietrich
+  title: Jesulein du Tausendschön
+  ids:
+    imslp: Jesulein du Tausendschön, BuxWV 63 (Buxtehude, Dietrich)
+formula: 0001 0000
+instrumentation:
+  bassoon: 1
+  soloists:
+  - alto
+  - tenor
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jesulein_du_Tausendsch%C3%B6n%2C_BuxWV_63_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, tenor, bass, 2 violins, bassoon or violone, continuo'

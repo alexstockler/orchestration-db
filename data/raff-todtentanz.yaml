@@ -1,0 +1,16 @@
+id: raff-todtentanz
+work:
+  composer: Raff, Joachim
+  title: Todtentanz
+  ids:
+    imslp: Todtentanz, Op.181 (Raff, Joachim)
+  year: 1873
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Todtentanz%2C_Op.181_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4 hands'

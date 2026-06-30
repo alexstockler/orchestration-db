@@ -1,0 +1,16 @@
+id: buxtehude-wie-schon-leuchtet-der-morgenstern
+work:
+  composer: Buxtehude, Dietrich
+  title: Wie schön leuchtet der Morgenstern
+  ids:
+    imslp: Wie schön leuchtet der Morgenstern, BuxWV 223 (Buxtehude, Dietrich)
+  year: 1795
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Wie_sch%C3%B6n_leuchtet_der_Morgenstern%2C_BuxWV_223_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

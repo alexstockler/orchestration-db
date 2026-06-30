@@ -1,0 +1,16 @@
+id: reger-drei-orgelstucke
+work:
+  composer: Reger, Max
+  title: Drei Orgelstücke
+  ids:
+    imslp: 3 Orgelstücke, Op.7 (Reger, Max)
+  year: 1892
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Orgelst%C3%BCcke%2C_Op.7_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

@@ -1,0 +1,19 @@
+id: charpentier-salve-regina
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Salve regina
+  ids:
+    imslp: Salve Regina, H.18 (Charpentier, Marc-Antoine)
+  year: 1680
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Salve_Regina%2C_H.18_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: 2 sopranos, alto, continuo'
+duration_minutes: 5

@@ -1,0 +1,19 @@
+id: gade-string-quartet-in-f-major
+work:
+  composer: Gade, Niels
+  title: String Quartet in F major
+  ids:
+    imslp: String Quartet in F major (Gade, Niels)
+  year: 1840
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_in_F_major_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 22

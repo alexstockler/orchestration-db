@@ -1,0 +1,20 @@
+id: buxtehude-quemadmodum-desiderat-cervus
+work:
+  composer: Buxtehude, Dietrich
+  title: Quemadmodum desiderat cervus
+  ids:
+    imslp: Quemadmodum desiderat cervus, BuxWV 92 (Buxtehude, Dietrich)
+  year: 1690
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Quemadmodum_desiderat_cervus%2C_BuxWV_92_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, 2 violins, continuo'
+duration_minutes: 7

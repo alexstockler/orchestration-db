@@ -1,0 +1,16 @@
+id: buxtehude-canzonetta
+work:
+  composer: Buxtehude, Dietrich
+  title: Canzonetta
+  ids:
+    imslp: Canzonetta in A minor, BuxWV 225 (Buxtehude, Dietrich)
+  year: 1972
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canzonetta_in_A_minor%2C_BuxWV_225_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

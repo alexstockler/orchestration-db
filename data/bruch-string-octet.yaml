@@ -1,0 +1,20 @@
+id: bruch-string-octet
+work:
+  composer: Bruch, Max
+  title: String Octet
+  ids:
+    imslp: Octet (Bruch, Max)
+  year: 1919
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 4
+    viola: 2
+    cello: 1
+    double_bass: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Octet_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 violins, 2 violas, cello, double bass or string orchestra'
+duration_minutes: 25

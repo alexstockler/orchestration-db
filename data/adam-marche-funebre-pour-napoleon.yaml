@@ -1,0 +1,40 @@
+id: adam-marche-funebre-pour-napoleon
+work:
+  composer: Adam, Adolphe
+  title: Marche funèbre pour Napoléon
+  ids:
+    imslp: Marche funèbre pour Napoléon (Adam, Adolphe)
+  year: 1840
+formula: 1[pic] 2 3[Ebcl.2.3] 4 4 6[cnt.cnt.cnt.4.5.6] 3 0 ophicleide
+instrumentation:
+  flute:
+  - instrument: piccolo
+  oboe: 2
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  bassoon: 4
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  - {}
+  trombone: 3
+  percussion:
+    instruments:
+    - snare drum
+    - bass drum
+    - tam-tam
+  extras:
+  - instrument: ophicleide
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marche_fun%C3%A8bre_pour_Napol%C3%A9on_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 oboes, clarinet (E), 2 clarinets, 4 bassoons,
+    4 horns, 3 cornets, 3 trumpets, 3 trombones, ophicleide, snare drum, bass drum,
+    tam-tam'

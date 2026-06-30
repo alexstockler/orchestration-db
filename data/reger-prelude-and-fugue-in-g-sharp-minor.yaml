@@ -1,0 +1,15 @@
+id: reger-prelude-and-fugue-in-g-sharp-minor
+work:
+  composer: Reger, Max
+  title: Prelude and Fugue in G-sharp minor
+  ids:
+    imslp: Präludium und Fuge, WoO IV/15 (Reger, Max)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pr%C3%A4ludium_und_Fuge%2C_WoO_IV/15_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Organ'

@@ -1,0 +1,17 @@
+id: reger-variations-and-fugue-on-a-theme-of-johann-sebastian-bach
+work:
+  composer: Reger, Max
+  title: Variations and Fugue on a Theme of Johann Sebastian Bach
+  ids:
+    imslp: Variations and Fugue on a Theme by Bach, Op.81 (Reger, Max)
+  year: 1904
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variations_and_Fugue_on_a_Theme_by_Bach%2C_Op.81_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'
+duration_minutes: 2635

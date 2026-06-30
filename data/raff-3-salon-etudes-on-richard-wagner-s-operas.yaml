@@ -1,0 +1,16 @@
+id: raff-3-salon-etudes-on-richard-wagner-s-operas
+work:
+  composer: Raff, Joachim
+  title: 3 Salon-Etudes on Richard Wagner's Operas
+  ids:
+    imslp: 3 Salon-Etudes on Richard Wagner's Operas, Op.62 (Raff, Joachim)
+  year: 1853
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Salon-Etudes_on_Richard_Wagner%27s_Operas%2C_Op.62_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

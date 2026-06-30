@@ -1,0 +1,15 @@
+id: bruch-2-mannerchore
+work:
+  composer: Bruch, Max
+  title: 2 Männerchöre
+  ids:
+    imslp: 2 Männerchöre, Op.53 (Bruch, Max)
+  year: 1890
+formula: ''
+instrumentation:
+  additional_raw: Male Chorus and Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_M%C3%A4nnerch%C3%B6re%2C_Op.53_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Male Chorus and Orchestra'

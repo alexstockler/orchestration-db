@@ -1,0 +1,20 @@
+id: reger-piano-quintet
+work:
+  composer: Reger, Max
+  title: Piano Quintet
+  ids:
+    imslp: Piano Quintet in C-sharp minor (Reger, Max)
+  year: 1889
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quintet_in_C-sharp_minor_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello, piano'

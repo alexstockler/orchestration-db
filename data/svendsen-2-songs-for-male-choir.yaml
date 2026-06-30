@@ -1,0 +1,15 @@
+id: svendsen-2-songs-for-male-choir
+work:
+  composer: Svendsen, Johan
+  title: 2 Songs for Male Choir
+  ids:
+    imslp: 2 Songs for Male Choir, Op.2 (Svendsen, Johan)
+  year: 1865
+formula: ''
+instrumentation:
+  chorus_raw: male choir
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Songs_for_Male_Choir%2C_Op.2_%28Svendsen%2C_Johan%29
+  confidence: single_source
+  notes: 'Instrumentation: male choir'

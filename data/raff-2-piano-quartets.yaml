@@ -1,0 +1,21 @@
+id: raff-2-piano-quartets
+work:
+  composer: Raff, Joachim
+  title: 2 Piano Quartets
+  ids:
+    imslp: 2 Piano Quartets, Op.202 (Raff, Joachim)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Piano_Quartets%2C_Op.202_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola, cello, piano'
+duration_minutes: 40

@@ -1,0 +1,19 @@
+id: charpentier-o-doctor-optime
+work:
+  composer: Charpentier, Marc-Antoine
+  title: O doctor optime
+  ids:
+    imslp: O doctor optime, H.307 (Charpentier, Marc-Antoine)
+  year: 1670
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_doctor_optime%2C_H.307_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto (or 2 sopranos), continuo'
+duration_minutes: 3

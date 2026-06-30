@@ -1,0 +1,16 @@
+id: buxtehude-gelobet-seist-du-jesu-christ
+work:
+  composer: Buxtehude, Dietrich
+  title: Gelobet seist du, Jesu Christ
+  ids:
+    imslp: Gelobet seist du, Jesu Christ, BuxWV 188 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gelobet_seist_du%2C_Jesu_Christ%2C_BuxWV_188_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

@@ -1,0 +1,21 @@
+id: charpentier-elevation-a-2-dessus-et-une-basse-chantante
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Elévation à 2 dessus et une basse chantante
+  ids:
+    imslp: Elévation à 2 dessus et une basse chantante, H.244 (Charpentier, Marc-Antoine)
+  year: 1679
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - bass
+  - altos
+  additional_raw: continuo | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/El%C3%A9vation_%C3%A0_2_dessus_et_une_basse_chantante%2C_H.244_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos (or soprano, alto), bass (or alto), continuo;
+    2 altos, continuo'
+duration_minutes: 3

@@ -1,0 +1,19 @@
+id: charpentier-dialogus-inter-esurientem-sitientem-et-christum
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Dialogus inter Esurientem, Sitientem et Christum
+  ids:
+    imslp: Dialogus inter Esurientem, Sitientem et Christum, H.407 (Charpentier, Marc-Antoine)
+  year: 1682
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dialogus_inter_Esurientem%2C_Sitientem_et_Christum%2C_H.407_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, bass, continuo'
+duration_minutes: 5

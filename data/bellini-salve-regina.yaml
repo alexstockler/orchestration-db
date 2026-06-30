@@ -1,0 +1,14 @@
+id: bellini-salve-regina
+work:
+  composer: Bellini, Vincenzo
+  title: Salve Regina
+  ids:
+    imslp: Salve Regina, IVB 13 (Bellini, Vincenzo)
+formula: ''
+instrumentation:
+  additional_raw: Soprano ed organo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Salve_Regina%2C_IVB_13_%28Bellini%2C_Vincenzo%29
+  confidence: single_source
+  notes: 'Instrumentation: Soprano ed organo'

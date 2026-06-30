@@ -1,0 +1,25 @@
+id: lully-armide
+work:
+  composer: Lully, Jean-Baptiste
+  title: Armide
+  ids:
+    imslp: Armide, LWV 71 (Lully, Jean-Baptiste)
+  year: 1685
+formula: ''
+instrumentation:
+  additional_raw: Cast | La Gloire (soprano) | La Sagesse (soprano) | Armide (soprano)
+    | Renaud (haute-contre) | Phénice (soprano) | Sidonie (soprano) | Hidraot (baritone)
+    | Aronte (tenor) | Artémidore (tenor) | La Haine (tenor) | Ubalde (baritone) |
+    The Danish Knight (haute-contre) | Demon/Water Nymph (soprano) | Demon/Lucinde
+    (soprano) | Demon/Mélisse (soprano) | dessus de violons | hautes-contre | tailles
+    | quintes | basses de violon
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Armide%2C_LWV_71_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra :Cast ::La Gloire (soprano), La Sagesse
+    (soprano), Armide (soprano), Renaud (haute-contre), Phénice (soprano), Sidonie
+    (soprano), Hidraot (baritone), Aronte (tenor), Artémidore (tenor), La Haine (tenor),
+    Ubalde (baritone), The Danish Knight (haute-contre), Demon/Water Nymph (soprano),
+    Demon/Lucinde (soprano), Demon/Mélisse (soprano) :Orchestra (5 parts) ::dessus
+    de violons, hautes-contre, tailles, quintes, basses de violon'

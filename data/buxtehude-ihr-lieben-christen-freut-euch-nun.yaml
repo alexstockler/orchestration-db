@@ -1,0 +1,30 @@
+id: buxtehude-ihr-lieben-christen-freut-euch-nun
+work:
+  composer: Buxtehude, Dietrich
+  title: Ihr lieben Christen, freut euch nun
+  ids:
+    imslp: Ihr lieben Christen, freut euch nun, BuxWV 51 (Buxtehude, Dietrich)
+  year: 1903
+formula: 0001 0 5[1.2.cnt.cnt.cnt] 3 0
+instrumentation:
+  bassoon: 1
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  - instrument: cornet
+  trombone:
+  - optional: true
+  - optional: true
+  - optional: true
+  solo_strings:
+    violin: 3
+    viola: 2
+  additional_raw: violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ihr_lieben_Christen%2C_freut_euch_nun%2C_BuxWV_51_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: bassoon, 2 trumpets, 3 cornets, 3 trombones (ad lib.),
+    3 violins, 2 violas, violone, continuo'

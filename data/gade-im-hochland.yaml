@@ -1,0 +1,26 @@
+id: gade-im-hochland
+work:
+  composer: Gade, Niels
+  title: Im Hochland
+  ids:
+    imslp: Im Hochland, Op.7 (Gade, Niels)
+  year: 1845
+formula: 0222 4220 tmp str
+instrumentation:
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 2
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: 2 flutes/piccolo | [contrabassoon]* | ophicleide [tuba]*
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Im_Hochland%2C_Op.7_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: 2 flutes/piccolo, 2 oboes, 2 clarinets (A),
+    2 bassoons, [contrabassoon]* + 4 horns (2 in D, 2 in A), 2 trumpets (D), 2 trombones,
+    ophicleide [tuba]* + timpani + strings'

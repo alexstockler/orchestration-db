@@ -1,0 +1,16 @@
+id: charpentier-confitebor-tibi-in-concilio
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Confitebor tibi... in concilio
+  ids:
+    imslp: Confitebor tibi Domine, H.225 (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Confitebor_tibi_Domine%2C_H.225_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

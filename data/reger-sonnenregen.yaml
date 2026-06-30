@@ -1,0 +1,18 @@
+id: reger-sonnenregen
+work:
+  composer: Reger, Max
+  title: Sonnenregen
+  ids:
+    imslp: Sonnenregen, WoO VII/29 (Reger, Max)
+  year: 1902
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonnenregen%2C_WoO_VII/29_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

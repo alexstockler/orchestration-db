@@ -1,0 +1,18 @@
+id: meyerbeer-die-rose-die-lilie-die-taube
+work:
+  composer: Meyerbeer, Giacomo
+  title: Die Rose, die Lilie, die Taube
+  ids:
+    imslp: Die Rose, die Lilie, die Taube (Meyerbeer, Giacomo)
+  year: 1838
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Rose%2C_die_Lilie%2C_die_Taube_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

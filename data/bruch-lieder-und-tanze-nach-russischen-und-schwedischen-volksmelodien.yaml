@@ -1,0 +1,19 @@
+id: bruch-lieder-und-tanze-nach-russischen-und-schwedischen-volksmelodien
+work:
+  composer: Bruch, Max
+  title: Lieder und Tänze nach Russischen und Schwedischen Volksmelodien
+  ids:
+    imslp: Lieder und Tänze nach Russischen und Schwedischen Volksmelodien, Op.79
+      (Bruch, Max)
+  year: 1903
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lieder_und_T%C3%A4nze_nach_Russischen_und_Schwedischen_Volksmelodien%2C_Op.79_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

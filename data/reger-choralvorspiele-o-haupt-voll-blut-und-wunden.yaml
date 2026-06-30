@@ -1,0 +1,16 @@
+id: reger-choralvorspiele-o-haupt-voll-blut-und-wunden
+work:
+  composer: Reger, Max
+  title: Choralvorspiele 'O Haupt voll Blut und Wunden'
+  ids:
+    imslp: O Haupt voll Blut und Wunden, WoO IV/13 (Reger, Max)
+  year: 1905
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_Haupt_voll_Blut_und_Wunden%2C_WoO_IV/13_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

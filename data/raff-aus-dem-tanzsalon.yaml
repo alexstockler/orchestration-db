@@ -1,0 +1,16 @@
+id: raff-aus-dem-tanzsalon
+work:
+  composer: Raff, Joachim
+  title: Aus dem Tanzsalon
+  ids:
+    imslp: Aus dem Tanzsalon, Op.174 (Raff, Joachim)
+  year: 1872
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aus_dem_Tanzsalon%2C_Op.174_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4 hands'

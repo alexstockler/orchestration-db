@@ -1,0 +1,19 @@
+id: buxtehude-furchtet-euch-nicht
+work:
+  composer: Buxtehude, Dietrich
+  title: Fürchtet euch nicht
+  ids:
+    imslp: Fürchtet euch nicht, BuxWV 30 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/F%C3%BCrchtet_euch_nicht%2C_BuxWV_30_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, bass, 2 violins, continuo'

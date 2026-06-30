@@ -1,0 +1,14 @@
+id: meyerbeer-festmarsch-zu-schillers-100-jahriger-geburtstagsfeier
+work:
+  composer: Meyerbeer, Giacomo
+  title: Festmarsch zu Schillers 100 jähriger Geburtstagsfeier
+  ids:
+    imslp: Festmarsch zu Schillers 100 jähriger Geburtstagsfeier (Meyerbeer, Giacomo)
+  year: 1859
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Festmarsch_zu_Schillers_100_j%C3%A4hriger_Geburtstagsfeier_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra'

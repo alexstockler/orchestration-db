@@ -1,0 +1,20 @@
+id: gade-piano-trio
+work:
+  composer: Gade, Niels
+  title: Piano Trio
+  ids:
+    imslp: Piano Trio, Op.42 (Gade, Niels)
+  year: 1862
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio%2C_Op.42_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'
+duration_minutes: 25

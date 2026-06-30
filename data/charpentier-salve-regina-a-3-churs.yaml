@@ -1,0 +1,15 @@
+id: charpentier-salve-regina-a-3-churs
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Salve Regina à 3 chœurs
+  ids:
+    imslp: Salve Regina, H.24 (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  chorus_raw: 3 mixed choruses
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Salve_Regina%2C_H.24_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 mixed choruses (SATB/SATB/ATB), continuo'

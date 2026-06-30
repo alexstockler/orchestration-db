@@ -1,0 +1,18 @@
+id: reger-5-gesange
+work:
+  composer: Reger, Max
+  title: 5 Gesänge
+  ids:
+    imslp: 5 Gesänge, Op.37 (Reger, Max)
+  year: 1899
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Ges%C3%A4nge%2C_Op.37_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (medium), piano'

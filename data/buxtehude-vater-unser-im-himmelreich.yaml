@@ -1,0 +1,16 @@
+id: buxtehude-vater-unser-im-himmelreich
+work:
+  composer: Buxtehude, Dietrich
+  title: Vater unser im Himmelreich
+  ids:
+    imslp: Vater unser im Himmelreich, BuxWV 219 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vater_unser_im_Himmelreich%2C_BuxWV_219_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

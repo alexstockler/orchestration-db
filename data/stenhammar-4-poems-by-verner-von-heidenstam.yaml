@@ -1,0 +1,19 @@
+id: stenhammar-4-poems-by-verner-von-heidenstam
+work:
+  composer: Stenhammar, Wilhelm
+  title: 4 Poems by Verner von Heidenstam
+  ids:
+    imslp: 4 Poems by Verner von Heidenstam, Op.37 (Stenhammar, Wilhelm)
+  year: 1918
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Poems_by_Verner_von_Heidenstam%2C_Op.37_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 9

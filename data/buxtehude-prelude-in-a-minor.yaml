@@ -1,0 +1,16 @@
+id: buxtehude-prelude-in-a-minor
+work:
+  composer: Buxtehude, Dietrich
+  title: Prelude in A minor
+  ids:
+    imslp: Prelude in A minor, BuxWV 153 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude_in_A_minor%2C_BuxWV_153_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

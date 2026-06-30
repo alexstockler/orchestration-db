@@ -1,0 +1,16 @@
+id: buxtehude-durch-adams-fall-ist-ganz-verderbt
+work:
+  composer: Buxtehude, Dietrich
+  title: Durch Adams Fall ist ganz verderbt
+  ids:
+    imslp: Durch Adams Fall ist ganz verderbt, BuxWV 183 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Durch_Adams_Fall_ist_ganz_verderbt%2C_BuxWV_183_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

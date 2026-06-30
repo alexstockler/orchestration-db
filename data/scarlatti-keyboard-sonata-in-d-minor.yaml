@@ -1,0 +1,14 @@
+id: scarlatti-keyboard-sonata-in-d-minor
+work:
+  composer: Scarlatti, Domenico
+  title: Keyboard Sonata in D minor
+  ids:
+    imslp: Keyboard Sonata in D minor, K.deest (Scarlatti, Domenico)
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Keyboard_Sonata_in_D_minor%2C_K.deest_%28Scarlatti%2C_Domenico%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

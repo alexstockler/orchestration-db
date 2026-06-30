@@ -1,0 +1,15 @@
+id: reger-6-preludes-and-fugues
+work:
+  composer: Reger, Max
+  title: 6 Preludes and Fugues
+  ids:
+    imslp: 6 Preludes and Fugues, Op.99 (Reger, Max)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Preludes_and_Fugues%2C_Op.99_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

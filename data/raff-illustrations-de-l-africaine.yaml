@@ -1,0 +1,16 @@
+id: raff-illustrations-de-l-africaine
+work:
+  composer: Raff, Joachim
+  title: Illustrations de 'L'Africaine'
+  ids:
+    imslp: Illustrations de 'L'Africaine', Op.121 (Raff, Joachim)
+  year: 1864
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Illustrations_de_%27L%27Africaine%27%2C_Op.121_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

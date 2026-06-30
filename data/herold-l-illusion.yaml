@@ -1,0 +1,16 @@
+id: herold-l-illusion
+work:
+  composer: Hérold, Ferdinand
+  title: L'illusion
+  ids:
+    imslp: L'illusion (Hérold, Ferdinand)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27illusion_%28H%C3%A9rold%2C_Ferdinand%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

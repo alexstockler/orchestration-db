@@ -1,0 +1,16 @@
+id: raff-fantasie-militair-uber-motive-aus-die-hugenotten
+work:
+  composer: Raff, Joachim
+  title: Fantasie militair über Motive aus 'Die Hugenotten'
+  ids:
+    imslp: Fantasie militair über Motive aus 'Die Hugenotten', Op.36 (Raff, Joachim)
+  year: 1847
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasie_militair_%C3%BCber_Motive_aus_%27Die_Hugenotten%27%2C_Op.36_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,23 @@
+id: charpentier-praelium-michaelis-archangeli-factum-in-coelo-cum-dracone
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Praelium Michaelis Archangeli factum in coelo cum Dracone
+  ids:
+    imslp: Praelium Michaelis Archangeli factum in coelo cum Dracone, H.410 (Charpentier,
+      Marc-Antoine)
+  year: 1683
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - altos
+  solo_strings:
+    violin: 2
+  additional_raw: 2 basses (solo) | 2 x SATB choruses | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Praelium_Michaelis_Archangeli_factum_in_coelo_cum_Dracone%2C_H.410_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, 2 altos, 2 basses (solo), 2 x SATB choruses,
+    2 violins, continuo'
+duration_minutes: 8

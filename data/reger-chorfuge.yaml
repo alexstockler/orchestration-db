@@ -1,0 +1,14 @@
+id: reger-chorfuge
+work:
+  composer: Reger, Max
+  title: Chorfuge
+  ids:
+    imslp: Chorfuge, WoO VI/1 (Reger, Max)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chorfuge%2C_WoO_VI/1_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed Chorus (SATB)'

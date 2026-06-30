@@ -1,0 +1,15 @@
+id: gade-5-lieder-fur-mannerchor
+work:
+  composer: Gade, Niels
+  title: 5 Lieder für Männerchor
+  ids:
+    imslp: 5 Lieder für Männerchor, Op.26 (Gade, Niels)
+  year: 1853
+formula: ''
+instrumentation:
+  chorus_raw: ttbb choir
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Lieder_f%C3%BCr_M%C3%A4nnerchor%2C_Op.26_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: TTBB choir'

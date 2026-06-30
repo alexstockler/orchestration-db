@@ -1,0 +1,16 @@
+id: meyerbeer-margherita-danjou
+work:
+  composer: Meyerbeer, Giacomo
+  title: Margherita d’Anjou
+  ids:
+    imslp: Margherita d'Anjou (Meyerbeer, Giacomo)
+  year: 1820
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Margherita_d%27Anjou_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

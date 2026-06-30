@@ -1,0 +1,18 @@
+id: buxtehude-liebster-meine-seele-saget
+work:
+  composer: Buxtehude, Dietrich
+  title: Liebster, meine Seele saget
+  ids:
+    imslp: Liebster, meine Seele saget, BuxWV 70 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Liebster%2C_meine_Seele_saget%2C_BuxWV_70_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, 2 violins, continuo'

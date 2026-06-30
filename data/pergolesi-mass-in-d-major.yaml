@@ -1,0 +1,17 @@
+id: pergolesi-mass-in-d-major
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Mass in D major
+  ids:
+    imslp: Mass in D major, P.46 (Pergolesi, Giovanni Battista)
+  year: 1732
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: 2 trombe di caccia | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mass_in_D_major%2C_P.46_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 trombe di caccia, strings, continuo'

@@ -1,0 +1,15 @@
+id: reger-abschiedslied
+work:
+  composer: Reger, Max
+  title: Abschiedslied
+  ids:
+    imslp: Abschiedslied, WoO VI/27 (Reger, Max)
+  year: 1914
+formula: ''
+instrumentation:
+  chorus_raw: satb
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Abschiedslied%2C_WoO_VI/27_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB'

@@ -1,0 +1,19 @@
+id: reger-befiehl-dem-herrn-deine-wege
+work:
+  composer: Reger, Max
+  title: Befiehl dem Herrn deine Wege
+  ids:
+    imslp: Befiehl dem Herrn deine Wege, WoO VII/34 (Reger, Max)
+  year: 1899
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - soprano
+  - alto
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Befiehl_dem_Herrn_deine_Wege%2C_WoO_VII/34_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, organ'

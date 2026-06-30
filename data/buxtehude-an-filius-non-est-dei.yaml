@@ -1,0 +1,17 @@
+id: buxtehude-an-filius-non-est-dei
+work:
+  composer: Buxtehude, Dietrich
+  title: An filius non est Dei
+  ids:
+    imslp: An filius non est Dei, BuxWV 6 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+  additional_raw: 3 viols (or 3 trombones or 2 violins, viol) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/An_filius_non_est_Dei%2C_BuxWV_6_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices (ATB), 3 viols (or 3 trombones or 2 violins, viol),
+    continuo'

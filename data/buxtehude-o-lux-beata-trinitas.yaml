@@ -1,0 +1,15 @@
+id: buxtehude-o-lux-beata-trinitas
+work:
+  composer: Buxtehude, Dietrich
+  title: O Lux beata, Trinitas
+  ids:
+    imslp: O Lux beata, Trinitas, BuxWV 216 (Buxtehude, Dietrich)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_Lux_beata%2C_Trinitas%2C_BuxWV_216_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

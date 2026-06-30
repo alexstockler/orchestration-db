@@ -1,0 +1,16 @@
+id: raff-notturno-d-apres-une-romance-de-francois-liszt
+work:
+  composer: Raff, Joachim
+  title: Notturno d'après une romance de François Liszt
+  ids:
+    imslp: Notturno d'après une romance de François Liszt, Op.39 (Raff, Joachim)
+  year: 1847
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Notturno_d%27apr%C3%A8s_une_romance_de_Fran%C3%A7ois_Liszt%2C_Op.39_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

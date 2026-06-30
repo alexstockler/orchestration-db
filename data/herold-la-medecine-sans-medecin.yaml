@@ -1,0 +1,16 @@
+id: herold-la-medecine-sans-medecin
+work:
+  composer: Hérold, Ferdinand
+  title: La médecine sans médecin
+  ids:
+    imslp: La médecine sans médecin (Hérold, Ferdinand)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_m%C3%A9decine_sans_m%C3%A9decin_%28H%C3%A9rold%2C_Ferdinand%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

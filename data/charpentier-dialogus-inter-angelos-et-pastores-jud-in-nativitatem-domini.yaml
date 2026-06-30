@@ -1,0 +1,16 @@
+id: charpentier-dialogus-inter-angelos-et-pastores-jud-in-nativitatem-domini
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Dialogus Inter Angelos et Pastores Judæ In Nativitatem domini
+  ids:
+    imslp: Dialogus inter Angelos et Pastores Judæ, H.420 (Charpentier, Marc-Antoine)
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dialogus_inter_Angelos_et_Pastores_Jud%C3%A6%2C_H.420_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 recorders, strings, continuo'
+duration_minutes: 20

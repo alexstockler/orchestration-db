@@ -1,0 +1,14 @@
+id: ponchielli-colpo-d-apoplessia
+work:
+  composer: Ponchielli, Amilcare
+  title: Colpo d'apoplessia
+  ids:
+    imslp: Marcia Funebre No.3, Op.165 (Ponchielli, Amilcare)
+formula: ''
+instrumentation:
+  additional_raw: Wind band
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marcia_Funebre_No.3%2C_Op.165_%28Ponchielli%2C_Amilcare%29
+  confidence: single_source
+  notes: 'Instrumentation: Wind band'

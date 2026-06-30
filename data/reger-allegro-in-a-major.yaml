@@ -1,0 +1,16 @@
+id: reger-allegro-in-a-major
+work:
+  composer: Reger, Max
+  title: Allegro in A major
+  ids:
+    imslp: Allegro, WoO II/18 (Reger, Max)
+  year: 1907
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Allegro%2C_WoO_II/18_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins'

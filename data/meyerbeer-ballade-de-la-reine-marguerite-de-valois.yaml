@@ -1,0 +1,18 @@
+id: meyerbeer-ballade-de-la-reine-marguerite-de-valois
+work:
+  composer: Meyerbeer, Giacomo
+  title: Ballade de la reine Marguerite de Valois
+  ids:
+    imslp: Ballade de la reine Marguerite de Valois (Meyerbeer, Giacomo)
+  year: 1829
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ballade_de_la_reine_Marguerite_de_Valois_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

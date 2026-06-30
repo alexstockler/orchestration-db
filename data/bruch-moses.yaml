@@ -1,0 +1,36 @@
+id: bruch-moses
+work:
+  composer: Bruch, Max
+  title: Moses
+  ids:
+    imslp: Moses, Op.67 (Bruch, Max)
+  year: 1894
+formula: 2022 4331 tmp org hp str
+instrumentation:
+  flute: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: organ
+  harp: 1
+  strings: str
+  soloists:
+  - soprano
+  - tenor
+  - bass
+  - mixed chorus (SATB)
+  additional_raw: 2 oboes/English horn
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Moses%2C_Op.67_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, tenor, bass + mixed chorus (SATB), Orchestra:
+    2 flutes, 2 oboes/English horn, 2 clarinets, 2 bassoons + 4 horns, 3 trumpets,
+    3 trombones, 1 tuba + timpani + organ + harp + strings'
+duration_minutes: 120

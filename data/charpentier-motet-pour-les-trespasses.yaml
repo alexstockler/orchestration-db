@@ -1,0 +1,17 @@
+id: charpentier-motet-pour-les-trespasses
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Motet pour les tréspassés
+  ids:
+    imslp: Motet pour les tréspassés, H.311 (Charpentier, Marc-Antoine)
+  year: 1671
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: 2 SATB choruses (& soli) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Motet_pour_les_tr%C3%A9spass%C3%A9s%2C_H.311_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 SATB choruses (& soli), strings, continuo'
+duration_minutes: 10

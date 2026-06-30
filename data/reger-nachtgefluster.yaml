@@ -1,0 +1,18 @@
+id: reger-nachtgefluster
+work:
+  composer: Reger, Max
+  title: Nachtgeflüster
+  ids:
+    imslp: Nachtgeflüster, WoO VII/23 (Reger, Max)
+  year: 1900
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nachtgefl%C3%BCster%2C_WoO_VII/23_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

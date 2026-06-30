@@ -1,0 +1,23 @@
+id: charpentier-les-plaisirs-de-versailles
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Les plaisirs de Versailles
+  ids:
+    imslp: Les plaisirs de Versailles, H.480 (Charpentier, Marc-Antoine)
+formula: 1[bfl] 0 0 0 0000
+instrumentation:
+  flute:
+  - instrument: bass_flute
+  soloists:
+  - La musique (haut-dessus)
+  - La conversation (dessus)
+  - Le jeu (haute-contre)
+  - Comus (basse)
+  additional_raw: 2 treble instruments | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_plaisirs_de_Versailles%2C_H.480_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: La musique (haut-dessus), La conversation (dessus),
+    Le jeu (haute-contre), Comus (basse), Orchestra: bass flute + 2 treble instruments
+    + continuo'

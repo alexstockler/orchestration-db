@@ -1,0 +1,16 @@
+id: martucci-nocturnes
+work:
+  composer: Martucci, Giuseppe
+  title: Nocturnes
+  ids:
+    imslp: 2 Nocturnes, Op.70 (Martucci, Giuseppe)
+  year: 1891
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Nocturnes%2C_Op.70_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

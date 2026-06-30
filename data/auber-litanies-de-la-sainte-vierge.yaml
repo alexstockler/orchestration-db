@@ -1,0 +1,17 @@
+id: auber-litanies-de-la-sainte-vierge
+work:
+  composer: Auber, Daniel François Esprit
+  title: Litanies de la Sainte Vierge
+  ids:
+    imslp: Litanies de la Sainte Vierge, AWV 53 (Auber, Daniel François Esprit)
+  year: 1815
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: 4 vocal soloists (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Litanies_de_la_Sainte_Vierge%2C_AWV_53_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 vocal soloists (SATB), mixed chorus (SATB), orchestra
+    (flute, 2 clarinets in C, 2 horns in E, 2 bassoons, strings)'

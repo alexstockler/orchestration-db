@@ -1,0 +1,35 @@
+id: bruch-das-feuerkreuz
+work:
+  composer: Bruch, Max
+  title: Das Feuerkreuz
+  ids:
+    imslp: Das Feuerkreuz, Op.52 (Bruch, Max)
+  year: 1888
+formula: 2223 4231 tmp+1 hp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 3
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 1
+  harp: 1
+  strings: str
+  soloists:
+  - Soprano
+  - baritone
+  - bass
+  - mixed chorus (SATB)
+  additional_raw: organ ad libitum
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Feuerkreuz%2C_Op.52_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: Soprano, baritone, bass + mixed chorus (SATB),
+    Orchestra: 2 flutes, 2 oboes, 2 clarinets, 3 bassoons + 4 horns, 2 trumpets, 3
+    trombones, 1 tuba + timpani, percussion + harp, organ ad libitum + strings'

@@ -1,0 +1,16 @@
+id: adam-capriccio-sur-un-choral-protestant
+work:
+  composer: Adam, Adolphe
+  title: Capriccio sur un choral protestant
+  ids:
+    imslp: Capriccio sur un choral protestant, Op.100 (Adam, Adolphe)
+  year: 1836
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Capriccio_sur_un_choral_protestant%2C_Op.100_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano solo'

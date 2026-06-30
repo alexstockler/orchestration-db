@@ -1,0 +1,18 @@
+id: charpentier-cum-invocarem
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Cum invocarem
+  ids:
+    imslp: Cum invocarem, H.198 (Charpentier, Marc-Antoine)
+  year: 1688
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: continuo (recorders may double violins)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cum_invocarem%2C_H.198_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, continuo (recorders may double violins)'

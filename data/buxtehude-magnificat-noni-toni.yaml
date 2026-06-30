@@ -1,0 +1,16 @@
+id: buxtehude-magnificat-noni-toni
+work:
+  composer: Buxtehude, Dietrich
+  title: Magnificat noni toni
+  ids:
+    imslp: Magnificat noni toni, BuxWV 205 (Buxtehude, Dietrich)
+  year: 1903
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Magnificat_noni_toni%2C_BuxWV_205_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

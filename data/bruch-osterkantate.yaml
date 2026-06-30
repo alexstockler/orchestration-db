@@ -1,0 +1,18 @@
+id: bruch-osterkantate
+work:
+  composer: Bruch, Max
+  title: Osterkantate
+  ids:
+    imslp: Osterkantate, Op.81 (Bruch, Max)
+  year: 1908
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Osterkantate%2C_Op.81_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano; mixed chorus (SSATB), Orchestra (including
+    organ)'

@@ -1,0 +1,18 @@
+id: reger-wiegenlied-schlaf-kindlein-balde
+work:
+  composer: Reger, Max
+  title: Wiegenlied 'Schlaf, Kindlein, balde'
+  ids:
+    imslp: Wiegenlied, WoO VII/42 (Reger, Max)
+  year: 1909
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Wiegenlied%2C_WoO_VII/42_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

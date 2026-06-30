@@ -1,0 +1,16 @@
+id: adam-le-hussard-de-felsheim
+work:
+  composer: Adam, Adolphe
+  title: Le hussard de Felsheim
+  ids:
+    imslp: Le hussard de Felsheim (Adam, Adolphe)
+  year: 1827
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_hussard_de_Felsheim_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

@@ -1,0 +1,19 @@
+id: reger-string-quartet
+work:
+  composer: Reger, Max
+  title: String Quartet
+  ids:
+    imslp: String Quartet No.3, Op.74 (Reger, Max)
+  year: 1903
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.3%2C_Op.74_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 55

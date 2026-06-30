@@ -1,0 +1,18 @@
+id: charpentier-lecon-de-tenebres-du-jeudi-saint
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Leçon de ténèbres du Jeudi saint
+  ids:
+    imslp: Leçon de ténèbres du Jeudi saint, H.93 (Charpentier, Marc-Antoine)
+  year: 1670
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le%C3%A7on_de_t%C3%A9n%C3%A8bres_du_Jeudi_saint%2C_H.93_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, continuo'
+duration_minutes: 8

@@ -1,0 +1,20 @@
+id: charpentier-canticum-in-honoris-bmv-inter-homines-et-angelos
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Canticum in honoris BMV inter homines et angelos
+  ids:
+    imslp: Canticum in honoris BMV inter homines et angelos, H.400 (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - alto
+  - tenor
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canticum_in_honoris_BMV_inter_homines_et_angelos%2C_H.400_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, alto, tenor, bass, continuo'
+duration_minutes: 10

@@ -1,0 +1,19 @@
+id: bruch-piano-trio
+work:
+  composer: Bruch, Max
+  title: Piano Trio
+  ids:
+    imslp: Piano Trio, Op.5 (Bruch, Max)
+  year: 1859
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio%2C_Op.5_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'

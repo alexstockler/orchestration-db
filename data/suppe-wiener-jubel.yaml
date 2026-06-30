@@ -1,0 +1,15 @@
+id: suppe-wiener-jubel
+work:
+  composer: Suppé, Franz von
+  title: Wiener-Jubel
+  ids:
+    imslp: Wiener-Jubel (Suppé, Franz von)
+  year: 1890
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Wiener-Jubel_%28Supp%C3%A9%2C_Franz_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra'
+duration_minutes: 7

@@ -1,0 +1,44 @@
+id: reger-symphonischer-prolog-zu-einer-tragodie
+work:
+  composer: Reger, Max
+  title: Symphonischer Prolog zu einer Tragödie
+  ids:
+    imslp: Symphonischer Prolog zu einer Tragödie, Op.108 (Reger, Max)
+  year: 1908
+formula: 3[1.2.3/pic] 3[1.2.Eh] 3[1.2.bcl] 3[1.2.cbn] 6331 tmp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 6
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 3
+    instruments:
+    - bass drum
+    - cymbals
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphonischer_Prolog_zu_einer_Trag%C3%B6die%2C_Op.108_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra :3 flutes (3rd also piccolo), 2 oboes, English
+    horn, 2 clarinets (B) ::bass clarinet (B), 2 bassoons, contrabassoon :6 horns
+    (F), 3 trumpets (C), 3 trombones, tuba, 3 timpani, bass drum, cymbals, strings'
+duration_minutes: 35

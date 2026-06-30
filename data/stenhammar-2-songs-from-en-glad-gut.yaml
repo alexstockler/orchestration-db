@@ -1,0 +1,19 @@
+id: stenhammar-2-songs-from-en-glad-gut
+work:
+  composer: Stenhammar, Wilhelm
+  title: 2 Songs from En glad Gut
+  ids:
+    imslp: 2 Songs from En glad Gut (Stenhammar, Wilhelm)
+  year: 1888
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Songs_from_En_glad_Gut_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 5

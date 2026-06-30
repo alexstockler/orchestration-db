@@ -1,0 +1,16 @@
+id: ponchielli-capriccio-for-oboe-and-piano
+work:
+  composer: Ponchielli, Amilcare
+  title: Capriccio for Oboe and Piano
+  ids:
+    imslp: Capriccio for Oboe and Piano, Op.80 (Ponchielli, Amilcare)
+formula: 0100 0000 pf
+instrumentation:
+  oboe: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Capriccio_for_Oboe_and_Piano%2C_Op.80_%28Ponchielli%2C_Amilcare%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, piano'

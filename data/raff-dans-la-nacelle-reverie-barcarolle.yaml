@@ -1,0 +1,17 @@
+id: raff-dans-la-nacelle-reverie-barcarolle
+work:
+  composer: Raff, Joachim
+  title: Dans la nacelle, Rêverie-Barcarolle
+  ids:
+    imslp: Dans la nacelle, Rêverie-Barcarolle, Op.93 (Raff, Joachim)
+  year: 1860
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dans_la_nacelle%2C_R%C3%AAverie-Barcarolle%2C_Op.93_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 4

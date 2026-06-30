@@ -1,0 +1,16 @@
+id: raff-angelens-letzter-tag-im-kloster
+work:
+  composer: Raff, Joachim
+  title: Angelens letzter Tag im Kloster
+  ids:
+    imslp: Angelens letzter Tag im Kloster, Op.27 (Raff, Joachim)
+  year: 1845
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Angelens_letzter_Tag_im_Kloster%2C_Op.27_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

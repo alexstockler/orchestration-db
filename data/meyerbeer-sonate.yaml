@@ -1,0 +1,20 @@
+id: meyerbeer-sonate
+work:
+  composer: Meyerbeer, Giacomo
+  title: Sonate
+  ids:
+    imslp: Clarinet Quintet (Meyerbeer, Giacomo)
+  year: 1812
+formula: 0010 0000
+instrumentation:
+  clarinet: 1
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Clarinet_Quintet_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, 2 violins, viola, cello'
+duration_minutes: 20

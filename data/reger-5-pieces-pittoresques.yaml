@@ -1,0 +1,16 @@
+id: reger-5-pieces-pittoresques
+work:
+  composer: Reger, Max
+  title: 5 Pièces pittoresques
+  ids:
+    imslp: 5 Pièces pittoresques, Op.34 (Reger, Max)
+  year: 1899
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Pi%C3%A8ces_pittoresques%2C_Op.34_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'

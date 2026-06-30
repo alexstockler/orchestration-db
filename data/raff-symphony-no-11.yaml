@@ -1,0 +1,27 @@
+id: raff-symphony-no-11
+work:
+  composer: Raff, Joachim
+  title: Symphony No.11
+  ids:
+    imslp: Symphony No.11, Op.214 (Raff, Joachim)
+formula: 2222 4230 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.11%2C_Op.214_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2
+    trumpets, 3 trombones, timpani, triangle, strings'
+duration_minutes: 35

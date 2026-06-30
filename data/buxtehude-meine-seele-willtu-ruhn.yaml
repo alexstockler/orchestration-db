@@ -1,0 +1,19 @@
+id: buxtehude-meine-seele-willtu-ruhn
+work:
+  composer: Buxtehude, Dietrich
+  title: Meine Seele willtu ruhn
+  ids:
+    imslp: Meine Seele willtu ruhn, BuxWV 74 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: violone (bassoon) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Meine_Seele_willtu_ruhn%2C_BuxWV_74_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, bass, 2 violins, violone (bassoon), continuo'

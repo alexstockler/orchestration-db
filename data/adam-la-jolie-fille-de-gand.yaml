@@ -1,0 +1,14 @@
+id: adam-la-jolie-fille-de-gand
+work:
+  composer: Adam, Adolphe
+  title: La jolie fille de Gand
+  ids:
+    imslp: La jolie fille de Gand (Adam, Adolphe)
+  year: 1841
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_jolie_fille_de_Gand_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

@@ -1,0 +1,25 @@
+id: pergolesi-la-morte-di-san-giuseppe
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: La morte di san Giuseppe
+  ids:
+    imslp: La morte di san Giuseppe (Pergolesi, Giovanni Battista)
+formula: 2200 2000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  horn: 2
+  strings: str
+  soloists:
+  - Amor divino (S)
+  - S. Michele Arcangiolo (S)
+  - Maria Vergine (A)
+  - S. Giuseppe (T)
+  additional_raw: archilute | viola d'amore | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_morte_di_san_Giuseppe_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal: Amor divino (S), S. Michele Arcangiolo (S), Maria
+    Vergine (A), S. Giuseppe (T), Orchestra: 2 flutes, 2 oboes, 2 horns, archilute,
+    viola d''amore, strings, continuo'

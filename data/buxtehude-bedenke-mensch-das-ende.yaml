@@ -1,0 +1,18 @@
+id: buxtehude-bedenke-mensch-das-ende
+work:
+  composer: Buxtehude, Dietrich
+  title: Bedenke Mensch das Ende
+  ids:
+    imslp: Bedenke Mensch das Ende, BuxWV 9 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  solo_strings:
+    violin: 3
+  additional_raw: violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bedenke_Mensch_das_Ende%2C_BuxWV_9_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: voices (SSB), 3 violins, violone, continuo'

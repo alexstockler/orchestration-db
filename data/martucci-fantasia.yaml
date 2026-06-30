@@ -1,0 +1,15 @@
+id: martucci-fantasia
+work:
+  composer: Martucci, Giuseppe
+  title: Fantasia
+  ids:
+    imslp: Fantasia, Op.51 (Martucci, Giuseppe)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia%2C_Op.51_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

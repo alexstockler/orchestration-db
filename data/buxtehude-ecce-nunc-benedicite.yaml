@@ -1,0 +1,19 @@
+id: buxtehude-ecce-nunc-benedicite
+work:
+  composer: Buxtehude, Dietrich
+  title: Ecce nunc benedicite
+  ids:
+    imslp: Ecce nunc benedicite, BuxWV 23 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ecce_nunc_benedicite%2C_BuxWV_23_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (ATTB), 2 violins, continuo'
+duration_minutes: 7

@@ -1,0 +1,18 @@
+id: reger-5-duette
+work:
+  composer: Reger, Max
+  title: 5 Duette
+  ids:
+    imslp: 5 Duets, Op.14 (Reger, Max)
+  year: 1894
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Duets%2C_Op.14_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voices (SA), piano'

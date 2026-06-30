@@ -1,0 +1,26 @@
+id: charpentier-in-honorem-sancti-xaverij-canticum
+work:
+  composer: Charpentier, Marc-Antoine
+  title: In honorem Sancti Xaverij canticum
+  ids:
+    imslp: In honorem Sancti Xaverij canticum, H.355 (Charpentier, Marc-Antoine)
+  year: 1690
+formula: 2000 0000
+instrumentation:
+  flute: 2
+  soloists:
+  - sopranos
+  - tenor
+  - bass
+  chorus_raw: satb chorus
+  solo_strings:
+    violin: 2
+    viola: 2
+    cello: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_honorem_Sancti_Xaverij_canticum%2C_H.355_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, tenor, bass, SATB chorus, 2 flutes, 2 violins,
+    2 violas, cello, continuo'

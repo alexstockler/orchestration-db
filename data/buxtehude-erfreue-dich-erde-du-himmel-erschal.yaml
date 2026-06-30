@@ -1,0 +1,22 @@
+id: buxtehude-erfreue-dich-erde-du-himmel-erschal
+work:
+  composer: Buxtehude, Dietrich
+  title: Erfreue dich Erde du Himmel erschal
+  ids:
+    imslp: Erfreue dich Erde du Himmel erschal, BuxWV 26 (Buxtehude, Dietrich)
+formula: 0000 0200 tmp
+instrumentation:
+  trumpet: 2
+  percussion:
+    timpani: 1
+  soloists:
+  - voices
+  solo_strings:
+    violin: 2
+  additional_raw: violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erfreue_dich_Erde_du_Himmel_erschal%2C_BuxWV_26_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: voices (SSAB), 2 violins, 2 trumpets, violone, timpani,
+    continuo'

@@ -1,0 +1,18 @@
+id: buxtehude-salve-jesu
+work:
+  composer: Buxtehude, Dietrich
+  title: Salve Jesu
+  ids:
+    imslp: Salve Jesu, BuxWV 94 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Salve_Jesu%2C_BuxWV_94_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, 2 violins, continuo'

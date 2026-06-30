@@ -1,0 +1,15 @@
+id: scarlatti-keyboard-sonata-in-f-major
+work:
+  composer: Scarlatti, Domenico
+  title: Keyboard Sonata in F major
+  ids:
+    imslp: Keyboard Sonata in F major, K.6 (Scarlatti, Domenico)
+  year: 1738
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Keyboard_Sonata_in_F_major%2C_K.6_%28Scarlatti%2C_Domenico%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

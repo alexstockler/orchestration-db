@@ -1,0 +1,18 @@
+id: adam-la-wili
+work:
+  composer: Adam, Adolphe
+  title: La Wili
+  ids:
+    imslp: La Wili (Adam, Adolphe)
+  year: 1841
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_Wili_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

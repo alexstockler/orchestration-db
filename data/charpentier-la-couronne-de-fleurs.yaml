@@ -1,0 +1,22 @@
+id: charpentier-la-couronne-de-fleurs
+work:
+  composer: Charpentier, Marc-Antoine
+  title: La couronne de fleurs
+  ids:
+    imslp: La couronne de fleurs, H.486 (Charpentier, Marc-Antoine)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - alto
+  - tenor
+  chorus_raw: mixed chorus
+  additional_raw: 2 basses | 2 violins/viols | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_couronne_de_fleurs%2C_H.486_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 sopranos, alto, tenor, 2 basses, mixed chorus (SSATB),
+    2 violins/viols, continuo'
+duration_minutes: 25

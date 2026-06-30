@@ -1,0 +1,17 @@
+id: auber-le-macon
+work:
+  composer: Auber, Daniel François Esprit
+  title: Le maçon
+  ids:
+    imslp: Le maçon (Auber, Daniel François Esprit)
+  year: 1825
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_ma%C3%A7on_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

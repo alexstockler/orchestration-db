@@ -1,0 +1,14 @@
+id: pergolesi-messa-a-4
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Messa a 4
+  ids:
+    imslp: Mass in F major (Pergolesi, Giovanni Battista)
+formula: ''
+instrumentation:
+  additional_raw: unknown (see below, Comments)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mass_in_F_major_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: unknown (see below, Comments)'

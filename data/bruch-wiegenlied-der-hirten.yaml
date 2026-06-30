@@ -1,0 +1,15 @@
+id: bruch-wiegenlied-der-hirten
+work:
+  composer: Bruch, Max
+  title: Wiegenlied der Hirten
+  ids:
+    imslp: Wiegenlied der Hirten (Bruch, Max)
+  year: 1620
+formula: ''
+instrumentation:
+  additional_raw: for Choir (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Wiegenlied_der_Hirten_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: for Choir (SATB)'

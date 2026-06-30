@@ -1,0 +1,16 @@
+id: buxtehude-lobt-gott-ihr-christen-allzugleich
+work:
+  composer: Buxtehude, Dietrich
+  title: Lobt Gott, ihr Christen, allzugleich
+  ids:
+    imslp: Lobt Gott, ihr Christen, allzugleich, BuxWV 202 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lobt_Gott%2C_ihr_Christen%2C_allzugleich%2C_BuxWV_202_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

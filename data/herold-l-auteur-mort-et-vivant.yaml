@@ -1,0 +1,16 @@
+id: herold-l-auteur-mort-et-vivant
+work:
+  composer: Hérold, Ferdinand
+  title: L'auteur mort et vivant
+  ids:
+    imslp: L'auteur mort et vivant (Hérold, Ferdinand)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27auteur_mort_et_vivant_%28H%C3%A9rold%2C_Ferdinand%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

@@ -1,0 +1,16 @@
+id: raff-introduction-and-allegro-scherzoso
+work:
+  composer: Raff, Joachim
+  title: Introduction and Allegro scherzoso
+  ids:
+    imslp: Introduction et Allegro scherzoso, Op.87 (Raff, Joachim)
+  year: 1858
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Introduction_et_Allegro_scherzoso%2C_Op.87_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

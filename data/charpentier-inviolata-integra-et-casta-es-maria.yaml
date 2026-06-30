@@ -1,0 +1,19 @@
+id: charpentier-inviolata-integra-et-casta-es-maria
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Inviolata, integra et casta es Maria
+  ids:
+    imslp: Inviolata, integra et casta es Maria, H.26 (Charpentier, Marc-Antoine)
+  year: 1680
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Inviolata%2C_integra_et_casta_es_Maria%2C_H.26_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, bass, continuo'
+duration_minutes: 4

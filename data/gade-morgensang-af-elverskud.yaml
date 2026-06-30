@@ -1,0 +1,14 @@
+id: gade-morgensang-af-elverskud
+work:
+  composer: Gade, Niels
+  title: Morgensang af Elverskud
+  ids:
+    imslp: Morgensang af Elverskud (Gade, Niels)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Morgensang_af_Elverskud_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

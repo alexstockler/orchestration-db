@@ -1,0 +1,19 @@
+id: buxtehude-o-lux-beata-trinitas-et-principalis-unitas-buxwv-89
+work:
+  composer: Buxtehude, Dietrich
+  title: O lux beata Trinitas et principalis unitas, BuxWV 89
+  ids:
+    imslp: O lux beata, Trinitas et principalis, BuxWV 89 (Buxtehude, Dietrich)
+formula: 0001 0000
+instrumentation:
+  bassoon: 1
+  soloists:
+  - sopranos
+  solo_strings:
+    violin: 3
+  additional_raw: basso continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_lux_beata%2C_Trinitas_et_principalis%2C_BuxWV_89_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, bassoon, 3 violins, basso continuo'

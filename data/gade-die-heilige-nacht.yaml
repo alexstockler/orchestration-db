@@ -1,0 +1,18 @@
+id: gade-die-heilige-nacht
+work:
+  composer: Gade, Niels
+  title: Die Heilige Nacht
+  ids:
+    imslp: Die Heilige Nacht, Op.40 (Gade, Niels)
+  year: 1862
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Heilige_Nacht%2C_Op.40_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, chorus, orchestra'
+duration_minutes: 20

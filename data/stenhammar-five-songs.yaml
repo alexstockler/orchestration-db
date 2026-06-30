@@ -1,0 +1,19 @@
+id: stenhammar-five-songs
+work:
+  composer: Stenhammar, Wilhelm
+  title: Five songs
+  ids:
+    imslp: 5 Songs (Stenhammar, Wilhelm)
+  year: 1917
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Songs_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 11

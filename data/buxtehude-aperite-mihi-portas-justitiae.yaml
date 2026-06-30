@@ -1,0 +1,20 @@
+id: buxtehude-aperite-mihi-portas-justitiae
+work:
+  composer: Buxtehude, Dietrich
+  title: Aperite mihi portas justitiae
+  ids:
+    imslp: Aperite mihi portas justitiae, BuxWV 7 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  - tenor
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aperite_mihi_portas_justitiae%2C_BuxWV_7_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, tenor, bass, 2 violins, continuo'

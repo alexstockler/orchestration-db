@@ -1,0 +1,27 @@
+id: reger-hymne-an-den-gesang
+work:
+  composer: Reger, Max
+  title: Hymne an den Gesang
+  ids:
+    imslp: Hymne an den Gesang, Op.21 (Reger, Max)
+formula: 2222 4230 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - Male Chorus (TTBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymne_an_den_Gesang%2C_Op.21_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus, orchestra :Male Chorus (TTBB), Orchestra ::2
+    flutes, 2 oboes, 2 clarinets (A), 2 bassoons, 4 horns (F), 2 trumpets (F), 3 trombones,
+    timpani, strings'

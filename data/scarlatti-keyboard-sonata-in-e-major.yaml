@@ -1,0 +1,15 @@
+id: scarlatti-keyboard-sonata-in-e-major
+work:
+  composer: Scarlatti, Domenico
+  title: Keyboard Sonata in E major
+  ids:
+    imslp: Keyboard Sonata in E major, K.20 (Scarlatti, Domenico)
+  year: 1738
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Keyboard_Sonata_in_E_major%2C_K.20_%28Scarlatti%2C_Domenico%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

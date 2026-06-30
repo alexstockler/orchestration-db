@@ -1,0 +1,18 @@
+id: reger-der-maien-ist-gestorben
+work:
+  composer: Reger, Max
+  title: Der Maien ist gestorben
+  ids:
+    imslp: Der Maien ist gestorben, WoO VII/39 (Reger, Max)
+  year: 1906
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Maien_ist_gestorben%2C_WoO_VII/39_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,16 @@
+id: reger-in-der-nacht
+work:
+  composer: Reger, Max
+  title: In der Nacht
+  ids:
+    imslp: In der Nacht, WoO III/18 (Reger, Max)
+  year: 1902
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_der_Nacht%2C_WoO_III/18_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

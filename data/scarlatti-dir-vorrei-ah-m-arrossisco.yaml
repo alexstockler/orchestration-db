@@ -1,0 +1,18 @@
+id: scarlatti-dir-vorrei-ah-m-arrossisco
+work:
+  composer: Scarlatti, Domenico
+  title: Dir vorrei ah m'arrossisco
+  ids:
+    imslp: Dir vorrei ah m'arrossisco (Scarlatti, Domenico)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dir_vorrei_ah_m%27arrossisco_%28Scarlatti%2C_Domenico%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 2 violins, continuo'

@@ -1,0 +1,16 @@
+id: buxtehude-herr-jesu-christ-ich-weiss-gar-wohl
+work:
+  composer: Buxtehude, Dietrich
+  title: Herr Jesu Christ, ich weiss gar wohl
+  ids:
+    imslp: Herr Jesu Christ, ich weiss gar wohl, BuxWV 193 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Herr_Jesu_Christ%2C_ich_weiss_gar_wohl%2C_BuxWV_193_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

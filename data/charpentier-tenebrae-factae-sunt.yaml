@@ -1,0 +1,21 @@
+id: charpentier-tenebrae-factae-sunt
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Tenebrae factae sunt
+  ids:
+    imslp: Tenebrae factae sunt, H.129 (Charpentier, Marc-Antoine)
+  year: 1690
+formula: ''
+instrumentation:
+  soloists:
+  - bass solo
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tenebrae_factae_sunt%2C_H.129_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: bass solo, 2 recorders, 2 violins, viola, continuo'
+duration_minutes: 5

@@ -1,0 +1,35 @@
+id: adam-josephine-ou-le-retour-de-wagram
+work:
+  composer: Adam, Adolphe
+  title: Joséphine, ou Le retour de Wagram
+  ids:
+    imslp: Joséphine (Adam, Adolphe)
+  year: 1830
+formula: 2222 4230 tmp+1 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    players: 1
+  strings: str
+  soloists:
+  - 'Joséphine (forte première chanteuse) :Le prince Eugène (premier elleviou) :Le
+    duc de Vincence (première basse-taille) :Napoléon (role de convenance) :Rustan
+    (deuxième basse-taille) :Marie (dugazon) :Vincent (trial) :La Comtesse (deuxième
+    chanteuse) ::'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jos%C3%A9phine_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra :Joséphine (forte
+    première chanteuse) :Le prince Eugène (premier elleviou) :Le duc de Vincence (première
+    basse-taille) :Napoléon (role de convenance) :Rustan (deuxième basse-taille) :Marie
+    (dugazon) :Vincent (trial) :La Comtesse (deuxième chanteuse) ::Orchestra: 2 flutes
+    (+picc), 2 oboes, 2 clarinets, 2 bassoons, 2 trumpets, 4 horns, 3 trombones, timpani,
+    percussion, strings'

@@ -1,0 +1,16 @@
+id: adam-messe-solennelle-de-sainte-cecile
+work:
+  composer: Adam, Adolphe
+  title: Messe solennelle de Sainte Cécile
+  ids:
+    imslp: Messe solennelle de Sainte Cécile (Adam, Adolphe)
+  year: 1851
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Messe_solennelle_de_Sainte_C%C3%A9cile_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

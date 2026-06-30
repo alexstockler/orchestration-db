@@ -1,0 +1,18 @@
+id: auber-oh-sweetly-we-will-sing-love
+work:
+  composer: Auber, Daniel François Esprit
+  title: Oh, Sweetly We Will Sing Love
+  ids:
+    imslp: Oh, Sweetly We Will Sing Love (Auber, Daniel François Esprit)
+  year: 1839
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oh%2C_Sweetly_We_Will_Sing_Love_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'

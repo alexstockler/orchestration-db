@@ -1,0 +1,14 @@
+id: pergolesi-sinfonia-in-b-flat-major
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Sinfonia in B-flat major
+  ids:
+    imslp: Sinfonia in B-flat major (Pergolesi, Giovanni Battista)
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sinfonia_in_B-flat_major_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'

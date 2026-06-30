@@ -1,0 +1,19 @@
+id: buxtehude-klinget-mit-freuden-ihr-klaren-klarinen
+work:
+  composer: Buxtehude, Dietrich
+  title: Klinget mit Freuden ihr klaren Klarinen
+  ids:
+    imslp: Klinget mit Freuden ihr klaren Klarinen, BuxWV 65 (Buxtehude, Dietrich)
+formula: 0000 0200
+instrumentation:
+  trumpet: 2
+  soloists:
+  - 3 voices
+  solo_strings:
+    violin: 2
+  additional_raw: violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Klinget_mit_Freuden_ihr_klaren_Klarinen%2C_BuxWV_65_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices (SSB), 2 violins, 2 trumpets, violone, continuo'

@@ -1,0 +1,17 @@
+id: reger-introduction-und-passacaglia-fur-orgel-in-d-moll-ohne-opus
+work:
+  composer: Reger, Max
+  title: Introduction und Passacaglia für Orgel (in d-Moll), ohne Opus
+  ids:
+    imslp: Introduction und Passacaglia, WoO IV/6 (Reger, Max)
+  year: 1899
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Introduction_und_Passacaglia%2C_WoO_IV/6_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 9

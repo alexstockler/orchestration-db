@@ -1,0 +1,20 @@
+id: charpentier-tanquam-ad-latronem
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Tanquam ad latronem
+  ids:
+    imslp: Tanquam ad latronem, H.133 (Charpentier, Marc-Antoine)
+  year: 1690
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tanquam_ad_latronem%2C_H.133_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, 2 recorders, 2 violins, continuo'
+duration_minutes: 5

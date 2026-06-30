@@ -1,0 +1,17 @@
+id: herold-marie-almedon-ou-le-monde-renverse
+work:
+  composer: Hérold, Ferdinand
+  title: Marie ; Almédon, ou le monde renversé
+  ids:
+    imslp: Marie (Hérold, Ferdinand)
+  year: 1826
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marie_%28H%C3%A9rold%2C_Ferdinand%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

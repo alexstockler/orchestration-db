@@ -1,0 +1,14 @@
+id: reger-lasset-uns-den-herren-preisen
+work:
+  composer: Reger, Max
+  title: Lasset uns den Herren preisen
+  ids:
+    imslp: Lasset uns den Herren preisen (Reger, Max)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lasset_uns_den_Herren_preisen_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SSATB)'

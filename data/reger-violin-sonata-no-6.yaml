@@ -1,0 +1,19 @@
+id: reger-violin-sonata-no-6
+work:
+  composer: Reger, Max
+  title: Violin Sonata No.6
+  ids:
+    imslp: Violin Sonata No.6, Op.103b No.1 (Reger, Max)
+  year: 1909
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_No.6%2C_Op.103b_No.1_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 25

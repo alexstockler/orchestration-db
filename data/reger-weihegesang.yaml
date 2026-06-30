@@ -1,0 +1,25 @@
+id: reger-weihegesang
+work:
+  composer: Reger, Max
+  title: Weihegesang
+  ids:
+    imslp: Weihegesang, WoO V/6 (Reger, Max)
+  year: 1908
+formula: 2222 4000 tmp
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  percussion:
+    timpani: 1
+  chorus_raw: chorus
+  additional_raw: Voice - alto
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Weihegesang%2C_WoO_V/6_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, chorus, orchestra :Voice - alto :Chorus (SATB),
+    Orchestra ("Blasorchester") ::2 flutes, 2 oboes, 2 clarinets (B), 2 bassoons,
+    4 horns (F), timpani'

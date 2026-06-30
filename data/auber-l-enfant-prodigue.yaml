@@ -1,0 +1,38 @@
+id: auber-l-enfant-prodigue
+work:
+  composer: Auber, Daniel François Esprit
+  title: L'enfant prodigue
+  ids:
+    imslp: L'enfant prodigue (Auber, Daniel François Esprit)
+  year: 1850
+formula: 2[pic.2] 2 2 2 4 4[1.2.cnt.cnt] 3 0 tmp ophicleide str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drum
+    - cymbals
+  extras:
+  - instrument: ophicleide
+  strings: str
+  additional_raw: percussion [triangle | bass drum]
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27enfant_prodigue_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus,, orchestra: piccolo, flute,
+    2 oboes, 2 clarinets, 2 bassoons,, 4 horns, 2 trumpets, 2 cornets, 3 trombones,
+    ophicleide,, timpani, percussion [triangle, snare drum, cymbals, bass drum], strings'

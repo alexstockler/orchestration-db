@@ -1,0 +1,16 @@
+id: gade-sanct-hansaften-spil
+work:
+  composer: Gade, Niels
+  title: Sanct Hansaften Spil
+  ids:
+    imslp: Sanct Hansaften Spil (Gade, Niels)
+  year: 1886
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Soprano voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sanct_Hansaften_Spil_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: Soprano voice, Chorus, Orchestra'

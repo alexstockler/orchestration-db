@@ -1,0 +1,20 @@
+id: auber-benedictus-no-5
+work:
+  composer: Auber, Daniel François Esprit
+  title: Benedictus No.5
+  ids:
+    imslp: Benedictus No.5, AWV 80 (Auber, Daniel François Esprit)
+  year: 1859
+formula: 0010 0000 org hp
+instrumentation:
+  clarinet: 1
+  keyboards:
+  - instrument: organ
+  harp: 1
+  soloists:
+  - baritone
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Benedictus_No.5%2C_AWV_80_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: baritone, clarinet, harp, organ'

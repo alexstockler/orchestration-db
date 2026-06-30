@@ -1,0 +1,19 @@
+id: charpentier-lauda-jerusalem
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Lauda Jerusalem
+  ids:
+    imslp: Lauda Jerusalem, H.158 (Charpentier, Marc-Antoine)
+  year: 1670
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  solo_strings:
+    violin: 2
+  additional_raw: 2 haut-dessus | haute-contre | taille | basse | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lauda_Jerusalem%2C_H.158_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 haut-dessus, haute-contre, taille, basse, mixed chorus
+    (SATB), 2 violins, continuo'

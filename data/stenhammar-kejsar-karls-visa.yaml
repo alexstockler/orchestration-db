@@ -1,0 +1,19 @@
+id: stenhammar-kejsar-karls-visa
+work:
+  composer: Stenhammar, Wilhelm
+  title: Kejsar Karls visa
+  ids:
+    imslp: Kejsar Karls visa, Op.32 (Stenhammar, Wilhelm)
+  year: 1910
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - baritone
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kejsar_Karls_visa%2C_Op.32_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: baritone, piano'
+duration_minutes: 5

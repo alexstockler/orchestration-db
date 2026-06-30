@@ -1,0 +1,16 @@
+id: pergolesi-dixit-dominus-a-6
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Dixit Dominus a 6
+  ids:
+    imslp: Dixit Dominus in D major, P.67 (Pergolesi, Giovanni Battista)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dixit_Dominus_in_D_major%2C_P.67_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: voices (SSATB), chorus (SSATB), orchestra'

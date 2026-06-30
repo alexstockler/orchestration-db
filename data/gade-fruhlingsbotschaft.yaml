@@ -1,0 +1,28 @@
+id: gade-fruhlingsbotschaft
+work:
+  composer: Gade, Niels
+  title: Frühlingsbotschaft
+  ids:
+    imslp: Frühlingsbotschaft, Op.35 (Gade, Niels)
+  year: 1858
+formula: 2221 4030
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 1
+  horn: 4
+  trombone: 3
+  chorus_raw: mixed chorus
+  solo_strings:
+    viola: 1
+    cello: 1
+    double_bass: 1
+  additional_raw: violins I | violins II
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fr%C3%BChlingsbotschaft%2C_Op.35_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed Chorus (SATB), 2 flutes, 2 oboes, 2 clarinets, bassoon,
+    4 horns, 3 trombones, violins I, violins II, violas, cellos, double basses'
+duration_minutes: 15

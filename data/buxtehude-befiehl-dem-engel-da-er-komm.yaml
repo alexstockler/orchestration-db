@@ -1,0 +1,21 @@
+id: buxtehude-befiehl-dem-engel-da-er-komm
+work:
+  composer: Buxtehude, Dietrich
+  title: Befiehl dem Engel daß er komm'
+  ids:
+    imslp: Befiehl dem Engel daß er komm', BuxWV 10 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Befiehl_dem_Engel_da%C3%9F_er_komm%27%2C_BuxWV_10_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, 2 violins, violone, continuo'

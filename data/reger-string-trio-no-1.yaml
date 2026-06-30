@@ -1,0 +1,19 @@
+id: reger-string-trio-no-1
+work:
+  composer: Reger, Max
+  title: String Trio No.1
+  ids:
+    imslp: String Trio No.1, Op.77b (Reger, Max)
+  year: 1904
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Trio_No.1%2C_Op.77b_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola, cello'
+duration_minutes: 20

@@ -1,0 +1,16 @@
+id: martucci-4-pieces-by-boccherini-for-piano
+work:
+  composer: Martucci, Giuseppe
+  title: 4 Pieces by Boccherini for Piano
+  ids:
+    imslp: 4 Piano Pieces from Boccherini (Martucci, Giuseppe)
+  year: 1901
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Piano_Pieces_from_Boccherini_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano (arranged)'

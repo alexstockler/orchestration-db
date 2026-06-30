@@ -1,0 +1,14 @@
+id: ponchielli-marcia-principe-amedeo-op-177
+work:
+  composer: Ponchielli, Amilcare
+  title: Marcia - Principe Amedeo, Op.177
+  ids:
+    imslp: Principe Amedeo, Op.177 (Ponchielli, Amilcare)
+formula: ''
+instrumentation:
+  additional_raw: Wind band
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Principe_Amedeo%2C_Op.177_%28Ponchielli%2C_Amilcare%29
+  confidence: single_source
+  notes: 'Instrumentation: Wind band'

@@ -1,0 +1,16 @@
+id: buxtehude-sonata-in-g-major
+work:
+  composer: Buxtehude, Dietrich
+  title: Sonata in G major
+  ids:
+    imslp: Trio Sonata in G major, BuxWV 271 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: Viola da Gamba | Continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_G_major%2C_BuxWV_271_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Violins, Viola da Gamba, Continuo'

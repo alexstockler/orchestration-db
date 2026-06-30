@@ -1,0 +1,19 @@
+id: adam-oh-par-pitie-ne-m-aimez-plus
+work:
+  composer: Adam, Adolphe
+  title: Oh! Par pitié ne m'aimez plus
+  ids:
+    imslp: Oh! Par pitié ne m'aimez plus (Adam, Adolphe)
+  year: 1841
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oh%21_Par_piti%C3%A9_ne_m%27aimez_plus_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 4

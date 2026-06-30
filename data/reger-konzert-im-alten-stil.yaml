@@ -1,0 +1,24 @@
+id: reger-konzert-im-alten-stil
+work:
+  composer: Reger, Max
+  title: Konzert im alten Stil
+  ids:
+    imslp: Konzert im alten Stil, Op.123 (Reger, Max)
+  year: 1912
+formula: 3302 3300 tmp str
+instrumentation:
+  flute: 3
+  oboe: 3
+  bassoon: 2
+  horn: 3
+  trumpet: 3
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Konzert_im_alten_Stil%2C_Op.123_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra :3 flutes, 3 oboes, 2 bassoons, 3 horns (F),
+    3 trumpets (C), timpani, strings (violin I and II solos)'
+duration_minutes: 15

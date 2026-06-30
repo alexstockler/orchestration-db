@@ -1,0 +1,17 @@
+id: meyerbeer-le-moine
+work:
+  composer: Meyerbeer, Giacomo
+  title: Le moine
+  ids:
+    imslp: Le moine (Meyerbeer, Giacomo)
+  year: 1834
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: bass voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_moine_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: bass voice, piano'

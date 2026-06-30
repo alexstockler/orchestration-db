@@ -1,0 +1,16 @@
+id: raff-2-caprices
+work:
+  composer: Raff, Joachim
+  title: 2 Caprices
+  ids:
+    imslp: 2 Caprices, Op.111 (Raff, Joachim)
+  year: 1856
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Caprices%2C_Op.111_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

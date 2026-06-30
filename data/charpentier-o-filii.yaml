@@ -1,0 +1,17 @@
+id: charpentier-o-filii
+work:
+  composer: Charpentier, Marc-Antoine
+  title: O filii
+  ids:
+    imslp: O filii, H.312 (Charpentier, Marc-Antoine)
+  year: 1671
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+  additional_raw: 2 hautes-contres | continuo (see below, Comments)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_filii%2C_H.312_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 hautes-contres, bass, continuo (see below, Comments)'

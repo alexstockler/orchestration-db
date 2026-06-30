@@ -1,0 +1,17 @@
+id: gade-jeg-frit-mig-tumled-i-verden-om
+work:
+  composer: Gade, Niels
+  title: Jeg frit mig tumled i verden om
+  ids:
+    imslp: Jeg frit mig tumled i verden om (Gade, Niels)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jeg_frit_mig_tumled_i_verden_om_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

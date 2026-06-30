@@ -1,0 +1,14 @@
+id: charpentier-ouverture-pour-quelque-belle-entreprise-a-cinq
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Ouverture pour quelque belle entreprise à cinq
+  ids:
+    imslp: Ouverture pour quelque belle entreprise à cinq, H.540 (Charpentier, Marc-Antoine)
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ouverture_pour_quelque_belle_entreprise_%C3%A0_cinq%2C_H.540_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'

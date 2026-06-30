@@ -1,0 +1,20 @@
+id: charpentier-ascendat-ad-te-domine
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Ascendat ad te, Domine
+  ids:
+    imslp: Ascendat ad te, Domine, H.250 (Charpentier, Marc-Antoine)
+  year: 1683
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ascendat_ad_te%2C_Domine%2C_H.250_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, 2 violins, continuo'
+duration_minutes: 4

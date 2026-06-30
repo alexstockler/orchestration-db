@@ -1,0 +1,18 @@
+id: buxtehude-der-herr-ist-mit-mir
+work:
+  composer: Buxtehude, Dietrich
+  title: Der Herr ist mit mir
+  ids:
+    imslp: Der Herr ist mit mir, BuxWV 15 (Buxtehude, Dietrich)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - 4 voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Herr_ist_mit_mir%2C_BuxWV_15_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (SATB), strings (no violas), continuo'
+duration_minutes: 8

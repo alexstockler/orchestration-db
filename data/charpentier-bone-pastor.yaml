@@ -1,0 +1,20 @@
+id: charpentier-bone-pastor
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Bone pastor
+  ids:
+    imslp: Bone pastor, H.265 (Charpentier, Marc-Antoine)
+  year: 1692
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  - tenor
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bone_pastor%2C_H.265_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, tenor, bass, continuo'
+duration_minutes: 2

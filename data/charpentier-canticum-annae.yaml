@@ -1,0 +1,20 @@
+id: charpentier-canticum-annae
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Canticum Annae
+  ids:
+    imslp: Canticum Annae, H.325 (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canticum_Annae%2C_H.325_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, bass, 2 violins, continuo'
+duration_minutes: 10

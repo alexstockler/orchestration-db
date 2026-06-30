@@ -1,0 +1,22 @@
+id: charpentier-motet-pour-toutes-les-fetes-de-la-vierge
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Motet pour toutes les fêtes de la Vierge
+  ids:
+    imslp: Motet pour toutes les fêtes de la Vierge, H.327 (Charpentier, Marc-Antoine)
+  year: 1681
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Motet_pour_toutes_les_f%C3%AAtes_de_la_Vierge%2C_H.327_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos (or soprano, alto), bass; 2 violins (and/or
+    2 recorders), continuo'
+duration_minutes: 7

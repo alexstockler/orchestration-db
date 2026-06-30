@@ -1,0 +1,19 @@
+id: charpentier-quam-pulchra-es
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Quam pulchra es
+  ids:
+    imslp: Quam pulchra es, H.322 (Charpentier, Marc-Antoine)
+  year: 1675
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - alto
+  additional_raw: 2 recorders (or flutes) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Quam_pulchra_es%2C_H.322_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, alto, 2 recorders (or flutes), continuo'
+duration_minutes: 4

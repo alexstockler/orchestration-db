@@ -1,0 +1,17 @@
+id: reger-weihnachtslied-ehre-sei-gott-in-der-hohe
+work:
+  composer: Reger, Max
+  title: Weihnachtslied 'Ehre sei Gott in der Höhe!'
+  ids:
+    imslp: Weihnachtslied, WoO VII/37 (Reger, Max)
+  year: 1905
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: piano (or organ or harmonium)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Weihnachtslied%2C_WoO_VII/37_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano (or organ or harmonium)'

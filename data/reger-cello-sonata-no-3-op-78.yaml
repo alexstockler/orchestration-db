@@ -1,0 +1,19 @@
+id: reger-cello-sonata-no-3-op-78
+work:
+  composer: Reger, Max
+  title: Cello Sonata No.3, Op.78
+  ids:
+    imslp: Cello Sonata No.3, Op.78 (Reger, Max)
+  year: 1904
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Sonata_No.3%2C_Op.78_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'
+duration_minutes: 30

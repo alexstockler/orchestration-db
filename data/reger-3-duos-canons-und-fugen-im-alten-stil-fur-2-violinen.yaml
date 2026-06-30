@@ -1,0 +1,16 @@
+id: reger-3-duos-canons-und-fugen-im-alten-stil-fur-2-violinen
+work:
+  composer: Reger, Max
+  title: 3 Duos, Canons und Fugen im alten Stil für 2 Violinen
+  ids:
+    imslp: 3 Duos, Canons und Fugen im alten Stil, Op.131b (Reger, Max)
+  year: 1914
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Duos%2C_Canons_und_Fugen_im_alten_Stil%2C_Op.131b_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins'

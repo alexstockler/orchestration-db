@@ -1,0 +1,20 @@
+id: buxtehude-domine-salvum-fac-regem
+work:
+  composer: Buxtehude, Dietrich
+  title: Domine salvum fac regem
+  ids:
+    imslp: Domine salvum fac regem, BuxWV 18 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - 5 voices
+  solo_strings:
+    violin: 2
+    viola: 2
+  additional_raw: violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Domine_salvum_fac_regem%2C_BuxWV_18_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 5 voices (SSATB), 2 violins, 2 violas, violone, continuo'
+duration_minutes: 5

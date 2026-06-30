@@ -1,0 +1,16 @@
+id: reger-suite-no-2-fur-orgel-in-g-moll
+work:
+  composer: Reger, Max
+  title: Suite (No.2) für Orgel in g-Moll
+  ids:
+    imslp: Suite No.2, Op.92 (Reger, Max)
+  year: 1905
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_No.2%2C_Op.92_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

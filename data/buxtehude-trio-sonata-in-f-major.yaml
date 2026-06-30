@@ -1,0 +1,19 @@
+id: buxtehude-trio-sonata-in-f-major
+work:
+  composer: Buxtehude, Dietrich
+  title: Trio Sonata in F major
+  ids:
+    imslp: Trio Sonata in F major, BuxWV 252 (Buxtehude, Dietrich)
+  year: 1694
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+  solo_strings:
+    violin: 1
+  additional_raw: viola da gamba
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_F_major%2C_BuxWV_252_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola da gamba, harpsichord'

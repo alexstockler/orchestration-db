@@ -1,0 +1,16 @@
+id: pergolesi-flute-concerto-in-g-major
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Flute Concerto in G major
+  ids:
+    imslp: Flute Concerto in G major, GroF 2480 (Pergolesi, Giovanni Battista)
+formula: 1000 0000 str
+instrumentation:
+  flute: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flute_Concerto_in_G_major%2C_GroF_2480_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, strings (no violas), continuo'

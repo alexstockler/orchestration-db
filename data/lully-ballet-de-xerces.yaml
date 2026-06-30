@@ -1,0 +1,16 @@
+id: lully-ballet-de-xerces
+work:
+  composer: Lully, Jean-Baptiste
+  title: Ballet de Xerces
+  ids:
+    imslp: Ballet de Xerces, LWV 12 (Lully, Jean-Baptiste)
+  year: 1660
+formula: ''
+instrumentation:
+  additional_raw: 5 instruments (SATTB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ballet_de_Xerces%2C_LWV_12_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: 5 instruments (SATTB)'
+duration_minutes: 20

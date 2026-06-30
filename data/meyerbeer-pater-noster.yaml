@@ -1,0 +1,14 @@
+id: meyerbeer-pater-noster
+work:
+  composer: Meyerbeer, Giacomo
+  title: Pater noster
+  ids:
+    imslp: Pater noster (Meyerbeer, Giacomo)
+formula: ''
+instrumentation:
+  additional_raw: Voices SATB a cappella
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pater_noster_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices SATB a cappella'

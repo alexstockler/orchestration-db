@@ -1,0 +1,38 @@
+id: gade-psyke
+work:
+  composer: Gade, Niels
+  title: Psyke
+  ids:
+    imslp: Psyke, Op.60 (Gade, Niels)
+  year: 1881
+formula: 3[pic.2.3] 2 2 2 4231 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - baritone Mixed Chorus (SSATBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Psyke%2C_Op.60_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices :soprano, alto, tenor, baritone Mixed Chorus (SSATBB),
+    Orchestra :piccolo, 2 flutes, 2 oboes, 2 clarinets (A/B), 2 bassoons, 4 horns
+    (E/F), 2 trumpets (E/F), 3 trombones, tuba, timpani, triangle, cymbals, strings'

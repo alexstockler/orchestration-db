@@ -1,0 +1,16 @@
+id: buxtehude-nun-bitten-wir-den-heiligen-geist
+work:
+  composer: Buxtehude, Dietrich
+  title: Nun bitten wir den heiligen Geist
+  ids:
+    imslp: Nun bitten wir den heiligen Geist, BuxWV 208 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nun_bitten_wir_den_heiligen_Geist%2C_BuxWV_208_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

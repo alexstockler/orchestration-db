@@ -1,0 +1,19 @@
+id: raff-caprice-for-cello-and-piano-original-title
+work:
+  composer: Raff, Joachim
+  title: Caprice for Cello and Piano (original title)
+  ids:
+    imslp: Duo, Op.59 (Raff, Joachim)
+  year: 1848
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Duo%2C_Op.59_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Cello (or violin), piano'
+duration_minutes: 15

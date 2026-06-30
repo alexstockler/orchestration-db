@@ -1,0 +1,18 @@
+id: reger-madchenlied
+work:
+  composer: Reger, Max
+  title: Mädchenlied
+  ids:
+    imslp: Mädchenlied, WoO VII/27 (Reger, Max)
+  year: 1901
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/M%C3%A4dchenlied%2C_WoO_VII/27_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

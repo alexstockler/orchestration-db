@@ -1,0 +1,18 @@
+id: reger-trauungslied
+work:
+  composer: Reger, Max
+  title: Trauungslied
+  ids:
+    imslp: Trauungslied, WoO VII/34 (Reger, Max)
+  year: 1902
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trauungslied%2C_WoO_VII/34_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voices (SA), organ or harmonium'

@@ -1,0 +1,18 @@
+id: reger-ostern
+work:
+  composer: Reger, Max
+  title: Ostern
+  ids:
+    imslp: Ostern, WoO VII/32 (Reger, Max)
+  year: 1902
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ostern%2C_WoO_VII/32_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,14 @@
+id: pergolesi-ave-verum
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Ave verum
+  ids:
+    imslp: Ave verum (Pergolesi, Giovanni Battista)
+formula: ''
+instrumentation:
+  additional_raw: unknown for the original
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_verum_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: unknown for the original'

@@ -1,0 +1,18 @@
+id: raff-2-italienische-lieder
+work:
+  composer: Raff, Joachim
+  title: 2 Italienische Lieder
+  ids:
+    imslp: 2 Italienische Lieder, Op.50 (Raff, Joachim)
+  year: 1847
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Italienische_Lieder%2C_Op.50_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'

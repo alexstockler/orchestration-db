@@ -1,0 +1,14 @@
+id: gade-medley
+work:
+  composer: Gade, Niels
+  title: Medley
+  ids:
+    imslp: Medley (Gade, Niels)
+formula: ''
+instrumentation:
+  additional_raw: '| *****COMMENTS***** ='
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Medley_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: | *****COMMENTS***** ='

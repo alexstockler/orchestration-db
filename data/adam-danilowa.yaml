@@ -1,0 +1,16 @@
+id: adam-danilowa
+work:
+  composer: Adam, Adolphe
+  title: Danilowa
+  ids:
+    imslp: Danilowa (Adam, Adolphe)
+  year: 1830
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Danilowa_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

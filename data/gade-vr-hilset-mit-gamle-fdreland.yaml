@@ -1,0 +1,17 @@
+id: gade-vr-hilset-mit-gamle-fdreland
+work:
+  composer: Gade, Niels
+  title: Vær hilset, mit gamle fædreland!
+  ids:
+    imslp: Vær hilset, mit gamle fædreland! (Gade, Niels)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/V%C3%A6r_hilset%2C_mit_gamle_f%C3%A6dreland%21_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

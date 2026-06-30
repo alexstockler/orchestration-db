@@ -1,0 +1,24 @@
+id: charpentier-les-arts-florissants
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Les arts florissants
+  ids:
+    imslp: Les arts florissants, H.487 (Charpentier, Marc-Antoine)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - 2 soprano
+  - alto
+  - bass
+  - mixed chorus (SSATB)
+  solo_strings:
+    violin: 2
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_arts_florissants%2C_H.487_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: 2 soprano, alto, bass; mixed chorus (SSATB), Orchestra:
+    2 recorders, 2 violins, continuo'
+duration_minutes: 40

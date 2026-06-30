@@ -1,0 +1,15 @@
+id: bruch-7-lieder-fur-gemischten-chor
+work:
+  composer: Bruch, Max
+  title: 7 Lieder für gemischten Chor
+  ids:
+    imslp: 7 Lieder, Op.71 (Bruch, Max)
+  year: 1897
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Lieder%2C_Op.71_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed chorus (1, 2, 3, 4 & 6 for SATB, 5 & 7 for SSATBB)'

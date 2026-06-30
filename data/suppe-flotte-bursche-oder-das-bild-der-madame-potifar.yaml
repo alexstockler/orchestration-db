@@ -1,0 +1,16 @@
+id: suppe-flotte-bursche-oder-das-bild-der-madame-potifar
+work:
+  composer: Suppé, Franz von
+  title: Flotte Bursche, oder Das Bild der Madame Potifar
+  ids:
+    imslp: Flotte Bursche (Suppé, Franz von)
+  year: 1870
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flotte_Bursche_%28Supp%C3%A9%2C_Franz_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

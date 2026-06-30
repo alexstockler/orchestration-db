@@ -1,0 +1,16 @@
+id: auber-rendimi-il-figlio-mio
+work:
+  composer: Auber, Daniel François Esprit
+  title: Rendimi il figlio mio
+  ids:
+    imslp: Rendimi il figlio mio, AWV 110 (Auber, Daniel François Esprit)
+  year: 1799
+formula: ''
+instrumentation:
+  additional_raw: soprano voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rendimi_il_figlio_mio%2C_AWV_110_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano voice, orchestra (2 flutes, 2 oboes, 2 bassoons,
+    2 horns in E, strings)'

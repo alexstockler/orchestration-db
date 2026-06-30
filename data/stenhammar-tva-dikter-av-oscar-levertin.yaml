@@ -1,0 +1,24 @@
+id: stenhammar-tva-dikter-av-oscar-levertin
+work:
+  composer: Stenhammar, Wilhelm
+  title: Tva dikter av Oscar Levertin
+  ids:
+    imslp: 2 Dikter av Oscar Levertin, Op.30 (Stenhammar, Wilhelm)
+  year: 1912
+formula: 2222 4030 hp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trombone: 3
+  harp: 1
+  strings: str
+  additional_raw: 2 trumpets=
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Dikter_av_Oscar_Levertin%2C_Op.30_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :2 flutes, 2 oboes, 2 clarinets,
+    2 bassoons, 4 horns, 2 trumpets=, 3 trombones, harp, strings'

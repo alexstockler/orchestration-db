@@ -1,0 +1,18 @@
+id: auber-string-quartet-no-1
+work:
+  composer: Auber, Daniel François Esprit
+  title: String Quartet No.1
+  ids:
+    imslp: String Quartet No.1, AWV 159 (Auber, Daniel François Esprit)
+  year: 1799
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.1%2C_AWV_159_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

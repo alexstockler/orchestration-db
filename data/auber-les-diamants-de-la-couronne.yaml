@@ -1,0 +1,31 @@
+id: auber-les-diamants-de-la-couronne
+work:
+  composer: Auber, Daniel François Esprit
+  title: Les diamants de la couronne
+  ids:
+    imslp: Les diamants de la couronne (Auber, Daniel François Esprit)
+  year: 1841
+formula: 2[pic.2] 2 2 2 4 2[cnt.cnt] 3 0 tmp+1 str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  percussion:
+    timpani: 1
+    players: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_diamants_de_la_couronne_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, flute, 2 oboes, 2 clarinets, 2 bassoons, 4 horns,
+    2 cornets, 3 trombones, timpani, percussion (triangle, cymbals, bass drum), strings'
+duration_minutes: 160

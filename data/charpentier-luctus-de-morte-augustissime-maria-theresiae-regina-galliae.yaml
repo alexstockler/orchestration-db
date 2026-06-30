@@ -1,0 +1,23 @@
+id: charpentier-luctus-de-morte-augustissime-maria-theresiae-regina-galliae
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Luctus de morte Augustissime Maria Theresiae Regina Galliae
+  ids:
+    imslp: Luctus de morte Augustissime Maria Theresiae Regina Galliae, H.331 (Charpentier,
+      Marc-Antoine)
+  year: 1683
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  - tenor
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Luctus_de_morte_Augustissime_Maria_Theresiae_Regina_Galliae%2C_H.331_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, tenor, bass, 2 violins, continuo'
+duration_minutes: 17

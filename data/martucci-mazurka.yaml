@@ -1,0 +1,16 @@
+id: martucci-mazurka
+work:
+  composer: Martucci, Giuseppe
+  title: Mazurka
+  ids:
+    imslp: Mazurka, Op.35 (Martucci, Giuseppe)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mazurka%2C_Op.35_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

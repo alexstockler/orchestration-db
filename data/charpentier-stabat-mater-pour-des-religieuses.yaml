@@ -1,0 +1,17 @@
+id: charpentier-stabat-mater-pour-des-religieuses
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Stabat Mater pour des Religieuses
+  ids:
+    imslp: Stabat Mater pour des Religieuses, H.15 (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: unison chorus | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Stabat_Mater_pour_des_Religieuses%2C_H.15_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, unison chorus, continuo'
+duration_minutes: 12

@@ -1,0 +1,19 @@
+id: charpentier-in-obitum-augustissime-nec-non-piissimae-gallorum-reginae-lamentum
+work:
+  composer: Charpentier, Marc-Antoine
+  title: In obitum augustissime nec non piissimae Gallorum reginae Lamentum
+  ids:
+    imslp: In obitum augustissime nec non piissimae Gallorum reginae Lamentum, H.409
+      (Charpentier, Marc-Antoine)
+  year: 1683
+formula: 1000 0000 str
+instrumentation:
+  flute: 1
+  strings: str
+  additional_raw: treble recorder | tenor recorder | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_obitum_augustissime_nec_non_piissimae_Gallorum_reginae_Lamentum%2C_H.409_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, treble recorder, tenor recorder, strings, continuo'
+duration_minutes: 28

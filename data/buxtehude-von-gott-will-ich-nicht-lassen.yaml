@@ -1,0 +1,16 @@
+id: buxtehude-von-gott-will-ich-nicht-lassen
+work:
+  composer: Buxtehude, Dietrich
+  title: Von Gott will ich nicht lassen
+  ids:
+    imslp: Von Gott will ich nicht lassen, BuxWV 220 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Von_Gott_will_ich_nicht_lassen%2C_BuxWV_220_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

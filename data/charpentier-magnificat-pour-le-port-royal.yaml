@@ -1,0 +1,17 @@
+id: charpentier-magnificat-pour-le-port-royal
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Magnificat pour le Port-Royal
+  ids:
+    imslp: Magnificat pour le Port-Royal, H.81 (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+  chorus_raw: female chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Magnificat_pour_le_Port-Royal%2C_H.81_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices, female chorus (SA), continuo'

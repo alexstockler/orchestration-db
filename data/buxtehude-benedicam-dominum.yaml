@@ -1,0 +1,18 @@
+id: buxtehude-benedicam-dominum
+work:
+  composer: Buxtehude, Dietrich
+  title: Benedicam Dominum
+  ids:
+    imslp: Benedicam Dominum, BuxWV 113 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  additional_raw: Coro 1 | 2 Violini | Violone | Coro 2 | 4 Clarini | Posauna | Bombarde
+    | Coro 3 | 3 | SSATB voices | Coro 4 | 2 Cornetti | Fagotto | Coro 5 | 3 Tromboni
+    | Coro 6 | SATB voices con Continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Benedicam_Dominum%2C_BuxWV_113_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 6 choruses :Coro 1. 2 Violini, Violone :Coro 2. 4 Clarini,
+    Posauna, Bombarde :Coro 3. 3: SSATB voices :Coro 4. 2 Cornetti, Fagotto :Coro
+    5. 3 Tromboni :Coro 6. SATB voices con Continuo'

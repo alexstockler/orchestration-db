@@ -1,0 +1,25 @@
+id: adam-la-marquise
+work:
+  composer: Adam, Adolphe
+  title: La marquise
+  ids:
+    imslp: La marquise (Adam, Adolphe)
+  year: 1835
+formula: 2[pic.2] 1 1 1 1110 str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 1
+  trumpet: 1
+  trombone: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_marquise_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra: piccolo, flute, oboe, clarinets, bassoons, horns,
+    trumpets, trombones, strings'

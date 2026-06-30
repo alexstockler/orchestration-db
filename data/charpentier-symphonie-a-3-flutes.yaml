@@ -1,0 +1,15 @@
+id: charpentier-symphonie-a-3-flutes
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Symphonie à 3 flûtes
+  ids:
+    imslp: Symphonie à 3 flûtes, H.529 (Charpentier, Marc-Antoine)
+  year: 1690
+formula: ''
+instrumentation:
+  additional_raw: 2 instruments | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphonie_%C3%A0_3_fl%C3%BBtes%2C_H.529_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 instruments, continuo'

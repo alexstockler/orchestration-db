@@ -1,0 +1,14 @@
+id: adam-le-diable-a-quatre
+work:
+  composer: Adam, Adolphe
+  title: Le diable à quatre
+  ids:
+    imslp: Le diable à quatre (Adam, Adolphe)
+  year: 1845
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_diable_%C3%A0_quatre_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

@@ -1,0 +1,24 @@
+id: lully-dies-irae
+work:
+  composer: Lully, Jean-Baptiste
+  title: Dies Irae
+  ids:
+    imslp: Dies Irae, LWV 64/1 (Lully, Jean-Baptiste)
+formula: str
+instrumentation:
+  strings:
+    standard: true
+    description: '6'
+  soloists:
+  - 2 dessus
+  - haute-contre
+  - taille
+  - basse
+  - mixed chorus (SATB)
+  additional_raw: continuo (+ instruments ad lib.)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dies_Irae%2C_LWV_64/1_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: 2 dessus, haute-contre, taille, basse + mixed chorus
+    (SATB), Orchestra: strings (6) + continuo (+ instruments ad lib.)'

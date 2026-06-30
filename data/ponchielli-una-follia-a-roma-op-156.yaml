@@ -1,0 +1,15 @@
+id: ponchielli-una-follia-a-roma-op-156
+work:
+  composer: Ponchielli, Amilcare
+  title: Una follia a Roma, Op.156
+  ids:
+    imslp: Una follia a Roma, Op.156 (Ponchielli, Amilcare)
+  year: 1872
+formula: ''
+instrumentation:
+  additional_raw: Wind band
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Una_follia_a_Roma%2C_Op.156_%28Ponchielli%2C_Amilcare%29
+  confidence: single_source
+  notes: 'Instrumentation: Wind band'

@@ -1,0 +1,16 @@
+id: bruch-die-priesterin-der-isis-in-rom
+work:
+  composer: Bruch, Max
+  title: Die Priesterin der Isis in Rom
+  ids:
+    imslp: Die Priesterin der Isis in Rom, Op.30 (Bruch, Max)
+  year: 1869
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Priesterin_der_Isis_in_Rom%2C_Op.30_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, orchestra'

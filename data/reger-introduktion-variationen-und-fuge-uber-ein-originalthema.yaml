@@ -1,0 +1,16 @@
+id: reger-introduktion-variationen-und-fuge-uber-ein-originalthema
+work:
+  composer: Reger, Max
+  title: Introduktion, Variationen und Fuge über ein Originalthema
+  ids:
+    imslp: Variations and Fugue on an Original Theme, Op.73 (Reger, Max)
+  year: 1903
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variations_and_Fugue_on_an_Original_Theme%2C_Op.73_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

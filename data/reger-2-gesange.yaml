@@ -1,0 +1,53 @@
+id: reger-2-gesange
+work:
+  composer: Reger, Max
+  title: 2 Gesänge
+  ids:
+    imslp: 2 Gesänge, Op.144 (Reger, Max)
+  year: 1915
+formula: 6[1.2.3/pic.4.5.6] 6[1.2.Eh.4.5.Eh] 4 4 8562 tmp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  - {}
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 4
+  bassoon: 4
+  horn: 8
+  trumpet: 5
+  trombone: 6
+  tuba: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - tam-tam
+  strings: str
+  soloists:
+  - voice
+  - chorus
+  chorus_raw: mixed chorus
+  additional_raw: 1 | Voices - baritone | 2 | Voices - alto (or baritone)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Ges%C3%A4nge%2C_Op.144_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, chorus, orchestra :1. Voices - baritone ::Mixed
+    Chorus (SSATB), Orchestra :::3 flutes, 2 oboes, English horn, 2 clarinets (B),
+    2 bassoons, 4 horns (F), 2 trumpets (C), 3 trombones, tuba, timpani, strings :2.
+    Voices - alto (or baritone) ::Mixed Chorus (SATB), Orchestra :::3 flutes (3rd
+    also piccolo), 2 oboes, English horn, 2 clarinets (B), 2 bassoons, 4 horns (F),
+    3 trumpets (C), 3 trombones, tuba, timpani, bass drum, cymbals, tam-tam, strings'
+duration_minutes: 14

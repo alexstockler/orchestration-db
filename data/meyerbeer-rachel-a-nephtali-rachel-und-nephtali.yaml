@@ -1,0 +1,18 @@
+id: meyerbeer-rachel-a-nephtali-rachel-und-nephtali
+work:
+  composer: Meyerbeer, Giacomo
+  title: Rachel à Nephtali / Rachel und Nephtali
+  ids:
+    imslp: Rachel à Nephtali (Meyerbeer, Giacomo)
+  year: 1834
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rachel_%C3%A0_Nephtali_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

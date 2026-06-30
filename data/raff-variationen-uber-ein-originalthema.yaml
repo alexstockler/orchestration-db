@@ -1,0 +1,17 @@
+id: raff-variationen-uber-ein-originalthema
+work:
+  composer: Raff, Joachim
+  title: Variationen über ein Originalthema
+  ids:
+    imslp: Variationen über ein Originalthema, Op.179 (Raff, Joachim)
+  year: 1873
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variationen_%C3%BCber_ein_Originalthema%2C_Op.179_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 25

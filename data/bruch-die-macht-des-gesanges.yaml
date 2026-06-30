@@ -1,0 +1,16 @@
+id: bruch-die-macht-des-gesanges
+work:
+  composer: Bruch, Max
+  title: Die Macht des Gesanges
+  ids:
+    imslp: Die Macht des Gesanges, Op.87 (Bruch, Max)
+  year: 1912
+formula: ''
+instrumentation:
+  chorus_raw: satb chorus
+  additional_raw: Baritone soloist
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Macht_des_Gesanges%2C_Op.87_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Baritone soloist, SATB chorus, Orchestra'

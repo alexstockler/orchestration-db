@@ -1,0 +1,16 @@
+id: charpentier-nonne-deo-subjecta-erit
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Nonne Deo subjecta erit
+  ids:
+    imslp: Nonne Deo subjecta erit, H.258 (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nonne_Deo_subjecta_erit%2C_H.258_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or alto), continuo'

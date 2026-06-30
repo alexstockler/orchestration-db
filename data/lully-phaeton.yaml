@@ -1,0 +1,17 @@
+id: lully-phaeton
+work:
+  composer: Lully, Jean-Baptiste
+  title: Phaëton
+  ids:
+    imslp: Phaëton, LWV 61 (Lully, Jean-Baptiste)
+  year: 1683
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pha%C3%ABton%2C_LWV_61_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

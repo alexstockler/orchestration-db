@@ -1,0 +1,18 @@
+id: reger-brautring
+work:
+  composer: Reger, Max
+  title: Brautring
+  ids:
+    imslp: Brautring, WoO VII/24 (Reger, Max)
+  year: 1900
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Brautring%2C_WoO_VII/24_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,16 @@
+id: gade-3-choralforspil
+work:
+  composer: Gade, Niels
+  title: 3 Choralforspil
+  ids:
+    imslp: 3 Choralforspil (Gade, Niels)
+  year: 1851
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Choralforspil_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

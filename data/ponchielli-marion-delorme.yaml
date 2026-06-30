@@ -1,0 +1,17 @@
+id: ponchielli-marion-delorme
+work:
+  composer: Ponchielli, Amilcare
+  title: Marion Delorme
+  ids:
+    imslp: Marion Delorme, Op.11 (Ponchielli, Amilcare)
+  year: 1885
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marion_Delorme%2C_Op.11_%28Ponchielli%2C_Amilcare%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

@@ -1,0 +1,15 @@
+id: martucci-2-fugues
+work:
+  composer: Martucci, Giuseppe
+  title: 2 Fugues
+  ids:
+    imslp: 2 Fugues, Op.28 (Martucci, Giuseppe)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Fugues%2C_Op.28_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

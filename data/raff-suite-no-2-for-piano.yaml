@@ -1,0 +1,16 @@
+id: raff-suite-no-2-for-piano
+work:
+  composer: Raff, Joachim
+  title: Suite No.2 for Piano
+  ids:
+    imslp: Suite No.2 for Piano, Op.71 (Raff, Joachim)
+  year: 1857
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_No.2_for_Piano%2C_Op.71_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano solo'

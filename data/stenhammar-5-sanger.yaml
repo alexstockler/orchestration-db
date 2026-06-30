@@ -1,0 +1,19 @@
+id: stenhammar-5-sanger
+work:
+  composer: Stenhammar, Wilhelm
+  title: 5 Sanger
+  ids:
+    imslp: 5 Songs, Op.20 (Stenhammar, Wilhelm)
+  year: 1903
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Songs%2C_Op.20_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 15

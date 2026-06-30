@@ -1,0 +1,21 @@
+id: buxtehude-ich-suchte-des-nachts-in-meinem-bette-buxwv-50
+work:
+  composer: Buxtehude, Dietrich
+  title: Ich suchte des Nachts in meinem Bette, BuxWV 50
+  ids:
+    imslp: Ich suchte des Nachts in meinem Bette, BuxWV 50 (Buxtehude, Dietrich)
+  year: 1930
+formula: 0200 0000
+instrumentation:
+  oboe: 2
+  soloists:
+  - tenor
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ich_suchte_des_Nachts_in_meinem_Bette%2C_BuxWV_50_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, bass, 2 oboes, 2 violins, violone, continuo'

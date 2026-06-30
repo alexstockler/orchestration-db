@@ -1,0 +1,19 @@
+id: raff-6-gesange
+work:
+  composer: Raff, Joachim
+  title: 6 Gesänge
+  ids:
+    imslp: 6 Gesänge, Op.184 (Raff, Joachim)
+  year: 1873
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - sopranos
+  - alto
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Ges%C3%A4nge%2C_Op.184_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, alto, piano'

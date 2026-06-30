@@ -1,0 +1,18 @@
+id: svendsen-string-quartet-in-a-minor
+work:
+  composer: Svendsen, Johan
+  title: String Quartet in A minor
+  ids:
+    imslp: String Quartet, Op.1 (Svendsen, Johan)
+  year: 1865
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet%2C_Op.1_%28Svendsen%2C_Johan%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

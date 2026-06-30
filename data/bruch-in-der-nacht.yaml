@@ -1,0 +1,16 @@
+id: bruch-in-der-nacht
+work:
+  composer: Bruch, Max
+  title: In der Nacht
+  ids:
+    imslp: In der Nacht, Op.72 (Bruch, Max)
+  year: 1897
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_der_Nacht%2C_Op.72_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus'
+duration_minutes: 3

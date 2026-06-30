@@ -1,0 +1,16 @@
+id: raff-reminiscenzen-aus-die-meistersinger-von-nurnberg
+work:
+  composer: Raff, Joachim
+  title: Reminiscenzen aus 'Die Meistersinger von Nürnberg'
+  ids:
+    imslp: Reminiscenzen aus 'Die Meistersinger von Nürnberg', WoO.26 (Raff, Joachim)
+  year: 1868
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Reminiscenzen_aus_%27Die_Meistersinger_von_N%C3%BCrnberg%27%2C_WoO.26_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

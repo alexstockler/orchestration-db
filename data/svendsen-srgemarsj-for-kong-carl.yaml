@@ -1,0 +1,35 @@
+id: svendsen-srgemarsj-for-kong-carl
+work:
+  composer: Svendsen, Johan
+  title: Sørgemarsj for Kong Carl
+  ids:
+    imslp: Sørgemarsj for Kong Carl, Op.10 (Svendsen, Johan)
+  year: 1872
+formula: 3[pic.2.3] 2 2 2 4231 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drum
+    - cymbals
+    - bass drum
+    - tam tam
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/S%C3%B8rgemarsj_for_Kong_Carl%2C_Op.10_%28Svendsen%2C_Johan%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4
+    horns, 2 trumpets, 3 trombones, tuba, timpani, snare drum, cymbals, bass drum,
+    tam tam, strings'

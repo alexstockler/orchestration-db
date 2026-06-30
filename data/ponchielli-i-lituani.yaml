@@ -1,0 +1,17 @@
+id: ponchielli-i-lituani
+work:
+  composer: Ponchielli, Amilcare
+  title: I lituani
+  ids:
+    imslp: I Lituani, Op.7 (Ponchielli, Amilcare)
+  year: 1874
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/I_Lituani%2C_Op.7_%28Ponchielli%2C_Amilcare%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

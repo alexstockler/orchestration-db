@@ -1,0 +1,16 @@
+id: buxtehude-sonata-a-2-in-d-minor
+work:
+  composer: Buxtehude, Dietrich
+  title: Sonata à 2 in D minor
+  ids:
+    imslp: Organ Sonata in D minor, BuxWV Anh.5 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+  additional_raw: viola da gamba | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Organ_Sonata_in_D_minor%2C_BuxWV_Anh.5_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola da gamba, continuo'

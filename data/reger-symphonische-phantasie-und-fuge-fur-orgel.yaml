@@ -1,0 +1,16 @@
+id: reger-symphonische-phantasie-und-fuge-fur-orgel
+work:
+  composer: Reger, Max
+  title: Symphonische Phantasie und Fuge für Orgel
+  ids:
+    imslp: Symphonische Fantasie und Fuge, Op.57 (Reger, Max)
+  year: 1901
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphonische_Fantasie_und_Fuge%2C_Op.57_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

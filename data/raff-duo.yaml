@@ -1,0 +1,18 @@
+id: raff-duo
+work:
+  composer: Raff, Joachim
+  title: Duo
+  ids:
+    imslp: Duo, WoO.55 (Raff, Joachim)
+  year: 1882
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Duo%2C_WoO.55_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin, piano'

@@ -1,0 +1,17 @@
+id: herold-piano-concerto-no-1
+work:
+  composer: Hérold, Ferdinand
+  title: Piano Concerto No.1
+  ids:
+    imslp: Piano Concerto No.1, Op.25 (Hérold, Ferdinand)
+  year: 1820
+formula: ''
+instrumentation:
+  additional_raw: flute, oboes, bassoons and horns ad libitum)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Concerto_No.1%2C_Op.25_%28H%C3%A9rold%2C_Ferdinand%29
+  confidence: single_source
+  notes: 'Instrumentation: piano, strings (or orchestra: flute, oboes, bassoons and
+    horns ad libitum)'
+duration_minutes: 20

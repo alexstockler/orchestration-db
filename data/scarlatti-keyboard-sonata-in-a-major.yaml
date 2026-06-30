@@ -1,0 +1,15 @@
+id: scarlatti-keyboard-sonata-in-a-major
+work:
+  composer: Scarlatti, Domenico
+  title: Keyboard Sonata in A major
+  ids:
+    imslp: Keyboard Sonata in A major, Cary 703 (Scarlatti, Domenico)
+  year: 1756
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Keyboard_Sonata_in_A_major%2C_Cary_703_%28Scarlatti%2C_Domenico%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

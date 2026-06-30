@@ -1,0 +1,18 @@
+id: svendsen-til-saeters
+work:
+  composer: Svendsen, Johan
+  title: Til Saeters
+  ids:
+    imslp: Til Saeters, Op.102 (Svendsen, Johan)
+  year: 1856
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Til_Saeters%2C_Op.102_%28Svendsen%2C_Johan%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

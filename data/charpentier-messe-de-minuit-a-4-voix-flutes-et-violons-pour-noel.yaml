@@ -1,0 +1,22 @@
+id: charpentier-messe-de-minuit-a-4-voix-flutes-et-violons-pour-noel
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Messe de Minuit à 4 voix, flûtes et violons pour Noël
+  ids:
+    imslp: Messe de minuit pour Noël, H.9 (Charpentier, Marc-Antoine)
+  year: 1694
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  soloists:
+  - dessus
+  - haute-contre
+  - taille
+  - basse
+  additional_raw: violons | hautes-contre | taille | basse continue
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Messe_de_minuit_pour_No%C3%ABl%2C_H.9_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: dessus, haute-contre, taille, basse, Orchestra:
+    flutes, violons, hautes-contre, taille, basse continue'

@@ -1,0 +1,27 @@
+id: buxtehude-heut-triumphieret-gottes-sohn
+work:
+  composer: Buxtehude, Dietrich
+  title: Heut triumphieret Gottes Sohn
+  ids:
+    imslp: Alleluja (Buxtehude, Dietrich)
+formula: 0000 0200 tmp
+instrumentation:
+  trumpet: 2
+  percussion:
+    timpani: 1
+  soloists:
+  - 2 sopranos
+  - alto
+  - tenor
+  - bass
+  - mixed chorus (SSATB)
+  solo_strings:
+    violin: 2
+    viola: 2
+  additional_raw: violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alleluja_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: 2 sopranos, alto, tenor, bass + mixed chorus (SSATB),
+    Orchestra: 2 trumpets + timpani + 2 violins, 2 violas, violone + continuo'

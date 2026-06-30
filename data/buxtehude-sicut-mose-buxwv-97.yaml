@@ -1,0 +1,20 @@
+id: buxtehude-sicut-mose-buxwv-97
+work:
+  composer: Buxtehude, Dietrich
+  title: Sicut Mose, BuxWV 97
+  ids:
+    imslp: Sicut Mose, BuxWV 97 (Buxtehude, Dietrich)
+  year: 1681
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  solo_strings:
+    violin: 2
+  additional_raw: viola da gamba | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sicut_Mose%2C_BuxWV_97_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 2 violins, viola da gamba, continuo'
+duration_minutes: 7

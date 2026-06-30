@@ -1,0 +1,17 @@
+id: martucci-organ-sonata
+work:
+  composer: Martucci, Giuseppe
+  title: Organ Sonata
+  ids:
+    imslp: Organ Sonata, Op.36 (Martucci, Giuseppe)
+  year: 1860
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Organ_Sonata%2C_Op.36_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 24

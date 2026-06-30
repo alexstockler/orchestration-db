@@ -1,0 +1,15 @@
+id: bellini-adelson-e-salvini
+work:
+  composer: Bellini, Vincenzo
+  title: Adelson e Salvini
+  ids:
+    imslp: Adelson e Salvini (Bellini, Vincenzo)
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Vocal soloists | and orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adelson_e_Salvini_%28Bellini%2C_Vincenzo%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, chorus, and orchestra'

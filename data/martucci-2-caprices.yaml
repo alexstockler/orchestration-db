@@ -1,0 +1,15 @@
+id: martucci-2-caprices
+work:
+  composer: Martucci, Giuseppe
+  title: 2 Caprices
+  ids:
+    imslp: 2 Caprices, Op.80 (Martucci, Giuseppe)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Caprices%2C_Op.80_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

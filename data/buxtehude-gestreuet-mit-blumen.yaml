@@ -1,0 +1,20 @@
+id: buxtehude-gestreuet-mit-blumen
+work:
+  composer: Buxtehude, Dietrich
+  title: Gestreuet mit Blumen
+  ids:
+    imslp: Gestreuet mit Blumen, BuxWV 118 (Buxtehude, Dietrich)
+formula: 0001 0000
+instrumentation:
+  bassoon: 1
+  soloists:
+  - alto
+  solo_strings:
+    violin: 2
+    viola: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gestreuet_mit_Blumen%2C_BuxWV_118_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, bassoon, 2 violins, 2 violas, continuo'

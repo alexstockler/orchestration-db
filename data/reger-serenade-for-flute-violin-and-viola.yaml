@@ -1,0 +1,18 @@
+id: reger-serenade-for-flute-violin-and-viola
+work:
+  composer: Reger, Max
+  title: Serenade for Flute, Violin and Viola
+  ids:
+    imslp: Serenade, Op.141a (Reger, Max)
+  year: 1915
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  solo_strings:
+    violin: 1
+    viola: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Serenade%2C_Op.141a_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, violin, viola'

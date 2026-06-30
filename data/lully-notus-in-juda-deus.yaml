@@ -1,0 +1,16 @@
+id: lully-notus-in-juda-deus
+work:
+  composer: Lully, Jean-Baptiste
+  title: Notus in Judæa Deus
+  ids:
+    imslp: Notus in Judæa Deus (Lully, Jean-Baptiste)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Notus_in_Jud%C3%A6a_Deus_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'
