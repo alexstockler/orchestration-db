@@ -1,0 +1,18 @@
+id: rossini-duet-in-d-for-cello-and-bass
+work:
+  composer: Rossini, Gioachino
+  title: Duet in D for Cello and Bass
+  ids:
+    imslp: Duet for Cello and Double Bass in D major (Rossini, Gioachino)
+  year: 1824
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Duet_for_Cello_and_Double_Bass_in_D_major_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, bass'

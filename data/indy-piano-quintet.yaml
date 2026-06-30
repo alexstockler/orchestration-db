@@ -1,0 +1,21 @@
+id: indy-piano-quintet
+work:
+  composer: Indy, Vincent d'
+  title: Piano Quintet
+  ids:
+    imslp: Piano Quintet, Op.81 (Indy, Vincent d')
+  year: 1924
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quintet%2C_Op.81_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano, 2 Violins, Viola, Cello'
+duration_minutes: 20

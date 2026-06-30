@@ -1,0 +1,14 @@
+id: loewe-die-bruderliche-theilung
+work:
+  composer: Loewe, Carl
+  title: Die brüderliche Theilung
+  ids:
+    imslp: Der brüderliche Theilung (Loewe, Carl)
+formula: ''
+instrumentation:
+  additional_raw: 4 male voices (TTBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_br%C3%BCderliche_Theilung_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 male voices (TTBB)'

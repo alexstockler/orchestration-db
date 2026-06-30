@@ -1,0 +1,19 @@
+id: telemann-du-bist-ja-hoch-bedrangte-liebe
+work:
+  composer: Telemann, Georg Philipp
+  title: Du bist ja, hoch bedrängte Liebe
+  ids:
+    imslp: Du bist ja, hoch bedrängte Liebe, TWV 1:383a (Telemann, Georg Philipp)
+  year: 1731
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+    viola: 1
+  additional_raw: voice (alto or baritone) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Du_bist_ja%2C_hoch_bedr%C3%A4ngte_Liebe%2C_TWV_1%3A383a_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (alto or baritone), violins, viola, continuo'
+duration_minutes: 10

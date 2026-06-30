@@ -1,0 +1,16 @@
+id: purcell-sum-up-all-the-delights
+work:
+  composer: Purcell, Henry
+  title: Sum Up All the Delights
+  ids:
+    imslp: Sum Up All the Delights, Z.275 (Purcell, Henry)
+  year: 1688
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sum_Up_All_the_Delights%2C_Z.275_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

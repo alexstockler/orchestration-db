@@ -1,0 +1,15 @@
+id: taneyev-12-choruses-a-cappella
+work:
+  composer: Taneyev, Sergey
+  title: 12 choruses a cappella
+  ids:
+    imslp: 12 Choruses a cappella, Op.27 (Taneyev, Sergey)
+  year: 1909
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Choruses_a_cappella%2C_Op.27_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus or 2 mixed choruses'

@@ -1,0 +1,16 @@
+id: purcell-full-bags
+work:
+  composer: Purcell, Henry
+  title: Full Bags
+  ids:
+    imslp: Full Bags, Z.249 (Purcell, Henry)
+  year: 1686
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Full_Bags%2C_Z.249_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

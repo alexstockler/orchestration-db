@@ -1,0 +1,18 @@
+id: telemann-dafur-halte-uns-jedermann
+work:
+  composer: Telemann, Georg Philipp
+  title: Dafür halte uns jedermann
+  ids:
+    imslp: Dafür halte uns jedermann, TWV 1:155 (Telemann, Georg Philipp)
+  year: 1731
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Daf%C3%BCr_halte_uns_jedermann%2C_TWV_1%3A155_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'
+duration_minutes: 18

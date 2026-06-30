@@ -1,0 +1,32 @@
+id: rameau-acante-et-cephise
+work:
+  composer: Rameau, Jean-Philippe
+  title: Acante et Céphise
+  ids:
+    imslp: Acante et Céphise, RCT 29 (Rameau, Jean-Philippe)
+  year: 1751
+formula: 2222 2000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+  soloists:
+  - Roles ::Acante (tenor)
+  - Céphise (soprano)
+  - Oroès (bass)
+  - Zirphile (soprano)
+  - Une fée (soprano)
+  - La grande prêtresse (soprano)
+  - 'Délie (soprano) :'
+  additional_raw: flauto piccolo | musette
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Acante_et_C%C3%A9phise%2C_RCT_29_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra :Roles ::Acante (tenor), Céphise (soprano),
+    Oroès (bass), Zirphile (soprano), Une fée (soprano), La grande prêtresse (soprano),
+    Délie (soprano) :Orchestra ::2 flutes, 2 oboes, 2 clarinets, 2 bassoons + 2 horns
+    + strings, flauto piccolo, musette'

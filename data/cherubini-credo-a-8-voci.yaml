@@ -1,0 +1,19 @@
+id: cherubini-credo-a-8-voci
+work:
+  composer: Cherubini, Luigi
+  title: Credo a 8 voci
+  ids:
+    imslp: Credo a 8 voci (Cherubini, Luigi)
+  year: 1778
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - altos
+  - tenors
+  additional_raw: 2 basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Credo_a_8_voci_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, 2 altos, 2 tenors, 2 basses'

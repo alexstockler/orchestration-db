@@ -1,0 +1,19 @@
+id: zemlinsky-serenade
+work:
+  composer: Zemlinsky, Alexander von
+  title: Serenade
+  ids:
+    imslp: Serenade (Zemlinsky, Alexander von)
+  year: 1896
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Serenade_%28Zemlinsky%2C_Alexander_von%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 22

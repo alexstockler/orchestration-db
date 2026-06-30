@@ -1,0 +1,27 @@
+id: telemann-ein-lispelnd-murmelndes-gedrange
+work:
+  composer: Telemann, Georg Philipp
+  title: Ein lispelnd-murmelndes Gedränge
+  ids:
+    imslp: Ein lispelnd-murmelndes Gedränge, TWV 1:427 (Telemann, Georg Philipp)
+  year: 1732
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+  solo_strings:
+    violin: 2
+  additional_raw: 'continuo | Shorter Version: alto | continuo'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ein_lispelnd-murmelndes_Gedr%C3%A4nge%2C_TWV_1%3A427_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Full Version: soprano, alto, tenor, bass, mixed chorus
+    (SATB), 2 oboes, strings, continuo, Shorter Version: alto, 2 violins, continuo'
+duration_minutes: 15

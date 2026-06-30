@@ -1,0 +1,17 @@
+id: indy-serenade-et-valse
+work:
+  composer: Indy, Vincent d'
+  title: Sérénade et Valse
+  ids:
+    imslp: Serenade and Waltz, Op.28 (Indy, Vincent d')
+  year: 1887
+formula: ''
+instrumentation:
+  additional_raw: Violin and Orchestra (flute, oboe, clarinet, bassoon, cornet à pistons,
+    timpani, strings)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Serenade_and_Waltz%2C_Op.28_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin and Orchestra (flute, oboe, clarinet, bassoon, cornet
+    à pistons, timpani, strings)'

@@ -1,0 +1,16 @@
+id: purcell-i-love-and-i-must
+work:
+  composer: Purcell, Henry
+  title: I Love and I Must
+  ids:
+    imslp: I Love and I Must, Z.382 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/I_Love_and_I_Must%2C_Z.382_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

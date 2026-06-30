@@ -1,0 +1,31 @@
+id: cherubini-hymne-du-pantheon
+work:
+  composer: Cherubini, Luigi
+  title: Hymne du Panthéon
+  ids:
+    imslp: Hymne du Panthéon (Cherubini, Luigi)
+  year: 1794
+formula: 2[pic.pic] 0 2 1 2230 tmp serpent
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - instrument: piccolo
+  clarinet: 2
+  bassoon: 1
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - tam-tam
+    - bass drum
+  extras:
+  - instrument: serpent
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymne_du_Panth%C3%A9on_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 piccolos, 2 clarinets, bassoon, 2 horns, 2 trumpets,
+    3 trombones, serpent, tam-tam, bass drum, timpani'
+duration_minutes: 10

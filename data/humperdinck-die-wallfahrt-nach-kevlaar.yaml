@@ -1,0 +1,16 @@
+id: humperdinck-die-wallfahrt-nach-kevlaar
+work:
+  composer: Humperdinck, Engelbert
+  title: Die Wallfahrt nach Kevlaar
+  ids:
+    imslp: Die Wallfahrt nach Kevlaar (Humperdinck, Engelbert)
+  year: 1878
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Mezzo-soprano and Tenor voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Wallfahrt_nach_Kevlaar_%28Humperdinck%2C_Engelbert%29
+  confidence: single_source
+  notes: 'Instrumentation: Mezzo-soprano and Tenor voices, Chorus, Orchestra'

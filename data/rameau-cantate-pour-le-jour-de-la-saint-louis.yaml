@@ -1,0 +1,17 @@
+id: rameau-cantate-pour-le-jour-de-la-saint-louis
+work:
+  composer: Rameau, Jean-Philippe
+  title: Cantate pour le jour de la Saint-Louïs
+  ids:
+    imslp: Cantate pour le jour de la Saint-Louis, RCT 25 (Rameau, Jean-Philippe)
+  year: 1740
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: dessus de violon (G2) &amp | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cantate_pour_le_jour_de_la_Saint-Louis%2C_RCT_25_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (dessus - C1), dessus de violon (G2) &amp; continuo'

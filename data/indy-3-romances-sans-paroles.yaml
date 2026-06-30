@@ -1,0 +1,16 @@
+id: indy-3-romances-sans-paroles
+work:
+  composer: Indy, Vincent d'
+  title: 3 Romances sans Paroles
+  ids:
+    imslp: 3 Romances sans paroles, Op.1 (Indy, Vincent d')
+  year: 1869
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Romances_sans_paroles%2C_Op.1_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

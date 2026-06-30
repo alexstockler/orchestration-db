@@ -1,0 +1,16 @@
+id: purcell-the-virtuous-wife
+work:
+  composer: Purcell, Henry
+  title: The Virtuous Wife
+  ids:
+    imslp: The Virtuous Wife, Z.611 (Purcell, Henry)
+  year: 1694
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Virtuous_Wife%2C_Z.611_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: strings, continuo'

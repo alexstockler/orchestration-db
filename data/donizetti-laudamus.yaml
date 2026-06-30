@@ -1,0 +1,20 @@
+id: donizetti-laudamus
+work:
+  composer: Donizetti, Gaetano
+  title: Laudamus
+  ids:
+    imslp: Laudamus, A 596 (Donizetti, Gaetano)
+  year: 1820
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Laudamus%2C_A_596_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass; mixed chorus (SATB), orchestra'

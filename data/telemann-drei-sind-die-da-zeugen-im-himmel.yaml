@@ -1,0 +1,27 @@
+id: telemann-drei-sind-die-da-zeugen-im-himmel
+work:
+  composer: Telemann, Georg Philipp
+  title: Drei sind, die da zeugen im Himmel
+  ids:
+    imslp: Drei sind, die da zeugen im Himmel, TWV 1:374 (Telemann, Georg Philipp)
+  year: 1711
+formula: 0000 0300 tmp str
+instrumentation:
+  trumpet: 3
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Drei_sind%2C_die_da_zeugen_im_Himmel%2C_TWV_1%3A374_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, alto, tenor, bass; mixed chorus (SATB),
+    Orchestra: 3 trumpets, timpani, strings, continuo'
+duration_minutes: 15

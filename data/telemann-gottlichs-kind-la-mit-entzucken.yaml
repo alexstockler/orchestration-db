@@ -1,0 +1,19 @@
+id: telemann-gottlichs-kind-la-mit-entzucken
+work:
+  composer: Telemann, Georg Philipp
+  title: Göttlichs Kind, laß, mit Entzücken
+  ids:
+    imslp: Göttlichs Kind, laß, mit Entzücken, TWV 1:632a (Telemann, Georg Philipp)
+  year: 1731
+formula: 0000 0100
+instrumentation:
+  trumpet: 1
+  solo_strings:
+    violin: 1
+  additional_raw: medium voice | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/G%C3%B6ttlichs_Kind%2C_la%C3%9F%2C_mit_Entz%C3%BCcken%2C_TWV_1%3A632a_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: medium voice, trumpet (or oboe), violin, continuo'
+duration_minutes: 10

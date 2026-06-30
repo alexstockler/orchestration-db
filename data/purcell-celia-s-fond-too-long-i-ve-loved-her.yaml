@@ -1,0 +1,17 @@
+id: purcell-celia-s-fond-too-long-i-ve-loved-her
+work:
+  composer: Purcell, Henry
+  title: Celia's Fond, Too Long I've Loved Her
+  ids:
+    imslp: Celia's Fond, Too Long I've Loved Her, Z.364 (Purcell, Henry)
+  year: 1694
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Celia%27s_Fond%2C_Too_Long_I%27ve_Loved_Her%2C_Z.364_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

@@ -1,0 +1,16 @@
+id: chabrier-nocturne
+work:
+  composer: Chabrier, Emmanuel
+  title: Nocturne
+  ids:
+    imslp: Nocturne, Op.11 (Chabrier, Emmanuel)
+  year: 1853
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nocturne%2C_Op.11_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

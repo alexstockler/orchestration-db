@@ -1,0 +1,27 @@
+id: boccherini-stabat-mater
+work:
+  composer: Boccherini, Luigi
+  title: Stabat mater
+  ids:
+    imslp: Stabat Mater, G.532 (Boccherini, Luigi)
+  year: 1781
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - contralto
+  - tenor
+  solo_strings:
+    violin: 4
+    viola: 2
+    cello: 4
+    double_bass: 1
+  additional_raw: '2nd Version: soprano'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Stabat_Mater%2C_G.532_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 1st Version: soprano, 2 violins, viola, 2 cellos, 2nd Version:
+    soprano, contralto (or 2 sopranos), tenor, 2 violins, viola, 2 cellos, double
+    bass'
+duration_minutes: 45

@@ -1,0 +1,17 @@
+id: purcell-oh-solitude
+work:
+  composer: Purcell, Henry
+  title: Oh Solitude
+  ids:
+    imslp: Oh Solitude, Z.406 (Purcell, Henry)
+  year: 1687
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oh_Solitude%2C_Z.406_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

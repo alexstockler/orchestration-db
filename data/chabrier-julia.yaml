@@ -1,0 +1,16 @@
+id: chabrier-julia
+work:
+  composer: Chabrier, Emmanuel
+  title: Julia
+  ids:
+    imslp: Julia (Chabrier, Emmanuel)
+  year: 1857
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Julia_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

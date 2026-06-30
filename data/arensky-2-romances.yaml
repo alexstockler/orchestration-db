@@ -1,0 +1,16 @@
+id: arensky-2-romances
+work:
+  composer: Arensky, Anton
+  title: 2 Romances
+  ids:
+    imslp: 2 Romances, Op.21 (Arensky, Anton)
+  year: 1889
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Romances%2C_Op.21_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

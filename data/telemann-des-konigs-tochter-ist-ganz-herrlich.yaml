@@ -1,0 +1,18 @@
+id: telemann-des-konigs-tochter-ist-ganz-herrlich
+work:
+  composer: Telemann, Georg Philipp
+  title: Des Königs Tochter ist ganz herrlich
+  ids:
+    imslp: Des Königs Tochter ist ganz herrlich, TWV 1:327 (Telemann, Georg Philipp)
+  year: 1727
+formula: 0100 0000 str
+instrumentation:
+  oboe: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Des_K%C3%B6nigs_Tochter_ist_ganz_herrlich%2C_TWV_1%3A327_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, strings, continuo'
+duration_minutes: 10

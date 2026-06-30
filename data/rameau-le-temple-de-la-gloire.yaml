@@ -1,0 +1,16 @@
+id: rameau-le-temple-de-la-gloire
+work:
+  composer: Rameau, Jean-Philippe
+  title: Le Temple de la Gloire
+  ids:
+    imslp: Le Temple de la gloire, RCT 59 (Rameau, Jean-Philippe)
+  year: 1745
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_Temple_de_la_gloire%2C_RCT_59_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

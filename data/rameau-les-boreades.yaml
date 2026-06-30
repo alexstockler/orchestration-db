@@ -1,0 +1,17 @@
+id: rameau-les-boreades
+work:
+  composer: Rameau, Jean-Philippe
+  title: Les Boréades
+  ids:
+    imslp: Les Boréades, RCT 31 (Rameau, Jean-Philippe)
+  year: 1763
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_Bor%C3%A9ades%2C_RCT_31_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'
+duration_minutes: 40

@@ -1,0 +1,16 @@
+id: purcell-to-thee-and-to-a-lass
+work:
+  composer: Purcell, Henry
+  title: To Thee and to a Lass
+  ids:
+    imslp: To Thee and to a Lass, Z.283 (Purcell, Henry)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/To_Thee_and_to_a_Lass%2C_Z.283_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

@@ -1,0 +1,19 @@
+id: telemann-er-kennt-die-rechten-freudenstunden
+work:
+  composer: Telemann, Georg Philipp
+  title: Er kennt die rechten Freudenstunden
+  ids:
+    imslp: Er kennt die rechten Freudenstunden, TWV 1:464 (Telemann, Georg Philipp)
+  year: 1749
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+  - chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Er_kennt_die_rechten_Freudenstunden%2C_TWV_1%3A464_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: alto; chorus (SATB), Orchestra: strings, continuo'

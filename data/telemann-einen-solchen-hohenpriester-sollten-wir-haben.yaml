@@ -1,0 +1,19 @@
+id: telemann-einen-solchen-hohenpriester-sollten-wir-haben
+work:
+  composer: Telemann, Georg Philipp
+  title: Einen solchen Hohenpriester sollten wir haben
+  ids:
+    imslp: Einen solchen Hohenpriester sollten wir haben, TWV 1:418 (Telemann, Georg
+      Philipp)
+  year: 1720
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Einen_solchen_Hohenpriester_sollten_wir_haben%2C_TWV_1%3A418_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'
+duration_minutes: 9

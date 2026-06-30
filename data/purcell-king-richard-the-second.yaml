@@ -1,0 +1,17 @@
+id: purcell-king-richard-the-second
+work:
+  composer: Purcell, Henry
+  title: King Richard the Second
+  ids:
+    imslp: King Richard the Second, Z.581 (Purcell, Henry)
+  year: 1681
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/King_Richard_the_Second%2C_Z.581_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), continuo'

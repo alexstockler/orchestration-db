@@ -1,0 +1,24 @@
+id: telemann-aller-augen-warten-auf-dich
+work:
+  composer: Telemann, Georg Philipp
+  title: Aller Augen warten auf dich
+  ids:
+    imslp: Aller Augen warten auf dich, TWV 1:65 (Telemann, Georg Philipp)
+  year: 1711
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - soprano
+  - tenor
+  - bass solos
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aller_Augen_warten_auf_dich%2C_TWV_1%3A65_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, tenor, bass solos; mixed chorus (SATB),
+    Orchestra: 2 oboes, strings, continuo'
+duration_minutes: 12

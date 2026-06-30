@@ -1,0 +1,18 @@
+id: telemann-erquickendes-wunder-der-ewigen-gnade
+work:
+  composer: Telemann, Georg Philipp
+  title: Erquickendes Wunder der ewigen Gnade
+  ids:
+    imslp: Erquickendes Wunder der ewigen Gnade, TWV 1:469 (Telemann, Georg Philipp)
+  year: 1725
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+  additional_raw: medium voice | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erquickendes_Wunder_der_ewigen_Gnade%2C_TWV_1%3A469_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: medium voice, violin, continuo'
+duration_minutes: 10

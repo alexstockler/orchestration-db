@@ -1,0 +1,18 @@
+id: boccherini-harpsichord-concerto-in-e-flat-major
+work:
+  composer: Boccherini, Luigi
+  title: Harpsichord Concerto in E-flat major
+  ids:
+    imslp: Harpsichord Concerto in E-flat major, G.487 (Boccherini, Luigi)
+formula: 0200 2000 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  strings: str
+  soloists:
+  - harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Harpsichord_Concerto_in_E-flat_major%2C_G.487_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: harpsichord, Orchestra: 2 oboes, 2 horns, strings'

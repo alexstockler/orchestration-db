@@ -1,0 +1,18 @@
+id: spohr-hymne-an-die-heilige-cacilie
+work:
+  composer: Spohr, Louis
+  title: Hymne an die heilige Cäcilie
+  ids:
+    imslp: Hymne an die heilige Cäcilie (Spohr, Louis)
+  year: 1823
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: mixed chorus
+  additional_raw: Soprano voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymne_an_die_heilige_C%C3%A4cilie_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: Soprano voice, Mixed chorus, Piano'

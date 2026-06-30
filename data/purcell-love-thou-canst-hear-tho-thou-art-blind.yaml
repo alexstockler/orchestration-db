@@ -1,0 +1,17 @@
+id: purcell-love-thou-canst-hear-tho-thou-art-blind
+work:
+  composer: Purcell, Henry
+  title: Love, Thou Canst Hear, Tho' Thou Art Blind
+  ids:
+    imslp: Love, Thou Can'st Hear, Z.396 (Purcell, Henry)
+  year: 1695
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Love%2C_Thou_Can%27st_Hear%2C_Z.396_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

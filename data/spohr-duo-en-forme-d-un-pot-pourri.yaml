@@ -1,0 +1,18 @@
+id: spohr-duo-en-forme-d-un-pot-pourri
+work:
+  composer: Spohr, Louis
+  title: Duo en forme d'un pot-pourri
+  ids:
+    imslp: Duo en forme d'un pot-pourri, Op.116 (Spohr, Louis)
+  year: 1841
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Duo_en_forme_d%27un_pot-pourri%2C_Op.116_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: piano (or harp), violin (or cello)'

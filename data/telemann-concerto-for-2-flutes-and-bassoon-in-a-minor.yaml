@@ -1,0 +1,17 @@
+id: telemann-concerto-for-2-flutes-and-bassoon-in-a-minor
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto for 2 Flutes and Bassoon in A minor
+  ids:
+    imslp: Concerto for 2 Flutes and Bassoon, TWV 53:a1 (Telemann, Georg Philipp)
+formula: 2001 0000 str
+instrumentation:
+  flute: 2
+  bassoon: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Flutes_and_Bassoon%2C_TWV_53%3Aa1_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, bassoon, strings, continuo'

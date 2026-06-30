@@ -1,0 +1,19 @@
+id: taneyev-e
+work:
+  composer: Taneyev, Sergey
+  title: Колыбельная пeсня
+  ids:
+    imslp: Cradle Song (Taneyev, Sergey)
+  year: 1896
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cradle_Song_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 2

@@ -1,0 +1,26 @@
+id: telemann-abscheuliche-tiefe-des-groen-verderbens
+work:
+  composer: Telemann, Georg Philipp
+  title: Abscheuliche Tiefe des großen Verderbens
+  ids:
+    imslp: Abscheuliche Tiefe des großen Verderbens, TWV 1:1 (Telemann, Georg Philipp)
+  year: 1731
+formula: 1200 0000 str
+instrumentation:
+  flute: 1
+  oboe: 2
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  additional_raw: 'mxied chorus (SATB) | continuo | Shorter version: voice (alto or
+    baritone) | violetta (or bassoon) | continuo'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Abscheuliche_Tiefe_des_gro%C3%9Fen_Verderbens%2C_TWV_1%3A1_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Full Version: soprano, alto, tenor, bass, mxied chorus
+    (SATB), 2 oboes, strings, continuo, Shorter version: voice (alto or baritone),
+    flute, violetta (or bassoon), continuo'

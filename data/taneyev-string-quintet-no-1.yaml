@@ -1,0 +1,18 @@
+id: taneyev-string-quintet-no-1
+work:
+  composer: Taneyev, Sergey
+  title: String Quintet No.1
+  ids:
+    imslp: String Quintet No.1, Op.14 (Taneyev, Sergey)
+  year: 1900
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quintet_No.1%2C_Op.14_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, 2 cellos'

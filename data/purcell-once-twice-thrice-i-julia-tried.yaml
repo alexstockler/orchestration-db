@@ -1,0 +1,15 @@
+id: purcell-once-twice-thrice-i-julia-tried
+work:
+  composer: Purcell, Henry
+  title: Once, Twice, Thrice, I Julia Tried
+  ids:
+    imslp: Once, Twice, Thrice, I Julia Tried, Z.265 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Once%2C_Twice%2C_Thrice%2C_I_Julia_Tried%2C_Z.265_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

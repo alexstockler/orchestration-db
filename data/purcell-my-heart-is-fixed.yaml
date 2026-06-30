@@ -1,0 +1,23 @@
+id: purcell-my-heart-is-fixed
+work:
+  composer: Purcell, Henry
+  title: My Heart is Fixed
+  ids:
+    imslp: My Heart is Fixed, Z.29 (Purcell, Henry)
+  year: 1683
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+  - tenor
+  - bass
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/My_Heart_is_Fixed%2C_Z.29_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: alto, tenor, bass; mixed chorus (SATB), Orchestra:
+    strings, continuo'
+duration_minutes: 9

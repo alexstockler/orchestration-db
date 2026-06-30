@@ -1,0 +1,18 @@
+id: purcell-the-spanish-friar
+work:
+  composer: Purcell, Henry
+  title: The Spanish Friar
+  ids:
+    imslp: The Spanish Friar, Z.610 (Purcell, Henry)
+  year: 1694
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Spanish_Friar%2C_Z.610_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'
+duration_minutes: 5

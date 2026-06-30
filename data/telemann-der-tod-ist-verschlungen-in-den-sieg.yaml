@@ -1,0 +1,18 @@
+id: telemann-der-tod-ist-verschlungen-in-den-sieg
+work:
+  composer: Telemann, Georg Philipp
+  title: Der Tod ist verschlungen in den Sieg
+  ids:
+    imslp: Der Tod ist verschlungen in den Sieg, TWV 1:322 (Telemann, Georg Philipp)
+  year: 1720
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Tod_ist_verschlungen_in_den_Sieg%2C_TWV_1%3A322_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'
+duration_minutes: 10

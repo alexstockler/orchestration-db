@@ -1,0 +1,16 @@
+id: purcell-love-arms-himself-in-celia-s-eyes
+work:
+  composer: Purcell, Henry
+  title: Love Arms Himself in Celia's Eyes
+  ids:
+    imslp: Love Arms Himself in Celia's Eyes, Z.392 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Love_Arms_Himself_in_Celia%27s_Eyes%2C_Z.392_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

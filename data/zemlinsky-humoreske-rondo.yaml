@@ -1,0 +1,19 @@
+id: zemlinsky-humoreske-rondo
+work:
+  composer: Zemlinsky, Alexander von
+  title: Humoreske (Rondo)
+  ids:
+    imslp: Humoreske (Zemlinsky, Alexander von)
+  year: 1939
+formula: 1111 1000
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Humoreske_%28Zemlinsky%2C_Alexander_von%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, clarinet, bassoon, horn'

@@ -1,0 +1,19 @@
+id: purcell-the-double-dealer
+work:
+  composer: Purcell, Henry
+  title: The Double Dealer
+  ids:
+    imslp: The Double Dealer, Z.592 (Purcell, Henry)
+  year: 1693
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Double_Dealer%2C_Z.592_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, strings, continuo'
+duration_minutes: 13

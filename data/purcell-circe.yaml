@@ -1,0 +1,18 @@
+id: purcell-circe
+work:
+  composer: Purcell, Henry
+  title: Circe
+  ids:
+    imslp: Circe, Z.575 (Purcell, Henry)
+  year: 1690
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Circe%2C_Z.575_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra (strings, continuo)'
+duration_minutes: 30

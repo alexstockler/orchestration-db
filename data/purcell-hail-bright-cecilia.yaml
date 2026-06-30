@@ -1,0 +1,23 @@
+id: purcell-hail-bright-cecilia
+work:
+  composer: Purcell, Henry
+  title: Hail, Bright Cecilia!
+  ids:
+    imslp: Hail, Bright Cecilia, Z.328 (Purcell, Henry)
+  year: 1692
+formula: 0200 0200 tmp
+instrumentation:
+  oboe: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: 2 recorders | bass recorder | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hail%2C_Bright_Cecilia%2C_Z.328_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 recorders, bass recorder, 2 oboes, 2 trumpets, timpani,
+    2 violins, viola, continuo'

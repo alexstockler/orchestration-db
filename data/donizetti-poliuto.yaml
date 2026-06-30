@@ -1,0 +1,19 @@
+id: donizetti-poliuto
+work:
+  composer: Donizetti, Gaetano
+  title: Poliuto
+  ids:
+    imslp: Poliuto (Donizetti, Gaetano)
+  year: 1838
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: Cast | Poliuto (tenor) | Paolina (soprano) | Severo (baritone) |
+    Felice (tenor) | Callistene (bass) | Nearco (tenor) | Christian (tenor)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Poliuto_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Cast ::Poliuto (tenor), Paolina
+    (soprano), Severo (baritone), Felice (tenor), Callistene (bass), Nearco (tenor),
+    Christian (tenor) :Mixed chorus (SATB), Orchestra'

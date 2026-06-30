@@ -1,0 +1,18 @@
+id: goldmark-8-lieder
+work:
+  composer: Goldmark, Carl
+  title: 8 Lieder
+  ids:
+    imslp: 8 Lieder, Op.37 (Goldmark, Carl)
+  year: 1888
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Lieder%2C_Op.37_%28Goldmark%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

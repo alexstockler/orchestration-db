@@ -1,0 +1,20 @@
+id: telemann-ach-gott-es-geht-gar-ubel-zu
+work:
+  composer: Telemann, Georg Philipp
+  title: Ach Gott! es geht gar übel zu
+  ids:
+    imslp: Ach Gott! es geht gar übel zu, TWV 1:12 (Telemann, Georg Philipp)
+  year: 1749
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach_Gott%21_es_geht_gar_%C3%BCbel_zu%2C_TWV_1%3A12_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: alto; mixed chorus (SATB), Orchestra: strings,
+    continuo'

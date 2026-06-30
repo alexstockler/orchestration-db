@@ -1,0 +1,16 @@
+id: chabrier-marguerite
+work:
+  composer: Chabrier, Emmanuel
+  title: Marguerite
+  ids:
+    imslp: Marguerite, Op.9 (Chabrier, Emmanuel)
+  year: 1852
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marguerite%2C_Op.9_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

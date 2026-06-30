@@ -1,0 +1,19 @@
+id: telemann-ach-reiner-geist
+work:
+  composer: Telemann, Georg Philipp
+  title: Ach reiner Geist
+  ids:
+    imslp: Ach reiner Geist, TWV 1:30a (Telemann, Georg Philipp)
+  year: 1731
+formula: 0000 0100
+instrumentation:
+  trumpet: 1
+  solo_strings:
+    violin: 1
+  additional_raw: voice (alto or bass) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach_reiner_Geist%2C_TWV_1%3A30a_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (alto or bass), trumpet (or oboe), violins, continuo'
+duration_minutes: 12

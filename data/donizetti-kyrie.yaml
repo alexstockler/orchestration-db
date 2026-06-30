@@ -1,0 +1,21 @@
+id: donizetti-kyrie
+work:
+  composer: Donizetti, Gaetano
+  title: Kyrie
+  ids:
+    imslp: Kyrie in D minor, In.169 (Donizetti, Gaetano)
+  year: 1820
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kyrie_in_D_minor%2C_In.169_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, mixed chorus (SATB), orchestra'
+duration_minutes: 5

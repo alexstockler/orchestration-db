@@ -1,0 +1,16 @@
+id: telemann-du-bist-verflucht-o-schreckensstimme-twv-1-385
+work:
+  composer: Telemann, Georg Philipp
+  title: Du bist verflucht, o Schreckensstimme, TWV 1:385
+  ids:
+    imslp: Du bist verflucht, o Schreckensstimme, TWV 1:385 (Telemann, Georg Philipp)
+  year: 1725
+formula: ''
+instrumentation:
+  additional_raw: high voice | recorder | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Du_bist_verflucht%2C_o_Schreckensstimme%2C_TWV_1%3A385_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: high voice, recorder, continuo'
+duration_minutes: 10

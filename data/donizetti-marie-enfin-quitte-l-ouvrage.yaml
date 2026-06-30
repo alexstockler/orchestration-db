@@ -1,0 +1,17 @@
+id: donizetti-marie-enfin-quitte-l-ouvrage
+work:
+  composer: Donizetti, Gaetano
+  title: Marie enfin quitte l'ouvrage
+  ids:
+    imslp: Marie enfin quitte l'ouvrage, In.515 (Donizetti, Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marie_enfin_quitte_l%27ouvrage%2C_In.515_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

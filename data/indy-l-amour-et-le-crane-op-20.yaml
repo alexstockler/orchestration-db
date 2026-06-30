@@ -1,0 +1,17 @@
+id: indy-l-amour-et-le-crane-op-20
+work:
+  composer: Indy, Vincent d'
+  title: L'amour et le crâne, Op.20
+  ids:
+    imslp: L'amour et le crâne, Op.20 (Indy, Vincent d')
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27amour_et_le_cr%C3%A2ne%2C_Op.20_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

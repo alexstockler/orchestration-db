@@ -1,0 +1,40 @@
+id: loewe-johann-huss
+work:
+  composer: Loewe, Carl
+  title: Johann Huss
+  ids:
+    imslp: Johann Huss, Op.82 (Loewe, Carl)
+  year: 1842
+formula: 2222 2230 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - Barbara (soprano)
+  - Bauer (bass)
+  - Bischof von Lübeck (bass)
+  - Chlum (bass)
+  - Hironymus (bass)
+  - Hus (tenor)
+  - Siegmund (bass)
+  - Sofia (soprano)
+  - Wenzel (bass)
+  - Zigeunerin (alto)
+  - mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Johann_Huss%2C_Op.82_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: Barbara (soprano), Bauer (bass), Bischof von Lübeck
+    (bass), Chlum (bass), Hironymus (bass), Hus (tenor), Siegmund (bass), Sofia (soprano),
+    Wenzel (bass), Zigeunerin (alto) + mixed chorus (SATB), Orchestra: 2 flutes, 2
+    oboes, 2 clarinets, 2 bassoons + 2 horns, 2 trumpets, 3 trombones + timpani +
+    strings'

@@ -1,0 +1,15 @@
+id: donizetti-gloria-patri
+work:
+  composer: Donizetti, Gaetano
+  title: Gloria Patri
+  ids:
+    imslp: Gloria Patri in E major (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - contralto
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gloria_Patri_in_E_major_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: contralto, orchestra'

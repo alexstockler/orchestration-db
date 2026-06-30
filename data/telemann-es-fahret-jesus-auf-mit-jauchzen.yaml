@@ -1,0 +1,31 @@
+id: telemann-es-fahret-jesus-auf-mit-jauchzen
+work:
+  composer: Telemann, Georg Philipp
+  title: Es fähret Jesus auf mit Jauchzen
+  ids:
+    imslp: Es fähret Jesus auf mit Jauchzen, TWV 1:489 (Telemann, Georg Philipp)
+  year: 1731
+formula: 0200 0400 tmp str
+instrumentation:
+  oboe: 2
+  trumpet: 4
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  - mixed chorus (SATB)
+  solo_strings:
+    violin: 1
+  additional_raw: 'continuo Shorter Version: soprano (or tenor) | continuo'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_f%C3%A4hret_Jesus_auf_mit_Jauchzen%2C_TWV_1%3A489_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Full Version: soprano, alto, tenor, bass, mixed chorus
+    (SATB), orchestra :3 trumpets, timpani, 2 oboes, strings, continuo Shorter Version:
+    soprano (or tenor), trumpet (or oboe), violin, continuo'
+duration_minutes: 18

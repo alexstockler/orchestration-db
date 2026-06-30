@@ -1,0 +1,19 @@
+id: telemann-bequemliches-leben-gemachlicher-stand
+work:
+  composer: Telemann, Georg Philipp
+  title: Bequemliches Leben, gemächlicher Stand
+  ids:
+    imslp: Bequemliches Leben, gemächlicher Stand, TWV 1:123 (Telemann, Georg Philipp)
+  year: 1730
+formula: 2200 0000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  strings: str
+  additional_raw: continuo (organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bequemliches_Leben%2C_gem%C3%A4chlicher_Stand%2C_TWV_1%3A123_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, strings, continuo (organ)'
+duration_minutes: 25

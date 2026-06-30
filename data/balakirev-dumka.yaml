@@ -1,0 +1,16 @@
+id: balakirev-dumka
+work:
+  composer: Balakirev, Mily
+  title: Dumka
+  ids:
+    imslp: Dumka (Balakirev, Mily)
+  year: 1900
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dumka_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

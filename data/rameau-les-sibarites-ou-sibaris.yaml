@@ -1,0 +1,16 @@
+id: rameau-les-sibarites-ou-sibaris
+work:
+  composer: Rameau, Jean-Philippe
+  title: Les Sibarites ou Sibaris
+  ids:
+    imslp: Les Sybarites, RCT 57 (Rameau, Jean-Philippe)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_Sybarites%2C_RCT_57_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

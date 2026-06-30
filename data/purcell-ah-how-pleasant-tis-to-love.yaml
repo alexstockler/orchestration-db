@@ -1,0 +1,17 @@
+id: purcell-ah-how-pleasant-tis-to-love
+work:
+  composer: Purcell, Henry
+  title: Ah! How Pleasant 'Tis to Love
+  ids:
+    imslp: Ah! How Pleasant 'Tis to Love, Z.353 (Purcell, Henry)
+  year: 1688
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ah%21_How_Pleasant_%27Tis_to_Love%2C_Z.353_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

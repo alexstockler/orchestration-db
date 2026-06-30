@@ -1,0 +1,15 @@
+id: purcell-toccata-quasi-fantasia-con-fuga
+work:
+  composer: Purcell, Henry
+  title: Toccata quasi Fantasia con Fuga
+  ids:
+    imslp: Toccata quasi fantasia con fuga (Purcell, Henry)
+  year: 1894
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Toccata_quasi_fantasia_con_fuga_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

@@ -1,0 +1,21 @@
+id: loewe-die-auferweckung-des-lazarus
+work:
+  composer: Loewe, Carl
+  title: Die Auferweckung des Lazarus
+  ids:
+    imslp: Die Auferweckung des Lazarus, Op.132 (Loewe, Carl)
+  year: 1863
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Auferweckung_des_Lazarus%2C_Op.132_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, alto, tenor, bass + mixed chorus (SATB),
+    Orchestra'

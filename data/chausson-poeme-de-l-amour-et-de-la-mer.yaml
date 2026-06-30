@@ -1,0 +1,26 @@
+id: chausson-poeme-de-l-amour-et-de-la-mer
+work:
+  composer: Chausson, Ernest
+  title: Poème de l'amour et de la mer
+  ids:
+    imslp: Poème de l'amour et de la mer, Op.19 (Chausson, Ernest)
+  year: 1882
+formula: 2222 2230 tmp hp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Po%C3%A8me_de_l%27amour_et_de_la_mer%2C_Op.19_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2
+    trumpets, 3 trombones, timpani, harp, strings'

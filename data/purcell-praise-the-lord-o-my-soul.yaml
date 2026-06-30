@@ -1,0 +1,23 @@
+id: purcell-praise-the-lord-o-my-soul
+work:
+  composer: Purcell, Henry
+  title: Praise the Lord, O My Soul
+  ids:
+    imslp: Praise the Lord, O My Soul, Z.47 (Purcell, Henry)
+  year: 1683
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - 2 sopranos
+  - 2 tenors
+  - 2 basses
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Praise_the_Lord%2C_O_My_Soul%2C_Z.47_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: 2 sopranos, 2 tenors, 2 basses; mixed chorus (SATB),
+    Orchestra: strings, continuo'
+duration_minutes: 10

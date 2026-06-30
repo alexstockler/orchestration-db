@@ -1,0 +1,27 @@
+id: telemann-die-wahrheit-fallt-auf-die-gasse-twv-1-367
+work:
+  composer: Telemann, Georg Philipp
+  title: Die Wahrheit fällt auf die Gasse, TWV 1:367
+  ids:
+    imslp: Die Wahrheit fällt auf die Gasse, TWV 1:367 (Telemann, Georg Philipp)
+  year: 1717
+formula: 0200 0100 str
+instrumentation:
+  oboe: 2
+  trumpet:
+  - optional: true
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Wahrheit_f%C3%A4llt_auf_die_Gasse%2C_TWV_1%3A367_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, mixed chorus (SATB), 2 oboes,
+    trumpet ad lib, strings, continuo'
+duration_minutes: 10

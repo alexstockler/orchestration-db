@@ -1,0 +1,19 @@
+id: donizetti-preces-meae
+work:
+  composer: Donizetti, Gaetano
+  title: Preces meae
+  ids:
+    imslp: Preces meae, A 707 (Donizetti, Gaetano)
+  year: 1819
+formula: 0 0 1[bhn] 0 0000
+instrumentation:
+  clarinet:
+  - instrument: basset_horn
+  soloists:
+  - tenor
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Preces_meae%2C_A_707_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, mixed chorus (SATB), basset horn, orchestra'

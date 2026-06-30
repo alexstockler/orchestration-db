@@ -1,0 +1,18 @@
+id: boccherini-string-quartet-in-b-flat-major
+work:
+  composer: Boccherini, Luigi
+  title: String Quartet in B-flat major
+  ids:
+    imslp: String Quartet in B-flat major, G.186 (Boccherini, Luigi)
+  year: 1775
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_in_B-flat_major%2C_G.186_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

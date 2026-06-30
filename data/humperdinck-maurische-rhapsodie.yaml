@@ -1,0 +1,13 @@
+id: humperdinck-maurische-rhapsodie
+work:
+  composer: Humperdinck, Engelbert
+  title: Maurische Rhapsodie
+  ids:
+    imslp: Maurische Rhapsodie (Humperdinck, Engelbert)
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Maurische_Rhapsodie_%28Humperdinck%2C_Engelbert%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

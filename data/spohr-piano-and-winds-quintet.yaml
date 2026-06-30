@@ -1,0 +1,21 @@
+id: spohr-piano-and-winds-quintet
+work:
+  composer: Spohr, Louis
+  title: Piano and winds quintet
+  ids:
+    imslp: Quintet for Piano and Winds, Op.52 (Spohr, Louis)
+  year: 1820
+formula: 1011 1000 pf
+instrumentation:
+  flute: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Quintet_for_Piano_and_Winds%2C_Op.52_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: Flute, clarinet, horn, bassoon, piano'
+duration_minutes: 30

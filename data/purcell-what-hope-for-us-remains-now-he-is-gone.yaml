@@ -1,0 +1,17 @@
+id: purcell-what-hope-for-us-remains-now-he-is-gone
+work:
+  composer: Purcell, Henry
+  title: What Hope for Us Remains Now He Is Gone?
+  ids:
+    imslp: What Hope for Us Remains Now He Is Gone?, Z.472 (Purcell, Henry)
+  year: 1679
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/What_Hope_for_Us_Remains_Now_He_Is_Gone%3F%2C_Z.472_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

@@ -1,0 +1,19 @@
+id: indy-trio-for-piano-violin-and-cello-op-98
+work:
+  composer: Indy, Vincent d'
+  title: Trio for Piano, Violin and Cello, Op.98
+  ids:
+    imslp: Piano Trio, Op.98 (Indy, Vincent d')
+  year: 1929
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio%2C_Op.98_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'

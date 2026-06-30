@@ -1,0 +1,16 @@
+id: spohr-adagio
+work:
+  composer: Spohr, Louis
+  title: Adagio
+  ids:
+    imslp: Adagio, WoO 35 (Spohr, Louis)
+formula: 0001 0000 pf
+instrumentation:
+  bassoon: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adagio%2C_WoO_35_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: bassoon, piano (see below, Comments)'

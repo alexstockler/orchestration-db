@@ -1,0 +1,14 @@
+id: purcell-haste-gentle-charon
+work:
+  composer: Purcell, Henry
+  title: Haste, Gentle Charon
+  ids:
+    imslp: Haste, Gentle Charon, Z.490 (Purcell, Henry)
+formula: ''
+instrumentation:
+  additional_raw: 2 basses | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Haste%2C_Gentle_Charon%2C_Z.490_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 basses, continuo'

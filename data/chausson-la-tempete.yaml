@@ -1,0 +1,29 @@
+id: chausson-la-tempete
+work:
+  composer: Chausson, Ernest
+  title: La tempête
+  ids:
+    imslp: La tempête, Op.18 (Chausson, Ernest)
+  year: 1888
+formula: 1000 1000 cel hp
+instrumentation:
+  flute: 1
+  horn: 1
+  percussion:
+    instruments:
+    - triangle
+    - tambourine
+    - gong
+  keyboards:
+  - instrument: celesta
+  harp: 1
+  solo_strings:
+    violin: 1
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_temp%C3%AAte%2C_Op.18_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, horn, triangle, tambourine, gong, celesta, harp,
+    violin, viola, cello'

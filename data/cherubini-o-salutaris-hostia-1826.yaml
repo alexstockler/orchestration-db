@@ -1,0 +1,16 @@
+id: cherubini-o-salutaris-hostia-1826
+work:
+  composer: Cherubini, Luigi
+  title: O salutaris hostia 1826
+  ids:
+    imslp: O salutaris hostia in B-flat major (Cherubini, Luigi)
+  year: 1826
+formula: ''
+instrumentation:
+  additional_raw: male voices (TTBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_salutaris_hostia_in_B-flat_major_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: male voices (TTBB)'
+duration_minutes: 4

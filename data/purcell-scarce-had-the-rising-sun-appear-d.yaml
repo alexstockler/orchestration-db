@@ -1,0 +1,17 @@
+id: purcell-scarce-had-the-rising-sun-appear-d
+work:
+  composer: Purcell, Henry
+  title: Scarce Had the Rising Sun Appear'd
+  ids:
+    imslp: Scarce Had the Rising Sun Appear'd, Z.469 (Purcell, Henry)
+  year: 1679
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scarce_Had_the_Rising_Sun_Appear%27d%2C_Z.469_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

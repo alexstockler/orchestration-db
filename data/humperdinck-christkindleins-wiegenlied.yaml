@@ -1,0 +1,18 @@
+id: humperdinck-christkindleins-wiegenlied
+work:
+  composer: Humperdinck, Engelbert
+  title: Christkindleins Wiegenlied
+  ids:
+    imslp: Christkindleins Wiegenlied (Humperdinck, Engelbert)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Christkindleins_Wiegenlied_%28Humperdinck%2C_Engelbert%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (high), piano'
+duration_minutes: 5

@@ -1,0 +1,17 @@
+id: purcell-she-loves-and-she-confesses-too
+work:
+  composer: Purcell, Henry
+  title: She Loves and She Confesses Too
+  ids:
+    imslp: She Loves and She Confesses Too, Z.413 (Purcell, Henry)
+  year: 1683
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/She_Loves_and_She_Confesses_Too%2C_Z.413_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

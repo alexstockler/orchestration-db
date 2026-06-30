@@ -1,0 +1,17 @@
+id: donizetti-pastorale
+work:
+  composer: Donizetti, Gaetano
+  title: Pastorale
+  ids:
+    imslp: Pastorale, A 531 (Donizetti, Gaetano)
+  year: 1813
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pastorale%2C_A_531_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 3

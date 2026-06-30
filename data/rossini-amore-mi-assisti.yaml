@@ -1,0 +1,19 @@
+id: rossini-amore-mi-assisti
+work:
+  composer: Rossini, Gioachino
+  title: Amore mi assisti
+  ids:
+    imslp: Amore mi assisti (Rossini, Gioachino)
+  year: 1814
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  - tenor
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Amore_mi_assisti_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, piano'

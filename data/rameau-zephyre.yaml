@@ -1,0 +1,15 @@
+id: rameau-zephyre
+work:
+  composer: Rameau, Jean-Philippe
+  title: Zéphyre
+  ids:
+    imslp: Zéphire, RCT 61 (Rameau, Jean-Philippe)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Z%C3%A9phire%2C_RCT_61_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

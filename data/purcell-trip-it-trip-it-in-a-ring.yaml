@@ -1,0 +1,17 @@
+id: purcell-trip-it-trip-it-in-a-ring
+work:
+  composer: Purcell, Henry
+  title: Trip It, Trip It in a Ring
+  ids:
+    imslp: Trip It, Trip It in a Ring, Z.515 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trip_It%2C_Trip_It_in_a_Ring%2C_Z.515_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, bass, continuo'

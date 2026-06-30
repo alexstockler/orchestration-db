@@ -1,0 +1,16 @@
+id: chabrier-bourree-fantasque
+work:
+  composer: Chabrier, Emmanuel
+  title: Bourrée Fantasque
+  ids:
+    imslp: Bourrée fantasque (Chabrier, Emmanuel)
+  year: 1891
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bourr%C3%A9e_fantasque_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

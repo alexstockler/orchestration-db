@@ -1,0 +1,16 @@
+id: rameau-laboravi-clamans
+work:
+  composer: Rameau, Jean-Philippe
+  title: Laboravi clamans
+  ids:
+    imslp: Laboravi, RCT 16 (Rameau, Jean-Philippe)
+formula: ''
+instrumentation:
+  soloists:
+  - 5 voices
+  additional_raw: Continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Laboravi%2C_RCT_16_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: 5 voices (SSATB), Continuo'

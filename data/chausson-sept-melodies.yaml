@@ -1,0 +1,18 @@
+id: chausson-sept-melodies
+work:
+  composer: Chausson, Ernest
+  title: Sept Mélodies
+  ids:
+    imslp: 7 Mélodies, Op.2 (Chausson, Ernest)
+  year: 1879
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_M%C3%A9lodies%2C_Op.2_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

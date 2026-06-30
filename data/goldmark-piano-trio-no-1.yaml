@@ -1,0 +1,19 @@
+id: goldmark-piano-trio-no-1
+work:
+  composer: Goldmark, Carl
+  title: Piano Trio No.1
+  ids:
+    imslp: Piano Trio No.1, Op.4 (Goldmark, Carl)
+  year: 1858
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio_No.1%2C_Op.4_%28Goldmark%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'

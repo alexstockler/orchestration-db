@@ -1,0 +1,17 @@
+id: rossini-duetto-buffo-di-due-gatti
+work:
+  composer: Rossini, Gioachino
+  title: Duetto buffo di due gatti
+  ids:
+    imslp: Duetto buffo di due gatti (Rossini, Gioachino)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Duetto_buffo_di_due_gatti_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, piano'

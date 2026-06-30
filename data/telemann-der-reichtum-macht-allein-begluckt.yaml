@@ -1,0 +1,15 @@
+id: telemann-der-reichtum-macht-allein-begluckt
+work:
+  composer: Telemann, Georg Philipp
+  title: Der Reichtum macht allein beglückt
+  ids:
+    imslp: Der Reichtum macht allein beglückt, TWV 1:313 (Telemann, Georg Philipp)
+formula: 0100 0000
+instrumentation:
+  oboe: 1
+  additional_raw: high voice | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Reichtum_macht_allein_begl%C3%BCckt%2C_TWV_1%3A313_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: high voice, oboe, continuo'

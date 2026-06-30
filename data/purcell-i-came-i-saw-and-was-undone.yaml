@@ -1,0 +1,16 @@
+id: purcell-i-came-i-saw-and-was-undone
+work:
+  composer: Purcell, Henry
+  title: I Came, I Saw, and Was Undone
+  ids:
+    imslp: I Came, I Saw, and Was Undone, Z.375 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/I_Came%2C_I_Saw%2C_and_Was_Undone%2C_Z.375_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

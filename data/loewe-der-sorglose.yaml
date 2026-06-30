@@ -1,0 +1,18 @@
+id: loewe-der-sorglose
+work:
+  composer: Loewe, Carl
+  title: Der Sorglose
+  ids:
+    imslp: Der Sorglose (Loewe, Carl)
+  year: 1899
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Sorglose_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

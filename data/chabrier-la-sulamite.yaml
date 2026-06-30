@@ -1,0 +1,22 @@
+id: chabrier-la-sulamite
+work:
+  composer: Chabrier, Emmanuel
+  title: La sulamite
+  ids:
+    imslp: La sulamite (Chabrier, Emmanuel)
+  year: 1884
+formula: ''
+instrumentation:
+  soloists:
+  - mezzo-soprano
+  additional_raw: Female Chorus and Orchestra (piccolo, 2 flutes, oboe, english horn,
+    2 clarinets, bass clarinet, 4 bassoons, 4 horns, 2 cornets, 2 trumpets, 3 trombones,
+    tuba, timpani, drum, triangle, cymbals, bass drum, crotales, 2 harps and strings)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_sulamite_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: Mezzo-soprano, Female Chorus and Orchestra (piccolo, 2
+    flutes, oboe, english horn, 2 clarinets, bass clarinet, 4 bassoons, 4 horns, 2
+    cornets, 2 trumpets, 3 trombones, tuba, timpani, drum, triangle, cymbals, bass
+    drum, crotales, 2 harps and strings)'

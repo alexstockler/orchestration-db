@@ -1,0 +1,14 @@
+id: dukas-polyeucte
+work:
+  composer: Dukas, Paul
+  title: Polyeucte
+  ids:
+    imslp: Polyeucte (Dukas, Paul)
+  year: 1891
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Polyeucte_%28Dukas%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

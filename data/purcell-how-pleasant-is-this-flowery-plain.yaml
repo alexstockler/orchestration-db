@@ -1,0 +1,18 @@
+id: purcell-how-pleasant-is-this-flowery-plain
+work:
+  composer: Purcell, Henry
+  title: How Pleasant Is this Flowery Plain
+  ids:
+    imslp: How Pleasant Is this Flowery Plain, Z.543 (Purcell, Henry)
+  year: 1682
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/How_Pleasant_Is_this_Flowery_Plain%2C_Z.543_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, 2 recorders, continuo'

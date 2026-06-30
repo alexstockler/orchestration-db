@@ -1,0 +1,19 @@
+id: spohr-string-quartet-no-35
+work:
+  composer: Spohr, Louis
+  title: String Quartet No.35
+  ids:
+    imslp: String Quartet No.35, Op.155 (Spohr, Louis)
+  year: 1856
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.35%2C_Op.155_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 22

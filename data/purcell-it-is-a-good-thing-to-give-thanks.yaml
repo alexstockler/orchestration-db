@@ -1,0 +1,23 @@
+id: purcell-it-is-a-good-thing-to-give-thanks
+work:
+  composer: Purcell, Henry
+  title: It Is a Good Thing to Give Thanks
+  ids:
+    imslp: It Is a Good Thing to Give Thanks, Z.18 (Purcell, Henry)
+  year: 1682
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+  - tenor
+  - bass
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/It_Is_a_Good_Thing_to_Give_Thanks%2C_Z.18_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: alto, tenor, bass; mixed chorus (SATB), Orchestra:
+    strings, continuo'
+duration_minutes: 12

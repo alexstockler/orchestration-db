@@ -1,0 +1,22 @@
+id: loewe-das-suhnopfer-des-neuen-bundes
+work:
+  composer: Loewe, Carl
+  title: Das Sühnopfer des neuen Bundes
+  ids:
+    imslp: Das Sühnopfer des neuen Bundes (Loewe, Carl)
+formula: tmp str
+instrumentation:
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - soprano
+  - tenor
+  - bass
+  - mixed chorus (SSATTBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_S%C3%BChnopfer_des_neuen_Bundes_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, tenor, bass + mixed chorus (SSATTBB),
+    Orchestra: timpani, strings'

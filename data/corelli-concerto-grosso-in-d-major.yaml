@@ -1,0 +1,20 @@
+id: corelli-concerto-grosso-in-d-major
+work:
+  composer: Corelli, Arcangelo
+  title: Concerto grosso in D major
+  ids:
+    imslp: Concerto grosso in D major, Op.6 No.1 (Corelli, Arcangelo)
+  year: 1712
+formula: str
+instrumentation:
+  strings: str
+  solo_strings:
+    violin: 2
+    cello: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_grosso_in_D_major%2C_Op.6_No.1_%28Corelli%2C_Arcangelo%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, cello, strings, continuo'
+duration_minutes: 12

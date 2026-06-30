@@ -1,0 +1,18 @@
+id: loewe-christie-huld-gegen-petrus
+work:
+  composer: Loewe, Carl
+  title: Christie Huld gegen Petrus
+  ids:
+    imslp: Christie Huld gegen Petrus (Loewe, Carl)
+  year: 1899
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Christie_Huld_gegen_Petrus_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

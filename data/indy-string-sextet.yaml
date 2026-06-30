@@ -1,0 +1,18 @@
+id: indy-string-sextet
+work:
+  composer: Indy, Vincent d'
+  title: String Sextet
+  ids:
+    imslp: String Sextet, Op.92 (Indy, Vincent d')
+  year: 1927
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 2
+    cello: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Sextet%2C_Op.92_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, 2 violas, 2 cellos'

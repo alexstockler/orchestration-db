@@ -1,0 +1,18 @@
+id: chausson-la-caravane
+work:
+  composer: Chausson, Ernest
+  title: La caravane
+  ids:
+    imslp: La caravane, Op.14 (Chausson, Ernest)
+  year: 1887
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_caravane%2C_Op.14_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, piano'

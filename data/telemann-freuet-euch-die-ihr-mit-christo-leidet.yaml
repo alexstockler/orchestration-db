@@ -1,0 +1,23 @@
+id: telemann-freuet-euch-die-ihr-mit-christo-leidet
+work:
+  composer: Telemann, Georg Philipp
+  title: Freuet euch, die ihr mit Christo leidet
+  ids:
+    imslp: Freuet euch, die ihr mit Christo leidet, TWV 1:557 (Telemann, Georg Philipp)
+  year: 1744
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  chorus_raw: mixed chorus
+  solo_strings:
+    violin: 2
+  additional_raw: bass (optional) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Freuet_euch%2C_die_ihr_mit_Christo_leidet%2C_TWV_1%3A557_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, bass (optional), mixed chorus, 2 violins,
+    continuo'
+duration_minutes: 15

@@ -1,0 +1,16 @@
+id: donizetti-se-tu-non-vedi-tutto-il-mio-cor
+work:
+  composer: Donizetti, Gaetano
+  title: Se tu non vedi tutto il mio cor
+  ids:
+    imslp: Se tu non vedi tutto il mio cor, In.562 (Donizetti, Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 1 or 2 sopranos
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Se_tu_non_vedi_tutto_il_mio_cor%2C_In.562_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: 1 or 2 sopranos, piano'

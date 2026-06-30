@@ -1,0 +1,15 @@
+id: cherubini-l-alliance-de-la-musique-a-la-maconnerie
+work:
+  composer: Cherubini, Luigi
+  title: L'alliance de la musique à la maçonnerie
+  ids:
+    imslp: L'alliance de la musique à la maçonnerie (Cherubini, Luigi)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27alliance_de_la_musique_%C3%A0_la_ma%C3%A7onnerie_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

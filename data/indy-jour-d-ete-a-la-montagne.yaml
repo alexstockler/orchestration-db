@@ -1,0 +1,46 @@
+id: indy-jour-d-ete-a-la-montagne
+work:
+  composer: Indy, Vincent d'
+  title: Jour d'été à la montagne
+  ids:
+    imslp: Jour d'été à la montagne, Op.61 (Indy, Vincent d')
+  year: 1905
+formula: 3[pic.2.3] 3[1.2.Eh] 3[1.2.bcl] 3 4 3 4[1.2.3.cbtbn] 0 tmp pf 2hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 3
+  horn: 4
+  trumpet: 3
+  trombone:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabass_trombone
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drum
+    - bass drum
+    - cymbals
+  keyboards:
+  - instrument: piano
+  harp: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jour_d%27%C3%A9t%C3%A9_%C3%A0_la_montagne%2C_Op.61_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, English horn, 2 clarinets,
+    bass clarinet, 3 bassoons, 4 horns, 3 trumpets, 3 trombones, contrabass trombone,
+    timpani, snare drum, bass drum, cymbals, 2 harps, piano, strings'

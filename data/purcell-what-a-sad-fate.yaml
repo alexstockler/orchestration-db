@@ -1,0 +1,16 @@
+id: purcell-what-a-sad-fate
+work:
+  composer: Purcell, Henry
+  title: What a Sad Fate
+  ids:
+    imslp: What a Sad Fate, Z.428 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/What_a_Sad_Fate%2C_Z.428_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

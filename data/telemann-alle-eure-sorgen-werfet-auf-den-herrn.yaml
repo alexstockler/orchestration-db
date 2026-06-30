@@ -1,0 +1,23 @@
+id: telemann-alle-eure-sorgen-werfet-auf-den-herrn
+work:
+  composer: Telemann, Georg Philipp
+  title: Alle eure Sorgen werfet auf den Herrn
+  ids:
+    imslp: Alle eure Sorgen werfet auf den Herrn, TWV 1:71 (Telemann, Georg Philipp)
+  year: 1711
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+  - tenor
+  - bass solos
+  chorus_raw: mixed chorus
+  additional_raw: soprano (optional) | 2 oboes (optional) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alle_eure_Sorgen_werfet_auf_den_Herrn%2C_TWV_1%3A71_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (optional), alto, tenor, bass solos; mixed chorus
+    (SATB), 2 oboes (optional), strings, continuo'
+duration_minutes: 15

@@ -1,0 +1,17 @@
+id: donizetti-godi-diletta-ingrata
+work:
+  composer: Donizetti, Gaetano
+  title: Godi diletta ingrata
+  ids:
+    imslp: Godi diletta ingrata, A 408 (Donizetti, Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Godi_diletta_ingrata%2C_A_408_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices (SS), piano'

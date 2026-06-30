@@ -1,0 +1,18 @@
+id: telemann-ein-aussatz-ist-die-sunde
+work:
+  composer: Telemann, Georg Philipp
+  title: Ein Aussatz ist die Sünde
+  ids:
+    imslp: Ein Aussatz ist die Sünde, TWV 1:417 (Telemann, Georg Philipp)
+  year: 1714
+formula: 0100 0000 str
+instrumentation:
+  oboe: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ein_Aussatz_ist_die_S%C3%BCnde%2C_TWV_1%3A417_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, strings (2 violas), continuo'
+duration_minutes: 13

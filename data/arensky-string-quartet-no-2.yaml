@@ -1,0 +1,19 @@
+id: arensky-string-quartet-no-2
+work:
+  composer: Arensky, Anton
+  title: String Quartet No.2
+  ids:
+    imslp: String Quartet No.2, Op.35 (Arensky, Anton)
+  year: 1894
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+    viola: 1
+    cello: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.2%2C_Op.35_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola, 2 cellos'
+duration_minutes: 30

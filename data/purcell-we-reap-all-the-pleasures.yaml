@@ -1,0 +1,18 @@
+id: purcell-we-reap-all-the-pleasures
+work:
+  composer: Purcell, Henry
+  title: We Reap All the Pleasures
+  ids:
+    imslp: We Reap All the Pleasures, Z.547 (Purcell, Henry)
+  year: 1682
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/We_Reap_All_the_Pleasures%2C_Z.547_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices (STB), 2 recorders, continuo'
+duration_minutes: 4

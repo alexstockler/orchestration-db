@@ -1,0 +1,16 @@
+id: donizetti-clarinet-study-no-1
+work:
+  composer: Donizetti, Gaetano
+  title: Clarinet Study No.1
+  ids:
+    imslp: Clarinet Study in B-flat major, A 516 (Donizetti, Gaetano)
+  year: 1821
+formula: 0010 0000
+instrumentation:
+  clarinet: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Clarinet_Study_in_B-flat_major%2C_A_516_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet'
+duration_minutes: 5

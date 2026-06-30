@@ -1,0 +1,18 @@
+id: goldmark-beschworung
+work:
+  composer: Goldmark, Carl
+  title: Beschwörung
+  ids:
+    imslp: Beschwörung, Op.20 (Goldmark, Carl)
+  year: 1875
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Beschw%C3%B6rung%2C_Op.20_%28Goldmark%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

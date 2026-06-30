@@ -1,0 +1,16 @@
+id: rossini-quoniam
+work:
+  composer: Rossini, Gioachino
+  title: Quoniam
+  ids:
+    imslp: Quoniam (Rossini, Gioachino)
+  year: 1851
+formula: ''
+instrumentation:
+  soloists:
+  - bass solo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Quoniam_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: Bass solo, orchestra'

@@ -1,0 +1,20 @@
+id: telemann-es-sei-denn-dass-jemand-von-neuem-geboren-werde
+work:
+  composer: Telemann, Georg Philipp
+  title: Es sei denn, dass jemand von neuem geboren werde
+  ids:
+    imslp: Es sei denn, dass jemand von neuem geboren werde, TWV 1:524 (Telemann,
+      Georg Philipp)
+  year: 1724
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano solo
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_sei_denn%2C_dass_jemand_von_neuem_geboren_werde%2C_TWV_1%3A524_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano solo, mixed chorus (SATB), strings, continuo'

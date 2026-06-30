@@ -1,0 +1,17 @@
+id: chausson-3-motets
+work:
+  composer: Chausson, Ernest
+  title: 3 Motets
+  ids:
+    imslp: 3 Motets, Op.16 (Chausson, Ernest)
+  year: 1888
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  additional_raw: 1-2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Motets%2C_Op.16_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: 1-2 voices, organ'

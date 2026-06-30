@@ -1,0 +1,18 @@
+id: donizetti-gianni-di-calais
+work:
+  composer: Donizetti, Gaetano
+  title: Gianni di Calais
+  ids:
+    imslp: Gianni di Calais (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  additional_raw: Metilde (soprano) | Gianni da Calais (tenor) | Rustano (baritone)
+    | King (bass) | Arrigo (contralto) | Rogiero (tenor) | Guido (bass) | Corrado
+    (tenor) | Official (tenor) | Adelina (soprano) Mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gianni_di_Calais_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices :Metilde (soprano), Gianni da Calais (tenor), Rustano
+    (baritone), King (bass), Arrigo (contralto),, Rogiero (tenor), Guido (bass), Corrado
+    (tenor), Official (tenor), Adelina (soprano) Mixed chorus (SATB), Orchestra'

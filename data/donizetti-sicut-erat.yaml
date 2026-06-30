@@ -1,0 +1,17 @@
+id: donizetti-sicut-erat
+work:
+  composer: Donizetti, Gaetano
+  title: Sicut erat
+  ids:
+    imslp: Sicut erat in C major, IGD 132 (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sicut_erat_in_C_major%2C_IGD_132_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, bass, orchestra'

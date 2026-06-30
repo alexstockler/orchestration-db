@@ -1,0 +1,18 @@
+id: dukas-fanfare-pour-preceder-la-peri
+work:
+  composer: Dukas, Paul
+  title: Fanfare pour précéder La Péri
+  ids:
+    imslp: Fanfare pour précéder La Péri (Dukas, Paul)
+  year: 1912
+formula: 0000 4331
+instrumentation:
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fanfare_pour_pr%C3%A9c%C3%A9der_La_P%C3%A9ri_%28Dukas%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 horns, 3 trumpets, 3 trombones, tuba'

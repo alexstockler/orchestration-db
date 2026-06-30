@@ -1,0 +1,19 @@
+id: telemann-betrubter-lohn-der-mietaten
+work:
+  composer: Telemann, Georg Philipp
+  title: Betrübter Lohn der Mißetäten
+  ids:
+    imslp: Betrübter Lohn der Missetaten, TWV 1:125a (Telemann, Georg Philipp)
+  year: 1731
+formula: 0200 0000
+instrumentation:
+  oboe: 2
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Betr%C3%BCbter_Lohn_der_Missetaten%2C_TWV_1%3A125a_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), 2 oboes, continuo'
+duration_minutes: 10

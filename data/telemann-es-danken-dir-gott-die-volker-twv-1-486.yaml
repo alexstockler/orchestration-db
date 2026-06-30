@@ -1,0 +1,25 @@
+id: telemann-es-danken-dir-gott-die-volker-twv-1-486
+work:
+  composer: Telemann, Georg Philipp
+  title: Es danken dir, Gott, die Völker, TWV 1:486
+  ids:
+    imslp: Es danken dir, Gott, die Völker, TWV 1:486 (Telemann, Georg Philipp)
+  year: 1727
+formula: 0100 0000 str
+instrumentation:
+  oboe: 1
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_danken_dir%2C_Gott%2C_die_V%C3%B6lker%2C_TWV_1%3A486_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, mixed chorus (SATB), oboe,
+    strings, continuo'
+duration_minutes: 11

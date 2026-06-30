@@ -1,0 +1,18 @@
+id: spohr-der-alchymist
+work:
+  composer: Spohr, Louis
+  title: Der Alchymist
+  ids:
+    imslp: Der Alchymist, WoO 57 (Spohr, Louis)
+  year: 1829
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Alchymist%2C_WoO_57_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'
+duration_minutes: 130

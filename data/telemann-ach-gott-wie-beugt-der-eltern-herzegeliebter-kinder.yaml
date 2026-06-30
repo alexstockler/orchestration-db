@@ -1,0 +1,20 @@
+id: telemann-ach-gott-wie-beugt-der-eltern-herzegeliebter-kinder
+work:
+  composer: Telemann, Georg Philipp
+  title: Ach Gott! Wie beugt der Eltern herzegeliebter Kinder
+  ids:
+    imslp: Ach Gott! Wie beugt der Eltern Herze geliebter Kinder, TWV 1:15a (Telemann,
+      Georg Philipp)
+  year: 1731
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  solo_strings:
+    violin: 1
+  additional_raw: voice (soprano or tenor) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach_Gott%21_Wie_beugt_der_Eltern_Herze_geliebter_Kinder%2C_TWV_1%3A15a_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (soprano or tenor), flute, violin, continuo'
+duration_minutes: 11

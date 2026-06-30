@@ -1,0 +1,18 @@
+id: donizetti-questo-e-il-suolo
+work:
+  composer: Donizetti, Gaetano
+  title: Questo è il suolo
+  ids:
+    imslp: Questo è il suolo, In.550 (Donizetti, Gaetano)
+  year: 1822
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - sopranos
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Questo_%C3%A8_il_suolo%2C_In.550_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, piano'

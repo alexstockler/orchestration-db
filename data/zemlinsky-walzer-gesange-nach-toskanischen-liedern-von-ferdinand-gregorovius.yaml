@@ -1,0 +1,18 @@
+id: zemlinsky-walzer-gesange-nach-toskanischen-liedern-von-ferdinand-gregorovius
+work:
+  composer: Zemlinsky, Alexander von
+  title: Walzer-Gesänge nach toskanischen Liedern von Ferdinand Gregorovius
+  ids:
+    imslp: Walzer-Gesänge, Op.6 (Zemlinsky, Alexander von)
+  year: 1898
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Walzer-Ges%C3%A4nge%2C_Op.6_%28Zemlinsky%2C_Alexander_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

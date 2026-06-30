@@ -1,0 +1,17 @@
+id: purcell-a-thousand-sev-ral-ways-i-tried
+work:
+  composer: Purcell, Henry
+  title: A Thousand Sev'ral Ways I Tried
+  ids:
+    imslp: A Thousand Sev'ral Ways I Tried, Z.359 (Purcell, Henry)
+  year: 1684
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_Thousand_Sev%27ral_Ways_I_Tried%2C_Z.359_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

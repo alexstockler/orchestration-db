@@ -1,0 +1,16 @@
+id: donizetti-sacro-e-il-dolore
+work:
+  composer: Donizetti, Gaetano
+  title: Sacro è il dolore
+  ids:
+    imslp: Sacro è il dolore, In.291 (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sacro_%C3%A8_il_dolore%2C_In.291_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

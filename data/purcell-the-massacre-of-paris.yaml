@@ -1,0 +1,19 @@
+id: purcell-the-massacre-of-paris
+work:
+  composer: Purcell, Henry
+  title: The Massacre of Paris
+  ids:
+    imslp: The Massacre of Paris, Z.604 (Purcell, Henry)
+  year: 1693
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Massacre_of_Paris%2C_Z.604_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, bass, continuo'
+duration_minutes: 8

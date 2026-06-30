@@ -1,0 +1,18 @@
+id: rossini-la-partenza
+work:
+  composer: Rossini, Gioachino
+  title: La partenza
+  ids:
+    imslp: La partenza (Rossini, Gioachino)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_partenza_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 2

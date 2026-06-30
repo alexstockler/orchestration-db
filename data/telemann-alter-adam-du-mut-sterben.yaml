@@ -1,0 +1,21 @@
+id: telemann-alter-adam-du-mut-sterben
+work:
+  composer: Telemann, Georg Philipp
+  title: Alter Adam, du mußt sterben
+  ids:
+    imslp: Alter Adam, du mußt sterben, TWV 1:90a (Telemann, Georg Philipp)
+  year: 1731
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  solo_strings:
+    violin: 1
+    viola: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alter_Adam%2C_du_mu%C3%9Ft_sterben%2C_TWV_1%3A90a_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, violin, viola, continuo'
+duration_minutes: 12

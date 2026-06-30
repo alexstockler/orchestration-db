@@ -1,0 +1,17 @@
+id: spohr-sonata-no-5
+work:
+  composer: Spohr, Louis
+  title: Sonata No.5
+  ids:
+    imslp: Violin Sonata No.5, Op.114 (Spohr, Louis)
+  year: 1841
+formula: hp
+instrumentation:
+  harp: 1
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_No.5%2C_Op.114_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: violin (or cello), harp (or piano)'

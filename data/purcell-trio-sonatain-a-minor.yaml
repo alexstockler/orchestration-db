@@ -1,0 +1,17 @@
+id: purcell-trio-sonatain-a-minor
+work:
+  composer: Purcell, Henry
+  title: Trio Sonatain A minor
+  ids:
+    imslp: Trio Sonata in A minor, Z.794 (Purcell, Henry)
+  year: 1680
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: bass viol | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_A_minor%2C_Z.794_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, bass viol, continuo'

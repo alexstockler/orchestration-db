@@ -1,0 +1,19 @@
+id: telemann-der-stein-den-die-bauleute-verworfen-haben
+work:
+  composer: Telemann, Georg Philipp
+  title: Der Stein, den die Bauleute verworfen haben
+  ids:
+    imslp: Der Stein, den die Bauleute verworfen haben, TWV 1:319 (Telemann, Georg
+      Philipp)
+  year: 1726
+formula: 0100 0000 str
+instrumentation:
+  oboe: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Stein%2C_den_die_Bauleute_verworfen_haben%2C_TWV_1%3A319_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: oboe, strings, continuo'
+duration_minutes: 11

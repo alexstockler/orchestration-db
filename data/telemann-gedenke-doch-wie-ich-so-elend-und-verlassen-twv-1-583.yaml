@@ -1,0 +1,22 @@
+id: telemann-gedenke-doch-wie-ich-so-elend-und-verlassen-twv-1-583
+work:
+  composer: Telemann, Georg Philipp
+  title: Gedenke doch, wie ich so elend und verlassen, TWV 1:583
+  ids:
+    imslp: Gedenke doch, wie ich so elend und verlassen, TWV 1:583 (Telemann, Georg
+      Philipp)
+  year: 1744
+formula: ''
+instrumentation:
+  soloists:
+  - 2 voices
+  solo_strings:
+    violin: 2
+  additional_raw: bass (optional) | viola (optional) | continuo (see below, Comments)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gedenke_doch%2C_wie_ich_so_elend_und_verlassen%2C_TWV_1%3A583_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, bass (optional), 2 violins, viola (optional),
+    continuo (see below, Comments)'
+duration_minutes: 20

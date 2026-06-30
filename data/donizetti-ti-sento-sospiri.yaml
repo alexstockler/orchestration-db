@@ -1,0 +1,18 @@
+id: donizetti-ti-sento-sospiri
+work:
+  composer: Donizetti, Gaetano
+  title: Ti sento, sospiri
+  ids:
+    imslp: Ti sento, sospiri, A 387 (Donizetti, Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ti_sento%2C_sospiri%2C_A_387_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 3

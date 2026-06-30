@@ -1,0 +1,16 @@
+id: rameau-suite-in-g-major
+work:
+  composer: Rameau, Jean-Philippe
+  title: Suite in G major
+  ids:
+    imslp: Suite in G major, RCT 6 (Rameau, Jean-Philippe)
+  year: 1727
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_in_G_major%2C_RCT_6_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

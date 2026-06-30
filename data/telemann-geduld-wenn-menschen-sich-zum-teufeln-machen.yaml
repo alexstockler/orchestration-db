@@ -1,0 +1,26 @@
+id: telemann-geduld-wenn-menschen-sich-zum-teufeln-machen
+work:
+  composer: Telemann, Georg Philipp
+  title: Geduld! Wenn Menschen sich zum Teufeln machen
+  ids:
+    imslp: Geduld! Wenn Menschen sich zum Teufeln machen, TWV 1:589 (Telemann, Georg
+      Philipp)
+  year: 1711
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Geduld%21_Wenn_Menschen_sich_zum_Teufeln_machen%2C_TWV_1%3A589_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, alto, tenor, bass; mixed chorus (SATB),
+    Orchestra: 2 oboes, strings, continuo'
+duration_minutes: 15

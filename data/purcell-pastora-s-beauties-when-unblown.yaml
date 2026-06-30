@@ -1,0 +1,17 @@
+id: purcell-pastora-s-beauties-when-unblown
+work:
+  composer: Purcell, Henry
+  title: Pastora's Beauties when Unblown
+  ids:
+    imslp: Pastora's Beauties when Unblown, Z.407 (Purcell, Henry)
+  year: 1681
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pastora%27s_Beauties_when_Unblown%2C_Z.407_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

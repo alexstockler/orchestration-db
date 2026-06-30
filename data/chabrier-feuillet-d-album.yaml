@@ -1,0 +1,16 @@
+id: chabrier-feuillet-d-album
+work:
+  composer: Chabrier, Emmanuel
+  title: Feuillet d'album
+  ids:
+    imslp: Feuillet d'album (Chabrier, Emmanuel)
+  year: 1889
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Feuillet_d%27album_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

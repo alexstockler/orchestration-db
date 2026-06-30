@@ -1,0 +1,17 @@
+id: purcell-through-mournful-shades-and-solitary-groves
+work:
+  composer: Purcell, Henry
+  title: Through Mournful Shades and Solitary Groves
+  ids:
+    imslp: Through Mournful Shades and Solitary Groves, Z.424 (Purcell, Henry)
+  year: 1684
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Through_Mournful_Shades_and_Solitary_Groves%2C_Z.424_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

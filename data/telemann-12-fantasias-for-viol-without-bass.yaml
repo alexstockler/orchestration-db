@@ -1,0 +1,15 @@
+id: telemann-12-fantasias-for-viol-without-bass
+work:
+  composer: Telemann, Georg Philipp
+  title: 12 Fantasias for Viol without Bass
+  ids:
+    imslp: 12 Fantasias for Viol without Bass, TWV 40:26-37 (Telemann, Georg Philipp)
+  year: 1733
+formula: ''
+instrumentation:
+  additional_raw: viol
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Fantasias_for_Viol_without_Bass%2C_TWV_40%3A26-37_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: viol'

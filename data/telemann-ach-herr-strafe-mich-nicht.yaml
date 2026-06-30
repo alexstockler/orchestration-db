@@ -1,0 +1,20 @@
+id: telemann-ach-herr-strafe-mich-nicht
+work:
+  composer: Telemann, Georg Philipp
+  title: Ach Herr strafe mich nicht
+  ids:
+    imslp: Ach Herr, strafe mich nicht, TWV 7:1 (Telemann, Georg Philipp)
+  year: 1720
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach_Herr%2C_strafe_mich_nicht%2C_TWV_7%3A1_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, 2 violins, continuo'
+duration_minutes: 20

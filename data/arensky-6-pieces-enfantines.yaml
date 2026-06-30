@@ -1,0 +1,16 @@
+id: arensky-6-pieces-enfantines
+work:
+  composer: Arensky, Anton
+  title: 6 Pièces enfantines
+  ids:
+    imslp: 6 Pièces enfantines, Op.34 (Arensky, Anton)
+  year: 1894
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Pi%C3%A8ces_enfantines%2C_Op.34_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4 hands'

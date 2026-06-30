@@ -1,0 +1,21 @@
+id: donizetti-l-assedio-di-calais
+work:
+  composer: Donizetti, Gaetano
+  title: L'assedio di Calais
+  ids:
+    imslp: L'assedio di Calais (Donizetti, Gaetano)
+  year: 1836
+formula: ''
+instrumentation:
+  additional_raw: Eustachio de Saint-Pierre (baritone) | Aurelio (mezzo) | Eleonora
+    (soprano) | Giovanni d'Aire (tenor) | Giacomo de Wisants (tenor) | Pietro de Wisants
+    (baritone) | Armando (bass) | Eduardo III (baritone) | Isabella (soprano) | Edmundo
+    (tenor) | English spy (bass) Chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27assedio_di_Calais_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices :Eustachio de Saint-Pierre (baritone), Aurelio (mezzo),
+    Eleonora (soprano),, Giovanni d''Aire (tenor), Giacomo de Wisants (tenor), Pietro
+    de Wisants (baritone),, Armando (bass), Eduardo III (baritone), Isabella (soprano),
+    Edmundo (tenor), English spy (bass) Chorus, Orchestra'

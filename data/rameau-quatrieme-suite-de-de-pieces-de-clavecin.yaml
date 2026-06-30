@@ -1,0 +1,15 @@
+id: rameau-quatrieme-suite-de-de-pieces-de-clavecin
+work:
+  composer: Rameau, Jean-Philippe
+  title: Quatrième suite de de pièces de clavecin
+  ids:
+    imslp: Suite in A minor, RCT 5 (Rameau, Jean-Philippe)
+  year: 1727
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_in_A_minor%2C_RCT_5_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

@@ -1,0 +1,18 @@
+id: goldmark-string-quintet
+work:
+  composer: Goldmark, Carl
+  title: String Quintet
+  ids:
+    imslp: String Quintet, Op.9 (Goldmark, Carl)
+  year: 1862
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quintet%2C_Op.9_%28Goldmark%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, 2 cellos'

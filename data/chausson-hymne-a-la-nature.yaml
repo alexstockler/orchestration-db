@@ -1,0 +1,15 @@
+id: chausson-hymne-a-la-nature
+work:
+  composer: Chausson, Ernest
+  title: Hymne à la nature
+  ids:
+    imslp: Hymne à la nature (Chausson, Ernest)
+  year: 1881
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymne_%C3%A0_la_nature_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), orchestra'

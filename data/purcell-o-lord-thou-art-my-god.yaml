@@ -1,0 +1,15 @@
+id: purcell-o-lord-thou-art-my-god
+work:
+  composer: Purcell, Henry
+  title: O Lord thou art my God
+  ids:
+    imslp: O Lord, thou art my God, Z.41 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_Lord%2C_thou_art_my_God%2C_Z.41_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices or mixed chorus (ATB)'

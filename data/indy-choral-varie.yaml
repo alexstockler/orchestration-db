@@ -1,0 +1,27 @@
+id: indy-choral-varie
+work:
+  composer: Indy, Vincent d'
+  title: Choral varié
+  ids:
+    imslp: Choral varié, Op.55 (Indy, Vincent d')
+  year: 1903
+formula: 2222 4130 tmp hp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 1
+  trombone: 3
+  percussion:
+    timpani: 1
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Choral_vari%C3%A9%2C_Op.55_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, trumpet,
+    3 trombones, timpani, harp, strings'
+duration_minutes: 12

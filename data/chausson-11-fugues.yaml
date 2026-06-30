@@ -1,0 +1,15 @@
+id: chausson-11-fugues
+work:
+  composer: Chausson, Ernest
+  title: 11 Fugues
+  ids:
+    imslp: 11 Fugues (Chausson, Ernest)
+  year: 1880
+formula: ''
+instrumentation:
+  additional_raw: 4 instruments | keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/11_Fugues_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 instruments; keyboard'

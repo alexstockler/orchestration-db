@@ -1,0 +1,16 @@
+id: purcell-the-fatal-hour-comes-on
+work:
+  composer: Purcell, Henry
+  title: The Fatal Hour Comes On
+  ids:
+    imslp: The Fatal Hour Comes On, Z.421 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Fatal_Hour_Comes_On%2C_Z.421_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

@@ -1,0 +1,19 @@
+id: telemann-ergeu-dich-zur-salbung-der-schmachtenden-seele
+work:
+  composer: Telemann, Georg Philipp
+  title: Ergeuß dich zur Salbung der schmachtenden Seele
+  ids:
+    imslp: Ergeuß dich zur Salbung der schmachtenden Seele, TWV 1:447 (Telemann, Georg
+      Philipp)
+  year: 1725
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+  additional_raw: medium voice | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ergeu%C3%9F_dich_zur_Salbung_der_schmachtenden_Seele%2C_TWV_1%3A447_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: medium voice, violin, continuo'
+duration_minutes: 11

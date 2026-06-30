@@ -1,0 +1,16 @@
+id: goldmark-ein-wintermarchen
+work:
+  composer: Goldmark, Carl
+  title: Ein Wintermärchen
+  ids:
+    imslp: Ein Wintermärchen (Goldmark, Carl)
+  year: 1907
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ein_Winterm%C3%A4rchen_%28Goldmark%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, Chorus, Orchestra'

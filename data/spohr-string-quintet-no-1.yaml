@@ -1,0 +1,19 @@
+id: spohr-string-quintet-no-1
+work:
+  composer: Spohr, Louis
+  title: String Quintet No.1.
+  ids:
+    imslp: String Quintet No.1, Op.33 No.1 (Spohr, Louis)
+  year: 1814
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 2
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quintet_No.1%2C_Op.33_No.1_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, 2 violas, cello'
+duration_minutes: 30

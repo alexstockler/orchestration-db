@@ -1,0 +1,22 @@
+id: arensky-raphael
+work:
+  composer: Arensky, Anton
+  title: Raphael
+  ids:
+    imslp: Raphael, Op.37 (Arensky, Anton)
+  year: 1894
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Solo voices | and orchestra *Raphael Sanzio (Рафаэль Санцио) — mezzo-soprano
+    *Fornarina (Форнарина) — soprano *Cardinal Bibeienne (Кардиналь Бибиена) *Folk
+    Singer (Народный певец) — tenor (offstage) Mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Raphael%2C_Op.37_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo voices, chorus, and orchestra *Raphael Sanzio (Рафаэль
+    Санцио) — mezzo-soprano *Fornarina (Форнарина) — soprano *Cardinal Bibeienne (Кардиналь
+    Бибиена) *Folk Singer (Народный певец) — tenor (offstage) Mixed chorus (SATB),
+    Orchestra'
+duration_minutes: 40

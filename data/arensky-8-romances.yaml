@@ -1,0 +1,16 @@
+id: arensky-8-romances
+work:
+  composer: Arensky, Anton
+  title: 8 Romances
+  ids:
+    imslp: 8 Romances, Op.60 (Arensky, Anton)
+  year: 1902
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Romances%2C_Op.60_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

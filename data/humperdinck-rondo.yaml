@@ -1,0 +1,16 @@
+id: humperdinck-rondo
+work:
+  composer: Humperdinck, Engelbert
+  title: Rondo
+  ids:
+    imslp: Rondo (Humperdinck, Engelbert)
+  year: 1873
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rondo_%28Humperdinck%2C_Engelbert%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

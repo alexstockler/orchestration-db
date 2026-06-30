@@ -1,0 +1,18 @@
+id: spohr-6-salonstucke
+work:
+  composer: Spohr, Louis
+  title: 6 Salonstücke
+  ids:
+    imslp: 6 Salonstücke, Op.135 (Spohr, Louis)
+  year: 1848
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Salonst%C3%BCcke%2C_Op.135_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

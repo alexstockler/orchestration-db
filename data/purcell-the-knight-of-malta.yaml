@@ -1,0 +1,16 @@
+id: purcell-the-knight-of-malta
+work:
+  composer: Purcell, Henry
+  title: The Knight of Malta
+  ids:
+    imslp: The Knight of Malta, Z.599 (Purcell, Henry)
+  year: 1691
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Knight_of_Malta%2C_Z.599_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

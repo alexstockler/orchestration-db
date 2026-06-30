@@ -1,0 +1,13 @@
+id: telemann-concerto
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto
+  ids:
+    imslp: Concerto, TWV 54:F1 (Telemann, Georg Philipp)
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto%2C_TWV_54%3AF1_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

@@ -1,0 +1,18 @@
+id: donizetti-string-quintet
+work:
+  composer: Donizetti, Gaetano
+  title: String Quintet
+  ids:
+    imslp: String Quintet (Donizetti, Gaetano)
+  year: 1971
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 2
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quintet_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, 2 violas, cello'

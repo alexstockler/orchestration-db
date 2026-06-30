@@ -1,0 +1,21 @@
+id: telemann-das-ist-die-freudigkeit
+work:
+  composer: Telemann, Georg Philipp
+  title: Das ist die Freudigkeit
+  ids:
+    imslp: Das ist die Freudigkeit, TWV 1:178 (Telemann, Georg Philipp)
+  year: 1744
+formula: ''
+instrumentation:
+  soloists:
+  - 2 voices
+  solo_strings:
+    violin: 2
+  additional_raw: bass (optional) | viola (optional) | continuo (see below, Comments)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_ist_die_Freudigkeit%2C_TWV_1%3A178_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, bass (optional), 2 violins, viola (optional),
+    continuo (see below, Comments)'
+duration_minutes: 20

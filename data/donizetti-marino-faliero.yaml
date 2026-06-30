@@ -1,0 +1,20 @@
+id: donizetti-marino-faliero
+work:
+  composer: Donizetti, Gaetano
+  title: Marino Faliero
+  ids:
+    imslp: Marino Faliero (Donizetti, Gaetano)
+  year: 1835
+formula: ''
+instrumentation:
+  additional_raw: Marin Faliero (bass) | Israela Bertucci (baritone) | Fernando (tenor)
+    | Steno (bass) | Leoni (tenor) | Elena (soprano) | Irene (soprano) | Vincenzo
+    (tenor) | Beltrame (bass) | Pietro (bass) | Guido (bass) Mixed Chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marino_Faliero_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Marin Faliero (bass), Israela Bertucci (baritone),
+    Fernando (tenor), Steno (bass), Leoni (tenor), Elena (soprano), Irene (soprano),
+    Vincenzo (tenor), Beltrame (bass), Pietro (bass), Guido (bass) Mixed Chorus (SATB),
+    Orchestra'

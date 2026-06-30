@@ -1,0 +1,25 @@
+id: telemann-du-tochter-zion-freue-dich-twv-1-407
+work:
+  composer: Telemann, Georg Philipp
+  title: Du Tochter Zion, freue dich, TWV 1:407
+  ids:
+    imslp: Du Tochter Zion, freue dich, TWV 1:407 (Telemann, Georg Philipp)
+  year: 1748
+formula: 0000 0200 tmp str
+instrumentation:
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Du_Tochter_Zion%2C_freue_dich%2C_TWV_1%3A407_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, alto, tenor, bass, Orchestra: 2 trumpets,
+    timpani, strings, continuo'

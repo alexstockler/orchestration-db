@@ -1,0 +1,18 @@
+id: rossini-canone-scherzoso-a-quattro-soprani-democratici
+work:
+  composer: Rossini, Gioachino
+  title: Canone scherzoso a quattro soprani democratici
+  ids:
+    imslp: Canone scherzoso a quattro soprani democratici (Rossini, Gioachino)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canone_scherzoso_a_quattro_soprani_democratici_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, piano'

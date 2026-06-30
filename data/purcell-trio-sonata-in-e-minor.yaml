@@ -1,0 +1,17 @@
+id: purcell-trio-sonata-in-e-minor
+work:
+  composer: Purcell, Henry
+  title: Trio Sonata in E minor
+  ids:
+    imslp: Trio Sonata in E minor, Z.796 (Purcell, Henry)
+  year: 1680
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: bass viol | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_E_minor%2C_Z.796_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, bass viol, continuo'

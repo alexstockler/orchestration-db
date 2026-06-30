@@ -1,0 +1,17 @@
+id: purcell-tell-me-some-pitying-angel
+work:
+  composer: Purcell, Henry
+  title: Tell me, some pitying angel
+  ids:
+    imslp: Tell me, some pitying angel, Z.196 (Purcell, Henry)
+  year: 1693
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tell_me%2C_some_pitying_angel%2C_Z.196_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

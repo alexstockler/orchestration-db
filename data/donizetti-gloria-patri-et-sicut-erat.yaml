@@ -1,0 +1,19 @@
+id: donizetti-gloria-patri-et-sicut-erat
+work:
+  composer: Donizetti, Gaetano
+  title: Gloria Patri et Sicut erat
+  ids:
+    imslp: Gloria Patri et Sicut erat (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gloria_Patri_et_Sicut_erat_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, bass, mixed chorus (SATB), orchestra'
+duration_minutes: 6

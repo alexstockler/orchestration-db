@@ -1,0 +1,16 @@
+id: purcell-wine-in-a-morning
+work:
+  composer: Purcell, Henry
+  title: Wine in a Morning
+  ids:
+    imslp: Wine in a Morning, Z.289 (Purcell, Henry)
+  year: 1686
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Wine_in_a_Morning%2C_Z.289_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

@@ -1,0 +1,20 @@
+id: boccherini-guitar-quintet-in-c-major-g-453
+work:
+  composer: Boccherini, Luigi
+  title: Guitar Quintet in C major, G.453
+  ids:
+    imslp: Guitar Quintet in C major, G.453 (Boccherini, Luigi)
+  year: 1799
+formula: gtr
+instrumentation:
+  extras:
+  - instrument: guitar
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Guitar_Quintet_in_C_major%2C_G.453_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Guitar, 2 Violins, Viola, Cello'

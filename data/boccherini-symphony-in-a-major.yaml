@@ -1,0 +1,19 @@
+id: boccherini-symphony-in-a-major
+work:
+  composer: Boccherini, Luigi
+  title: Symphony in A major
+  ids:
+    imslp: Symphony in A major, G.511 (Boccherini, Luigi)
+  year: 1782
+formula: 0201 2000 str
+instrumentation:
+  oboe: 2
+  bassoon: 1
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_in_A_major%2C_G.511_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, bassoon, 2 horns, strings'
+duration_minutes: 15

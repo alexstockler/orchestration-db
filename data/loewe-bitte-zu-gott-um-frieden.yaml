@@ -1,0 +1,18 @@
+id: loewe-bitte-zu-gott-um-frieden
+work:
+  composer: Loewe, Carl
+  title: Bitte zu Gott um Frieden
+  ids:
+    imslp: Bitte zu Gott um Frieden (Loewe, Carl)
+  year: 1854
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bitte_zu_Gott_um_Frieden_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, organ'

@@ -1,0 +1,21 @@
+id: spohr-fantasia-and-variations-on-a-theme-by-danzi
+work:
+  composer: Spohr, Louis
+  title: Fantasia and Variations on a Theme by Danzi
+  ids:
+    imslp: Fantaisie and Variations on a Theme of Danzi, Op.81 (Spohr, Louis)
+  year: 1830
+formula: 0020 0000 pf
+instrumentation:
+  clarinet: 2
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantaisie_and_Variations_on_a_Theme_of_Danzi%2C_Op.81_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, 2 violins, viola, cello, clarinet, piano'

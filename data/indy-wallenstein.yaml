@@ -1,0 +1,43 @@
+id: indy-wallenstein
+work:
+  composer: Indy, Vincent d'
+  title: Wallenstein
+  ids:
+    imslp: Wallenstein, Op.12 (Indy, Vincent d')
+  year: 1870
+formula: 3[1.2.3/pic] 2 3[1.2.bcl] 4 4 4[cnt.cnt.3.4] 3 1 tmp 8hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 4
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - bass drum
+  harp: 8
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Wallenstein%2C_Op.12_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 2 oboes, 2 clarinets, bass
+    clarinet, 4 bassoons, 4 horns, 2 cornets, 2 trumpets, 3 trombones, tuba, timpani,
+    triangle, cymbals, bass drum, 8 (2) harps*, strings'

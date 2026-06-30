@@ -1,0 +1,17 @@
+id: indy-piano-sonata-in-e
+work:
+  composer: Indy, Vincent d'
+  title: Piano Sonata in E
+  ids:
+    imslp: Piano Sonata, Op.63 (Indy, Vincent d')
+  year: 1907
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata%2C_Op.63_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'
+duration_minutes: 40

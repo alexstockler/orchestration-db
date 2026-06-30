@@ -1,0 +1,18 @@
+id: zemlinsky-jagdstuck
+work:
+  composer: Zemlinsky, Alexander von
+  title: Jagdstück
+  ids:
+    imslp: Jagdstück (Zemlinsky, Alexander von)
+  year: 1939
+formula: 0000 2000 pf
+instrumentation:
+  horn: 2
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jagdst%C3%BCck_%28Zemlinsky%2C_Alexander_von%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 horns, piano'
+duration_minutes: 5

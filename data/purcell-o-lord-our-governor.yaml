@@ -1,0 +1,19 @@
+id: purcell-o-lord-our-governor
+work:
+  composer: Purcell, Henry
+  title: O Lord Our Governor
+  ids:
+    imslp: O Lord Our Governor, Z.39 (Purcell, Henry)
+  year: 1679
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  chorus_raw: choir
+  additional_raw: 2 basses | and continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_Lord_Our_Governor%2C_Z.39_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 sopranos, 2 basses, choir, and continuo'
+duration_minutes: 10

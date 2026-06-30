@@ -1,0 +1,17 @@
+id: telemann-flute-concerto
+work:
+  composer: Telemann, Georg Philipp
+  title: Flute Concerto
+  ids:
+    imslp: Flute Concerto, TWV 51:D1 (Telemann, Georg Philipp)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - flute
+  additional_raw: basso continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flute_Concerto%2C_TWV_51%3AD1_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: flute, Orchestra: strings, basso continuo'

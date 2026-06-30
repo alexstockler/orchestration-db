@@ -1,0 +1,17 @@
+id: indy-sonata-for-violin-and-piano
+work:
+  composer: Indy, Vincent d'
+  title: Sonata for Violin and Piano
+  ids:
+    imslp: Violin Sonata, Op.59 (Indy, Vincent d')
+  year: 1903
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata%2C_Op.59_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin and Piano'
+duration_minutes: 45

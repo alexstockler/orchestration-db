@@ -1,0 +1,15 @@
+id: purcell-as-roger-last-night
+work:
+  composer: Purcell, Henry
+  title: As Roger Last Night
+  ids:
+    imslp: As Roger Last Night, Z.242 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/As_Roger_Last_Night%2C_Z.242_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

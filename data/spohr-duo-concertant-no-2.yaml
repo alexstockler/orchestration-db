@@ -1,0 +1,18 @@
+id: spohr-duo-concertant-no-2
+work:
+  composer: Spohr, Louis
+  title: Duo concertant No.2
+  ids:
+    imslp: Duo concertant No.2, Op.96 (Spohr, Louis)
+  year: 1838
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Duo_concertant_No.2%2C_Op.96_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

@@ -1,0 +1,19 @@
+id: telemann-concerto-for-2-flutes-violin-and-cello
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto for 2 Flutes, Violin and Cello
+  ids:
+    imslp: Concerto for 2 Flutes, Violin and Cello, TWV 54:D1 (Telemann, Georg Philipp)
+formula: 2000 0000 str
+instrumentation:
+  flute: 2
+  strings: str
+  solo_strings:
+    violin: 1
+    cello: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Flutes%2C_Violin_and_Cello%2C_TWV_54%3AD1_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, violin, cello, strings, continuo'

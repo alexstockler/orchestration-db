@@ -1,0 +1,18 @@
+id: spohr-potpourri-on-themes-from-mozart-s-die-zauberflote
+work:
+  composer: Spohr, Louis
+  title: Potpourri on Themes from Mozart's Die Zauberflöte
+  ids:
+    imslp: Potpourri on Themes from 'Die Zauberflöte', Op.50 (Spohr, Louis)
+  year: 1821
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Potpourri_on_Themes_from_%27Die_Zauberfl%C3%B6te%27%2C_Op.50_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

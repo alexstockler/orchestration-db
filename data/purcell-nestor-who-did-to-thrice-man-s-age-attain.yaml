@@ -1,0 +1,18 @@
+id: purcell-nestor-who-did-to-thrice-man-s-age-attain
+work:
+  composer: Purcell, Henry
+  title: Nestor, Who Did to Thrice Man's Age Attain
+  ids:
+    imslp: Nestor, Who Did to Thrice Man's Age Attain, Z.503 (Purcell, Henry)
+  year: 1689
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nestor%2C_Who_Did_to_Thrice_Man%27s_Age_Attain%2C_Z.503_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'

@@ -1,0 +1,47 @@
+id: indy-symphonie-sur-un-chant-montagnard-francais
+work:
+  composer: Indy, Vincent d'
+  title: Symphonie sur un Chant Montagnard Français
+  ids:
+    imslp: Symphonie sur un Chant Montagnard Français, Op.25 (Indy, Vincent d')
+  year: 1886
+formula: 3[1.2.3/pic] 2[1.2/Eh] 3[1.2.bcl] 3 4 4[1.2.cnt.cnt] 3 1 tmp hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 3
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - cymbals
+    - bass drum
+    - triangle
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphonie_sur_un_Chant_Montagnard_Fran%C3%A7ais%2C_Op.25_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 2 oboes (2nd also English
+    horn), 2 clarinets, bass clarinet, 3 bassoons, 4 horns, 2 trumpets, 2 cornets,
+    3 trombones, tuba, timpani, cymbals, bass drum, triangle, harp, strings'
+duration_minutes: 26

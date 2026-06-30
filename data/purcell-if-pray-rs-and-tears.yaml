@@ -1,0 +1,16 @@
+id: purcell-if-pray-rs-and-tears
+work:
+  composer: Purcell, Henry
+  title: If Pray'rs and Tears
+  ids:
+    imslp: If Pray'rs and Tears, Z.380 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/If_Pray%27rs_and_Tears%2C_Z.380_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

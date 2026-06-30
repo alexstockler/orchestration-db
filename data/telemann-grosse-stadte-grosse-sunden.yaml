@@ -1,0 +1,19 @@
+id: telemann-grosse-stadte-grosse-sunden
+work:
+  composer: Telemann, Georg Philipp
+  title: Grosse Städte, grosse Sünden
+  ids:
+    imslp: Grosse Städte, grosse Sünden, TWV 1:702 (Telemann, Georg Philipp)
+  year: 1731
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: oboe d'amore and/or viola d'amore | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grosse_St%C3%A4dte%2C_grosse_S%C3%BCnden%2C_TWV_1%3A702_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, oboe d''amore and/or viola d''amore, strings,
+    continuo'
+duration_minutes: 19

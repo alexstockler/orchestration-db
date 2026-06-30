@@ -1,0 +1,15 @@
+id: dukas-variations-interlude-et-final-sur-un-theme-de-rameau
+work:
+  composer: Dukas, Paul
+  title: Variations, interlude et final sur un thème de Rameau
+  ids:
+    imslp: Variations, interlude et final sur un thème de Rameau (Dukas, Paul)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variations%2C_interlude_et_final_sur_un_th%C3%A8me_de_Rameau_%28Dukas%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

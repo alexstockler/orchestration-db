@@ -1,0 +1,19 @@
+id: donizetti-gabriella-di-vergy
+work:
+  composer: Donizetti, Gaetano
+  title: Gabriella di Vergy
+  ids:
+    imslp: Gabriella di Vergy (Donizetti, Gaetano)
+  year: 1826
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: Gabriella di Vergy (soprano) | Almeide (soprano) | Fayel (baritone)
+    | Raoul (tenor) | Filippo Augusto (bass) | Armando (bass)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gabriella_di_Vergy_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: Gabriella di Vergy (soprano), Almeide (soprano),
+    Fayel (baritone), Raoul (tenor), Filippo Augusto (bass), Armando (bass) + mixed
+    chorus (SATB), Orchestra'

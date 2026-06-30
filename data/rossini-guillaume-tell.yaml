@@ -1,0 +1,68 @@
+id: rossini-guillaume-tell
+work:
+  composer: Rossini, Gioachino
+  title: Guillaume Tell
+  ids:
+    imslp: Guillaume Tell (Rossini, Gioachino)
+  year: 1824
+formula: 2[pic.2] 2[1/Eh.2] 2 2 8230 tmp
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe:
+  - doublings:
+    - english_horn
+  - {}
+  clarinet: 2
+  bassoon: 2
+  horn: 8
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - bass drum
+    - cymbals
+  soloists:
+  - Guillaume Tell (baritone)
+  - Hedwige
+  - his wife (mezzo-soprano)
+  - Jemmy
+  - his son (soprano)
+  - Mathilde
+  - Habsburg princess (soprano)
+  - Arnold Melchtal (tenor)
+  - Melchtal
+  - his father (bass)
+  - Gesler
+  - Austrian Governor of Uri and Schwyz cantons (bass)
+  - Walter Furst (bass)
+  - Ruodi
+  - a fisherman (tenor)
+  - Leuthold
+  - a shepherd (bass)
+  - Rodolphe
+  - Captain of Gesler's guard (tenor)
+  - A hunter (baritone) Mixed Chorus :Peasants
+  - shepherds
+  - knights
+  - pages
+  - ladies
+  - soldiers
+  - bridal couples
+  additional_raw: strings Offstage Band
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Guillaume_Tell_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Guillaume Tell (baritone), Hedwige, his wife (mezzo-soprano),
+    Jemmy, his son (soprano), Mathilde, Habsburg princess (soprano), Arnold Melchtal
+    (tenor), Melchtal, his father (bass), Gesler, Austrian Governor of Uri and Schwyz
+    cantons (bass), Walter Furst (bass), Ruodi, a fisherman (tenor), Leuthold, a shepherd
+    (bass), Rodolphe, Captain of Gesler''s guard (tenor), A hunter (baritone) Mixed
+    Chorus :Peasants, shepherds, knights, pages, ladies, soldiers, bridal couples
+    Orchestra :piccolo, flute, 2 oboes (1st also English horn), 2 clarinets, 2 bassoons,
+    4 horns, 2 trumpets, 3 trombones, timpani, triangle, bass drum, cymbals, strings
+    Offstage Band :4 horns'

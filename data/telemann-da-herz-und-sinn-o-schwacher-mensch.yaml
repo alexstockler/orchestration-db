@@ -1,0 +1,18 @@
+id: telemann-da-herz-und-sinn-o-schwacher-mensch
+work:
+  composer: Telemann, Georg Philipp
+  title: Daß Herz und Sinn, o schwacher Mensch
+  ids:
+    imslp: Daß Herz und Sinn, o schwacher Mensch, TWV 1:194 (Telemann, Georg Philipp)
+  year: 1725
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+  additional_raw: high voice | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Da%C3%9F_Herz_und_Sinn%2C_o_schwacher_Mensch%2C_TWV_1%3A194_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: high voice, violin, continuo'
+duration_minutes: 10

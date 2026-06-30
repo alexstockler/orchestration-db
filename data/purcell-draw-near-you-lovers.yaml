@@ -1,0 +1,16 @@
+id: purcell-draw-near-you-lovers
+work:
+  composer: Purcell, Henry
+  title: Draw Near, You Lovers
+  ids:
+    imslp: Draw Near, You Lovers, Z.462 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Draw_Near%2C_You_Lovers%2C_Z.462_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

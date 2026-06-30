@@ -1,0 +1,16 @@
+id: rossini-adelaide-di-borgogna
+work:
+  composer: Rossini, Gioachino
+  title: Adelaide di Borgogna
+  ids:
+    imslp: Adelaide di Borgogna (Rossini, Gioachino)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adelaide_di_Borgogna_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

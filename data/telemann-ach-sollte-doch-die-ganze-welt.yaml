@@ -1,0 +1,18 @@
+id: telemann-ach-sollte-doch-die-ganze-welt
+work:
+  composer: Telemann, Georg Philipp
+  title: Ach, sollte doch die ganze Welt
+  ids:
+    imslp: Ach, sollte doch die ganze Welt, TWV 1:32 (Telemann, Georg Philipp)
+  year: 1713
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach%2C_sollte_doch_die_ganze_Welt%2C_TWV_1%3A32_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings (with 2 violas), continuo'
+duration_minutes: 11

@@ -1,0 +1,16 @@
+id: indy-helvetia
+work:
+  composer: Indy, Vincent d'
+  title: Helvétia
+  ids:
+    imslp: Helvétia, Op.17 (Indy, Vincent d')
+  year: 1882
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Helv%C3%A9tia%2C_Op.17_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,16 @@
+id: telemann-divertimento-in-b-flat-major-twv-50-23
+work:
+  composer: Telemann, Georg Philipp
+  title: Divertimento in B-flat major, TWV 50:23
+  ids:
+    imslp: Divertimento in B-flat major, TWV 50:23 (Telemann, Georg Philipp)
+  year: 1767
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Divertimento_in_B-flat_major%2C_TWV_50%3A23_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: strings, continuo'

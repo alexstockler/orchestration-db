@@ -1,0 +1,16 @@
+id: boccherini-string-trio-in-d-major
+work:
+  composer: Boccherini, Luigi
+  title: String Trio in D major
+  ids:
+    imslp: String Trio in D major, G.80 (Boccherini, Luigi)
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Trio_in_D_major%2C_G.80_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, cello'

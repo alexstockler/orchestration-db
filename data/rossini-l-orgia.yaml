@@ -1,0 +1,18 @@
+id: rossini-l-orgia
+work:
+  composer: Rossini, Gioachino
+  title: L'orgia
+  ids:
+    imslp: L'orgia (Rossini, Gioachino)
+  year: 1835
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27orgia_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

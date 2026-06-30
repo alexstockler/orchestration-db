@@ -1,0 +1,17 @@
+id: loewe-goethe-s-paria
+work:
+  composer: Loewe, Carl
+  title: Goethe's Paria
+  ids:
+    imslp: Goethe's Paria, Op.58 (Loewe, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Goethe%27s_Paria%2C_Op.58_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,14 @@
+id: donizetti-qui-tollis-in-b-flat-major
+work:
+  composer: Donizetti, Gaetano
+  title: Qui tollis in B-flat major
+  ids:
+    imslp: Qui tollis in B-flat major (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  additional_raw: unknown
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Qui_tollis_in_B-flat_major_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: unknown'

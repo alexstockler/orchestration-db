@@ -1,0 +1,18 @@
+id: zemlinsky-5-gesange
+work:
+  composer: Zemlinsky, Alexander von
+  title: 5 Gesänge
+  ids:
+    imslp: 5 Gesänge, Op.7 (Zemlinsky, Alexander von)
+  year: 1898
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Ges%C3%A4nge%2C_Op.7_%28Zemlinsky%2C_Alexander_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

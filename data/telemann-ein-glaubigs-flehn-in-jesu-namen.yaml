@@ -1,0 +1,18 @@
+id: telemann-ein-glaubigs-flehn-in-jesu-namen
+work:
+  composer: Telemann, Georg Philipp
+  title: Ein gläubigs Flehn, in Jesu Namen
+  ids:
+    imslp: Ein gläubigs Flehn, in Jesu Namen, TWV 1:421 (Telemann, Georg Philipp)
+  year: 1737
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ein_gl%C3%A4ubigs_Flehn%2C_in_Jesu_Namen%2C_TWV_1%3A421_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'
+duration_minutes: 15

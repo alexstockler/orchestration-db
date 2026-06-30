@@ -1,0 +1,16 @@
+id: donizetti-docebo
+work:
+  composer: Donizetti, Gaetano
+  title: Docebo
+  ids:
+    imslp: Docebo, A 704 (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Docebo%2C_A_704_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, orchestra (including organ)'
+duration_minutes: 4

@@ -1,0 +1,17 @@
+id: cherubini-demophoon
+work:
+  composer: Cherubini, Luigi
+  title: Démophoon
+  ids:
+    imslp: Démophoon (Cherubini, Luigi)
+  year: 1788
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/D%C3%A9mophoon_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

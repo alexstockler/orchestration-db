@@ -1,0 +1,21 @@
+id: spohr-die-letzten-dinge
+work:
+  composer: Spohr, Louis
+  title: Die letzten Dinge
+  ids:
+    imslp: Die letzten Dinge, WoO 61 (Spohr, Louis)
+  year: 1825
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  - contralto
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_letzten_Dinge%2C_WoO_61_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, contralto, bass, mixed chorus (SATB), orchestra'
+duration_minutes: 75

@@ -1,0 +1,19 @@
+id: purcell-music-for-the-funeral-of-queen-mary
+work:
+  composer: Purcell, Henry
+  title: Music for the Funeral of Queen Mary
+  ids:
+    imslp: Music for the Funeral of Queen Mary, Z.860 (Purcell, Henry)
+  year: 1695
+formula: 0000 0400 org
+instrumentation:
+  trumpet: 4
+  keyboards:
+  - instrument: organ
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Music_for_the_Funeral_of_Queen_Mary%2C_Z.860_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices, 4 trumpets, organ'

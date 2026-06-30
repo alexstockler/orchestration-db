@@ -1,0 +1,18 @@
+id: purcell-rejoice-in-the-lord-alway-z-49
+work:
+  composer: Purcell, Henry
+  title: Rejoice in the Lord Alway, Z.49
+  ids:
+    imslp: Rejoice in the Lord Alway, Z.49 (Purcell, Henry)
+formula: org str
+instrumentation:
+  keyboards:
+  - instrument: organ
+  strings: str
+  chorus_raw: satb choir
+  additional_raw: ATB soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rejoice_in_the_Lord_Alway%2C_Z.49_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: ATB soloists, SATB choir, strings, organ'

@@ -1,0 +1,15 @@
+id: indy-marche-du-76eme-regiment-dinfanterie
+work:
+  composer: Indy, Vincent d'
+  title: Marche du 76ème régiment d’infanterie
+  ids:
+    imslp: Marche du 76ème régiment d’infanterie, Op.54 (Indy, Vincent d')
+  year: 1903
+formula: ''
+instrumentation:
+  additional_raw: military band
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marche_du_76%C3%A8me_r%C3%A9giment_d%E2%80%99infanterie%2C_Op.54_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: Military Band'

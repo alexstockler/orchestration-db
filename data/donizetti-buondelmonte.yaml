@@ -1,0 +1,16 @@
+id: donizetti-buondelmonte
+work:
+  composer: Donizetti, Gaetano
+  title: Buondelmonte
+  ids:
+    imslp: Buondelmonte (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Buondelmonte_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices, mixed chorus, orchestra'

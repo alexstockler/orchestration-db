@@ -1,0 +1,17 @@
+id: rameau-castor-et-pollux
+work:
+  composer: Rameau, Jean-Philippe
+  title: Castor et Pollux
+  ids:
+    imslp: Castor et Pollux, RCT 32 (Rameau, Jean-Philippe)
+  year: 1737
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Castor_et_Pollux%2C_RCT_32_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

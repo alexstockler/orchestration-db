@@ -1,0 +1,16 @@
+id: boccherini-cello-sonata-in-d-major
+work:
+  composer: Boccherini, Luigi
+  title: Cello Sonata in D major
+  ids:
+    imslp: Cello Sonata in D major (Boccherini, Luigi)
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Sonata_in_D_major_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, continuo'

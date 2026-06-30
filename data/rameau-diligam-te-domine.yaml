@@ -1,0 +1,18 @@
+id: rameau-diligam-te-domine
+work:
+  composer: Rameau, Jean-Philippe
+  title: Diligam te, Domine
+  ids:
+    imslp: Diligam te, Domine (Rameau, Jean-Philippe)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Diligam_te%2C_Domine_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra, organ'

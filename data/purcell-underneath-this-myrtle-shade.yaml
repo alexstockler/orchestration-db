@@ -1,0 +1,18 @@
+id: purcell-underneath-this-myrtle-shade
+work:
+  composer: Purcell, Henry
+  title: Underneath this Myrtle Shade
+  ids:
+    imslp: Underneath this Myrtle Shade, Z.516 (Purcell, Henry)
+  year: 1692
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Underneath_this_Myrtle_Shade%2C_Z.516_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'

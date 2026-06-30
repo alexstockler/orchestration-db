@@ -1,0 +1,17 @@
+id: donizetti-ugo-conte-di-parigi
+work:
+  composer: Donizetti, Gaetano
+  title: Ugo, conte di Parigi
+  ids:
+    imslp: Ugo, Conte di Parigi (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Bianca (soprano) | Adelia (soprano) | Ugo (tenor) | Folco (bass)
+    | Luigi V (contralto) | Emma (mezzo-soprano)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ugo%2C_Conte_di_Parigi_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: Bianca (soprano), Adelia (soprano), Ugo (tenor),,
+    Folco (bass), Luigi V (contralto), Emma (mezzo-soprano), Chorus, Orchestra'

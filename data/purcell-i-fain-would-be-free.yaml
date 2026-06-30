@@ -1,0 +1,16 @@
+id: purcell-i-fain-would-be-free
+work:
+  composer: Purcell, Henry
+  title: I Fain Would Be Free
+  ids:
+    imslp: I Fain Would Be Free, Z.377 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/I_Fain_Would_Be_Free%2C_Z.377_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

@@ -1,0 +1,14 @@
+id: balakirev-overture-on-a-spanish-march-theme
+work:
+  composer: Balakirev, Mily
+  title: Overture on a Spanish March Theme
+  ids:
+    imslp: Overture on a Spanish March Theme, Op.6 (Balakirev, Mily)
+  year: 1857
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Overture_on_a_Spanish_March_Theme%2C_Op.6_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra (2+1/1+1/2/2 - 4/2/3/1, timp, perc, str)'

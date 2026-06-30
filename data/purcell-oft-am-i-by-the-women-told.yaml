@@ -1,0 +1,18 @@
+id: purcell-oft-am-i-by-the-women-told
+work:
+  composer: Purcell, Henry
+  title: Oft Am I by the Women Told
+  ids:
+    imslp: Oft Am I by the Women Told, Z.505 (Purcell, Henry)
+  year: 1687
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oft_Am_I_by_the_Women_Told%2C_Z.505_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'

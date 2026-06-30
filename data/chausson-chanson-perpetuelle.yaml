@@ -1,0 +1,17 @@
+id: chausson-chanson-perpetuelle
+work:
+  composer: Chausson, Ernest
+  title: Chanson perpétuelle
+  ids:
+    imslp: Chanson perpétuelle, Op.37 (Chausson, Ernest)
+  year: 1898
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chanson_perp%C3%A9tuelle%2C_Op.37_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, orchestra (or piano quintet)'
+duration_minutes: 10

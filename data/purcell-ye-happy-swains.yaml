@@ -1,0 +1,17 @@
+id: purcell-ye-happy-swains
+work:
+  composer: Purcell, Henry
+  title: Ye Happy Swains
+  ids:
+    imslp: Ye Happy Swains, Z.443 (Purcell, Henry)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ye_Happy_Swains%2C_Z.443_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

@@ -1,0 +1,17 @@
+id: purcell-cease-anxious-world
+work:
+  composer: Purcell, Henry
+  title: Cease, Anxious World
+  ids:
+    imslp: Cease, Anxious World, Z.362 (Purcell, Henry)
+  year: 1687
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cease%2C_Anxious_World%2C_Z.362_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

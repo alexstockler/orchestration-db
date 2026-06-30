@@ -1,0 +1,16 @@
+id: telemann-der-herr-zebaoth-ist-mit-uns
+work:
+  composer: Telemann, Georg Philipp
+  title: Der Herr Zebaoth ist mit uns
+  ids:
+    imslp: Der Herr Zebaoth ist mit uns, TWV 15:25a (Telemann, Georg Philipp)
+  year: 1763
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Herr_Zebaoth_ist_mit_uns%2C_TWV_15%3A25a_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), orchestra (2 oboes, 2 horns, 2 trumpets,
+    strings, continuo)'

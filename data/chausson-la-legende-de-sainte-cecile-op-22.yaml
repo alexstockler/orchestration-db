@@ -1,0 +1,17 @@
+id: chausson-la-legende-de-sainte-cecile-op-22
+work:
+  composer: Chausson, Ernest
+  title: La légende de Sainte Cécile, Op.22
+  ids:
+    imslp: La légende de Sainte Cécile, Op.22 (Chausson, Ernest)
+  year: 1891
+formula: ''
+instrumentation:
+  soloists:
+  - soprano solo
+  additional_raw: SSA Chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_l%C3%A9gende_de_Sainte_C%C3%A9cile%2C_Op.22_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: Soprano solo, SSA Chorus, Orchestra'

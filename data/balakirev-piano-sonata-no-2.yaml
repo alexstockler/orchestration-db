@@ -1,0 +1,16 @@
+id: balakirev-piano-sonata-no-2
+work:
+  composer: Balakirev, Mily
+  title: Piano Sonata No.2
+  ids:
+    imslp: Piano Sonata No.2 (Balakirev, Mily)
+  year: 1900
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_No.2_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

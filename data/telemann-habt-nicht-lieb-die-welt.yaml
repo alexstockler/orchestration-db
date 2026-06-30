@@ -1,0 +1,23 @@
+id: telemann-habt-nicht-lieb-die-welt
+work:
+  composer: Telemann, Georg Philipp
+  title: Habt nicht lieb die Welt
+  ids:
+    imslp: Habt nicht lieb die Welt, TWV 1:709 (Telemann, Georg Philipp)
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - bass
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Habt_nicht_lieb_die_Welt%2C_TWV_1%3A709_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, alto, bass; mixed chorus (SATB), Orchestra:
+    2 oboes, strings, continuo'
+duration_minutes: 15

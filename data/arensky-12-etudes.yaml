@@ -1,0 +1,16 @@
+id: arensky-12-etudes
+work:
+  composer: Arensky, Anton
+  title: 12 Etudes
+  ids:
+    imslp: 12 Etudes, Op.74 (Arensky, Anton)
+  year: 1905
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Etudes%2C_Op.74_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

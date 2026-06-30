@@ -1,0 +1,26 @@
+id: cherubini-chant-sur-la-mort-de-joseph-haydn
+work:
+  composer: Cherubini, Luigi
+  title: Chant sur la mort de Joseph Haydn
+  ids:
+    imslp: Chant sur la mort de Haydn (Cherubini, Luigi)
+  year: 1805
+formula: 1222 3000 tmp str
+instrumentation:
+  flute: 1
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 3
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - soprano
+  - 2 tenors
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chant_sur_la_mort_de_Haydn_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, 2 tenors, Orchestra: flute, 2 oboes, 2
+    clarinets, 2 bassoons, 3 horns, timpani, strings'

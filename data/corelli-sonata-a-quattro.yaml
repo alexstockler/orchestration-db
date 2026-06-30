@@ -1,0 +1,18 @@
+id: corelli-sonata-a-quattro
+work:
+  composer: Corelli, Arcangelo
+  title: Sonata a Quattro
+  ids:
+    imslp: Sonata a Quattro in G minor, WoO 2 (Corelli, Arcangelo)
+  year: 1699
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: violetta | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_a_Quattro_in_G_minor%2C_WoO_2_%28Corelli%2C_Arcangelo%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, violetta, continuo'
+duration_minutes: 7

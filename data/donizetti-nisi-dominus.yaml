@@ -1,0 +1,16 @@
+id: donizetti-nisi-dominus
+work:
+  composer: Donizetti, Gaetano
+  title: Nisi Dominus
+  ids:
+    imslp: Nisi Dominus, A 650 (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nisi_Dominus%2C_A_650_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, orchestra'
+duration_minutes: 6

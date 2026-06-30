@@ -1,0 +1,18 @@
+id: rossini-a-grenade
+work:
+  composer: Rossini, Gioachino
+  title: A Grenade !
+  ids:
+    imslp: A Grenade ! (Rossini, Gioachino)
+  year: 1864
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_Grenade_%21_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

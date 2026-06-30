@@ -1,0 +1,15 @@
+id: donizetti-le-convenienze-ed-inconvenienze-teatrali
+work:
+  composer: Donizetti, Gaetano
+  title: Le convenienze ed inconvenienze teatrali
+  ids:
+    imslp: Le convenienze ed inconveniente teatrali (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_convenienze_ed_inconveniente_teatrali_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, chorus, orchestra'

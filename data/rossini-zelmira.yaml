@@ -1,0 +1,48 @@
+id: rossini-zelmira
+work:
+  composer: Rossini, Gioachino
+  title: Zelmira
+  ids:
+    imslp: Zelmira (Rossini, Gioachino)
+formula: 2222 4220 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 2
+  strings: str
+  soloists:
+  - Polidoro
+  - King of Lesbos (bass)
+  - Zelmira
+  - his daughter (soprano)
+  - Emma
+  - her confidant (contralto)
+  - Ilo
+  - Prince of Troy and husband of Zelmira (tenor)
+  - Antenore
+  - a usurper from Mytilene (tenor)
+  - Leucippo
+  - his confidant
+  - a general (bass-baritone)
+  - Eacide
+  - a follower of Prince Ilo (tenor)
+  - High priest of Jupiter (bass)
+  - Zelmira's young son (silent) Mixed Chorus (SATB) :Priests
+  - populace
+  - Mytilene army
+  - Ilo's followers
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Zelmira_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Polidoro, King of Lesbos (bass), Zelmira, his daughter
+    (soprano), Emma, her confidant (contralto), Ilo, Prince of Troy and husband of
+    Zelmira (tenor), Antenore, a usurper from Mytilene (tenor), Leucippo, his confidant,
+    a general (bass-baritone), Eacide, a follower of Prince Ilo (tenor), High priest
+    of Jupiter (bass), Zelmira''s young son (silent) Mixed Chorus (SATB) :Priests,
+    populace, Mytilene army, Ilo''s followers Orchestra :2 flutes, 2 oboes, 2 clarinets,
+    2 bassoons,, 4 horns, 2 trumpets, 2 trombones, strings'

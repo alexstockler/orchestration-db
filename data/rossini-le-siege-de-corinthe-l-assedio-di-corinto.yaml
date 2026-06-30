@@ -1,0 +1,17 @@
+id: rossini-le-siege-de-corinthe-l-assedio-di-corinto
+work:
+  composer: Rossini, Gioachino
+  title: Le siège de Corinthe, L'assedio di Corinto
+  ids:
+    imslp: Le siège de Corinthe (Rossini, Gioachino)
+  year: 1826
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_si%C3%A8ge_de_Corinthe_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

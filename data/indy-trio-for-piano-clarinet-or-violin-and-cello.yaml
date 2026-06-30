@@ -1,0 +1,19 @@
+id: indy-trio-for-piano-clarinet-or-violin-and-cello
+work:
+  composer: Indy, Vincent d'
+  title: Trio for Piano, Clarinet (or Violin), and Cello
+  ids:
+    imslp: Trio for Piano, Clarinet (or Violin) and Cello, Op.29 (Indy, Vincent d')
+  year: 1887
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+  additional_raw: Clarinet/Violin
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_for_Piano%2C_Clarinet_%28or_Violin%29_and_Cello%2C_Op.29_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: Clarinet/Violin, Cello, Piano'

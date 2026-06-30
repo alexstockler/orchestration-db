@@ -1,0 +1,19 @@
+id: loewe-string-quartet
+work:
+  composer: Loewe, Carl
+  title: String Quartet
+  ids:
+    imslp: String Quartet, Op.26 (Loewe, Carl)
+  year: 1830
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet%2C_Op.26_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Violins, Viola, Violoncello'
+duration_minutes: 30

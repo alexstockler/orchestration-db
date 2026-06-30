@@ -1,0 +1,18 @@
+id: purcell-when-teucer-from-his-father-fled
+work:
+  composer: Purcell, Henry
+  title: When Teucer from His Father Fled
+  ids:
+    imslp: When Teucer from His Father Fled, Z.522 (Purcell, Henry)
+  year: 1686
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/When_Teucer_from_His_Father_Fled%2C_Z.522_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'

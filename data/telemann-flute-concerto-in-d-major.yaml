@@ -1,0 +1,17 @@
+id: telemann-flute-concerto-in-d-major
+work:
+  composer: Telemann, Georg Philipp
+  title: Flute Concerto in D major
+  ids:
+    imslp: Flute Concerto, TWV 51:D2 (Telemann, Georg Philipp)
+formula: 1000 0000 str
+instrumentation:
+  flute: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Flute_Concerto%2C_TWV_51%3AD2_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, strings, continuo'
+duration_minutes: 13

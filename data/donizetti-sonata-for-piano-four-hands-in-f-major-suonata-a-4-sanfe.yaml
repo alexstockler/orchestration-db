@@ -1,0 +1,16 @@
+id: donizetti-sonata-for-piano-four-hands-in-f-major-suonata-a-4-sanfe
+work:
+  composer: Donizetti, Gaetano
+  title: Sonata for Piano Four-Hands in F major 'Suonata a 4 sanfe'
+  ids:
+    imslp: Sonata for Piano 4 Hands in F major 'Suonata a 4 sanfe', A 571 (Donizetti,
+      Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_for_Piano_4_Hands_in_F_major_%27Suonata_a_4_sanfe%27%2C_A_571_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'

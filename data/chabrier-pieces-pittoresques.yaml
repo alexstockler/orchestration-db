@@ -1,0 +1,16 @@
+id: chabrier-pieces-pittoresques
+work:
+  composer: Chabrier, Emmanuel
+  title: Pièces Pittoresques
+  ids:
+    imslp: 10 Pièces pittoresques (Chabrier, Emmanuel)
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/10_Pi%C3%A8ces_pittoresques_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

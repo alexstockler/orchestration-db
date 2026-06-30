@@ -1,0 +1,16 @@
+id: rameau-avec-du-vin-endormons-nous
+work:
+  composer: Rameau, Jean-Philippe
+  title: Avec du vin, endormons-nous
+  ids:
+    imslp: Avec du vin, endormons-nous, RCT 18 (Rameau, Jean-Philippe)
+  year: 1719
+formula: ''
+instrumentation:
+  additional_raw: 3-part vocal ensemble
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Avec_du_vin%2C_endormons-nous%2C_RCT_18_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: 3-part vocal ensemble'
+duration_minutes: 2

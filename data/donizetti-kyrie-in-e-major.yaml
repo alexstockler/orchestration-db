@@ -1,0 +1,19 @@
+id: donizetti-kyrie-in-e-major
+work:
+  composer: Donizetti, Gaetano
+  title: Kyrie in E major
+  ids:
+    imslp: Kyrie in E major, IGD 130 (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kyrie_in_E_major%2C_IGD_130_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, mixed chorus (SATB), orchestra'

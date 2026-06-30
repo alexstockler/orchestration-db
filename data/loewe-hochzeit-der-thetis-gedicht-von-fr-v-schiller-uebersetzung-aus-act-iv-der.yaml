@@ -1,0 +1,21 @@
+id: loewe-hochzeit-der-thetis-gedicht-von-fr-v-schiller-uebersetzung-aus-act-iv-der
+work:
+  composer: Loewe, Carl
+  title: 'Hochzeit der Thetis: Gedicht von Fr. v. Schiller, Uebersetzung aus Act IV
+    der Iphigenie in Aulis des Euripides: Grosse Cantate für Solo und Chor-Gesang:
+    Op. 120'
+  ids:
+    imslp: Hochzeit der Thetis, Op.120 (Loewe, Carl)
+  year: 1851
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  - tenor
+  chorus_raw: mixed chorus
+  additional_raw: bsss
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hochzeit_der_Thetis%2C_Op.120_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Alto, tenor, bsss + mixed chorus (SSAATTBB) + orchestra'

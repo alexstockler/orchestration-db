@@ -1,0 +1,30 @@
+id: cherubini-marche-funebre
+work:
+  composer: Cherubini, Luigi
+  title: Marche funèbre
+  ids:
+    imslp: Marche funèbre (Cherubini, Luigi)
+  year: 1820
+formula: 0 2 2 3[1.2.cbn] 2230 tmp str
+instrumentation:
+  oboe: 2
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - tam-tam
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marche_fun%C3%A8bre_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, 2 clarinets, 2 bassoons, contrabassoon, 2 horns,
+    2 trumpets, 3 trombones, tam-tam, timpani, strings'
+duration_minutes: 7

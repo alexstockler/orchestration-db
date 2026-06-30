@@ -1,0 +1,16 @@
+id: purcell-tis-too-late-for-a-coach
+work:
+  composer: Purcell, Henry
+  title: Tis Too Late for a Coach
+  ids:
+    imslp: Tis Too Late for a Coach, Z.280 (Purcell, Henry)
+  year: 1686
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tis_Too_Late_for_a_Coach%2C_Z.280_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

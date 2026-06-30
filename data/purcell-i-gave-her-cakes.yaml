@@ -1,0 +1,16 @@
+id: purcell-i-gave-her-cakes
+work:
+  composer: Purcell, Henry
+  title: I Gave Her Cakes
+  ids:
+    imslp: I Gave Her Cakes, Z.256 (Purcell, Henry)
+  year: 1690
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/I_Gave_Her_Cakes%2C_Z.256_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

@@ -1,0 +1,16 @@
+id: balakirev-2-walzer-capriccios-of-taneyev
+work:
+  composer: Balakirev, Mily
+  title: 2 Walzer-Capriccios of Taneyev
+  ids:
+    imslp: 2 Walzer-Capriccios of Aleksandr Taneyev (Balakirev, Mily)
+  year: 1900
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Walzer-Capriccios_of_Aleksandr_Taneyev_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

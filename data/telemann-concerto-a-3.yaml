@@ -1,0 +1,14 @@
+id: telemann-concerto-a-3
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto à 3
+  ids:
+    imslp: Concerto à 3, TWV 43:A7 (Telemann, Georg Philipp)
+formula: ''
+instrumentation:
+  additional_raw: 2 violins discordati | basso continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_%C3%A0_3%2C_TWV_43%3AA7_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins discordati, basso continuo'

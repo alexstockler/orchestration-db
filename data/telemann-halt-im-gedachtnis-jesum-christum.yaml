@@ -1,0 +1,21 @@
+id: telemann-halt-im-gedachtnis-jesum-christum
+work:
+  composer: Telemann, Georg Philipp
+  title: Halt im Gedächtnis Jesum Christum
+  ids:
+    imslp: Halt im Gedächtnis Jesum Christum, TWV 1:717 (Telemann, Georg Philipp)
+  year: 1744
+formula: ''
+instrumentation:
+  soloists:
+  - 2 voices
+  solo_strings:
+    violin: 2
+  additional_raw: bass (optional) | viola (optional) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Halt_im_Ged%C3%A4chtnis_Jesum_Christum%2C_TWV_1%3A717_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, bass (optional), 2 violins, viola (optional),
+    continuo'
+duration_minutes: 20

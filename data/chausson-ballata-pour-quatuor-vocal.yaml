@@ -1,0 +1,17 @@
+id: chausson-ballata-pour-quatuor-vocal
+work:
+  composer: Chausson, Ernest
+  title: Ballata pour quatuor vocal
+  ids:
+    imslp: Ballata, Op.29 (Chausson, Ernest)
+  year: 1897
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ballata%2C_Op.29_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (SATB)'
+duration_minutes: 3

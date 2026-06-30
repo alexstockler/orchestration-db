@@ -1,0 +1,20 @@
+id: telemann-die-auf-den-herrn-hoffen-twv-7-9
+work:
+  composer: Telemann, Georg Philipp
+  title: Die auf den Herrn hoffen, TWV 7:9
+  ids:
+    imslp: Die auf den Herrn hoffen, TWV 7:9 (Telemann, Georg Philipp)
+formula: 0200 0000
+instrumentation:
+  oboe: 2
+  soloists:
+  - tenor
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_auf_den_Herrn_hoffen%2C_TWV_7%3A9_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Tenor, Bass, 2 oboes, 2 violins, continuo'

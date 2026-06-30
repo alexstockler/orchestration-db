@@ -1,0 +1,19 @@
+id: purcell-welcome-to-all-the-pleasures
+work:
+  composer: Purcell, Henry
+  title: Welcome to All the Pleasures
+  ids:
+    imslp: Welcome to All the Pleasures, Z.339 (Purcell, Henry)
+  year: 1683
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Welcome_to_All_the_Pleasures%2C_Z.339_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, strings, continuo'

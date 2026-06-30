@@ -1,0 +1,19 @@
+id: purcell-the-richmond-heiress
+work:
+  composer: Purcell, Henry
+  title: The Richmond Heiress
+  ids:
+    imslp: The Richmond Heiress, Z.608 (Purcell, Henry)
+  year: 1691
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Richmond_Heiress%2C_Z.608_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, bass, continuo'
+duration_minutes: 5

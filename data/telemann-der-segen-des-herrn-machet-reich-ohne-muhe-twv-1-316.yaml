@@ -1,0 +1,22 @@
+id: telemann-der-segen-des-herrn-machet-reich-ohne-muhe-twv-1-316
+work:
+  composer: Telemann, Georg Philipp
+  title: Der Segen des Herrn machet reich ohne Mühe, TWV 1:316
+  ids:
+    imslp: Der Segen des Herrn machet reich ohne Mühe, TWV 1:316 (Telemann, Georg
+      Philipp)
+  year: 1744
+formula: ''
+instrumentation:
+  soloists:
+  - 2 voices
+  solo_strings:
+    violin: 2
+  additional_raw: bass (optional) | viola (optional) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Segen_des_Herrn_machet_reich_ohne_M%C3%BChe%2C_TWV_1%3A316_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, bass (optional), 2 violins, viola (optional),
+    continuo'
+duration_minutes: 20

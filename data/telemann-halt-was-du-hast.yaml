@@ -1,0 +1,17 @@
+id: telemann-halt-was-du-hast
+work:
+  composer: Telemann, Georg Philipp
+  title: Halt, was Du hast
+  ids:
+    imslp: Halt, was du hast, TWV 8:9 (Telemann, Georg Philipp)
+  year: 1962
+formula: ''
+instrumentation:
+  chorus_raw: 2 choirs
+  additional_raw: continuo (ad lib.)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Halt%2C_was_du_hast%2C_TWV_8%3A9_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 choirs (SATB), continuo (ad lib.)'
+duration_minutes: 11

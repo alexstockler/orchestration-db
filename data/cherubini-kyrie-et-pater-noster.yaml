@@ -1,0 +1,28 @@
+id: cherubini-kyrie-et-pater-noster
+work:
+  composer: Cherubini, Luigi
+  title: Kyrie et Pater noster
+  ids:
+    imslp: Kyrie et Pater noster (Cherubini, Luigi)
+  year: 2017
+formula: 2222 2000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  - mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kyrie_et_Pater_noster_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, alto, tenor, bass; mixed chorus (SATB),
+    Orchestra: 2 flutes, 2 oboes, 2 clarinets (C), 2 bassoons, 2 horns (D), strings'
+duration_minutes: 15

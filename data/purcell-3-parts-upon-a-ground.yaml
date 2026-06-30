@@ -1,0 +1,17 @@
+id: purcell-3-parts-upon-a-ground
+work:
+  composer: Purcell, Henry
+  title: 3 Parts upon a Ground
+  ids:
+    imslp: 3 Parts upon a Ground, Z.731 (Purcell, Henry)
+  year: 1678
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 3
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Parts_upon_a_Ground%2C_Z.731_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 violins (or 3 recorders), continuo'

@@ -1,0 +1,16 @@
+id: telemann-deine-toten-werden-leben
+work:
+  composer: Telemann, Georg Philipp
+  title: Deine Toten werden leben
+  ids:
+    imslp: Deine Toten werden leben, TWV 1:213 (Telemann, Georg Philipp)
+  year: 1725
+formula: ''
+instrumentation:
+  additional_raw: high voice | recorder | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Deine_Toten_werden_leben%2C_TWV_1%3A213_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: high voice, recorder, continuo'
+duration_minutes: 10

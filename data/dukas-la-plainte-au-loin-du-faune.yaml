@@ -1,0 +1,17 @@
+id: dukas-la-plainte-au-loin-du-faune
+work:
+  composer: Dukas, Paul
+  title: La plainte, au loin, du faune
+  ids:
+    imslp: La plainte, au loin, du faune (Dukas, Paul)
+  year: 1920
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_plainte%2C_au_loin%2C_du_faune_%28Dukas%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'
+duration_minutes: 5

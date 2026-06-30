@@ -1,0 +1,15 @@
+id: telemann-carillon-a-2-chalumeaux
+work:
+  composer: Telemann, Georg Philipp
+  title: Carillon à 2 Chalumeaux
+  ids:
+    imslp: Carillon à 2 Chalumeaux, TWV 40:109 (Telemann, Georg Philipp)
+  year: 1728
+formula: ''
+instrumentation:
+  additional_raw: 2 flutes (2 recorders or 2 flutes or keyboard)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Carillon_%C3%A0_2_Chalumeaux%2C_TWV_40%3A109_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2 recorders or 2 flutes or keyboard)'

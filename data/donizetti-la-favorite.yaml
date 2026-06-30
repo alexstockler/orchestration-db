@@ -1,0 +1,57 @@
+id: donizetti-la-favorite
+work:
+  composer: Donizetti, Gaetano
+  title: La favorite
+  ids:
+    imslp: La favorite (Donizetti, Gaetano)
+  year: 1840
+formula: 3[pic.2.3] 2 2 2 4 4[1.2.cnt.cnt] 3 0 tmp org hp ophicleide str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - bass drum
+    - snare drum
+  keyboards:
+  - instrument: organ
+  harp: 1
+  extras:
+  - instrument: ophicleide
+  strings: str
+  soloists:
+  - Roles ::Leonor de Guzmán (mezzo-soprano)
+  - Inés (soprano)
+  - Fernand (tenor)
+  - Alphonse XI (baritone)
+  - Balthazar (bass)
+  - Don Gaspar (tenor)
+  - Lord (tenor) :Mixed Chorus ::sopranos
+  - altos
+  - tenors 1/2
+  - 'basses 1/2 (SATTBB) :'
+  additional_raw: Onstage Instrument
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_favorite_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Roles ::Leonor de Guzmán (mezzo-soprano),
+    Inés (soprano), Fernand (tenor), Alphonse XI (baritone), Balthazar (bass), Don
+    Gaspar (tenor), Lord (tenor) :Mixed Chorus ::sopranos, altos, tenors 1/2, basses
+    1/2 (SATTBB) :Orchestra ::piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons,
+    4 horns, 2 trumpets, 2 cornets, 3 trombones, ophicleide, timpani, triangle, bass
+    drum, organ, harp, strings :Onstage Instrument ::snare drum'

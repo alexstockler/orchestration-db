@@ -1,0 +1,16 @@
+id: cherubini-pater-noster
+work:
+  composer: Cherubini, Luigi
+  title: Pater noster
+  ids:
+    imslp: Pater noster (Cherubini, Luigi)
+  year: 1816
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pater_noster_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices or mixed chorus, orchestra'

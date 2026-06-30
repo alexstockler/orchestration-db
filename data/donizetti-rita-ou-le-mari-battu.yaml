@@ -1,0 +1,32 @@
+id: donizetti-rita-ou-le-mari-battu
+work:
+  composer: Donizetti, Gaetano
+  title: Rita, ou Le mari battu
+  ids:
+    imslp: Rita (Donizetti, Gaetano)
+  year: 1841
+formula: 2[pic.2] 1 1 0 1010 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 1
+  clarinet: 1
+  horn: 1
+  trombone: 1
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - Rita (soprano)
+  - Peppa (tenor or baritone)
+  - Gaspar (baritone)
+  - Bortolo (spoken role)
+  additional_raw: natural trumpets
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rita_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: Rita (soprano), Peppa (tenor or baritone), Gaspar
+    (baritone), Bortolo (spoken role), Orchestra: piccolo, flute, oboe, clarinets,,
+    horns, natural trumpets, trombones, timpani, strings'

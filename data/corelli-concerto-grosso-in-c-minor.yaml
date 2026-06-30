@@ -1,0 +1,19 @@
+id: corelli-concerto-grosso-in-c-minor
+work:
+  composer: Corelli, Arcangelo
+  title: Concerto grosso in C minor
+  ids:
+    imslp: Concerto grosso in C minor, Op.6 No.3 (Corelli, Arcangelo)
+  year: 1712
+formula: str
+instrumentation:
+  strings: str
+  solo_strings:
+    violin: 2
+  additional_raw: cello soli | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_grosso_in_C_minor%2C_Op.6_No.3_%28Corelli%2C_Arcangelo%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violin, cello soli, strings, continuo'
+duration_minutes: 10

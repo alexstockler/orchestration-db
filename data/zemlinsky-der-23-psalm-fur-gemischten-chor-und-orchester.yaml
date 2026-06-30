@@ -1,0 +1,35 @@
+id: zemlinsky-der-23-psalm-fur-gemischten-chor-und-orchester
+work:
+  composer: Zemlinsky, Alexander von
+  title: Der 23. Psalm für Gemischten Chor und Orchester
+  ids:
+    imslp: Psalm 23, Op.14 (Zemlinsky, Alexander von)
+  year: 1910
+formula: 4303 0031 tmp cel 2hp str
+instrumentation:
+  flute: 4
+  oboe: 3
+  bassoon: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - glockenspiel
+    - triangle
+    - clash cymbals
+  keyboards:
+  - instrument: celesta
+  harp: 2
+  strings: str
+  additional_raw: 3 clarinets in B (no.3 takes bass clarinet) | 4 horns in F | 3 trumpets
+    in C
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Psalm_23%2C_Op.14_%28Zemlinsky%2C_Alexander_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Choir and orchestra : 4 flutes (nos.3 & 4 take piccolos),
+    3 oboes (no.3 takes English horn), 3 clarinets in B (no.3 takes bass clarinet),
+    3 bassoons, 4 horns in F, 3 trumpets in C, 3 trombones, tuba, timpani, glockenspiel,
+    triangle, celesta, clash cymbals, 2 harps, strings'
+duration_minutes: 12

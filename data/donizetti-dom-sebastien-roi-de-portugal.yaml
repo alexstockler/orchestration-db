@@ -1,0 +1,18 @@
+id: donizetti-dom-sebastien-roi-de-portugal
+work:
+  composer: Donizetti, Gaetano
+  title: Dom Sébastien, roi de Portugal
+  ids:
+    imslp: Dom Sébastien (Donizetti, Gaetano)
+  year: 1843
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dom_S%C3%A9bastien_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'
+duration_minutes: 15

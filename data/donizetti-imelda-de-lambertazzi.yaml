@@ -1,0 +1,19 @@
+id: donizetti-imelda-de-lambertazzi
+work:
+  composer: Donizetti, Gaetano
+  title: Imelda de' Lambertazzi
+  ids:
+    imslp: Imelda de' Lambertazzi (Donizetti, Gaetano)
+  year: 1830
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: Imelda (soprano) | Bonifacio Geremei (baritone) | Lamberto (tenor)
+    | Orlando Lambertazzi (tenor) | Ugo (bass) | Ubaldo (bass)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Imelda_de%27_Lambertazzi_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: Imelda (soprano), Bonifacio Geremei (baritone),
+    Lamberto (tenor), Orlando Lambertazzi (tenor), Ugo (bass), Ubaldo (bass) + mixed
+    chorus (SATB), Orchestra'

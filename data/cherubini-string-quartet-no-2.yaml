@@ -1,0 +1,18 @@
+id: cherubini-string-quartet-no-2
+work:
+  composer: Cherubini, Luigi
+  title: String Quartet No.2
+  ids:
+    imslp: String Quartet No.2 (Cherubini, Luigi)
+  year: 1829
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.2_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

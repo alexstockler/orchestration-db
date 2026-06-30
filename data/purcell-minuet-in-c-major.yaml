@@ -1,0 +1,14 @@
+id: purcell-minuet-in-c-major
+work:
+  composer: Purcell, Henry
+  title: Minuet in C major
+  ids:
+    imslp: Minuet in C major (Purcell, Henry)
+formula: ''
+instrumentation:
+  additional_raw: Keyboard (harpsichord, piano, organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Minuet_in_C_major_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: Keyboard (harpsichord, piano, organ)'

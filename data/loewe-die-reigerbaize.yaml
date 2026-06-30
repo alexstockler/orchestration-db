@@ -1,0 +1,18 @@
+id: loewe-die-reigerbaize
+work:
+  composer: Loewe, Carl
+  title: Die Reigerbaize
+  ids:
+    imslp: Die Reigerbaize, Op.106 (Loewe, Carl)
+  year: 1843
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Reigerbaize%2C_Op.106_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

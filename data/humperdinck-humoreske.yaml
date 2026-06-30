@@ -1,0 +1,15 @@
+id: humperdinck-humoreske
+work:
+  composer: Humperdinck, Engelbert
+  title: Humoreske
+  ids:
+    imslp: Humoreske (Humperdinck, Engelbert)
+  year: 1880
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Humoreske_%28Humperdinck%2C_Engelbert%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'
+duration_minutes: 5

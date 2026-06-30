@@ -1,0 +1,16 @@
+id: arensky-suite-no-1-for-2-pianos
+work:
+  composer: Arensky, Anton
+  title: Suite No.1 for 2 Pianos
+  ids:
+    imslp: Suite No.1, Op.15 (Arensky, Anton)
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_No.1%2C_Op.15_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 pianos'

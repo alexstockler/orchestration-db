@@ -1,0 +1,18 @@
+id: spohr-friede-den-entschlafenen-woo-84
+work:
+  composer: Spohr, Louis
+  title: Friede den Entschlafenen, WoO 84
+  ids:
+    imslp: Friede den Entschlafenen, WoO 84 (Spohr, Louis)
+  year: 1837
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Friede_den_Entschlafenen%2C_WoO_84_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, organ'

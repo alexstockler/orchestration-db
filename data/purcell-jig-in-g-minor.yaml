@@ -1,0 +1,15 @@
+id: purcell-jig-in-g-minor
+work:
+  composer: Purcell, Henry
+  title: Jig in G minor
+  ids:
+    imslp: Jig in G minor, ZT 686 (Purcell, Henry)
+  year: 1696
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jig_in_G_minor%2C_ZT_686_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

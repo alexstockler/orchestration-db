@@ -1,0 +1,18 @@
+id: donizetti-credo
+work:
+  composer: Donizetti, Gaetano
+  title: Credo
+  ids:
+    imslp: Credo, A 585 (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Credo%2C_A_585_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, bass, mixed chorus (STB), orchestra'

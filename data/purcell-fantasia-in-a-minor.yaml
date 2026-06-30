@@ -1,0 +1,15 @@
+id: purcell-fantasia-in-a-minor
+work:
+  composer: Purcell, Henry
+  title: Fantasia in A minor
+  ids:
+    imslp: Fantasia in A minor, Z.740 (Purcell, Henry)
+  year: 1680
+formula: ''
+instrumentation:
+  additional_raw: 4 viols or other stringed instruments
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_in_A_minor%2C_Z.740_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 viols or other stringed instruments'

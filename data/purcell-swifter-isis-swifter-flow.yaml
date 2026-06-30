@@ -1,0 +1,17 @@
+id: purcell-swifter-isis-swifter-flow
+work:
+  composer: Purcell, Henry
+  title: Swifter, Isis, Swifter Flow
+  ids:
+    imslp: Swifter, Isis, Swifter Flow, Z.336 (Purcell, Henry)
+  year: 1681
+formula: str
+instrumentation:
+  strings: str
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Swifter%2C_Isis%2C_Swifter_Flow%2C_Z.336_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus, strings, continuo'

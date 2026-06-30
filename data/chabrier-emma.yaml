@@ -1,0 +1,16 @@
+id: chabrier-emma
+work:
+  composer: Chabrier, Emmanuel
+  title: Emma
+  ids:
+    imslp: Emma, Op.5 (Chabrier, Emmanuel)
+  year: 1852
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Emma%2C_Op.5_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,23 @@
+id: purcell-in-thee-o-lord-do-i-put-my-trust
+work:
+  composer: Purcell, Henry
+  title: In Thee, O Lord, Do I Put My Trust
+  ids:
+    imslp: In Thee, O Lord, Do I Put My Trust, Z.16 (Purcell, Henry)
+  year: 1682
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+  - tenor
+  - bass solos
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_Thee%2C_O_Lord%2C_Do_I_Put_My_Trust%2C_Z.16_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, tenor, bass solos, mixed chorus (SATB), strings,
+    continuo'
+duration_minutes: 12

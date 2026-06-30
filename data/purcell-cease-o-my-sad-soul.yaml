@@ -1,0 +1,17 @@
+id: purcell-cease-o-my-sad-soul
+work:
+  composer: Purcell, Henry
+  title: Cease, O My Sad Soul
+  ids:
+    imslp: Cease, O My Sad Soul, Z.363 (Purcell, Henry)
+  year: 1678
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cease%2C_O_My_Sad_Soul%2C_Z.363_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

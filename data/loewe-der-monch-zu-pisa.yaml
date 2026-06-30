@@ -1,0 +1,18 @@
+id: loewe-der-monch-zu-pisa
+work:
+  composer: Loewe, Carl
+  title: Der Mönch zu Pisa
+  ids:
+    imslp: Der Mönch zu Pisa, Op.114 (Loewe, Carl)
+  year: 1846
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_M%C3%B6nch_zu_Pisa%2C_Op.114_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

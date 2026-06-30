@@ -1,0 +1,21 @@
+id: corelli-concerto-grosso-no-8-fatto-per-la-notte-di-natale
+work:
+  composer: Corelli, Arcangelo
+  title: Concerto grosso No.8 'Fatto per la Notte di Natale'
+  ids:
+    imslp: Concerto grosso in G minor 'Fatto per la Notte di Natale', Op.6 No.8 (Corelli,
+      Arcangelo)
+  year: 1690
+formula: str
+instrumentation:
+  strings: str
+  solo_strings:
+    violin: 2
+    cello: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_grosso_in_G_minor_%27Fatto_per_la_Notte_di_Natale%27%2C_Op.6_No.8_%28Corelli%2C_Arcangelo%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, cello, strings, continuo'
+duration_minutes: 15

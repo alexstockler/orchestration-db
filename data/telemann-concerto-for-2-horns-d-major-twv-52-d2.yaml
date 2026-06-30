@@ -1,0 +1,18 @@
+id: telemann-concerto-for-2-horns-d-major-twv-52-d2
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto for 2 Horns D Major TWV 52:D2
+  ids:
+    imslp: Concerto for 2 Horns, TWV 52:D2 (Telemann, Georg Philipp)
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - 2 horns
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Horns%2C_TWV_52%3AD2_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: 2 horns, Orchestra: 2 oboes, strings, continuo'

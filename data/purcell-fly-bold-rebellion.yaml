@@ -1,0 +1,23 @@
+id: purcell-fly-bold-rebellion
+work:
+  composer: Purcell, Henry
+  title: Fly, bold rebellion
+  ids:
+    imslp: Fly, Bold Rebellion, Z.324 (Purcell, Henry)
+  year: 1683
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - 2 altos
+  - tenor
+  - 2 basses
+  - mixed chorus (SSATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fly%2C_Bold_Rebellion%2C_Z.324_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: 2 altos, tenor, 2 basses; mixed chorus (SSATB),
+    Orchestra: strings, continuo'
+duration_minutes: 19

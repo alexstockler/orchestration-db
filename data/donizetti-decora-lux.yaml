@@ -1,0 +1,15 @@
+id: donizetti-decora-lux
+work:
+  composer: Donizetti, Gaetano
+  title: Decora lux
+  ids:
+    imslp: Decora lux, In.151 (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Decora_lux%2C_In.151_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, orchestra'

@@ -1,0 +1,17 @@
+id: loewe-gedichte-op-61
+work:
+  composer: Loewe, Carl
+  title: Gedichte, Op.61
+  ids:
+    imslp: Gedichte, Op.61 (Loewe, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gedichte%2C_Op.61_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

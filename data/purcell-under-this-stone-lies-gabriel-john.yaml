@@ -1,0 +1,16 @@
+id: purcell-under-this-stone-lies-gabriel-john
+work:
+  composer: Purcell, Henry
+  title: Under this Stone Lies Gabriel John
+  ids:
+    imslp: Under this Stone Lies Gabriel John, Z.286 (Purcell, Henry)
+  year: 1686
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Under_this_Stone_Lies_Gabriel_John%2C_Z.286_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

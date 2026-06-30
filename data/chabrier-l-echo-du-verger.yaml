@@ -1,0 +1,16 @@
+id: chabrier-l-echo-du-verger
+work:
+  composer: Chabrier, Emmanuel
+  title: L'echo du verger
+  ids:
+    imslp: L'écho du verger, Op.10 (Chabrier, Emmanuel)
+  year: 1853
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27%C3%A9cho_du_verger%2C_Op.10_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

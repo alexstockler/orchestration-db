@@ -1,0 +1,16 @@
+id: purcell-this-poet-sings-the-trojan-wars
+work:
+  composer: Purcell, Henry
+  title: This Poet Sings the Trojan Wars
+  ids:
+    imslp: This Poet Sings the Trojan Wars, Z.423 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/This_Poet_Sings_the_Trojan_Wars%2C_Z.423_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

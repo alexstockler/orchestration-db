@@ -1,0 +1,16 @@
+id: dukas-prelude-elegiaque
+work:
+  composer: Dukas, Paul
+  title: Prélude élégiaque
+  ids:
+    imslp: Prélude élégiaque (Dukas, Paul)
+  year: 1910
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pr%C3%A9lude_%C3%A9l%C3%A9giaque_%28Dukas%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,18 @@
+id: chausson-string-quartet
+work:
+  composer: Chausson, Ernest
+  title: String Quartet
+  ids:
+    imslp: String Quartet, Op.35 (Chausson, Ernest)
+  year: 1897
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet%2C_Op.35_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Violins, Viola, Cello'

@@ -1,0 +1,16 @@
+id: telemann-concerto-for-2-flutes-and-calchedon
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto for 2 Flutes and Calchedon
+  ids:
+    imslp: Concerto for 2 Flutes and Calchedon, TWV 53:D1 (Telemann, Georg Philipp)
+formula: 2000 0000 str
+instrumentation:
+  flute: 2
+  strings: str
+  additional_raw: calchedon | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Flutes_and_Calchedon%2C_TWV_53%3AD1_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (or 2 violins), calchedon, strings, continuo'

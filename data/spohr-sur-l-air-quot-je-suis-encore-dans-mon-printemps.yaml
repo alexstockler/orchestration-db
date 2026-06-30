@@ -1,0 +1,15 @@
+id: spohr-sur-l-air-quot-je-suis-encore-dans-mon-printemps
+work:
+  composer: Spohr, Louis
+  title: sur l'air &quot;je suis encore dans mon printemps
+  ids:
+    imslp: Variations sur 'Je suis encore dans mon printemps', Op.36 (Spohr, Louis)
+  year: 1807
+formula: hp
+instrumentation:
+  harp: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variations_sur_%27Je_suis_encore_dans_mon_printemps%27%2C_Op.36_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: Harp'

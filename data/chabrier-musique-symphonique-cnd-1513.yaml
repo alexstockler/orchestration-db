@@ -1,0 +1,13 @@
+id: chabrier-musique-symphonique-cnd-1513
+work:
+  composer: Chabrier, Emmanuel
+  title: Musique symphonique (CND 1513)
+  ids:
+    imslp: Musique symphonique (Chabrier, Emmanuel)
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Musique_symphonique_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

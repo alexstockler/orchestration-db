@@ -1,0 +1,18 @@
+id: telemann-brich-dem-hungrigen-dein-brot
+work:
+  composer: Telemann, Georg Philipp
+  title: Brich dem Hungrigen dein Brot
+  ids:
+    imslp: Brich dem Hungrigen dein Brot, TWV 1:134 (Telemann, Georg Philipp)
+  year: 1714
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Brich_dem_Hungrigen_dein_Brot%2C_TWV_1%3A134_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings (2 violas), continuo'
+duration_minutes: 13

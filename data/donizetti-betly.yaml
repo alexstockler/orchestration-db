@@ -1,0 +1,17 @@
+id: donizetti-betly
+work:
+  composer: Donizetti, Gaetano
+  title: Betly
+  ids:
+    imslp: Betly (Donizetti, Gaetano)
+  year: 1836
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: Betty (soprano) | Daniele (tenor) | Max (baritone)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Betly_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: Betty (soprano), Daniele (tenor), Max (baritone)
+    + mixed chorus (SATB), Orchestra'

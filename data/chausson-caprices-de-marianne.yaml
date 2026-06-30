@@ -1,0 +1,16 @@
+id: chausson-caprices-de-marianne
+work:
+  composer: Chausson, Ernest
+  title: Caprices de Marianne
+  ids:
+    imslp: Les caprices de Marianne (Chausson, Ernest)
+  year: 1882
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_caprices_de_Marianne_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

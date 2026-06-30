@@ -1,0 +1,14 @@
+id: donizetti-sinfonia-concertata
+work:
+  composer: Donizetti, Gaetano
+  title: Sinfonia concertata
+  ids:
+    imslp: Sinfonia concertata (Donizetti, Gaetano)
+  year: 1816
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sinfonia_concertata_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

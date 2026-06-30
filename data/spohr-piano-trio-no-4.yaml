@@ -1,0 +1,19 @@
+id: spohr-piano-trio-no-4
+work:
+  composer: Spohr, Louis
+  title: Piano Trio No.4
+  ids:
+    imslp: Piano Trio No.4, Op.133 (Spohr, Louis)
+  year: 1846
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio_No.4%2C_Op.133_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano, Violin, Cello'

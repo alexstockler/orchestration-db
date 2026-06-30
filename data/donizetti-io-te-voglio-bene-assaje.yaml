@@ -1,0 +1,17 @@
+id: donizetti-io-te-voglio-bene-assaje
+work:
+  composer: Donizetti, Gaetano
+  title: Io te voglio bene assaje
+  ids:
+    imslp: Io te voglio bene assaje, A 395 (Donizetti, Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Io_te_voglio_bene_assaje%2C_A_395_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano (or guitar)'

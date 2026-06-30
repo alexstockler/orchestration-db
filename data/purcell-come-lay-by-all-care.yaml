@@ -1,0 +1,18 @@
+id: purcell-come-lay-by-all-care
+work:
+  composer: Purcell, Henry
+  title: Come, Lay by All Care
+  ids:
+    imslp: Come, Lay by All Care, Z.484 (Purcell, Henry)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo [ad lib.]
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Come%2C_Lay_by_All_Care%2C_Z.484_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo [ad lib.]'

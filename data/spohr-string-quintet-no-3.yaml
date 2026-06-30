@@ -1,0 +1,19 @@
+id: spohr-string-quintet-no-3
+work:
+  composer: Spohr, Louis
+  title: String Quintet No.3
+  ids:
+    imslp: String Quintet No.3, Op.69 (Spohr, Louis)
+  year: 1826
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 2
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quintet_No.3%2C_Op.69_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, 2 violas, cello'
+duration_minutes: 30

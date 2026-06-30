@@ -1,0 +1,19 @@
+id: donizetti-le-depart-pour-la-chasse
+work:
+  composer: Donizetti, Gaetano
+  title: Le départ pour la chasse
+  ids:
+    imslp: Le départ pour la chasse, A 291 (Donizetti, Gaetano)
+formula: 0000 1000 pf
+instrumentation:
+  horn: 1
+  keyboards:
+  - instrument: piano
+  soloists:
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_d%C3%A9part_pour_la_chasse%2C_A_291_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, horn (F), piano'
+duration_minutes: 5

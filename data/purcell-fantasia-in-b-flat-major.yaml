@@ -1,0 +1,16 @@
+id: purcell-fantasia-in-b-flat-major
+work:
+  composer: Purcell, Henry
+  title: Fantasia in B-flat major
+  ids:
+    imslp: Fantasia in B-flat major, Z.736 (Purcell, Henry)
+  year: 1680
+formula: ''
+instrumentation:
+  additional_raw: 4 viols or other stringed instruments
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_in_B-flat_major%2C_Z.736_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 viols or other stringed instruments'
+duration_minutes: 3

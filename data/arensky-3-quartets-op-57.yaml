@@ -1,0 +1,17 @@
+id: arensky-3-quartets-op-57
+work:
+  composer: Arensky, Anton
+  title: 3 Quartets, Op.57
+  ids:
+    imslp: 3 Quartets, Op.57 (Arensky, Anton)
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Quartets%2C_Op.57_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (SATB), cello'

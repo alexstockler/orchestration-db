@@ -1,0 +1,15 @@
+id: donizetti-cantata-per-le-nozze-di-ferdinando-i-d-austria
+work:
+  composer: Donizetti, Gaetano
+  title: Cantata per le nozze di Ferdinando I d'Austria
+  ids:
+    imslp: Cantata per le nozze di Ferdinando I d'Austria (Donizetti, Gaetano)
+  year: 1831
+formula: ''
+instrumentation:
+  chorus_raw: choir
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cantata_per_le_nozze_di_Ferdinando_I_d%27Austria_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: choir, orchestra'

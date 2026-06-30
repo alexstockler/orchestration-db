@@ -1,0 +1,31 @@
+id: goldmark-ouverture-zum-gefesselten-prometheus
+work:
+  composer: Goldmark, Carl
+  title: Ouverture zum 'Gefesselten Prometheus'
+  ids:
+    imslp: Ouverture zum 'Gefesselten Prometheus', Op.38 (Goldmark, Carl)
+  year: 1890
+formula: 3[1.2.3/pic] 2 2 2 4341 tmp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 4
+  tuba: 1
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ouverture_zum_%27Gefesselten_Prometheus%27%2C_Op.38_%28Goldmark%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra :3 flutes (3rd also piccolo), 2 oboes, 2 clarinets
+    (B), 2 bassoons, 4 horns (F), 3 trumpets (F), 4 trombones (2 tenor, 2 bass), tuba,
+    timpani, strings'

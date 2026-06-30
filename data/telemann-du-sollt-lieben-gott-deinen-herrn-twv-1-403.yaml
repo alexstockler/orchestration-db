@@ -1,0 +1,18 @@
+id: telemann-du-sollt-lieben-gott-deinen-herrn-twv-1-403
+work:
+  composer: Telemann, Georg Philipp
+  title: Du sollt lieben Gott deinen Herrn, TWV 1:403
+  ids:
+    imslp: Du sollt lieben Gott deinen Herrn, TWV 1:403 (Telemann, Georg Philipp)
+  year: 1717
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: SATB solos and chorus | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Du_sollt_lieben_Gott_deinen_Herrn%2C_TWV_1%3A403_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB solos and chorus, 2 oboes, strings, continuo'
+duration_minutes: 13

@@ -1,0 +1,16 @@
+id: chabrier-petite-valse
+work:
+  composer: Chabrier, Emmanuel
+  title: Petite Valse
+  ids:
+    imslp: Petite valse (Chabrier, Emmanuel)
+  year: 1878
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Petite_valse_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

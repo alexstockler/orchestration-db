@@ -1,0 +1,15 @@
+id: cherubini-blanche-de-provence
+work:
+  composer: Cherubini, Luigi
+  title: Blanche de Provence
+  ids:
+    imslp: Blanche de Provence (Cherubini, Luigi)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Blanche_de_Provence_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

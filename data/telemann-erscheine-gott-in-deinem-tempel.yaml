@@ -1,0 +1,17 @@
+id: telemann-erscheine-gott-in-deinem-tempel
+work:
+  composer: Telemann, Georg Philipp
+  title: Erscheine, Gott, in deinem Tempel
+  ids:
+    imslp: Erscheine, Gott, in deinem Tempel, TWV 1:471 (Telemann, Georg Philipp)
+  year: 1725
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  additional_raw: high voice | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erscheine%2C_Gott%2C_in_deinem_Tempel%2C_TWV_1%3A471_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: high voice, flute, continuo'
+duration_minutes: 11

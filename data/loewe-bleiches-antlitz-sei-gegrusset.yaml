@@ -1,0 +1,18 @@
+id: loewe-bleiches-antlitz-sei-gegrusset
+work:
+  composer: Loewe, Carl
+  title: Bleiches Antlitz, sei gegrüsset
+  ids:
+    imslp: Bleiches Antlitz, sei gegrüsset (Loewe, Carl)
+  year: 1899
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bleiches_Antlitz%2C_sei_gegr%C3%BCsset_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

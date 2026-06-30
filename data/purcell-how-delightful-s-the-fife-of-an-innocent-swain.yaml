@@ -1,0 +1,16 @@
+id: purcell-how-delightful-s-the-fife-of-an-innocent-swain
+work:
+  composer: Purcell, Henry
+  title: How Delightful's the Fife of an Innocent Swain
+  ids:
+    imslp: How Delightful's the Fife of an Innocent Swain, Z.373 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/How_Delightful%27s_the_Fife_of_an_Innocent_Swain%2C_Z.373_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

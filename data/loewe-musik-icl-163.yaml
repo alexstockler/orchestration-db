@@ -1,0 +1,17 @@
+id: loewe-musik-icl-163
+work:
+  composer: Loewe, Carl
+  title: Musik, ICL 163
+  ids:
+    imslp: Musik, ICL 162 (Loewe, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - sopranos
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Musik%2C_ICL_162_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, piano'

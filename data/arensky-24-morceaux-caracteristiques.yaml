@@ -1,0 +1,17 @@
+id: arensky-24-morceaux-caracteristiques
+work:
+  composer: Arensky, Anton
+  title: 24 Morceaux caractéristiques
+  ids:
+    imslp: 24 Morceaux caractéristiques, Op.36 (Arensky, Anton)
+  year: 1894
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/24_Morceaux_caract%C3%A9ristiques%2C_Op.36_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 10

@@ -1,0 +1,18 @@
+id: spohr-duo-concertant
+work:
+  composer: Spohr, Louis
+  title: Duo concertant
+  ids:
+    imslp: Duo concertant No.1, Op.95 (Spohr, Louis)
+  year: 1836
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Duo_concertant_No.1%2C_Op.95_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

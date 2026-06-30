@@ -1,0 +1,14 @@
+id: spohr-choral-fugue
+work:
+  composer: Spohr, Louis
+  title: Choral Fugue
+  ids:
+    imslp: Choral Fugue (Spohr, Louis)
+formula: ''
+instrumentation:
+  additional_raw: unknown | see below | Comments
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Choral_Fugue_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: unknown; see below, Comments'

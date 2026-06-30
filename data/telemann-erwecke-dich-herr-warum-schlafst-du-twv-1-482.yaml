@@ -1,0 +1,25 @@
+id: telemann-erwecke-dich-herr-warum-schlafst-du-twv-1-482
+work:
+  composer: Telemann, Georg Philipp
+  title: Erwecke dich, Herr, warum schläfst du, TWV 1:482
+  ids:
+    imslp: Erwecke dich, Herr, warum schläfst du, TWV 1:482 (Telemann, Georg Philipp)
+  year: 1721
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erwecke_dich%2C_Herr%2C_warum_schl%C3%A4fst_du%2C_TWV_1%3A482_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, mixed chorus (SATB), 2 oboes,
+    strings, continuo'
+duration_minutes: 16

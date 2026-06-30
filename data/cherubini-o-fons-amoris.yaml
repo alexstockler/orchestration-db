@@ -1,0 +1,17 @@
+id: cherubini-o-fons-amoris
+work:
+  composer: Cherubini, Luigi
+  title: O fons amoris
+  ids:
+    imslp: O fons amoris (Cherubini, Luigi)
+  year: 1822
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_fons_amoris_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, male chorus, orchestra'

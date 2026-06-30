@@ -1,0 +1,33 @@
+id: cherubini-hymne-a-la-fraternite
+work:
+  composer: Cherubini, Luigi
+  title: Hymne à la Fraternité
+  ids:
+    imslp: Hymne à la Fraternité (Cherubini, Luigi)
+  year: 1794
+formula: 2[pic.pic] 0 2 2 4200 serpent
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - instrument: piccolo
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  percussion:
+    instruments:
+    - bass drum
+    - cymbals
+  extras:
+  - instrument: serpent
+  soloists:
+  - mixed chorus (SATB)
+  additional_raw: tambour turc
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymne_%C3%A0_la_Fraternit%C3%A9_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: mixed chorus (SATB), Orchestra: 2 piccolos, 2 clarinets
+    (C), 2 bassoons, 4 horns (2 in F, 2 in B), 2 trumpets (B), serpent, bass drum,
+    tambour turc, cymbals'
+duration_minutes: 5

@@ -1,0 +1,16 @@
+id: chabrier-marche-des-cipayes
+work:
+  composer: Chabrier, Emmanuel
+  title: Marche des Cipayes
+  ids:
+    imslp: Marche des Cipayes (Chabrier, Emmanuel)
+  year: 1863
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marche_des_Cipayes_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

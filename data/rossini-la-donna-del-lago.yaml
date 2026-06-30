@@ -1,0 +1,16 @@
+id: rossini-la-donna-del-lago
+work:
+  composer: Rossini, Gioachino
+  title: La donna del lago
+  ids:
+    imslp: La donna del lago (Rossini, Gioachino)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_donna_del_lago_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

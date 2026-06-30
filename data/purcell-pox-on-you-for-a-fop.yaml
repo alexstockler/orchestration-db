@@ -1,0 +1,15 @@
+id: purcell-pox-on-you-for-a-fop
+work:
+  composer: Purcell, Henry
+  title: Pox on You for a Fop
+  ids:
+    imslp: Pox on You for a Fop, Z.268 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pox_on_You_for_a_Fop%2C_Z.268_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

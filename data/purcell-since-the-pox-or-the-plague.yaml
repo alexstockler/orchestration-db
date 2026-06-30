@@ -1,0 +1,17 @@
+id: purcell-since-the-pox-or-the-plague
+work:
+  composer: Purcell, Henry
+  title: Since the Pox or the Plague
+  ids:
+    imslp: Since the Pox or the Plague, Z.471 (Purcell, Henry)
+  year: 1679
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Since_the_Pox_or_the_Plague%2C_Z.471_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

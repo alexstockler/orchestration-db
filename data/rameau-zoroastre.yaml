@@ -1,0 +1,17 @@
+id: rameau-zoroastre
+work:
+  composer: Rameau, Jean-Philippe
+  title: Zoroastre
+  ids:
+    imslp: Zoroastre, RCT 62 (Rameau, Jean-Philippe)
+  year: 1749
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Zoroastre%2C_RCT_62_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

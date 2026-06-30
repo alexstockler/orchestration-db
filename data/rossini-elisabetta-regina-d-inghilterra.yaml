@@ -1,0 +1,15 @@
+id: rossini-elisabetta-regina-d-inghilterra
+work:
+  composer: Rossini, Gioachino
+  title: Elisabetta, regina d'Inghilterra
+  ids:
+    imslp: Elisabetta, regina d'Inghilterra (Rossini, Gioachino)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Elisabetta%2C_regina_d%27Inghilterra_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

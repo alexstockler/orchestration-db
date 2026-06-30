@@ -1,0 +1,15 @@
+id: donizetti-che-avvenne-che-fu
+work:
+  composer: Donizetti, Gaetano
+  title: Che avvenne, che fu?
+  ids:
+    imslp: Che avvenne, che fu, A 101 (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Che_avvenne%2C_che_fu%2C_A_101_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, orchestra'

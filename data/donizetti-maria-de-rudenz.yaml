@@ -1,0 +1,19 @@
+id: donizetti-maria-de-rudenz
+work:
+  composer: Donizetti, Gaetano
+  title: Maria de Rudenz
+  ids:
+    imslp: Maria de Rudenz (Donizetti, Gaetano)
+  year: 1837
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: Cast | Maria de Rudenez (soprano)Matilde di Wolf (soprano)Corrado
+    Waldorf (baritone)Enrico (tenor)Rambaldo (bass)Chancellor (tenor)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Maria_de_Rudenz_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Cast ::Maria de Rudenez (soprano)Matilde
+    di Wolf (soprano)Corrado Waldorf (baritone)Enrico (tenor)Rambaldo (bass)Chancellor
+    (tenor) :Mixed chorus (SATB), Orchestra'

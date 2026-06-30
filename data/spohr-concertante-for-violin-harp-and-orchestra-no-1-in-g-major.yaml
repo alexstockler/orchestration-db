@@ -1,0 +1,18 @@
+id: spohr-concertante-for-violin-harp-and-orchestra-no-1-in-g-major
+work:
+  composer: Spohr, Louis
+  title: Concertante for violin, harp and orchestra no. 1 in G major
+  ids:
+    imslp: Concertante for Violin, Harp and Orchestra No.1 in G major (Spohr, Louis)
+  year: 1806
+formula: hp
+instrumentation:
+  harp: 1
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concertante_for_Violin%2C_Harp_and_Orchestra_No.1_in_G_major_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, harp, orchestra'
+duration_minutes: 23

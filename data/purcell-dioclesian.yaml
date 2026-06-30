@@ -1,0 +1,18 @@
+id: purcell-dioclesian
+work:
+  composer: Purcell, Henry
+  title: Dioclesian
+  ids:
+    imslp: Dioclesian, Z.627 (Purcell, Henry)
+  year: 1691
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dioclesian%2C_Z.627_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra, continuo'

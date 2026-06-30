@@ -1,0 +1,15 @@
+id: cherubini-mass-in-f-major
+work:
+  composer: Cherubini, Luigi
+  title: Mass in F major
+  ids:
+    imslp: Mass in F major (Cherubini, Luigi)
+  year: 1808
+formula: ''
+instrumentation:
+  additional_raw: STB soloists | 3-part chorus (STB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mass_in_F_major_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: STB soloists, 3-part chorus (STB), orchestra'

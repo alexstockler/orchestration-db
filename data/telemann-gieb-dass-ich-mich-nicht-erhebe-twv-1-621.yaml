@@ -1,0 +1,20 @@
+id: telemann-gieb-dass-ich-mich-nicht-erhebe-twv-1-621
+work:
+  composer: Telemann, Georg Philipp
+  title: Gieb, dass ich mich nicht erhebe, TWV 1:621
+  ids:
+    imslp: Gieb, dass ich mich nicht erhebe, TWV 1:621 (Telemann, Georg Philipp)
+  year: 1748
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gieb%2C_dass_ich_mich_nicht_erhebe%2C_TWV_1%3A621_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano; mixed chorus (SATB), Orchestra: strings,
+    continuo'

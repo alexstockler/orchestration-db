@@ -1,0 +1,16 @@
+id: indy-menuet-sur-le-nom-dhaydn-op-65
+work:
+  composer: Indy, Vincent d'
+  title: Menuet sur le nom d’Haydn, Op.65
+  ids:
+    imslp: Menuet sur le nom d’Haydn, Op.65 (Indy, Vincent d')
+  year: 1909
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Menuet_sur_le_nom_d%E2%80%99Haydn%2C_Op.65_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

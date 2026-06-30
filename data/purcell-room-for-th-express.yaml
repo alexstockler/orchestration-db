@@ -1,0 +1,16 @@
+id: purcell-room-for-th-express
+work:
+  composer: Purcell, Henry
+  title: Room for th' Express
+  ids:
+    imslp: Room for th' Express, Z.270 (Purcell, Henry)
+  year: 1694
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Room_for_th%27_Express%2C_Z.270_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

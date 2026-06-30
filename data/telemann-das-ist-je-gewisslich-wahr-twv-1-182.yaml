@@ -1,0 +1,19 @@
+id: telemann-das-ist-je-gewisslich-wahr-twv-1-182
+work:
+  composer: Telemann, Georg Philipp
+  title: Das ist je gewisslich wahr, TWV 1:182
+  ids:
+    imslp: Das ist je gewisslich wahr, TWV 1:182 (Telemann, Georg Philipp)
+  year: 1720
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: SATB solos and chorus | bassetto [see notes] | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_ist_je_gewisslich_wahr%2C_TWV_1%3A182_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB solos and chorus, 2 oboes, bassetto [see notes], strings,
+    continuo'
+duration_minutes: 9

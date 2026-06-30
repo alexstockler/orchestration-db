@@ -1,0 +1,16 @@
+id: rameau-la-lyre-enchantee
+work:
+  composer: Rameau, Jean-Philippe
+  title: La Lyre enchantée
+  ids:
+    imslp: La Lyre enchantée (Rameau, Jean-Philippe)
+  year: 1758
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_Lyre_enchant%C3%A9e_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

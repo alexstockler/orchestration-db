@@ -1,0 +1,15 @@
+id: balakirev-suite-for-piano-4-hands
+work:
+  composer: Balakirev, Mily
+  title: Suite for Piano 4 hands
+  ids:
+    imslp: Suite for Piano 4 hands (Balakirev, Mily)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_for_Piano_4_hands_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'

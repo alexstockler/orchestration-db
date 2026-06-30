@@ -1,0 +1,20 @@
+id: donizetti-maria-stuarda
+work:
+  composer: Donizetti, Gaetano
+  title: Maria Stuarda
+  ids:
+    imslp: Maria Stuarda (Donizetti, Gaetano)
+  year: 1834
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: Maria Stuarda (soprano) | Elisabetta (soprano) | Anna Kennedy (mezzo)
+    | Roberto (tenor) | Lord Guglielmo Cecil (baritone) | Giorgio Talbot (bass) |
+    Herald (tenor)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Maria_Stuarda_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Maria Stuarda (soprano), Elisabetta (soprano), Anna
+    Kennedy (mezzo), Roberto (tenor), Lord Guglielmo Cecil (baritone), Giorgio Talbot
+    (bass), Herald (tenor) :Mixed Chorus (SATB), Orchestra'

@@ -1,0 +1,19 @@
+id: donizetti-dies-irae
+work:
+  composer: Donizetti, Gaetano
+  title: Dies irae
+  ids:
+    imslp: Dies irae, A 691 (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dies_irae%2C_A_691_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, mixed chorus (SATB), orchestra'

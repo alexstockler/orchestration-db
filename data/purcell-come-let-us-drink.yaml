@@ -1,0 +1,16 @@
+id: purcell-come-let-us-drink
+work:
+  composer: Purcell, Henry
+  title: Come, Let Us Drink
+  ids:
+    imslp: Come, Let Us Drink, Z.245 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Come%2C_Let_Us_Drink%2C_Z.245_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices, continuo'

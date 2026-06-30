@@ -1,0 +1,16 @@
+id: boccherini-string-trio-in-c-major
+work:
+  composer: Boccherini, Luigi
+  title: String Trio in C major
+  ids:
+    imslp: String Trio in C major, G.82 (Boccherini, Luigi)
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Trio_in_C_major%2C_G.82_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, cello'

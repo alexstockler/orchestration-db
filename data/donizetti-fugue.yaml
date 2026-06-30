@@ -1,0 +1,16 @@
+id: donizetti-fugue
+work:
+  composer: Donizetti, Gaetano
+  title: Fugue
+  ids:
+    imslp: Fugue, In.660 (Donizetti, Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue%2C_In.660_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 3

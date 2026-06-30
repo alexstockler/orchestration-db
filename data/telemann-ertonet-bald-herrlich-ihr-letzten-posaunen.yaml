@@ -1,0 +1,20 @@
+id: telemann-ertonet-bald-herrlich-ihr-letzten-posaunen
+work:
+  composer: Telemann, Georg Philipp
+  title: Ertönet bald herrlich, ihr letzten Posaunen
+  ids:
+    imslp: Ertönet bald herrlich, ihr letzten Posaunen, TWV 1:476 (Telemann, Georg
+      Philipp)
+  year: 1731
+formula: 0100 1000 str
+instrumentation:
+  oboe: 1
+  horn: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ert%C3%B6net_bald_herrlich%2C_ihr_letzten_Posaunen%2C_TWV_1%3A476_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: horn (corno da caccia), oboe, strings, continuo'
+duration_minutes: 20

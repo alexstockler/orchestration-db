@@ -1,0 +1,15 @@
+id: purcell-the-glass-was-just-timed
+work:
+  composer: Purcell, Henry
+  title: The Glass Was Just Timed
+  ids:
+    imslp: The Glass Was Just Timed (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Glass_Was_Just_Timed_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

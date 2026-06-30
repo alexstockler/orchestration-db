@@ -1,0 +1,16 @@
+id: purcell-the-concealment
+work:
+  composer: Purcell, Henry
+  title: The Concealment
+  ids:
+    imslp: The Concealment, Z.468 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Concealment%2C_Z.468_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

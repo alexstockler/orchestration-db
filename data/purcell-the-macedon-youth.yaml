@@ -1,0 +1,16 @@
+id: purcell-the-macedon-youth
+work:
+  composer: Purcell, Henry
+  title: The Macedon Youth
+  ids:
+    imslp: The Macedon Youth, Z.276 (Purcell, Henry)
+  year: 1686
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Macedon_Youth%2C_Z.276_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices'

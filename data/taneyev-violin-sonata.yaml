@@ -1,0 +1,19 @@
+id: taneyev-violin-sonata
+work:
+  composer: Taneyev, Sergey
+  title: Violin Sonata
+  ids:
+    imslp: Violin Sonata (Taneyev, Sergey)
+  year: 1911
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 25

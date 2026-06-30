@@ -1,0 +1,20 @@
+id: telemann-ein-ungefarbt-gemute
+work:
+  composer: Telemann, Georg Philipp
+  title: Ein ungefärbt' Gemüte
+  ids:
+    imslp: Ein ungefärbt' Gemüte, TWV 1:434 (Telemann, Georg Philipp)
+formula: 0020 0000
+instrumentation:
+  clarinet: 2
+  chorus_raw: satb chorus
+  solo_strings:
+    violin: 2
+    viola: 2
+  additional_raw: STB soli | orchestra (2 oboes | 2 corni da caccia | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ein_ungef%C3%A4rbt%27_Gem%C3%BCte%2C_TWV_1%3A434_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: STB soli, SATB chorus, orchestra (2 oboes, 2 clarinets,
+    2 corni da caccia, 2 violins, 2 violas, continuo'

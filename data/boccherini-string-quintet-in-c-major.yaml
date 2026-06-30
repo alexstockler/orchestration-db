@@ -1,0 +1,18 @@
+id: boccherini-string-quintet-in-c-major
+work:
+  composer: Boccherini, Luigi
+  title: String Quintet in C major
+  ids:
+    imslp: String Quintet in C major, G.298 (Boccherini, Luigi)
+  year: 1778
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quintet_in_C_major%2C_G.298_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violin, viola, 2 cellos'

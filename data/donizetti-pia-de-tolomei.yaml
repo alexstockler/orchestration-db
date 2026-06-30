@@ -1,0 +1,19 @@
+id: donizetti-pia-de-tolomei
+work:
+  composer: Donizetti, Gaetano
+  title: Pia de' Tolomei
+  ids:
+    imslp: Pia de' Tolomei (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: Pia (soprano) | Ghino Degli Armieri (tenor) | Nello Della Pietra
+    (baritone) | Rodrigo (contralto) | Piero (bass) | Ubaldo (tenor) | Bice (soprano)
+    | Lamberto (bass)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pia_de%27_Tolomei_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: Pia (soprano), Ghino Degli Armieri (tenor), Nello
+    Della Pietra (baritone), Rodrigo (contralto), Piero (bass), Ubaldo (tenor), Bice
+    (soprano), Lamberto (bass) + mixed chorus (SATB), Orchestra'

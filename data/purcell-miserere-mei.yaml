@@ -1,0 +1,16 @@
+id: purcell-miserere-mei
+work:
+  composer: Purcell, Henry
+  title: Miserere mei
+  ids:
+    imslp: Miserere mei, Z.109 (Purcell, Henry)
+  year: 1694
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Miserere_mei%2C_Z.109_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 1

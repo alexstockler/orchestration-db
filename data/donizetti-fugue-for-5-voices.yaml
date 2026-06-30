@@ -1,0 +1,15 @@
+id: donizetti-fugue-for-5-voices
+work:
+  composer: Donizetti, Gaetano
+  title: Fugue for 5 Voices
+  ids:
+    imslp: Fugue for 5 Voices, A 713 (Donizetti, Gaetano)
+  year: 1817
+formula: ''
+instrumentation:
+  additional_raw: 5 instruments
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_for_5_Voices%2C_A_713_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: 5 instruments'

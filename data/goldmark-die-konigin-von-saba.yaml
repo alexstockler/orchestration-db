@@ -1,0 +1,17 @@
+id: goldmark-die-konigin-von-saba
+work:
+  composer: Goldmark, Carl
+  title: Die Königin von Saba
+  ids:
+    imslp: Die Königin von Saba, Op.27 (Goldmark, Carl)
+  year: 1871
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_K%C3%B6nigin_von_Saba%2C_Op.27_%28Goldmark%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

@@ -1,0 +1,23 @@
+id: cherubini-domine-dominus-noster
+work:
+  composer: Cherubini, Luigi
+  title: Domine Dominus noster
+  ids:
+    imslp: Domine Dominus noster (Cherubini, Luigi)
+  year: 1820
+formula: 2120 2000 str
+instrumentation:
+  flute: 2
+  oboe: 1
+  clarinet: 2
+  horn: 2
+  strings: str
+  soloists:
+  - soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Domine_Dominus_noster_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice: soprano, Orchestra: 2 flutes, oboe, 2 clarinets
+    (C), 2 horns (F), strings'
+duration_minutes: 8

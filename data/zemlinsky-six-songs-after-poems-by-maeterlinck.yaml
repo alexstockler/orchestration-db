@@ -1,0 +1,19 @@
+id: zemlinsky-six-songs-after-poems-by-maeterlinck
+work:
+  composer: Zemlinsky, Alexander von
+  title: Six Songs after Poems by Maeterlinck
+  ids:
+    imslp: 6 Songs after Poems by Maeterlinck, Op.13 (Zemlinsky, Alexander von)
+  year: 1910
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Songs_after_Poems_by_Maeterlinck%2C_Op.13_%28Zemlinsky%2C_Alexander_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano, voice, orchestra'

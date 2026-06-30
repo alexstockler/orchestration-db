@@ -1,0 +1,15 @@
+id: donizetti-qui-tollis
+work:
+  composer: Donizetti, Gaetano
+  title: Qui tollis
+  ids:
+    imslp: Qui tollis, A 590 (Donizetti, Gaetano)
+  year: 1819
+formula: ''
+instrumentation:
+  additional_raw: '? voices (STB) | oboe/clarinet'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Qui_tollis%2C_A_590_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: ? voices (STB), oboe/clarinet, orchestra'

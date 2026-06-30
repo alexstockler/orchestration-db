@@ -1,0 +1,20 @@
+id: telemann-durch-christi-auferstehungskraft
+work:
+  composer: Telemann, Georg Philipp
+  title: Durch Christi Auferstehungskraft
+  ids:
+    imslp: Durch Christi Auferstehungskraft, TWV 1:397 (Telemann, Georg Philipp)
+  year: 1749
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - tenor
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Durch_Christi_Auferstehungskraft%2C_TWV_1%3A397_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: tenor; mixed chorus (SATB), Orchestra: strings,
+    continuo'

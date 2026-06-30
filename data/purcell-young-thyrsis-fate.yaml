@@ -1,0 +1,16 @@
+id: purcell-young-thyrsis-fate
+work:
+  composer: Purcell, Henry
+  title: Young Thyrsis' Fate
+  ids:
+    imslp: Young Thyrsis' Fate, Z.473 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Young_Thyrsis%27_Fate%2C_Z.473_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

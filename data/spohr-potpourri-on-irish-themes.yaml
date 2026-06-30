@@ -1,0 +1,16 @@
+id: spohr-potpourri-on-irish-themes
+work:
+  composer: Spohr, Louis
+  title: Potpourri on Irish Themes
+  ids:
+    imslp: Potpourri on Irish Themes, Op.59 (Spohr, Louis)
+  year: 1823
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Potpourri_on_Irish_Themes%2C_Op.59_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, orchestra'

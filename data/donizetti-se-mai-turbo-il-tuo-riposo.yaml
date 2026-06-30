@@ -1,0 +1,18 @@
+id: donizetti-se-mai-turbo-il-tuo-riposo
+work:
+  composer: Donizetti, Gaetano
+  title: Se mai turbo il tuo riposo
+  ids:
+    imslp: Se mai turbo il tuo riposo, A 416 (Donizetti, Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - sopranos
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Se_mai_turbo_il_tuo_riposo%2C_A_416_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, piano'
+duration_minutes: 3

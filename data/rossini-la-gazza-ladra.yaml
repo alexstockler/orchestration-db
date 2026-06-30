@@ -1,0 +1,46 @@
+id: rossini-la-gazza-ladra
+work:
+  composer: Rossini, Gioachino
+  title: La gazza ladra
+  ids:
+    imslp: La gazza ladra (Rossini, Gioachino)
+  year: 1817
+formula: 2[pic.2] 2 2 2 4210 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drum
+    - bass drum
+    - triangle
+  strings: str
+  soloists:
+  - Ninetta (soprano)
+  - Fabrizio Vingradito (bass)
+  - Lucia (mezzo-soprano)
+  - Giannettor (tenor)
+  - Fernando Villabella (bass-baritone)
+  - Gottardo the Podestà (bass)
+  - Pippo (alto)
+  - Giorgio (bass)
+  - Isacco (tenor)
+  - Antonio (tenor)
+  - Ernesto (bass)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_gazza_ladra_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Ninetta (soprano), Fabrizio Vingradito (bass), Lucia
+    (mezzo-soprano), Giannettor (tenor), Fernando Villabella (bass-baritone), Gottardo
+    the Podestà (bass), Pippo (alto), Giorgio (bass), Isacco (tenor), Antonio (tenor),
+    Ernesto (bass) Orchestra :piccolo, flute, 2 oboes, 2 clarinets, 2 bassoons, 4
+    horns, 2 trumpets, trombone, timpani, snare drum, bass drum, triangle, strings'

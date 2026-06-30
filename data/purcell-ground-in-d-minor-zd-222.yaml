@@ -1,0 +1,15 @@
+id: purcell-ground-in-d-minor-zd-222
+work:
+  composer: Purcell, Henry
+  title: Ground in D minor, ZD 222
+  ids:
+    imslp: Ground in D minor, ZD 222 (Purcell, Henry)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ground_in_D_minor%2C_ZD_222_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

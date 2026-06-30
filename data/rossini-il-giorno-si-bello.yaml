@@ -1,0 +1,18 @@
+id: rossini-il-giorno-si-bello
+work:
+  composer: Rossini, Gioachino
+  title: Il giorno si bello
+  ids:
+    imslp: Il giorno si bello (Rossini, Gioachino)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - sopranos
+  - tenor
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_giorno_si_bello_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, tenor, piano or harp'

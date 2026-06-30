@@ -1,0 +1,16 @@
+id: purcell-pale-faces-stand-by
+work:
+  composer: Purcell, Henry
+  title: Pale Faces, Stand By
+  ids:
+    imslp: Pale Faces, Stand By, Z.267 (Purcell, Henry)
+  year: 1688
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pale_Faces%2C_Stand_By%2C_Z.267_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

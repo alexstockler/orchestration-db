@@ -1,0 +1,16 @@
+id: zemlinsky-ehetanzlied-op-10
+work:
+  composer: Zemlinsky, Alexander von
+  title: Ehetanzlied, Op.10
+  ids:
+    imslp: Ehetanzlied, Op.10 (Zemlinsky, Alexander von)
+  year: 1901
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ehetanzlied%2C_Op.10_%28Zemlinsky%2C_Alexander_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

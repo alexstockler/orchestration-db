@@ -1,0 +1,16 @@
+id: purcell-drink-on-till-night-be-spent
+work:
+  composer: Purcell, Henry
+  title: Drink On, till Night Be Spent
+  ids:
+    imslp: Drink On, till Night Be Spent, Z.248 (Purcell, Henry)
+  year: 1686
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Drink_On%2C_till_Night_Be_Spent%2C_Z.248_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

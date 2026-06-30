@@ -1,0 +1,14 @@
+id: donizetti-credo-in-e-flat-major
+work:
+  composer: Donizetti, Gaetano
+  title: Credo in E-flat major
+  ids:
+    imslp: Credo in E-flat major (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  additional_raw: unknown (missing parts)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Credo_in_E-flat_major_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: unknown (missing parts)'

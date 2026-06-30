@@ -1,0 +1,15 @@
+id: donizetti-taci-tu-cerchi-indarno-difesa-a-110
+work:
+  composer: Donizetti, Gaetano
+  title: Taci, tu cerchi indarno difesa, A 110
+  ids:
+    imslp: Taci, tu cerchi indarno difesa, A 110 (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Taci%2C_tu_cerchi_indarno_difesa%2C_A_110_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, orchestra'

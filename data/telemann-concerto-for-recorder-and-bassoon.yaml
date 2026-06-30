@@ -1,0 +1,16 @@
+id: telemann-concerto-for-recorder-and-bassoon
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto for Recorder and Bassoon
+  ids:
+    imslp: Concerto for Recorder and Bassoon, TWV 52:F1 (Telemann, Georg Philipp)
+formula: 0001 0000 str
+instrumentation:
+  bassoon: 1
+  strings: str
+  additional_raw: recorder | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_Recorder_and_Bassoon%2C_TWV_52%3AF1_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: recorder, bassoon, strings, continuo'

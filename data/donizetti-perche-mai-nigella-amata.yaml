@@ -1,0 +1,17 @@
+id: donizetti-perche-mai-nigella-amata
+work:
+  composer: Donizetti, Gaetano
+  title: Perché mai Nigella amata
+  ids:
+    imslp: Perché mai Nigella amata, In.533 (Donizetti, Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Perch%C3%A9_mai_Nigella_amata%2C_In.533_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, piano'

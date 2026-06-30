@@ -1,0 +1,16 @@
+id: chabrier-nez-au-vent
+work:
+  composer: Chabrier, Emmanuel
+  title: Nez au vent
+  ids:
+    imslp: Nez au vent (Chabrier, Emmanuel)
+  year: 1886
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nez_au_vent_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

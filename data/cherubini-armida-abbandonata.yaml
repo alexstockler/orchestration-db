@@ -1,0 +1,14 @@
+id: cherubini-armida-abbandonata
+work:
+  composer: Cherubini, Luigi
+  title: Armida abbandonata
+  ids:
+    imslp: Armida abbandonata (Cherubini, Luigi)
+formula: ''
+instrumentation:
+  additional_raw: '|Tags=operas | vv ch orch | it'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Armida_abbandonata_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: |Tags=operas ; vv ch orch ; it'

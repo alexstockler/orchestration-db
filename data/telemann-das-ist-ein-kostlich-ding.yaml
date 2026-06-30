@@ -1,0 +1,24 @@
+id: telemann-das-ist-ein-kostlich-ding
+work:
+  composer: Telemann, Georg Philipp
+  title: Das ist ein köstlich Ding
+  ids:
+    imslp: Das ist ein köstlich Ding, TWV 1:180 (Telemann, Georg Philipp)
+  year: 1711
+formula: 0000 0100 str
+instrumentation:
+  trumpet: 1
+  strings: str
+  soloists:
+  - soprano
+  - tenor
+  - bass solos
+  chorus_raw: mixed chorus
+  additional_raw: 2 oboes (optional) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_ist_ein_k%C3%B6stlich_Ding%2C_TWV_1%3A180_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, bass solos; mixed chorus (SATB), trumpet,
+    2 oboes (optional), strings, continuo'
+duration_minutes: 15

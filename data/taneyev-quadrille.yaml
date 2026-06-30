@@ -1,0 +1,17 @@
+id: taneyev-quadrille
+work:
+  composer: Taneyev, Sergey
+  title: Quadrille
+  ids:
+    imslp: Quadrille in A major (Taneyev, Sergey)
+  year: 1879
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Quadrille_in_A_major_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'
+duration_minutes: 8

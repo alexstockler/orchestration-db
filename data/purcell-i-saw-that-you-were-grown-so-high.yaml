@@ -1,0 +1,17 @@
+id: purcell-i-saw-that-you-were-grown-so-high
+work:
+  composer: Purcell, Henry
+  title: I Saw that You Were Grown So High
+  ids:
+    imslp: I Saw that You Were Grown So High, Z.387 (Purcell, Henry)
+  year: 1678
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/I_Saw_that_You_Were_Grown_So_High%2C_Z.387_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

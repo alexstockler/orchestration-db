@@ -1,0 +1,20 @@
+id: spohr-piano-quintet-no-1
+work:
+  composer: Spohr, Louis
+  title: Piano Quintet No.1
+  ids:
+    imslp: Piano Quintet No.1, Op.53 (Spohr, Louis)
+  year: 1820
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quintet_No.1%2C_Op.53_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello, piano'

@@ -1,0 +1,15 @@
+id: purcell-blessed-is-he-whose-unrighteousness
+work:
+  composer: Purcell, Henry
+  title: Blessed Is He whose Unrighteousness
+  ids:
+    imslp: Blessed Is He whose Unrighteousness, Z.8 (Purcell, Henry)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Blessed_Is_He_whose_Unrighteousness%2C_Z.8_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus, continuo'

@@ -1,0 +1,15 @@
+id: boccherini-cello-sonata-in-f-major
+work:
+  composer: Boccherini, Luigi
+  title: Cello Sonata in F major
+  ids:
+    imslp: Cello Sonata in F major, G.1 (Boccherini, Luigi)
+  year: 1764
+formula: ''
+instrumentation:
+  additional_raw: Cello and Basso (probably 2nd Cello)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Sonata_in_F_major%2C_G.1_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Cello and Basso (probably 2nd Cello)'

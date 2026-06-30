@@ -1,0 +1,17 @@
+id: purcell-in-vain-we-dissemble
+work:
+  composer: Purcell, Henry
+  title: In Vain We Dissemble
+  ids:
+    imslp: In Vain We Dissemble, Z.385 (Purcell, Henry)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_Vain_We_Dissemble%2C_Z.385_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

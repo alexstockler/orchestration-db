@@ -1,0 +1,23 @@
+id: telemann-gesegnet-ist-die-zuversicht
+work:
+  composer: Telemann, Georg Philipp
+  title: Gesegnet ist die Zuversicht
+  ids:
+    imslp: Gesegnet ist die Zuversicht, TWV 1:616 (Telemann, Georg Philipp)
+  year: 1718
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - soprano
+  - bass
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gesegnet_ist_die_Zuversicht%2C_TWV_1%3A616_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, bass; mixed chorus (SATB), Orchestra:
+    2 oboes, strings, continuo'
+duration_minutes: 15

@@ -1,0 +1,16 @@
+id: balakirev-polka
+work:
+  composer: Balakirev, Mily
+  title: Polka
+  ids:
+    imslp: Polka (Balakirev, Mily)
+  year: 1857
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Polka_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

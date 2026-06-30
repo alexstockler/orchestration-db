@@ -1,0 +1,18 @@
+id: telemann-halt-ein-mit-deinem-wetterstrahle
+work:
+  composer: Telemann, Georg Philipp
+  title: Halt ein mit deinem Wetterstrahle
+  ids:
+    imslp: Halt ein mit deinem Wetterstrahle, TWV 1:715 (Telemann, Georg Philipp)
+  year: 1725
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+  additional_raw: medium voice | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Halt_ein_mit_deinem_Wetterstrahle%2C_TWV_1%3A715_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: medium voice, violin, continuo'
+duration_minutes: 8

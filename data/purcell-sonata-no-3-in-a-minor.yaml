@@ -1,0 +1,17 @@
+id: purcell-sonata-no-3-in-a-minor
+work:
+  composer: Purcell, Henry
+  title: Sonata No.3 in A minor
+  ids:
+    imslp: Sonata in A minor, Z.804 (Purcell, Henry)
+  year: 1697
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: bass viol | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_in_A_minor%2C_Z.804_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, bass viol, continuo'

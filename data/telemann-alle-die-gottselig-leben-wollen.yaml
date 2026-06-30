@@ -1,0 +1,18 @@
+id: telemann-alle-die-gottselig-leben-wollen
+work:
+  composer: Telemann, Georg Philipp
+  title: Alle, die gottselig leben wollen
+  ids:
+    imslp: Alle, die gottselig leben wollen, TWV 1:50 (Telemann, Georg Philipp)
+  year: 1720
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alle%2C_die_gottselig_leben_wollen%2C_TWV_1%3A50_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'
+duration_minutes: 17

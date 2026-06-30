@@ -1,0 +1,18 @@
+id: telemann-christen-heien-und-nicht-sein
+work:
+  composer: Telemann, Georg Philipp
+  title: Christen heißen und nicht sein
+  ids:
+    imslp: Christen heißen und nicht sein, TWV 1:135 (Telemann, Georg Philipp)
+  year: 1713
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Christen_hei%C3%9Fen_und_nicht_sein%2C_TWV_1%3A135_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'
+duration_minutes: 10

@@ -1,0 +1,18 @@
+id: purcell-jehovah-quam-multi-sunt-hostes-mei
+work:
+  composer: Purcell, Henry
+  title: Jehovah, quam multi sunt hostes mei
+  ids:
+    imslp: Jehovah, quam multi sunt hostes mei, Z.135 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - 2 voices
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jehovah%2C_quam_multi_sunt_hostes_mei%2C_Z.135_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices (TB) + mixed chorus (SSATB) + continuo'
+duration_minutes: 8

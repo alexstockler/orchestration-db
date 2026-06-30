@@ -1,0 +1,15 @@
+id: cherubini-rondo
+work:
+  composer: Cherubini, Luigi
+  title: Rondo
+  ids:
+    imslp: Rondo (Cherubini, Luigi)
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rondo_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins'

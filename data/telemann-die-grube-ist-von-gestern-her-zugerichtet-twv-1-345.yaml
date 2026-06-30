@@ -1,0 +1,25 @@
+id: telemann-die-grube-ist-von-gestern-her-zugerichtet-twv-1-345
+work:
+  composer: Telemann, Georg Philipp
+  title: Die Grube ist von gestern her zugerichtet, TWV 1:345
+  ids:
+    imslp: Die Grube ist von gestern her zugerichtet, TWV 1:345 (Telemann, Georg Philipp)
+  year: 1727
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Grube_ist_von_gestern_her_zugerichtet%2C_TWV_1%3A345_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, mixed chorus (SATB), 2 oboes,
+    strings, continuo'
+duration_minutes: 11

@@ -1,0 +1,15 @@
+id: telemann-es-segne-uns-gott
+work:
+  composer: Telemann, Georg Philipp
+  title: Es segne uns Gott
+  ids:
+    imslp: Es segne uns Gott, TWV 8:8 (Telemann, Georg Philipp)
+formula: ''
+instrumentation:
+  additional_raw: Voices SSTB and continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_segne_uns_Gott%2C_TWV_8%3A8_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices SSTB and continuo'
+duration_minutes: 3

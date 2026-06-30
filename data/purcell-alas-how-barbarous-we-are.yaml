@@ -1,0 +1,17 @@
+id: purcell-alas-how-barbarous-we-are
+work:
+  composer: Purcell, Henry
+  title: Alas, How Barbarous We Are
+  ids:
+    imslp: Alas, How Barbarous We Are, Z.482 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alas%2C_How_Barbarous_We_Are%2C_Z.482_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'

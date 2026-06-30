@@ -1,0 +1,26 @@
+id: balakirev-octet
+work:
+  composer: Balakirev, Mily
+  title: Octet
+  ids:
+    imslp: Octet, Op.3 (Balakirev, Mily)
+  year: 1855
+formula: 1100 1000 pf
+instrumentation:
+  flute: 1
+  oboe: 1
+  horn: 1
+  keyboards:
+  - instrument: piano
+  soloists:
+  - bass
+  solo_strings:
+    violin: 1
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Octet%2C_Op.3_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, horn, violin, viola, cello, bass, piano'
+duration_minutes: 13

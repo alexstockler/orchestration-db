@@ -1,0 +1,19 @@
+id: telemann-am-gottlichen-segen-ist-alles-gelegen
+work:
+  composer: Telemann, Georg Philipp
+  title: Am göttlichen Segen ist alles gelegen
+  ids:
+    imslp: Am göttlichen Segen ist alles gelegen, TWV 1:93 (Telemann, Georg Philipp)
+  year: 1737
+formula: 2200 0000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Am_g%C3%B6ttlichen_Segen_ist_alles_gelegen%2C_TWV_1%3A93_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, strings, continuo'
+duration_minutes: 13

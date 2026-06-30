@@ -1,0 +1,16 @@
+id: chausson-les-vepres-de-commun-des-saints
+work:
+  composer: Chausson, Ernest
+  title: Les Vêpres de Commun des Saints
+  ids:
+    imslp: Les Vêpres de Commun des Saints, Op.31 (Chausson, Ernest)
+  year: 1897
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_V%C3%AApres_de_Commun_des_Saints%2C_Op.31_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: Organ'

@@ -1,0 +1,18 @@
+id: spohr-scherzino
+work:
+  composer: Spohr, Louis
+  title: Scherzino
+  ids:
+    imslp: Scherzino, WoO 43 (Spohr, Louis)
+  year: 1859
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scherzino%2C_WoO_43_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

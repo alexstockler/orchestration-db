@@ -1,0 +1,18 @@
+id: donizetti-amor-mio-nume
+work:
+  composer: Donizetti, Gaetano
+  title: Amor, mio nume
+  ids:
+    imslp: Amor, mio nume, In.242 (Donizetti, Gaetano)
+  year: 1816
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Amor%2C_mio_nume%2C_In.242_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

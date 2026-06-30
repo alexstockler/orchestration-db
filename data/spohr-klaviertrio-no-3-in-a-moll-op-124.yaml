@@ -1,0 +1,19 @@
+id: spohr-klaviertrio-no-3-in-a-moll-op-124
+work:
+  composer: Spohr, Louis
+  title: Klaviertrio No. 3 in A-moll, Op.124
+  ids:
+    imslp: Piano Trio No.3, Op.124 (Spohr, Louis)
+  year: 1842
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio_No.3%2C_Op.124_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin, Cello, Piano'

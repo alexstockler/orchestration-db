@@ -1,0 +1,15 @@
+id: arensky-3-choruses
+work:
+  composer: Arensky, Anton
+  title: 3 Choruses
+  ids:
+    imslp: 3 Choruses, Op.39 (Arensky, Anton)
+  year: 1895
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Choruses%2C_Op.39_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB) (Nos.1-2), male chorus (TTBB) (No.3)'

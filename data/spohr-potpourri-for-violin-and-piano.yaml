@@ -1,0 +1,17 @@
+id: spohr-potpourri-for-violin-and-piano
+work:
+  composer: Spohr, Louis
+  title: Potpourri for Violin and Piano
+  ids:
+    imslp: Potpourri for Violin and Piano, Op.42 (Spohr, Louis)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Potpourri_for_Violin_and_Piano%2C_Op.42_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

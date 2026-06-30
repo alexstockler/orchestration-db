@@ -1,0 +1,15 @@
+id: arensky-2-quartets
+work:
+  composer: Arensky, Anton
+  title: 2 Quartets
+  ids:
+    imslp: 2 Quartets, Op.55 (Arensky, Anton)
+  year: 1901
+formula: ''
+instrumentation:
+  additional_raw: SATB voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Quartets%2C_Op.55_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB voices'

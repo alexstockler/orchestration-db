@@ -1,0 +1,16 @@
+id: donizetti-gia-dell-avita-gloria
+work:
+  composer: Donizetti, Gaetano
+  title: Già dell'avita gloria
+  ids:
+    imslp: Già dell'avita gloria (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: male? chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gi%C3%A0_dell%27avita_gloria_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (tenor?), male? chorus, orchestra'

@@ -1,0 +1,18 @@
+id: telemann-friede-sei-mit-dir
+work:
+  composer: Telemann, Georg Philipp
+  title: Friede sei mit dir
+  ids:
+    imslp: Friede sei mit dir, TWV 1:deest (Telemann, Georg Philipp)
+  year: 1737
+formula: 2000 0000 str
+instrumentation:
+  flute: 2
+  strings: str
+  additional_raw: 2 oboes/oboes d'amore | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Friede_sei_mit_dir%2C_TWV_1%3Adeest_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes/oboes d''amore, strings, continuo'
+duration_minutes: 12

@@ -1,0 +1,15 @@
+id: purcell-soldier-soldier-take-off-thy-wine
+work:
+  composer: Purcell, Henry
+  title: Soldier, Soldier, Take Off Thy Wine
+  ids:
+    imslp: Soldier, Soldier, Take Off Thy Wine, Z.274 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Soldier%2C_Soldier%2C_Take_Off_Thy_Wine%2C_Z.274_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices'

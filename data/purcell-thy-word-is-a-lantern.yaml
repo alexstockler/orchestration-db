@@ -1,0 +1,19 @@
+id: purcell-thy-word-is-a-lantern
+work:
+  composer: Purcell, Henry
+  title: Thy Word is a Lantern
+  ids:
+    imslp: Thy Word is a Lantern, Z.61 (Purcell, Henry)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - alto
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Thy_Word_is_a_Lantern%2C_Z.61_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, tenor, bass, organ'

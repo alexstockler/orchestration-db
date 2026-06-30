@@ -1,0 +1,20 @@
+id: donizetti-dixit-dominus
+work:
+  composer: Donizetti, Gaetano
+  title: Dixit Dominus
+  ids:
+    imslp: Dixit Dominus (Donizetti, Gaetano)
+  year: 1819
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dixit_Dominus_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, bass, mixed chorus (STB/SATB), orchestra'
+duration_minutes: 7

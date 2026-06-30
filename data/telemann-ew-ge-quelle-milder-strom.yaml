@@ -1,0 +1,16 @@
+id: telemann-ew-ge-quelle-milder-strom
+work:
+  composer: Telemann, Georg Philipp
+  title: Ew'ge Quelle, milder Strom
+  ids:
+    imslp: Ew'ge Quelle, milder Strom, TWV 1:546 (Telemann, Georg Philipp)
+  year: 1725
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  additional_raw: medium voice | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ew%27ge_Quelle%2C_milder_Strom%2C_TWV_1%3A546_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: medium voice, flute, continuo'

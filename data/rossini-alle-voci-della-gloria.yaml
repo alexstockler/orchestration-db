@@ -1,0 +1,15 @@
+id: rossini-alle-voci-della-gloria
+work:
+  composer: Rossini, Gioachino
+  title: Alle voci della gloria
+  ids:
+    imslp: Alle voci della gloria (Rossini, Gioachino)
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alle_voci_della_gloria_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, orchestra'

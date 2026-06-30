@@ -1,0 +1,16 @@
+id: purcell-a-new-scotch-tune
+work:
+  composer: Purcell, Henry
+  title: A New Scotch Tune
+  ids:
+    imslp: A New Scotch Tune, Z.655 (Purcell, Henry)
+  year: 1687
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/A_New_Scotch_Tune%2C_Z.655_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

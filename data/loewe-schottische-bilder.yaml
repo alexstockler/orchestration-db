@@ -1,0 +1,16 @@
+id: loewe-schottische-bilder
+work:
+  composer: Loewe, Carl
+  title: Schottische Bilder
+  ids:
+    imslp: Schottische Bilder, Op.112 (Loewe, Carl)
+formula: 0010 0000 pf
+instrumentation:
+  clarinet: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Schottische_Bilder%2C_Op.112_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet (C), piano'

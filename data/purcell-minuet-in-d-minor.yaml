@@ -1,0 +1,15 @@
+id: purcell-minuet-in-d-minor
+work:
+  composer: Purcell, Henry
+  title: Minuet in D minor
+  ids:
+    imslp: Minuet in D minor, ZT 688 (Purcell, Henry)
+  year: 1687
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Minuet_in_D_minor%2C_ZT_688_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

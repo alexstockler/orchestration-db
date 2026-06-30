@@ -1,0 +1,16 @@
+id: indy-tableaux-de-voyage
+work:
+  composer: Indy, Vincent d'
+  title: Tableaux de voyage
+  ids:
+    imslp: Tableaux de Voyage, Op.33 (Indy, Vincent d')
+  year: 1889
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tableaux_de_Voyage%2C_Op.33_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

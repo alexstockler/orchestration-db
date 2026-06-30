@@ -2,12 +2,12 @@
 
 ## Current state (2026-06-30)
 
-**~7,814 works** across 54 composers. Fully deployed at
+**~10,036 works** across 76 composers. Fully deployed at
 `https://orchestration-db-production.up.railway.app`.
 
 ### What's done
 
-- **IMSLP scraper** — MediaWiki API, cached, rate-limited, ~54 composers ingested
+- **IMSLP scraper** — MediaWiki API, cached, rate-limited, ~76 composers ingested
 - **Instrumentation parser** — Daniels-style formula + structured YAML model;
   handles solo strings, off-stage instruments, optional/ad lib. instruments
 - **SQLite schema** — `works`, `composers`, `work_instruments`,
@@ -30,10 +30,14 @@
 | 2026-06-30 | Respighi, Smetana, Kodály | +193 → 6,236 |
 | 2026-06-30 | Mussorgsky, Borodin, Gounod, Glazunov, Scriabin, Weber, Massenet, Offenbach, Lalo, Delibes | +1,189 → 7,425 |
 | 2026-06-30 | Parser improvements re-parse (solo strings, offstage, optional) | 7,814 re-parsed |
+| 2026-06-30 | Rossini (97), Donizetti (209), Cherubini (77), Spohr (163), Humperdinck (34), Chabrier (60), Chausson (50), Dukas (15), d'Indy (76), Balakirev (64), Arensky (61), Telemann (427), Rameau (60), Purcell (425), Corelli (39), Boccherini (69), Zemlinsky (29), Loewe (165) | +2,120 → 9,934 |
+| 2026-06-30 | Goldmark, Carl (42); Taneyev, Sergey (58) | +100 → **10,036** |
 
 **IMSLP name quirks to remember:**
 - Russian composers: `Aleksandr` not `Alexander` (Borodin, Glazunov, Scriabin)
-- `Prokofiev, Sergey` · `Rachmaninoff, Sergei` · `Shostakovich, Dmitry`
+- `Prokofiev, Sergey` · `Rachmaninoff, Sergei` · `Shostakovich, Dmitry` · `Taneyev, Sergey`
+- German: `Goldmark, Carl` (not Karl)
+- French: `Indy, Vincent d'` (not "d'Indy, Vincent")
 - Accented names must be passed exactly: `Fauré, Gabriel` · `Dvořák, Antonín` etc.
 
 ---

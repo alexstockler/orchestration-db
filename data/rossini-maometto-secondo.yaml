@@ -1,0 +1,17 @@
+id: rossini-maometto-secondo
+work:
+  composer: Rossini, Gioachino
+  title: Maometto secondo
+  ids:
+    imslp: Maometto secondo (Rossini, Gioachino)
+  year: 1823
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Maometto_secondo_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

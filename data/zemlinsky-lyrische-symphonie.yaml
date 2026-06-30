@@ -1,0 +1,35 @@
+id: zemlinsky-lyrische-symphonie
+work:
+  composer: Zemlinsky, Alexander von
+  title: Lyrische Symphonie
+  ids:
+    imslp: Lyrische Symphonie, Op.18 (Zemlinsky, Alexander von)
+  year: 1923
+formula: 4343 4331 1perc harm cel hp str
+instrumentation:
+  flute: 4
+  oboe: 3
+  clarinet: 4
+  bassoon: 3
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    players: 1
+  keyboards:
+  - instrument: harmonium
+  - instrument: celesta
+  harp: 1
+  strings: str
+  soloists:
+  - soprano
+  - baritone
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lyrische_Symphonie%2C_Op.18_%28Zemlinsky%2C_Alexander_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, baritone, Orchestra: 4 flutes, 3 oboes,
+    4 clarinets, 3 bassoons + 4 horns, 3 trumpets, 3 trombones, tuba + percussion
+    + harmonium, celesta, harp + strings'
+duration_minutes: 46

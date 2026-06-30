@@ -1,0 +1,16 @@
+id: donizetti-rondo
+work:
+  composer: Donizetti, Gaetano
+  title: Rondò
+  ids:
+    imslp: Rondò, A 533 (Donizetti, Gaetano)
+  year: 1825
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rond%C3%B2%2C_A_533_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

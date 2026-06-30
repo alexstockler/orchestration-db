@@ -1,0 +1,18 @@
+id: loewe-bilder-des-orients-op-10
+work:
+  composer: Loewe, Carl
+  title: Bilder des Orients, Op.10
+  ids:
+    imslp: Bilder des Orients, Op.10 (Loewe, Carl)
+  year: 1833
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bilder_des_Orients%2C_Op.10_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

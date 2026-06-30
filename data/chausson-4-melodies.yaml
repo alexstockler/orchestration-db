@@ -1,0 +1,18 @@
+id: chausson-4-melodies
+work:
+  composer: Chausson, Ernest
+  title: 4 Mélodies
+  ids:
+    imslp: 4 Mélodies, Op.8 (Chausson, Ernest)
+  year: 1882
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_M%C3%A9lodies%2C_Op.8_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

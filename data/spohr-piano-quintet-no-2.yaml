@@ -1,0 +1,21 @@
+id: spohr-piano-quintet-no-2
+work:
+  composer: Spohr, Louis
+  title: Piano Quintet No.2
+  ids:
+    imslp: Piano Quintet No.2, Op.130 (Spohr, Louis)
+  year: 1845
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quintet_No.2%2C_Op.130_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello, piano'
+duration_minutes: 31

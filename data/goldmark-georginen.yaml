@@ -1,0 +1,16 @@
+id: goldmark-georginen
+work:
+  composer: Goldmark, Carl
+  title: Georginen
+  ids:
+    imslp: Georginen, Op.52 (Goldmark, Carl)
+  year: 1913
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Georginen%2C_Op.52_%28Goldmark%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

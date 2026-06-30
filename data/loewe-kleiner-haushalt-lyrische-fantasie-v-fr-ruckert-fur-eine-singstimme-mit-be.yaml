@@ -1,0 +1,18 @@
+id: loewe-kleiner-haushalt-lyrische-fantasie-v-fr-ruckert-fur-eine-singstimme-mit-be
+work:
+  composer: Loewe, Carl
+  title: 'Kleiner Haushalt : lyrische Fantasie v. Fr. Rückert : für eine Singstimme
+    mit Begleitung des Piano-Forte : Op. 71'
+  ids:
+    imslp: Kleiner Haushalt, Op.71 (Loewe, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kleiner_Haushalt%2C_Op.71_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice,Piano'

@@ -1,0 +1,16 @@
+id: rameau-premier-livre-de-pieces-de-clavecin
+work:
+  composer: Rameau, Jean-Philippe
+  title: Premier Livre de Pièces de Clavecin
+  ids:
+    imslp: Premier livre de pièces de clavecin, RCT 1 (Rameau, Jean-Philippe)
+  year: 1706
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Premier_livre_de_pi%C3%A8ces_de_clavecin%2C_RCT_1_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

@@ -1,0 +1,16 @@
+id: purcell-would-you-know-how-we-meet
+work:
+  composer: Purcell, Henry
+  title: Would You Know How We Meet
+  ids:
+    imslp: Would You Know How We Meet, Z.290 (Purcell, Henry)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Would_You_Know_How_We_Meet%2C_Z.290_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

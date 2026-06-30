@@ -1,0 +1,18 @@
+id: telemann-concerto-for-2-flutes-and-violin-in-e-minor
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto for 2 Flutes and Violin in E minor
+  ids:
+    imslp: Concerto for 2 Flutes and Violin, TWV 53:e1 (Telemann, Georg Philipp)
+formula: 2000 0000 str
+instrumentation:
+  flute: 2
+  strings: str
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Flutes_and_Violin%2C_TWV_53%3Ae1_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, violin, strings, continuo'

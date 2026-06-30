@@ -1,0 +1,18 @@
+id: telemann-das-ist-meine-freude
+work:
+  composer: Telemann, Georg Philipp
+  title: Das ist meine Freude
+  ids:
+    imslp: Das ist meine Freude, TWV 1:188 (Telemann, Georg Philipp)
+  year: 1719
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_ist_meine_Freude%2C_TWV_1%3A188_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'
+duration_minutes: 10

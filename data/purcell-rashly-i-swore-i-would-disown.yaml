@@ -1,0 +1,17 @@
+id: purcell-rashly-i-swore-i-would-disown
+work:
+  composer: Purcell, Henry
+  title: Rashly I Swore I Would Disown
+  ids:
+    imslp: Rashly I Swore I Would Disown, Z.411 (Purcell, Henry)
+  year: 1683
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Rashly_I_Swore_I_Would_Disown%2C_Z.411_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

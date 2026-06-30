@@ -1,0 +1,18 @@
+id: loewe-archibald-douglas
+work:
+  composer: Loewe, Carl
+  title: Archibald Douglas
+  ids:
+    imslp: Archibald Douglas, Op.128 (Loewe, Carl)
+  year: 1857
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Archibald_Douglas%2C_Op.128_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

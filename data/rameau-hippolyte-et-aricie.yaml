@@ -1,0 +1,17 @@
+id: rameau-hippolyte-et-aricie
+work:
+  composer: Rameau, Jean-Philippe
+  title: Hippolyte et Aricie
+  ids:
+    imslp: Hippolyte et Aricie, RCT 43 (Rameau, Jean-Philippe)
+  year: 1733
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hippolyte_et_Aricie%2C_RCT_43_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

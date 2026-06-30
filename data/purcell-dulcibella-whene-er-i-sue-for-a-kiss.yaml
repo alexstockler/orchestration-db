@@ -1,0 +1,18 @@
+id: purcell-dulcibella-whene-er-i-sue-for-a-kiss
+work:
+  composer: Purcell, Henry
+  title: Dulcibella, Whene'er I Sue for a Kiss
+  ids:
+    imslp: Dulcibella, Whene'er I Sue for a Kiss, Z.485 (Purcell, Henry)
+  year: 1694
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dulcibella%2C_Whene%27er_I_Sue_for_a_Kiss%2C_Z.485_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'

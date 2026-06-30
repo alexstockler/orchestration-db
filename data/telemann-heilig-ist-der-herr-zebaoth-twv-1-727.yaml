@@ -1,0 +1,21 @@
+id: telemann-heilig-ist-der-herr-zebaoth-twv-1-727
+work:
+  composer: Telemann, Georg Philipp
+  title: Heilig ist der Herr Zebaoth, TWV 1:727
+  ids:
+    imslp: Heilig ist der Herr Zebaoth, TWV 1:727 (Telemann, Georg Philipp)
+  year: 1720
+formula: 0000 0300 tmp str
+instrumentation:
+  trumpet: 3
+  percussion:
+    timpani: 1
+  strings: str
+  chorus_raw: satb chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Heilig_ist_der_Herr_Zebaoth%2C_TWV_1%3A727_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB chorus, 3 trumpets, timpani, strings, continuo'
+duration_minutes: 2

@@ -1,0 +1,15 @@
+id: loewe-hiob-s-todessang
+work:
+  composer: Loewe, Carl
+  title: Hiob's Todessang
+  ids:
+    imslp: Hiob's Todessang (Loewe, Carl)
+  year: 1848
+formula: ''
+instrumentation:
+  chorus_raw: satb
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hiob%27s_Todessang_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB, Orchestra'

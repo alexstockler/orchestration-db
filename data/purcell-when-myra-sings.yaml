@@ -1,0 +1,18 @@
+id: purcell-when-myra-sings
+work:
+  composer: Purcell, Henry
+  title: When Myra Sings
+  ids:
+    imslp: When Myra Sings, Z.521 (Purcell, Henry)
+  year: 1695
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/When_Myra_Sings%2C_Z.521_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'

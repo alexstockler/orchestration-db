@@ -1,0 +1,16 @@
+id: donizetti-credo-in-c-major
+work:
+  composer: Donizetti, Gaetano
+  title: Credo in C major
+  ids:
+    imslp: Credo in C major (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Credo_in_C_major_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

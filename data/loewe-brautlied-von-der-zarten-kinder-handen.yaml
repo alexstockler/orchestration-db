@@ -1,0 +1,18 @@
+id: loewe-brautlied-von-der-zarten-kinder-handen
+work:
+  composer: Loewe, Carl
+  title: Brautlied Von der zarten Kinder Händen...
+  ids:
+    imslp: Brautlied ''Von der zarten Kinder Händen...'' (Loewe, Carl)
+  year: 1899
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Brautlied_%27%27Von_der_zarten_Kinder_H%C3%A4nden...%27%27_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

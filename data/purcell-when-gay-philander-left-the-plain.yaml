@@ -1,0 +1,17 @@
+id: purcell-when-gay-philander-left-the-plain
+work:
+  composer: Purcell, Henry
+  title: When Gay Philander Left the Plain
+  ids:
+    imslp: When Gay Philander Left the Plain, Z.519 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/When_Gay_Philander_Left_the_Plain%2C_Z.519_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'

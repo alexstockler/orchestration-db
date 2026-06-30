@@ -1,0 +1,16 @@
+id: chausson-sonatine-in-g-major
+work:
+  composer: Chausson, Ernest
+  title: Sonatine in G major
+  ids:
+    imslp: Sonatine in G major (Chausson, Ernest)
+  year: 1878
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonatine_in_G_major_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'

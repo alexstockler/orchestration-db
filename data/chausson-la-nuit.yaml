@@ -1,0 +1,16 @@
+id: chausson-la-nuit
+work:
+  composer: Chausson, Ernest
+  title: La nuit
+  ids:
+    imslp: La nuit (Chausson, Ernest)
+  year: 1883
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_nuit_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, orchestra'

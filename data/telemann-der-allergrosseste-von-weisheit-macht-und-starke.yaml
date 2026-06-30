@@ -1,0 +1,20 @@
+id: telemann-der-allergrosseste-von-weisheit-macht-und-starke
+work:
+  composer: Telemann, Georg Philipp
+  title: Der Allergrösseste, von Weisheit, Macht und Stärke
+  ids:
+    imslp: Der Allergrösseste, von Weisheit, Macht und Stärke, TWV 1:229 (Telemann,
+      Georg Philipp)
+  year: 1732
+formula: 2200 0000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Allergr%C3%B6sseste%2C_von_Weisheit%2C_Macht_und_St%C3%A4rke%2C_TWV_1%3A229_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, strings, continuo'
+duration_minutes: 18

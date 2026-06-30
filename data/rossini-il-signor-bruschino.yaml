@@ -1,0 +1,16 @@
+id: rossini-il-signor-bruschino
+work:
+  composer: Rossini, Gioachino
+  title: Il signor Bruschino
+  ids:
+    imslp: Il signor Bruschino (Rossini, Gioachino)
+  year: 1813
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_signor_Bruschino_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

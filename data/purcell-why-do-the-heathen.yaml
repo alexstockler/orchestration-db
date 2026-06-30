@@ -1,0 +1,23 @@
+id: purcell-why-do-the-heathen
+work:
+  composer: Purcell, Henry
+  title: Why do the heathen
+  ids:
+    imslp: Why Do the Heathen, Z.65 (Purcell, Henry)
+  year: 1683
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+  - tenor
+  - bass
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Why_Do_the_Heathen%2C_Z.65_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: alto, tenor, bass; mixed chorus (SATB), Orchestra:
+    strings, continuo'
+duration_minutes: 11

@@ -1,0 +1,15 @@
+id: donizetti-chanson-turque
+work:
+  composer: Donizetti, Gaetano
+  title: Chanson turque
+  ids:
+    imslp: Chanson turque (Donizetti, Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chanson_turque_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

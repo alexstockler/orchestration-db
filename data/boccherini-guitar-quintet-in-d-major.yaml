@@ -1,0 +1,20 @@
+id: boccherini-guitar-quintet-in-d-major
+work:
+  composer: Boccherini, Luigi
+  title: Guitar Quintet in D major
+  ids:
+    imslp: Guitar Quintet in D major, G.448 (Boccherini, Luigi)
+  year: 1798
+formula: gtr
+instrumentation:
+  extras:
+  - instrument: guitar
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Guitar_Quintet_in_D_major%2C_G.448_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: guitar, 2 violins, viola, cello'

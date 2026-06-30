@@ -1,0 +1,16 @@
+id: purcell-let-mines-eyes-run-down-with-tears
+work:
+  composer: Purcell, Henry
+  title: Let mines eyes run down with tears
+  ids:
+    imslp: Let mines eyes run down with tears, Z.24 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - 5 voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Let_mines_eyes_run_down_with_tears%2C_Z.24_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 5 voices, continuo'

@@ -1,0 +1,17 @@
+id: rossini-otello-ossio-il-moro-di-venezia
+work:
+  composer: Rossini, Gioachino
+  title: Otello, ossio il Moro di Venezia
+  ids:
+    imslp: Otello (Rossini, Gioachino)
+  year: 1816
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Otello_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

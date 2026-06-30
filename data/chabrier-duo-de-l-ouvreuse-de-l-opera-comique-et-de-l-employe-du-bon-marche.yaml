@@ -1,0 +1,19 @@
+id: chabrier-duo-de-l-ouvreuse-de-l-opera-comique-et-de-l-employe-du-bon-marche
+work:
+  composer: Chabrier, Emmanuel
+  title: Duo de l'ouvreuse de l'Opéra-Comique et de l'employé du Bon Marché
+  ids:
+    imslp: Duo de l'ouvreuse de l'Opéra-Comique et de l'employé du Bon Marché (Chabrier,
+      Emmanuel)
+  year: 1888
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Duo_de_l%27ouvreuse_de_l%27Op%C3%A9ra-Comique_et_de_l%27employ%C3%A9_du_Bon_March%C3%A9_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, piano'

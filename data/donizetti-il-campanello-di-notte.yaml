@@ -1,0 +1,35 @@
+id: donizetti-il-campanello-di-notte
+work:
+  composer: Donizetti, Gaetano
+  title: Il campanello di notte
+  ids:
+    imslp: Il campanello (Donizetti, Gaetano)
+  year: 1836
+formula: 2[pic.2] 2 2 2 2230 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - Serafina (soprano)
+  - Don Annibale di Pistacchio (bass)
+  - Spiridione (tenor)
+  - Madame Rosa (mezzo)
+  - Enrico (baritone) Mixed Chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_campanello_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Serafina (soprano), Don Annibale di Pistacchio (bass),
+    Spiridione (tenor), Madame Rosa (mezzo), Enrico (baritone) Mixed Chorus (SATB),
+    Orchestra :piccolo, flute, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets,
+    3 trombones, timpani, strings'

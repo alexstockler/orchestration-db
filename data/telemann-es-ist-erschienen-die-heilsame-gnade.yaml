@@ -1,0 +1,18 @@
+id: telemann-es-ist-erschienen-die-heilsame-gnade
+work:
+  composer: Telemann, Georg Philipp
+  title: Es ist erschienen die heilsame Gnade
+  ids:
+    imslp: Es ist erschienen die heilsame Gnade, TWV 1:507 (Telemann, Georg Philipp)
+  year: 1719
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_ist_erschienen_die_heilsame_Gnade%2C_TWV_1%3A507_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 recorders, 2 oboes, strings, continuo'
+duration_minutes: 15

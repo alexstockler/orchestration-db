@@ -1,0 +1,17 @@
+id: purcell-who-can-from-joy-refrain
+work:
+  composer: Purcell, Henry
+  title: Who can from Joy Refrain?
+  ids:
+    imslp: Who Can from Joy Refrain?, Z.342 (Purcell, Henry)
+  year: 1689
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Who_Can_from_Joy_Refrain%3F%2C_Z.342_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

@@ -1,0 +1,16 @@
+id: telemann-duet-for-2-flutes-or-violins-or-treble-viola-da-gambas-twv-40-107
+work:
+  composer: Telemann, Georg Philipp
+  title: Duet for 2 Flutes or Violins or [Treble] Viola da gambas, TWV 40:107
+  ids:
+    imslp: Duet for 2 Flutes, TWV 40:107 (Telemann, Georg Philipp)
+  year: 1728
+formula: 2000 0000
+instrumentation:
+  flute: 2
+  additional_raw: 2 recorders | 2 [treble] violas da gamba
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Duet_for_2_Flutes%2C_TWV_40%3A107_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes; 2 recorders; 2 [treble] violas da gamba'

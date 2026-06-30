@@ -1,0 +1,16 @@
+id: chausson-helene
+work:
+  composer: Chausson, Ernest
+  title: Hélène
+  ids:
+    imslp: Hélène, Op.7 (Chausson, Ernest)
+  year: 1883
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/H%C3%A9l%C3%A8ne%2C_Op.7_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, Chorus, Orchestra'

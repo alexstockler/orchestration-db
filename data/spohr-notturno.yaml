@@ -1,0 +1,37 @@
+id: spohr-notturno
+work:
+  composer: Spohr, Louis
+  title: Notturno
+  ids:
+    imslp: Notturno, Op.34 (Spohr, Louis)
+  year: 1815
+formula: 2[pic.pic] 2 2 3[1.2.cbn] 2210 posthorn
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - instrument: piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 2
+  trumpet: 2
+  trombone: 1
+  percussion:
+    instruments:
+    - triangle
+    - bass drum
+    - cymbals
+  extras:
+  - instrument: posthorn
+  additional_raw: (1st also flauto terzo, flute) | corno di basso
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Notturno%2C_Op.34_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 piccolos, (1st also flauto terzo, flute), 2 oboes, 2
+    clarinets, 2 bassoons, contrabassoon, 2 horns, 2 trumpets, posthorn, corno di
+    basso, trombone, triangle, bass drum, cymbals'
+duration_minutes: 30

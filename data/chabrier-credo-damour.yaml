@@ -1,0 +1,18 @@
+id: chabrier-credo-damour
+work:
+  composer: Chabrier, Emmanuel
+  title: Credo d’amour
+  ids:
+    imslp: Credo d'amour (Chabrier, Emmanuel)
+  year: 1883
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Credo_d%27amour_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

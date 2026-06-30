@@ -1,0 +1,17 @@
+id: purcell-the-mock-marriage
+work:
+  composer: Purcell, Henry
+  title: The Mock Marriage
+  ids:
+    imslp: The Mock Marriage, Z.605 (Purcell, Henry)
+  year: 1695
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Mock_Marriage%2C_Z.605_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

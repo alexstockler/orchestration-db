@@ -1,0 +1,16 @@
+id: purcell-young-john-the-gardener
+work:
+  composer: Purcell, Henry
+  title: Young John the Gardener
+  ids:
+    imslp: Young John the Gardener, Z.292 (Purcell, Henry)
+  year: 1683
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Young_John_the_Gardener%2C_Z.292_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices'

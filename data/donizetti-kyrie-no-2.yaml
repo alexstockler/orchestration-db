@@ -1,0 +1,20 @@
+id: donizetti-kyrie-no-2
+work:
+  composer: Donizetti, Gaetano
+  title: Kyrie No.2
+  ids:
+    imslp: Kyrie No.2, In.160 (Donizetti, Gaetano)
+  year: 1821
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  additional_raw: '? mixed chorus (SATB)'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kyrie_No.2%2C_In.160_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, ? mixed chorus (SATB), orchestra'

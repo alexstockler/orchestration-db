@@ -1,0 +1,19 @@
+id: rameau-thetis
+work:
+  composer: Rameau, Jean-Philippe
+  title: Thétis
+  ids:
+    imslp: Thétis, RCT 28 (Rameau, Jean-Philippe)
+  year: 1715
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Th%C3%A9tis%2C_RCT_28_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, violin, continuo'

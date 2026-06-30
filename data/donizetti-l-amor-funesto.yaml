@@ -1,0 +1,19 @@
+id: donizetti-l-amor-funesto
+work:
+  composer: Donizetti, Gaetano
+  title: L'amor funesto
+  ids:
+    imslp: L'amor funesto, A 286 (Donizetti, Gaetano)
+  year: 1842
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+  additional_raw: cello/horn
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27amor_funesto%2C_A_286_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, cello/horn, piano'

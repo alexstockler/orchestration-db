@@ -1,0 +1,17 @@
+id: donizetti-trio
+work:
+  composer: Donizetti, Gaetano
+  title: Trio
+  ids:
+    imslp: Trio, A 507 (Donizetti, Gaetano)
+formula: 1001 0000 pf
+instrumentation:
+  flute: 1
+  bassoon: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio%2C_A_507_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, bassoon, piano'

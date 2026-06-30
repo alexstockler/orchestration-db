@@ -1,0 +1,14 @@
+id: spohr-erinnerung-an-marienbad
+work:
+  composer: Spohr, Louis
+  title: Erinnerung an Marienbad
+  ids:
+    imslp: Erinnerung an Marienbad, Op.89 (Spohr, Louis)
+  year: 1834
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erinnerung_an_Marienbad%2C_Op.89_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra'

@@ -1,0 +1,18 @@
+id: chabrier-ballade-des-gros-dindons
+work:
+  composer: Chabrier, Emmanuel
+  title: Ballade des gros dindons
+  ids:
+    imslp: Ballade des gros dindons (Chabrier, Emmanuel)
+  year: 1889
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ballade_des_gros_dindons_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

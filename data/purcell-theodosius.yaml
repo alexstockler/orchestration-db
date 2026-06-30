@@ -1,0 +1,19 @@
+id: purcell-theodosius
+work:
+  composer: Purcell, Henry
+  title: Theodosius
+  ids:
+    imslp: Theodosius, Z.606 (Purcell, Henry)
+  year: 1680
+formula: 2000 0000
+instrumentation:
+  flute: 2
+  soloists:
+  - voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Theodosius%2C_Z.606_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, 2 flutes, continuo'
+duration_minutes: 30

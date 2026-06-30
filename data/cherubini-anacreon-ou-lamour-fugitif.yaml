@@ -1,0 +1,39 @@
+id: cherubini-anacreon-ou-lamour-fugitif
+work:
+  composer: Cherubini, Luigi
+  title: Anacréon, ou L’amour fugitif
+  ids:
+    imslp: Anacréon (Cherubini, Luigi)
+  year: 1803
+formula: 2[1.2/pic] 2 2 2 4230 tmp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - Anacréon (tenor)
+  - Corine (soprano)
+  - L'Amour = Cupid (soprano)
+  - Vénus (soprano)
+  - Bathille (tenor)
+  - Glycère (soprano)
+  - Athanaïs (soprano)
+  - Two slaves (sopranos)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Anacr%C3%A9on_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Anacréon (tenor), Corine (soprano), L''Amour = Cupid
+    (soprano), Vénus (soprano), Bathille (tenor), Glycère (soprano), Athanaïs (soprano),
+    Two slaves (sopranos) Orchestra :2 flutes (2nd also piccolo), 2 oboes, 2 clarinets,
+    2 bassoons, 4 horns, 2 trumpets, 3 trombones, timpani, strings'

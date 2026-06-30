@@ -1,0 +1,20 @@
+id: taneyev-2-romances
+work:
+  composer: Taneyev, Sergey
+  title: 2 Romances
+  ids:
+    imslp: 2 Romances, Op.9 (Taneyev, Sergey)
+  year: 1896
+formula: pf mand
+instrumentation:
+  keyboards:
+  - instrument: piano
+  extras:
+  - instrument: mandolin
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Romances%2C_Op.9_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, mandolin, piano'

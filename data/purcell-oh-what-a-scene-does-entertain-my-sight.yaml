@@ -1,0 +1,21 @@
+id: purcell-oh-what-a-scene-does-entertain-my-sight
+work:
+  composer: Purcell, Henry
+  title: Oh! What a Scene Does Entertain My Sight
+  ids:
+    imslp: Oh! What a Scene Does Entertain My Sight, Z.506 (Purcell, Henry)
+  year: 1682
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Oh%21_What_a_Scene_Does_Entertain_My_Sight%2C_Z.506_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, violin, continuo'
+duration_minutes: 7

@@ -1,0 +1,17 @@
+id: purcell-epsom-wells
+work:
+  composer: Purcell, Henry
+  title: Epsom Wells
+  ids:
+    imslp: Epsom Wells, Z.579 (Purcell, Henry)
+  year: 1693
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Epsom_Wells%2C_Z.579_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra (assumed)'
+duration_minutes: 3

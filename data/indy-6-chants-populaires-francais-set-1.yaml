@@ -1,0 +1,20 @@
+id: indy-6-chants-populaires-francais-set-1
+work:
+  composer: Indy, Vincent d'
+  title: 6 chants populaires français (Set 1)
+  ids:
+    imslp: 6 Chants Populaires Français (Set 2), Op.100 (Indy, Vincent d')
+  year: 1930
+formula: ''
+instrumentation:
+  soloists:
+  - soprano solo
+  - soprano
+  chorus_raw: satb chorus
+  additional_raw: 1-2 | 3-4 | 5 | Alto and Tenor solos | 6
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Chants_Populaires_Fran%C3%A7ais_%28Set_2%29%2C_Op.100_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: 1-2. SATB Chorus, 3-4. Soprano solo, SATB Chorus, 5. Soprano,
+    Alto and Tenor solos, SATB Chorus, 6. SATB Chorus'

@@ -1,0 +1,15 @@
+id: purcell-call-for-the-reckoning
+work:
+  composer: Purcell, Henry
+  title: Call for the Reckoning
+  ids:
+    imslp: Call for the Reckoning, Z.244 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Call_for_the_Reckoning%2C_Z.244_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

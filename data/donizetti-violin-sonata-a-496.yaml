@@ -1,0 +1,19 @@
+id: donizetti-violin-sonata-a-496
+work:
+  composer: Donizetti, Gaetano
+  title: Violin Sonata, A 496
+  ids:
+    imslp: Violin Sonata, A 496 (Donizetti, Gaetano)
+  year: 1819
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata%2C_A_496_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 7

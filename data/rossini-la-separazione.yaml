@@ -1,0 +1,18 @@
+id: rossini-la-separazione
+work:
+  composer: Rossini, Gioachino
+  title: La separazione
+  ids:
+    imslp: La separazione (Rossini, Gioachino)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_separazione_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 4

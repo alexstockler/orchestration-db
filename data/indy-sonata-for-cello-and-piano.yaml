@@ -1,0 +1,19 @@
+id: indy-sonata-for-cello-and-piano
+work:
+  composer: Indy, Vincent d'
+  title: Sonata for Cello and Piano
+  ids:
+    imslp: Cello Sonata, Op.84 (Indy, Vincent d')
+  year: 1924
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cello_Sonata%2C_Op.84_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: Cello, piano'
+duration_minutes: 18

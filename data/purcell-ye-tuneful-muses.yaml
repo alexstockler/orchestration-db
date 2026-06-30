@@ -1,0 +1,23 @@
+id: purcell-ye-tuneful-muses
+work:
+  composer: Purcell, Henry
+  title: Ye Tuneful Muses
+  ids:
+    imslp: Ye Tuneful Muses, Z.344 (Purcell, Henry)
+  year: 1686
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - sopranos
+  - altos
+  - tenor
+  chorus_raw: mixed chorus
+  additional_raw: 2 basses (solos) | 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ye_Tuneful_Muses%2C_Z.344_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, 2 altos, tenor, 2 basses (solos); mixed chorus
+    (SATB), 2 recorders, strings, continuo'
+duration_minutes: 23

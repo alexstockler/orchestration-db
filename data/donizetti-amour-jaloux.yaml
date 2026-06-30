@@ -1,0 +1,17 @@
+id: donizetti-amour-jaloux
+work:
+  composer: Donizetti, Gaetano
+  title: Amour jaloux
+  ids:
+    imslp: Amour jaloux, A 311 (Donizetti, Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Amour_jaloux%2C_A_311_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,18 @@
+id: boccherini-string-quartet-in-a-major
+work:
+  composer: Boccherini, Luigi
+  title: String Quartet in A major
+  ids:
+    imslp: String Quartet in A major, G.190 (Boccherini, Luigi)
+  year: 1777
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_in_A_major%2C_G.190_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

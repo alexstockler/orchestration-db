@@ -1,0 +1,21 @@
+id: boccherini-guitar-quintet-in-b-flat-major
+work:
+  composer: Boccherini, Luigi
+  title: Guitar Quintet in B-flat major
+  ids:
+    imslp: Guitar Quintet in B-flat major, G.447 (Boccherini, Luigi)
+  year: 1798
+formula: gtr
+instrumentation:
+  extras:
+  - instrument: guitar
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Guitar_Quintet_in_B-flat_major%2C_G.447_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: guitar, 2 violins, viola, cello'
+duration_minutes: 23

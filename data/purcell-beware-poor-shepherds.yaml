@@ -1,0 +1,17 @@
+id: purcell-beware-poor-shepherds
+work:
+  composer: Purcell, Henry
+  title: Beware, Poor Shepherds
+  ids:
+    imslp: Beware, Poor Shepherds, Z.361 (Purcell, Henry)
+  year: 1684
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Beware%2C_Poor_Shepherds%2C_Z.361_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

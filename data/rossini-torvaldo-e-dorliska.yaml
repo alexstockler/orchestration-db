@@ -1,0 +1,17 @@
+id: rossini-torvaldo-e-dorliska
+work:
+  composer: Rossini, Gioachino
+  title: Torvaldo e Dorliska
+  ids:
+    imslp: Torvaldo e Dorliska (Rossini, Gioachino)
+  year: 1815
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Torvaldo_e_Dorliska_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

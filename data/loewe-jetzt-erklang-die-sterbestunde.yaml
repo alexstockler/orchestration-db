@@ -1,0 +1,17 @@
+id: loewe-jetzt-erklang-die-sterbestunde
+work:
+  composer: Loewe, Carl
+  title: Jetzt erklang die Sterbestunde
+  ids:
+    imslp: Jetzt erklang die Sterbestunde (Loewe, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jetzt_erklang_die_Sterbestunde_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

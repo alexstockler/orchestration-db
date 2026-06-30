@@ -1,0 +1,17 @@
+id: loewe-kleine-passionsmusik
+work:
+  composer: Loewe, Carl
+  title: Kleine Passionsmusik
+  ids:
+    imslp: Kleine Passionsmusik (Loewe, Carl)
+formula: org str
+instrumentation:
+  keyboards:
+  - instrument: organ
+  strings: str
+  additional_raw: SATB voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kleine_Passionsmusik_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB voices, organ, strings'

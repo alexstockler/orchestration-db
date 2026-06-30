@@ -1,0 +1,19 @@
+id: cherubini-mass-in-c-major
+work:
+  composer: Cherubini, Luigi
+  title: Mass in C major
+  ids:
+    imslp: Mass in C major (Cherubini, Luigi)
+  year: 1816
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mass_in_C_major_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: voices (4 sopranos, 2 tenors, 2 basses), chorus (SSTTB),
+    orchestra (2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets, timpani,
+    strings)'

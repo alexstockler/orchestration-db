@@ -1,0 +1,30 @@
+id: cherubini-esto-mihi-in-deum-protectorem
+work:
+  composer: Cherubini, Luigi
+  title: Esto mihi in Deum protectorem
+  ids:
+    imslp: Esto mihi in Deum protectorem (Cherubini, Luigi)
+  year: 1829
+formula: 2222 2200 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - 2 tenor
+  - 2 bass
+  - mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Esto_mihi_in_Deum_protectorem_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, alto, 2 tenor, 2 bass, mixed chorus (SATB),
+    Orchestra: 2 flutes, 2 oboes, 2 clarinets (C), 2 bassoons, 2 horns (C), 2 trumpets
+    (E), strings'
+duration_minutes: 16

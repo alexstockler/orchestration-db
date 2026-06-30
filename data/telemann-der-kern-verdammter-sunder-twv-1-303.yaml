@@ -1,0 +1,18 @@
+id: telemann-der-kern-verdammter-sunder-twv-1-303
+work:
+  composer: Telemann, Georg Philipp
+  title: Der Kern verdammter Sünder, TWV 1:303
+  ids:
+    imslp: Der Kern verdammter Sünder, TWV 1:303 (Telemann, Georg Philipp)
+  year: 1732
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: SATB solos and chorus | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Kern_verdammter_S%C3%BCnder%2C_TWV_1%3A303_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB solos and chorus, 2 oboes, strings, continuo'
+duration_minutes: 15

@@ -1,0 +1,17 @@
+id: corelli-trio-sonata-in-e-major
+work:
+  composer: Corelli, Arcangelo
+  title: Trio Sonata in E major
+  ids:
+    imslp: Trio Sonata in E major, Op.2 No.10 (Corelli, Arcangelo)
+  year: 1685
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_E_major%2C_Op.2_No.10_%28Corelli%2C_Arcangelo%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, violone, continuo'

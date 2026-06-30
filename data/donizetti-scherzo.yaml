@@ -1,0 +1,18 @@
+id: donizetti-scherzo
+work:
+  composer: Donizetti, Gaetano
+  title: Scherzo
+  ids:
+    imslp: Scherzo, A 497 (Donizetti, Gaetano)
+  year: 1826
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scherzo%2C_A_497_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

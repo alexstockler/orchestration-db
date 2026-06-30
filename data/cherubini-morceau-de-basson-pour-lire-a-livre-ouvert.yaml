@@ -1,0 +1,17 @@
+id: cherubini-morceau-de-basson-pour-lire-a-livre-ouvert
+work:
+  composer: Cherubini, Luigi
+  title: Morceau de Basson pour lire à livre ouvert
+  ids:
+    imslp: Morceau de Basson pour lire à livre ouvert (Cherubini, Luigi)
+  year: 1838
+formula: 0001 0000
+instrumentation:
+  bassoon: 1
+  soloists:
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Morceau_de_Basson_pour_lire_%C3%A0_livre_ouvert_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: bassoon, bass (unfigured)'

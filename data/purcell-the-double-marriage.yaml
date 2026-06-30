@@ -1,0 +1,17 @@
+id: purcell-the-double-marriage
+work:
+  composer: Purcell, Henry
+  title: The Double Marriage
+  ids:
+    imslp: The Double Marriage (Purcell, Henry)
+  year: 1688
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  additional_raw: 2 trebles | bass instruments
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Double_Marriage_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 trebles, alto, bass instruments'

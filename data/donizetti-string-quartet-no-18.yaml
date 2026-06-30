@@ -1,0 +1,19 @@
+id: donizetti-string-quartet-no-18
+work:
+  composer: Donizetti, Gaetano
+  title: String Quartet No.18
+  ids:
+    imslp: String Quartet No.18, A 482 (Donizetti, Gaetano)
+  year: 1836
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.18%2C_A_482_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 29

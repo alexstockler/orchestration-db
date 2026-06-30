@@ -1,0 +1,18 @@
+id: telemann-gott-ist-ein-rechter-richter
+work:
+  composer: Telemann, Georg Philipp
+  title: Gott ist ein rechter Richter
+  ids:
+    imslp: Gott ist ein rechter Richter, TWV 1:663 (Telemann, Georg Philipp)
+  year: 1720
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_ist_ein_rechter_Richter%2C_TWV_1%3A663_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'
+duration_minutes: 11

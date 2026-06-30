@@ -1,0 +1,14 @@
+id: loewe-der-weisse-hirsch
+work:
+  composer: Loewe, Carl
+  title: Der weisse Hirsch
+  ids:
+    imslp: Der weisse Hirsch (Loewe, Carl)
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_weisse_Hirsch_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTB)'

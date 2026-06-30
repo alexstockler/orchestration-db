@@ -1,0 +1,16 @@
+id: rossini-le-rendez-vous-de-chasse
+work:
+  composer: Rossini, Gioachino
+  title: Le rendez vous de chasse
+  ids:
+    imslp: Le rendez-vous de chasse (Rossini, Gioachino)
+  year: 1828
+formula: ''
+instrumentation:
+  additional_raw: 4 hunting horns
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_rendez-vous_de_chasse_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 hunting horns, orchestra'
+duration_minutes: 4

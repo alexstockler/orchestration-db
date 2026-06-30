@@ -1,0 +1,15 @@
+id: purcell-gloria-patri-et-filio
+work:
+  composer: Purcell, Henry
+  title: Gloria Patri et Filio
+  ids:
+    imslp: Gloria Patri et Filio, Z.105 (Purcell, Henry)
+  year: 1677
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gloria_Patri_et_Filio%2C_Z.105_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed chorus (SSTB)'

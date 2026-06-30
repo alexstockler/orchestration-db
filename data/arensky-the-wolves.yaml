@@ -1,0 +1,16 @@
+id: arensky-the-wolves
+work:
+  composer: Arensky, Anton
+  title: The Wolves
+  ids:
+    imslp: The Wolves, Op.58 (Arensky, Anton)
+  year: 1902
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Wolves%2C_Op.58_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, orchestra'

@@ -1,0 +1,16 @@
+id: purcell-since-the-duke-is-return-d
+work:
+  composer: Purcell, Henry
+  title: Since the Duke is Return'd
+  ids:
+    imslp: Since the Duke is Return'd, Z.271 (Purcell, Henry)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Since_the_Duke_is_Return%27d%2C_Z.271_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

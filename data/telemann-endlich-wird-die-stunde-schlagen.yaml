@@ -1,0 +1,17 @@
+id: telemann-endlich-wird-die-stunde-schlagen
+work:
+  composer: Telemann, Georg Philipp
+  title: Endlich wird die Stunde schlagen
+  ids:
+    imslp: Endlich wird die Stunde schlagen, TWV 1:440 (Telemann, Georg Philipp)
+  year: 1725
+formula: 0100 0000
+instrumentation:
+  oboe: 1
+  additional_raw: high voice | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Endlich_wird_die_Stunde_schlagen%2C_TWV_1%3A440_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: high voice, oboe, continuo'
+duration_minutes: 9

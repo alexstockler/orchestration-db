@@ -1,0 +1,16 @@
+id: purcell-o-fair-cedaria-hide-those-eyes
+work:
+  composer: Purcell, Henry
+  title: O! Fair Cedaria, Hide those Eyes
+  ids:
+    imslp: O! Fair Cedaria, Hide those Eyes, Z.402 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O%21_Fair_Cedaria%2C_Hide_those_Eyes%2C_Z.402_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

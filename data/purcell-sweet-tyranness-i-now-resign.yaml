@@ -1,0 +1,17 @@
+id: purcell-sweet-tyranness-i-now-resign
+work:
+  composer: Purcell, Henry
+  title: Sweet Tyranness, I Now Resign
+  ids:
+    imslp: Sweet Tyranness, I Now Resign, ZS 69 (Purcell, Henry)
+  year: 1667
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sweet_Tyranness%2C_I_Now_Resign%2C_ZS_69_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

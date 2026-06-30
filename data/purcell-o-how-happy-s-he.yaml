@@ -1,0 +1,17 @@
+id: purcell-o-how-happy-s-he
+work:
+  composer: Purcell, Henry
+  title: O! How Happy's He
+  ids:
+    imslp: O! How Happy's He, Z.403 (Purcell, Henry)
+  year: 1690
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O%21_How_Happy%27s_He%2C_Z.403_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

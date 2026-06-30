@@ -1,0 +1,23 @@
+id: telemann-der-mit-sunden-beleidigte-heiland
+work:
+  composer: Telemann, Georg Philipp
+  title: Der mit Sünden beleidigte Heiland
+  ids:
+    imslp: Der mit Sünden beleidigte Heiland, TWV 1:306 (Telemann, Georg Philipp)
+  year: 1731
+formula: 0300 0300 tmp str
+instrumentation:
+  oboe: 3
+  trumpet: 3
+  percussion:
+    timpani: 1
+  strings: str
+  solo_strings:
+    violin: 1
+  additional_raw: 'continuo | Shorter Version: voice | continuo'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_mit_S%C3%BCnden_beleidigte_Heiland%2C_TWV_1%3A306_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Full Version: 2 oboes, 3 trumpets, timpani, strings, continuo,
+    Shorter Version: voice, oboe, violin, continuo'

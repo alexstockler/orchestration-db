@@ -1,0 +1,15 @@
+id: purcell-fantasia-upon-one-note
+work:
+  composer: Purcell, Henry
+  title: Fantasia upon One Note
+  ids:
+    imslp: Fantasia upon One Note, Z.745 (Purcell, Henry)
+  year: 1680
+formula: ''
+instrumentation:
+  additional_raw: 5 viols or other stringed instruments
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_upon_One_Note%2C_Z.745_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 5 viols or other stringed instruments'

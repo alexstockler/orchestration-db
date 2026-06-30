@@ -1,0 +1,16 @@
+id: rameau-pigmalion
+work:
+  composer: Rameau, Jean-Philippe
+  title: Pigmalion
+  ids:
+    imslp: Pigmalion, RCT 52 (Rameau, Jean-Philippe)
+  year: 1748
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pigmalion%2C_RCT_52_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

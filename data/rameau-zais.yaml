@@ -1,0 +1,16 @@
+id: rameau-zais
+work:
+  composer: Rameau, Jean-Philippe
+  title: Zaïs
+  ids:
+    imslp: Zaïs, RCT 60 (Rameau, Jean-Philippe)
+  year: 1748
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Za%C3%AFs%2C_RCT_60_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

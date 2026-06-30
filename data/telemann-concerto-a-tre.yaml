@@ -1,0 +1,15 @@
+id: telemann-concerto-a-tre
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto a tre
+  ids:
+    imslp: Concerto for Recorder, Horn and Continuo, TWV 42:F14 (Telemann, Georg Philipp)
+formula: 0000 1000
+instrumentation:
+  horn: 1
+  additional_raw: recorder | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_Recorder%2C_Horn_and_Continuo%2C_TWV_42%3AF14_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: recorder, horn, continuo'

@@ -1,0 +1,16 @@
+id: rameau-la-dauphine
+work:
+  composer: Rameau, Jean-Philippe
+  title: La Dauphine
+  ids:
+    imslp: La Dauphine, RCT 12 (Rameau, Jean-Philippe)
+  year: 1747
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_Dauphine%2C_RCT_12_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

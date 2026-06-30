@@ -1,0 +1,18 @@
+id: purcell-julia-your-unjust-disdain
+work:
+  composer: Purcell, Henry
+  title: Julia, Your Unjust Disdain
+  ids:
+    imslp: Julia, Your Unjust Disdain, Z.500 (Purcell, Henry)
+  year: 1687
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Julia%2C_Your_Unjust_Disdain%2C_Z.500_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'

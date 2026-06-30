@@ -1,0 +1,13 @@
+id: humperdinck-roslein-walzer
+work:
+  composer: Humperdinck, Engelbert
+  title: Röslein-Walzer
+  ids:
+    imslp: Röslein-Walzer (Humperdinck, Engelbert)
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/R%C3%B6slein-Walzer_%28Humperdinck%2C_Engelbert%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

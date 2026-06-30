@@ -1,0 +1,15 @@
+id: taneyev-overture-on-a-russian-theme
+work:
+  composer: Taneyev, Sergey
+  title: Overture on a Russian Theme
+  ids:
+    imslp: Overture on a Russian Theme (Taneyev, Sergey)
+  year: 1882
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Overture_on_a_Russian_Theme_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'
+duration_minutes: 17

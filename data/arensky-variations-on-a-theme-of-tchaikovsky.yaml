@@ -1,0 +1,16 @@
+id: arensky-variations-on-a-theme-of-tchaikovsky
+work:
+  composer: Arensky, Anton
+  title: Variations on a Theme of Tchaikovsky
+  ids:
+    imslp: Variations on a Theme of Tchaikovsky, Op.35a (Arensky, Anton)
+  year: 1894
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variations_on_a_Theme_of_Tchaikovsky%2C_Op.35a_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'
+duration_minutes: 15

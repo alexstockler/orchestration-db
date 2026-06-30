@@ -1,0 +1,16 @@
+id: donizetti-quoniam-ad-te
+work:
+  composer: Donizetti, Gaetano
+  title: Quoniam ad te
+  ids:
+    imslp: Quoniam ad te (Donizetti, Gaetano)
+  year: 1844
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Quoniam_ad_te_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, orchestra'

@@ -1,0 +1,20 @@
+id: donizetti-cum-sancto-spiritu
+work:
+  composer: Donizetti, Gaetano
+  title: Cum Sancto Spiritu
+  ids:
+    imslp: Cum Sancto Spiritu in C minor (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cum_Sancto_Spiritu_in_C_minor_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, mixed chorus (SATB), orchestra'
+duration_minutes: 5

@@ -1,0 +1,16 @@
+id: telemann-bassoon-sonata
+work:
+  composer: Telemann, Georg Philipp
+  title: Bassoon Sonata
+  ids:
+    imslp: Bassoon Sonata, TWV 41:f1 (Telemann, Georg Philipp)
+  year: 1728
+formula: 0001 0000
+instrumentation:
+  bassoon: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bassoon_Sonata%2C_TWV_41%3Af1_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: bassoon (or recorder), continuo'

@@ -1,0 +1,18 @@
+id: taneyev-string-quartet-no-3
+work:
+  composer: Taneyev, Sergey
+  title: String Quartet No.3
+  ids:
+    imslp: String Quartet No.3, Op.7 (Taneyev, Sergey)
+  year: 1886
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.3%2C_Op.7_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

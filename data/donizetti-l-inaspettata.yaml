@@ -1,0 +1,16 @@
+id: donizetti-l-inaspettata
+work:
+  composer: Donizetti, Gaetano
+  title: L'inaspettata
+  ids:
+    imslp: L'inaspettata, A 562 (Donizetti, Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27inaspettata%2C_A_562_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'
+duration_minutes: 7

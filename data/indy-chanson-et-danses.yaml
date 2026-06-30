@@ -1,0 +1,20 @@
+id: indy-chanson-et-danses
+work:
+  composer: Indy, Vincent d'
+  title: Chanson et danses
+  ids:
+    imslp: Chanson et danses, Op.50 (Indy, Vincent d')
+  year: 1898
+formula: 1122 1000
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 2
+  bassoon: 2
+  horn: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chanson_et_danses%2C_Op.50_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, 2 clarinets, horn, 2 bassoons'
+duration_minutes: 16

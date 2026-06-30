@@ -1,0 +1,17 @@
+id: purcell-trio-sonata-in-f-major
+work:
+  composer: Purcell, Henry
+  title: Trio Sonata in F major
+  ids:
+    imslp: Trio Sonata in F major, Z.793 (Purcell, Henry)
+  year: 1683
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: bass viol | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_F_major%2C_Z.793_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, bass viol, continuo'

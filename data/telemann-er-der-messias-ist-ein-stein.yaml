@@ -1,0 +1,25 @@
+id: telemann-er-der-messias-ist-ein-stein
+work:
+  composer: Telemann, Georg Philipp
+  title: Er, der Messias, ist ein Stein
+  ids:
+    imslp: Er, der Messias, ist ein Stein, TWV 1:445 (Telemann, Georg Philipp)
+  year: 1719
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass solos
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Er%2C_der_Messias%2C_ist_ein_Stein%2C_TWV_1%3A445_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass solos, mixed chorus (SATB),
+    2 oboes, strings, continuo'
+duration_minutes: 12

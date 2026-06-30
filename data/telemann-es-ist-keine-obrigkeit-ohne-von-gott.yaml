@@ -1,0 +1,16 @@
+id: telemann-es-ist-keine-obrigkeit-ohne-von-gott
+work:
+  composer: Telemann, Georg Philipp
+  title: Es ist keine Obrigkeit ohne von Gott
+  ids:
+    imslp: Es ist keine Obrigkeit ohne von Gott, TWV 1:513 (Telemann, Georg Philipp)
+  year: 1727
+formula: ''
+instrumentation:
+  additional_raw: SATB soli & chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_ist_keine_Obrigkeit_ohne_von_Gott%2C_TWV_1%3A513_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB soli & chorus, orchestra (2 oboes, calchedon, strings,
+    continuo)'

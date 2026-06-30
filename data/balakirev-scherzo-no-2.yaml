@@ -1,0 +1,16 @@
+id: balakirev-scherzo-no-2
+work:
+  composer: Balakirev, Mily
+  title: Scherzo No.2
+  ids:
+    imslp: Scherzo No.2 (Balakirev, Mily)
+  year: 1900
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scherzo_No.2_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

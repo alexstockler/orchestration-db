@@ -1,0 +1,15 @@
+id: rameau-io
+work:
+  composer: Rameau, Jean-Philippe
+  title: Io
+  ids:
+    imslp: Io, RCT 45 (Rameau, Jean-Philippe)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Io%2C_RCT_45_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

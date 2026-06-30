@@ -1,0 +1,19 @@
+id: telemann-am-guten-tag-sei-guter-dinge-twv-1-94
+work:
+  composer: Telemann, Georg Philipp
+  title: Am guten Tag sei guter Dinge, TWV 1:94
+  ids:
+    imslp: Am guten Tag sei guter Dinge, TWV 1:94 (Telemann, Georg Philipp)
+  year: 1732
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  chorus_raw: chorus
+  additional_raw: SATB solos | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Am_guten_Tag_sei_guter_Dinge%2C_TWV_1%3A94_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB solos, chorus, 2 oboes, strings, continuo'
+duration_minutes: 15

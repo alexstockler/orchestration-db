@@ -1,0 +1,18 @@
+id: goldmark-suite-no-1
+work:
+  composer: Goldmark, Carl
+  title: Suite No.1
+  ids:
+    imslp: Suite No.1, Op.11 (Goldmark, Carl)
+  year: 1869
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_No.1%2C_Op.11_%28Goldmark%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

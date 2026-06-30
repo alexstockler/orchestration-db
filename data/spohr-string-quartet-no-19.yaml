@@ -1,0 +1,18 @@
+id: spohr-string-quartet-no-19
+work:
+  composer: Spohr, Louis
+  title: String Quartet No.19
+  ids:
+    imslp: String Quartet No.19, Op.68 (Spohr, Louis)
+  year: 1823
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.19%2C_Op.68_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

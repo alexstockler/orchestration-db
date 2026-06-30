@@ -1,0 +1,20 @@
+id: donizetti-caterina-cornaro
+work:
+  composer: Donizetti, Gaetano
+  title: Caterina Cornaro
+  ids:
+    imslp: Caterina Cornaro (Donizetti, Gaetano)
+  year: 1844
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: Roles | Caterina Cornaro (soprano) | Matilde (mezzo-soprano) | Gerando
+    (tenor) | Lusignano (baritone) | Mocenigo (bass) | Andrea Cornaro (bass) | Strozzi
+    (tenor) | Knight (tenor)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Caterina_Cornaro_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Roles ::Caterina Cornaro (soprano),
+    Matilde (mezzo-soprano), Gerando (tenor), Lusignano (baritone), Mocenigo (bass),
+    Andrea Cornaro (bass), Strozzi (tenor), Knight (tenor) :Mixed chorus :Orchestra'

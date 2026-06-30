@@ -1,0 +1,17 @@
+id: donizetti-sonata-for-piano-four-hands-in-c-major
+work:
+  composer: Donizetti, Gaetano
+  title: Sonata for Piano Four-Hands in C major
+  ids:
+    imslp: Sonata for Piano 4 Hands in C major, A 567 (Donizetti, Gaetano)
+  year: 1819
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_for_Piano_4_Hands_in_C_major%2C_A_567_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'
+duration_minutes: 5

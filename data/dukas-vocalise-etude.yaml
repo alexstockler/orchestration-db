@@ -1,0 +1,18 @@
+id: dukas-vocalise-etude
+work:
+  composer: Dukas, Paul
+  title: Vocalise-étude
+  ids:
+    imslp: Vocalise-étude (Dukas, Paul)
+  year: 1909
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vocalise-%C3%A9tude_%28Dukas%2C_Paul%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

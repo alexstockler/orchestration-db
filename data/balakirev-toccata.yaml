@@ -1,0 +1,16 @@
+id: balakirev-toccata
+work:
+  composer: Balakirev, Mily
+  title: Toccata
+  ids:
+    imslp: Toccata (Balakirev, Mily)
+  year: 1902
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Toccata_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

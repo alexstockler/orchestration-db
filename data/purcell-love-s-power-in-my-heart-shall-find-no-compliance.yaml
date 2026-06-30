@@ -1,0 +1,17 @@
+id: purcell-love-s-power-in-my-heart-shall-find-no-compliance
+work:
+  composer: Purcell, Henry
+  title: Love's Power in My Heart Shall Find No Compliance
+  ids:
+    imslp: Love's Power in My Heart Shall Find No Compliance, Z.395 (Purcell, Henry)
+  year: 1688
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Love%27s_Power_in_My_Heart_Shall_Find_No_Compliance%2C_Z.395_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

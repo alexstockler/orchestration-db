@@ -1,0 +1,14 @@
+id: taneyev-1
+work:
+  composer: Taneyev, Sergey
+  title: Ирмос 1-й песни канона на Богоявление (В церковь небесную)
+  ids:
+    imslp: Irmos (Taneyev, Sergey)
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Irmos_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus'

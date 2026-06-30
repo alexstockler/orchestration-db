@@ -1,0 +1,18 @@
+id: purcell-lost-is-my-quiet-forever
+work:
+  composer: Purcell, Henry
+  title: Lost Is My Quiet Forever
+  ids:
+    imslp: Lost Is My Quiet Forever, Z.502 (Purcell, Henry)
+  year: 1691
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lost_Is_My_Quiet_Forever%2C_Z.502_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'

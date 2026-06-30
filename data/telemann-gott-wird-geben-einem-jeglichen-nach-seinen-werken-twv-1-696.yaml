@@ -1,0 +1,22 @@
+id: telemann-gott-wird-geben-einem-jeglichen-nach-seinen-werken-twv-1-696
+work:
+  composer: Telemann, Georg Philipp
+  title: Gott wird geben einem jeglichen nach seinen Werken, TWV 1:696
+  ids:
+    imslp: Gott wird geben einem jeglichen nach seinen Werken, TWV 1:696 (Telemann,
+      Georg Philipp)
+  year: 1744
+formula: ''
+instrumentation:
+  soloists:
+  - 2 voices
+  solo_strings:
+    violin: 2
+  additional_raw: bass (optional) | viola (optional) | continuo (see below, Comments)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_wird_geben_einem_jeglichen_nach_seinen_Werken%2C_TWV_1%3A696_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, bass (optional), 2 violins, viola (optional),
+    continuo (see below, Comments)'
+duration_minutes: 20

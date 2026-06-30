@@ -1,0 +1,16 @@
+id: purcell-of-all-the-instruments-that-are
+work:
+  composer: Purcell, Henry
+  title: Of All the Instruments that Are
+  ids:
+    imslp: Of All the Instruments that Are, Z.263 (Purcell, Henry)
+  year: 1693
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Of_All_the_Instruments_that_Are%2C_Z.263_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

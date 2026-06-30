@@ -1,0 +1,17 @@
+id: purcell-love-is-now-become-a-trade
+work:
+  composer: Purcell, Henry
+  title: Love Is Now Become a Trade
+  ids:
+    imslp: Love Is Now Become a Trade, Z.393 (Purcell, Henry)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Love_Is_Now_Become_a_Trade%2C_Z.393_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

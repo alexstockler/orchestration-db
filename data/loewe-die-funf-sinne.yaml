@@ -1,0 +1,18 @@
+id: loewe-die-funf-sinne
+work:
+  composer: Loewe, Carl
+  title: Die fünf Sinne
+  ids:
+    imslp: Die fünf Sinne (Loewe, Carl)
+  year: 1899
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_f%C3%BCnf_Sinne_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

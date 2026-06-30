@@ -1,0 +1,20 @@
+id: purcell-incidental-music-to-the-gordion-knot-untied
+work:
+  composer: Purcell, Henry
+  title: Incidental Music to The Gordion Knot Untied
+  ids:
+    imslp: The Gordion Knot Untied, Z.597 (Purcell, Henry)
+  year: 1691
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Gordion_Knot_Untied%2C_Z.597_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello, continuo'
+duration_minutes: 11

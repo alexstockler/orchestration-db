@@ -1,0 +1,23 @@
+id: taneyev-2-duets
+work:
+  composer: Taneyev, Sergey
+  title: 2 Duets
+  ids:
+    imslp: 2 Duets, Op.18 (Taneyev, Sergey)
+  year: 1900
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+  soloists:
+  - mezzo-soprano
+  - tenor
+  - tenor
+  - baritone
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Duets%2C_Op.18_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: mezzo-soprano, tenor, piano (No.1); tenor, baritone, piano
+    (No.2)'

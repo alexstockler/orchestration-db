@@ -1,0 +1,18 @@
+id: loewe-der-bergmann
+work:
+  composer: Loewe, Carl
+  title: Der Bergmann
+  ids:
+    imslp: Der Bergmann, Op.39 (Loewe, Carl)
+  year: 1834
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Bergmann%2C_Op.39_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

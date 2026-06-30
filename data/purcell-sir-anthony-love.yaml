@@ -1,0 +1,19 @@
+id: purcell-sir-anthony-love
+work:
+  composer: Purcell, Henry
+  title: Sir Anthony Love
+  ids:
+    imslp: Sir Anthony Love, Z.588 (Purcell, Henry)
+  year: 1692
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sir_Anthony_Love%2C_Z.588_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, strings, continuo'
+duration_minutes: 20

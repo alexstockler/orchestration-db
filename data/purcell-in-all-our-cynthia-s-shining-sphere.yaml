@@ -1,0 +1,17 @@
+id: purcell-in-all-our-cynthia-s-shining-sphere
+work:
+  composer: Purcell, Henry
+  title: In All Our Cynthia's Shining Sphere
+  ids:
+    imslp: In All Our Cynthia's Shining Sphere, Z.496 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_All_Our_Cynthia%27s_Shining_Sphere%2C_Z.496_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, bass, continuo'

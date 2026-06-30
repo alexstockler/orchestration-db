@@ -1,0 +1,16 @@
+id: purcell-who-but-a-slave-can-well-express
+work:
+  composer: Purcell, Henry
+  title: Who But a Slave Can Well Express
+  ids:
+    imslp: Who But a Slave Can Well Express, Z.440 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Who_But_a_Slave_Can_Well_Express%2C_Z.440_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

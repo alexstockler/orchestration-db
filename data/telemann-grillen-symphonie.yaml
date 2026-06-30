@@ -1,0 +1,18 @@
+id: telemann-grillen-symphonie
+work:
+  composer: Telemann, Georg Philipp
+  title: Grillen-Symphonie
+  ids:
+    imslp: Grillen-Symphonie, TWV 50:1 (Telemann, Georg Philipp)
+  year: 1765
+formula: 0100 0000 str
+instrumentation:
+  oboe: 1
+  strings: str
+  additional_raw: flute/piccolo | chalumeau | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grillen-Symphonie%2C_TWV_50%3A1_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: flute/piccolo, oboe, chalumeau, strings (2 double
+    bass concertantes), continuo'

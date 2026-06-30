@@ -1,0 +1,17 @@
+id: donizetti-tuba-mirum
+work:
+  composer: Donizetti, Gaetano
+  title: Tuba mirum
+  ids:
+    imslp: Tuba mirum, A 692 (Donizetti, Gaetano)
+  year: 1821
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tuba_mirum%2C_A_692_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, orchestra'
+duration_minutes: 6

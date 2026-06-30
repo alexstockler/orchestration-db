@@ -1,0 +1,17 @@
+id: rossini-la-passegiata
+work:
+  composer: Rossini, Gioachino
+  title: La Passegiata
+  ids:
+    imslp: La Passegiata (Rossini, Gioachino)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_Passegiata_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), piano'
+duration_minutes: 6

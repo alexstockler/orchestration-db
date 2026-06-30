@@ -1,0 +1,17 @@
+id: purcell-we-now-my-thyrsis-never-find
+work:
+  composer: Purcell, Henry
+  title: We Now, My Thyrsis, Never Find
+  ids:
+    imslp: We Now, My Thyrsis, Never Find, Z.427 (Purcell, Henry)
+  year: 1693
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/We_Now%2C_My_Thyrsis%2C_Never_Find%2C_Z.427_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

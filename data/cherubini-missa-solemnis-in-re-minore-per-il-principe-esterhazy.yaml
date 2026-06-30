@@ -1,0 +1,19 @@
+id: cherubini-missa-solemnis-in-re-minore-per-il-principe-esterhazy
+work:
+  composer: Cherubini, Luigi
+  title: Missa solemnis in re minore per il Principe Esterházy
+  ids:
+    imslp: Missa solemnis No.2 (Cherubini, Luigi)
+  year: 1811
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Missa_solemnis_No.2_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, orchestra'

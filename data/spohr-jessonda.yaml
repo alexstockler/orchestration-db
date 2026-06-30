@@ -1,0 +1,18 @@
+id: spohr-jessonda
+work:
+  composer: Spohr, Louis
+  title: Jessonda
+  ids:
+    imslp: Jessonda, WoO 53 (Spohr, Louis)
+  year: 1822
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jessonda%2C_WoO_53_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'
+duration_minutes: 130

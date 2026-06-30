@@ -1,0 +1,26 @@
+id: telemann-bittet-so-wird-euch-gegeben-twv-1-128
+work:
+  composer: Telemann, Georg Philipp
+  title: Bittet, so wird euch gegeben, TWV 1:128
+  ids:
+    imslp: Bittet, so wird euch gegeben, TWV 1:128 (Telemann, Georg Philipp)
+  year: 1721
+formula: 1200 0000 str
+instrumentation:
+  flute: 1
+  oboe: 2
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bittet%2C_so_wird_euch_gegeben%2C_TWV_1%3A128_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, mixed chorus (SATB), flute,
+    2 oboes, strings, continuo'
+duration_minutes: 15

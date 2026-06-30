@@ -1,0 +1,15 @@
+id: goldmark-scherzo-for-orchestra
+work:
+  composer: Goldmark, Carl
+  title: Scherzo for Orchestra
+  ids:
+    imslp: Scherzo for Orchestra, Op.19 (Goldmark, Carl)
+  year: 1863
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scherzo_for_Orchestra%2C_Op.19_%28Goldmark%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra'
+duration_minutes: 9

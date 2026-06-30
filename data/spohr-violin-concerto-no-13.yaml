@@ -1,0 +1,17 @@
+id: spohr-violin-concerto-no-13
+work:
+  composer: Spohr, Louis
+  title: Violin Concerto No.13
+  ids:
+    imslp: Violin Concerto No.13, Op.92 (Spohr, Louis)
+  year: 1835
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Concerto_No.13%2C_Op.92_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin, orchestra'
+duration_minutes: 14

@@ -1,0 +1,15 @@
+id: donizetti-o-filles-que-l-ennui-chagrine
+work:
+  composer: Donizetti, Gaetano
+  title: O filles que l'ennui chagrine
+  ids:
+    imslp: O filles que l'ennui chagrine, A 357 (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_filles_que_l%27ennui_chagrine%2C_A_357_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voice'

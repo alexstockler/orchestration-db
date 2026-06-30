@@ -1,0 +1,18 @@
+id: cherubini-ninfa-crudel
+work:
+  composer: Cherubini, Luigi
+  title: Ninfa crudel
+  ids:
+    imslp: Ninfa crudel (Cherubini, Luigi)
+  year: 1783
+formula: ''
+instrumentation:
+  soloists:
+  - 5 voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ninfa_crudel_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 5 voices (SSATB), continuo'
+duration_minutes: 7

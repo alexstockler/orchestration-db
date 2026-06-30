@@ -1,0 +1,17 @@
+id: telemann-concerto-for-2-flutes-in-e-minor
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto for 2 flutes in E minor
+  ids:
+    imslp: Concerto for 2 Flutes, TWV 52:e2 (Telemann, Georg Philipp)
+formula: 2000 0000 str
+instrumentation:
+  flute: 2
+  strings: str
+  additional_raw: calchedon | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Flutes%2C_TWV_52%3Ae2_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, calchedon, strings, continuo'
+duration_minutes: 12

@@ -1,0 +1,18 @@
+id: telemann-die-starkende-wirknung-des-geistes
+work:
+  composer: Telemann, Georg Philipp
+  title: Die stärkende Wirknung des Geistes
+  ids:
+    imslp: Die stärkende Wirknung des Geistes, TWV 1:363 (Telemann, Georg Philipp)
+  year: 1725
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+  additional_raw: medium voice | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_st%C3%A4rkende_Wirknung_des_Geistes%2C_TWV_1%3A363_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: medium voice, violin, continuo'
+duration_minutes: 9

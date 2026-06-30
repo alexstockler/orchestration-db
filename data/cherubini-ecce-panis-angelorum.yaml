@@ -1,0 +1,22 @@
+id: cherubini-ecce-panis-angelorum
+work:
+  composer: Cherubini, Luigi
+  title: Ecce panis angelorum
+  ids:
+    imslp: Ecce panis angelorum (Cherubini, Luigi)
+  year: 1816
+formula: 1022 0000 str
+instrumentation:
+  flute: 1
+  clarinet: 2
+  bassoon: 2
+  strings: str
+  soloists:
+  - tenor
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ecce_panis_angelorum_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: tenor, Orchestra: flute, 2 clarinets (C), 2 bassoons,
+    strings'
+duration_minutes: 5

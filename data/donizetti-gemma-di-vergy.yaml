@@ -1,0 +1,22 @@
+id: donizetti-gemma-di-vergy
+work:
+  composer: Donizetti, Gaetano
+  title: Gemma di Vergy
+  ids:
+    imslp: Gemma di Vergy (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - altos
+  - tenors
+  chorus_raw: mixed chorus
+  additional_raw: Cast | Earl of Vergy (baritone) | Gemma (soprano) | Ida di Greville
+    (mezzo) | Tamas (tenor) | Guido (bass) | Rolando (bass) | basses (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gemma_di_Vergy_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra :Cast ::Earl of Vergy (baritone),
+    Gemma (soprano), Ida di Greville (mezzo), Tamas (tenor), Guido (bass), Rolando
+    (bass) :Mixed Chorus ::sopranos, altos, tenors, basses (SATB) :Orchestra'

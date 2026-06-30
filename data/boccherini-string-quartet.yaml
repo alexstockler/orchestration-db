@@ -1,0 +1,18 @@
+id: boccherini-string-quartet
+work:
+  composer: Boccherini, Luigi
+  title: String Quartet
+  ids:
+    imslp: String Quartet in G major, G.223 'La Tiranna' (Boccherini, Luigi)
+  year: 1792
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_in_G_major%2C_G.223_%27La_Tiranna%27_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

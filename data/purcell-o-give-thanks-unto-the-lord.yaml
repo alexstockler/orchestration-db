@@ -1,0 +1,17 @@
+id: purcell-o-give-thanks-unto-the-lord
+work:
+  composer: Purcell, Henry
+  title: O Give Thanks Unto the Lord
+  ids:
+    imslp: O Give Thanks unto the Lord, Z.33 (Purcell, Henry)
+  year: 1693
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_Give_Thanks_unto_the_Lord%2C_Z.33_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), organ'

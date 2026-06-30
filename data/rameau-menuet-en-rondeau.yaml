@@ -1,0 +1,16 @@
+id: rameau-menuet-en-rondeau
+work:
+  composer: Rameau, Jean-Philippe
+  title: Menuet en Rondeau
+  ids:
+    imslp: Menuet en Rondeau, RCT 4 (Rameau, Jean-Philippe)
+  year: 1724
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Menuet_en_Rondeau%2C_RCT_4_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

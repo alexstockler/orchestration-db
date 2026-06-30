@@ -1,0 +1,17 @@
+id: balakirev
+work:
+  composer: Balakirev, Mily
+  title: Музыка к трагедии У. Шекспира «Король Лир»
+  ids:
+    imslp: King Lear (Balakirev, Mily)
+  year: 1858
+formula: ''
+instrumentation:
+  additional_raw: full orchestra (see below, Comments) | also arr | by composer for
+    piano | 4-hands
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/King_Lear_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: full orchestra (see below, Comments); also arr. by composer
+    for piano, 4-hands'

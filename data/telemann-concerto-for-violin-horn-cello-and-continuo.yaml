@@ -1,0 +1,19 @@
+id: telemann-concerto-for-violin-horn-cello-and-continuo
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto for Violin, Horn, Cello and Continuo
+  ids:
+    imslp: Concerto for Violin, Horn, Cello and Continuo, TWV 43:F6 (Telemann, Georg
+      Philipp)
+formula: 0000 1000
+instrumentation:
+  horn: 1
+  solo_strings:
+    violin: 1
+    cello: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_Violin%2C_Horn%2C_Cello_and_Continuo%2C_TWV_43%3AF6_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: horn, violin, cello (violone), continuo'

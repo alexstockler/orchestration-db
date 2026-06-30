@@ -1,0 +1,17 @@
+id: purcell-let-each-gallant-heart
+work:
+  composer: Purcell, Henry
+  title: Let Each Gallant Heart
+  ids:
+    imslp: Let Each Gallant Heart, Z.390 (Purcell, Henry)
+  year: 1683
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Let_Each_Gallant_Heart%2C_Z.390_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

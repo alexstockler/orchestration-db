@@ -1,0 +1,22 @@
+id: telemann-frohlocket-ihr-engel
+work:
+  composer: Telemann, Georg Philipp
+  title: Frohlocket, ihr Engel
+  ids:
+    imslp: Frohlocket, ihr Engel, TWV 1:564 (Telemann, Georg Philipp)
+  year: 1737
+formula: 2200 0200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Frohlocket%2C_ihr_Engel%2C_TWV_1%3A564_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 trumpets, timpani, strings, continuo'
+duration_minutes: 15

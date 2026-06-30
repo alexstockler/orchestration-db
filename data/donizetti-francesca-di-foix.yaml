@@ -1,0 +1,17 @@
+id: donizetti-francesca-di-foix
+work:
+  composer: Donizetti, Gaetano
+  title: Francesca di Foix
+  ids:
+    imslp: Francesca di Foix (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: Francesca (soprano) | King (baritone) | Edmondo (contralto) | Count
+    (bass) | Duke (tenor)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Francesca_di_Foix_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: Francesca (soprano), King (baritone), Edmondo (contralto),
+    Count (bass), Duke (tenor) + mixed chorus (SATB), Orchestra'

@@ -1,0 +1,17 @@
+id: purcell-incassum-lesbia
+work:
+  composer: Purcell, Henry
+  title: Incassum Lesbia
+  ids:
+    imslp: Incassum Lesbia, Z.383 (Purcell, Henry)
+  year: 1695
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Incassum_Lesbia%2C_Z.383_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

@@ -1,0 +1,19 @@
+id: taneyev-cherubim-s-song
+work:
+  composer: Taneyev, Sergey
+  title: Cherubim's Song
+  ids:
+    imslp: Cherubim's Song (Taneyev, Sergey)
+  year: 1880
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cherubim%27s_Song_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass'

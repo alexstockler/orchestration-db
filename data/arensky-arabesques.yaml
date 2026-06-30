@@ -1,0 +1,16 @@
+id: arensky-arabesques
+work:
+  composer: Arensky, Anton
+  title: Arabesques
+  ids:
+    imslp: Arabesques, Op.67 (Arensky, Anton)
+  year: 1903
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Arabesques%2C_Op.67_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

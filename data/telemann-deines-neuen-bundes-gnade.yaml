@@ -1,0 +1,19 @@
+id: telemann-deines-neuen-bundes-gnade
+work:
+  composer: Telemann, Georg Philipp
+  title: Deines neuen Bundes Gnade
+  ids:
+    imslp: Deines neuen Bundes Gnade, TWV 1:212 (Telemann, Georg Philipp)
+  year: 1725
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  solo_strings:
+    violin: 1
+  additional_raw: high voice | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Deines_neuen_Bundes_Gnade%2C_TWV_1%3A212_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: high voice, flute, violin, continuo'
+duration_minutes: 11

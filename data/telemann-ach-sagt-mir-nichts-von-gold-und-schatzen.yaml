@@ -1,0 +1,20 @@
+id: telemann-ach-sagt-mir-nichts-von-gold-und-schatzen
+work:
+  composer: Telemann, Georg Philipp
+  title: Ach sagt mir nichts von Gold und Schätzen
+  ids:
+    imslp: Ach sagt mir nichts von Gold und Schätzen, TWV 1:31 (Telemann, Georg Philipp)
+  year: 1749
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach_sagt_mir_nichts_von_Gold_und_Sch%C3%A4tzen%2C_TWV_1%3A31_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano; mixed chorus (SATB), Orchestra: strings,
+    continuo'

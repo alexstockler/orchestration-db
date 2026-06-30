@@ -1,0 +1,32 @@
+id: spohr-symphony-no-6
+work:
+  composer: Spohr, Louis
+  title: Symphony No.6
+  ids:
+    imslp: Symphony No.6, Op.116 (Spohr, Louis)
+  year: 1839
+formula: 2222 4230 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - snare drum
+    - bass drum
+    - cymbals
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.6%2C_Op.116_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: 2 flutes, 2 oboes, 2 clarinets (B/C), 2 bassoons
+    + 4 horns (2 in D/G/E, 2 in D), 2 trumpets (B), 3 trombones + timpani, triangle,
+    snare drum, bass drum, cymbals + strings'
+duration_minutes: 30

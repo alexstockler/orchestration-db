@@ -1,0 +1,16 @@
+id: arensky-4-morceaux
+work:
+  composer: Arensky, Anton
+  title: 4 Morceaux
+  ids:
+    imslp: 4 Morceaux, Op.25 (Arensky, Anton)
+  year: 1893
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Morceaux%2C_Op.25_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

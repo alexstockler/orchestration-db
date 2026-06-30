@@ -1,0 +1,16 @@
+id: purcell-mad-tom-zs-68
+work:
+  composer: Purcell, Henry
+  title: Mad Tom, ZS 68
+  ids:
+    imslp: Mad Tom, ZS 68 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mad_Tom%2C_ZS_68_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

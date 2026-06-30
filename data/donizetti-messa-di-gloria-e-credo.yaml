@@ -1,0 +1,17 @@
+id: donizetti-messa-di-gloria-e-credo
+work:
+  composer: Donizetti, Gaetano
+  title: Messa di Gloria e Credo
+  ids:
+    imslp: Messa di Gloria e Credo, A 606 (Donizetti, Gaetano)
+  year: 1837
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Messa_di_Gloria_e_Credo%2C_A_606_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voices (SATB), mixed chorus, orchestra'

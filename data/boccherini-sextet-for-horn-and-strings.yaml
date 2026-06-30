@@ -1,0 +1,19 @@
+id: boccherini-sextet-for-horn-and-strings
+work:
+  composer: Boccherini, Luigi
+  title: Sextet for Horn and Strings
+  ids:
+    imslp: Sextet in E-flat major, G.471 (Boccherini, Luigi)
+  year: 1787
+formula: 0000 1000
+instrumentation:
+  horn: 1
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sextet_in_E-flat_major%2C_G.471_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Horn, 2 Violins, Viola, 2 Cellos'

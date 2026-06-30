@@ -1,0 +1,17 @@
+id: purcell-gentle-shepherds-you-that-know
+work:
+  composer: Purcell, Henry
+  title: Gentle Shepherds, You that Know
+  ids:
+    imslp: Gentle Shepherds, You that Know, Z.464 (Purcell, Henry)
+  year: 1687
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gentle_Shepherds%2C_You_that_Know%2C_Z.464_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

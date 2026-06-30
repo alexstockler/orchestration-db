@@ -1,0 +1,27 @@
+id: cherubini-iste-die-observabilis-est-domini
+work:
+  composer: Cherubini, Luigi
+  title: Iste die observabilis est Domini
+  ids:
+    imslp: Iste die observabilis est Domini (Cherubini, Luigi)
+  year: 1816
+formula: 2222 3000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 3
+  strings: str
+  soloists:
+  - 2 sopranos
+  - alto
+  - bass
+  - mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Iste_die_observabilis_est_Domini_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: 2 sopranos, alto, bass; mixed chorus (SATB), Orchestra:
+    2 flutes, 2 oboes, 2 clarinets (C), 2 bassoons, 3 horns (E), strings'
+duration_minutes: 15

@@ -1,0 +1,19 @@
+id: donizetti-credidi
+work:
+  composer: Donizetti, Gaetano
+  title: Credidi
+  ids:
+    imslp: Credidi, A 648 (Donizetti, Gaetano)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - soprano
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Credidi%2C_A_648_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, bass, organ (continuo)'

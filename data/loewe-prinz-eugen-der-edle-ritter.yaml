@@ -1,0 +1,18 @@
+id: loewe-prinz-eugen-der-edle-ritter
+work:
+  composer: Loewe, Carl
+  title: Prinz Eugen der edle Ritter
+  ids:
+    imslp: Prinz Eugen der edle Ritter, Op.92 (Loewe, Carl)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prinz_Eugen_der_edle_Ritter%2C_Op.92_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

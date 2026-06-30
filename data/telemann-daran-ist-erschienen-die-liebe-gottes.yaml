@@ -1,0 +1,19 @@
+id: telemann-daran-ist-erschienen-die-liebe-gottes
+work:
+  composer: Telemann, Georg Philipp
+  title: Daran ist erschienen die Liebe Gottes
+  ids:
+    imslp: Daran ist erschienen die Liebe Gottes, TWV 1:165 (Telemann, Georg Philipp)
+  year: 1717
+formula: 1200 0000 str
+instrumentation:
+  flute: 1
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Daran_ist_erschienen_die_Liebe_Gottes%2C_TWV_1%3A165_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: flute (or sopranino recorder), 2 oboes, strings, continuo'
+duration_minutes: 13

@@ -1,0 +1,17 @@
+id: spohr-violin-concerto-no-15
+work:
+  composer: Spohr, Louis
+  title: Violin Concerto No.15
+  ids:
+    imslp: Violin Concerto No.15, Op.128 (Spohr, Louis)
+  year: 1844
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Concerto_No.15%2C_Op.128_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, orchestra'
+duration_minutes: 23

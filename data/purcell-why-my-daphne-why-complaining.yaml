@@ -1,0 +1,18 @@
+id: purcell-why-my-daphne-why-complaining
+work:
+  composer: Purcell, Henry
+  title: Why, My Daphne, Why Complaining?
+  ids:
+    imslp: Why, My Daphne, Why Complaining?, Z.525 (Purcell, Henry)
+  year: 1691
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Why%2C_My_Daphne%2C_Why_Complaining%3F%2C_Z.525_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, bass, continuo'

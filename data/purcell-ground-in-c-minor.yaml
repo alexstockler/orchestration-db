@@ -1,0 +1,15 @@
+id: purcell-ground-in-c-minor
+work:
+  composer: Purcell, Henry
+  title: Ground in C minor
+  ids:
+    imslp: Ground in C minor, ZD 221 (Purcell, Henry)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ground_in_C_minor%2C_ZD_221_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

@@ -1,0 +1,16 @@
+id: chausson-trois-lieder
+work:
+  composer: Chausson, Ernest
+  title: Trois Lieder
+  ids:
+    imslp: 3 Lieder, Op.27 (Chausson, Ernest)
+  year: 1896
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Lieder%2C_Op.27_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and Piano'

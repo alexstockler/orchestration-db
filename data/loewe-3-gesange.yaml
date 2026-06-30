@@ -1,0 +1,17 @@
+id: loewe-3-gesange
+work:
+  composer: Loewe, Carl
+  title: 3 Gesänge
+  ids:
+    imslp: 3 Gesänge, Op.123 (Loewe, Carl)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Ges%C3%A4nge%2C_Op.123_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,19 @@
+id: donizetti-gianni-di-parigi
+work:
+  composer: Donizetti, Gaetano
+  title: Gianni di Parigi
+  ids:
+    imslp: Gianni di Parigi (Donizetti, Gaetano)
+  year: 1828
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: Princess of Navarra (soprano) | Il gran siniscalco (bass) | Gianni
+    di Parigi (tenor) | Pedrigo (bass) | Lorezzo (mezzo-soprano) | Oliviero (contralto)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gianni_di_Parigi_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: Princess of Navarra (soprano), Il gran siniscalco
+    (bass), Gianni di Parigi (tenor), Pedrigo (bass), Lorezzo (mezzo-soprano), Oliviero
+    (contralto) + mixed chorus (SATB), Orchestra'

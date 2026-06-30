@@ -1,0 +1,18 @@
+id: cherubini-souvenir
+work:
+  composer: Cherubini, Luigi
+  title: Souvenir
+  ids:
+    imslp: Souvenir (Cherubini, Luigi)
+  year: 1828
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Souvenir_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

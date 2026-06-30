@@ -1,0 +1,19 @@
+id: donizetti-j-aime-trop-pour-etre-heureux
+work:
+  composer: Donizetti, Gaetano
+  title: J'aime trop pour être heureux
+  ids:
+    imslp: J'aime trop pour être heureux (Donizetti, Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - soprano
+  solo_strings:
+    viola: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/J%27aime_trop_pour_%C3%AAtre_heureux_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, viola, piano'

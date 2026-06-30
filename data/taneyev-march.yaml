@@ -1,0 +1,16 @@
+id: taneyev-march
+work:
+  composer: Taneyev, Sergey
+  title: March
+  ids:
+    imslp: March in D minor (Taneyev, Sergey)
+  year: 1879
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/March_in_D_minor_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

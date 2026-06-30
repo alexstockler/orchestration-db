@@ -1,0 +1,19 @@
+id: donizetti-la-bella-prigioniera
+work:
+  composer: Donizetti, Gaetano
+  title: La bella prigioniera
+  ids:
+    imslp: La bella prigioniera, A 15 (Donizetti, Gaetano)
+  year: 1826
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_bella_prigioniera%2C_A_15_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices (soprano, tenor, bass), piano'
+duration_minutes: 19

@@ -1,0 +1,24 @@
+id: telemann-erhore-mich-wenn-ich-rufe
+work:
+  composer: Telemann, Georg Philipp
+  title: Erhöre mich, wenn ich rufe
+  ids:
+    imslp: Erhöre mich, wenn ich rufe, TWV 1:459 (Telemann, Georg Philipp)
+  year: 1717
+formula: 0200 0020 str
+instrumentation:
+  oboe: 2
+  trombone: 2
+  strings: str
+  soloists:
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+  additional_raw: cornett | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Erh%C3%B6re_mich%2C_wenn_ich_rufe%2C_TWV_1%3A459_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, bass, mixed chorus (SATB), 2 oboes, cornett, 2 trombones,
+    strings, continuo'
+duration_minutes: 12

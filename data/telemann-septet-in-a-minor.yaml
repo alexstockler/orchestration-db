@@ -1,0 +1,17 @@
+id: telemann-septet-in-a-minor
+work:
+  composer: Telemann, Georg Philipp
+  title: Septet in A minor
+  ids:
+    imslp: Concerto à 7 in A minor, TWV 44:42 (Telemann, Georg Philipp)
+formula: 0200 0000
+instrumentation:
+  oboe: 2
+  solo_strings:
+    violin: 2
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_%C3%A0_7_in_A_minor%2C_TWV_44%3A42_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 recorders, 2 oboes, 2 violins, continuo'

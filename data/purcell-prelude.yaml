@@ -1,0 +1,16 @@
+id: purcell-prelude
+work:
+  composer: Purcell, Henry
+  title: Prelude
+  ids:
+    imslp: Prelude in G minor, ZN 773 (Purcell, Henry)
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude_in_G_minor%2C_ZN_773_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: Violin (solo)'
+duration_minutes: 2

@@ -1,0 +1,20 @@
+id: donizetti-dixit-dominus-1820
+work:
+  composer: Donizetti, Gaetano
+  title: Dixit Dominus 1820
+  ids:
+    imslp: Dixit Dominus, In.122 (Donizetti, Gaetano)
+  year: 1820
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dixit_Dominus%2C_In.122_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, bass, mixed chorus (SATB), orchestra'
+duration_minutes: 7

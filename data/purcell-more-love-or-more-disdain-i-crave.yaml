@@ -1,0 +1,17 @@
+id: purcell-more-love-or-more-disdain-i-crave
+work:
+  composer: Purcell, Henry
+  title: More Love or More Disdain I Crave
+  ids:
+    imslp: More Love or More Disdain I Crave, Z.397 (Purcell, Henry)
+  year: 1678
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/More_Love_or_More_Disdain_I_Crave%2C_Z.397_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

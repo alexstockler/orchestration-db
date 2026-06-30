@@ -1,0 +1,18 @@
+id: purcell-soft-notes-and-gently-raised
+work:
+  composer: Purcell, Henry
+  title: Soft Notes and Gently Raised
+  ids:
+    imslp: Soft Notes and Gently Raised, Z.510 (Purcell, Henry)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Soft_Notes_and_Gently_Raised%2C_Z.510_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, bass, 2 recorders, continuo'

@@ -1,0 +1,16 @@
+id: donizetti-l-esule-di-roma
+work:
+  composer: Donizetti, Gaetano
+  title: L'esule di Roma
+  ids:
+    imslp: L'esule di Roma (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27esule_di_Roma_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

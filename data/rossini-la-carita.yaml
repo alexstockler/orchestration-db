@@ -1,0 +1,24 @@
+id: rossini-la-carita
+work:
+  composer: Rossini, Gioachino
+  title: La carità
+  ids:
+    imslp: La carità (Rossini, Gioachino)
+  year: 1844
+formula: 1010 2120 str
+instrumentation:
+  flute: 1
+  clarinet: 1
+  horn: 2
+  trumpet: 1
+  trombone: 2
+  strings: str
+  soloists:
+  - soprano
+  - mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_carit%C3%A0_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, mixed chorus (SATB), Orchestra: flute,
+    clarinet, trumpet, 2 horns, 2 trombones, strings'

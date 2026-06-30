@@ -1,0 +1,18 @@
+id: loewe-des-frommen-hirten-liebessang
+work:
+  composer: Loewe, Carl
+  title: Des frommen Hirten Liebessang
+  ids:
+    imslp: Des frommen Hirten Liebessang (Loewe, Carl)
+  year: 1853
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Des_frommen_Hirten_Liebessang_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

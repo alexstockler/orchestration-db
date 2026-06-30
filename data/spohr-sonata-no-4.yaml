@@ -1,0 +1,15 @@
+id: spohr-sonata-no-4
+work:
+  composer: Spohr, Louis
+  title: Sonata No.4
+  ids:
+    imslp: Violin Sonata No.4, Op.113 (Spohr, Louis)
+  year: 1806
+formula: ''
+instrumentation:
+  additional_raw: violin (or cello) and harp (or piano)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_No.4%2C_Op.113_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: violin (or cello) and harp (or piano)'

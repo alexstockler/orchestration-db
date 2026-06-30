@@ -1,0 +1,15 @@
+id: donizetti-fugue-for-6-voices
+work:
+  composer: Donizetti, Gaetano
+  title: Fugue for 6 Voices
+  ids:
+    imslp: Fugue for 6 Voices, A 715 (Donizetti, Gaetano)
+  year: 1817
+formula: ''
+instrumentation:
+  additional_raw: 6 instruments
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_for_6_Voices%2C_A_715_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: 6 instruments'

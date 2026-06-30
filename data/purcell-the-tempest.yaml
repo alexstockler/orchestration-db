@@ -1,0 +1,17 @@
+id: purcell-the-tempest
+work:
+  composer: Purcell, Henry
+  title: The Tempest
+  ids:
+    imslp: The Tempest, Z.631 (Purcell, Henry)
+  year: 1695
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Tempest%2C_Z.631_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (SATB), mixed chorus (SATB), orchestra'

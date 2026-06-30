@@ -1,0 +1,17 @@
+id: telemann-conclusion
+work:
+  composer: Telemann, Georg Philipp
+  title: Conclusion
+  ids:
+    imslp: Conclusion, TWV 50:10 (Telemann, Georg Philipp)
+  year: 1733
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Conclusion%2C_TWV_50%3A10_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'

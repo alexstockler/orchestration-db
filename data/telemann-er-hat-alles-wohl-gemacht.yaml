@@ -1,0 +1,21 @@
+id: telemann-er-hat-alles-wohl-gemacht
+work:
+  composer: Telemann, Georg Philipp
+  title: Er hat alles wohl gemacht
+  ids:
+    imslp: Er hat alles wohl gemacht, TWV 1:452 (Telemann, Georg Philipp)
+  year: 1744
+formula: ''
+instrumentation:
+  soloists:
+  - 2 voices
+  solo_strings:
+    violin: 2
+  additional_raw: bass (optional) | viola (optional) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Er_hat_alles_wohl_gemacht%2C_TWV_1%3A452_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, bass (optional), 2 violins, viola (optional),
+    continuo'
+duration_minutes: 18

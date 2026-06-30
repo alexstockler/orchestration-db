@@ -1,0 +1,17 @@
+id: donizetti-domine-ad-adjuvandum
+work:
+  composer: Donizetti, Gaetano
+  title: Domine ad adjuvandum
+  ids:
+    imslp: Domine ad adjuvandum, In.126 (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Domine_ad_adjuvandum%2C_In.126_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, bass, orchestra'

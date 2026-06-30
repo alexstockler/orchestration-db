@@ -1,0 +1,17 @@
+id: purcell-when-strephon-found-his-passion-vain
+work:
+  composer: Purcell, Henry
+  title: When Strephon Found His Passion Vain
+  ids:
+    imslp: When Strephon Found His Passion Vain, Z.435 (Purcell, Henry)
+  year: 1683
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/When_Strephon_Found_His_Passion_Vain%2C_Z.435_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

@@ -1,0 +1,38 @@
+id: balakirev-piano-concerto-no-2
+work:
+  composer: Balakirev, Mily
+  title: Piano Concerto No.2
+  ids:
+    imslp: Piano Concerto No.2 (Balakirev, Mily)
+  year: 1862
+formula: 3[1.2.3/pic] 2[1.Eh] 2 2 4231 tmp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - tam-tam
+    - cymbals
+    - triangle
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Concerto_No.2_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), oboe, English horn, 2 clarinets,
+    2 bassoons, 4 horns, 2 trumpets, 3 trombones, tuba, timpani, tam-tam, cymbals,
+    triangle, strings'
+duration_minutes: 35

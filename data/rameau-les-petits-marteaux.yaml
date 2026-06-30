@@ -1,0 +1,15 @@
+id: rameau-les-petits-marteaux
+work:
+  composer: Rameau, Jean-Philippe
+  title: Les Petits marteaux
+  ids:
+    imslp: Les Petits marteaux, RCT 12bis (Rameau, Jean-Philippe)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_Petits_marteaux%2C_RCT_12bis_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

@@ -1,0 +1,17 @@
+id: chabrier-trois-valses-romantiques
+work:
+  composer: Chabrier, Emmanuel
+  title: Trois valses romantiques
+  ids:
+    imslp: 3 Valses romantiques (Chabrier, Emmanuel)
+  year: 1880
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Valses_romantiques_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 pianos'

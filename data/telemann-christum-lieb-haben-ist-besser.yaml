@@ -1,0 +1,25 @@
+id: telemann-christum-lieb-haben-ist-besser
+work:
+  composer: Telemann, Georg Philipp
+  title: Christum lieb haben ist besser
+  ids:
+    imslp: Christum lieb haben ist besser, TWV 1:137 (Telemann, Georg Philipp)
+  year: 1711
+formula: 1200 0000 str
+instrumentation:
+  flute: 1
+  oboe: 2
+  strings: str
+  soloists:
+  - soprano
+  - tenor
+  - bass
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Christum_lieb_haben_ist_besser%2C_TWV_1%3A137_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, tenor, bass; mixed chorus (SATB), Orchestra:
+    flute, 2 oboes, strings, continuo'
+duration_minutes: 20

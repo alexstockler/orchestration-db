@@ -1,0 +1,16 @@
+id: chabrier-caprice
+work:
+  composer: Chabrier, Emmanuel
+  title: Caprice
+  ids:
+    imslp: Caprice (Chabrier, Emmanuel)
+  year: 1889
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Caprice_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

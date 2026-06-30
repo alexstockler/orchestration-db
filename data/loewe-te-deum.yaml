@@ -1,0 +1,35 @@
+id: loewe-te-deum
+work:
+  composer: Loewe, Carl
+  title: Te Deum
+  ids:
+    imslp: Te Deum, Op.77 (Loewe, Carl)
+  year: 1841
+formula: 2 2 2 3[1.2.cbn] 2330 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 2
+  trumpet: 3
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drum
+    - bass drum
+  strings: str
+  soloists:
+  - SATTB
+  - mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Te_Deum%2C_Op.77_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: SATTB + mixed chorus (SATB), Orchestra: 2 flutes,
+    2 oboes, 2 clarinets, 2 bassoons, contrabassoon + 2 horns, 3 trumpets, 3 trombones
+    + timpani, snare drum, bass drum + strings'

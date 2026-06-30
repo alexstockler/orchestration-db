@@ -1,0 +1,17 @@
+id: rameau-dardanus
+work:
+  composer: Rameau, Jean-Philippe
+  title: Dardanus
+  ids:
+    imslp: Dardanus, RCT 35 (Rameau, Jean-Philippe)
+  year: 1739
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dardanus%2C_RCT_35_%28Rameau%2C_Jean-Philippe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

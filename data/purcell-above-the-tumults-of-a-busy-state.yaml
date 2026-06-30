@@ -1,0 +1,18 @@
+id: purcell-above-the-tumults-of-a-busy-state
+work:
+  composer: Purcell, Henry
+  title: Above the Tumults of a Busy State
+  ids:
+    imslp: Above the Tumults of a Busy State, Z.480 (Purcell, Henry)
+  year: 1683
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Above_the_Tumults_of_a_Busy_State%2C_Z.480_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'

@@ -1,0 +1,16 @@
+id: purcell-leave-these-useless-arts-in-loving
+work:
+  composer: Purcell, Henry
+  title: Leave these Useless Arts in Loving
+  ids:
+    imslp: Leave these Useless Arts in Loving, Z.389 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Leave_these_Useless_Arts_in_Loving%2C_Z.389_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

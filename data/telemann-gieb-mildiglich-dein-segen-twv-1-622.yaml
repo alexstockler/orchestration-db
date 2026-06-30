@@ -1,0 +1,20 @@
+id: telemann-gieb-mildiglich-dein-segen-twv-1-622
+work:
+  composer: Telemann, Georg Philipp
+  title: Gieb mildiglich dein' segen, TWV 1:622
+  ids:
+    imslp: Gieb mildiglich dein' Segen, TWV 1:622 (Telemann, Georg Philipp)
+  year: 1749
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gieb_mildiglich_dein%27_Segen%2C_TWV_1%3A622_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: alto; mixed chorus (SATB), Orchestra: strings,
+    continuo'

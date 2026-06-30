@@ -1,0 +1,24 @@
+id: cherubini-o-salutaris-hostia
+work:
+  composer: Cherubini, Luigi
+  title: O salutaris hostia
+  ids:
+    imslp: O salutaris hostia in D major (Cherubini, Luigi)
+  year: 1821
+formula: 1110 2000 str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  horn: 2
+  strings: str
+  soloists:
+  - mixed chorus (SATB)
+  additional_raw: 2 bassons
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_salutaris_hostia_in_D_major_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: mixed chorus (SATB), Orchestra: flute, oboe, clarinet
+    (C), 2 bassons, 2 horns (D), strings'
+duration_minutes: 4

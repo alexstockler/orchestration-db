@@ -1,0 +1,16 @@
+id: telemann-divertimento-in-a-major
+work:
+  composer: Telemann, Georg Philipp
+  title: Divertimento in A major
+  ids:
+    imslp: Divertimento in A major, TWV 50:22 (Telemann, Georg Philipp)
+  year: 1767
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Divertimento_in_A_major%2C_TWV_50%3A22_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: strings, continuo'

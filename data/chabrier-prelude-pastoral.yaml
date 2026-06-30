@@ -1,0 +1,14 @@
+id: chabrier-prelude-pastoral
+work:
+  composer: Chabrier, Emmanuel
+  title: Prélude pastoral
+  ids:
+    imslp: Prélude pastoral (Chabrier, Emmanuel)
+  year: 1888
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pr%C3%A9lude_pastoral_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

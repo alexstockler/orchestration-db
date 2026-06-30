@@ -1,0 +1,16 @@
+id: boccherini-symphony-in-d-major-g-500
+work:
+  composer: Boccherini, Luigi
+  title: Symphony in D major, G.500
+  ids:
+    imslp: Symphony in D major, G.500 (Boccherini, Luigi)
+  year: 1767
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: 2 horns ad lib. |Tags=symphonies | orch
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_in_D_major%2C_G.500_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: strings, 2 horns ad lib. |Tags=symphonies ; str ; orch'

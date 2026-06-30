@@ -1,0 +1,15 @@
+id: rossini-belta-crudele
+work:
+  composer: Rossini, Gioachino
+  title: Belta Crudele
+  ids:
+    imslp: Belta Crudele (Rossini, Gioachino)
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Belta_Crudele_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voice and piano'

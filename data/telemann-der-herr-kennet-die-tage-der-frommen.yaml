@@ -1,0 +1,18 @@
+id: telemann-der-herr-kennet-die-tage-der-frommen
+work:
+  composer: Telemann, Georg Philipp
+  title: Der Herr kennet die Tage der Frommen
+  ids:
+    imslp: Der Herr kennet die Tage der Frommen, TWV 1:280 (Telemann, Georg Philipp)
+  year: 1721
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: recorder | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Herr_kennet_die_Tage_der_Frommen%2C_TWV_1%3A280_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: recorder, 2 oboes, strings, continuo'
+duration_minutes: 14

@@ -1,0 +1,16 @@
+id: taneyev-prelude
+work:
+  composer: Taneyev, Sergey
+  title: Prelude
+  ids:
+    imslp: Prelude in F major (Taneyev, Sergey)
+  year: 1894
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude_in_F_major_%28Taneyev%2C_Sergey%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (solo)'

@@ -1,0 +1,19 @@
+id: loewe-die-heinzelmannchen-ein-marchen-von-a-kopisch-fur-eine-singstimme-mit-begl
+work:
+  composer: Loewe, Carl
+  title: 'Die Heinzelmännchen : ein Märchen von A. Kopisch : für eine Singstimme mit
+    Begleitung des Pianoforte : Op. 83'
+  ids:
+    imslp: Die Heinzelmännchen, Op.83 (Loewe, Carl)
+  year: 1841
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Heinzelm%C3%A4nnchen%2C_Op.83_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

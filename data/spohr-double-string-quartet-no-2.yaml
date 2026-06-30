@@ -1,0 +1,19 @@
+id: spohr-double-string-quartet-no-2
+work:
+  composer: Spohr, Louis
+  title: Double String Quartet No.2
+  ids:
+    imslp: Double String Quartet No.2, Op.77 (Spohr, Louis)
+  year: 1827
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 4
+    viola: 2
+    cello: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Double_String_Quartet_No.2%2C_Op.77_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 violins, 2 violas, 2 cellos'
+duration_minutes: 30

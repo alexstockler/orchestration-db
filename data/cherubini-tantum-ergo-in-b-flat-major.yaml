@@ -1,0 +1,24 @@
+id: cherubini-tantum-ergo-in-b-flat-major
+work:
+  composer: Cherubini, Luigi
+  title: Tantum ergo in B-flat major
+  ids:
+    imslp: Tantum ergo in B-flat major (Cherubini, Luigi)
+  year: 1817
+formula: 2222 2000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+  soloists:
+  - mixed chorus (SSATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tantum_ergo_in_B-flat_major_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: mixed chorus (SSATB), Orchestra: 2 flutes, 2 oboes,
+    2 clarinets (C), 2 bassoons, 2 horns (E), strings'
+duration_minutes: 5

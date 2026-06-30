@@ -1,0 +1,20 @@
+id: spohr-potpourri-for-clarinet-and-orchestra-in-f-major
+work:
+  composer: Spohr, Louis
+  title: Potpourri for Clarinet and Orchestra in F major
+  ids:
+    imslp: Potpourri for Clarinet and Orchestra, Op.80 (Spohr, Louis)
+  year: 1811
+formula: 2202 2000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Potpourri_for_Clarinet_and_Orchestra%2C_Op.80_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 bassoons, 2 horns, strings'
+duration_minutes: 10

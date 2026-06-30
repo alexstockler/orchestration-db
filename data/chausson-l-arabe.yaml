@@ -1,0 +1,16 @@
+id: chausson-l-arabe
+work:
+  composer: Chausson, Ernest
+  title: L'Arabe
+  ids:
+    imslp: L'arabe (Chausson, Ernest)
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27arabe_%28Chausson%2C_Ernest%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, male chorus, orchestra'

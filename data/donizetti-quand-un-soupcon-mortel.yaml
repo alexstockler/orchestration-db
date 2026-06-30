@@ -1,0 +1,17 @@
+id: donizetti-quand-un-soupcon-mortel
+work:
+  composer: Donizetti, Gaetano
+  title: Quand un soupçon mortel
+  ids:
+    imslp: Quand un soupçon mortel, In.546 (Donizetti, Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Quand_un_soup%C3%A7on_mortel%2C_In.546_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

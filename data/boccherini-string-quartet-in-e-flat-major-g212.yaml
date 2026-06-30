@@ -1,0 +1,18 @@
+id: boccherini-string-quartet-in-e-flat-major-g212
+work:
+  composer: Boccherini, Luigi
+  title: String Quartet in E-flat major, G212
+  ids:
+    imslp: String Quartet in E-flat major, G212 (Boccherini, Luigi)
+  year: 1781
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_in_E-flat_major%2C_G212_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

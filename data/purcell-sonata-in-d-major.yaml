@@ -1,0 +1,17 @@
+id: purcell-sonata-in-d-major
+work:
+  composer: Purcell, Henry
+  title: Sonata in D major
+  ids:
+    imslp: Sonata in D major, Z.811 (Purcell, Henry)
+  year: 1697
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: bass viol | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonata_in_D_major%2C_Z.811_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, bass viol, continuo'

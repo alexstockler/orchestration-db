@@ -1,0 +1,16 @@
+id: chabrier-les-bords-de-la-dore
+work:
+  composer: Chabrier, Emmanuel
+  title: Les bords de la dore
+  ids:
+    imslp: Les bords de la dore, Op.2 (Chabrier, Emmanuel)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_bords_de_la_dore%2C_Op.2_%28Chabrier%2C_Emmanuel%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

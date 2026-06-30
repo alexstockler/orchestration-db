@@ -1,0 +1,16 @@
+id: purcell-beati-omnes-qui-timent-dominum
+work:
+  composer: Purcell, Henry
+  title: Beati omnes qui timent Dominum
+  ids:
+    imslp: Beati omnes qui timent Dominum, Z.131 (Purcell, Henry)
+  year: 1680
+formula: ''
+instrumentation:
+  additional_raw: Choir SSAB | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Beati_omnes_qui_timent_Dominum%2C_Z.131_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: Choir SSAB, continuo'
+duration_minutes: 5

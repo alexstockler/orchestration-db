@@ -1,0 +1,14 @@
+id: purcell-air-in-g-major
+work:
+  composer: Purcell, Henry
+  title: Air in G-major
+  ids:
+    imslp: Air in G major, Z.641 (Purcell, Henry)
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Air_in_G_major%2C_Z.641_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

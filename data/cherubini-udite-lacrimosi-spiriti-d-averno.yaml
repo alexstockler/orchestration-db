@@ -1,0 +1,18 @@
+id: cherubini-udite-lacrimosi-spiriti-d-averno
+work:
+  composer: Cherubini, Luigi
+  title: Udite lacrimosi spiriti d'averno
+  ids:
+    imslp: Udite lacrimosi spiriti d'averno (Cherubini, Luigi)
+  year: 1811
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Udite_lacrimosi_spiriti_d%27averno_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices, organ (figured bass)'

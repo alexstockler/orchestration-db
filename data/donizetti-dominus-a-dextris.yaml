@@ -1,0 +1,17 @@
+id: donizetti-dominus-a-dextris
+work:
+  composer: Donizetti, Gaetano
+  title: Dominus a dextris
+  ids:
+    imslp: Dominus a dextris, In.132 (Donizetti, Gaetano)
+  year: 1819
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dominus_a_dextris%2C_In.132_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, orchestra'
+duration_minutes: 4

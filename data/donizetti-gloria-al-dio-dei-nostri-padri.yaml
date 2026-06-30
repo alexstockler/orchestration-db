@@ -1,0 +1,16 @@
+id: donizetti-gloria-al-dio-dei-nostri-padri
+work:
+  composer: Donizetti, Gaetano
+  title: Gloria al Dio dei nostri padri
+  ids:
+    imslp: Gloria al Dio dei nostri padri, In.136 (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gloria_al_Dio_dei_nostri_padri%2C_In.136_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, mixed chorus, orchestra'

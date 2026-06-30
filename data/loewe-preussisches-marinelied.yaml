@@ -1,0 +1,18 @@
+id: loewe-preussisches-marinelied
+work:
+  composer: Loewe, Carl
+  title: Preussisches Marinelied
+  ids:
+    imslp: Preussisches Marinelied (Loewe, Carl)
+  year: 1856
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Preussisches_Marinelied_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

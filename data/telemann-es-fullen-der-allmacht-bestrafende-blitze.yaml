@@ -1,0 +1,21 @@
+id: telemann-es-fullen-der-allmacht-bestrafende-blitze
+work:
+  composer: Telemann, Georg Philipp
+  title: Es füllen der Allmacht bestrafende Blitze
+  ids:
+    imslp: Es füllen der Allmacht bestrafende Blitze, TWV 1:490a (Telemann, Georg
+      Philipp)
+  year: 1731
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_f%C3%BCllen_der_Allmacht_bestrafende_Blitze%2C_TWV_1%3A490a_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, 2 violins, continuo'
+duration_minutes: 13

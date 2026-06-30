@@ -1,0 +1,17 @@
+id: humperdinck-dornroschen
+work:
+  composer: Humperdinck, Engelbert
+  title: Dornröschen
+  ids:
+    imslp: Dornröschen (Humperdinck, Engelbert)
+  year: 1902
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dornr%C3%B6schen_%28Humperdinck%2C_Engelbert%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'
+duration_minutes: 90

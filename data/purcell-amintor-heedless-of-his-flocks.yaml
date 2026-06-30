@@ -1,0 +1,17 @@
+id: purcell-amintor-heedless-of-his-flocks
+work:
+  composer: Purcell, Henry
+  title: Amintor, Heedless of his Flocks
+  ids:
+    imslp: Amintor, Heedless of his Flocks, Z.357 (Purcell, Henry)
+  year: 1681
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Amintor%2C_Heedless_of_his_Flocks%2C_Z.357_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

@@ -1,0 +1,18 @@
+id: spohr-potpourri-on-themes-from-jessonda
+work:
+  composer: Spohr, Louis
+  title: Potpourri on Themes from Jessonda
+  ids:
+    imslp: Potpourri on Themes from 'Jessonda', Op.64 (Spohr, Louis)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Potpourri_on_Themes_from_%27Jessonda%27%2C_Op.64_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'

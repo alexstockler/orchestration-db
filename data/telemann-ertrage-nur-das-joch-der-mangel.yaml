@@ -1,0 +1,27 @@
+id: telemann-ertrage-nur-das-joch-der-mangel
+work:
+  composer: Telemann, Georg Philipp
+  title: Ertrage nur das Joch der Mängel
+  ids:
+    imslp: Ertrage nur das Joch der Mängel, TWV 1:479 (Telemann, Georg Philipp)
+  year: 1732
+formula: 2200 0000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+  additional_raw: 'continuo | Short Version: soprano (or tenor) | continuo'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ertrage_nur_das_Joch_der_M%C3%A4ngel%2C_TWV_1%3A479_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Full Version: soprano, alto, tenor, bass, mixed chorus
+    (SATB), 2 oboes, strings, continuo, Short Version: soprano (or tenor), 2 flutes,
+    continuo'
+duration_minutes: 18

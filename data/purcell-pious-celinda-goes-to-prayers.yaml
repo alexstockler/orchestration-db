@@ -1,0 +1,17 @@
+id: purcell-pious-celinda-goes-to-prayers
+work:
+  composer: Purcell, Henry
+  title: Pious Celinda Goes to Prayers
+  ids:
+    imslp: Pious Celinda Goes to Prayers, Z.410 (Purcell, Henry)
+  year: 1695
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pious_Celinda_Goes_to_Prayers%2C_Z.410_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

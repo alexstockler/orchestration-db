@@ -1,0 +1,18 @@
+id: donizetti-il-canto-xxxiii-dalla-divina-commedia-di-dante-alighieri
+work:
+  composer: Donizetti, Gaetano
+  title: Il Canto XXXIII dalla Divina Commedia di Dante Alighieri
+  ids:
+    imslp: Il conte Ugolino, In.371 (Donizetti, Gaetano)
+  year: 1826
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_conte_Ugolino%2C_In.371_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

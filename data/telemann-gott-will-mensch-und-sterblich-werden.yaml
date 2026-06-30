@@ -1,0 +1,20 @@
+id: telemann-gott-will-mensch-und-sterblich-werden
+work:
+  composer: Telemann, Georg Philipp
+  title: Gott will Mensch und sterblich werden
+  ids:
+    imslp: Gott will Mensch und sterblich werden, TWV 1:694 (Telemann, Georg Philipp)
+  year: 1725
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  solo_strings:
+    violin: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_will_Mensch_und_sterblich_werden%2C_TWV_1%3A694_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, violin, continuo'
+duration_minutes: 8

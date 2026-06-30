@@ -1,0 +1,15 @@
+id: balakirev-cantata-on-the-inauguration-of-the-glinka-memorial-in-st-petersburg
+work:
+  composer: Balakirev, Mily
+  title: Cantata on the Inauguration of the Glinka Memorial in St.Petersburg
+  ids:
+    imslp: Cantata on the Inauguration of the Glinka Memorial (Balakirev, Mily)
+  year: 1904
+formula: ''
+instrumentation:
+  additional_raw: '|Tags=secular cantatas | sop ch orch | ru'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cantata_on_the_Inauguration_of_the_Glinka_Memorial_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: |Tags=secular cantatas ; sop ch orch ; ru'

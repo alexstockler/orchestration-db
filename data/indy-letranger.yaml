@@ -1,0 +1,47 @@
+id: indy-letranger
+work:
+  composer: Indy, Vincent d'
+  title: L’étranger
+  ids:
+    imslp: L'étranger, Op.53 (Indy, Vincent d')
+  year: 1898
+formula: 3 3[1.2.Eh] 3[1.2.bcl] 3 4 1[pictpt] 4[1.2.3.cbtbn] 0 2hp str
+instrumentation:
+  flute: 3
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 3
+  horn: 4
+  trumpet:
+  - instrument: piccolo_trumpet
+  trombone:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabass_trombone
+  percussion:
+    instruments:
+    - cymbals
+    - triangle
+    - bell
+  harp: 2
+  strings: str
+  soloists:
+  - soloists
+  - mixed chorus
+  additional_raw: 2 trombones with 6 pistons | chromatic timpani
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27%C3%A9tranger%2C_Op.53_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soloists, mixed chorus, Orchestra: 3 flutes (1
+    takes piccolo), 2 oboes, English horn, 2 clarinets, bass clarinet,, 3 bassoons,
+    4 horns, piccolo trumpet, 3 trombones, contrabass trombone or tuba,, 2 trombones
+    with 6 pistons, chromatic timpani, cymbals, triangle, bell (on stage), 2 harps,
+    strings'

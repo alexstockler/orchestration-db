@@ -1,0 +1,46 @@
+id: indy-souvenirs-op-62
+work:
+  composer: Indy, Vincent d'
+  title: Souvenirs, Op.62
+  ids:
+    imslp: Souvenirs, Op.62 (Indy, Vincent d')
+  year: 1906
+formula: 3[1.2.3/pic] 3[1.2.Eh] 3[1.2.bcl] 3 4 3[1/pictpt.2.3] 4[1.2.3.cbtbn] 0 tmp
+  2hp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 3
+  horn: 4
+  trumpet:
+  - doublings:
+    - piccolo_trumpet
+  - {}
+  - {}
+  trombone:
+  - {}
+  - {}
+  - {}
+  - instrument: contrabass_trombone
+  percussion:
+    timpani: 1
+  harp: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Souvenirs%2C_Op.62_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 2 oboes, English horn, 2 clarinets,
+    bass clarinet, 3 bassoons, 4 horns, 3 trumpets (1st also piccolo trumpet), 3 trombones,
+    contrabass trombone, timpani, 2 harps, strings'

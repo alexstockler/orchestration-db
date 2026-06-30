@@ -1,0 +1,28 @@
+id: cherubini-alleluia-o-filii-et-filiae
+work:
+  composer: Cherubini, Luigi
+  title: Alleluia O filii et filiae
+  ids:
+    imslp: Alleluia O filii et filiae (Cherubini, Luigi)
+  year: 1818
+formula: 2222 2000 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  strings: str
+  soloists:
+  - soprano
+  - 2 alto
+  - tenor
+  - bass
+  - mixed chorus (SATTB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alleluia_O_filii_et_filiae_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, 2 alto, tenor, bass, mixed chorus (SATTB),
+    Orchestra: 2 flutes, 2 oboes, 2 clarinets (C), 2 bassoons, 2 horns (G), strings'
+duration_minutes: 12

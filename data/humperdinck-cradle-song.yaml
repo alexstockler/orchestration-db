@@ -1,0 +1,18 @@
+id: humperdinck-cradle-song
+work:
+  composer: Humperdinck, Engelbert
+  title: Cradle Song
+  ids:
+    imslp: Cradle Song (Humperdinck, Engelbert)
+  year: 1901
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cradle_Song_%28Humperdinck%2C_Engelbert%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

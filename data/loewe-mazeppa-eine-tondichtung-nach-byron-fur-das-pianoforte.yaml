@@ -1,0 +1,17 @@
+id: loewe-mazeppa-eine-tondichtung-nach-byron-fur-das-pianoforte
+work:
+  composer: Loewe, Carl
+  title: Mazeppa eine Tondichtung nach Byron für das Pianoforte
+  ids:
+    imslp: Mazeppa, Op.27 (Loewe, Carl)
+  year: 1832
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mazeppa%2C_Op.27_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'
+duration_minutes: 8

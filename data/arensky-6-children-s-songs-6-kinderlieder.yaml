@@ -1,0 +1,18 @@
+id: arensky-6-children-s-songs-6-kinderlieder
+work:
+  composer: Arensky, Anton
+  title: 6 Children's Songs ; 6 Kinderlieder
+  ids:
+    imslp: 6 Children's Songs, Op.59 (Arensky, Anton)
+  year: 1902
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Children%27s_Songs%2C_Op.59_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

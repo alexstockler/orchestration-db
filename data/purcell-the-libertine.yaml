@@ -1,0 +1,21 @@
+id: purcell-the-libertine
+work:
+  composer: Purcell, Henry
+  title: The Libertine
+  ids:
+    imslp: The Libertine, Z.600 (Purcell, Henry)
+  year: 1692
+formula: 0000 0100 str
+instrumentation:
+  trumpet: 1
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Libertine%2C_Z.600_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, bass, trumpets, strings, continuo'

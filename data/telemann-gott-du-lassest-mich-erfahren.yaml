@@ -1,0 +1,18 @@
+id: telemann-gott-du-lassest-mich-erfahren
+work:
+  composer: Telemann, Georg Philipp
+  title: Gott! Du lässest mich erfahren
+  ids:
+    imslp: Gott! Du lässest mich erfahren, TWV 1:638 (Telemann, Georg Philipp)
+  year: 1737
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott%21_Du_l%C3%A4ssest_mich_erfahren%2C_TWV_1%3A638_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'
+duration_minutes: 14

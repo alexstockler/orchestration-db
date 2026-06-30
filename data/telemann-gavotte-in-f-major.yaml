@@ -1,0 +1,16 @@
+id: telemann-gavotte-in-f-major
+work:
+  composer: Telemann, Georg Philipp
+  title: Gavotte in F major
+  ids:
+    imslp: Gavotte in F major (Telemann, Georg Philipp)
+  year: 1739
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gavotte_in_F_major_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

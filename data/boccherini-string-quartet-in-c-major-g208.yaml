@@ -1,0 +1,18 @@
+id: boccherini-string-quartet-in-c-major-g208
+work:
+  composer: Boccherini, Luigi
+  title: String Quartet in C major, G208
+  ids:
+    imslp: String Quartet in C major, G208 (Boccherini, Luigi)
+  year: 1781
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_in_C_major%2C_G208_%28Boccherini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

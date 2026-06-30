@@ -1,0 +1,21 @@
+id: telemann-das-ist-sein-gebot
+work:
+  composer: Telemann, Georg Philipp
+  title: Das ist sein Gebot
+  ids:
+    imslp: Das ist sein Gebot, TWV 1:189 (Telemann, Georg Philipp)
+  year: 1744
+formula: ''
+instrumentation:
+  soloists:
+  - 2 voices
+  solo_strings:
+    violin: 2
+  additional_raw: bass (optional) | viola (optional) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_ist_sein_Gebot%2C_TWV_1%3A189_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, bass (optional), 2 violins, viola (optional),
+    continuo'
+duration_minutes: 20

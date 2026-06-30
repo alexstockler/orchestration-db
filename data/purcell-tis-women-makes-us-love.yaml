@@ -1,0 +1,16 @@
+id: purcell-tis-women-makes-us-love
+work:
+  composer: Purcell, Henry
+  title: Tis Women Makes Us Love
+  ids:
+    imslp: Tis Women Makes Us Love, Z.281 (Purcell, Henry)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tis_Women_Makes_Us_Love%2C_Z.281_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices'

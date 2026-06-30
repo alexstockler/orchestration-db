@@ -1,0 +1,16 @@
+id: spohr-das-jungste-gericht
+work:
+  composer: Spohr, Louis
+  title: Das jüngste Gericht
+  ids:
+    imslp: Das jüngste Gericht, WoO 60 (Spohr, Louis)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_j%C3%BCngste_Gericht%2C_WoO_60_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

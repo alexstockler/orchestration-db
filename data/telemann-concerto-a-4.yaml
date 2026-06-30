@@ -1,0 +1,18 @@
+id: telemann-concerto-a-4
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto à 4
+  ids:
+    imslp: Concerto à 4, TWV 43:a3 (Telemann, Georg Philipp)
+formula: 0100 0000
+instrumentation:
+  oboe: 1
+  solo_strings:
+    violin: 1
+  additional_raw: recorder | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_%C3%A0_4%2C_TWV_43%3Aa3_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: recorder, oboe, violin, continuo'
+duration_minutes: 11

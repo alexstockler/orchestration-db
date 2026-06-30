@@ -1,0 +1,21 @@
+id: donizetti-kyrie-a-614
+work:
+  composer: Donizetti, Gaetano
+  title: Kyrie, A 614
+  ids:
+    imslp: Kyrie, A 614 (Donizetti, Gaetano)
+formula: 0200 2000 org
+instrumentation:
+  oboe: 2
+  horn: 2
+  keyboards:
+  - instrument: organ
+  soloists:
+  - soprano
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kyrie%2C_A_614_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, bass, 2 oboes, 2 horns, organ'

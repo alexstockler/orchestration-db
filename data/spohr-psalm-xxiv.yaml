@@ -1,0 +1,19 @@
+id: spohr-psalm-xxiv
+work:
+  composer: Spohr, Louis
+  title: Psalm XXIV
+  ids:
+    imslp: Psalm 24, Op.97a (Spohr, Louis)
+  year: 1836
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - 4 voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Psalm_24%2C_Op.97a_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (SATB), mixed chorus (SATB), piano'

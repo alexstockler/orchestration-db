@@ -1,0 +1,18 @@
+id: donizetti-il-paria
+work:
+  composer: Donizetti, Gaetano
+  title: Il Paria
+  ids:
+    imslp: Il Paria (Donizetti, Gaetano)
+  year: 1828
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: Neala (soprano) | Zaide (mezzo-soprano) | Idamore (tenor) | Zarele
+    (bass) | Akebare (bass) | Empasaele (tenor)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_Paria_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: Neala (soprano), Zaide (mezzo-soprano), Idamore
+    (tenor), Zarele (bass), Akebare (bass), Empasaele (tenor) + mixed chorus, Orchestra'

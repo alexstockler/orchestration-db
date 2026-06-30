@@ -1,0 +1,17 @@
+id: rossini-matilde-di-shabran-ossia-bellezza-e-cuor-di-ferro
+work:
+  composer: Rossini, Gioachino
+  title: Matilde (di) Shabran, ossia Bellezza, e cuor di ferro
+  ids:
+    imslp: Matilde di Shabran (Rossini, Gioachino)
+  year: 1822
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Matilde_di_Shabran_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

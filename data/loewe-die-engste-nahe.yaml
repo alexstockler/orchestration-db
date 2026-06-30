@@ -1,0 +1,18 @@
+id: loewe-die-engste-nahe
+work:
+  composer: Loewe, Carl
+  title: Die engste Nähe
+  ids:
+    imslp: Die engste Nähe (Loewe, Carl)
+  year: 1899
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_engste_N%C3%A4he_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

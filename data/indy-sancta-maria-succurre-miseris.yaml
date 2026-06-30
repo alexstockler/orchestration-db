@@ -1,0 +1,16 @@
+id: indy-sancta-maria-succurre-miseris
+work:
+  composer: Indy, Vincent d'
+  title: Sancta Maria, succurre miseris
+  ids:
+    imslp: Sancta Maria, succurre miseris, Op.49 (Indy, Vincent d')
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  additional_raw: 2 equal voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sancta_Maria%2C_succurre_miseris%2C_Op.49_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 equal voices, organ (or harmonium)'

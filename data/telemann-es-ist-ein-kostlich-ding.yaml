@@ -1,0 +1,20 @@
+id: telemann-es-ist-ein-kostlich-ding
+work:
+  composer: Telemann, Georg Philipp
+  title: Es ist ein köstlich Ding
+  ids:
+    imslp: Es ist ein köstlich Ding, TWV 1:504 (Telemann, Georg Philipp)
+formula: 0200 0000
+instrumentation:
+  oboe: 2
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+  additional_raw: SATB voices | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_ist_ein_k%C3%B6stlich_Ding%2C_TWV_1%3A504_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB voices, 2 oboes, 2 violins, viola, cello, continuo'
+duration_minutes: 16

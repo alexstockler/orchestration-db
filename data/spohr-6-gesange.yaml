@@ -1,0 +1,15 @@
+id: spohr-6-gesange
+work:
+  composer: Spohr, Louis
+  title: 6 Gesänge
+  ids:
+    imslp: 6 Gesänge, Op.44 (Spohr, Louis)
+  year: 1817
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Ges%C3%A4nge%2C_Op.44_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB)'

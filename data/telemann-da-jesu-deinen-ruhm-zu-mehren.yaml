@@ -1,0 +1,19 @@
+id: telemann-da-jesu-deinen-ruhm-zu-mehren
+work:
+  composer: Telemann, Georg Philipp
+  title: Da, Jesu, deinen Ruhm zu mehren
+  ids:
+    imslp: Da, Jesu, deinen Ruhm zu mehren, TWV 1:155a (Telemann, Georg Philipp)
+  year: 1731
+formula: 0100 0000
+instrumentation:
+  oboe: 1
+  soloists:
+  - soprano
+  additional_raw: recorder | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Da%2C_Jesu%2C_deinen_Ruhm_zu_mehren%2C_TWV_1%3A155a_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, recorder, oboe, continuo'
+duration_minutes: 10

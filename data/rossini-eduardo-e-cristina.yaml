@@ -1,0 +1,15 @@
+id: rossini-eduardo-e-cristina
+work:
+  composer: Rossini, Gioachino
+  title: Eduardo e Cristina
+  ids:
+    imslp: Eduardo e Cristina (Rossini, Gioachino)
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Eduardo_e_Cristina_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, Chorus, Orchestra'

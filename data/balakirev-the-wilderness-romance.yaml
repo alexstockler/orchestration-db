@@ -1,0 +1,16 @@
+id: balakirev-the-wilderness-romance
+work:
+  composer: Balakirev, Mily
+  title: The Wilderness, Romance
+  ids:
+    imslp: The Wilderness (Balakirev, Mily)
+  year: 1898
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_Wilderness_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

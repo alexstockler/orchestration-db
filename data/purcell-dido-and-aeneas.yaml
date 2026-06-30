@@ -1,0 +1,17 @@
+id: purcell-dido-and-aeneas
+work:
+  composer: Purcell, Henry
+  title: Dido and Aeneas
+  ids:
+    imslp: Dido and Aeneas, Z.626 (Purcell, Henry)
+  year: 1677
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dido_and_Aeneas%2C_Z.626_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

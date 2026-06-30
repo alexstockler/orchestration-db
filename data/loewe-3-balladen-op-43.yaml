@@ -1,0 +1,18 @@
+id: loewe-3-balladen-op-43
+work:
+  composer: Loewe, Carl
+  title: 3 Balladen, Op.43
+  ids:
+    imslp: 3 Balladen, Op.43 (Loewe, Carl)
+  year: 1835
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Balladen%2C_Op.43_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

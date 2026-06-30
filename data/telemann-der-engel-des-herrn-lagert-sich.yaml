@@ -1,0 +1,23 @@
+id: telemann-der-engel-des-herrn-lagert-sich
+work:
+  composer: Telemann, Georg Philipp
+  title: Der Engel des Herrn lagert sich
+  ids:
+    imslp: Der Engel des Herrn lagert sich, TWV 1:232 (Telemann, Georg Philipp)
+  year: 1711
+formula: 0000 2000 str
+instrumentation:
+  horn: 2
+  strings: str
+  soloists:
+  - tenor
+  - bass solos
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Engel_des_Herrn_lagert_sich%2C_TWV_1%3A232_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, bass solos; mixed chorus (SATB), 2 horns, strings,
+    continuo'
+duration_minutes: 20

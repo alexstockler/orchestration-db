@@ -1,0 +1,18 @@
+id: telemann-ach-herr-wie-ist-meiner-feinde-so-viel
+work:
+  composer: Telemann, Georg Philipp
+  title: Ach Herr, wie ist meiner Feinde so viel
+  ids:
+    imslp: Ach Herr, wie ist meiner Feinde so viel, TWV 1:26 (Telemann, Georg Philipp)
+  year: 1716
+formula: 0200 0000 str
+instrumentation:
+  oboe: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach_Herr%2C_wie_ist_meiner_Feinde_so_viel%2C_TWV_1%3A26_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 oboes, strings, continuo'
+duration_minutes: 10

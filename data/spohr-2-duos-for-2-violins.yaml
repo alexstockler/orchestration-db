@@ -1,0 +1,16 @@
+id: spohr-2-duos-for-2-violins
+work:
+  composer: Spohr, Louis
+  title: 2 Duos for 2 Violins
+  ids:
+    imslp: 2 Duos for 2 Violins, Op.9 (Spohr, Louis)
+  year: 1808
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Duos_for_2_Violins%2C_Op.9_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins'

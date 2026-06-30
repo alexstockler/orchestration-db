@@ -1,0 +1,16 @@
+id: spohr-duo-for-2-violins-op-150
+work:
+  composer: Spohr, Louis
+  title: Duo for 2 Violins, Op.150
+  ids:
+    imslp: Duo for 2 Violins, Op.150 (Spohr, Louis)
+  year: 1856
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Duo_for_2_Violins%2C_Op.150_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins'

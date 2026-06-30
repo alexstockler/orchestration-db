@@ -1,0 +1,20 @@
+id: telemann-ach-gott-dein-zion-klagt-und-weint-twv-1-10
+work:
+  composer: Telemann, Georg Philipp
+  title: Ach Gott! dein Zion klagt und weint, TWV 1:10
+  ids:
+    imslp: Ach Gott! dein Zion klagt und weint, TWV 1:10 (Telemann, Georg Philipp)
+  year: 1749
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - tenor
+  - mixed chorus (SATB)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach_Gott%21_dein_Zion_klagt_und_weint%2C_TWV_1%3A10_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: tenor; mixed chorus (SATB), Orchestra: strings,
+    continuo'

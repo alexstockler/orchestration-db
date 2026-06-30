@@ -1,0 +1,18 @@
+id: purcell-though-my-mistress-be-fair
+work:
+  composer: Purcell, Henry
+  title: Though My Mistress Be Fair
+  ids:
+    imslp: Though My Mistress Be Fair, Z.514 (Purcell, Henry)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Though_My_Mistress_Be_Fair%2C_Z.514_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'

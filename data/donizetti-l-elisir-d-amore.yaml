@@ -1,0 +1,40 @@
+id: donizetti-l-elisir-d-amore
+work:
+  composer: Donizetti, Gaetano
+  title: L'elisir d'amore
+  ids:
+    imslp: L'elisir d'amore (Donizetti, Gaetano)
+  year: 1832
+formula: 3[pic.2.3] 2 2 2 2230 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+  strings: str
+  soloists:
+  - Nemorino (tenor)
+  - Adina (soprano)
+  - Belcore (baritone)
+  - Dulcarama (bass)
+  - Giannetta (soprano) Mixed Chorus (SSTTB) :2 sopranos
+  - 2 tenors
+  - basses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27elisir_d%27amore_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Nemorino (tenor), Adina (soprano), Belcore (baritone),
+    Dulcarama (bass), Giannetta (soprano) Mixed Chorus (SSTTB) :2 sopranos, 2 tenors,
+    basses Orchestra :piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns,
+    2 trumpets, 3 trombones, timpani, bass drum, strings'

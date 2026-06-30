@@ -1,0 +1,17 @@
+id: donizetti-domine-deus-in-e-flat-major
+work:
+  composer: Donizetti, Gaetano
+  title: Domine Deus in E-flat major
+  ids:
+    imslp: Domine Deus in E-flat major (Donizetti, Gaetano)
+  year: 1820
+formula: 0010 0000
+instrumentation:
+  clarinet: 1
+  soloists:
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Domine_Deus_in_E-flat_major_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, clarinet, orchestra'

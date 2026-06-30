@@ -1,0 +1,18 @@
+id: donizetti-che-cangi-tempra
+work:
+  composer: Donizetti, Gaetano
+  title: Che cangi tempra
+  ids:
+    imslp: Che cangi tempra, A 402 (Donizetti, Gaetano)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Che_cangi_tempra%2C_A_402_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 3

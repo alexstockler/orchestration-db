@@ -1,0 +1,17 @@
+id: purcell-when-the-cock-begins-to-crow
+work:
+  composer: Purcell, Henry
+  title: When the Cock Begins to Crow
+  ids:
+    imslp: When the Cock Begins to Crow, ZD 172 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/When_the_Cock_Begins_to_Crow%2C_ZD_172_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos (or 2 tenors), bass, continuo'

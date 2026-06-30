@@ -1,0 +1,19 @@
+id: donizetti-gloria
+work:
+  composer: Donizetti, Gaetano
+  title: Gloria
+  ids:
+    imslp: Gloria, A 617 (Donizetti, Gaetano)
+  year: 1814
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gloria%2C_A_617_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, tenor, bass, mixed chorus (STB), orchestra'

@@ -1,0 +1,16 @@
+id: rossini-la-prima-vera
+work:
+  composer: Rossini, Gioachino
+  title: La Prima Vera
+  ids:
+    imslp: La Prima Vera (Rossini, Gioachino)
+  year: 1845
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_Prima_Vera_%28Rossini%2C_Gioachino%29
+  confidence: single_source
+  notes: 'Instrumentation: voice and piano'

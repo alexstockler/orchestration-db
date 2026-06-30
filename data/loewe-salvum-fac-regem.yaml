@@ -1,0 +1,16 @@
+id: loewe-salvum-fac-regem
+work:
+  composer: Loewe, Carl
+  title: Salvum fac regem
+  ids:
+    imslp: Salvum fac regem (Loewe, Carl)
+  year: 1850
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Salvum_fac_regem_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (SATB)'

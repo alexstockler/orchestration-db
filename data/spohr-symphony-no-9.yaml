@@ -1,0 +1,28 @@
+id: spohr-symphony-no-9
+work:
+  composer: Spohr, Louis
+  title: Symphony No.9
+  ids:
+    imslp: Symphony No.9, Op.143 (Spohr, Louis)
+  year: 1850
+formula: 2222 4230 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: bass horn (tuba?)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.9%2C_Op.143_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: 2 flutes, 2 oboes, 2 clarinets (A), 2 bassoons,
+    4 horns (2 in D/G/E/F, 2 in B/C/D), 2 trumpets (D/B), 3 trombones, bass horn (tuba?),
+    timpani, strings'
+duration_minutes: 30

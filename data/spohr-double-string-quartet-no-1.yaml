@@ -1,0 +1,18 @@
+id: spohr-double-string-quartet-no-1
+work:
+  composer: Spohr, Louis
+  title: Double String Quartet No.1
+  ids:
+    imslp: Double String Quartet No.1, Op.65 (Spohr, Louis)
+  year: 1823
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 4
+    viola: 2
+    cello: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Double_String_Quartet_No.1%2C_Op.65_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 violins, 2 violas, 2 cellos'

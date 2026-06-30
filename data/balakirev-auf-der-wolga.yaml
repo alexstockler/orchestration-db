@@ -1,0 +1,16 @@
+id: balakirev-auf-der-wolga
+work:
+  composer: Balakirev, Mily
+  title: Auf der Wolga
+  ids:
+    imslp: On the Volga (Balakirev, Mily)
+  year: 1863
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/On_the_Volga_%28Balakirev%2C_Mily%29
+  confidence: single_source
+  notes: 'Instrumentation: piano 4-hands'

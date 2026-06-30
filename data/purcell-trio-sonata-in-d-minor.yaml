@@ -1,0 +1,17 @@
+id: purcell-trio-sonata-in-d-minor
+work:
+  composer: Purcell, Henry
+  title: Trio Sonata in D minor
+  ids:
+    imslp: Trio Sonata in D minor, Z.792 (Purcell, Henry)
+  year: 1683
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: bass violin or bass viol | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_D_minor%2C_Z.792_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, bass violin or bass viol, continuo'

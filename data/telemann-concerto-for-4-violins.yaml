@@ -1,0 +1,15 @@
+id: telemann-concerto-for-4-violins
+work:
+  composer: Telemann, Georg Philipp
+  title: Concerto for 4 Violins
+  ids:
+    imslp: Concerto for 4 Violins, TWV 40:201 (Telemann, Georg Philipp)
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 4
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_4_Violins%2C_TWV_40%3A201_%28Telemann%2C_Georg_Philipp%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 violins'

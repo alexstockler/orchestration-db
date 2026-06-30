@@ -1,0 +1,57 @@
+id: donizetti-la-fille-du-regiment
+work:
+  composer: Donizetti, Gaetano
+  title: La fille du régiment
+  ids:
+    imslp: La fille du régiment (Donizetti, Gaetano)
+  year: 1840
+formula: 2[1.2/pic] 2[1.2/Eh] 2 2 4 4[1.2.cnt.cnt] 3 0 tmp pf
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - snare drum
+    - cymbals
+    - bass drum
+  keyboards:
+  - instrument: piano
+  soloists:
+  - Marie (soprano)
+  - Tonio (tenor)
+  - Sergeant Sulpice (bass)
+  - Marquise of Birkenfield (alto)
+  - Hortensius (bass)
+  - Corporal (bass)
+  - Peasant (tenor) Mixed Chorus (SATB) :sopranos
+  - altos
+  - tenors
+  - basses Pit-
+  additional_raw: strings Onstage Instruments
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_fille_du_r%C3%A9giment_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Marie (soprano), Tonio (tenor), Sergeant Sulpice
+    (bass), Marquise of Birkenfield (alto), Hortensius (bass), Corporal (bass), Peasant
+    (tenor) Mixed Chorus (SATB) :sopranos, altos, tenors, basses Pit-Orchestra :2
+    flutes (2nd also piccolo), 2 oboes (2nd also English horn), 2 clarinets, 2 bassoons,
+    4 horns, 2 trumpets, 3 trombones, timpani, triangle, snare drum, cymbals, bass
+    drum,, piano, strings Onstage Instruments :2 cornets, snare drum'

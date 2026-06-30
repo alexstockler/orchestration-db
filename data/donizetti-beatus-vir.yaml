@@ -1,0 +1,17 @@
+id: donizetti-beatus-vir
+work:
+  composer: Donizetti, Gaetano
+  title: Beatus vir
+  ids:
+    imslp: Beatus vir (Donizetti, Gaetano)
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  additional_raw: oboe/clarinet
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Beatus_vir_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, oboe/clarinet, orchestra'
+duration_minutes: 7

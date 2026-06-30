@@ -1,0 +1,16 @@
+id: donizetti-tecum-principium
+work:
+  composer: Donizetti, Gaetano
+  title: Tecum principium
+  ids:
+    imslp: Tecum principium, In.234 (Donizetti, Gaetano)
+  year: 1819
+formula: ''
+instrumentation:
+  additional_raw: soprano/tenor | oboe/clarinet
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tecum_principium%2C_In.234_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano/tenor, oboe/clarinet, orchestra'
+duration_minutes: 5

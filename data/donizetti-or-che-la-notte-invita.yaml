@@ -1,0 +1,19 @@
+id: donizetti-or-che-la-notte-invita
+work:
+  composer: Donizetti, Gaetano
+  title: Or che la notte invita
+  ids:
+    imslp: Or che la notte invita, In.529 (Donizetti, Gaetano)
+formula: 0010 0000 pf
+instrumentation:
+  clarinet: 1
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Or_che_la_notte_invita%2C_In.529_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, clarinet (B), piano'
+duration_minutes: 5

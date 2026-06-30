@@ -1,0 +1,17 @@
+id: cherubini-la-liberta-a-nice
+work:
+  composer: Cherubini, Luigi
+  title: La Libertà a Nice
+  ids:
+    imslp: La Libertà a Nice (Cherubini, Luigi)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_Libert%C3%A0_a_Nice_%28Cherubini%2C_Luigi%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, piano (or harp)'

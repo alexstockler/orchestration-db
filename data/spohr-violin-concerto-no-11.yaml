@@ -1,0 +1,24 @@
+id: spohr-violin-concerto-no-11
+work:
+  composer: Spohr, Louis
+  title: Violin Concerto No.11
+  ids:
+    imslp: Violin Concerto No.11, Op.70 (Spohr, Louis)
+  year: 1827
+formula: 2222 2200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Concerto_No.11%2C_Op.70_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: violin solo, orchestra :2 flutes, 2 oboes, 2 clarinets,
+    2 bassoons, 2 horns, 2 trumpets, timpani, strings'

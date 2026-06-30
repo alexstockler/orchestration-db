@@ -1,0 +1,19 @@
+id: spohr-string-sextet
+work:
+  composer: Spohr, Louis
+  title: String Sextet
+  ids:
+    imslp: String Sextet, Op.140 (Spohr, Louis)
+  year: 1848
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 2
+    cello: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Sextet%2C_Op.140_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Violins, 2 Violas, 2 Cellos'
+duration_minutes: 25

@@ -1,0 +1,18 @@
+id: spohr-duet-for-violin-and-viola
+work:
+  composer: Spohr, Louis
+  title: Duet for Violin and Viola
+  ids:
+    imslp: Duet for Violin and Viola, Op.13 (Spohr, Louis)
+  year: 1808
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+    viola: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Duet_for_Violin_and_Viola%2C_Op.13_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola'
+duration_minutes: 20

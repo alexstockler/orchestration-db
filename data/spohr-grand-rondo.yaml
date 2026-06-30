@@ -1,0 +1,17 @@
+id: spohr-grand-rondo
+work:
+  composer: Spohr, Louis
+  title: Grand Rondo
+  ids:
+    imslp: Grand Rondo, Op.51 (Spohr, Louis)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grand_Rondo%2C_Op.51_%28Spohr%2C_Louis%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

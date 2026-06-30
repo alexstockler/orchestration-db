@@ -1,0 +1,17 @@
+id: purcell-since-god-so-tender-a-regard
+work:
+  composer: Purcell, Henry
+  title: Since God so Tender a Regard
+  ids:
+    imslp: Since God so Tender a Regard, Z.143 (Purcell, Henry)
+  year: 1677
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Since_God_so_Tender_a_Regard%2C_Z.143_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices, continuo'

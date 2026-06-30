@@ -1,0 +1,15 @@
+id: purcell-fie-nay-prithee-john
+work:
+  composer: Purcell, Henry
+  title: Fie, nay prithee, John
+  ids:
+    imslp: Fie, Nay, Prithee John (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fie%2C_Nay%2C_Prithee_John_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

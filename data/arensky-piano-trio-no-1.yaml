@@ -1,0 +1,19 @@
+id: arensky-piano-trio-no-1
+work:
+  composer: Arensky, Anton
+  title: Piano Trio No.1
+  ids:
+    imslp: Piano Trio No.1, Op.32 (Arensky, Anton)
+  year: 1894
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio_No.1%2C_Op.32_%28Arensky%2C_Anton%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'

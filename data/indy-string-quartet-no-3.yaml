@@ -1,0 +1,19 @@
+id: indy-string-quartet-no-3
+work:
+  composer: Indy, Vincent d'
+  title: String Quartet No.3
+  ids:
+    imslp: String Quartet No.3, Op.96 (Indy, Vincent d')
+  year: 1928
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quartet_No.3%2C_Op.96_%28Indy%2C_Vincent_d%27%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'
+duration_minutes: 32

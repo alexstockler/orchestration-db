@@ -1,0 +1,19 @@
+id: donizetti-parisina
+work:
+  composer: Donizetti, Gaetano
+  title: Parisina
+  ids:
+    imslp: Parisina (Donizetti, Gaetano)
+  year: 1833
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: Parisina (soprano) | Ugo (tenor) | Duke Azzo (baritone) | Ernesto
+    (bass) | Imelda (mezzo-soprano)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Parisina_%28Donizetti%2C_Gaetano%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: Parisina (soprano), Ugo (tenor), Duke Azzo (baritone),,
+    Ernesto (bass), Imelda (mezzo-soprano); mixed chorus, Orchestra'
+duration_minutes: 140

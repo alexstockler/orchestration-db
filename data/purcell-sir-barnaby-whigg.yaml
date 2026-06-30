@@ -1,0 +1,19 @@
+id: purcell-sir-barnaby-whigg
+work:
+  composer: Purcell, Henry
+  title: Sir Barnaby Whigg
+  ids:
+    imslp: Sir Barnaby Whigg, Z.589 (Purcell, Henry)
+  year: 1681
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sir_Barnaby_Whigg%2C_Z.589_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), bass, continuo'
+duration_minutes: 5

@@ -1,0 +1,18 @@
+id: loewe-die-schlanke-wasserlilie
+work:
+  composer: Loewe, Carl
+  title: Die schlanke Wasserlilie
+  ids:
+    imslp: Die schlanke Wasserlilie (Loewe, Carl)
+  year: 1847
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_schlanke_Wasserlilie_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

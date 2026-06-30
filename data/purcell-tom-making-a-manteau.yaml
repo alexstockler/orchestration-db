@@ -1,0 +1,15 @@
+id: purcell-tom-making-a-manteau
+work:
+  composer: Purcell, Henry
+  title: Tom Making a Manteau
+  ids:
+    imslp: Tom Making a Manteau (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tom_Making_a_Manteau_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

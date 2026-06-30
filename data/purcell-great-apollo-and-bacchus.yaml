@@ -1,0 +1,15 @@
+id: purcell-great-apollo-and-bacchus
+work:
+  composer: Purcell, Henry
+  title: Great Apollo and Bacchus
+  ids:
+    imslp: Great Apollo and Bacchus, Z.251 (Purcell, Henry)
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Great_Apollo_and_Bacchus%2C_Z.251_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices'

@@ -1,0 +1,17 @@
+id: purcell-amintas-to-my-grief-i-see
+work:
+  composer: Purcell, Henry
+  title: Amintas, to My Grief I See
+  ids:
+    imslp: Amintas, to My Grief I See, Z.356 (Purcell, Henry)
+  year: 1679
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Amintas%2C_to_My_Grief_I_See%2C_Z.356_%28Purcell%2C_Henry%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, continuo'

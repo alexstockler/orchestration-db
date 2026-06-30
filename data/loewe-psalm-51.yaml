@@ -1,0 +1,14 @@
+id: loewe-psalm-51
+work:
+  composer: Loewe, Carl
+  title: Psalm 51
+  ids:
+    imslp: Schaffe in mir, Gott, ein reines Herze (Loewe, Carl)
+formula: ''
+instrumentation:
+  additional_raw: Choir SATB
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Schaffe_in_mir%2C_Gott%2C_ein_reines_Herze_%28Loewe%2C_Carl%29
+  confidence: single_source
+  notes: 'Instrumentation: Choir SATB'
