@@ -1,0 +1,16 @@
+id: buxtehude-wir-danken-dir-herr-jesu-christ
+work:
+  composer: Buxtehude, Dietrich
+  title: Wir danken dir, Herr Jesu Christ
+  ids:
+    imslp: Wir danken dir, Herr Jesu Christ, BuxWV 224 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Wir_danken_dir%2C_Herr_Jesu_Christ%2C_BuxWV_224_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

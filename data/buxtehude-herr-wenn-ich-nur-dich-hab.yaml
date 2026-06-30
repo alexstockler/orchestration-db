@@ -1,0 +1,19 @@
+id: buxtehude-herr-wenn-ich-nur-dich-hab
+work:
+  composer: Buxtehude, Dietrich
+  title: Herr, wenn ich nur Dich hab
+  ids:
+    imslp: Herr, wenn ich nur Dich hab, BuxWV 38 (Buxtehude, Dietrich)
+  year: 1668
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Herr%2C_wenn_ich_nur_Dich_hab%2C_BuxWV_38_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 2 violins, continuo'

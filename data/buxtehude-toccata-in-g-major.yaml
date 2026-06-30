@@ -1,0 +1,16 @@
+id: buxtehude-toccata-in-g-major
+work:
+  composer: Buxtehude, Dietrich
+  title: Toccata in G major
+  ids:
+    imslp: Toccata in G major, BuxWV 164 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Toccata_in_G_major%2C_BuxWV_164_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

@@ -1,0 +1,17 @@
+id: auber-marco-spada-ou-la-fille-du-bandit
+work:
+  composer: Auber, Daniel François Esprit
+  title: Marco Spada, ou La fille du bandit
+  ids:
+    imslp: Marco Spada (Auber, Daniel François Esprit)
+  year: 1853
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marco_Spada_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

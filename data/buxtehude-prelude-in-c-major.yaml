@@ -1,0 +1,16 @@
+id: buxtehude-prelude-in-c-major
+work:
+  composer: Buxtehude, Dietrich
+  title: Prelude in C major
+  ids:
+    imslp: Prelude in C major, BuxWV 136 (Buxtehude, Dietrich)
+  year: 1904
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude_in_C_major%2C_BuxWV_136_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

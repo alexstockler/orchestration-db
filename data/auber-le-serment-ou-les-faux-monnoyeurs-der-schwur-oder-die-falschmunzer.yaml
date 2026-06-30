@@ -1,0 +1,37 @@
+id: auber-le-serment-ou-les-faux-monnoyeurs-der-schwur-oder-die-falschmunzer
+work:
+  composer: Auber, Daniel François Esprit
+  title: Le serment, ou Les faux monnoyeurs; Der Schwur oder die Falschmünzer
+  ids:
+    imslp: Le serment (Auber, Daniel François Esprit)
+  year: 1832
+formula: 2222 2230 tmp hp ophicleide str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - snare drum
+    - cymbals
+  harp: 1
+  extras:
+  - instrument: ophicleide
+  strings: str
+  soloists:
+  - vocal soloists
+  - mixed chorus (SATB)
+  additional_raw: percussion [triangle | side drum]
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_serment_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: vocal soloists, mixed chorus (SATB), Orchestra:
+    2 flutes, 2 oboes, 2 clarinets, 2 bassoons,, 2 horns, 2 trumpets, 3 trombones,
+    ophicleide,, timpani, percussion [triangle, snare drum, cymbals, side drum], harp,
+    strings'

@@ -1,0 +1,16 @@
+id: buxtehude-nun-komm-der-heiden-heiland
+work:
+  composer: Buxtehude, Dietrich
+  title: Nun komm, der Heiden Heiland
+  ids:
+    imslp: Nun komm, der Heiden Heiland, BuxWV 211 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nun_komm%2C_der_Heiden_Heiland%2C_BuxWV_211_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

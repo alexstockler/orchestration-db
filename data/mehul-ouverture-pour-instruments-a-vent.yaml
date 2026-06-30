@@ -1,0 +1,32 @@
+id: mehul-ouverture-pour-instruments-a-vent
+work:
+  composer: Méhul, Etienne Nicolas
+  title: Ouverture pour instruments à vent
+  ids:
+    imslp: Ouverture pour instruments à vent (Méhul, Etienne Nicolas)
+  year: 1793
+formula: 4[pic.pic.3.4] 0 2 2 2 2 1[btbn] 0 tmp serpent
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - instrument: piccolo
+  - {}
+  - {}
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone:
+  - instrument: bass_trombone
+  percussion:
+    timpani: 1
+  extras:
+  - instrument: serpent
+  additional_raw: buccin | tuba corva
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ouverture_pour_instruments_%C3%A0_vent_%28M%C3%A9hul%2C_Etienne_Nicolas%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 piccolos, 2 flutes, 2 clarinets, 2 bassoons, 2 horns,
+    2 trumpets, bass trombone, buccin, tuba corva, serpent, timpani'
+duration_minutes: 8

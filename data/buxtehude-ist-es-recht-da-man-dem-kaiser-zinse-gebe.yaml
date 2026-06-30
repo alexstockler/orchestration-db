@@ -1,0 +1,19 @@
+id: buxtehude-ist-es-recht-da-man-dem-kaiser-zinse-gebe
+work:
+  composer: Buxtehude, Dietrich
+  title: Ist es recht daß man dem Kaiser Zinse gebe
+  ids:
+    imslp: Ist es recht daß man dem Kaiser Zinse gebe, BuxWV 54 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - 5 voices
+  solo_strings:
+    violin: 2
+    viola: 2
+  additional_raw: violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ist_es_recht_da%C3%9F_man_dem_Kaiser_Zinse_gebe%2C_BuxWV_54_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 5 voices (SSATB), 2 violins, 2 violas, violone, continuo'

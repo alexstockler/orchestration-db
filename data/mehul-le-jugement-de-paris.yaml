@@ -1,0 +1,14 @@
+id: mehul-le-jugement-de-paris
+work:
+  composer: Méhul, Etienne Nicolas
+  title: Le Jugement de Paris
+  ids:
+    imslp: Le Jugement de Paris (Méhul, Etienne Nicolas)
+formula: ''
+instrumentation:
+  additional_raw: '|Tags=gavottes | vc pf'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_Jugement_de_Paris_%28M%C3%A9hul%2C_Etienne_Nicolas%29
+  confidence: single_source
+  notes: 'Instrumentation: |Tags=gavottes ; vc pf'

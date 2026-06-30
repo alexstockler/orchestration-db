@@ -1,0 +1,16 @@
+id: buxtehude-ich-dank-dir-schon-durch-deinen-sohn
+work:
+  composer: Buxtehude, Dietrich
+  title: Ich dank dir schon durch deinen Sohn
+  ids:
+    imslp: Ich dank dir schon durch deinen Sohn, BuxWV 195 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ich_dank_dir_schon_durch_deinen_Sohn%2C_BuxWV_195_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

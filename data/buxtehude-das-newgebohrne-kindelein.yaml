@@ -1,0 +1,22 @@
+id: buxtehude-das-newgebohrne-kindelein
+work:
+  composer: Buxtehude, Dietrich
+  title: Das newgebohrne Kindelein
+  ids:
+    imslp: Das newgebohrne Kindelein, BuxWV 13 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  solo_strings:
+    violin: 3
+  additional_raw: violone/bassoon | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_newgebohrne_Kindelein%2C_BuxWV_13_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, 3 violins, violone/bassoon,
+    continuo'

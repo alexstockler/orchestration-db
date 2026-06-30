@@ -1,0 +1,27 @@
+id: auber-le-concert-a-la-cour-ou-la-debutante
+work:
+  composer: Auber, Daniel François Esprit
+  title: Le concert à la cour, ou La débutante
+  ids:
+    imslp: Le concert à la cour (Auber, Daniel François Esprit)
+formula: 2222 2200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - drum
+    - cymbals
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_concert_%C3%A0_la_cour_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2
+    trumpets, timpani, triangle, drum, cymbals, strings'

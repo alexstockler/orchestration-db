@@ -1,0 +1,19 @@
+id: buxtehude-herren-var-gud
+work:
+  composer: Buxtehude, Dietrich
+  title: Herren vår Gud
+  ids:
+    imslp: Herren vår Gud, BuxWV 40 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+  solo_strings:
+    violin: 2
+  additional_raw: violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Herren_v%C3%A5r_Gud%2C_BuxWV_40_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (SATB), 2 violins, violone, continuo'
+duration_minutes: 5

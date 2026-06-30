@@ -2,12 +2,12 @@
 
 ## Current state (2026-06-30)
 
-**~11,565+ works** across 93+ composers. Fully deployed at
+**~11,859 works** across 96 composers. Fully deployed at
 `https://orchestration-db-production.up.railway.app`.
 
 ### What's done
 
-- **IMSLP scraper** — MediaWiki API, cached, rate-limited, ~93 composers ingested
+- **IMSLP scraper** — MediaWiki API, cached, rate-limited, ~96 composers ingested
 - **Instrumentation parser** — Daniels-style formula + structured YAML model;
   handles solo strings, off-stage instruments, optional/ad lib. instruments
 - **SQLite schema** — `works`, `composers`, `work_instruments`,
@@ -33,7 +33,7 @@
 | 2026-06-30 | Rossini (97), Donizetti (209), Cherubini (77), Spohr (163), Humperdinck (34), Chabrier (60), Chausson (50), Dukas (15), d'Indy (76), Balakirev (64), Arensky (61), Telemann (427), Rameau (60), Purcell (425), Corelli (39), Boccherini (69), Zemlinsky (29), Loewe (165) | +2,120 → 9,934 |
 | 2026-06-30 | Goldmark, Carl (42); Taneyev, Sergey (58) | +100 → **10,036** |
 | 2026-06-30 | Raff (176), Bruch (71), Reger (263), Gade (108), Svendsen (37), Stenhammar (47), Meyerbeer (73), Bellini (28), Ponchielli (45), Suppé (30), Adam (80), Martucci (74), Scarlatti D. (29), Pergolesi (51), Charpentier (311), Lully (67), Hérold (39) | +1,529 → **11,565** |
-| 2026-06-30 | Buxtehude, Dietrich; Auber, Daniel François Esprit; Méhul, Etienne Nicolas | +TBC |
+| 2026-06-30 | Buxtehude, Dietrich (192); Auber, Daniel François Esprit (74); Méhul, Etienne Nicolas (28) | +294 → **11,859** |
 
 **IMSLP name quirks to remember:**
 - Russian: `Aleksandr` not `Alexander` (Borodin, Glazunov, Scriabin); `Prokofiev, Sergey`; `Rachmaninoff, Sergei`; `Shostakovich, Dmitry`; `Taneyev, Sergey`

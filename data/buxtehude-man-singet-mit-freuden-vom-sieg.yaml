@@ -1,0 +1,24 @@
+id: buxtehude-man-singet-mit-freuden-vom-sieg
+work:
+  composer: Buxtehude, Dietrich
+  title: Man singet mit Freuden vom Sieg
+  ids:
+    imslp: Man singet mit Freuden vom Sieg, BuxWV Anh.2 (Buxtehude, Dietrich)
+  year: 1689
+formula: 0001 0220
+instrumentation:
+  bassoon: 1
+  trumpet: 2
+  trombone: 2
+  solo_strings:
+    violin: 2
+    viola: 2
+    cello: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Man_singet_mit_Freuden_vom_Sieg%2C_BuxWV_Anh.2_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: bassoon, 2 trumpets, 2 trombones, 2 violins, 2 violas,
+    cello, continuo'
+duration_minutes: 6

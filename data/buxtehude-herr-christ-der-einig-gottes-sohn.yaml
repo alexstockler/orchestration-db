@@ -1,0 +1,16 @@
+id: buxtehude-herr-christ-der-einig-gottes-sohn
+work:
+  composer: Buxtehude, Dietrich
+  title: Herr Christ, der einig Gottes Sohn
+  ids:
+    imslp: Herr Christ, der einig Gottes Sohn, BuxWV 191 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Herr_Christ%2C_der_einig_Gottes_Sohn%2C_BuxWV_191_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

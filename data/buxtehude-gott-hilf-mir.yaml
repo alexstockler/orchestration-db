@@ -1,0 +1,17 @@
+id: buxtehude-gott-hilf-mir
+work:
+  composer: Buxtehude, Dietrich
+  title: Gott hilf mir
+  ids:
+    imslp: Gott hilf mir, BuxWV 34 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 2
+  additional_raw: violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gott_hilf_mir%2C_BuxWV_34_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, 2 violas, violone, continuo'

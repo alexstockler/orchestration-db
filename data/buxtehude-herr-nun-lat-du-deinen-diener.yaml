@@ -1,0 +1,18 @@
+id: buxtehude-herr-nun-lat-du-deinen-diener
+work:
+  composer: Buxtehude, Dietrich
+  title: Herr nun läßt du deinen Diener
+  ids:
+    imslp: Herr nun läßt du deinen Diener, BuxWV 37 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Herr_nun_l%C3%A4%C3%9Ft_du_deinen_Diener%2C_BuxWV_37_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, 2 violins, continuo'

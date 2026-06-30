@@ -1,0 +1,16 @@
+id: mehul-ariodant-orig-ina
+work:
+  composer: Méhul, Etienne Nicolas
+  title: Ariodant [orig. Ina]
+  ids:
+    imslp: Ariodant (Méhul, Etienne Nicolas)
+  year: 1799
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ariodant_%28M%C3%A9hul%2C_Etienne_Nicolas%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

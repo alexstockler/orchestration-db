@@ -1,0 +1,34 @@
+id: auber-fra-diavolo-ou-l-hotellerie-de-terracine
+work:
+  composer: Auber, Daniel François Esprit
+  title: Fra Diavolo, ou L'hôtellerie de Terracine
+  ids:
+    imslp: Fra Diavolo (Auber, Daniel François Esprit)
+  year: 1830
+formula: 2[pic.2] 2 2 2 4230 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - military drum
+    - triangle
+    - cymbals
+    - bass drum
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fra_Diavolo_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, flute, 2 oboes, 2 clarinets, 2 bassoons, 4 horns,
+    2 trumpets, 3 trombones, timpani, military drum, triangle, cymbals, bass drum,
+    strings'
+duration_minutes: 105

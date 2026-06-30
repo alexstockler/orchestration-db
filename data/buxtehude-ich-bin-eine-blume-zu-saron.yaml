@@ -1,0 +1,18 @@
+id: buxtehude-ich-bin-eine-blume-zu-saron
+work:
+  composer: Buxtehude, Dietrich
+  title: Ich bin eine Blume zu Saron
+  ids:
+    imslp: Ich bin eine Blume zu Saron, BuxWV 45 (Buxtehude, Dietrich)
+  year: 1926
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: bass voice | violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ich_bin_eine_Blume_zu_Saron%2C_BuxWV_45_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: bass voice, 2 violins, violone, continuo'
+duration_minutes: 8

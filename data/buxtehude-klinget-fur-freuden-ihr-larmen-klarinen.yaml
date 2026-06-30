@@ -1,0 +1,21 @@
+id: buxtehude-klinget-fur-freuden-ihr-larmen-klarinen
+work:
+  composer: Buxtehude, Dietrich
+  title: Klinget für Freuden ihr lärmen Klarinen
+  ids:
+    imslp: Klinget für Freuden ihr lärmen Klarinen, BuxWV 119 (Buxtehude, Dietrich)
+formula: 0000 0200
+instrumentation:
+  trumpet:
+  - optional: true
+  - optional: true
+  soloists:
+  - 3 voices
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Klinget_f%C3%BCr_Freuden_ihr_l%C3%A4rmen_Klarinen%2C_BuxWV_119_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices (SSB), 2 violins, 2 trumpets (ad lib.), continuo'

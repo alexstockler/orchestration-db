@@ -1,0 +1,18 @@
+id: buxtehude-gen-himmel-zu-dem-vater-mein
+work:
+  composer: Buxtehude, Dietrich
+  title: Gen Himmel zu dem Vater mein
+  ids:
+    imslp: Gen Himmel zu dem Vater mein, BuxWV 32 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  solo_strings:
+    violin: 1
+  additional_raw: bass viol | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gen_Himmel_zu_dem_Vater_mein%2C_BuxWV_32_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, violin, bass viol, continuo'

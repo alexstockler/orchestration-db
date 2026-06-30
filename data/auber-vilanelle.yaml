@@ -1,0 +1,17 @@
+id: auber-vilanelle
+work:
+  composer: Auber, Daniel François Esprit
+  title: Vilanelle
+  ids:
+    imslp: Vilanelle (Auber, Daniel François Esprit)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vilanelle_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

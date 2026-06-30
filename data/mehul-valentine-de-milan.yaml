@@ -1,0 +1,18 @@
+id: mehul-valentine-de-milan
+work:
+  composer: Méhul, Etienne Nicolas
+  title: Valentine de Milan
+  ids:
+    imslp: Valentine de Milan (Méhul, Etienne Nicolas)
+  year: 1817
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: double chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Valentine_de_Milan_%28M%C3%A9hul%2C_Etienne_Nicolas%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, double chorus, orchestra (flutes, oboes, clarinets,
+    bassoons, horns, trumpets, strings and onstage horns and trumpets)'

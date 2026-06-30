@@ -1,0 +1,19 @@
+id: buxtehude-ich-sprach-in-meinem-herzen
+work:
+  composer: Buxtehude, Dietrich
+  title: Ich sprach in meinem Herzen
+  ids:
+    imslp: Ich sprach in meinem Herzen, BuxWV 49 (Buxtehude, Dietrich)
+formula: 0001 0000
+instrumentation:
+  bassoon: 1
+  soloists:
+  - soprano
+  solo_strings:
+    violin: 3
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ich_sprach_in_meinem_Herzen%2C_BuxWV_49_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, bassoon, 3 violins, continuo'

@@ -1,0 +1,16 @@
+id: mehul-une-folie-opera-comique
+work:
+  composer: Méhul, Etienne Nicolas
+  title: Une Folie, Opera Comique
+  ids:
+    imslp: Une folie (Méhul, Etienne Nicolas)
+  year: 1802
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Une_folie_%28M%C3%A9hul%2C_Etienne_Nicolas%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

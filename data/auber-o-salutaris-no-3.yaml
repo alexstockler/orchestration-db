@@ -1,0 +1,16 @@
+id: auber-o-salutaris-no-3
+work:
+  composer: Auber, Daniel François Esprit
+  title: O salutaris No.3
+  ids:
+    imslp: O salutaris No.3, AWV 70 (Auber, Daniel François Esprit)
+  year: 1854
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_salutaris_No.3%2C_AWV_70_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SSTB), orchestra (2 flutes, 2 oboes, 2 clarinets
+    in C, 2 bassoons, 2 cornets in C, strings)'

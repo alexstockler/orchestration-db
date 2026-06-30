@@ -1,0 +1,26 @@
+id: auber-le-duc-d-olonne
+work:
+  composer: Auber, Daniel François Esprit
+  title: Le duc d'Olonne
+  ids:
+    imslp: Le duc d'Olonne (Auber, Daniel François Esprit)
+  year: 1841
+formula: 1010 2 2[cnt.cnt] 3 0 1perc
+instrumentation:
+  flute: 1
+  clarinet: 1
+  horn: 2
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  percussion:
+    players: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_duc_d%27Olonne_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons,, 4 horns, 2
+    trumpets, 3 trombones, tuba,, timpani, percussion (triangle, snare drum, cymbals,
+    bass drum), harp, guitar, strings, offstage orchestra: flute, clarinet, 2 horns,
+    2 cornets, 3 trombones,, percussion (triangle, snare drum, canon, artillery)'

@@ -1,0 +1,19 @@
+id: auber-gloria-no-2
+work:
+  composer: Auber, Daniel François Esprit
+  title: Gloria No.2
+  ids:
+    imslp: Gloria No.2, AWV 75 (Auber, Daniel François Esprit)
+  year: 1857
+formula: org hp
+instrumentation:
+  keyboards:
+  - instrument: organ
+  harp: 1
+  chorus_raw: mixed chorus
+  additional_raw: soprano voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gloria_No.2%2C_AWV_75_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano voice, mixed chorus (STB), harp, organ'

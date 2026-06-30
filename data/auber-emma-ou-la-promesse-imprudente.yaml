@@ -1,0 +1,25 @@
+id: auber-emma-ou-la-promesse-imprudente
+work:
+  composer: Auber, Daniel François Esprit
+  title: Emma, ou La promesse imprudente
+  ids:
+    imslp: Emma (Auber, Daniel François Esprit)
+  year: 1821
+formula: 0222 2200 tmp str
+instrumentation:
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+  additional_raw: 2 flutes [2nd doub | piccolo]
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Emma_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra: 2 flutes [2nd
+    doub. piccolo], 2 oboes, 2 clarinets, 2 bassoons,, 2 horns, 2 trumpets, timpani,
+    strings'

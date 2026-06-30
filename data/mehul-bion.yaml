@@ -1,0 +1,16 @@
+id: mehul-bion
+work:
+  composer: Méhul, Etienne Nicolas
+  title: Bion
+  ids:
+    imslp: Bion (Méhul, Etienne Nicolas)
+  year: 1801
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bion_%28M%C3%A9hul%2C_Etienne_Nicolas%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

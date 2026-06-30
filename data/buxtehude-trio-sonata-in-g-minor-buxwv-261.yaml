@@ -1,0 +1,19 @@
+id: buxtehude-trio-sonata-in-g-minor-buxwv-261
+work:
+  composer: Buxtehude, Dietrich
+  title: Trio Sonata in G minor, BuxWV 261
+  ids:
+    imslp: Trio Sonata in G minor, BuxWV 261 (Buxtehude, Dietrich)
+  year: 1696
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+  solo_strings:
+    violin: 1
+  additional_raw: viola da gamba
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_G_minor%2C_BuxWV_261_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola da gamba, harpsichord'

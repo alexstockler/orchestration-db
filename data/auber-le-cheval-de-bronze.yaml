@@ -1,0 +1,51 @@
+id: auber-le-cheval-de-bronze
+work:
+  composer: Auber, Daniel François Esprit
+  title: Le cheval de bronze
+  ids:
+    imslp: Le cheval de bronze (Auber, Daniel François Esprit)
+  year: 1834
+formula: 3[pic.2.3] 2 2 2 4460 tmp hp
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 4
+  trombone: 6
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+    - triangle
+    - snare drum
+    - tam-tam
+  harp: 1
+  soloists:
+  - Prince Yang (tenor)
+  - Stella (soprano)
+  - Tsing-Sing (tenor)
+  - Tchin-Kao (baritone)
+  - Tao-Jin (soprano)
+  - Péki (soprano)
+  - Yan-Ko (tenor)
+  - Lo-Mangli (soprano) :Mixed Chorus ::Stella's ladies
+  - Soldiers and Lords
+  - 'Peasants :'
+  additional_raw: strings :'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_cheval_de_bronze_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: :Cast ::Prince Yang (tenor), Stella (soprano), Tsing-Sing
+    (tenor), Tchin-Kao (baritone), Tao-Jin (soprano), Péki (soprano), Yan-Ko (tenor),
+    Lo-Mangli (soprano) :Mixed Chorus ::Stella''s ladies, Soldiers and Lords, Peasants
+    :Orchestra ::piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets,
+    3 trombones, timpani, bass drum, cymbals, triangle, snare drum, tam-tam, harp,
+    strings :'' ::2 trumpets, 3 trombones'
+duration_minutes: 85

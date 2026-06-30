@@ -1,0 +1,16 @@
+id: buxtehude-nun-freut-euch-lieben-christen-g-mein
+work:
+  composer: Buxtehude, Dietrich
+  title: Nun freut euch, lieben Christen g'mein
+  ids:
+    imslp: Nun freut euch, lieben Christen g'mein, BuxWV 210 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nun_freut_euch%2C_lieben_Christen_g%27mein%2C_BuxWV_210_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

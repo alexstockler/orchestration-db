@@ -1,0 +1,20 @@
+id: buxtehude-herr-ich-lasse-dich-nicht
+work:
+  composer: Buxtehude, Dietrich
+  title: Herr, ich lasse dich nicht
+  ids:
+    imslp: Herr, ich lasse dich nicht, BuxWV 36 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: 2 violas da gamba/trombones | violone/viola da gamba | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Herr%2C_ich_lasse_dich_nicht%2C_BuxWV_36_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, bass, 2 violins, 2 violas da gamba/trombones, violone/viola
+    da gamba, continuo'

@@ -1,0 +1,18 @@
+id: auber-agnus-dei-no-1
+work:
+  composer: Auber, Daniel François Esprit
+  title: Agnus Dei No.1
+  ids:
+    imslp: Agnus Dei No.1, AWV 64 (Auber, Daniel François Esprit)
+  year: 1854
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Agnus_Dei_No.1%2C_AWV_64_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB), organ'
+duration_minutes: 4

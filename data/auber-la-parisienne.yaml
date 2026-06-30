@@ -1,0 +1,15 @@
+id: auber-la-parisienne
+work:
+  composer: Auber, Daniel François Esprit
+  title: La Parisienne
+  ids:
+    imslp: La Parisienne (Auber, Daniel François Esprit)
+  year: 1830
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_Parisienne_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus, orchestra'

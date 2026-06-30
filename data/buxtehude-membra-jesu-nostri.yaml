@@ -1,0 +1,24 @@
+id: buxtehude-membra-jesu-nostri
+work:
+  composer: Buxtehude, Dietrich
+  title: Membra Jesu Nostri
+  ids:
+    imslp: Membra Jesu Nostri, BuxWV 75 (Buxtehude, Dietrich)
+  year: 1680
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - alto
+  - tenor
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: 5 viols (TrAABB) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Membra_Jesu_Nostri%2C_BuxWV_75_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, alto, tenor, bass, 2 violins, 5 viols (TrAABB),
+    continuo'
+duration_minutes: 60

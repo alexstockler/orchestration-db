@@ -1,0 +1,16 @@
+id: buxtehude-nimm-von-uns-herr
+work:
+  composer: Buxtehude, Dietrich
+  title: Nimm von uns, Herr
+  ids:
+    imslp: Nimm von uns, Herr, BuxWV 78 (Buxtehude, Dietrich)
+formula: 0001 0000 str
+instrumentation:
+  bassoon: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nimm_von_uns%2C_Herr%2C_BuxWV_78_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: bassoon, strings, continuo'

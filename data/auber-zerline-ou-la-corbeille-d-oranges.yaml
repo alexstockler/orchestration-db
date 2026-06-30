@@ -1,0 +1,16 @@
+id: auber-zerline-ou-la-corbeille-d-oranges
+work:
+  composer: Auber, Daniel François Esprit
+  title: Zerline, ou La corbeille d'oranges
+  ids:
+    imslp: Zerline (Auber, Daniel François Esprit)
+  year: 1851
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Zerline_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

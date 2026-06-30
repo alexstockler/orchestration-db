@@ -1,0 +1,16 @@
+id: buxtehude-ich-ruf-zu-dir-herr-jesu-christ
+work:
+  composer: Buxtehude, Dietrich
+  title: Ich ruf zu dir, Herr Jesu Christ
+  ids:
+    imslp: Ich ruf zu dir, Herr Jesu Christ, BuxWV 196 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ich_ruf_zu_dir%2C_Herr_Jesu_Christ%2C_BuxWV_196_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

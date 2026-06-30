@@ -1,0 +1,17 @@
+id: auber-acteon
+work:
+  composer: Auber, Daniel François Esprit
+  title: Actéon
+  ids:
+    imslp: Actéon (Auber, Daniel François Esprit)
+  year: 1836
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: women's chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Act%C3%A9on_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, women''s chorus, orchestra'

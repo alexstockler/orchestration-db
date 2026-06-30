@@ -1,0 +1,19 @@
+id: buxtehude-jesu-komm-mein-trost-und-lachen
+work:
+  composer: Buxtehude, Dietrich
+  title: Jesu komm mein Trost und Lachen
+  ids:
+    imslp: Jesu komm mein Trost und Lachen, BuxWV 58 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jesu_komm_mein_Trost_und_Lachen%2C_BuxWV_58_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: voices (ATB), 2 violins, viola, violone, continuo'

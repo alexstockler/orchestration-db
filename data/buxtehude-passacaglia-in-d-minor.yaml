@@ -1,0 +1,17 @@
+id: buxtehude-passacaglia-in-d-minor
+work:
+  composer: Buxtehude, Dietrich
+  title: Passacaglia in D minor
+  ids:
+    imslp: Passacaglia in D minor, BuxWV 161 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Passacaglia_in_D_minor%2C_BuxWV_161_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 5

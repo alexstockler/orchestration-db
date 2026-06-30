@@ -1,0 +1,17 @@
+id: auber-kyrie-no-11
+work:
+  composer: Auber, Daniel François Esprit
+  title: Kyrie No.11
+  ids:
+    imslp: Kyrie No.11, AWV 99 (Auber, Daniel François Esprit)
+  year: 1870
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kyrie_No.11%2C_AWV_99_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SSTB), organ'

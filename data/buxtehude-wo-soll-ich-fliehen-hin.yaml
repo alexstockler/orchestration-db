@@ -1,0 +1,24 @@
+id: buxtehude-wo-soll-ich-fliehen-hin
+work:
+  composer: Buxtehude, Dietrich
+  title: Wo soll ich fliehen hin?
+  ids:
+    imslp: Wo soll ich fliehen hin?, BuxWV 112 (Buxtehude, Dietrich)
+  year: 1903
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  solo_strings:
+    violin: 2
+    viola: 2
+  additional_raw: violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Wo_soll_ich_fliehen_hin%3F%2C_BuxWV_112_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, 2 violins, 2 violas, violone,
+    continuo'

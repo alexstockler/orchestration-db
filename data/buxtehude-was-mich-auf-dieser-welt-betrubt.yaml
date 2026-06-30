@@ -1,0 +1,18 @@
+id: buxtehude-was-mich-auf-dieser-welt-betrubt
+work:
+  composer: Buxtehude, Dietrich
+  title: Was mich auf dieser Welt betrübt
+  ids:
+    imslp: Was mich auf dieser Welt betrübt, BuxWV 105 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Was_mich_auf_dieser_Welt_betr%C3%BCbt%2C_BuxWV_105_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 2 violins, continuo'

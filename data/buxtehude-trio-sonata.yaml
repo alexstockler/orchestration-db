@@ -1,0 +1,18 @@
+id: buxtehude-trio-sonata
+work:
+  composer: Buxtehude, Dietrich
+  title: Trio Sonata
+  ids:
+    imslp: Trio Sonata in A minor, BuxWV 272 (Buxtehude, Dietrich)
+  year: 1670
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+  additional_raw: viola da gamba | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_A_minor%2C_BuxWV_272_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola da gamba, continuo'
+duration_minutes: 8

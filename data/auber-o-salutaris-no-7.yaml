@@ -1,0 +1,19 @@
+id: auber-o-salutaris-no-7
+work:
+  composer: Auber, Daniel François Esprit
+  title: O salutaris No.7
+  ids:
+    imslp: O salutaris No.7, AWV 87 (Auber, Daniel François Esprit)
+  year: 1859
+formula: org hp
+instrumentation:
+  keyboards:
+  - instrument: organ
+  harp: 1
+  soloists:
+  - 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_salutaris_No.7%2C_AWV_87_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices (soprano and tenor), harp, organ'

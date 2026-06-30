@@ -1,0 +1,24 @@
+id: buxtehude-jesu-meines-lebens-leben
+work:
+  composer: Buxtehude, Dietrich
+  title: Jesu, meines Lebens Leben
+  ids:
+    imslp: Jesu, meines Lebens Leben, BuxWV 62 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  solo_strings:
+    violin: 2
+    viola: 2
+  additional_raw: violone | continuo (possible flute part; see below, Comments)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jesu%2C_meines_Lebens_Leben%2C_BuxWV_62_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, 2 violin, 2 violas, violone,
+    continuo (possible flute part; see below, Comments)'
+duration_minutes: 10

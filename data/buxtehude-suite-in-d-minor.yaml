@@ -1,0 +1,15 @@
+id: buxtehude-suite-in-d-minor
+work:
+  composer: Buxtehude, Dietrich
+  title: Suite in D minor
+  ids:
+    imslp: Suite in D minor, BuxWV 233 (Buxtehude, Dietrich)
+  year: 1942
+formula: ''
+instrumentation:
+  additional_raw: keyboard (harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_in_D_minor%2C_BuxWV_233_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard (harpsichord)'

@@ -1,0 +1,17 @@
+id: mehul-chant-du-retour-pour-la-grande-armee
+work:
+  composer: Méhul, Etienne Nicolas
+  title: Chant du retour pour la Grande Armée
+  ids:
+    imslp: Chant du retour pour la Grande Armée (Méhul, Etienne Nicolas)
+  year: 1807
+formula: 0000 4000
+instrumentation:
+  horn: 4
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chant_du_retour_pour_la_Grande_Arm%C3%A9e_%28M%C3%A9hul%2C_Etienne_Nicolas%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (ATB), 4 horns'
+duration_minutes: 6

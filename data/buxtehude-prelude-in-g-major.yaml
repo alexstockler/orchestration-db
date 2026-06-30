@@ -1,0 +1,16 @@
+id: buxtehude-prelude-in-g-major
+work:
+  composer: Buxtehude, Dietrich
+  title: Prelude in G major
+  ids:
+    imslp: Prelude in G major, BuxWV 147 (Buxtehude, Dietrich)
+  year: 1939
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Prelude_in_G_major%2C_BuxWV_147_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

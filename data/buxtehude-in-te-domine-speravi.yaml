@@ -1,0 +1,18 @@
+id: buxtehude-in-te-domine-speravi
+work:
+  composer: Buxtehude, Dietrich
+  title: In te Domine speravi
+  ids:
+    imslp: In te Domine speravi, BuxWV 53 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_te_Domine_speravi%2C_BuxWV_53_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, bass, continuo'

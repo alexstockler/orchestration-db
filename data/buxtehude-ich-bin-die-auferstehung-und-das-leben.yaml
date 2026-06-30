@@ -1,0 +1,22 @@
+id: buxtehude-ich-bin-die-auferstehung-und-das-leben
+work:
+  composer: Buxtehude, Dietrich
+  title: Ich bin die Auferstehung und das Leben
+  ids:
+    imslp: Ich bin die Auferstehung und das Leben, BuxWV 44 (Buxtehude, Dietrich)
+formula: 0001 0200
+instrumentation:
+  bassoon: 1
+  trumpet: 2
+  soloists:
+  - bass
+  solo_strings:
+    violin: 2
+    viola: 2
+  additional_raw: 2 cornettos | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ich_bin_die_Auferstehung_und_das_Leben%2C_BuxWV_44_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: bass, Orchestra: 2 cornettos, 2 trumpets, 2 violins,
+    2 violas, bassoon, continuo'

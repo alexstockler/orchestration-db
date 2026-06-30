@@ -1,0 +1,18 @@
+id: auber-la-bergere-chatelaine
+work:
+  composer: Auber, Daniel François Esprit
+  title: La bergère châtelaine
+  ids:
+    imslp: La bergère châtelaine (Auber, Daniel François Esprit)
+  year: 1820
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_berg%C3%A8re_ch%C3%A2telaine_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra (2 flutes [2nd
+    doub. piccolo], 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2 trumpets, timpani,
+    tambourine, strings)'

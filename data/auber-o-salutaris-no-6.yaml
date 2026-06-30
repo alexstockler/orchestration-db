@@ -1,0 +1,20 @@
+id: auber-o-salutaris-no-6
+work:
+  composer: Auber, Daniel François Esprit
+  title: O salutaris No.6
+  ids:
+    imslp: O salutaris No.6, AWV 86 (Auber, Daniel François Esprit)
+  year: 1859
+formula: org hp
+instrumentation:
+  keyboards:
+  - instrument: organ
+  harp: 1
+  soloists:
+  - voice
+  additional_raw: horn in E
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_salutaris_No.6%2C_AWV_86_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, horn in E, harp, organ'

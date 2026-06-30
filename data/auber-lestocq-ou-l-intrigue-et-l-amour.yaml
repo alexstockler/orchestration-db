@@ -1,0 +1,17 @@
+id: auber-lestocq-ou-l-intrigue-et-l-amour
+work:
+  composer: Auber, Daniel François Esprit
+  title: Lestocq, ou L'intrigue et l'amour
+  ids:
+    imslp: Lestocq (Auber, Daniel François Esprit)
+  year: 1834
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lestocq_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

@@ -1,0 +1,16 @@
+id: mehul-patriotic-hymn
+work:
+  composer: Méhul, Etienne Nicolas
+  title: Patriotic hymn
+  ids:
+    imslp: Hymne patriotique (Méhul, Etienne Nicolas)
+  year: 1793
+formula: ''
+instrumentation:
+  chorus_raw: mixed choir
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymne_patriotique_%28M%C3%A9hul%2C_Etienne_Nicolas%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed choir, orchestra (2 flutes, 2 oboes, 2 clarinets
+    in C, 2 bassoons, 2 horns in C, 2 trumpets in C, harp, strings)'

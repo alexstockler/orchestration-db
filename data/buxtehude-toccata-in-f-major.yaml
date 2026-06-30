@@ -1,0 +1,16 @@
+id: buxtehude-toccata-in-f-major
+work:
+  composer: Buxtehude, Dietrich
+  title: Toccata in F major
+  ids:
+    imslp: Toccata in F major, BuxWV 156 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Toccata_in_F_major%2C_BuxWV_156_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

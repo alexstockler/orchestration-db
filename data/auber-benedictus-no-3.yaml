@@ -1,0 +1,20 @@
+id: auber-benedictus-no-3
+work:
+  composer: Auber, Daniel François Esprit
+  title: Benedictus No.3
+  ids:
+    imslp: Benedictus No.3, AWV 78 (Auber, Daniel François Esprit)
+  year: 1857
+formula: org hp
+instrumentation:
+  keyboards:
+  - instrument: organ
+  harp: 1
+  soloists:
+  - sopranos
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Benedictus_No.3%2C_AWV_78_%28Auber%2C_Daniel_Fran%C3%A7ois_Esprit%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, harp, organ'
+duration_minutes: 4

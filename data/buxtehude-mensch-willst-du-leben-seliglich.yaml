@@ -1,0 +1,16 @@
+id: buxtehude-mensch-willst-du-leben-seliglich
+work:
+  composer: Buxtehude, Dietrich
+  title: Mensch, willst du leben seliglich
+  ids:
+    imslp: Mensch, willst du leben seliglich, BuxWV 206 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mensch%2C_willst_du_leben_seliglich%2C_BuxWV_206_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

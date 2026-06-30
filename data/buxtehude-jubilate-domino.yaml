@@ -1,0 +1,18 @@
+id: buxtehude-jubilate-domino
+work:
+  composer: Buxtehude, Dietrich
+  title: Jubilate Domino
+  ids:
+    imslp: Jubilate Domino, BuxWV 64 (Buxtehude, Dietrich)
+  year: 1690
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  additional_raw: viola da gamba | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jubilate_Domino%2C_BuxWV_64_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, viola da gamba, continuo'
+duration_minutes: 89

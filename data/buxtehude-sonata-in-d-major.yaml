@@ -1,0 +1,14 @@
+id: buxtehude-sonata-in-d-major
+work:
+  composer: Buxtehude, Dietrich
+  title: Sonata in D major
+  ids:
+    imslp: Trio Sonata in D major, BuxWV 267 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  additional_raw: viola da gamba | violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_D_major%2C_BuxWV_267_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: viola da gamba, violone, continuo'

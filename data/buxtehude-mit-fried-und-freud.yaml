@@ -1,0 +1,21 @@
+id: buxtehude-mit-fried-und-freud
+work:
+  composer: Buxtehude, Dietrich
+  title: Mit Fried und Freud
+  ids:
+    imslp: Mit Fried und Freud, BuxWV 76 (Buxtehude, Dietrich)
+  year: 1671
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  solo_strings:
+    violin: 1
+    viola: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mit_Fried_und_Freud%2C_BuxWV_76_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, bass, Orchestra: violin, 2 violas, continuo'

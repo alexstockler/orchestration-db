@@ -1,0 +1,16 @@
+id: mehul-stratonice
+work:
+  composer: Méhul, Etienne Nicolas
+  title: Stratonice
+  ids:
+    imslp: Stratonice (Méhul, Etienne Nicolas)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Stratonice_%28M%C3%A9hul%2C_Etienne_Nicolas%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

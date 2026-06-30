@@ -1,0 +1,16 @@
+id: buxtehude-ich-dank-dir-lieber-herre
+work:
+  composer: Buxtehude, Dietrich
+  title: Ich dank dir, lieber Herre
+  ids:
+    imslp: Ich dank dir, lieber Herre, BuxWV 194 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ich_dank_dir%2C_lieber_Herre%2C_BuxWV_194_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

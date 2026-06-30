@@ -1,0 +1,20 @@
+id: buxtehude-ich-halte-es-dafur
+work:
+  composer: Buxtehude, Dietrich
+  title: Ich halte es dafür
+  ids:
+    imslp: Ich halte es dafür, BuxWV 48 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  solo_strings:
+    violin: 1
+    viola: 1
+  additional_raw: violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ich_halte_es_daf%C3%BCr%2C_BuxWV_48_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, bass, violin, viola, violone, continuo'

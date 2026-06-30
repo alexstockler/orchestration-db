@@ -1,0 +1,19 @@
+id: buxtehude-lobe-den-herrn-meine-seele-buxwv-71
+work:
+  composer: Buxtehude, Dietrich
+  title: Lobe den Herrn meine Seele, BuxWV 71
+  ids:
+    imslp: Lobe den Herrn meine Seele, BuxWV 71 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  solo_strings:
+    violin: 3
+    viola: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lobe_den_Herrn_meine_Seele%2C_BuxWV_71_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, 3 violins, 2 violas, continuo'

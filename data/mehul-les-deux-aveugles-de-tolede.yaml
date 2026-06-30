@@ -1,0 +1,17 @@
+id: mehul-les-deux-aveugles-de-tolede
+work:
+  composer: Méhul, Etienne Nicolas
+  title: Les deux aveugles de Tolède
+  ids:
+    imslp: Les deux aveugles de Tolède (Méhul, Etienne Nicolas)
+  year: 1805
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_deux_aveugles_de_Tol%C3%A8de_%28M%C3%A9hul%2C_Etienne_Nicolas%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

@@ -1,0 +1,18 @@
+id: buxtehude-ich-habe-lust-abzuscheiden
+work:
+  composer: Buxtehude, Dietrich
+  title: Ich habe Lust abzuscheiden
+  ids:
+    imslp: Ich habe Lust abzuscheiden, BuxWV 46 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+  solo_strings:
+    violin: 2
+  additional_raw: violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ich_habe_Lust_abzuscheiden%2C_BuxWV_46_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices (SSB), 2 violins, violone, continuo'

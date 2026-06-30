@@ -1,0 +1,18 @@
+id: buxtehude-missa-brevis
+work:
+  composer: Buxtehude, Dietrich
+  title: Missa brevis
+  ids:
+    imslp: Missa brevis, BuxWV 114 (Buxtehude, Dietrich)
+  year: 1690
+formula: ''
+instrumentation:
+  soloists:
+  - 5 voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Missa_brevis%2C_BuxWV_114_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 5 voices (SSATB), continuo'
+duration_minutes: 9

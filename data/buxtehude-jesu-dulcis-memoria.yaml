@@ -1,0 +1,18 @@
+id: buxtehude-jesu-dulcis-memoria
+work:
+  composer: Buxtehude, Dietrich
+  title: Jesu dulcis memoria
+  ids:
+    imslp: Jesu dulcis memoria, BuxWV 56 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  solo_strings:
+    violin: 2
+  additional_raw: violone or bassoon | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jesu_dulcis_memoria%2C_BuxWV_56_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, 2 violins, violone or bassoon, continuo'

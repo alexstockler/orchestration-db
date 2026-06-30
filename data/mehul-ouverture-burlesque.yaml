@@ -1,0 +1,26 @@
+id: mehul-ouverture-burlesque
+work:
+  composer: Méhul, Etienne Nicolas
+  title: Ouverture burlesque
+  ids:
+    imslp: Ouverture burlesque (Méhul, Etienne Nicolas)
+  year: 1794
+formula: 0000 0100 pf
+instrumentation:
+  trumpet: 1
+  percussion:
+    instruments:
+    - drum
+    - triangle
+    - ratchet
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+  additional_raw: 3 mirlitons (eunuch flutes) | whistle
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ouverture_burlesque_%28M%C3%A9hul%2C_Etienne_Nicolas%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 mirlitons (eunuch flutes), trumpet, drum, triangle, ratchet,
+    whistle, piano, violin'

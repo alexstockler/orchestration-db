@@ -1,0 +1,30 @@
+id: mehul-le-chant-du-retour
+work:
+  composer: Méhul, Etienne Nicolas
+  title: Le chant du retour
+  ids:
+    imslp: Le chant du retour (Méhul, Etienne Nicolas)
+  year: 1797
+formula: 2[pic.pic] 0 2 2 2230 serpent
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - instrument: piccolo
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  trombone: 3
+  percussion:
+    instruments:
+    - bass drum
+    - cymbals
+    - triangle
+  extras:
+  - instrument: serpent
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_chant_du_retour_%28M%C3%A9hul%2C_Etienne_Nicolas%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 piccolos, 2 clarinets, 2 bassoons,, 2 horns, 2 trumpets,
+    3 trombones, serpent,, bass drum, cymbals, triangle'
