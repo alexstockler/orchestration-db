@@ -1,0 +1,15 @@
+id: martucci-capriccio-in-forma-di-studio
+work:
+  composer: Martucci, Giuseppe
+  title: Capriccio in forma di studio
+  ids:
+    imslp: Capriccio in forma di studio, Op.26 (Martucci, Giuseppe)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Capriccio_in_forma_di_studio%2C_Op.26_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

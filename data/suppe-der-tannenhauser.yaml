@@ -1,0 +1,16 @@
+id: suppe-der-tannenhauser
+work:
+  composer: Suppé, Franz von
+  title: Der Tannenhäuser
+  ids:
+    imslp: Der Tannenhäuser (Suppé, Franz von)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Tannenh%C3%A4user_%28Supp%C3%A9%2C_Franz_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

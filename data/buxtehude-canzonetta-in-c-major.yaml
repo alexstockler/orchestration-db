@@ -1,0 +1,16 @@
+id: buxtehude-canzonetta-in-c-major
+work:
+  composer: Buxtehude, Dietrich
+  title: Canzonetta in C major
+  ids:
+    imslp: Canzonetta in C major, BuxWV 167 (Buxtehude, Dietrich)
+  year: 1952
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canzonetta_in_C_major%2C_BuxWV_167_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

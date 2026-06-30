@@ -1,0 +1,16 @@
+id: lully-cadmus-et-hermione
+work:
+  composer: Lully, Jean-Baptiste
+  title: Cadmus et Hermione
+  ids:
+    imslp: Cadmus et Hermione, LWV 49 (Lully, Jean-Baptiste)
+formula: ''
+instrumentation:
+  additional_raw: Sol 2 | Ut 3 | Ut 4 | Fa 4. - Orchestre | Sol 1 | Ut 1 | Ut 2 |
+    Ut 3 | Fa 4. - Mentions d'instrumentation sous la musique | violons.
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cadmus_et_Hermione%2C_LWV_49_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: Choeur : Sol 2, Ut 3, Ut 4, Fa 4. - Orchestre : Sol 1,
+    Ut 1, Ut 2, Ut 3, Fa 4. - Mentions d''instrumentation sous la musique : violons.'

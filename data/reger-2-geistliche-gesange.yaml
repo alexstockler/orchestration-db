@@ -1,0 +1,18 @@
+id: reger-2-geistliche-gesange
+work:
+  composer: Reger, Max
+  title: 2 Geistliche Gesänge
+  ids:
+    imslp: 2 Geistliche Gesänge, Op.19 (Reger, Max)
+  year: 1898
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Geistliche_Ges%C3%A4nge%2C_Op.19_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, organ'

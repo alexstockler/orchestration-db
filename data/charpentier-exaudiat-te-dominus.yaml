@@ -1,0 +1,18 @@
+id: charpentier-exaudiat-te-dominus
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Exaudiat te Dominus
+  ids:
+    imslp: Exaudiat te Dominus, H.162 (Charpentier, Marc-Antoine)
+  year: 1672
+formula: 1100 0000 str
+instrumentation:
+  flute: 1
+  oboe: 1
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Exaudiat_te_Dominus%2C_H.162_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, strings, continuo'

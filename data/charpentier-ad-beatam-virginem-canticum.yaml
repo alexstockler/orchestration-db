@@ -1,0 +1,22 @@
+id: charpentier-ad-beatam-virginem-canticum
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Ad beatam Virginem canticum
+  ids:
+    imslp: Ad beatam Virginem canticum, H.340 (Charpentier, Marc-Antoine)
+  year: 1686
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  - tenor
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ad_beatam_Virginem_canticum%2C_H.340_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, tenor, bass, 2 recorders, 2 violins, continuo'
+duration_minutes: 7

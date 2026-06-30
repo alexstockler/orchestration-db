@@ -1,0 +1,13 @@
+id: gade-et-folkesagn
+work:
+  composer: Gade, Niels
+  title: Et Folkesagn
+  ids:
+    imslp: Et Folkesagn (Gade, Niels)
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Et_Folkesagn_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

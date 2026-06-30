@@ -1,0 +1,16 @@
+id: stenhammar-3-fantasias
+work:
+  composer: Stenhammar, Wilhelm
+  title: 3 Fantasias
+  ids:
+    imslp: 3 Fantasias, Op.11 (Stenhammar, Wilhelm)
+  year: 1895
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Fantasias%2C_Op.11_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,18 @@
+id: reger-2-lieder
+work:
+  composer: Reger, Max
+  title: 2 Lieder
+  ids:
+    imslp: 2 Lieder (Reger, Max)
+  year: 1899
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Lieder_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

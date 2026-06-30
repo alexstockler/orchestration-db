@@ -1,0 +1,17 @@
+id: bruch-kyrie-sanctus-und-agnus-dei
+work:
+  composer: Bruch, Max
+  title: Kyrie, Sanctus und Agnus Dei
+  ids:
+    imslp: Kyrie, Sanctus and Agnus Dei, Op.35 (Bruch, Max)
+  year: 1870
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: 2 mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kyrie%2C_Sanctus_and_Agnus_Dei%2C_Op.35_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, 2 mixed chorus (SATB/SATB), orchestra'

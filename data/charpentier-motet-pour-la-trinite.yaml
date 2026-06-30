@@ -1,0 +1,20 @@
+id: charpentier-motet-pour-la-trinite
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Motet pour la Trinité
+  ids:
+    imslp: Motet pour la Trinité, H.319 (Charpentier, Marc-Antoine)
+  year: 1675
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Motet_pour_la_Trinit%C3%A9%2C_H.319_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, bass, continuo'
+duration_minutes: 3

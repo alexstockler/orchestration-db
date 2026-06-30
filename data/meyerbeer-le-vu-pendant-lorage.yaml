@@ -1,0 +1,18 @@
+id: meyerbeer-le-vu-pendant-lorage
+work:
+  composer: Meyerbeer, Giacomo
+  title: Le vœu pendant l’orage
+  ids:
+    imslp: Le vœu pendant l'orage (Meyerbeer, Giacomo)
+  year: 1830
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_v%C5%93u_pendant_l%27orage_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

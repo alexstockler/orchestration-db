@@ -1,0 +1,15 @@
+id: ponchielli-marcia-no-9-op-118
+work:
+  composer: Ponchielli, Amilcare
+  title: Marcia No.9, Op.118
+  ids:
+    imslp: Marcia No.9, Op.118 (Ponchielli, Amilcare)
+  year: 1864
+formula: ''
+instrumentation:
+  additional_raw: Wind band
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marcia_No.9%2C_Op.118_%28Ponchielli%2C_Amilcare%29
+  confidence: single_source
+  notes: 'Instrumentation: Wind band'

@@ -1,0 +1,13 @@
+id: herold-lydie
+work:
+  composer: Hérold, Ferdinand
+  title: Lydie
+  ids:
+    imslp: Lydie (Hérold, Ferdinand)
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lydie_%28H%C3%A9rold%2C_Ferdinand%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

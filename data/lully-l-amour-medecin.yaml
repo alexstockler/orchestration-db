@@ -1,0 +1,17 @@
+id: lully-l-amour-medecin
+work:
+  composer: Lully, Jean-Baptiste
+  title: L'amour médecin
+  ids:
+    imslp: L'amour médecin, LWV 29 (Lully, Jean-Baptiste)
+  year: 1665
+formula: ''
+instrumentation:
+  additional_raw: 'Rôles: la Comédie | la Musique | le Ballet (Ut 1 (2), Fa 4) | l''Opérateur
+    (Fa 4). - Orchestre | Sol 1 | Ut 1 | Ut 2 | Ut 3 | Fa 4.'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27amour_m%C3%A9decin%2C_LWV_29_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: Rôles: la Comédie, la Musique, le Ballet (Ut 1 (2), Fa
+    4), l''Opérateur (Fa 4). - Orchestre : Sol 1, Ut 1, Ut 2, Ut 3, Fa 4.'

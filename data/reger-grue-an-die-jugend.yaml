@@ -1,0 +1,17 @@
+id: reger-grue-an-die-jugend
+work:
+  composer: Reger, Max
+  title: Grüße an die Jugend
+  ids:
+    imslp: Grüße an die Jugend, WoO III/6 (Reger, Max)
+  year: 1898
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gr%C3%BC%C3%9Fe_an_die_Jugend%2C_WoO_III/6_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 23

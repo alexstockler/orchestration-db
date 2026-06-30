@@ -1,0 +1,16 @@
+id: raff-impromptu-valse
+work:
+  composer: Raff, Joachim
+  title: Impromptu-valse
+  ids:
+    imslp: Impromptu-valse, Op.94 (Raff, Joachim)
+  year: 1860
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Impromptu-valse%2C_Op.94_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

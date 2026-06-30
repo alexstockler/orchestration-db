@@ -1,0 +1,15 @@
+id: martucci-capriccio-no-1
+work:
+  composer: Martucci, Giuseppe
+  title: Capriccio No.1
+  ids:
+    imslp: Capriccio No.1, Op.2 (Martucci, Giuseppe)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Capriccio_No.1%2C_Op.2_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

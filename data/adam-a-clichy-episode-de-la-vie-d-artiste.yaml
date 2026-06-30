@@ -1,0 +1,15 @@
+id: adam-a-clichy-episode-de-la-vie-d-artiste
+work:
+  composer: Adam, Adolphe
+  title: À Clichy, épisode de la vie d'artiste
+  ids:
+    imslp: À Clichy (Adam, Adolphe)
+  year: 1855
+formula: ''
+instrumentation:
+  additional_raw: 3 vocal soloists (tenor, baritone, bass)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%80_Clichy_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 vocal soloists (tenor, baritone, bass), orchestra'

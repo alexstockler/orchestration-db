@@ -1,0 +1,16 @@
+id: reger-caprice-for-piano
+work:
+  composer: Reger, Max
+  title: Caprice for Piano
+  ids:
+    imslp: Caprice, WoO III/21 (Reger, Max)
+  year: 1906
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Caprice%2C_WoO_III/21_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: 1 Piano'

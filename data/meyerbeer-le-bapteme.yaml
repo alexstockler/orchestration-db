@@ -1,0 +1,18 @@
+id: meyerbeer-le-bapteme
+work:
+  composer: Meyerbeer, Giacomo
+  title: Le baptême
+  ids:
+    imslp: Le baptême (Meyerbeer, Giacomo)
+  year: 1839
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_bapt%C3%AAme_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

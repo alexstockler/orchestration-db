@@ -1,0 +1,16 @@
+id: martucci-6-pezzi
+work:
+  composer: Martucci, Giuseppe
+  title: 6 Pezzi
+  ids:
+    imslp: 6 Pezzi, Op.38 (Martucci, Giuseppe)
+  year: 1878
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Pezzi%2C_Op.38_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

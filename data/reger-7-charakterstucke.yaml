@@ -1,0 +1,16 @@
+id: reger-7-charakterstucke
+work:
+  composer: Reger, Max
+  title: 7 Charakterstücke
+  ids:
+    imslp: 7 Charakterstücke, Op.32 (Reger, Max)
+  year: 1899
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Charakterst%C3%BCcke%2C_Op.32_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,15 @@
+id: reger-8-tantum-ergo
+work:
+  composer: Reger, Max
+  title: 8 Tantum ergo
+  ids:
+    imslp: 8 Tantum ergo, Op.61a (Reger, Max)
+  year: 1902
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Tantum_ergo%2C_Op.61a_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB) (SATBB in Nos.7 and 8)'

@@ -1,0 +1,18 @@
+id: meyerbeer-menschenfeindlich
+work:
+  composer: Meyerbeer, Giacomo
+  title: Menschenfeindlich
+  ids:
+    imslp: Menschenfeindlich (Meyerbeer, Giacomo)
+  year: 1837
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Menschenfeindlich_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Bass or contralto voice, Piano'

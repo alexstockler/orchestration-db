@@ -1,0 +1,18 @@
+id: meyerbeer-sur-le-balcon
+work:
+  composer: Meyerbeer, Giacomo
+  title: Sur le balcon
+  ids:
+    imslp: Sur le balcon (Meyerbeer, Giacomo)
+  year: 1845
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sur_le_balcon_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

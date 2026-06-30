@@ -1,0 +1,17 @@
+id: charpentier-laetatus-sum
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Laetatus sum
+  ids:
+    imslp: Laetatus sum, H.161 (Charpentier, Marc-Antoine)
+  year: 1671
+formula: 2000 0000 str
+instrumentation:
+  flute: 2
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Laetatus_sum%2C_H.161_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, strings, continuo'

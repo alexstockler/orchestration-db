@@ -1,0 +1,16 @@
+id: lully-ballet-de-l-amour-malade
+work:
+  composer: Lully, Jean-Baptiste
+  title: Ballet de l'amour malade
+  ids:
+    imslp: Ballet de l'Amour Malade, LWV 8 (Lully, Jean-Baptiste)
+  year: 1657
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ballet_de_l%27Amour_Malade%2C_LWV_8_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

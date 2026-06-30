@@ -1,0 +1,16 @@
+id: raff-chant-de-l-ondin
+work:
+  composer: Raff, Joachim
+  title: Chant de l'Ondin
+  ids:
+    imslp: Chant de l'Ondin, Op.84 (Raff, Joachim)
+  year: 1859
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chant_de_l%27Ondin%2C_Op.84_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: 1 piano'

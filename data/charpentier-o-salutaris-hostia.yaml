@@ -1,0 +1,20 @@
+id: charpentier-o-salutaris-hostia
+work:
+  composer: Charpentier, Marc-Antoine
+  title: O salutaris hostia
+  ids:
+    imslp: O salutaris hostia, H.248 (Charpentier, Marc-Antoine)
+  year: 1679
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_salutaris_hostia%2C_H.248_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, 2 violins (and/or 2 recorders), continuo'
+duration_minutes: 3

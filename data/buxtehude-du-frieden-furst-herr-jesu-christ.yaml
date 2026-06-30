@@ -1,0 +1,18 @@
+id: buxtehude-du-frieden-furst-herr-jesu-christ
+work:
+  composer: Buxtehude, Dietrich
+  title: Du Frieden-Fürst Herr Jesu Christ
+  ids:
+    imslp: Du Frieden-Fürst Herr Jesu Christ, BuxWV 20 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - 5 voices
+  solo_strings:
+    violin: 2
+  additional_raw: violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Du_Frieden-F%C3%BCrst_Herr_Jesu_Christ%2C_BuxWV_20_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 5 voices (SSATB), 2 violins, violone, continuo'

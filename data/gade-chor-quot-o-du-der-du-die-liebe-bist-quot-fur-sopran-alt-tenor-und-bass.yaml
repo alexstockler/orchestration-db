@@ -1,0 +1,14 @@
+id: gade-chor-quot-o-du-der-du-die-liebe-bist-quot-fur-sopran-alt-tenor-und-bass
+work:
+  composer: Gade, Niels
+  title: Chor &quot;O du, der du die Liebe bist&quot; für Sopran, Alt, Tenor und Bass
+  ids:
+    imslp: O du, der du die Liebe bist (Gade, Niels)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_du%2C_der_du_die_Liebe_bist_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed Chorus (SATB)'

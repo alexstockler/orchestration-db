@@ -1,0 +1,16 @@
+id: adam-monsieur-botte
+work:
+  composer: Adam, Adolphe
+  title: Monsieur Botte
+  ids:
+    imslp: Monsieur Botte (Adam, Adolphe)
+  year: 1827
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Monsieur_Botte_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

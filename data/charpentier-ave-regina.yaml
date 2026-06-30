@@ -1,0 +1,19 @@
+id: charpentier-ave-regina
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Ave Regina
+  ids:
+    imslp: Ave Regina, H.19 (Charpentier, Marc-Antoine)
+  year: 1672
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_Regina%2C_H.19_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, alto, continuo'
+duration_minutes: 3

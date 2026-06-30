@@ -1,0 +1,17 @@
+id: meyerbeer-la-chanson-de-maitre-floh
+work:
+  composer: Meyerbeer, Giacomo
+  title: La chanson de Maître Floh
+  ids:
+    imslp: La chanson de Maître Floh (Meyerbeer, Giacomo)
+  year: 1839
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: Bass voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_chanson_de_Ma%C3%AEtre_Floh_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Bass voice, Piano'

@@ -1,0 +1,19 @@
+id: buxtehude-dein-edles-herz-der-liebe-thron
+work:
+  composer: Buxtehude, Dietrich
+  title: Dein edles Herz, der Liebe Thron
+  ids:
+    imslp: Dein edles Herz, der Liebe Thron, BuxWV 14 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+  solo_strings:
+    violin: 2
+    viola: 2
+  additional_raw: violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dein_edles_Herz%2C_der_Liebe_Thron%2C_BuxWV_14_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (SATB), 2 violins, 2 violas, violone, continuo'

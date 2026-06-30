@@ -1,0 +1,16 @@
+id: reger-variations-and-fugue-on-god-save-the-king
+work:
+  composer: Reger, Max
+  title: Variations and Fugue on 'God Save the King'
+  ids:
+    imslp: Variations and Fugue on 'God Save the King' (Reger, Max)
+  year: 1901
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variations_and_Fugue_on_%27God_Save_the_King%27_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

@@ -1,0 +1,15 @@
+id: buxtehude-aria-and-variations-in-c-major
+work:
+  composer: Buxtehude, Dietrich
+  title: Aria and Variations in C major
+  ids:
+    imslp: Aria and Variations in C major, BuxWV 246 (Buxtehude, Dietrich)
+  year: 1942
+formula: ''
+instrumentation:
+  additional_raw: keyboard (harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aria_and_Variations_in_C_major%2C_BuxWV_246_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard (harpsichord)'

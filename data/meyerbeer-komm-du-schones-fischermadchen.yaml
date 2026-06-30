@@ -1,0 +1,18 @@
+id: meyerbeer-komm-du-schones-fischermadchen
+work:
+  composer: Meyerbeer, Giacomo
+  title: Komm, du schönes Fischermädchen
+  ids:
+    imslp: Komm, du schönes Fischermädchen (Meyerbeer, Giacomo)
+  year: 1837
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Komm%2C_du_sch%C3%B6nes_Fischerm%C3%A4dchen_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

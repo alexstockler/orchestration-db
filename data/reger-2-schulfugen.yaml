@@ -1,0 +1,15 @@
+id: reger-2-schulfugen
+work:
+  composer: Reger, Max
+  title: 2 Schulfugen
+  ids:
+    imslp: 2 Schulfugen (Reger, Max)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Schulfugen_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

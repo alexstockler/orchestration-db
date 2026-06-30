@@ -1,0 +1,15 @@
+id: ponchielli-il-gottardo
+work:
+  composer: Ponchielli, Amilcare
+  title: Il Gottardo
+  ids:
+    imslp: Il Gottardo, Op.159 (Ponchielli, Amilcare)
+  year: 1881
+formula: ''
+instrumentation:
+  additional_raw: military band
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_Gottardo%2C_Op.159_%28Ponchielli%2C_Amilcare%29
+  confidence: single_source
+  notes: 'Instrumentation: Military band'

@@ -1,0 +1,26 @@
+id: raff-fest-ouverture
+work:
+  composer: Raff, Joachim
+  title: Fest-Ouvertüre
+  ids:
+    imslp: Fest-Ouvertüre, Op.117 (Raff, Joachim)
+  year: 1864
+formula: 1111 4230 tmp str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fest-Ouvert%C3%BCre%2C_Op.117_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: flutes, oboes, clarinets (A), bassoons + 4 horns
+    (F), 2 trumpets (F), 3 trombones + timpani + strings'
+duration_minutes: 15

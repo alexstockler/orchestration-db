@@ -1,0 +1,15 @@
+id: reger-la-follia
+work:
+  composer: Reger, Max
+  title: La Follia
+  ids:
+    imslp: La Follia (Reger, Max)
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_Follia_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, orchestra'

@@ -1,0 +1,125 @@
+id: ponchielli-la-gioconda
+work:
+  composer: Ponchielli, Amilcare
+  title: La Gioconda
+  ids:
+    imslp: La Gioconda, Op.9 (Ponchielli, Amilcare)
+  year: 1876
+formula: 4[pic.2.3.pic] 2[1.2/Eh] 7[1.2.Ebcl.4.5.6.bcl] 4 7 12[cnt.cnt.3.4.cnt.cnt.7.8.9.10.flhn.flhn]
+  5 1[euph] tmp org 2hp ophicleide str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  - instrument: piccolo
+  oboe:
+  - {}
+  - doublings:
+    - english_horn
+  clarinet:
+  - {}
+  - {}
+  - instrument: eflat_clarinet
+  - {}
+  - {}
+  - {}
+  - instrument: bass_clarinet
+  bassoon: 4
+  horn: 7
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  - instrument: cornet
+  - instrument: cornet
+  - {}
+  - {}
+  - {}
+  - {}
+  - instrument: flugelhorn
+  - instrument: flugelhorn
+  trombone: 5
+  tuba:
+  - instrument: euphonium
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - snare drum
+    - bass drum
+    - cannon
+  keyboards:
+  - instrument: organ
+  harp: 2
+  extras:
+  - instrument: ophicleide
+  strings: str
+  soloists:
+  - La Gioconda
+  - cantatrice (soprano)
+  - Laura Adorno
+  - genovese
+  - moglie di Alvise (mezzo-soprano)
+  - Alvise Badoero
+  - uno dei capi della Inquisizione di Stato (basso)
+  - La Cieca
+  - madre della Gioconda (alto)
+  - Enzo Grimaldo
+  - Principe genovese (tenor)
+  - Barnaba
+  - cantastorie (baritone)
+  - Zuane
+  - regatante (basso)
+  - Un Cantore (basso)
+  - Isèpo
+  - scrivano pubblico (tenor)
+  - Un Pilota (basso) Mixed Chorus :Barnabotti
+  - Arsenalotti
+  - Senatori
+  - Pregadi
+  - Gentiluomini
+  - Gentildonne
+  - Maschere (arlecchini, pantaloni, bautte)
+  - Popolo
+  - Marinai
+  - Mozzi
+  - Monaci de' Frari
+  - Cavalieri della compagnia della calza
+  - Cantori
+  - Mazzieri
+  - Scudieri
+  - Scherani
+  - Trombettieri
+  - Dalmati
+  - Mori
+  - Il Cancellier grande
+  - Un regatante
+  - Il Consiglio dei Dieci
+  - Sei Caudatari
+  - Un Nostromo
+  - Un Mastro delle vele
+  - Un servo moro
+  - Il Doge
+  additional_raw: foglietto | bass flugelhorn | basses (2 parts)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_Gioconda%2C_Op.9_%28Ponchielli%2C_Amilcare%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :La Gioconda, cantatrice (soprano), Laura Adorno,
+    genovese, moglie di Alvise (mezzo-soprano), Alvise Badoero, uno dei capi della
+    Inquisizione di Stato (basso), La Cieca, madre della Gioconda (alto), Enzo Grimaldo,
+    Principe genovese (tenor), Barnaba, cantastorie (baritone), Zuane, regatante (basso),
+    Un Cantore (basso), Isèpo, scrivano pubblico (tenor), Un Pilota (basso) Mixed
+    Chorus :Barnabotti, Arsenalotti, Senatori, Pregadi, Gentiluomini,, Gentildonne,
+    Maschere (arlecchini, pantaloni, bautte),, Popolo, Marinai, Mozzi, Monaci de''
+    Frari,, Cavalieri della compagnia della calza, Cantori, Mazzieri, Scudieri, Scherani,
+    Trombettieri, Dalmati,, Mori, Il Cancellier grande, Un regatante, Il Consiglio
+    dei Dieci,, Sei Caudatari, Un Nostromo, Un Mastro delle vele, Un servo moro, Il
+    Doge Orchestra :piccolo, 2 flutes, 2 oboes (2nd also English horn), 2 clarinets,
+    2 bassoons, 4 horns, 2 cornets, 2 trumpets, 3 trombones, ophicleide, timpani,
+    triangle, snare drum, bass drum, foglietto, organ, harp, strings '' :piccolo,
+    E clarinet, 3 clarinets, bass clarinet, 2 bassoons, 3 horns, 2 cornets, 4 trumpets,
+    2 flugelhorns, bass flugelhorn, 2 trombones, euphonium, snare drum, bass drum,
+    cannon, harp, basses (2 parts)'

@@ -1,0 +1,17 @@
+id: meyerbeer-die-lustigen-jagersleut
+work:
+  composer: Meyerbeer, Giacomo
+  title: Die lustigen Jägersleut
+  ids:
+    imslp: Die lustigen Jägersleut (Meyerbeer, Giacomo)
+  year: 1861
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_lustigen_J%C3%A4gersleut_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB), piano (ad lib.)'

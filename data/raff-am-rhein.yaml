@@ -1,0 +1,16 @@
+id: raff-am-rhein
+work:
+  composer: Raff, Joachim
+  title: Am Rhein
+  ids:
+    imslp: Am Rhein, Op.32 (Raff, Joachim)
+  year: 1847
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Am_Rhein%2C_Op.32_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

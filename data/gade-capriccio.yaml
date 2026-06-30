@@ -1,0 +1,18 @@
+id: gade-capriccio
+work:
+  composer: Gade, Niels
+  title: Capriccio
+  ids:
+    imslp: Capriccio (Gade, Niels)
+  year: 1878
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Capriccio_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: solo: violin, piano'

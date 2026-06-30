@@ -1,0 +1,18 @@
+id: reger-caprice-for-cello-and-piano
+work:
+  composer: Reger, Max
+  title: Caprice for Cello and Piano
+  ids:
+    imslp: Caprice, WoO II/15 (Reger, Max)
+  year: 1901
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Caprice%2C_WoO_II/15_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'

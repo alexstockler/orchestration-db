@@ -1,0 +1,17 @@
+id: charpentier-sonate-a-8
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Sonate à 8
+  ids:
+    imslp: Sonate à 8, H.548 (Charpentier, Marc-Antoine)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+  additional_raw: basse de violon"
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sonate_%C3%A0_8%2C_H.548_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, lute, 2 violins, bass viol, "basse de violon",
+    harpsichord'

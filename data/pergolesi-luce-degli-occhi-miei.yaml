@@ -1,0 +1,17 @@
+id: pergolesi-luce-degli-occhi-miei
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Luce degli occhi miei
+  ids:
+    imslp: Luce degli occhi miei, P.110 (Pergolesi, Giovanni Battista)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Luce_degli_occhi_miei%2C_P.110_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, strings, continuo'

@@ -1,0 +1,15 @@
+id: charpentier-beatus-vir-qui-inventus-est
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Beatus vir qui inventus est
+  ids:
+    imslp: Beatus vir, H.376 (Charpentier, Marc-Antoine)
+  year: 1709
+formula: ''
+instrumentation:
+  additional_raw: Haute-contre voice | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Beatus_vir%2C_H.376_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: Haute-contre voice, continuo'

@@ -1,0 +1,17 @@
+id: meyerbeer-vola-vola
+work:
+  composer: Meyerbeer, Giacomo
+  title: Vola, vola
+  ids:
+    imslp: Vola, vola (Meyerbeer, Giacomo)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vola%2C_vola_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

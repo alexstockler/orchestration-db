@@ -1,0 +1,16 @@
+id: gade-brnenes-jul
+work:
+  composer: Gade, Niels
+  title: Børnenes Jul
+  ids:
+    imslp: Børnenes Jul, Op.36 (Gade, Niels)
+  year: 1859
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/B%C3%B8rnenes_Jul%2C_Op.36_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: piano (see below, Comments)'

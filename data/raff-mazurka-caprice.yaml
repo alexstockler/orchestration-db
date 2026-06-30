@@ -1,0 +1,16 @@
+id: raff-mazurka-caprice
+work:
+  composer: Raff, Joachim
+  title: Mazurka-caprice
+  ids:
+    imslp: Mazurka-caprice, Op.83 (Raff, Joachim)
+  year: 1858
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mazurka-caprice%2C_Op.83_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

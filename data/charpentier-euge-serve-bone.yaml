@@ -1,0 +1,17 @@
+id: charpentier-euge-serve-bone
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Euge serve bone
+  ids:
+    imslp: Euge serve bone, H.375 (Charpentier, Marc-Antoine)
+  year: 1709
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  additional_raw: Haute-contre | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Euge_serve_bone%2C_H.375_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: Haute-contre, tenor, continuo'

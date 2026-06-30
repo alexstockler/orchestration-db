@@ -1,0 +1,15 @@
+id: reger-maria-himmelsfreud
+work:
+  composer: Reger, Max
+  title: Maria, Himmelsfreud!
+  ids:
+    imslp: Maria, Himmelsfreud!, WoO VI/12 (Reger, Max)
+  year: 1899
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Maria%2C_Himmelsfreud%21%2C_WoO_VI/12_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed chorus (SATB)'

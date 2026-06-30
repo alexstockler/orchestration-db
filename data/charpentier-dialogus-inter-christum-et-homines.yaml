@@ -1,0 +1,20 @@
+id: charpentier-dialogus-inter-christum-et-homines
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Dialogus inter Christum et homines
+  ids:
+    imslp: Dialogus inter Christum et homines, H.417 (Charpentier, Marc-Antoine)
+  year: 1692
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  - tenor
+  solo_strings:
+    violin: 2
+  additional_raw: 2 basses | 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dialogus_inter_Christum_et_homines%2C_H.417_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, tenor, 2 basses, 2 recorders, 2 violins, continuo'

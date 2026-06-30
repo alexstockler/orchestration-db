@@ -1,0 +1,16 @@
+id: gade-5-gesange-fur-sopran-alt-tenor-u-bass
+work:
+  composer: Gade, Niels
+  title: 5 Gesänge für Sopran, Alt, Tenor u. Bass
+  ids:
+    imslp: 5 Gesänge, Op.13 (Gade, Niels)
+  year: 1846
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Ges%C3%A4nge%2C_Op.13_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (or mixed chorus) (SATB)'

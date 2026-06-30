@@ -1,0 +1,25 @@
+id: raff-traumkonig-und-sein-lieb
+work:
+  composer: Raff, Joachim
+  title: Traumkönig und sein Lieb
+  ids:
+    imslp: Traumkönig und sein Lieb, Op.66 (Raff, Joachim)
+  year: 1854
+formula: 2222 4000 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Traumk%C3%B6nig_und_sein_Lieb%2C_Op.66_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, Orchestra: 2 flutes, 2 oboes, 2 clarinets
+    (C), 2 bassoons + 4 horns (F) + timpani + strings'

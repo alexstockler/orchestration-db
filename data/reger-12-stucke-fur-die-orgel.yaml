@@ -1,0 +1,16 @@
+id: reger-12-stucke-fur-die-orgel
+work:
+  composer: Reger, Max
+  title: 12 Stücke für die Orgel
+  ids:
+    imslp: 12 Stücke, Op.65 (Reger, Max)
+  year: 1902
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_St%C3%BCcke%2C_Op.65_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

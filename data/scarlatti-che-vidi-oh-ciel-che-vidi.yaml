@@ -1,0 +1,18 @@
+id: scarlatti-che-vidi-oh-ciel-che-vidi
+work:
+  composer: Scarlatti, Domenico
+  title: Che vidi oh ciel, che vidi?
+  ids:
+    imslp: Che vidi oh ciel, che vidi (Scarlatti, Domenico)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Che_vidi_oh_ciel%2C_che_vidi_%28Scarlatti%2C_Domenico%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 2 violins, continuo'

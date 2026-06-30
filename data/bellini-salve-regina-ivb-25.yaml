@@ -1,0 +1,15 @@
+id: bellini-salve-regina-ivb-25
+work:
+  composer: Bellini, Vincenzo
+  title: Salve Regina, IVB 25
+  ids:
+    imslp: Salve Regina, IVB 25 (Bellini, Vincenzo)
+formula: ''
+instrumentation:
+  soloists:
+  - 4 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Salve_Regina%2C_IVB_25_%28Bellini%2C_Vincenzo%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices, orchestra'

@@ -1,0 +1,21 @@
+id: reger-piano-quintet-no-1
+work:
+  composer: Reger, Max
+  title: Piano Quintet No.1
+  ids:
+    imslp: Piano Quintet No.1, WoO II/9 (Reger, Max)
+  year: 1897
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quintet_No.1%2C_WoO_II/9_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello, piano'
+duration_minutes: 38

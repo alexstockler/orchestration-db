@@ -1,0 +1,22 @@
+id: charpentier-courtes-litanies-de-la-vierge
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Courtes Litanies de la Vierge
+  ids:
+    imslp: Courtes Litanies de la Vierge, H.90 (Charpentier, Marc-Antoine)
+  year: 1696
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Courtes_Litanies_de_la_Vierge%2C_H.90_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass, mixed chorus (SATB), continuo'
+duration_minutes: 4

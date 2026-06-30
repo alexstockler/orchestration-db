@@ -1,0 +1,16 @@
+id: adam-henri-v-et-ses-compagnons
+work:
+  composer: Adam, Adolphe
+  title: Henri V et ses compagnons
+  ids:
+    imslp: Henri V et ses compagnons (Adam, Adolphe)
+  year: 1829
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Henri_V_et_ses_compagnons_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

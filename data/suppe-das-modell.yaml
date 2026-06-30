@@ -1,0 +1,16 @@
+id: suppe-das-modell
+work:
+  composer: Suppé, Franz von
+  title: Das Modell
+  ids:
+    imslp: Das Modell (Suppé, Franz von)
+  year: 1895
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Das_Modell_%28Supp%C3%A9%2C_Franz_von%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

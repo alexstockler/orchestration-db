@@ -1,0 +1,16 @@
+id: suppe-dichter-und-bauer
+work:
+  composer: Suppé, Franz von
+  title: Dichter und Bauer
+  ids:
+    imslp: Dichter und Bauer (Suppé, Franz von)
+  year: 1846
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dichter_und_Bauer_%28Supp%C3%A9%2C_Franz_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

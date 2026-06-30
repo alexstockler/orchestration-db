@@ -1,0 +1,17 @@
+id: pergolesi-il-prigionier-superbo
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Il prigionier superbo
+  ids:
+    imslp: Il prigionier superbo, P.143i (Pergolesi, Giovanni Battista)
+  year: 1733
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_prigionier_superbo%2C_P.143i_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

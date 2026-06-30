@@ -1,0 +1,25 @@
+id: gade-violin-concerto
+work:
+  composer: Gade, Niels
+  title: Violin Concerto
+  ids:
+    imslp: Violin Concerto, Op.56 (Gade, Niels)
+  year: 1880
+formula: 2222 2200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  trumpet: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Concerto%2C_Op.56_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 2
+    trumpets, timpani, strings'
+duration_minutes: 26

@@ -1,0 +1,16 @@
+id: reger-fantasie-und-fuge
+work:
+  composer: Reger, Max
+  title: Fantasie und Fuge
+  ids:
+    imslp: Fantasie und Fuge, Op.29 (Reger, Max)
+  year: 1898
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasie_und_Fuge%2C_Op.29_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

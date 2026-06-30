@@ -1,0 +1,15 @@
+id: adam-galop-des-drapeaux
+work:
+  composer: Adam, Adolphe
+  title: Galop des drapeaux
+  ids:
+    imslp: Galop des drapeaux (Adam, Adolphe)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Galop_des_drapeaux_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

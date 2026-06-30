@@ -1,0 +1,20 @@
+id: reger-piano-quartet-no-2
+work:
+  composer: Reger, Max
+  title: Piano Quartet No.2
+  ids:
+    imslp: Piano Quartet No.2, Op.133 (Reger, Max)
+  year: 1914
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quartet_No.2%2C_Op.133_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, viola, cello, piano'

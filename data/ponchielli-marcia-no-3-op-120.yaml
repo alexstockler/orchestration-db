@@ -1,0 +1,14 @@
+id: ponchielli-marcia-no-3-op-120
+work:
+  composer: Ponchielli, Amilcare
+  title: Marcia No.3, Op.120
+  ids:
+    imslp: Marcia No.3, Op.120 (Ponchielli, Amilcare)
+formula: ''
+instrumentation:
+  additional_raw: Wind band
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marcia_No.3%2C_Op.120_%28Ponchielli%2C_Amilcare%29
+  confidence: single_source
+  notes: 'Instrumentation: Wind band'

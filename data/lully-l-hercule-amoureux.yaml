@@ -1,0 +1,15 @@
+id: lully-l-hercule-amoureux
+work:
+  composer: Lully, Jean-Baptiste
+  title: L'Hercule amoureux
+  ids:
+    imslp: L'Hercule amoureux, LWV 17 (Lully, Jean-Baptiste)
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27Hercule_amoureux%2C_LWV_17_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: strings, continuo'

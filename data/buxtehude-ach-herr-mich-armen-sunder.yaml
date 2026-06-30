@@ -1,0 +1,16 @@
+id: buxtehude-ach-herr-mich-armen-sunder
+work:
+  composer: Buxtehude, Dietrich
+  title: Ach Herr, mich armen Sünder
+  ids:
+    imslp: Ach Herr, mich armen Sünder, BuxWV 178 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach_Herr%2C_mich_armen_S%C3%BCnder%2C_BuxWV_178_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

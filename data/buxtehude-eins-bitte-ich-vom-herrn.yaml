@@ -1,0 +1,21 @@
+id: buxtehude-eins-bitte-ich-vom-herrn
+work:
+  composer: Buxtehude, Dietrich
+  title: Eins bitte ich vom Herrn
+  ids:
+    imslp: Eins bitte ich vom Herrn, BuxWV 24 (Buxtehude, Dietrich)
+  year: 1903
+formula: ''
+instrumentation:
+  soloists:
+  - 5 voices
+  solo_strings:
+    violin: 2
+    viola: 2
+  additional_raw: 2 recorders | violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Eins_bitte_ich_vom_Herrn%2C_BuxWV_24_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 5 voices (SSATB), 2 recorders, 2 violins, 2 violas, violone,
+    continuo'

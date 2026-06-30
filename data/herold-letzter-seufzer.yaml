@@ -1,0 +1,15 @@
+id: herold-letzter-seufzer
+work:
+  composer: Hérold, Ferdinand
+  title: Letzter Seufzer
+  ids:
+    imslp: Letzter Seufzer (Hérold, Ferdinand)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Letzter_Seufzer_%28H%C3%A9rold%2C_Ferdinand%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,16 @@
+id: raff-2-morceaux-de-salon
+work:
+  composer: Raff, Joachim
+  title: 2 Morceaux de salon
+  ids:
+    imslp: 2 Morceaux de salon, Op.81 (Raff, Joachim)
+  year: 1858
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Morceaux_de_salon%2C_Op.81_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

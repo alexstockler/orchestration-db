@@ -1,0 +1,18 @@
+id: reger-kompositionen-fur-eine-singstimme-mit-klavierbegleitung
+work:
+  composer: Reger, Max
+  title: Kompositionen für eine Singstimme mit Klavierbegleitung
+  ids:
+    imslp: Kompositionen, Op.79c (Reger, Max)
+  year: 1908
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kompositionen%2C_Op.79c_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

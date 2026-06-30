@@ -1,0 +1,14 @@
+id: meyerbeer-o-salutaris
+work:
+  composer: Meyerbeer, Giacomo
+  title: O salutaris
+  ids:
+    imslp: O salutaris (Meyerbeer, Giacomo)
+formula: ''
+instrumentation:
+  additional_raw: undetermined
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_salutaris_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: undetermined'

@@ -1,0 +1,18 @@
+id: adam-le-postillon-de-lonjumeau
+work:
+  composer: Adam, Adolphe
+  title: Le postillon de Lonjumeau
+  ids:
+    imslp: Le postillon de Lonjumeau (Adam, Adolphe)
+  year: 1836
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_postillon_de_Lonjumeau_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'
+duration_minutes: 120

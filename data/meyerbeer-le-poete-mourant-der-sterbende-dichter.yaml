@@ -1,0 +1,18 @@
+id: meyerbeer-le-poete-mourant-der-sterbende-dichter
+work:
+  composer: Meyerbeer, Giacomo
+  title: Le poète mourant / Der sterbende Dichter
+  ids:
+    imslp: Le poète mourant (Meyerbeer, Giacomo)
+  year: 1836
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_po%C3%A8te_mourant_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

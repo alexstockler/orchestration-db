@@ -1,0 +1,16 @@
+id: martucci-piano-sonata
+work:
+  composer: Martucci, Giuseppe
+  title: Piano Sonata
+  ids:
+    imslp: Piano Sonata, Op.34 (Martucci, Giuseppe)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata%2C_Op.34_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

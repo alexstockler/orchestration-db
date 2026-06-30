@@ -1,0 +1,19 @@
+id: charpentier-adoramus-te-christe
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Adoramus te Christe
+  ids:
+    imslp: Adoramus te Christe, H.276 (Charpentier, Marc-Antoine)
+  year: 1680
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - bass
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adoramus_te_Christe%2C_H.276_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos (or soprano, alto), bass, 2 recorders, continuo'
+duration_minutes: 4

@@ -1,0 +1,23 @@
+id: lully-la-grotte-de-versailles
+work:
+  composer: Lully, Jean-Baptiste
+  title: La Grotte de Versailles
+  ids:
+    imslp: La grotte de Versailles, LWV 39 (Lully, Jean-Baptiste)
+  year: 1668
+formula: ''
+instrumentation:
+  additional_raw: Rôles | Sylvandre (Ut 4) | Iris et Caliste (2 bergères, Sol 2, Ut
+    1) | Menalque (Sol 2, haute-contre) | Coridon (Ut 1, taille) | Daphnis (Sol 2).
+    - Choeur des Bergers | Ut 1 | Ut 3 | Ut 4 | Fa 4 . - Autre choeur | Sol 2 | Ut
+    3 | Ut 4 | Fa 4. - Orchestre | Sol 1 | Ut 1 | Ut 2 | Ut 3 | Fa 4. - Mention d'instrumentation
+    sous la musique | flustes | violons.
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_grotte_de_Versailles%2C_LWV_39_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: Rôles : Sylvandre (Ut 4), Iris et Caliste (2 bergères,
+    Sol 2, Ut 1), Menalque (Sol 2, haute-contre), Coridon (Ut 1, taille), Daphnis
+    (Sol 2). - Choeur des Bergers : Ut 1, Ut 3, Ut 4, Fa 4 . - Autre choeur : Sol
+    2, Ut 3, Ut 4, Fa 4. - Orchestre : Sol 1, Ut 1, Ut 2, Ut 3, Fa 4. - Mention d''instrumentation
+    sous la musique : flustes, violons.'

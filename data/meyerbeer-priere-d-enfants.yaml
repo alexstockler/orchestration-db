@@ -1,0 +1,15 @@
+id: meyerbeer-priere-d-enfants
+work:
+  composer: Meyerbeer, Giacomo
+  title: Prière d'enfants
+  ids:
+    imslp: Prière d'enfants (Meyerbeer, Giacomo)
+  year: 1839
+formula: ''
+instrumentation:
+  additional_raw: 3 unaccompanied voices (SSA)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pri%C3%A8re_d%27enfants_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 unaccompanied voices (SSA)'

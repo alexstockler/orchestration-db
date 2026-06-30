@@ -1,0 +1,17 @@
+id: charpentier-josue
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Josué
+  ids:
+    imslp: Josué, H.404 (Charpentier, Marc-Antoine)
+  year: 1682
+formula: str
+instrumentation:
+  strings: str
+  chorus_raw: 2 mixed choruses
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Josu%C3%A9%2C_H.404_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 mixed choruses (SATB/SATB), strings, continuo'

@@ -1,0 +1,32 @@
+id: gade-holbergiana
+work:
+  composer: Gade, Niels
+  title: Holbergiana
+  ids:
+    imslp: Holbergiana, Op.61 (Gade, Niels)
+  year: 1884
+formula: 2[1.2/pic] 2 2 2 4231 tmp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Holbergiana%2C_Op.61_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes (2nd also piccolo), 2 oboes, 2 clarinets, 2 bassoons,
+    4 horns, 2 trumpets, 3 trombones, tuba, timpani, triangle, strings'
+duration_minutes: 16

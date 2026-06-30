@@ -1,0 +1,18 @@
+id: adam-cantique-de-noel
+work:
+  composer: Adam, Adolphe
+  title: Cantique de Noël
+  ids:
+    imslp: Cantique de Noël (Adam, Adolphe)
+  year: 1847
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cantique_de_No%C3%ABl_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

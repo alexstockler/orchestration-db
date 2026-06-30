@@ -1,0 +1,15 @@
+id: martucci-barcarola-no-1
+work:
+  composer: Martucci, Giuseppe
+  title: Barcarola No.1
+  ids:
+    imslp: Barcarola No.1, Op.20 (Martucci, Giuseppe)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Barcarola_No.1%2C_Op.20_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

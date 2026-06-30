@@ -1,0 +1,15 @@
+id: lully-ballet-de-la-raillerie
+work:
+  composer: Lully, Jean-Baptiste
+  title: Ballet de la raillerie
+  ids:
+    imslp: Ballet de la Raillerie, LWV 11 (Lully, Jean-Baptiste)
+  year: 1659
+formula: ''
+instrumentation:
+  additional_raw: 5 parts (G1, C1, C2, C3, F4 clefs)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ballet_de_la_Raillerie%2C_LWV_11_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: 5 parts (G1, C1, C2, C3, F4 clefs)'

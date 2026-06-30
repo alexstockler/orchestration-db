@@ -1,0 +1,15 @@
+id: gade-sylphiden
+work:
+  composer: Gade, Niels
+  title: Sylphiden
+  ids:
+    imslp: Sylphiden (Gade, Niels)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sylphiden_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

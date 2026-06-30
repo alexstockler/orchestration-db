@@ -1,0 +1,15 @@
+id: reger-8-gesange
+work:
+  composer: Reger, Max
+  title: 8 Gesänge
+  ids:
+    imslp: 10 Gesänge, Op.83 (Reger, Max)
+  year: 1904
+formula: ''
+instrumentation:
+  additional_raw: male choir a capella
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/10_Ges%C3%A4nge%2C_Op.83_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: male choir a capella'

@@ -1,0 +1,17 @@
+id: ponchielli-i-promessi-sposi
+work:
+  composer: Ponchielli, Amilcare
+  title: I promessi sposi
+  ids:
+    imslp: I promessi sposi, Op.2 (Ponchielli, Amilcare)
+  year: 1856
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/I_promessi_sposi%2C_Op.2_%28Ponchielli%2C_Amilcare%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

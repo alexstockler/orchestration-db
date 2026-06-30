@@ -1,0 +1,16 @@
+id: lully-ballet-des-sept-planettes
+work:
+  composer: Lully, Jean-Baptiste
+  title: Ballet des sept Planettes
+  ids:
+    imslp: Ballet des sept Planettes (Lully, Jean-Baptiste)
+  year: 1706
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ballet_des_sept_Planettes_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, orchestra (trumpets, strings)'

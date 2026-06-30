@@ -1,0 +1,16 @@
+id: charpentier-que-louis-par-sa-vaillance
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Que Louis par sa vaillance
+  ids:
+    imslp: Que Louis par sa vaillance, H.454c (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Que_Louis_par_sa_vaillance%2C_H.454c_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

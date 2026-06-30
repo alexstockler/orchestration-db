@@ -1,0 +1,21 @@
+id: charpentier-ave-maris-stella
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Ave maris stella
+  ids:
+    imslp: Ave maris stella, H.60 (Charpentier, Marc-Antoine)
+  year: 1675
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_maris_stella%2C_H.60_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, bass, 2 violins, continuo'
+duration_minutes: 7

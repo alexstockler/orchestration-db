@@ -1,0 +1,16 @@
+id: reger-5-aquarellen-op-25
+work:
+  composer: Reger, Max
+  title: 5 Aquarellen, Op.25
+  ids:
+    imslp: 5 Aquarelles, Op.25 (Reger, Max)
+  year: 1897
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Aquarelles%2C_Op.25_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,16 @@
+id: svendsen-kantate-til-avslringen-av-wergelandmonumentet-op-25b
+work:
+  composer: Svendsen, Johan
+  title: Kantate til avsløringen av Wergelandmonumentet, Op.25b
+  ids:
+    imslp: Kantate til avsløringen av Wergelandmonumentet, Op.25b (Svendsen, Johan)
+formula: ''
+instrumentation:
+  soloists:
+  - baritone
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kantate_til_avsl%C3%B8ringen_av_Wergelandmonumentet%2C_Op.25b_%28Svendsen%2C_Johan%29
+  confidence: single_source
+  notes: 'Instrumentation: Baritone, Chorus, Orchestra'

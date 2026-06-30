@@ -1,0 +1,17 @@
+id: meyerbeer-la-mere-grand-grossmutter-und-enkelin
+work:
+  composer: Meyerbeer, Giacomo
+  title: La mère grand / Grossmutter und Enkelin
+  ids:
+    imslp: La mère grand (Meyerbeer, Giacomo)
+  year: 1830
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: Soprano and contralto voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_m%C3%A8re_grand_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Soprano and contralto voices, Piano'

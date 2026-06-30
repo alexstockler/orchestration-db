@@ -1,0 +1,14 @@
+id: charpentier-pour-le-sacre-dun-eveque
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Pour le sacre d’un évêque
+  ids:
+    imslp: Pour le sacre d’un évêque, H.518 (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  additional_raw: à 5
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pour_le_sacre_d%E2%80%99un_%C3%A9v%C3%AAque%2C_H.518_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: à 5'

@@ -1,0 +1,16 @@
+id: herold-le-muletier
+work:
+  composer: Hérold, Ferdinand
+  title: Le muletier
+  ids:
+    imslp: Le muletier (Hérold, Ferdinand)
+  year: 1823
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_muletier_%28H%C3%A9rold%2C_Ferdinand%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

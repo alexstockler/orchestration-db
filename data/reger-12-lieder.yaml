@@ -1,0 +1,18 @@
+id: reger-12-lieder
+work:
+  composer: Reger, Max
+  title: 12 Lieder
+  ids:
+    imslp: 12 Lieder, Op.66 (Reger, Max)
+  year: 1902
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Lieder%2C_Op.66_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

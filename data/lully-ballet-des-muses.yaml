@@ -1,0 +1,14 @@
+id: lully-ballet-des-muses
+work:
+  composer: Lully, Jean-Baptiste
+  title: Ballet des muses
+  ids:
+    imslp: Ballet des muses, LWV 32 (Lully, Jean-Baptiste)
+  year: 1666
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ballet_des_muses%2C_LWV_32_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

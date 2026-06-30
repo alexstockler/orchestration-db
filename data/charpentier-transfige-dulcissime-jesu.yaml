@@ -1,0 +1,16 @@
+id: charpentier-transfige-dulcissime-jesu
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Transfige dulcissime Jesu
+  ids:
+    imslp: Transfige dulcissime Jesu, H.251 (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  soloists:
+  - 5 voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Transfige_dulcissime_Jesu%2C_H.251_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 5 voices (SSATB), continuo'

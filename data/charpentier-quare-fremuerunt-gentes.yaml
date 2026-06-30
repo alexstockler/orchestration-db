@@ -1,0 +1,16 @@
+id: charpentier-quare-fremuerunt-gentes
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Quare fremuerunt gentes
+  ids:
+    imslp: Quare fremuerunt gentes, H.168 (Charpentier, Marc-Antoine)
+  year: 1677
+formula: ''
+instrumentation:
+  additional_raw: SATB/SATB solos and chorus | 2 x strings | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Quare_fremuerunt_gentes%2C_H.168_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB/SATB solos and chorus, 2 x strings, continuo'
+duration_minutes: 21

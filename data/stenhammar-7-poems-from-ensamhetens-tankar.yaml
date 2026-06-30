@@ -1,0 +1,19 @@
+id: stenhammar-7-poems-from-ensamhetens-tankar
+work:
+  composer: Stenhammar, Wilhelm
+  title: 7 Poems from Ensamhetens tankar
+  ids:
+    imslp: 7 Poems from Ensamhetens tankar, Op.7 (Stenhammar, Wilhelm)
+  year: 1893
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Poems_from_Ensamhetens_tankar%2C_Op.7_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'
+duration_minutes: 11

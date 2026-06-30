@@ -1,0 +1,17 @@
+id: gade-udrust-dig-helt-fra-golgatha
+work:
+  composer: Gade, Niels
+  title: Udrust dig, helt fra Golgatha
+  ids:
+    imslp: Udrust dig, helt fra Golgatha (Gade, Niels)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Udrust_dig%2C_helt_fra_Golgatha_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

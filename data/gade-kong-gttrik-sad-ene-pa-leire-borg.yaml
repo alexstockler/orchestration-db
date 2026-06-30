@@ -1,0 +1,17 @@
+id: gade-kong-gttrik-sad-ene-pa-leire-borg
+work:
+  composer: Gade, Niels
+  title: Kong Gøttrik sad ene på Leire Borg
+  ids:
+    imslp: Kong Gøttrik sad ene på Leire Borg (Gade, Niels)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kong_G%C3%B8ttrik_sad_ene_p%C3%A5_Leire_Borg_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

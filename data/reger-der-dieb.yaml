@@ -1,0 +1,17 @@
+id: reger-der-dieb
+work:
+  composer: Reger, Max
+  title: Der Dieb
+  ids:
+    imslp: Der Dieb, WoO VII/38 (Reger, Max)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Dieb%2C_WoO_VII/38_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,16 @@
+id: reger-scherzino-for-horn-and-strings
+work:
+  composer: Reger, Max
+  title: Scherzino for Horn and Strings
+  ids:
+    imslp: Scherzino, WoO I/6 (Reger, Max)
+  year: 1899
+formula: 0000 1000 str
+instrumentation:
+  horn: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scherzino%2C_WoO_I/6_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: horn, strings'

@@ -1,0 +1,17 @@
+id: reger-introduction-passacaglia-and-fugue
+work:
+  composer: Reger, Max
+  title: Introduction, Passacaglia and Fugue
+  ids:
+    imslp: Introduction, Passacaglia und Fuge, Op.96 (Reger, Max)
+  year: 1906
+formula: pf pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Introduction%2C_Passacaglia_und_Fuge%2C_Op.96_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Pianos'

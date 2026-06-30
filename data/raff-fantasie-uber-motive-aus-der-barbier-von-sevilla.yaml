@@ -1,0 +1,16 @@
+id: raff-fantasie-uber-motive-aus-der-barbier-von-sevilla
+work:
+  composer: Raff, Joachim
+  title: Fantasie über Motive aus 'Der Barbier von Sevilla'
+  ids:
+    imslp: Fantasie über Motive aus 'Der Barbier von Sevilla', Op.44 (Raff, Joachim)
+  year: 1848
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasie_%C3%BCber_Motive_aus_%27Der_Barbier_von_Sevilla%27%2C_Op.44_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

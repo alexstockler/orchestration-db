@@ -1,0 +1,14 @@
+id: pergolesi-dixit-dominus-a-5
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Dixit Dominus a 5
+  ids:
+    imslp: Dixit Dominus in D major (Pergolesi, Giovanni Battista)
+formula: ''
+instrumentation:
+  additional_raw: unknown (see below, Comments)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dixit_Dominus_in_D_major_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: unknown (see below, Comments)'

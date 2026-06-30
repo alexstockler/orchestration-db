@@ -1,0 +1,17 @@
+id: reger-in-verschwiegener-nacht
+work:
+  composer: Reger, Max
+  title: In verschwiegener Nacht
+  ids:
+    imslp: In verschwiegener Nacht, WoO VII/20 (Reger, Max)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_verschwiegener_Nacht%2C_WoO_VII/20_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

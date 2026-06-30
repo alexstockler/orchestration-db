@@ -1,0 +1,25 @@
+id: raff-2-gesange-fur-gemischten-chor
+work:
+  composer: Raff, Joachim
+  title: 2 Gesänge für gemischten Chor
+  ids:
+    imslp: 2 Gesänge für gemischten Chor, Op.171 (Raff, Joachim)
+  year: 1871
+formula: 2222 2000 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Ges%C3%A4nge_f%C3%BCr_gemischten_Chor%2C_Op.171_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: mixed chorus (SATB), Orchestra: 2 flutes, 2 oboes,
+    2 clarinets (B/A), 2 bassoons, 2 horns (F/D), timpani, strings'

@@ -1,0 +1,14 @@
+id: adam-la-fille-du-danube
+work:
+  composer: Adam, Adolphe
+  title: La fille du Danube
+  ids:
+    imslp: La fille du Danube (Adam, Adolphe)
+  year: 1836
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_fille_du_Danube_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra'

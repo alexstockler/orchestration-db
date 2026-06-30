@@ -1,0 +1,16 @@
+id: raff-suite-de-morceaux
+work:
+  composer: Raff, Joachim
+  title: Suite de Morceaux
+  ids:
+    imslp: Suite de morceaux pour les petites mains, Op.75 (Raff, Joachim)
+  year: 1858
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_de_morceaux_pour_les_petites_mains%2C_Op.75_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

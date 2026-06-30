@@ -1,0 +1,19 @@
+id: charpentier-pour-la-conception-de-la-vierge
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Pour la conception de la Vierge
+  ids:
+    imslp: Pour la conception de la vierge, H.313 (Charpentier, Marc-Antoine)
+  year: 1671
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pour_la_conception_de_la_vierge%2C_H.313_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, continuo'
+duration_minutes: 3

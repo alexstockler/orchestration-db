@@ -1,0 +1,15 @@
+id: gade-novelletten-in-f-major
+work:
+  composer: Gade, Niels
+  title: Novelletten in F major
+  ids:
+    imslp: Novelletten, Op.53 (Gade, Niels)
+  year: 1874
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Novelletten%2C_Op.53_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'

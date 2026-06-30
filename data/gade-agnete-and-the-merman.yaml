@@ -1,0 +1,17 @@
+id: gade-agnete-and-the-merman
+work:
+  composer: Gade, Niels
+  title: Agnete and the Merman
+  ids:
+    imslp: Agnete and the Merman, Op.3 (Gade, Niels)
+  year: 1842
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Agnete_and_the_Merman%2C_Op.3_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, chorus, orchestra'

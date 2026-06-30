@@ -1,0 +1,31 @@
+id: bruch-hymne-op-64
+work:
+  composer: Bruch, Max
+  title: Hymne, Op.64
+  ids:
+    imslp: Hymne, Op.64 (Bruch, Max)
+  year: 1893
+formula: 2222 4231 tmp org str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  keyboards:
+  - instrument: organ
+  strings: str
+  soloists:
+  - mixed chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymne%2C_Op.64_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: mixed chorus (SATB), Orchestra: 2 flutes, 2 oboes,
+    2 clarinets, 2 bassoons + 4 horns, 2 trumpets, 3 trombones, tuba + timpani + organ
+    (ad lib.) + strings'

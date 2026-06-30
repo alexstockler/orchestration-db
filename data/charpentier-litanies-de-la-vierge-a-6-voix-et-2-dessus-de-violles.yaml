@@ -1,0 +1,19 @@
+id: charpentier-litanies-de-la-vierge-a-6-voix-et-2-dessus-de-violles
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Litanies de la Vierge à 6 voix et 2 dessus de violles
+  ids:
+    imslp: Litanies de la Vierge, H.83 (Charpentier, Marc-Antoine)
+  year: 1684
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  additional_raw: 'Haut-Dessus | Dessus | Bas-Dessus | Haute-Contre | Basse | Instruments:
+    2 viols | continuo'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Litanies_de_la_Vierge%2C_H.83_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: Haut-Dessus, Dessus, Bas-Dessus, Haute-Contre,
+    Tenor, Basse, Instruments: 2 viols, continuo'

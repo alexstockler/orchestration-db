@@ -1,0 +1,24 @@
+id: lully-quare-fremuerunt-grand-motet
+work:
+  composer: Lully, Jean-Baptiste
+  title: Quare Fremuerunt, Grand Motet
+  ids:
+    imslp: Quare Fremuerunt, LWV 67 (Lully, Jean-Baptiste)
+formula: tmp
+instrumentation:
+  percussion:
+    timpani: 1
+  additional_raw: 'dessus (solo) | bas-dessus (solo) | haute-contre (solo) | taille
+    (solo) | basse-taille (solo) | choeur mixte (5 voix) | Orchestre français XVIIe-XVIIIe:
+    Solists | Sol 2 (2) | Ut 1 | Ut 3 | Ut 4 | Fa 3 | Fa 4. - Grand choeur | Sol 2
+    | Ut 3 | Ut 4 | Fa 3 | Fa 4. - Orchestre | Sol 1 (2) | Ut 1 | Ut 2 | Ut 3 | Fa
+    4 ou Ut 3 | tr 2'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Quare_Fremuerunt%2C_LWV_67_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: dessus (solo), bas-dessus (solo), haute-contre
+    (solo), taille (solo), basse-taille (solo), choeur mixte (5 voix), Orchestre français
+    XVIIe-XVIIIe: Solists : Sol 2 (2), Ut 1, Ut 3, Ut 4, Fa 3, Fa 4. - Grand choeur
+    : Sol 2, Ut 3, Ut 4, Fa 3, Fa 4. - Orchestre : Sol 1 (2), Ut 1, Ut 2, Ut 3, Fa
+    4 ou Ut 3, tr 2, timp'

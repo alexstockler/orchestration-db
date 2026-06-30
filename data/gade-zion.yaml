@@ -1,0 +1,16 @@
+id: gade-zion
+work:
+  composer: Gade, Niels
+  title: Zion
+  ids:
+    imslp: Zion, Op.49 (Gade, Niels)
+  year: 1874
+formula: ''
+instrumentation:
+  chorus_raw: choir
+  additional_raw: Baritone Solo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Zion%2C_Op.49_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: Baritone Solo, Choir, Orchestra'

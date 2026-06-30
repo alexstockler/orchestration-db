@@ -1,0 +1,17 @@
+id: raff-4-piano-pieces
+work:
+  composer: Raff, Joachim
+  title: 4 Piano Pieces
+  ids:
+    imslp: 4 Piano Pieces, Op.196 (Raff, Joachim)
+  year: 1875
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Piano_Pieces%2C_Op.196_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 20

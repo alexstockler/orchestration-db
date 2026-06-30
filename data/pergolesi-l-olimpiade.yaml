@@ -1,0 +1,20 @@
+id: pergolesi-l-olimpiade
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: L'Olimpiade
+  ids:
+    imslp: L'Olimpiade, P.145 (Pergolesi, Giovanni Battista)
+  year: 1734
+formula: 0200 2200 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  trumpet: 2
+  strings: str
+  additional_raw: basso continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27Olimpiade%2C_P.145_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: 7 voices, orchestra: 2 trumpets, 2 horns, 2 oboes, strings,
+    basso continuo'

@@ -1,0 +1,18 @@
+id: bellini-la-tomba-di-fille
+work:
+  composer: Bellini, Vincenzo
+  title: La Tomba di Fille
+  ids:
+    imslp: La Tomba di Fille (Bellini, Vincenzo)
+  year: 1834
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_Tomba_di_Fille_%28Bellini%2C_Vincenzo%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

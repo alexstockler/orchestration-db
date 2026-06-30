@@ -1,0 +1,15 @@
+id: reger-8-marienlieder
+work:
+  composer: Reger, Max
+  title: 8 Marienlieder
+  ids:
+    imslp: 8 Marienlieder, Op.61d (Reger, Max)
+  year: 1902
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Marienlieder%2C_Op.61d_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

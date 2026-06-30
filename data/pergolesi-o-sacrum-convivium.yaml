@@ -1,0 +1,15 @@
+id: pergolesi-o-sacrum-convivium
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: O sacrum convivium
+  ids:
+    imslp: O sacrum convivium (Pergolesi, Giovanni Battista)
+formula: ''
+instrumentation:
+  additional_raw: 4 voices (or mixed chorus (SATB))
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/O_sacrum_convivium_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (or mixed chorus (SATB))'
+duration_minutes: 4

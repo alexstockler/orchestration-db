@@ -1,0 +1,17 @@
+id: pergolesi-miserere-in-c-minor
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Miserere in C minor
+  ids:
+    imslp: Miserere in C minor, P.71 (Pergolesi, Giovanni Battista)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - 4 voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Miserere_in_C_minor%2C_P.71_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices (SATB), strings, continuo'

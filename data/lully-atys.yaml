@@ -1,0 +1,17 @@
+id: lully-atys
+work:
+  composer: Lully, Jean-Baptiste
+  title: Atys
+  ids:
+    imslp: Atys, LWV 53 (Lully, Jean-Baptiste)
+  year: 1676
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Atys%2C_LWV_53_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

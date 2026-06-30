@@ -1,0 +1,17 @@
+id: charpentier-magdalena-lugens
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Magdalena Lugens
+  ids:
+    imslp: Magdalena lugens, H.343 (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: 2 treble string instruments | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Magdalena_lugens%2C_H.343_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: voice (G2 clef), 2 treble string instruments, continuo'
+duration_minutes: 9

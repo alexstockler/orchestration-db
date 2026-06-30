@@ -1,0 +1,16 @@
+id: adam-le-roi-des-halles
+work:
+  composer: Adam, Adolphe
+  title: Le roi des halles
+  ids:
+    imslp: Le roi des halles (Adam, Adolphe)
+  year: 1853
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_roi_des_halles_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

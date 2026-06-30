@@ -1,0 +1,15 @@
+id: herold-3-caprices
+work:
+  composer: Hérold, Ferdinand
+  title: 3 Caprices
+  ids:
+    imslp: 3 Caprices, Op.4 (Hérold, Ferdinand)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Caprices%2C_Op.4_%28H%C3%A9rold%2C_Ferdinand%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

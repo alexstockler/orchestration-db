@@ -1,0 +1,16 @@
+id: buxtehude-canzona-in-c-major
+work:
+  composer: Buxtehude, Dietrich
+  title: Canzona in C major
+  ids:
+    imslp: Canzona in C major, BuxWV 166 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canzona_in_C_major%2C_BuxWV_166_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

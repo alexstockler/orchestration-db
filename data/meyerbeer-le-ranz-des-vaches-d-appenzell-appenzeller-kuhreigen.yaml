@@ -1,0 +1,17 @@
+id: meyerbeer-le-ranz-des-vaches-d-appenzell-appenzeller-kuhreigen
+work:
+  composer: Meyerbeer, Giacomo
+  title: Le ranz-des-vâches d'Appenzell / Appenzeller Kuhreigen
+  ids:
+    imslp: Le ranz-des-vâches d'Appenzell (Meyerbeer, Giacomo)
+  year: 1828
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: 2 Soprano voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_ranz-des-v%C3%A2ches_d%27Appenzell_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 Soprano voices, Piano'

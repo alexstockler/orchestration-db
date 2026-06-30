@@ -1,0 +1,16 @@
+id: raff-2-paraphrases-on-lieder-by-liszt
+work:
+  composer: Raff, Joachim
+  title: 2 Paraphrases on Lieder by Liszt
+  ids:
+    imslp: 2 Paraphrases on Lieder by Liszt, Op.18 (Raff, Joachim)
+  year: 1846
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Paraphrases_on_Lieder_by_Liszt%2C_Op.18_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

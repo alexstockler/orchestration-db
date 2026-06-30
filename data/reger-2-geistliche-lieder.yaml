@@ -1,0 +1,18 @@
+id: reger-2-geistliche-lieder
+work:
+  composer: Reger, Max
+  title: 2 Geistliche Lieder
+  ids:
+    imslp: 2 Geistliche Lieder, WoO VII/30 (Reger, Max)
+  year: 1900
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Geistliche_Lieder%2C_WoO_VII/30_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, organ'

@@ -1,0 +1,18 @@
+id: buxtehude-canite-jesu-nostro
+work:
+  composer: Buxtehude, Dietrich
+  title: Canite Jesu nostro
+  ids:
+    imslp: Canite Jesu nostro, BuxWV 11 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+  solo_strings:
+    violin: 2
+  additional_raw: violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canite_Jesu_nostro%2C_BuxWV_11_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices (SSB), 2 violins, violone, continuo'

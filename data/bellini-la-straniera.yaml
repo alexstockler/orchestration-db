@@ -1,0 +1,62 @@
+id: bellini-la-straniera
+work:
+  composer: Bellini, Vincenzo
+  title: La straniera
+  ids:
+    imslp: La straniera (Bellini, Vincenzo)
+  year: 1829
+formula: 2242 8 2 3 1[cimb] tmp hp serpent str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 4
+  bassoon: 2
+  horn: 8
+  trumpet: 2
+  trombone: 3
+  tuba:
+  - instrument: cimbasso
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - cymbals
+    - bass drum
+    - bell
+  harp: 1
+  extras:
+  - instrument: serpent
+  strings: str
+  soloists:
+  - Alaide
+  - the stranger (soprano)
+  - Arturo
+  - Count of Ravenstel (tenor)
+  - Valdeburgo
+  - Baron
+  - secret brother of Alaide (baritone)
+  - Isoletta
+  - fiancée of Arturo (mezzo-soprano)
+  - Osburgo
+  - confidant of Arturo (tenor)
+  - Il signore di Montolino
+  - father of Isoletta (bass)
+  - Il Priore degli Spedalieri (bass) Chorus :Dame e Cavalieri
+  - Gondolieri e Pescatrici
+  - Spedalieri
+  - Cacciatori
+  - Guardie
+  - Vassalli di Montolino
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_straniera_%28Bellini%2C_Vincenzo%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Alaide, the stranger (soprano), Arturo, Count of
+    Ravenstel (tenor), Valdeburgo, Baron, secret brother of Alaide (baritone), Isoletta,
+    fiancée of Arturo (mezzo-soprano), Osburgo, confidant of Arturo (tenor), Il signore
+    di Montolino, father of Isoletta (bass), Il Priore degli Spedalieri (bass) Chorus
+    :Dame e Cavalieri, Gondolieri e Pescatrici, Spedalieri, Cacciatori, Guardie, Vassalli
+    di Montolino Orchestra :2 flutes (both also piccolo), 2 oboes, 2 clarinets, 2
+    bassoons, 4 horns, 2 trumpets, 3 trombones, cimbasso (or tuba), timpani, triangle,
+    cymbals, bass drum, bell, strings '' :2 clarinets, 4 (or 8) horns, serpent (or
+    tuba), harp'

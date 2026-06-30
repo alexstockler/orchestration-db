@@ -1,0 +1,16 @@
+id: reger-tarantella-for-clarinet-and-piano-woo-ii-12
+work:
+  composer: Reger, Max
+  title: Tarantella for Clarinet and Piano, WoO II/12
+  ids:
+    imslp: Tarantella, WoO II/12 (Reger, Max)
+formula: 0010 0000 pf
+instrumentation:
+  clarinet: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tarantella%2C_WoO_II/12_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet, piano'

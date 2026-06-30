@@ -1,0 +1,15 @@
+id: buxtehude-aria-in-d-minor-rofilis
+work:
+  composer: Buxtehude, Dietrich
+  title: Aria in D minor 'Rofilis'
+  ids:
+    imslp: Aria in D minor 'Rofilis', BuxWV 248 (Buxtehude, Dietrich)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aria_in_D_minor_%27Rofilis%27%2C_BuxWV_248_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

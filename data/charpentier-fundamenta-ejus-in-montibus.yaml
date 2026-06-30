@@ -1,0 +1,19 @@
+id: charpentier-fundamenta-ejus-in-montibus
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Fundamenta ejus in montibus
+  ids:
+    imslp: Fundamenta ejus in montibus, H.187 (Charpentier, Marc-Antoine)
+  year: 1683
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fundamenta_ejus_in_montibus%2C_H.187_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, bass, continuo'
+duration_minutes: 4

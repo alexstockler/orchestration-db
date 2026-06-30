@@ -1,0 +1,13 @@
+id: lully-le-sicilien-ballet
+work:
+  composer: Lully, Jean-Baptiste
+  title: Le Sicilien, Ballet
+  ids:
+    imslp: Le Sicilien, LWV 34 (Lully, Jean-Baptiste)
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_Sicilien%2C_LWV_34_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

@@ -1,0 +1,15 @@
+id: adam-la-reine-d-un-jour
+work:
+  composer: Adam, Adolphe
+  title: La reine d'un jour
+  ids:
+    imslp: La reine d'un jour (Adam, Adolphe)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_reine_d%27un_jour_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

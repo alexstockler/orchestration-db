@@ -1,0 +1,26 @@
+id: reger-variationen-und-fuge-uber-ein-thema-von-w-a-mozart
+work:
+  composer: Reger, Max
+  title: Variationen und Fuge über ein Thema von W. A. Mozart
+  ids:
+    imslp: Variations and Fugue on a Theme by Mozart, Op.132 (Reger, Max)
+  year: 1914
+formula: 3222 4200 tmp hp str
+instrumentation:
+  flute: 3
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  percussion:
+    timpani: 1
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variations_and_Fugue_on_a_Theme_by_Mozart%2C_Op.132_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: :3 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2
+    trumpets, timpani, harp, strings'
+duration_minutes: 30

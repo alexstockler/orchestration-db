@@ -1,0 +1,16 @@
+id: suppe-zehn-madchen-und-kein-mann
+work:
+  composer: Suppé, Franz von
+  title: Zehn Mädchen und kein Mann
+  ids:
+    imslp: Zehn Mädchen und kein Mann (Suppé, Franz von)
+  year: 1865
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Zehn_M%C3%A4dchen_und_kein_Mann_%28Supp%C3%A9%2C_Franz_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

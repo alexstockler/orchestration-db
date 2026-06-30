@@ -1,0 +1,25 @@
+id: raff-suite
+work:
+  composer: Raff, Joachim
+  title: Suite
+  ids:
+    imslp: Suite, Op.180 (Raff, Joachim)
+  year: 1873
+formula: 1111 1100 tmp str
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 1
+  trumpet: 1
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite%2C_Op.180_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Flutes, oboes, clarinets, bassoons, horns, trumpets, timpani,
+    strings'
+duration_minutes: 30

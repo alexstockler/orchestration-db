@@ -1,0 +1,17 @@
+id: gade-kjb-herre-frugter-liflig-i-smag-og-skjr
+work:
+  composer: Gade, Niels
+  title: Kjøb, herre, frugter, liflig i smag og skjær
+  ids:
+    imslp: Kjøb, herre, frugter, liflig i smag og skjær (Gade, Niels)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kj%C3%B8b%2C_herre%2C_frugter%2C_liflig_i_smag_og_skj%C3%A6r_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

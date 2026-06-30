@@ -1,0 +1,16 @@
+id: pergolesi-salustia
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Salustia
+  ids:
+    imslp: Salustia (Pergolesi, Giovanni Battista)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Salustia_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices, chorus, orchestra'

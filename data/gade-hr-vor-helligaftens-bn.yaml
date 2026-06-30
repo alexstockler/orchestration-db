@@ -1,0 +1,17 @@
+id: gade-hr-vor-helligaftens-bn
+work:
+  composer: Gade, Niels
+  title: Hør vor Helligaftens-Bøn!
+  ids:
+    imslp: Hør vor Helligaftens-Bøn! (Gade, Niels)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/H%C3%B8r_vor_Helligaftens-B%C3%B8n%21_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

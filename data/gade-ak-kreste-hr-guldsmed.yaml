@@ -1,0 +1,17 @@
+id: gade-ak-kreste-hr-guldsmed
+work:
+  composer: Gade, Niels
+  title: Ak, kæreste Hr. Guldsmed
+  ids:
+    imslp: Ak, kæreste Hr. Guldsmed (Gade, Niels)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ak%2C_k%C3%A6reste_Hr._Guldsmed_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

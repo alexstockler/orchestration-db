@@ -1,0 +1,15 @@
+id: ponchielli-marcia-l-arrivo-del-re-op-164
+work:
+  composer: Ponchielli, Amilcare
+  title: Marcia - L'arrivo del Re, Op.164
+  ids:
+    imslp: L'arrivo del Re, Op.164 (Ponchielli, Amilcare)
+  year: 1860
+formula: ''
+instrumentation:
+  additional_raw: Wind band
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27arrivo_del_Re%2C_Op.164_%28Ponchielli%2C_Amilcare%29
+  confidence: single_source
+  notes: 'Instrumentation: Wind band'

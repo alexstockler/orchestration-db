@@ -1,0 +1,16 @@
+id: reger-4-sonatines
+work:
+  composer: Reger, Max
+  title: 4 Sonatines
+  ids:
+    imslp: 4 Piano Sonatinas, Op.89 (Reger, Max)
+  year: 1905
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Piano_Sonatinas%2C_Op.89_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,16 @@
+id: gade-4-fantasiestykker
+work:
+  composer: Gade, Niels
+  title: 4 Fantasiestykker
+  ids:
+    imslp: 4 Fantasiestykker, Op.41 (Gade, Niels)
+  year: 1861
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Fantasiestykker%2C_Op.41_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

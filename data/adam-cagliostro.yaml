@@ -1,0 +1,17 @@
+id: adam-cagliostro
+work:
+  composer: Adam, Adolphe
+  title: Cagliostro
+  ids:
+    imslp: Cagliostro (Adam, Adolphe)
+  year: 1844
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Cagliostro_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

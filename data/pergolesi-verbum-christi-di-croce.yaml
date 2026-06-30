@@ -1,0 +1,18 @@
+id: pergolesi-verbum-christi-di-croce
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Verbum Christi di croce
+  ids:
+    imslp: Verbum Christi di croce (Pergolesi, Giovanni Battista)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  solo_strings:
+    viola: 1
+  additional_raw: violini | corni in B | clarino e basso continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Verbum_Christi_di_croce_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, violini, viola, corni in B, clarino e basso continuo'

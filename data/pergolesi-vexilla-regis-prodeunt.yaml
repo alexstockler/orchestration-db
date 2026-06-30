@@ -1,0 +1,15 @@
+id: pergolesi-vexilla-regis-prodeunt
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Vexilla Regis prodeunt
+  ids:
+    imslp: Vexilla Regis prodeunt (Pergolesi, Giovanni Battista)
+formula: ''
+instrumentation:
+  additional_raw: unknown for the original (see below, Comments)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vexilla_Regis_prodeunt_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: unknown for the original (see below, Comments)'
+duration_minutes: 3

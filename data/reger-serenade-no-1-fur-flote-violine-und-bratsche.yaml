@@ -1,0 +1,19 @@
+id: reger-serenade-no-1-fur-flote-violine-und-bratsche
+work:
+  composer: Reger, Max
+  title: Serenade (No.1) für Flöte, Violine und Bratsche
+  ids:
+    imslp: Serenade, Op.77a (Reger, Max)
+  year: 1904
+formula: 1000 0000
+instrumentation:
+  flute: 1
+  solo_strings:
+    violin: 1
+    viola: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Serenade%2C_Op.77a_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, violin, viola'
+duration_minutes: 20

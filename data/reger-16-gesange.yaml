@@ -1,0 +1,18 @@
+id: reger-16-gesange
+work:
+  composer: Reger, Max
+  title: 16 Gesänge
+  ids:
+    imslp: 16 Gesänge, Op.62 (Reger, Max)
+  year: 1902
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/16_Ges%C3%A4nge%2C_Op.62_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

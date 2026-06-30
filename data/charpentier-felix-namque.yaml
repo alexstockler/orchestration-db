@@ -1,0 +1,19 @@
+id: charpentier-felix-namque
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Felix namque
+  ids:
+    imslp: Felix namque, H.360 (Charpentier, Marc-Antoine)
+  year: 1691
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Felix_namque%2C_H.360_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, bass, continuo'
+duration_minutes: 2

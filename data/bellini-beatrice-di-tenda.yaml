@@ -1,0 +1,17 @@
+id: bellini-beatrice-di-tenda
+work:
+  composer: Bellini, Vincenzo
+  title: Beatrice di Tenda
+  ids:
+    imslp: Beatrice di Tenda (Bellini, Vincenzo)
+  year: 1833
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Beatrice_di_Tenda_%28Bellini%2C_Vincenzo%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

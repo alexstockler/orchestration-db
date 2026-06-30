@@ -1,0 +1,19 @@
+id: charpentier-jesu-corona-virginum
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Jesu corona virginum
+  ids:
+    imslp: Jesu corona virginum, H.53 (Charpentier, Marc-Antoine)
+  year: 1670
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  additional_raw: recorder | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Jesu_corona_virginum%2C_H.53_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, recorder, continuo'
+duration_minutes: 4

@@ -1,0 +1,17 @@
+id: meyerbeer-la-dame-invisible-die-unsichtbare-schone
+work:
+  composer: Meyerbeer, Giacomo
+  title: La dame invisible / Die unsichtbare Schöne
+  ids:
+    imslp: La dame invisible (Meyerbeer, Giacomo)
+  year: 1845
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  additional_raw: Mezzo-soprano voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_dame_invisible_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Mezzo-soprano voice, Piano'

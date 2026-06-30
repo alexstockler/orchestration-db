@@ -1,0 +1,15 @@
+id: ponchielli-marcia-funebre-per-i-funerali-di-manzoni
+work:
+  composer: Ponchielli, Amilcare
+  title: Marcia funebre per I funerali di Manzoni
+  ids:
+    imslp: Marcia funebre per I funerali di Manzoni, Op.157 (Ponchielli, Amilcare)
+  year: 1873
+formula: ''
+instrumentation:
+  additional_raw: wind band
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marcia_funebre_per_I_funerali_di_Manzoni%2C_Op.157_%28Ponchielli%2C_Amilcare%29
+  confidence: single_source
+  notes: 'Instrumentation: wind band'

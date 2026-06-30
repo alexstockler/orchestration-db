@@ -1,0 +1,16 @@
+id: reger-zwei-choral-phantasien-fur-orgel
+work:
+  composer: Reger, Max
+  title: Zwei Choral-Phantasien für Orgel
+  ids:
+    imslp: 2 Choralfantasien, Op.40 (Reger, Max)
+  year: 1899
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Choralfantasien%2C_Op.40_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

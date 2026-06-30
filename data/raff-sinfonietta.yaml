@@ -1,0 +1,19 @@
+id: raff-sinfonietta
+work:
+  composer: Raff, Joachim
+  title: Sinfonietta
+  ids:
+    imslp: Sinfonietta, Op.188 (Raff, Joachim)
+  year: 1873
+formula: 2222 2000
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sinfonietta%2C_Op.188_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns'

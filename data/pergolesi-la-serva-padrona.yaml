@@ -1,0 +1,16 @@
+id: pergolesi-la-serva-padrona
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: La serva padrona
+  ids:
+    imslp: La serva padrona (Pergolesi, Giovanni Battista)
+  year: 1733
+formula: ''
+instrumentation:
+  soloists:
+  - 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_serva_padrona_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, orchestra'

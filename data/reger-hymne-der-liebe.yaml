@@ -1,0 +1,15 @@
+id: reger-hymne-der-liebe
+work:
+  composer: Reger, Max
+  title: Hymne der Liebe
+  ids:
+    imslp: Hymne der Liebe, Op.136 (Reger, Max)
+  year: 1914
+formula: ''
+instrumentation:
+  additional_raw: Baritone (or Alto) solo and Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hymne_der_Liebe%2C_Op.136_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Baritone (or Alto) solo and Orchestra'

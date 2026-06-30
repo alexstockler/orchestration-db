@@ -1,0 +1,16 @@
+id: reger-phantasie-fur-orgel-uber-den-choral-freu-dich-sehr-o-meine-seele-op-30
+work:
+  composer: Reger, Max
+  title: Phantasie für Orgel über den Choral 'Freu dich sehr, o meine Seele', Op.30
+  ids:
+    imslp: Choralfantasie über "Freu dich sehr, o meine Seele", Op.30 (Reger, Max)
+  year: 1898
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Choralfantasie_%C3%BCber_%22Freu_dich_sehr%2C_o_meine_Seele%22%2C_Op.30_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

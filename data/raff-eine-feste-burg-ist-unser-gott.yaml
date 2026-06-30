@@ -1,0 +1,28 @@
+id: raff-eine-feste-burg-ist-unser-gott
+work:
+  composer: Raff, Joachim
+  title: Eine feste Burg ist unser Gott
+  ids:
+    imslp: Ein feste Burg ist unser Gott, Op.127 (Raff, Joachim)
+  year: 1865
+formula: 3[pic.2.3] 2 2 2 4230 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ein_feste_Burg_ist_unser_Gott%2C_Op.127_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: piccolo, 2 flutes, 2 oboes, 2 clarinets (A),
+    2 bassoons + 4 horns (F), 2 trumpets (F), 3 trombones + timpani + strings'

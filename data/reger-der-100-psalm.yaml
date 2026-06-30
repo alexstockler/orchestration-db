@@ -1,0 +1,35 @@
+id: reger-der-100-psalm
+work:
+  composer: Reger, Max
+  title: Der 100. Psalm
+  ids:
+    imslp: Psalm 100, Op.106 (Reger, Max)
+  year: 1908
+formula: 2222 4231 tmp org str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - bass drum
+    - cymbals
+  keyboards:
+  - instrument: organ
+  strings: str
+  soloists:
+  - Mixed Chorus (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Psalm_100%2C_Op.106_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: chorus, orchestra :Mixed Chorus (SATB), Orchestra ::2 flutes,
+    2 oboes, 2 clarinets (A), 2 bassoons, 4 horns (F), 2 trumpets (C), 3 trombones,
+    tuba, timpani, bass drum, cymbals, organ, strings'
+duration_minutes: 2835

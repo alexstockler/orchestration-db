@@ -1,0 +1,17 @@
+id: gade-4-phantasiestucke
+work:
+  composer: Gade, Niels
+  title: 4 Phantasiestücke
+  ids:
+    imslp: 4 Phantasiestücke, Op.31 (Gade, Niels)
+  year: 1855
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Phantasiest%C3%BCcke%2C_Op.31_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 10

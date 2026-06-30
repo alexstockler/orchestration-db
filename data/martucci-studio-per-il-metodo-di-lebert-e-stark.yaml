@@ -1,0 +1,16 @@
+id: martucci-studio-per-il-metodo-di-lebert-e-stark
+work:
+  composer: Martucci, Giuseppe
+  title: Studio per il metodo di Lebert e Stark
+  ids:
+    imslp: Studio per il metodo di Lebert e Stark, Op.47 (Martucci, Giuseppe)
+  year: 1879
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Studio_per_il_metodo_di_Lebert_e_Stark%2C_Op.47_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

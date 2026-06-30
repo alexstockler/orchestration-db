@@ -1,0 +1,16 @@
+id: raff-suite-no-6-for-piano
+work:
+  composer: Raff, Joachim
+  title: Suite No. 6 for Piano
+  ids:
+    imslp: Suite No.6 for Piano, Op.163 (Raff, Joachim)
+  year: 1871
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_No.6_for_Piano%2C_Op.163_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

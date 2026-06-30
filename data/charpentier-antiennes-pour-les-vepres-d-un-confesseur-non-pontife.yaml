@@ -1,0 +1,21 @@
+id: charpentier-antiennes-pour-les-vepres-d-un-confesseur-non-pontife
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Antiennes pour les Vêpres d'un Confesseur non pontife
+  ids:
+    imslp: Antiennes pour les Vêpres d'un Confesseur non pontife, H.33-35 (Charpentier,
+      Marc-Antoine)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - 3 voices
+  - 2 voices
+  - 2 voices
+  additional_raw: continuo (H.33) | continuo (H.34) | continuo (H.35)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Antiennes_pour_les_V%C3%AApres_d%27un_Confesseur_non_pontife%2C_H.33-35_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices, continuo (H.33), 2 voices, strings (no violas),
+    continuo (H.34), 2 voices, continuo (H.35)'

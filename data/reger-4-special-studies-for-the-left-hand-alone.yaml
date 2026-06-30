@@ -1,0 +1,16 @@
+id: reger-4-special-studies-for-the-left-hand-alone
+work:
+  composer: Reger, Max
+  title: 4 Special Studies for the Left Hand Alone
+  ids:
+    imslp: 4 Spezialstudien, WoO III/13 (Reger, Max)
+  year: 1901
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Spezialstudien%2C_WoO_III/13_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

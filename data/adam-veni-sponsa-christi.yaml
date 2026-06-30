@@ -1,0 +1,18 @@
+id: adam-veni-sponsa-christi
+work:
+  composer: Adam, Adolphe
+  title: Veni, sponsa Christi
+  ids:
+    imslp: Veni, sponsa Christi (Adam, Adolphe)
+  year: 1850
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Veni%2C_sponsa_Christi_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices (contralto and baritone), organ'

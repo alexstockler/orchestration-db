@@ -1,0 +1,16 @@
+id: reger-8-episodes-op-115
+work:
+  composer: Reger, Max
+  title: 8 Episodes, Op.115
+  ids:
+    imslp: 8 Episodes, Op.115 (Reger, Max)
+  year: 1910
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Episodes%2C_Op.115_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: 1 piano'

@@ -1,0 +1,14 @@
+id: reger-12-chore-aus-dem-volksliederbuch
+work:
+  composer: Reger, Max
+  title: 12 Chöre aus dem Volksliederbuch
+  ids:
+    imslp: 12 Chöre aus dem Volksliederbuch, WoO VI/26 (Reger, Max)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Ch%C3%B6re_aus_dem_Volksliederbuch%2C_WoO_VI/26_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

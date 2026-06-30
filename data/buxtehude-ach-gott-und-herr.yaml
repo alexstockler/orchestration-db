@@ -1,0 +1,16 @@
+id: buxtehude-ach-gott-und-herr
+work:
+  composer: Buxtehude, Dietrich
+  title: Ach Gott und Herr
+  ids:
+    imslp: Ach Gott und Herr, BuxWV 177 (Buxtehude, Dietrich)
+  year: 1903
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ach_Gott_und_Herr%2C_BuxWV_177_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

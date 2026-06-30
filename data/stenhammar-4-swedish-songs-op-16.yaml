@@ -1,0 +1,17 @@
+id: stenhammar-4-swedish-songs-op-16
+work:
+  composer: Stenhammar, Wilhelm
+  title: 4 Swedish Songs, Op.16
+  ids:
+    imslp: 4 Swedish Songs, Op.16 (Stenhammar, Wilhelm)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Swedish_Songs%2C_Op.16_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

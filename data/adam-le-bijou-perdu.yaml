@@ -1,0 +1,16 @@
+id: adam-le-bijou-perdu
+work:
+  composer: Adam, Adolphe
+  title: Le bijou perdu
+  ids:
+    imslp: Le bijou perdu (Adam, Adolphe)
+  year: 1853
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_bijou_perdu_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

@@ -1,0 +1,18 @@
+id: gade-fespraeludium
+work:
+  composer: Gade, Niels
+  title: Fespraeludium
+  ids:
+    imslp: Festpraeludium (Gade, Niels)
+  year: 1873
+formula: 0000 0100 org
+instrumentation:
+  trumpet:
+  - optional: true
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Festpraeludium_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: Organ, trumpet or trombone ad lib.'

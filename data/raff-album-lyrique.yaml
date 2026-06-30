@@ -1,0 +1,16 @@
+id: raff-album-lyrique
+work:
+  composer: Raff, Joachim
+  title: Album lyrique
+  ids:
+    imslp: Album lyrique, Op.17 (Raff, Joachim)
+  year: 1845
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Album_lyrique%2C_Op.17_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

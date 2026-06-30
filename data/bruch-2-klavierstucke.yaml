@@ -1,0 +1,16 @@
+id: bruch-2-klavierstucke
+work:
+  composer: Bruch, Max
+  title: 2 Klavierstücke
+  ids:
+    imslp: 2 Klavierstücke, Op.14 (Bruch, Max)
+  year: 1861
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Klavierst%C3%BCcke%2C_Op.14_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

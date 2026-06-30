@@ -1,0 +1,16 @@
+id: reger-palmsonntagmorgen
+work:
+  composer: Reger, Max
+  title: Palmsonntagmorgen
+  ids:
+    imslp: Palmsonntagmorgen, WoO VI/18 (Reger, Max)
+  year: 1902
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Palmsonntagmorgen%2C_WoO_VI/18_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed chorus (SSATB)'
+duration_minutes: 6

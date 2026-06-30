@@ -1,0 +1,22 @@
+id: charpentier-deus-judicium-tuum
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Deus judicium tuum
+  ids:
+    imslp: Deus judicium tuum, H.166 (Charpentier, Marc-Antoine)
+  year: 1677
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Deus_judicium_tuum%2C_H.166_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, bass, 2 violins, continuo'
+duration_minutes: 8

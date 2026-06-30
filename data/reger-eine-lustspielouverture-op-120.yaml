@@ -1,0 +1,27 @@
+id: reger-eine-lustspielouverture-op-120
+work:
+  composer: Reger, Max
+  title: Eine Lustspielouvertüre, Op.120
+  ids:
+    imslp: Eine Lustspielouvertüre, Op.120 (Reger, Max)
+  year: 1911
+formula: 2222 4200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Eine_Lustspielouvert%C3%BCre%2C_Op.120_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: 2 flutes, 2 oboes, 2 clarinets (A), 2 bassoons,
+    4 horns (F), 2 trumpets (C), timpani, triangle, strings'
+duration_minutes: 8

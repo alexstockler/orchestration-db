@@ -1,0 +1,16 @@
+id: raff-30-fortschreitende-etuden
+work:
+  composer: Raff, Joachim
+  title: 30 Fortschreitende Etüden
+  ids:
+    imslp: 30 Fortschreitende Etüden, WoO.36 (Raff, Joachim)
+  year: 1868
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/30_Fortschreitende_Et%C3%BCden%2C_WoO.36_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

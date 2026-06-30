@@ -1,0 +1,20 @@
+id: gade-fruhlings-phantasie
+work:
+  composer: Gade, Niels
+  title: Frühlings-Phantasie
+  ids:
+    imslp: Frühlings-Phantasie, Op.23 (Gade, Niels)
+  year: 1852
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - sopranos
+  - tenor
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fr%C3%BChlings-Phantasie%2C_Op.23_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: 2 sopranos, tenor, bass, piano, orchestra'

@@ -1,0 +1,17 @@
+id: stenhammar-2-songs-from-idyll-and-epigram
+work:
+  composer: Stenhammar, Wilhelm
+  title: 2 Songs from 'Idyll and epigram'
+  ids:
+    imslp: 2 Songs from 'Idyll and epigram', Op.4 (Stenhammar, Wilhelm)
+  year: 1893
+formula: ''
+instrumentation:
+  soloists:
+  - mezzo soprano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Songs_from_%27Idyll_and_epigram%27%2C_Op.4_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: mezzo soprano, orchestra'
+duration_minutes: 5

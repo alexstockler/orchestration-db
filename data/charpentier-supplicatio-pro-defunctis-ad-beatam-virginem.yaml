@@ -1,0 +1,20 @@
+id: charpentier-supplicatio-pro-defunctis-ad-beatam-virginem
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Supplicatio pro defunctis ad Beatam Virginem
+  ids:
+    imslp: Supplicatio pro defunctis ad Beatam Virginem, H.328 (Charpentier, Marc-Antoine)
+  year: 1681
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - bass
+  additional_raw: 2 treble recorders | bass recorder | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Supplicatio_pro_defunctis_ad_Beatam_Virginem%2C_H.328_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos (or soprano, alto), bass; 2 treble recorders,
+    bass recorder, continuo'
+duration_minutes: 9

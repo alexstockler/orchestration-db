@@ -1,0 +1,18 @@
+id: reger-romanze-for-violin-and-piano
+work:
+  composer: Reger, Max
+  title: Romanze for Violin and Piano
+  ids:
+    imslp: Romanze, WoO II/10 (Reger, Max)
+  year: 1902
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romanze%2C_WoO_II/10_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

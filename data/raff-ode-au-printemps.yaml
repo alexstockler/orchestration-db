@@ -1,0 +1,26 @@
+id: raff-ode-au-printemps
+work:
+  composer: Raff, Joachim
+  title: Ode au printemps
+  ids:
+    imslp: Ode au printemps, Op.76 (Raff, Joachim)
+  year: 1857
+formula: 2[pic.2] 1 1 1 4100 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 1
+  clarinet: 1
+  bassoon: 1
+  horn: 4
+  trumpet: 1
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ode_au_printemps%2C_Op.76_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, flutes, oboes, clarinets (B), bassoons, 4 horns
+    (F), trumpets (F), timpani, strings'

@@ -1,0 +1,19 @@
+id: gade-novelletten
+work:
+  composer: Gade, Niels
+  title: Novelletten
+  ids:
+    imslp: Novelletten, Op.29 (Gade, Niels)
+  year: 1853
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Novelletten%2C_Op.29_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, cello, piano'

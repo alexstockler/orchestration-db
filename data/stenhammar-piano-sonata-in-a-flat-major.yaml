@@ -1,0 +1,17 @@
+id: stenhammar-piano-sonata-in-a-flat-major
+work:
+  composer: Stenhammar, Wilhelm
+  title: Piano Sonata in A-flat major
+  ids:
+    imslp: Piano Sonata in A-flat major (Stenhammar, Wilhelm)
+  year: 1883
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_in_A-flat_major_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 20

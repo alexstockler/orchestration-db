@@ -1,0 +1,16 @@
+id: bellini-imene
+work:
+  composer: Bellini, Vincenzo
+  title: Imene
+  ids:
+    imslp: Imene (Bellini, Vincenzo)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Imene_%28Bellini%2C_Vincenzo%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

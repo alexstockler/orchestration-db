@@ -1,0 +1,22 @@
+id: charpentier-judica-domine-nocentes-me
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Judica Domine nocentes me
+  ids:
+    imslp: Judica Domine nocentes me, H.201 (Charpentier, Marc-Antoine)
+  year: 1688
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  solo_strings:
+    violin: 2
+  additional_raw: 2 basses | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Judica_Domine_nocentes_me%2C_H.201_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, 2 basses, 2 violins (or viols, and/or recorders),
+    continuo'
+duration_minutes: 7

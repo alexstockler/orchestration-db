@@ -1,0 +1,18 @@
+id: pergolesi-sonata-per-organo
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Sonata per organo
+  ids:
+    imslp: Organ Sonata in F major (Pergolesi, Giovanni Battista)
+formula: org hpd pf
+instrumentation:
+  keyboards:
+  - instrument: organ
+  - instrument: harpsichord
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Organ_Sonata_in_F_major_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: organ, harpsichord, piano'
+duration_minutes: 4

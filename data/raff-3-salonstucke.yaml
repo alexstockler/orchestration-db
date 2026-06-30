@@ -1,0 +1,16 @@
+id: raff-3-salonstucke
+work:
+  composer: Raff, Joachim
+  title: 3 Salonstücke
+  ids:
+    imslp: 3 Salonstücke, Op.56 (Raff, Joachim)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Salonst%C3%BCcke%2C_Op.56_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

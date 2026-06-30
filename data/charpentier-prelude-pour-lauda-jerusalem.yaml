@@ -1,0 +1,15 @@
+id: charpentier-prelude-pour-lauda-jerusalem
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Prélude pour Lauda Jerusalem
+  ids:
+    imslp: Prélude pour Lauda Jerusalem, H.538 (Charpentier, Marc-Antoine)
+  year: 1698
+formula: ''
+instrumentation:
+  additional_raw: 2 instruments | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pr%C3%A9lude_pour_Lauda_Jerusalem%2C_H.538_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 instruments, continuo'

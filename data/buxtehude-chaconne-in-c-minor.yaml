@@ -1,0 +1,17 @@
+id: buxtehude-chaconne-in-c-minor
+work:
+  composer: Buxtehude, Dietrich
+  title: Chaconne in C minor
+  ids:
+    imslp: Chaconne in C minor, BuxWV 159 (Buxtehude, Dietrich)
+  year: 1875
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chaconne_in_C_minor%2C_BuxWV_159_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 7

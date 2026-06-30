@@ -1,0 +1,16 @@
+id: meyerbeer-le-pardon-de-ploermel-opera-comique-en-trois-actes
+work:
+  composer: Meyerbeer, Giacomo
+  title: 'Le pardon de Ploërmel: Opéra comique en trois actes'
+  ids:
+    imslp: Le pardon de Ploërmel (Meyerbeer, Giacomo)
+  year: 1859
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_pardon_de_Plo%C3%ABrmel_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soloists; mixed chorus, Orchestra'

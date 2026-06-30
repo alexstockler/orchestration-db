@@ -1,0 +1,17 @@
+id: lully-ballet-du-temple-de-la-paix
+work:
+  composer: Lully, Jean-Baptiste
+  title: Ballet du temple de la paix
+  ids:
+    imslp: Ballet du temple de la paix, LWV 69 (Lully, Jean-Baptiste)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ballet_du_temple_de_la_paix%2C_LWV_69_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

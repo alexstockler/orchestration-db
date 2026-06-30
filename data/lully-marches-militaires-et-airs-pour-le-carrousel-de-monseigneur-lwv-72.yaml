@@ -1,0 +1,18 @@
+id: lully-marches-militaires-et-airs-pour-le-carrousel-de-monseigneur-lwv-72
+work:
+  composer: Lully, Jean-Baptiste
+  title: Marches militaires et airs pour le carrousel de Monseigneur, LWV 72
+  ids:
+    imslp: Marches militaires et airs pour le carrousel de Monseigneur, LWV 72 (Lully,
+      Jean-Baptiste)
+  year: 1686
+formula: 1perc
+instrumentation:
+  percussion:
+    players: 1
+  additional_raw: woodwinds
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marches_militaires_et_airs_pour_le_carrousel_de_Monseigneur%2C_LWV_72_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: woodwinds, percussion'

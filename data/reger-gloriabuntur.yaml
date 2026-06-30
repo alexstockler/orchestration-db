@@ -1,0 +1,15 @@
+id: reger-gloriabuntur
+work:
+  composer: Reger, Max
+  title: Gloriabuntur
+  ids:
+    imslp: Gloriabuntur, WoO VI/3 (Reger, Max)
+  year: 1898
+formula: ''
+instrumentation:
+  chorus_raw: satb
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gloriabuntur%2C_WoO_VI/3_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: SATB'

@@ -1,0 +1,16 @@
+id: charpentier-pour-plusieurs-martyrs
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Pour plusieurs martyrs
+  ids:
+    imslp: Pour plusieurs martyrs, H.361 (Charpentier, Marc-Antoine)
+  year: 1691
+formula: ''
+instrumentation:
+  additional_raw: solo bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pour_plusieurs_martyrs%2C_H.361_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: solo bass'
+duration_minutes: 3

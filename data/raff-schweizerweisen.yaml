@@ -1,0 +1,16 @@
+id: raff-schweizerweisen
+work:
+  composer: Raff, Joachim
+  title: Schweizerweisen
+  ids:
+    imslp: Schweizerweisen, Op.60 (Raff, Joachim)
+  year: 1851
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Schweizerweisen%2C_Op.60_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

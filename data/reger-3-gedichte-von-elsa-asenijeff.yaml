@@ -1,0 +1,18 @@
+id: reger-3-gedichte-von-elsa-asenijeff
+work:
+  composer: Reger, Max
+  title: 3 Gedichte von Elsa Asenijeff
+  ids:
+    imslp: 3 Gedichte von Elsa Asenijeff, WoO VII/44 (Reger, Max)
+  year: 1912
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Gedichte_von_Elsa_Asenijeff%2C_WoO_VII/44_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

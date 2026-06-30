@@ -1,0 +1,19 @@
+id: reger-requiemsatz
+work:
+  composer: Reger, Max
+  title: Requiemsatz
+  ids:
+    imslp: Requiemsatz, Op.145a (Reger, Max)
+  year: 1914
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Requiemsatz%2C_Op.145a_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voices (SATB), chorus, orchestra (3 flutes including piccolo,
+    2 oboes, English horn, 2 clarinets, 2 bassoons, contrabassoon, 4 horns, 3 trumpets,
+    3 trombones, tuba, 3 timpani, percussion, organ, strings)'

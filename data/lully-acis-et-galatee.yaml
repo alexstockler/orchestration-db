@@ -1,0 +1,16 @@
+id: lully-acis-et-galatee
+work:
+  composer: Lully, Jean-Baptiste
+  title: Acis et Galatée
+  ids:
+    imslp: Acis et Galatée, LWV 73 (Lully, Jean-Baptiste)
+  year: 1686
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Acis_et_Galat%C3%A9e%2C_LWV_73_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices, orchestra'

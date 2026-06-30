@@ -1,0 +1,42 @@
+id: reger-5-choralkantaten
+work:
+  composer: Reger, Max
+  title: 5 Choralkantaten
+  ids:
+    imslp: 5 Choralkantaten, WoO V/4 (Reger, Max)
+formula: 0100 0000 org org org org org str
+instrumentation:
+  oboe: 1
+  keyboards:
+  - instrument: organ
+  - instrument: organ
+  - instrument: organ
+  - instrument: organ
+  - instrument: organ
+  strings: str
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  - soprano
+  - alto
+  - tenor
+  - soprano
+  - alto
+  chorus_raw: mixed chorus
+  solo_strings:
+    violin: 4
+    viola: 1
+  additional_raw: 1 | congregational singers | 2 | congregational singers | 3 | 4
+    | 5
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/5_Choralkantaten%2C_WoO_V/4_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: 1. soprano, alto, tenor, bass, children''s chorus (SSAA),
+    congregational singers, 2 violins, organ (or harmonium), 2. soprano, mixed chorus
+    (or soprano, alto, tenor, bass), congregational singers,, strings (or 2 violins,
+    viola, cello, double bass), organ, 3. alto, tenor (or soprano), mixed chorus (SATB),
+    oboe, violin, organ, 4. soprano, mixed chorus (SATB), violin, viola, organ, 5.
+    alto, mixed chorus (SATB), organ'

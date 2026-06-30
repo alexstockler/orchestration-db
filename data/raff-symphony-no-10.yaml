@@ -1,0 +1,29 @@
+id: raff-symphony-no-10
+work:
+  composer: Raff, Joachim
+  title: Symphony No.10
+  ids:
+    imslp: Symphony No.10, Op.213 (Raff, Joachim)
+  year: 1879
+formula: 3[1.2.3/pic] 2 2 2 4230 tmp str
+instrumentation:
+  flute:
+  - {}
+  - {}
+  - doublings:
+    - piccolo
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.10%2C_Op.213_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes (3rd also piccolo), 2 oboes, 2 clarinets, 2 bassoons,
+    4 horns, 2 trumpets, 3 trombones, timpani, strings'

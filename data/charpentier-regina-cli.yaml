@@ -1,0 +1,16 @@
+id: charpentier-regina-cli
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Regina cæli
+  ids:
+    imslp: Regina cæli, H.32 (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  soloists:
+  - 2 voices
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Regina_c%C3%A6li%2C_H.32_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices, continuo'

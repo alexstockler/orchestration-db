@@ -1,0 +1,19 @@
+id: charpentier-quae-est-ista
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Quae est ista
+  ids:
+    imslp: Quae est ista, H.426 (Charpentier, Marc-Antoine)
+  year: 1672
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Quae_est_ista%2C_H.426_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, continuo'
+duration_minutes: 2

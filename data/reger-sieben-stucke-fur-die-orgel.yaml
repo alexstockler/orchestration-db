@@ -1,0 +1,16 @@
+id: reger-sieben-stucke-fur-die-orgel
+work:
+  composer: Reger, Max
+  title: Sieben Stücke für die Orgel
+  ids:
+    imslp: 7 Stücke, Op.145 (Reger, Max)
+  year: 1915
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_St%C3%BCcke%2C_Op.145_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

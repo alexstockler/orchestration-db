@@ -1,0 +1,16 @@
+id: reger-variations-and-fugue-on-a-theme-of-telemann
+work:
+  composer: Reger, Max
+  title: Variations and Fugue on a Theme of Telemann
+  ids:
+    imslp: Variations and Fugue on a Theme by Telemann, Op.134 (Reger, Max)
+  year: 1914
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Variations_and_Fugue_on_a_Theme_by_Telemann%2C_Op.134_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

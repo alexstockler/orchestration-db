@@ -1,0 +1,16 @@
+id: charpentier-alma-dei-creatoris
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Alma Dei creatoris
+  ids:
+    imslp: Alma Dei creatoris, H.334 (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Alma_Dei_creatoris%2C_H.334_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

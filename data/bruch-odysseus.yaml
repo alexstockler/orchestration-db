@@ -1,0 +1,17 @@
+id: bruch-odysseus
+work:
+  composer: Bruch, Max
+  title: Odysseus
+  ids:
+    imslp: Odysseus, Op.41 (Bruch, Max)
+  year: 1871
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Odysseus%2C_Op.41_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

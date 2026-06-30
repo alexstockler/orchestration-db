@@ -1,0 +1,21 @@
+id: ponchielli-quartetto-for-4-winds-with-pianoforte
+work:
+  composer: Ponchielli, Amilcare
+  title: Quartetto for 4 Winds with Pianoforte
+  ids:
+    imslp: Quartetto for 4 Winds with Pianoforte (Ponchielli, Amilcare)
+  year: 1888
+formula: 1 1 2[Ebcl.2] 0 0000 pf
+instrumentation:
+  flute: 1
+  oboe: 1
+  clarinet:
+  - instrument: eflat_clarinet
+  - {}
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Quartetto_for_4_Winds_with_Pianoforte_%28Ponchielli%2C_Amilcare%29
+  confidence: single_source
+  notes: 'Instrumentation: flute, oboe, clarinet (E), clarinet (B), piano'

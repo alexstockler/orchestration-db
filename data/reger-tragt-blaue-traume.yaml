@@ -1,0 +1,17 @@
+id: reger-tragt-blaue-traume
+work:
+  composer: Reger, Max
+  title: Tragt, blaue Träume
+  ids:
+    imslp: Tragt, blaue Träume, WoO VII/31 (Reger, Max)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tragt%2C_blaue_Tr%C3%A4ume%2C_WoO_VII/31_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

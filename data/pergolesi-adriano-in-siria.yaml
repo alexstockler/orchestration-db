@@ -1,0 +1,27 @@
+id: pergolesi-adriano-in-siria
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Adriano in Siria
+  ids:
+    imslp: Adriano in Siria, P.140 (Pergolesi, Giovanni Battista)
+  year: 1734
+formula: 0200 2200 str
+instrumentation:
+  oboe: 2
+  horn: 2
+  trumpet: 2
+  strings: str
+  soloists:
+  - Adriano (S)
+  - Aquilio Tribuno (S)
+  - Emirena (S)
+  - Farnaspe (S)
+  - Sabina (S)
+  - Osroa (T)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Adriano_in_Siria%2C_P.140_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Adriano (S), Aquilio Tribuno (S), Emirena (S), Farnaspe
+    (S), Sabina (S), Osroa (T) Orchestra :2 oboes, 2 horns, 2 trumpets, strings, continuo'

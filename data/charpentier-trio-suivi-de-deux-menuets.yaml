@@ -1,0 +1,14 @@
+id: charpentier-trio-suivi-de-deux-menuets
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Trio suivi de deux menuets
+  ids:
+    imslp: Trio suivi de deux menuets (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  additional_raw: 2 instruments | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_suivi_de_deux_menuets_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 instruments, continuo'

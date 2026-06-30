@@ -1,0 +1,18 @@
+id: stenhammar-chitra
+work:
+  composer: Stenhammar, Wilhelm
+  title: Chitra
+  ids:
+    imslp: Chitra, Op.43 (Stenhammar, Wilhelm)
+  year: 1921
+formula: cel
+instrumentation:
+  keyboards:
+  - instrument: celesta
+  additional_raw: string quintet
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chitra%2C_Op.43_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: celesta, string quintet'
+duration_minutes: 13

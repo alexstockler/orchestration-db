@@ -1,0 +1,13 @@
+id: herold-la-noce-de-village
+work:
+  composer: Hérold, Ferdinand
+  title: La noce de village
+  ids:
+    imslp: La noce de village (Hérold, Ferdinand)
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_noce_de_village_%28H%C3%A9rold%2C_Ferdinand%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

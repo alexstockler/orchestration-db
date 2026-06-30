@@ -1,0 +1,18 @@
+id: gade-volkstanze
+work:
+  composer: Gade, Niels
+  title: Volkstänze
+  ids:
+    imslp: Volkstänze, Op.62 (Gade, Niels)
+  year: 1887
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Volkst%C3%A4nze%2C_Op.62_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

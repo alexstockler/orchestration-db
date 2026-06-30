@@ -1,0 +1,16 @@
+id: lully-monsieur-de-pourceaugnac
+work:
+  composer: Lully, Jean-Baptiste
+  title: Monsieur de Pourceaugnac
+  ids:
+    imslp: Monsieur de Pourceaugnac, LWV 41 (Lully, Jean-Baptiste)
+  year: 1669
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Monsieur_de_Pourceaugnac%2C_LWV_41_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: vocal soloists, mixed chorus, orchestra'

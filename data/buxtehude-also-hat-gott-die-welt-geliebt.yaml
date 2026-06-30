@@ -1,0 +1,18 @@
+id: buxtehude-also-hat-gott-die-welt-geliebt
+work:
+  composer: Buxtehude, Dietrich
+  title: Also hat Gott die Welt geliebt
+  ids:
+    imslp: Also hat Gott die Welt geliebt, BuxWV 5 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  solo_strings:
+    violin: 2
+  additional_raw: viola da gamba | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Also_hat_Gott_die_Welt_geliebt%2C_BuxWV_5_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 2 violins, viola da gamba, continuo'

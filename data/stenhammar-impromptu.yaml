@@ -1,0 +1,16 @@
+id: stenhammar-impromptu
+work:
+  composer: Stenhammar, Wilhelm
+  title: Impromptu
+  ids:
+    imslp: Impromptu (Stenhammar, Wilhelm)
+  year: 1892
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Impromptu_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

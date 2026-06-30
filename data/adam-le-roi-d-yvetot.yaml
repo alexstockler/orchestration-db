@@ -1,0 +1,16 @@
+id: adam-le-roi-d-yvetot
+work:
+  composer: Adam, Adolphe
+  title: Le roi d'Yvetôt
+  ids:
+    imslp: Le roi d'Yvetôt (Adam, Adolphe)
+  year: 1842
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_roi_d%27Yvet%C3%B4t_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

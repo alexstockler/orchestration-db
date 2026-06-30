@@ -1,0 +1,14 @@
+id: reger-responsories-for-choir
+work:
+  composer: Reger, Max
+  title: Responsories for Choir
+  ids:
+    imslp: 20 Responsories (Reger, Max)
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/20_Responsories_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed chorus (SATB)'

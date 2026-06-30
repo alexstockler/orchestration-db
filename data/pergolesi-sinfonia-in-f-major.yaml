@@ -1,0 +1,14 @@
+id: pergolesi-sinfonia-in-f-major
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Sinfonia in F major
+  ids:
+    imslp: Sinfonia in F major (Pergolesi, Giovanni Battista)
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sinfonia_in_F_major_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'

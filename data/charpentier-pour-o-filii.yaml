@@ -1,0 +1,15 @@
+id: charpentier-pour-o-filii
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Pour O filii
+  ids:
+    imslp: Pour O filii, H.511 (Charpentier, Marc-Antoine)
+  year: 1673
+formula: ''
+instrumentation:
+  additional_raw: 2 instruments | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pour_O_filii%2C_H.511_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 instruments, continuo'

@@ -1,0 +1,16 @@
+id: raff-4-galop-caprices
+work:
+  composer: Raff, Joachim
+  title: 4 Galop-caprices
+  ids:
+    imslp: 4 Galop-caprices, Op.5 (Raff, Joachim)
+  year: 1843
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Galop-caprices%2C_Op.5_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

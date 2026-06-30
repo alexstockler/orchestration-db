@@ -1,0 +1,19 @@
+id: charpentier-veni-creator-spiritus
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Veni creator Spiritus
+  ids:
+    imslp: Veni creator Spiritus, H.54 (Charpentier, Marc-Antoine)
+  year: 1670
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: haute-contre | taille | basse (+ mixed chorus (SATB) ad lib.) |
+    continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Veni_creator_Spiritus%2C_H.54_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: haute-contre, taille, basse (+ mixed chorus (SATB) ad lib.),
+    2 violins, continuo'

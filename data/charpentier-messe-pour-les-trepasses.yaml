@@ -1,0 +1,26 @@
+id: charpentier-messe-pour-les-trepasses
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Messe pour les trépassés
+  ids:
+    imslp: Messe pour les trépassés, H.2 (Charpentier, Marc-Antoine)
+  year: 1672
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Messe_pour_les_tr%C3%A9pass%C3%A9s%2C_H.2_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, tenor, bass; mixed chorus, 2 recorders,
+    2 violins, viola, continuo'
+duration_minutes: 19

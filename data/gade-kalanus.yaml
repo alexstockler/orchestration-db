@@ -1,0 +1,23 @@
+id: gade-kalanus
+work:
+  composer: Gade, Niels
+  title: Kalanus
+  ids:
+    imslp: Kalanus, Op.48 (Gade, Niels)
+  year: 1869
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  - bass
+  - mixed chorus
+  additional_raw: 3 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets,
+    3 trombones, tuba, harp, timpani, strings)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kalanus%2C_Op.48_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, tenor, bass; mixed chorus, Orchestra:
+    3 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones,
+    tuba, harp, timpani, strings)'

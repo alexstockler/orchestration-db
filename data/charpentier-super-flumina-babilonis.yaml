@@ -1,0 +1,21 @@
+id: charpentier-super-flumina-babilonis
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Super flumina Babilonis
+  ids:
+    imslp: Super flumina Babilonis, H.170 (Charpentier, Marc-Antoine)
+  year: 1679
+formula: 2000 0000
+instrumentation:
+  flute: 2
+  soloists:
+  - soprano
+  - mezzo-soprano
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Super_flumina_Babilonis%2C_H.170_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, mezzo-soprano, bass, 2 flutes, continuo'
+duration_minutes: 9

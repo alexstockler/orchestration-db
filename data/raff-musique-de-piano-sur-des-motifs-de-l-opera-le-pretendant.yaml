@@ -1,0 +1,17 @@
+id: raff-musique-de-piano-sur-des-motifs-de-l-opera-le-pretendant
+work:
+  composer: Raff, Joachim
+  title: Musique de piano sur des motifs de l'opéra 'Le prétendant'
+  ids:
+    imslp: Musique de piano sur des motifs de l'opéra 'Le prétendant', Op.42 (Raff,
+      Joachim)
+  year: 1847
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Musique_de_piano_sur_des_motifs_de_l%27op%C3%A9ra_%27Le_pr%C3%A9tendant%27%2C_Op.42_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

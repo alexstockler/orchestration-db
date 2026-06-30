@@ -1,0 +1,24 @@
+id: charpentier-laudate-pueri-dominum
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Laudate pueri Dominum
+  ids:
+    imslp: Laudate pueri Dominum, H.149 (Charpentier, Marc-Antoine)
+  year: 1670
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - tenor
+  - bass solos
+  chorus_raw: mixed chorus
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Laudate_pueri_Dominum%2C_H.149_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, tenor, bass solos; mixed chorus (SATB), 2 violins
+    (or viols, and/or recorders), continuo'
+duration_minutes: 6

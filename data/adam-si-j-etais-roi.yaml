@@ -1,0 +1,65 @@
+id: adam-si-j-etais-roi
+work:
+  composer: Adam, Adolphe
+  title: Si j'étais roi
+  ids:
+    imslp: Si j'étais roi (Adam, Adolphe)
+  year: 1852
+formula: 3[pic.2.3] 2 2 2 4 2[cnt.cnt] 3 0 tmp hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet:
+  - instrument: cornet
+  - instrument: cornet
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - drum
+    - bass drum
+    - cymbals
+  harp: 1
+  strings: str
+  soloists:
+  - Néméa
+  - Princess of Goa
+  - daughter of the King of Goa (soprano)
+  - Zélide
+  - Zéphoris' sister (soprano)
+  - Zéphoris
+  - a fisherman (tenor)
+  - Moussol
+  - King of Goa (baritone)
+  - Prince Kadoor
+  - minister (bass)
+  - Piféar
+  - a fisherman (tenor)
+  - Zizel
+  - beach policeman (bass)
+  - Atar
+  - a minister (bass) Mixed Chorus :Fishermen
+  - fishermen’s wives
+  - the court
+  - servants
+  - citizens
+  - counsellors
+  - priests
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Si_j%27%C3%A9tais_roi_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Néméa, Princess of Goa, daughter of the King of Goa
+    (soprano), Zélide, Zéphoris'' sister (soprano), Zéphoris, a fisherman (tenor),
+    Moussol, King of Goa (baritone), Prince Kadoor, minister (bass), Piféar, a fisherman
+    (tenor), Zizel, beach policeman (bass), Atar, a minister (bass) Mixed Chorus :Fishermen,
+    fishermen’s wives, the court, servants, citizens, counsellors, priests Orchestra
+    :piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 cornets, 3 trombones,
+    timpani, triangle, drum, bass drum, cymbals, harp, strings'

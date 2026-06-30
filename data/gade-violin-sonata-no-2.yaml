@@ -1,0 +1,18 @@
+id: gade-violin-sonata-no-2
+work:
+  composer: Gade, Niels
+  title: Violin Sonata No.2
+  ids:
+    imslp: Violin Sonata No.2, Op.21 (Gade, Niels)
+  year: 1849
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_No.2%2C_Op.21_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

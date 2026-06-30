@@ -1,0 +1,16 @@
+id: reger-six-intermezzi-for-piano
+work:
+  composer: Reger, Max
+  title: Six Intermezzi for piano
+  ids:
+    imslp: 6 Intermezzos, Op.45 (Reger, Max)
+  year: 1900
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Intermezzos%2C_Op.45_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

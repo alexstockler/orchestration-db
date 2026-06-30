@@ -1,0 +1,18 @@
+id: reger-ich-stehe-hoch-uberm-see
+work:
+  composer: Reger, Max
+  title: Ich stehe hoch überm See
+  ids:
+    imslp: Ich stehe hoch überm See, Op.14b (Reger, Max)
+  year: 1894
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ich_stehe_hoch_%C3%BCberm_See%2C_Op.14b_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, piano'

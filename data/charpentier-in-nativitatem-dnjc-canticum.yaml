@@ -1,0 +1,18 @@
+id: charpentier-in-nativitatem-dnjc-canticum
+work:
+  composer: Charpentier, Marc-Antoine
+  title: In Nativitatem DNJC canticum
+  ids:
+    imslp: In nativitatem Domini canticum, H.414 (Charpentier, Marc-Antoine)
+  year: 1684
+formula: ''
+instrumentation:
+  soloists:
+  - 6 voices
+  additional_raw: 2 dessus | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_nativitatem_Domini_canticum%2C_H.414_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 6 voices (haut-dessus, dessus, bas-dessus, haute-contre,
+    taille, basse), 2 dessus, continuo'

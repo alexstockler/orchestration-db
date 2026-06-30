@@ -1,0 +1,16 @@
+id: reger-clarinet-sonata-no-3
+work:
+  composer: Reger, Max
+  title: Clarinet Sonata No.3
+  ids:
+    imslp: Clarinet Sonata No.3, Op.107 (Reger, Max)
+  year: 1908
+formula: ''
+instrumentation:
+  additional_raw: Viola, or Violin) and Piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Clarinet_Sonata_No.3%2C_Op.107_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Clarinet (alternately: Viola, or Violin) and Piano'
+duration_minutes: 35

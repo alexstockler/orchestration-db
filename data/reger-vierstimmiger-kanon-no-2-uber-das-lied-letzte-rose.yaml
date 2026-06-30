@@ -1,0 +1,16 @@
+id: reger-vierstimmiger-kanon-no-2-uber-das-lied-letzte-rose
+work:
+  composer: Reger, Max
+  title: Vierstimmiger Kanon No.2 über das Lied 'Letzte Rose'
+  ids:
+    imslp: Vierstimmiger Kanon No.2 über 'Letzte Rose', WoO VIII/15 (Reger, Max)
+  year: 1913
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vierstimmiger_Kanon_No.2_%C3%BCber_%27Letzte_Rose%27%2C_WoO_VIII/15_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

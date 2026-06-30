@@ -1,0 +1,16 @@
+id: raff-suite-no-7-for-piano
+work:
+  composer: Raff, Joachim
+  title: Suite No.7 for Piano
+  ids:
+    imslp: Suite No.7 for Piano, Op.204 (Raff, Joachim)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_No.7_for_Piano%2C_Op.204_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

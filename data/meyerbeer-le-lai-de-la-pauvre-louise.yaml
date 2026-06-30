@@ -1,0 +1,17 @@
+id: meyerbeer-le-lai-de-la-pauvre-louise
+work:
+  composer: Meyerbeer, Giacomo
+  title: Le lai de la pauvre Louise
+  ids:
+    imslp: Le lai de la pauvre Louise (Meyerbeer, Giacomo)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_lai_de_la_pauvre_Louise_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

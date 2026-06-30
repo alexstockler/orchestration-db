@@ -1,0 +1,20 @@
+id: charpentier-in-assumptione-beatae-mariae-virginis
+work:
+  composer: Charpentier, Marc-Antoine
+  title: In Assumptione Beatae Mariae Virginis
+  ids:
+    imslp: In Assumptione Beatae Mariae Virginis, H.353 (Charpentier, Marc-Antoine)
+  year: 1690
+formula: 1000 0000 str
+instrumentation:
+  flute: 1
+  strings: str
+  soloists:
+  - 4 (Dessus, Haute-contre, Tenor, Basse)
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/In_Assumptione_Beatae_Mariae_Virginis%2C_H.353_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: 4 (Dessus, Haute-contre, Tenor, Basse), Orchestra:
+    flute, strings, continuo'

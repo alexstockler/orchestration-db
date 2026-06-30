@@ -1,0 +1,16 @@
+id: scarlatti-antra-valles-divo-plaudant-montes-colles
+work:
+  composer: Scarlatti, Domenico
+  title: Antra, valles, divo plaudant montes colles
+  ids:
+    imslp: Antra, valles, divo plaudant montes colles (Scarlatti, Domenico)
+  year: 1701
+formula: ''
+instrumentation:
+  additional_raw: 2S A T B violin viola continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Antra%2C_valles%2C_divo_plaudant_montes_colles_%28Scarlatti%2C_Domenico%29
+  confidence: single_source
+  notes: 'Instrumentation: 2S A T B violin viola continuo'
+duration_minutes: 5

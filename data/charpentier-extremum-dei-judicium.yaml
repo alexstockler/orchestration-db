@@ -1,0 +1,21 @@
+id: charpentier-extremum-dei-judicium
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Extremum Dei judicium
+  ids:
+    imslp: Extremum Dei judicium, H.401 (Charpentier, Marc-Antoine)
+formula: 0000 0200 str
+instrumentation:
+  trumpet: 2
+  strings: str
+  soloists:
+  - 9 voices
+  chorus_raw: mixed chorus
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Extremum_Dei_judicium%2C_H.401_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 9 voices, mixed chorus (SATB) + 2 trumpets, strings (2
+    treble instruments), continuo'
+duration_minutes: 24

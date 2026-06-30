@@ -1,0 +1,17 @@
+id: ponchielli-il-parlatore-eterno
+work:
+  composer: Ponchielli, Amilcare
+  title: Il parlatore eterno
+  ids:
+    imslp: Il parlatore eterno (Ponchielli, Amilcare)
+  year: 1873
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_parlatore_eterno_%28Ponchielli%2C_Amilcare%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra (presumed)'

@@ -1,0 +1,17 @@
+id: bellini-the-american-flag
+work:
+  composer: Bellini, Vincenzo
+  title: The American Flag
+  ids:
+    imslp: The American Flag (Bellini, Vincenzo)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/The_American_Flag_%28Bellini%2C_Vincenzo%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

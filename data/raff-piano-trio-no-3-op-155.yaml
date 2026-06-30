@@ -1,0 +1,20 @@
+id: raff-piano-trio-no-3-op-155
+work:
+  composer: Raff, Joachim
+  title: Piano Trio No.3, Op.155
+  ids:
+    imslp: Piano Trio No.3, Op.155 (Raff, Joachim)
+  year: 1870
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Trio_No.3%2C_Op.155_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: 1 violin, 1 cello, 1 piano'
+duration_minutes: 35

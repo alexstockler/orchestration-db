@@ -1,0 +1,20 @@
+id: charpentier-venite-fideles
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Venite fideles
+  ids:
+    imslp: Venite fideles, H.241 (Charpentier, Marc-Antoine)
+  year: 1677
+formula: ''
+instrumentation:
+  soloists:
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Venite_fideles%2C_H.241_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: bass, 2 violins, continuo'
+duration_minutes: 3

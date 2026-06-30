@@ -1,0 +1,16 @@
+id: reger-4-marienlieder-op-61e
+work:
+  composer: Reger, Max
+  title: 4 Marienlieder, Op.61e
+  ids:
+    imslp: 4 Marienlieder, Op.61e (Reger, Max)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  additional_raw: voices (SA or TB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Marienlieder%2C_Op.61e_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voices (SA or TB), organ'

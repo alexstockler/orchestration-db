@@ -1,0 +1,18 @@
+id: raff-sanges-fruhling
+work:
+  composer: Raff, Joachim
+  title: Sanges-Frühling
+  ids:
+    imslp: Sanges-Frühling, Op.98 (Raff, Joachim)
+  year: 1855
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sanges-Fr%C3%BChling%2C_Op.98_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,17 @@
+id: meyerbeer-l-etoile-du-nord
+work:
+  composer: Meyerbeer, Giacomo
+  title: L'étoile du nord
+  ids:
+    imslp: L'étoile du nord (Meyerbeer, Giacomo)
+  year: 1854
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27%C3%A9toile_du_nord_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

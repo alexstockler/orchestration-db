@@ -1,0 +1,16 @@
+id: martucci-3-pezzi
+work:
+  composer: Martucci, Giuseppe
+  title: 3 Pezzi
+  ids:
+    imslp: 3 Pezzi, Op.49 (Martucci, Giuseppe)
+  year: 1880
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Pezzi%2C_Op.49_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

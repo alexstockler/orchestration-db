@@ -1,0 +1,13 @@
+id: adam-faust
+work:
+  composer: Adam, Adolphe
+  title: Faust
+  ids:
+    imslp: Faust (Adam, Adolphe)
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Faust_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

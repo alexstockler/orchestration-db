@@ -1,0 +1,16 @@
+id: martucci-melodia-no-1
+work:
+  composer: Martucci, Giuseppe
+  title: Melodia No.1
+  ids:
+    imslp: Melodia No.1, Op.16 (Martucci, Giuseppe)
+  year: 1892
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Melodia_No.1%2C_Op.16_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

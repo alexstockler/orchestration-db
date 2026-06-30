@@ -1,0 +1,23 @@
+id: svendsen-traume-studie-zu-tristan-und-isolde
+work:
+  composer: Svendsen, Johan
+  title: Träume. Studie zu Tristan und Isolde
+  ids:
+    imslp: Träume (Svendsen, Johan)
+  year: 1894
+formula: 2222 2000 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 2
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tr%C3%A4ume_%28Svendsen%2C_Johan%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, timpani,
+    strings'

@@ -1,0 +1,48 @@
+id: bellini-il-pirata
+work:
+  composer: Bellini, Vincenzo
+  title: Il pirata
+  ids:
+    imslp: Il pirata (Bellini, Vincenzo)
+  year: 1827
+formula: 2[1.2/pic] 3[1.2.Eh] 2 2 4231 tmp+3 hp str
+instrumentation:
+  flute:
+  - {}
+  - doublings:
+    - piccolo
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    players: 3
+  harp: 1
+  strings: str
+  soloists:
+  - Imogene (soprano)
+  - Ernesto (baritone)
+  - Gualtiero (tenor)
+  - Goffredo (bass)
+  - Itulbo (tenor)
+  - Adele (soprano)
+  - A little boy (slient) Mixed Chorus (SSAATTBB) :fishermen and women
+  - pirates
+  - knights
+  - ladies
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Il_pirata_%28Bellini%2C_Vincenzo%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Imogene (soprano), Ernesto (baritone), Gualtiero
+    (tenor), Goffredo (bass), Itulbo (tenor), Adele (soprano), A little boy (slient)
+    Mixed Chorus (SSAATTBB) :fishermen and women, pirates, knights, ladies Orchestra
+    :2 flutes (2nd also piccolo), 2 oboes, English horn, 2 clarinets, 2 bassoons,
+    4 horns, 2 trumpets, 3 trombones, tuba, timpani, 3 percussion, harp, strings'

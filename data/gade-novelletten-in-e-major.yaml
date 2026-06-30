@@ -1,0 +1,15 @@
+id: gade-novelletten-in-e-major
+work:
+  composer: Gade, Niels
+  title: Novelletten in E major
+  ids:
+    imslp: Novelletten, Op.58 (Gade, Niels)
+  year: 1883
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Novelletten%2C_Op.58_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'

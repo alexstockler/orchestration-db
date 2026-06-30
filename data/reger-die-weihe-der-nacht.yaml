@@ -1,0 +1,31 @@
+id: reger-die-weihe-der-nacht
+work:
+  composer: Reger, Max
+  title: Die Weihe der Nacht
+  ids:
+    imslp: Die Weihe der Nacht, Op.119 (Reger, Max)
+  year: 1911
+formula: 2222 4231 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - voice
+  - men's chorus
+  additional_raw: Voice - alto | Men's Chorus (TTBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Weihe_der_Nacht%2C_Op.119_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, men''s chorus, orchestra :Voice - alto, Men''s Chorus
+    (TTBB), Orchestra ::2 flutes, 2 oboes, 2 clarinets (A), 2 bassoons, 4 horns (F),
+    2 trumpets (C), 3 trombones, tuba, timpani, strings'

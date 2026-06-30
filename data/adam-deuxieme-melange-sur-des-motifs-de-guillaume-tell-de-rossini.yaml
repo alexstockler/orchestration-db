@@ -1,0 +1,15 @@
+id: adam-deuxieme-melange-sur-des-motifs-de-guillaume-tell-de-rossini
+work:
+  composer: Adam, Adolphe
+  title: Deuxième mélange sur des motifs de Guillaume Tell de Rossini
+  ids:
+    imslp: Mélange No.2 sur 'Guillaume Tell', Op.44 (Adam, Adolphe)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/M%C3%A9lange_No.2_sur_%27Guillaume_Tell%27%2C_Op.44_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

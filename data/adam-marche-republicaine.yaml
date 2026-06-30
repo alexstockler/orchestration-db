@@ -1,0 +1,15 @@
+id: adam-marche-republicaine
+work:
+  composer: Adam, Adolphe
+  title: Marche républicaine
+  ids:
+    imslp: Marche républicaine (Adam, Adolphe)
+  year: 1848
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marche_r%C3%A9publicaine_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'

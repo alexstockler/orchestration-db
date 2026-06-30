@@ -1,0 +1,16 @@
+id: martucci-fantasia-di-concerto-su-la-forza-del-destino
+work:
+  composer: Martucci, Giuseppe
+  title: Fantasia di concerto su 'La forza del destino'
+  ids:
+    imslp: Fantasia di concerto su 'La forza del destino', Op.1 (Martucci, Giuseppe)
+  year: 1871
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasia_di_concerto_su_%27La_forza_del_destino%27%2C_Op.1_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

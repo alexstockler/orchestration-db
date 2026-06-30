@@ -1,0 +1,16 @@
+id: reger-prelude-and-fugue-in-g-minor
+work:
+  composer: Reger, Max
+  title: Prelude and Fugue in G minor
+  ids:
+    imslp: Präludium und Fuge, WoO III/2 (Reger, Max)
+  year: 1890
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pr%C3%A4ludium_und_Fuge%2C_WoO_III/2_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano (?)'

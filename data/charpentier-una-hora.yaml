@@ -1,0 +1,19 @@
+id: charpentier-una-hora
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Una hora
+  ids:
+    imslp: Una hora, H.116 (Charpentier, Marc-Antoine)
+  year: 1680
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Una_hora%2C_H.116_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, alto, continuo'
+duration_minutes: 4

@@ -1,0 +1,16 @@
+id: reger-8-geistliche-gesange
+work:
+  composer: Reger, Max
+  title: 8 Geistliche Gesänge
+  ids:
+    imslp: 8 Geistliche Gesänge, Op.138 (Reger, Max)
+  year: 1914
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Geistliche_Ges%C3%A4nge%2C_Op.138_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB) (4-8 parts)'
+duration_minutes: 19

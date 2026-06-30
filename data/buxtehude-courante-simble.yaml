@@ -1,0 +1,15 @@
+id: buxtehude-courante-simble
+work:
+  composer: Buxtehude, Dietrich
+  title: Courante Simble
+  ids:
+    imslp: Courante Simble, BuxWV 245 (Buxtehude, Dietrich)
+  year: 1942
+formula: ''
+instrumentation:
+  additional_raw: keyboard (harpsichord)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Courante_Simble%2C_BuxWV_245_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard (harpsichord)'

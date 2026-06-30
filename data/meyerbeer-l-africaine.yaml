@@ -1,0 +1,17 @@
+id: meyerbeer-l-africaine
+work:
+  composer: Meyerbeer, Giacomo
+  title: L'Africaine
+  ids:
+    imslp: L'Africaine (Meyerbeer, Giacomo)
+  year: 1837
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/L%27Africaine_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

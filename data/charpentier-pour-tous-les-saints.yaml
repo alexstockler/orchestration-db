@@ -1,0 +1,17 @@
+id: charpentier-pour-tous-les-saints
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Pour tous les saints
+  ids:
+    imslp: Pour tous les saints, H.377 (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pour_tous_les_saints%2C_H.377_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: tenor, continuo'
+duration_minutes: 2

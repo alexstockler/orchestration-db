@@ -1,0 +1,15 @@
+id: scarlatti-keyboard-sonata-in-g-major
+work:
+  composer: Scarlatti, Domenico
+  title: Keyboard Sonata in G major
+  ids:
+    imslp: Keyboard Sonata in G major, K.2 (Scarlatti, Domenico)
+  year: 1738
+formula: ''
+instrumentation:
+  additional_raw: keyboard
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Keyboard_Sonata_in_G_major%2C_K.2_%28Scarlatti%2C_Domenico%29
+  confidence: single_source
+  notes: 'Instrumentation: keyboard'

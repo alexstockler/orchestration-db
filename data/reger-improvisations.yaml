@@ -1,0 +1,16 @@
+id: reger-improvisations
+work:
+  composer: Reger, Max
+  title: Improvisations
+  ids:
+    imslp: 8 Improvisations, Op.18 (Reger, Max)
+  year: 1902
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/8_Improvisations%2C_Op.18_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

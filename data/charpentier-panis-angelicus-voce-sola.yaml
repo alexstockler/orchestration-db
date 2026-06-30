@@ -1,0 +1,17 @@
+id: charpentier-panis-angelicus-voce-sola
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Panis angelicus voce sola
+  ids:
+    imslp: Panis angelicus voce sola, H.243 (Charpentier, Marc-Antoine)
+  year: 1679
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Panis_angelicus_voce_sola%2C_H.243_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

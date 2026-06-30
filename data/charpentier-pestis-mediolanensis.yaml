@@ -1,0 +1,17 @@
+id: charpentier-pestis-mediolanensis
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Pestis Mediolanensis
+  ids:
+    imslp: Pestis Mediolanensis, H.398 (Charpentier, Marc-Antoine)
+  year: 1679
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: 2 x SATB (solos and chorus) | 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pestis_Mediolanensis%2C_H.398_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 x SATB (solos and chorus), 2 recorders, strings, continuo'
+duration_minutes: 17

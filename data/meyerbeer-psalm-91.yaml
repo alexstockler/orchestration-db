@@ -1,0 +1,16 @@
+id: meyerbeer-psalm-91
+work:
+  composer: Meyerbeer, Giacomo
+  title: Psalm 91
+  ids:
+    imslp: Psalm 91 (Meyerbeer, Giacomo)
+  year: 1853
+formula: ''
+instrumentation:
+  chorus_raw: 2 mixed choruses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Psalm_91_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 mixed choruses (SATB)'
+duration_minutes: 10

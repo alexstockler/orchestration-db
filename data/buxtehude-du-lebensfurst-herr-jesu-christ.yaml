@@ -1,0 +1,19 @@
+id: buxtehude-du-lebensfurst-herr-jesu-christ
+work:
+  composer: Buxtehude, Dietrich
+  title: Du Lebensfürst Herr Jesu Christ
+  ids:
+    imslp: Du Lebensfürst Herr Jesu Christ, BuxWV 22 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  solo_strings:
+    violin: 2
+    viola: 2
+  additional_raw: violone | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Du_Lebensf%C3%BCrst_Herr_Jesu_Christ%2C_BuxWV_22_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: voices (SATB), 2 violins, 2 violas, violone, continuo'

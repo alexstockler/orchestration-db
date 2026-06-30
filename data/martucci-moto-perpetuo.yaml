@@ -1,0 +1,15 @@
+id: martucci-moto-perpetuo
+work:
+  composer: Martucci, Giuseppe
+  title: Moto perpetuo
+  ids:
+    imslp: Moto perpetuo, Op.63 (Martucci, Giuseppe)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Moto_perpetuo%2C_Op.63_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,26 @@
+id: bruch-2-cantatas
+work:
+  composer: Bruch, Max
+  title: 2 Cantatas
+  ids:
+    imslp: 2 Cantatas, Op.31 (Bruch, Max)
+  year: 1870
+formula: 3332 5200 str
+instrumentation:
+  flute: 3
+  oboe: 3
+  clarinet: 3
+  bassoon: 2
+  horn: 5
+  trumpet: 2
+  strings: str
+  soloists:
+  - soprano
+  - female chorus (SSA)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Cantatas%2C_Op.31_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano; female chorus (SSA), Orchestra: flute,
+    oboe, clarinet + 3 horns + strings (No.1), 2 flutes, 2 oboes, 2 clarinets, 2 bassoons
+    + 2 horns, 2 trumpets + strings (No.2)'

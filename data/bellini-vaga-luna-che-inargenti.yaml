@@ -1,0 +1,17 @@
+id: bellini-vaga-luna-che-inargenti
+work:
+  composer: Bellini, Vincenzo
+  title: Vaga luna che inargenti
+  ids:
+    imslp: Vaga luna che inargenti (Bellini, Vincenzo)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vaga_luna_che_inargenti_%28Bellini%2C_Vincenzo%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,16 @@
+id: martucci-4-piano-pieces
+work:
+  composer: Martucci, Giuseppe
+  title: 4 Piano Pieces
+  ids:
+    imslp: 4 Piano Pieces, Op.31 (Martucci, Giuseppe)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Piano_Pieces%2C_Op.31_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

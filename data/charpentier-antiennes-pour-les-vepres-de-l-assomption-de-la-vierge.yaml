@@ -1,0 +1,23 @@
+id: charpentier-antiennes-pour-les-vepres-de-l-assomption-de-la-vierge
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Antiennes pour les Vêpres de l'Assomption de la Vierge
+  ids:
+    imslp: Antiennes pour les Vêpres de l'Assomption de la Vierge, H.50-52 (Charpentier,
+      Marc-Antoine)
+formula: 2000 0000 str
+instrumentation:
+  flute: 2
+  strings: str
+  soloists:
+  - voice
+  - voice
+  - 3 voices
+  additional_raw: continuo (H.50) | continuo (H.51) | continuo (H.52)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Antiennes_pour_les_V%C3%AApres_de_l%27Assomption_de_la_Vierge%2C_H.50-52_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 1-3 voices, 2 flutes, strings, continuo :voice, strings
+    (no violas), continuo (H.50), voice, 2 flutes, continuo (H.51), 3 voices, continuo
+    (H.52)'

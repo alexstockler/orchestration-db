@@ -1,0 +1,20 @@
+id: adam-ave-maris-stella-a-deux-voix
+work:
+  composer: Adam, Adolphe
+  title: Ave maris stella à deux voix
+  ids:
+    imslp: Ave maris stella à deux voix (Adam, Adolphe)
+formula: org hp
+instrumentation:
+  keyboards:
+  - instrument: organ
+  harp: 1
+  soloists:
+  - 2 voices
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_maris_stella_%C3%A0_deux_voix_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices (tenor and bass), harp, cello, organ'

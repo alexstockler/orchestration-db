@@ -1,0 +1,22 @@
+id: charpentier-la-descente-d-orphee-aux-enfers
+work:
+  composer: Charpentier, Marc-Antoine
+  title: La Descente d'Orphée aux Enfers
+  ids:
+    imslp: La Descente d'Orphée aux Enfers, H.488 (Charpentier, Marc-Antoine)
+  year: 1686
+formula: ''
+instrumentation:
+  soloists:
+  - 10 voices
+  chorus_raw: chorus
+  solo_strings:
+    violin: 2
+  additional_raw: 2 recorders | 2 tenor viols | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_Descente_d%27Orph%C3%A9e_aux_Enfers%2C_H.488_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 10 voices, chorus, 2 violins, 2 recorders, 2 tenor viols,
+    continuo'
+duration_minutes: 55

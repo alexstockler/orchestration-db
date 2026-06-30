@@ -1,0 +1,16 @@
+id: martucci-mazurka-di-concerto
+work:
+  composer: Martucci, Giuseppe
+  title: Mazurka di concerto
+  ids:
+    imslp: Mazurka di concerto, Op.4 (Martucci, Giuseppe)
+  year: 1873
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Mazurka_di_concerto%2C_Op.4_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

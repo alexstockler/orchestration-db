@@ -1,0 +1,25 @@
+id: meyerbeer-robert-le-diable
+work:
+  composer: Meyerbeer, Giacomo
+  title: Robert le Diable
+  ids:
+    imslp: Robert le diable (Meyerbeer, Giacomo)
+  year: 1831
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: Cast | Robert | Duke of Normandy (tenor) | Isabelle | Princess of
+    Sicily Palmide (soprano) | Bertram | Robert's friend (bass-baritone) | Alice |
+    Robert's half-sister (soprano) | Raimbaut | a minstrel (tenor) | Alberti | a knight
+    (bass) | Herald (tenor) | Lady-in-waiting to Isabelle (soprano) | Priest (bass)
+    | Prince of Granada (silent) | Hėléna | Abbess (ballerina)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Robert_le_diable_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra :Cast ::Robert, Duke of
+    Normandy (tenor), Isabelle, Princess of Sicily Palmide (soprano), Bertram, Robert''s
+    friend (bass-baritone), Alice, Robert''s half-sister (soprano), Raimbaut, a minstrel
+    (tenor), Alberti, a knight (bass), Herald (tenor), Lady-in-waiting to Isabelle
+    (soprano), Priest (bass), Prince of Granada (silent), Hėléna, Abbess (ballerina)
+    :Mixed Chorus :Orchestra'

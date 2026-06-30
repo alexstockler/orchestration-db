@@ -1,0 +1,18 @@
+id: meyerbeer-chant-des-moissoneurs-vendeens
+work:
+  composer: Meyerbeer, Giacomo
+  title: Chant des moissoneurs vendéens
+  ids:
+    imslp: Chant des moissoneurs vendéens (Meyerbeer, Giacomo)
+  year: 1839
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chant_des_moissoneurs_vend%C3%A9ens_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

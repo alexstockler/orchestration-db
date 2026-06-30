@@ -1,0 +1,18 @@
+id: meyerbeer-lied-des-venezianischen-gondoliers
+work:
+  composer: Meyerbeer, Giacomo
+  title: Lied des venezianischen Gondoliers
+  ids:
+    imslp: Lied des venezianischen Gondoliers (Meyerbeer, Giacomo)
+  year: 1838
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lied_des_venezianischen_Gondoliers_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

@@ -1,0 +1,25 @@
+id: lully-de-profundis-clamavi
+work:
+  composer: Lully, Jean-Baptiste
+  title: De Profundis clamavi
+  ids:
+    imslp: De Profundis, LWV 62 (Lully, Jean-Baptiste)
+  year: 1684
+formula: str
+instrumentation:
+  strings:
+    standard: true
+    description: '6'
+  soloists:
+  - 2 dessus
+  - haute-contre
+  - taille
+  - basse
+  - mixed chorus (SATB)
+  additional_raw: continuo (+ instruments ad lib.)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/De_Profundis%2C_LWV_62_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: 2 dessus, haute-contre, taille, basse + mixed chorus
+    (SATB), Orchestra: strings (6) + continuo (+ instruments ad lib.)'

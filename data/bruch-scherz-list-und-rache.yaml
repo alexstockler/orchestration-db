@@ -1,0 +1,19 @@
+id: bruch-scherz-list-und-rache
+work:
+  composer: Bruch, Max
+  title: Scherz, List und Rache
+  ids:
+    imslp: Scherz, List und Rache, Op.1 (Bruch, Max)
+  year: 1856
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - tenor
+  - baritone
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scherz%2C_List_und_Rache%2C_Op.1_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Voices: soprano, tenor, baritone, Orchestra'
+duration_minutes: 80

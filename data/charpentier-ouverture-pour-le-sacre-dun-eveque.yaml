@@ -1,0 +1,17 @@
+id: charpentier-ouverture-pour-le-sacre-dun-eveque
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Ouverture pour le sacre d’un évêque
+  ids:
+    imslp: Ouverture pour le sacre d’un évêque, H.536 (Charpentier, Marc-Antoine)
+  year: 1690
+formula: ''
+instrumentation:
+  additional_raw: seul" and "tous" indications in the music, this is for several instruments
+    to a part)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ouverture_pour_le_sacre_d%E2%80%99un_%C3%A9v%C3%AAque%2C_H.536_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 instruments (but since there are "seul" and "tous" indications
+    in the music, this is for several instruments to a part)'

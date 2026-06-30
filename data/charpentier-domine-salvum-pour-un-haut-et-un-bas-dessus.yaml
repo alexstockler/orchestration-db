@@ -1,0 +1,19 @@
+id: charpentier-domine-salvum-pour-un-haut-et-un-bas-dessus
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Domine salvum pour un haut et un bas dessus
+  ids:
+    imslp: Domine salvum pour un haut et un bas dessus, H.297 (Charpentier, Marc-Antoine)
+  year: 1688
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Domine_salvum_pour_un_haut_et_un_bas_dessus%2C_H.297_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto (or 2 sopranos), continuo'
+duration_minutes: 1

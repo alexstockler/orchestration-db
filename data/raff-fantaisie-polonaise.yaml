@@ -1,0 +1,16 @@
+id: raff-fantaisie-polonaise
+work:
+  composer: Raff, Joachim
+  title: Fantaisie-Polonaise
+  ids:
+    imslp: Fantaisie-Polonaise, Op.106 (Raff, Joachim)
+  year: 1861
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantaisie-Polonaise%2C_Op.106_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

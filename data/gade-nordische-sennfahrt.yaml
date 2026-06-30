@@ -1,0 +1,14 @@
+id: gade-nordische-sennfahrt
+work:
+  composer: Gade, Niels
+  title: Nordische Sennfahrt
+  ids:
+    imslp: Nordische Sennfahrt (Gade, Niels)
+  year: 1850
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nordische_Sennfahrt_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

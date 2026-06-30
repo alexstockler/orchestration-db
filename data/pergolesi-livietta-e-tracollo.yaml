@@ -1,0 +1,15 @@
+id: pergolesi-livietta-e-tracollo
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Livietta e Tracollo
+  ids:
+    imslp: Livietta e Tracollo (Pergolesi, Giovanni Battista)
+formula: ''
+instrumentation:
+  soloists:
+  - 3 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Livietta_e_Tracollo_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 voices, orchestra'

@@ -1,0 +1,14 @@
+id: reger-9-ausgewahlte-volkslieder
+work:
+  composer: Reger, Max
+  title: 9 Ausgewählte Volkslieder
+  ids:
+    imslp: 9 Ausgewählte Volkslieder, WoO VI/7 (Reger, Max)
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/9_Ausgew%C3%A4hlte_Volkslieder%2C_WoO_VI/7_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Male chorus (TTBB)'

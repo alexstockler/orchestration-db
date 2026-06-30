@@ -1,0 +1,15 @@
+id: lully-ballet-du-temps
+work:
+  composer: Lully, Jean-Baptiste
+  title: Ballet du Temps
+  ids:
+    imslp: Ballet du temps, LWV 1 (Lully, Jean-Baptiste)
+  year: 1654
+formula: ''
+instrumentation:
+  additional_raw: '|Tags=ballets | open sop 2alt ten bass'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ballet_du_temps%2C_LWV_1_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: |Tags=ballets ; open sop 2alt ten bass'

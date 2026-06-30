@@ -1,0 +1,18 @@
+id: raff-string-octet
+work:
+  composer: Raff, Joachim
+  title: String Octet
+  ids:
+    imslp: String Octet, Op.176 (Raff, Joachim)
+  year: 1873
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 4
+    viola: 2
+    cello: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Octet%2C_Op.176_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 violins, 2 violas, 2 cellos'

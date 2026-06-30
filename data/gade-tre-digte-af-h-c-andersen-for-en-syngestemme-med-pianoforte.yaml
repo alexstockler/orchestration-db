@@ -1,0 +1,18 @@
+id: gade-tre-digte-af-h-c-andersen-for-en-syngestemme-med-pianoforte
+work:
+  composer: Gade, Niels
+  title: Tre Digte af H. C. Andersen for en Syngestemme med Pianoforte
+  ids:
+    imslp: 3 Poems by H. C. Andersen (Gade, Niels)
+  year: 1850
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Poems_by_H._C._Andersen_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

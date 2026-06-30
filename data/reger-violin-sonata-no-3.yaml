@@ -1,0 +1,19 @@
+id: reger-violin-sonata-no-3
+work:
+  composer: Reger, Max
+  title: Violin Sonata No.3
+  ids:
+    imslp: Violin Sonata No.3, Op.41 (Reger, Max)
+  year: 1899
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Violin_Sonata_No.3%2C_Op.41_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'
+duration_minutes: 2326

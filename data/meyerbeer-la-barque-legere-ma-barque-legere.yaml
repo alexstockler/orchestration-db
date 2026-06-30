@@ -1,0 +1,18 @@
+id: meyerbeer-la-barque-legere-ma-barque-legere
+work:
+  composer: Meyerbeer, Giacomo
+  title: La barque légère / Ma barque légère
+  ids:
+    imslp: La barque légère (Meyerbeer, Giacomo)
+  year: 1829
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_barque_l%C3%A9g%C3%A8re_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

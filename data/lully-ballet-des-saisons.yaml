@@ -1,0 +1,15 @@
+id: lully-ballet-des-saisons
+work:
+  composer: Lully, Jean-Baptiste
+  title: Ballet des saisons
+  ids:
+    imslp: Ballet des saisons, LWV 15 (Lully, Jean-Baptiste)
+  year: 1661
+formula: ''
+instrumentation:
+  additional_raw: 5 instruments (SAATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ballet_des_saisons%2C_LWV_15_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: 5 instruments (SAATB)'

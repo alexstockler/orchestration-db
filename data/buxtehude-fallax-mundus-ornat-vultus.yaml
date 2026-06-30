@@ -1,0 +1,19 @@
+id: buxtehude-fallax-mundus-ornat-vultus
+work:
+  composer: Buxtehude, Dietrich
+  title: Fallax mundus ornat vultus
+  ids:
+    imslp: Fallax mundus ornat vultus, BuxWV 28 (Buxtehude, Dietrich)
+  year: 1925
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fallax_mundus_ornat_vultus%2C_BuxWV_28_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 2 violins, continuo'

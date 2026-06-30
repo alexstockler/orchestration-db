@@ -1,0 +1,16 @@
+id: suppe-die-jagd-nach-dem-gluck
+work:
+  composer: Suppé, Franz von
+  title: Die Jagd nach dem Glück
+  ids:
+    imslp: Die Jagd nach dem Glück (Suppé, Franz von)
+  year: 1888
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Die_Jagd_nach_dem_Gl%C3%BCck_%28Supp%C3%A9%2C_Franz_von%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, Chorus, Orchestra'

@@ -1,0 +1,16 @@
+id: raff-divertimento-uber-motive-aus-die-judin
+work:
+  composer: Raff, Joachim
+  title: Divertimento über Motive aus 'Die Jüdin'
+  ids:
+    imslp: Divertimento über Motive aus 'Die Jüdin', Op.43 (Raff, Joachim)
+  year: 1848
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Divertimento_%C3%BCber_Motive_aus_%27Die_J%C3%BCdin%27%2C_Op.43_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

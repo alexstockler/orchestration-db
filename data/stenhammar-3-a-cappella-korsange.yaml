@@ -1,0 +1,16 @@
+id: stenhammar-3-a-cappella-korsange
+work:
+  composer: Stenhammar, Wilhelm
+  title: 3 a cappella korsange
+  ids:
+    imslp: 3 a cappella korsange (Stenhammar, Wilhelm)
+  year: 1890
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_a_cappella_korsange_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: mixed chorus (SATB)'
+duration_minutes: 5

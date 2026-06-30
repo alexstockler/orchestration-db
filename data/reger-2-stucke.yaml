@@ -1,0 +1,19 @@
+id: reger-2-stucke
+work:
+  composer: Reger, Max
+  title: 2 Stücke
+  ids:
+    imslp: 2 Stücke, Op.79e (Reger, Max)
+  year: 1901
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_St%C3%BCcke%2C_Op.79e_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: cello, piano'
+duration_minutes: 5

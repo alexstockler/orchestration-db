@@ -1,0 +1,19 @@
+id: charpentier-elevation-au-st-sacrement
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Élévation au St Sacrement
+  ids:
+    imslp: Élévation au St Sacrement, H.264 (Charpentier, Marc-Antoine)
+  year: 1690
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  - tenor
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%89l%C3%A9vation_au_St_Sacrement%2C_H.264_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, tenor (or 2 tenors), bass, continuo'

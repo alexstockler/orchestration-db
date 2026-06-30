@@ -1,0 +1,15 @@
+id: meyerbeer-fackeltanz-no-2
+work:
+  composer: Meyerbeer, Giacomo
+  title: Fackeltanz No.2
+  ids:
+    imslp: Fackeltanz No.2 (Meyerbeer, Giacomo)
+  year: 1854
+formula: ''
+instrumentation:
+  additional_raw: military band
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fackeltanz_No.2_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Military band'

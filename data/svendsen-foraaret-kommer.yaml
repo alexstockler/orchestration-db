@@ -1,0 +1,35 @@
+id: svendsen-foraaret-kommer
+work:
+  composer: Svendsen, Johan
+  title: Foraaret kommer
+  ids:
+    imslp: Foraaret kommer, Op.33 (Svendsen, Johan)
+  year: 1892
+formula: 3[pic.2.3] 2 2 2 4331 tmp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 3
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - snare drum
+    - cymbals
+    - bass drum
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Foraaret_kommer%2C_Op.33_%28Svendsen%2C_Johan%29
+  confidence: single_source
+  notes: 'Instrumentation: piccolo, 2 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4
+    horns, 3 trumpets, 3 trombones, tuba, timpani, triangle, snare drum, cymbals,
+    bass drum, strings'

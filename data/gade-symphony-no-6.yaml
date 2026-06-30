@@ -1,0 +1,27 @@
+id: gade-symphony-no-6
+work:
+  composer: Gade, Niels
+  title: Symphony No.6
+  ids:
+    imslp: Symphony No.6, Op.32 (Gade, Niels)
+  year: 1856
+formula: 3222 4 2 1[btbn] 0 tmp str
+instrumentation:
+  flute: 3
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone:
+  - instrument: bass_trombone
+  percussion:
+    timpani: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_No.6%2C_Op.32_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2
+    trumpets, bass trombone, timpani, strings'
+duration_minutes: 25

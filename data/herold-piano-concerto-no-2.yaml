@@ -1,0 +1,17 @@
+id: herold-piano-concerto-no-2
+work:
+  composer: Hérold, Ferdinand
+  title: Piano Concerto No.2
+  ids:
+    imslp: Piano Concerto No.2, Op.26 (Hérold, Ferdinand)
+  year: 1811
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Concerto_No.2%2C_Op.26_%28H%C3%A9rold%2C_Ferdinand%29
+  confidence: single_source
+  notes: 'Instrumentation: piano, orchestra'
+duration_minutes: 25

@@ -1,0 +1,16 @@
+id: raff-spanische-rhapsodie
+work:
+  composer: Raff, Joachim
+  title: Spanische Rhapsodie
+  ids:
+    imslp: Spanische Rhapsodie, Op.120 (Raff, Joachim)
+  year: 1864
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Spanische_Rhapsodie%2C_Op.120_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

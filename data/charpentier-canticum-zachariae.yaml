@@ -1,0 +1,25 @@
+id: charpentier-canticum-zachariae
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Canticum Zachariae
+  ids:
+    imslp: Canticum Zachariae, H.345 (Charpentier, Marc-Antoine)
+  year: 1687
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - mezzo-soprano
+  - alto
+  - tenor
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canticum_Zachariae%2C_H.345_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, mezzo-soprano, alto, tenor, bass, 2 violins
+    (or 2 viols), continuo'
+duration_minutes: 16

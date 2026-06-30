@@ -1,0 +1,17 @@
+id: stenhammar-piano-sonata-in-g-minor
+work:
+  composer: Stenhammar, Wilhelm
+  title: Piano Sonata in G minor
+  ids:
+    imslp: Piano Sonata in G minor (Stenhammar, Wilhelm)
+  year: 1890
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata_in_G_minor_%28Stenhammar%2C_Wilhelm%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'
+duration_minutes: 22

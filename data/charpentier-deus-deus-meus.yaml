@@ -1,0 +1,23 @@
+id: charpentier-deus-deus-meus
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Deus, Deus meus
+  ids:
+    imslp: Deus, Deus meus, H.188 (Charpentier, Marc-Antoine)
+  year: 1683
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Deus%2C_Deus_meus%2C_H.188_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, bass; 2 violins (or 2 viols, and/or 2 recorders),
+    continuo'
+duration_minutes: 12

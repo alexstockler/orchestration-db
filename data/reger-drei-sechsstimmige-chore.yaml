@@ -1,0 +1,15 @@
+id: reger-drei-sechsstimmige-chore
+work:
+  composer: Reger, Max
+  title: Drei sechsstimmige Chöre
+  ids:
+    imslp: 3 Sechsstimmige Chöre, Op.39 (Reger, Max)
+  year: 1899
+formula: ''
+instrumentation:
+  additional_raw: choir a cappella (SAATBB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Sechsstimmige_Ch%C3%B6re%2C_Op.39_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: choir a cappella (SAATBB)'

@@ -1,0 +1,17 @@
+id: gade-ved-lejre-grsse-nu-far-pa-vold
+work:
+  composer: Gade, Niels
+  title: Ved Lejre græsse nu får på vold
+  ids:
+    imslp: Ved Lejre græsse nu får på vold (Gade, Niels)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ved_Lejre_gr%C3%A6sse_nu_f%C3%A5r_p%C3%A5_vold_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

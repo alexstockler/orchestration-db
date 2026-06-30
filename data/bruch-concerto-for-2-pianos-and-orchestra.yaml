@@ -1,0 +1,32 @@
+id: bruch-concerto-for-2-pianos-and-orchestra
+work:
+  composer: Bruch, Max
+  title: Concerto for 2 Pianos and Orchestra
+  ids:
+    imslp: Concerto for 2 Pianos, Op.88a (Bruch, Max)
+  year: 1912
+formula: 2 3[1.2.Eh] 2 2 4230 tmp str
+instrumentation:
+  flute: 2
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+  strings: str
+  soloists:
+  - 2 pianos
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concerto_for_2_Pianos%2C_Op.88a_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Solo: 2 pianos, Orchestra: 2 flutes, 2 oboes, English horn,
+    2 clarinets (B),, 2 bassoons, 4 horns (F), 2 trumpets (B), 3 trombones, timpani,
+    strings'
+duration_minutes: 25

@@ -1,0 +1,20 @@
+id: charpentier-verbum-caro-panum-verbum
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Verbum caro, panum verbum
+  ids:
+    imslp: Verbum caro, panum verbum, H.267 (Charpentier, Marc-Antoine)
+  year: 1692
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  - tenor
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Verbum_caro%2C_panum_verbum%2C_H.267_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: alto (counter tenor), tenor, bass, continuo'
+duration_minutes: 3

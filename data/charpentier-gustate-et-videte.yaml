@@ -1,0 +1,16 @@
+id: charpentier-gustate-et-videte
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Gustate et videte
+  ids:
+    imslp: Gustate et videte, H.257 (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gustate_et_videte%2C_H.257_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

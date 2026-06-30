@@ -1,0 +1,17 @@
+id: reger-es-soll-mein-gebet-dich-tragen
+work:
+  composer: Reger, Max
+  title: Es soll mein Gebet dich tragen
+  ids:
+    imslp: Es soll mein Gebet dich tragen, WoO VII/43 (Reger, Max)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Es_soll_mein_Gebet_dich_tragen%2C_WoO_VII/43_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

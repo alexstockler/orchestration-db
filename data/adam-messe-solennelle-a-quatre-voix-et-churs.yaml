@@ -1,0 +1,17 @@
+id: adam-messe-solennelle-a-quatre-voix-et-churs
+work:
+  composer: Adam, Adolphe
+  title: Messe solennelle à quatre voix et chœurs
+  ids:
+    imslp: Messe solennelle à quatre voix et chœurs (Adam, Adolphe)
+  year: 1837
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+  additional_raw: 4 vocal soloists (SSTB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Messe_solennelle_%C3%A0_quatre_voix_et_ch%C5%93urs_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 vocal soloists (SSTB), mixed chorus (STB), orchestra
+    (2 cornets in F, 3 trombones, ophicleide, organ, strings - cellos & basses)'

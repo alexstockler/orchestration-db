@@ -1,0 +1,18 @@
+id: raff-2-lieder
+work:
+  composer: Raff, Joachim
+  title: 2 Lieder
+  ids:
+    imslp: 2 Lieder, Op.48 (Raff, Joachim)
+  year: 1848
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Lieder%2C_Op.48_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

@@ -1,0 +1,43 @@
+id: herold-zampa-ou-la-fiancee-de-marbre
+work:
+  composer: Hérold, Ferdinand
+  title: Zampa, ou La fiancée de marbre
+  ids:
+    imslp: Zampa (Hérold, Ferdinand)
+  year: 1831
+formula: 2[pic.2] 2 2 2 4230 tmp ophicleide str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - bass drum
+    - cymbals
+  extras:
+  - instrument: ophicleide
+  strings: str
+  soloists:
+  - Zampa (tenor)
+  - Alphonse de Monza (tenor)
+  - Camille (soprano)
+  - Daniel (tenor)
+  - Ritta (mezzo-soprano)
+  - Dandolo (tenor) Mixed Chorus (sailors, soldiers, peasants, young men, young Sicilians)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Zampa_%28H%C3%A9rold%2C_Ferdinand%29
+  confidence: single_source
+  notes: 'Instrumentation: Cast :Zampa (tenor), Alphonse de Monza (tenor), Camille
+    (soprano), Daniel (tenor), Ritta (mezzo-soprano), Dandolo (tenor) Mixed Chorus
+    (sailors, soldiers, peasants, young men, young Sicilians) Orchestra :piccolo,
+    flute, 2 oboes, 2 clarinets, 2 bassoons, 4 horns, 2 trumpets, 3 trombones, ophicléide,
+    timpani, triangle, bass drum, cymbals, strings'

@@ -1,0 +1,17 @@
+id: reger-phantasie-und-fuge-uber-den-namen-b-a-c-h
+work:
+  composer: Reger, Max
+  title: Phantasie und Fuge über den Namen B-A-C-H
+  ids:
+    imslp: Fantasie und Fuge über B-A-C-H, Op.46 (Reger, Max)
+  year: 1900
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasie_und_Fuge_%C3%BCber_B-A-C-H%2C_Op.46_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 20

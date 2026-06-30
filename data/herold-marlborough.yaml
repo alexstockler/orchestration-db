@@ -1,0 +1,15 @@
+id: herold-marlborough
+work:
+  composer: Hérold, Ferdinand
+  title: Marlborough
+  ids:
+    imslp: Marlborough Variée, Op.30 (Hérold, Ferdinand)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marlborough_Vari%C3%A9e%2C_Op.30_%28H%C3%A9rold%2C_Ferdinand%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

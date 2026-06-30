@@ -1,0 +1,15 @@
+id: pergolesi-sinfonia-in-g-minor-p-24c
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Sinfonia in G minor, P.24c
+  ids:
+    imslp: Sinfonia in G minor, P.24c (Pergolesi, Giovanni Battista)
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sinfonia_in_G_minor%2C_P.24c_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: strings (4 violins, viola), continuo'

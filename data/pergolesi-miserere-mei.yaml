@@ -1,0 +1,14 @@
+id: pergolesi-miserere-mei
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Miserere mei
+  ids:
+    imslp: Miserere mei in B-flat major (Pergolesi, Giovanni Battista)
+formula: ''
+instrumentation:
+  additional_raw: undetermined
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Miserere_mei_in_B-flat_major_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: undetermined'

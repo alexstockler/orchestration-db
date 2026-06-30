@@ -1,0 +1,18 @@
+id: adam-ave-maris-stella
+work:
+  composer: Adam, Adolphe
+  title: Ave maris stella
+  ids:
+    imslp: Ave maris stella (Adam, Adolphe)
+  year: 1850
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+  soloists:
+  - 2 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_maris_stella_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 voices (soprano and mezzo-soprano), organ'

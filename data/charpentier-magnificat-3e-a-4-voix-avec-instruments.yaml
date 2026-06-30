@@ -1,0 +1,16 @@
+id: charpentier-magnificat-3e-a-4-voix-avec-instruments
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Magnificat (3e) à 4 voix avec instruments
+  ids:
+    imslp: Magnificat à 4 voix avec instruments, H.79 (Charpentier, Marc-Antoine)
+  year: 1692
+formula: str
+instrumentation:
+  strings: str
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Magnificat_%C3%A0_4_voix_avec_instruments%2C_H.79_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 recorders, strings, continuo'

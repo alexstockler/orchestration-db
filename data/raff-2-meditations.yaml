@@ -1,0 +1,16 @@
+id: raff-2-meditations
+work:
+  composer: Raff, Joachim
+  title: 2 Méditations
+  ids:
+    imslp: 2 Méditations, Op.147 (Raff, Joachim)
+  year: 1868
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_M%C3%A9ditations%2C_Op.147_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

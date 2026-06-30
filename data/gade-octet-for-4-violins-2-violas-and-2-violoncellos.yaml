@@ -1,0 +1,19 @@
+id: gade-octet-for-4-violins-2-violas-and-2-violoncellos
+work:
+  composer: Gade, Niels
+  title: Octet for 4 violins, 2 violas and 2 violoncellos
+  ids:
+    imslp: String Octet, Op.17 (Gade, Niels)
+  year: 1848
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 4
+    viola: 2
+    cello: 2
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Octet%2C_Op.17_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 violins, 2 violas, 2 cellos'
+duration_minutes: 35

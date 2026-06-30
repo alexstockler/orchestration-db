@@ -1,0 +1,16 @@
+id: reger-nun-kommt-die-nacht-gegangen
+work:
+  composer: Reger, Max
+  title: Nun kommt die Nacht gegangen
+  ids:
+    imslp: Nun kommt die Nacht gegangen (Reger, Max)
+  year: 1903
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Nun_kommt_die_Nacht_gegangen_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: (Medium) voice and piano'

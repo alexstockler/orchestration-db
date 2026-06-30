@@ -1,0 +1,16 @@
+id: scarlatti-gia-che-al-partir-t-astringe
+work:
+  composer: Scarlatti, Domenico
+  title: Già che al partir t'astringe
+  ids:
+    imslp: Già che al partir t'astringe (Scarlatti, Domenico)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gi%C3%A0_che_al_partir_t%27astringe_%28Scarlatti%2C_Domenico%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'

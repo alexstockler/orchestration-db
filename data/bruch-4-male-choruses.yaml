@@ -1,0 +1,15 @@
+id: bruch-4-male-choruses
+work:
+  composer: Bruch, Max
+  title: 4 Male Choruses
+  ids:
+    imslp: 4 Male Choruses, Op.19 (Bruch, Max)
+  year: 1864
+formula: ''
+instrumentation:
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/4_Male_Choruses%2C_Op.19_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB), orchestra'

@@ -1,0 +1,17 @@
+id: gade-til-rosengaarden-gik-jeg
+work:
+  composer: Gade, Niels
+  title: Til Rosengaarden gik jeg
+  ids:
+    imslp: Til Rosengaarden gik jeg (Gade, Niels)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Til_Rosengaarden_gik_jeg_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

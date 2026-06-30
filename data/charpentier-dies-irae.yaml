@@ -1,0 +1,21 @@
+id: charpentier-dies-irae
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Dies irae
+  ids:
+    imslp: Dies irae, H.12 (Charpentier, Marc-Antoine)
+  year: 1671
+formula: ''
+instrumentation:
+  chorus_raw: 2 mixed choruses
+  solo_strings:
+    violin: 2
+    viola: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dies_irae%2C_H.12_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 mixed choruses (SATB/SATB), 2 violins, viola (or viols),
+    continuo'
+duration_minutes: 15

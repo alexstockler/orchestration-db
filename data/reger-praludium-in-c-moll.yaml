@@ -1,0 +1,17 @@
+id: reger-praludium-in-c-moll
+work:
+  composer: Reger, Max
+  title: Präludium in C moll
+  ids:
+    imslp: Präludium in C minor, WoO VIII/6 (Reger, Max)
+  year: 1900
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pr%C3%A4ludium_in_C_minor%2C_WoO_VIII/6_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 2

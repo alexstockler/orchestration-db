@@ -1,0 +1,17 @@
+id: raff-2-romances
+work:
+  composer: Raff, Joachim
+  title: 2 Romances
+  ids:
+    imslp: 2 Romances, Op.182 (Raff, Joachim)
+  year: 1873
+formula: 0000 1000 pf
+instrumentation:
+  horn: 1
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Romances%2C_Op.182_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano, Horn (or Cello)'

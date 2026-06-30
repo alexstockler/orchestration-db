@@ -1,0 +1,16 @@
+id: raff-scherzo
+work:
+  composer: Raff, Joachim
+  title: Scherzo
+  ids:
+    imslp: Scherzo, Op.3 (Raff, Joachim)
+  year: 1842
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scherzo%2C_Op.3_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

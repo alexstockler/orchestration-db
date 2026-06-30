@@ -1,0 +1,17 @@
+id: reger-simple-songs
+work:
+  composer: Reger, Max
+  title: Simple Songs
+  ids:
+    imslp: Schlichte Weisen, Op.76 (Reger, Max)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Schlichte_Weisen%2C_Op.76_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

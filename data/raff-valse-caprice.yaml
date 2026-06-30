@@ -1,0 +1,16 @@
+id: raff-valse-caprice
+work:
+  composer: Raff, Joachim
+  title: Valse-Caprice
+  ids:
+    imslp: Valse-Caprice, Op.116 (Raff, Joachim)
+  year: 1864
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Valse-Caprice%2C_Op.116_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

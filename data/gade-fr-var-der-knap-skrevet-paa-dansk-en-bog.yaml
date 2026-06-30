@@ -1,0 +1,17 @@
+id: gade-fr-var-der-knap-skrevet-paa-dansk-en-bog
+work:
+  composer: Gade, Niels
+  title: Før var der knap skrevet paa Dansk en Bog
+  ids:
+    imslp: Før var der knap skrevet paa Dansk en Bog (Gade, Niels)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/F%C3%B8r_var_der_knap_skrevet_paa_Dansk_en_Bog_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

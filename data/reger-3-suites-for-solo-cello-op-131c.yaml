@@ -1,0 +1,16 @@
+id: reger-3-suites-for-solo-cello-op-131c
+work:
+  composer: Reger, Max
+  title: 3 Suites for Solo Cello, Op.131c
+  ids:
+    imslp: 3 Suites for Solo Cello, Op.131c (Reger, Max)
+  year: 1914
+formula: ''
+instrumentation:
+  solo_strings:
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Suites_for_Solo_Cello%2C_Op.131c_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: cello'

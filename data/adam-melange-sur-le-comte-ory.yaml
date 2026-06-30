@@ -1,0 +1,16 @@
+id: adam-melange-sur-le-comte-ory
+work:
+  composer: Adam, Adolphe
+  title: Mélange sur 'Le comte Ory'
+  ids:
+    imslp: Mélange sur 'Le comte Ory', Op.29 (Adam, Adolphe)
+  year: 1828
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/M%C3%A9lange_sur_%27Le_comte_Ory%27%2C_Op.29_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

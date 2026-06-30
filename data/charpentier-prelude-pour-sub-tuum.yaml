@@ -1,0 +1,15 @@
+id: charpentier-prelude-pour-sub-tuum
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Prélude pour Sub tuum
+  ids:
+    imslp: Prélude pour Sub tuum, H.527 (Charpentier, Marc-Antoine)
+  year: 1690
+formula: ''
+instrumentation:
+  additional_raw: 2 instruments | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pr%C3%A9lude_pour_Sub_tuum%2C_H.527_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 instruments, continuo'

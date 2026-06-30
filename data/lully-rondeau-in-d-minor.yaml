@@ -1,0 +1,15 @@
+id: lully-rondeau-in-d-minor
+work:
+  composer: Lully, Jean-Baptiste
+  title: Rondeau in D minor
+  ids:
+    imslp: Gavotte (Lully, Jean-Baptiste)
+  year: 1686
+formula: ''
+instrumentation:
+  additional_raw: bass viol | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gavotte_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: bass viol, continuo'

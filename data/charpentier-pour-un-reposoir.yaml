@@ -1,0 +1,14 @@
+id: charpentier-pour-un-reposoir
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Pour un reposoir
+  ids:
+    imslp: Pour un reposoir, H.508 (Charpentier, Marc-Antoine)
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pour_un_reposoir%2C_H.508_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'

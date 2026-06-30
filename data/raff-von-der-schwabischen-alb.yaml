@@ -1,0 +1,16 @@
+id: raff-von-der-schwabischen-alb
+work:
+  composer: Raff, Joachim
+  title: Von der schwäbischen Alb
+  ids:
+    imslp: Von der schwäbischen Alb, Op.215 (Raff, Joachim)
+  year: 1881
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Von_der_schw%C3%A4bischen_Alb%2C_Op.215_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

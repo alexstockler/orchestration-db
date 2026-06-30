@@ -1,0 +1,18 @@
+id: martucci-3-stucke
+work:
+  composer: Martucci, Giuseppe
+  title: 3 Stücke
+  ids:
+    imslp: 3 Stücke, Op.67 (Martucci, Giuseppe)
+  year: 1887
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_St%C3%BCcke%2C_Op.67_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

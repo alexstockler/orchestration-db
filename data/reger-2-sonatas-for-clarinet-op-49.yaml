@@ -1,0 +1,18 @@
+id: reger-2-sonatas-for-clarinet-op-49
+work:
+  composer: Reger, Max
+  title: 2 Sonatas for Clarinet, Op.49
+  ids:
+    imslp: 2 Clarinet Sonatas, Op.49 (Reger, Max)
+  year: 1900
+formula: 0010 0000 pf
+instrumentation:
+  clarinet: 1
+  keyboards:
+  - instrument: piano
+  additional_raw: A (No.2))
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Clarinet_Sonatas%2C_Op.49_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: clarinet (B (No.1), A (No.2)), piano'

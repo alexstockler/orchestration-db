@@ -1,0 +1,17 @@
+id: bellini-zaira
+work:
+  composer: Bellini, Vincenzo
+  title: Zaira
+  ids:
+    imslp: Zaira (Bellini, Vincenzo)
+  year: 1829
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Zaira_%28Bellini%2C_Vincenzo%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

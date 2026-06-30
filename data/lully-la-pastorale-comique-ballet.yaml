@@ -1,0 +1,14 @@
+id: lully-la-pastorale-comique-ballet
+work:
+  composer: Lully, Jean-Baptiste
+  title: La Pastorale comique, Ballet
+  ids:
+    imslp: La pastorale comique, LWV 33 (Lully, Jean-Baptiste)
+formula: ''
+instrumentation:
+  additional_raw: '|Tags=ballets | orch'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_pastorale_comique%2C_LWV_33_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: |Tags=ballets ; orch'

@@ -1,0 +1,17 @@
+id: bellini-sinfonia-breve-in-d-major
+work:
+  composer: Bellini, Vincenzo
+  title: Sinfonia Breve in D major
+  ids:
+    imslp: Sinfonia Breve in D major (Bellini, Vincenzo)
+formula: 0020 2000 str
+instrumentation:
+  clarinet: 2
+  horn: 2
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sinfonia_Breve_in_D_major_%28Bellini%2C_Vincenzo%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 clarinets (C), 2 horns (F), strings'
+duration_minutes: 6

@@ -1,0 +1,29 @@
+id: raff-welt-ende-gericht-neue-welt
+work:
+  composer: Raff, Joachim
+  title: Welt-Ende, Gericht, Neue Welt
+  ids:
+    imslp: Welt-Ende, Gericht, Neue Welt, Op.212 (Raff, Joachim)
+  year: 1879
+formula: 3222 4231 tmp
+instrumentation:
+  flute: 3
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+  additional_raw: small and bass drums and strings
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Welt-Ende%2C_Gericht%2C_Neue_Welt%2C_Op.212_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 flutes , 2 oboes , 2 clarinets , 2 bassoons , 4 horns
+    , 2 trumpets , 3 trombones , tuba , timpani , triangle , small and bass drums
+    and strings'

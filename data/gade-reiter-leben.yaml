@@ -1,0 +1,15 @@
+id: gade-reiter-leben
+work:
+  composer: Gade, Niels
+  title: Reiter-Leben
+  ids:
+    imslp: Reiter-Leben, Op.16 (Gade, Niels)
+  year: 1848
+formula: ''
+instrumentation:
+  additional_raw: TTBB voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Reiter-Leben%2C_Op.16_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: TTBB voices'

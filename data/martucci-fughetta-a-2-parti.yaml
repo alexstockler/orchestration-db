@@ -1,0 +1,16 @@
+id: martucci-fughetta-a-2-parti
+work:
+  composer: Martucci, Giuseppe
+  title: Fughetta a 2 parti
+  ids:
+    imslp: Fughetta a 2 parti, Op.18 (Martucci, Giuseppe)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fughetta_a_2_parti%2C_Op.18_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

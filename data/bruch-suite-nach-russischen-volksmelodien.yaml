@@ -1,0 +1,41 @@
+id: bruch-suite-nach-russischen-volksmelodien
+work:
+  composer: Bruch, Max
+  title: Suite nach russischen Volksmelodien
+  ids:
+    imslp: Suite nach russischen Volksmelodien, Op.79b (Bruch, Max)
+  year: 1905
+formula: 3[pic.2.3] 3[1.2.Eh] 2 3[1.2.cbn] 4431 tmp hp str
+instrumentation:
+  flute:
+  - instrument: piccolo
+  - {}
+  - {}
+  oboe:
+  - {}
+  - {}
+  - instrument: english_horn
+  clarinet: 2
+  bassoon:
+  - {}
+  - {}
+  - instrument: contrabassoon
+  horn: 4
+  trumpet: 4
+  trombone: 3
+  tuba: 1
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+    - bass drum
+    - cymbals
+  harp: 1
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_nach_russischen_Volksmelodien%2C_Op.79b_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra: piccolo, 2 flutes, 2 oboes, English horn, 2
+    clarinets (B/A), 2 bassoons, contrabassoon + 4 horns (F/D), 4 trumpets (2 in B/D/E,
+    2 in E), 3 trombones, tuba + timpani, triangle, bass drum, cymbals + harp + strings'

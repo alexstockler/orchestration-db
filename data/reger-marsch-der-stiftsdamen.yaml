@@ -1,0 +1,16 @@
+id: reger-marsch-der-stiftsdamen
+work:
+  composer: Reger, Max
+  title: Marsch der Stiftsdamen
+  ids:
+    imslp: Marsch der Stiftsdamen, WoO VIII/16 (Reger, Max)
+  year: 1914
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marsch_der_Stiftsdamen%2C_WoO_VIII/16_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

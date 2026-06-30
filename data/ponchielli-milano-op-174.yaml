@@ -1,0 +1,14 @@
+id: ponchielli-milano-op-174
+work:
+  composer: Ponchielli, Amilcare
+  title: Milano, Op.174
+  ids:
+    imslp: Milano, Op.174 (Ponchielli, Amilcare)
+formula: ''
+instrumentation:
+  additional_raw: Wind band
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Milano%2C_Op.174_%28Ponchielli%2C_Amilcare%29
+  confidence: single_source
+  notes: 'Instrumentation: Wind band'

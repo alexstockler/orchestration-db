@@ -1,0 +1,17 @@
+id: suppe-ein-morgen-ein-mittag-und-ein-abend-in-wien
+work:
+  composer: Suppé, Franz von
+  title: Ein Morgen, ein Mittag und ein Abend in Wien
+  ids:
+    imslp: Ein Morgen, ein Mittag und ein Abend in Wien (Suppé, Franz von)
+  year: 1843
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ein_Morgen%2C_ein_Mittag_und_ein_Abend_in_Wien_%28Supp%C3%A9%2C_Franz_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

@@ -1,0 +1,16 @@
+id: pergolesi-sonata-in-a-major
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Sonata in A major
+  ids:
+    imslp: Harpsichord Sonata in A major, P.1 (Pergolesi, Giovanni Battista)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Harpsichord_Sonata_in_A_major%2C_P.1_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'
+duration_minutes: 2

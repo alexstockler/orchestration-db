@@ -1,0 +1,18 @@
+id: meyerbeer-festgesang-zur-errichtung-des-guttenbergschen-denkmals-in-mainz
+work:
+  composer: Meyerbeer, Giacomo
+  title: Festgesang zur Errichtung des Guttenberg’schen Denkmals in Mainz
+  ids:
+    imslp: Festgesang zur Errichtung des Guttenberg’schen Denkmals in Mainz (Meyerbeer,
+      Giacomo)
+  year: 1834
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Festgesang_zur_Errichtung_des_Guttenberg%E2%80%99schen_Denkmals_in_Mainz_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB), piano'

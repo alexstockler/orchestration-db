@@ -1,0 +1,16 @@
+id: raff-introduction-und-fuge
+work:
+  composer: Raff, Joachim
+  title: Introduction und Fuge
+  ids:
+    imslp: Introduction und Fuge, WoO.25 (Raff, Joachim)
+  year: 1866
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Introduction_und_Fuge%2C_WoO.25_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

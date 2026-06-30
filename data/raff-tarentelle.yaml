@@ -1,0 +1,16 @@
+id: raff-tarentelle
+work:
+  composer: Raff, Joachim
+  title: Tarentelle
+  ids:
+    imslp: Tarentelle, Op.144 (Raff, Joachim)
+  year: 1867
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tarentelle%2C_Op.144_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

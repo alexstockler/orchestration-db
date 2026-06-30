@@ -1,0 +1,17 @@
+id: lully-thesee
+work:
+  composer: Lully, Jean-Baptiste
+  title: Thesée
+  ids:
+    imslp: Thésée, LWV 51 (Lully, Jean-Baptiste)
+  year: 1675
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Th%C3%A9s%C3%A9e%2C_LWV_51_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

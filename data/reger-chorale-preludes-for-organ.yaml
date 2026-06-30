@@ -1,0 +1,16 @@
+id: reger-chorale-preludes-for-organ
+work:
+  composer: Reger, Max
+  title: Chorale Preludes for Organ
+  ids:
+    imslp: Choralvorspiele, Op.79b (Reger, Max)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Choralvorspiele%2C_Op.79b_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 20

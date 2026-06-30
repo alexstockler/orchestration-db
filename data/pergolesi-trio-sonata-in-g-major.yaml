@@ -1,0 +1,17 @@
+id: pergolesi-trio-sonata-in-g-major
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Trio Sonata in G major
+  ids:
+    imslp: Trio Sonata in G major, P.12 (Pergolesi, Giovanni Battista)
+  year: 1780
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: continuo (cello, keyboard)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_G_major%2C_P.12_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, continuo (cello, keyboard)'

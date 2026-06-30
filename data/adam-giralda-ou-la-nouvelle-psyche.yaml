@@ -1,0 +1,17 @@
+id: adam-giralda-ou-la-nouvelle-psyche
+work:
+  composer: Adam, Adolphe
+  title: Giralda, ou La nouvelle psyché
+  ids:
+    imslp: Giralda (Adam, Adolphe)
+  year: 1850
+formula: ''
+instrumentation:
+  chorus_raw: chorus
+  additional_raw: Vocal soloists
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Giralda_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: Vocal soloists, Chorus, Orchestra'
+duration_minutes: 135

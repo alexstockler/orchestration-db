@@ -1,0 +1,18 @@
+id: meyerbeer-der-garten-des-herzens
+work:
+  composer: Meyerbeer, Giacomo
+  title: Der Garten des Herzens
+  ids:
+    imslp: Der Garten des Herzens (Meyerbeer, Giacomo)
+  year: 1839
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Garten_des_Herzens_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

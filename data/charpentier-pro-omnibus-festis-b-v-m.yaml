@@ -1,0 +1,19 @@
+id: charpentier-pro-omnibus-festis-b-v-m
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Pro omnibus festis B V M
+  ids:
+    imslp: Pro omnibus festis B V M, H.333 (Charpentier, Marc-Antoine)
+  year: 1683
+formula: ''
+instrumentation:
+  soloists:
+  - tenor
+  additional_raw: 'Haut-Dessus | Dessus | Bas-Dessus | Haute-Contre | Basse | Instruments:
+    strings | continuo'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pro_omnibus_festis_B_V_M%2C_H.333_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: Voix: Haut-Dessus, Dessus, Bas-Dessus, Haute-Contre, Tenor,
+    Basse, Instruments: strings, continuo'

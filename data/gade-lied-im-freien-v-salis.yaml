@@ -1,0 +1,15 @@
+id: gade-lied-im-freien-v-salis
+work:
+  composer: Gade, Niels
+  title: Lied im Freien, v. Salis.
+  ids:
+    imslp: Lied im Freien (Gade, Niels)
+  year: 1844
+formula: ''
+instrumentation:
+  additional_raw: SSTB (or SATB) choir
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lied_im_Freien_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: SSTB (or SATB) choir'

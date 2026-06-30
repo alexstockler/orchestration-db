@@ -1,0 +1,16 @@
+id: raff-fantaisie-melodique-sur-la-sonnambula-de-bellini
+work:
+  composer: Raff, Joachim
+  title: Fantaisie mélodique sur La sonnambula, de Bellini
+  ids:
+    imslp: Fantasie über Motive aus 'Die Nachtwandlerin', Op.37 (Raff, Joachim)
+  year: 1847
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fantasie_%C3%BCber_Motive_aus_%27Die_Nachtwandlerin%27%2C_Op.37_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: 1 piano'

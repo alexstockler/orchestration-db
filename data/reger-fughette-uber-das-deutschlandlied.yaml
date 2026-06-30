@@ -1,0 +1,16 @@
+id: reger-fughette-uber-das-deutschlandlied
+work:
+  composer: Reger, Max
+  title: Fughette über das Deutschlandlied
+  ids:
+    imslp: Fughette über das Deutschlandlied, WoO III/24 (Reger, Max)
+  year: 1916
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fughette_%C3%BCber_das_Deutschlandlied%2C_WoO_III/24_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

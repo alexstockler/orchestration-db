@@ -1,0 +1,18 @@
+id: raff-3-duos-for-violin-and-piano-on-motives-from-richard-wagner-s-operas
+work:
+  composer: Raff, Joachim
+  title: 3 Duos for Violin and Piano on Motives from Richard Wagner's Operas
+  ids:
+    imslp: 3 Duos on Motives from Richard Wagner's Operas, Op.63 (Raff, Joachim)
+  year: 1851
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Duos_on_Motives_from_Richard_Wagner%27s_Operas%2C_Op.63_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

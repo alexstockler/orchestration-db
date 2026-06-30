@@ -1,0 +1,16 @@
+id: buxtehude-canzona-in-g-major
+work:
+  composer: Buxtehude, Dietrich
+  title: Canzona in G major
+  ids:
+    imslp: Canzona in G major, BuxWV 170 (Buxtehude, Dietrich)
+  year: 1952
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Canzona_in_G_major%2C_BuxWV_170_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

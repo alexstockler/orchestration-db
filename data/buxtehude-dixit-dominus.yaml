@@ -1,0 +1,20 @@
+id: buxtehude-dixit-dominus
+work:
+  composer: Buxtehude, Dietrich
+  title: Dixit Dominus
+  ids:
+    imslp: Dixit Dominus, BuxWV 17 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  solo_strings:
+    violin: 2
+    viola: 2
+  additional_raw: spinetta (or violone) | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Dixit_Dominus%2C_BuxWV_17_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano (or tenor), 2 violins, 2 violas, spinetta (or violone),
+    continuo'

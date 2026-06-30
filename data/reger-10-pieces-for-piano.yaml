@@ -1,0 +1,16 @@
+id: reger-10-pieces-for-piano
+work:
+  composer: Reger, Max
+  title: 10 Pieces for Piano
+  ids:
+    imslp: Kompositionen, Op.79a (Reger, Max)
+  year: 1900
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kompositionen%2C_Op.79a_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

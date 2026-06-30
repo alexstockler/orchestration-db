@@ -1,0 +1,14 @@
+id: adam-giselle
+work:
+  composer: Adam, Adolphe
+  title: Giselle
+  ids:
+    imslp: Giselle (Adam, Adolphe)
+  year: 1841
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Giselle_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

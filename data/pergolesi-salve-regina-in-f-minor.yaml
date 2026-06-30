@@ -1,0 +1,20 @@
+id: pergolesi-salve-regina-in-f-minor
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Salve Regina in F minor
+  ids:
+    imslp: Salve Regina in F minor, P.78 (Pergolesi, Giovanni Battista)
+  year: 1881
+formula: org str
+instrumentation:
+  keyboards:
+  - instrument: organ
+  strings: str
+  soloists:
+  - sopranos
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Salve_Regina_in_F_minor%2C_P.78_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos, strings (2 violins, viola, basso), organ (see
+    below, Comments)'

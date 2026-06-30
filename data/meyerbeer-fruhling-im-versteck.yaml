@@ -1,0 +1,18 @@
+id: meyerbeer-fruhling-im-versteck
+work:
+  composer: Meyerbeer, Giacomo
+  title: Frühling im Versteck
+  ids:
+    imslp: Frühling im Versteck (Meyerbeer, Giacomo)
+  year: 1847
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fr%C3%BChling_im_Versteck_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

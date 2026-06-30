@@ -1,0 +1,19 @@
+id: buxtehude-drei-schone-dinge-sind
+work:
+  composer: Buxtehude, Dietrich
+  title: Drei schöne Dinge sind
+  ids:
+    imslp: Drei schöne Dinge sind, BuxWV 19 (Buxtehude, Dietrich)
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: violone/bassoon | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Drei_sch%C3%B6ne_Dinge_sind%2C_BuxWV_19_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, bass, 2 violins, violone/bassoon, continuo'

@@ -1,0 +1,15 @@
+id: reger-vater-unser
+work:
+  composer: Reger, Max
+  title: Vater unser
+  ids:
+    imslp: Vater unser, WoO VI/22 (Reger, Max)
+  year: 1909
+formula: ''
+instrumentation:
+  chorus_raw: 3 mixed choruses
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Vater_unser%2C_WoO_VI/22_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 mixed choruses (SATB)'

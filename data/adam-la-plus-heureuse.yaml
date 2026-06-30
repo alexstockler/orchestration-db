@@ -1,0 +1,18 @@
+id: adam-la-plus-heureuse
+work:
+  composer: Adam, Adolphe
+  title: La plus heureuse
+  ids:
+    imslp: La plus heureuse (Adam, Adolphe)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_plus_heureuse_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

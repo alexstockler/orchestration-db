@@ -1,0 +1,18 @@
+id: pergolesi-salve-regina-in-e-minor
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Salve Regina in E minor
+  ids:
+    imslp: Salve Regina in E minor (Pergolesi, Giovanni Battista)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - alto
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Salve_Regina_in_E_minor_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, strings, continuo'
+duration_minutes: 5

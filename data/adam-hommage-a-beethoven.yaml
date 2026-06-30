@@ -1,0 +1,16 @@
+id: adam-hommage-a-beethoven
+work:
+  composer: Adam, Adolphe
+  title: Hommage à Beethoven
+  ids:
+    imslp: Hommage à Beethoven (Adam, Adolphe)
+  year: 1914
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Hommage_%C3%A0_Beethoven_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,17 @@
+id: lully-idylle-sur-le-paix
+work:
+  composer: Lully, Jean-Baptiste
+  title: Idylle sur le Paix
+  ids:
+    imslp: Idylle sur le Paix, LWV 68 (Lully, Jean-Baptiste)
+  year: 1685
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Idylle_sur_le_Paix%2C_LWV_68_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, chorus, orchestra'

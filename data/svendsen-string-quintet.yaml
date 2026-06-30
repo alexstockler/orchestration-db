@@ -1,0 +1,19 @@
+id: svendsen-string-quintet
+work:
+  composer: Svendsen, Johan
+  title: String Quintet
+  ids:
+    imslp: String Quintet, Op.5 (Svendsen, Johan)
+  year: 1867
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 2
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/String_Quintet%2C_Op.5_%28Svendsen%2C_Johan%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, 2 violas, cello'
+duration_minutes: 35

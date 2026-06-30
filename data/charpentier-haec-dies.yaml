@@ -1,0 +1,19 @@
+id: charpentier-haec-dies
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Haec dies
+  ids:
+    imslp: Haec dies, H.308 (Charpentier, Marc-Antoine)
+  year: 1671
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  - alto
+  additional_raw: 2 recorders | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Haec_dies%2C_H.308_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, alto, 2 recorders, continuo'
+duration_minutes: 3

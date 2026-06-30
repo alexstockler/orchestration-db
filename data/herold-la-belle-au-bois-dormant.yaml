@@ -1,0 +1,13 @@
+id: herold-la-belle-au-bois-dormant
+work:
+  composer: Hérold, Ferdinand
+  title: La belle au bois dormant
+  ids:
+    imslp: La belle au bois dormant (Hérold, Ferdinand)
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_belle_au_bois_dormant_%28H%C3%A9rold%2C_Ferdinand%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

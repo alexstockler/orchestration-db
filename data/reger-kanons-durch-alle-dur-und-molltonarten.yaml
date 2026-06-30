@@ -1,0 +1,15 @@
+id: reger-kanons-durch-alle-dur-und-molltonarten
+work:
+  composer: Reger, Max
+  title: Kanons durch alle Dur und Molltonarten
+  ids:
+    imslp: Kanons durch alle Dur- und Molltonarten, WoO III/4 (Reger, Max)
+  year: 1895
+formula: ''
+instrumentation:
+  additional_raw: '|Tags=canons | pf'
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Kanons_durch_alle_Dur-_und_Molltonarten%2C_WoO_III/4_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: |Tags=canons ; pf'

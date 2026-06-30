@@ -1,0 +1,17 @@
+id: reger-suite-for-violin-and-piano
+work:
+  composer: Reger, Max
+  title: Suite for Violin and Piano
+  ids:
+    imslp: Suite, Op.103a (Reger, Max)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite%2C_Op.103a_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

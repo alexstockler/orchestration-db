@@ -1,0 +1,18 @@
+id: charpentier-antiphona-in-honorem-beate-genovesae
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Antiphona in honorem beate Genovesae
+  ids:
+    imslp: Antiphona in honorem beate Genovesae, H.29 (Charpentier, Marc-Antoine)
+  year: 1686
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Antiphona_in_honorem_beate_Genovesae%2C_H.29_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, continuo'
+duration_minutes: 2

@@ -1,0 +1,19 @@
+id: buxtehude-entreit-euch-meine-sinnen
+work:
+  composer: Buxtehude, Dietrich
+  title: Entreißt euch meine Sinnen
+  ids:
+    imslp: Entreißt euch meine Sinnen, BuxWV 25 (Buxtehude, Dietrich)
+  year: 1925
+formula: ''
+instrumentation:
+  soloists:
+  - soprano
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Entrei%C3%9Ft_euch_meine_Sinnen%2C_BuxWV_25_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, 2 violins, continuo'

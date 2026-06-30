@@ -1,0 +1,18 @@
+id: charpentier-messe-pour-le-port-royal
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Messe pour le Port-Royal
+  ids:
+    imslp: Messe pour le Port-Royal, H.5 (Charpentier, Marc-Antoine)
+  year: 1687
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  additional_raw: unison female chorus | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Messe_pour_le_Port-Royal%2C_H.5_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 sopranos, unison female chorus, continuo'
+duration_minutes: 40

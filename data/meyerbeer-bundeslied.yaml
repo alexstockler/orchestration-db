@@ -1,0 +1,17 @@
+id: meyerbeer-bundeslied
+work:
+  composer: Meyerbeer, Giacomo
+  title: Bundeslied
+  ids:
+    imslp: Bundeslied (Meyerbeer, Giacomo)
+  year: 1861
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: male chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bundeslied_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: male chorus (TTBB), piano (ad lib.)'

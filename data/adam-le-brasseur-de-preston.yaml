@@ -1,0 +1,17 @@
+id: adam-le-brasseur-de-preston
+work:
+  composer: Adam, Adolphe
+  title: Le brasseur de Preston
+  ids:
+    imslp: Le brasseur de Preston (Adam, Adolphe)
+  year: 1839
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_brasseur_de_Preston_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

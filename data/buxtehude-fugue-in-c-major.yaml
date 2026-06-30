@@ -1,0 +1,15 @@
+id: buxtehude-fugue-in-c-major
+work:
+  composer: Buxtehude, Dietrich
+  title: Fugue in C major
+  ids:
+    imslp: Fugue in C major, BuxWV 174 (Buxtehude, Dietrich)
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_C_major%2C_BuxWV_174_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

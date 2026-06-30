@@ -1,0 +1,16 @@
+id: raff-grande-mazurka
+work:
+  composer: Raff, Joachim
+  title: Grande Mazurka
+  ids:
+    imslp: Grande Mazurka, Op.38 (Raff, Joachim)
+  year: 1847
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grande_Mazurka%2C_Op.38_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

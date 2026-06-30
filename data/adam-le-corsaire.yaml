@@ -1,0 +1,14 @@
+id: adam-le-corsaire
+work:
+  composer: Adam, Adolphe
+  title: Le corsaire
+  ids:
+    imslp: Le corsaire (Adam, Adolphe)
+  year: 1855
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Le_corsaire_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

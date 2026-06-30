@@ -1,0 +1,18 @@
+id: meyerbeer-hor-ich-das-liedchen-klingen
+work:
+  composer: Meyerbeer, Giacomo
+  title: Hör ich das Liedchen klingen
+  ids:
+    imslp: Hör ich das Liedchen klingen (Meyerbeer, Giacomo)
+  year: 1837
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/H%C3%B6r_ich_das_Liedchen_klingen_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

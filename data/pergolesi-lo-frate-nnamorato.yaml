@@ -1,0 +1,16 @@
+id: pergolesi-lo-frate-nnamorato
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Lo frate 'nnamorato
+  ids:
+    imslp: Lo frate 'nnamorato (Pergolesi, Giovanni Battista)
+  year: 1732
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lo_frate_%27nnamorato_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, orchestra'

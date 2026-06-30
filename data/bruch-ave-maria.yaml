@@ -1,0 +1,15 @@
+id: bruch-ave-maria
+work:
+  composer: Bruch, Max
+  title: Ave Maria
+  ids:
+    imslp: Ave Maria, Op.61 (Bruch, Max)
+  year: 1892
+formula: ''
+instrumentation:
+  additional_raw: Cello and Orchestra
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ave_Maria%2C_Op.61_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Cello and Orchestra'

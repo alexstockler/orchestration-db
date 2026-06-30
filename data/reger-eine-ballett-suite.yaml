@@ -1,0 +1,27 @@
+id: reger-eine-ballett-suite
+work:
+  composer: Reger, Max
+  title: Eine Ballett-Suite
+  ids:
+    imslp: Eine Ballett-Suite, Op.130 (Reger, Max)
+  year: 1913
+formula: 2222 4200 tmp str
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+  trumpet: 2
+  percussion:
+    timpani: 1
+    instruments:
+    - triangle
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Eine_Ballett-Suite%2C_Op.130_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets (A/B), 2 bassoons, 4 horns
+    (F), 2 trumpets (C), timpani, triangle, strings'
+duration_minutes: 25

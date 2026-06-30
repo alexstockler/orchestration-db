@@ -1,0 +1,18 @@
+id: meyerbeer-a-une-jeune-mere
+work:
+  composer: Meyerbeer, Giacomo
+  title: À une jeune mère
+  ids:
+    imslp: À une jeune mère (Meyerbeer, Giacomo)
+  year: 1839
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/%C3%80_une_jeune_m%C3%A8re_%28Meyerbeer%2C_Giacomo%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice, Piano'

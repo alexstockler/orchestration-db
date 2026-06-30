@@ -1,0 +1,21 @@
+id: reger-blaserserenade
+work:
+  composer: Reger, Max
+  title: Bläserserenade
+  ids:
+    imslp: Bläserserenade, WoO I/9 (Reger, Max)
+  year: 1904
+formula: 2222 4000
+instrumentation:
+  flute: 2
+  oboe: 2
+  clarinet: 2
+  bassoon: 2
+  horn: 4
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Bl%C3%A4serserenade%2C_WoO_I/9_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 clarinets (B), 2 bassoons, 4 horns
+    (F)'
+duration_minutes: 5

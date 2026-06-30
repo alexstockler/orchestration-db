@@ -1,0 +1,18 @@
+id: pergolesi-orfeo-nel-chiuso-centro
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Orfeo ; Nel chiuso centro
+  ids:
+    imslp: Orfeo, P.115 (Pergolesi, Giovanni Battista)
+  year: 1735
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Orfeo%2C_P.115_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: soprano, strings, continuo'

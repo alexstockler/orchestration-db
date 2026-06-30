@@ -1,0 +1,16 @@
+id: raff-2-paraphrases-de-salon
+work:
+  composer: Raff, Joachim
+  title: 2 Paraphrases de Salon
+  ids:
+    imslp: 2 Paraphrases de Salon, Op.65 (Raff, Joachim)
+  year: 1855
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Paraphrases_de_Salon%2C_Op.65_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: 1 piano'

@@ -1,0 +1,18 @@
+id: martucci-momento-musicale-e-minuetto
+work:
+  composer: Martucci, Giuseppe
+  title: Momento musicale e Minuetto
+  ids:
+    imslp: Momento musicale e Minuetto (Martucci, Giuseppe)
+  year: 1890
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Momento_musicale_e_Minuetto_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello'

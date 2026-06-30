@@ -1,0 +1,16 @@
+id: gade-piano-sonata
+work:
+  composer: Gade, Niels
+  title: Piano Sonata
+  ids:
+    imslp: Piano Sonata, Op.28 (Gade, Niels)
+  year: 1854
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Sonata%2C_Op.28_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

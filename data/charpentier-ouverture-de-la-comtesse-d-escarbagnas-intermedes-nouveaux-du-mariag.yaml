@@ -1,0 +1,18 @@
+id: charpentier-ouverture-de-la-comtesse-d-escarbagnas-intermedes-nouveaux-du-mariag
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Ouverture de la Comtesse d'Escarbagnas, Intermèdes nouveaux du Mariage forcé
+  ids:
+    imslp: Ouverture et intermèdes, H.494 (Charpentier, Marc-Antoine)
+  year: 1672
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - tenor
+  additional_raw: Haute-contre | bass voice | continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ouverture_et_interm%C3%A8des%2C_H.494_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: Haute-contre, tenor, bass voice, strings, continuo'

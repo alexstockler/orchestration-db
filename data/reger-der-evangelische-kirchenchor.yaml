@@ -1,0 +1,15 @@
+id: reger-der-evangelische-kirchenchor
+work:
+  composer: Reger, Max
+  title: Der evangelische Kirchenchor
+  ids:
+    imslp: Der evangelische Kirchenchor, WoO VI/17 (Reger, Max)
+  year: 1901
+formula: ''
+instrumentation:
+  additional_raw: 4 voices a cappella (SATB)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_evangelische_Kirchenchor%2C_WoO_VI/17_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 voices a cappella (SATB)'

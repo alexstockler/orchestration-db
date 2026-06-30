@@ -1,0 +1,16 @@
+id: gade-morgenandacht
+work:
+  composer: Gade, Niels
+  title: Morgenandacht
+  ids:
+    imslp: Morgenandacht (Gade, Niels)
+  year: 1844
+formula: ''
+instrumentation:
+  soloists:
+  - voice and piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Morgenandacht_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: Voice and piano'

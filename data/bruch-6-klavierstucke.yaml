@@ -1,0 +1,16 @@
+id: bruch-6-klavierstucke
+work:
+  composer: Bruch, Max
+  title: 6 Klavierstücke
+  ids:
+    imslp: 6 Klavierstücke, Op.12 (Bruch, Max)
+  year: 1861
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Klavierst%C3%BCcke%2C_Op.12_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

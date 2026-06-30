@@ -1,0 +1,16 @@
+id: martucci-scherzo
+work:
+  composer: Martucci, Giuseppe
+  title: Scherzo
+  ids:
+    imslp: Scherzo, Op.23 (Martucci, Giuseppe)
+  year: 1876
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Scherzo%2C_Op.23_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

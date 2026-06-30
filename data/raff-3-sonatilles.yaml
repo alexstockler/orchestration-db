@@ -1,0 +1,16 @@
+id: raff-3-sonatilles
+work:
+  composer: Raff, Joachim
+  title: 3 Sonatilles
+  ids:
+    imslp: 3 Sonatilles, Op.99 (Raff, Joachim)
+  year: 1861
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Sonatilles%2C_Op.99_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

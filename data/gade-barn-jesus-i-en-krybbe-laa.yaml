@@ -1,0 +1,17 @@
+id: gade-barn-jesus-i-en-krybbe-laa
+work:
+  composer: Gade, Niels
+  title: Barn Jesus i en krybbe laa
+  ids:
+    imslp: Barn Jesus i en krybbe laa (Gade, Niels)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Barn_Jesus_i_en_krybbe_laa_%28Gade%2C_Niels%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

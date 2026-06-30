@@ -1,0 +1,20 @@
+id: martucci-piano-quintet
+work:
+  composer: Martucci, Giuseppe
+  title: Piano Quintet
+  ids:
+    imslp: Piano Quintet, Op.45 (Martucci, Giuseppe)
+  year: 1877
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 2
+    viola: 1
+    cello: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Piano_Quintet%2C_Op.45_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, viola, cello, piano'

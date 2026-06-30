@@ -1,0 +1,24 @@
+id: charpentier-te-deum
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Te Deum
+  ids:
+    imslp: Te Deum, H.146 (Charpentier, Marc-Antoine)
+  year: 1957
+formula: 2200 0200 str
+instrumentation:
+  flute: 2
+  oboe: 2
+  trumpet: 2
+  percussion:
+    instruments:
+    - drums
+  strings:
+    standard: true
+    description: '4'
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Te_Deum%2C_H.146_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 flutes, 2 oboes, 2 trumpets, drums, strings (4), continuo'

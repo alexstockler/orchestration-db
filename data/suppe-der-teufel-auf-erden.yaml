@@ -1,0 +1,17 @@
+id: suppe-der-teufel-auf-erden
+work:
+  composer: Suppé, Franz von
+  title: Der Teufel auf Erden
+  ids:
+    imslp: Der Teufel auf Erden (Suppé, Franz von)
+  year: 1878
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Der_Teufel_auf_Erden_%28Supp%C3%A9%2C_Franz_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus (SATB), orchestra'

@@ -1,0 +1,23 @@
+id: charpentier-priere-a-la-vierge-du-pere-bernard
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Prière à la Vierge du Père Bernard
+  ids:
+    imslp: Prière à la Vierge du Père Bernard, H.367 (Charpentier, Marc-Antoine)
+  year: 1693
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  - tenor
+  - bass
+  chorus_raw: mixed chorus
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pri%C3%A8re_%C3%A0_la_Vierge_du_P%C3%A8re_Bernard%2C_H.367_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, tenor, bass, mixed chorus (SATB), 2 violins, continuo'
+duration_minutes: 4

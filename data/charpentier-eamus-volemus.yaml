@@ -1,0 +1,22 @@
+id: charpentier-eamus-volemus
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Eamus volemus
+  ids:
+    imslp: Eamus, volemus, H.429 (Charpentier, Marc-Antoine)
+  year: 1682
+formula: ''
+instrumentation:
+  soloists:
+  - sopranos
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Eamus%2C_volemus%2C_H.429_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 sopranos (or soprano, alto), bass; 2 violins (and/or
+    recorders), continuo'
+duration_minutes: 4

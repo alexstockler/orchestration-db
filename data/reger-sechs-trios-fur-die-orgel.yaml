@@ -1,0 +1,16 @@
+id: reger-sechs-trios-fur-die-orgel
+work:
+  composer: Reger, Max
+  title: Sechs Trios für die Orgel
+  ids:
+    imslp: 6 Trios, Op.47 (Reger, Max)
+  year: 1900
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/6_Trios%2C_Op.47_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'

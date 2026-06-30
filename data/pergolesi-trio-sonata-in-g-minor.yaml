@@ -1,0 +1,16 @@
+id: pergolesi-trio-sonata-in-g-minor
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Trio Sonata in G minor
+  ids:
+    imslp: Trio Sonata in G minor (Pergolesi, Giovanni Battista)
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Trio_Sonata_in_G_minor_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: 2 violins, continuo'

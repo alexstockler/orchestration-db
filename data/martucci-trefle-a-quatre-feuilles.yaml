@@ -1,0 +1,15 @@
+id: martucci-trefle-a-quatre-feuilles
+work:
+  composer: Martucci, Giuseppe
+  title: Trèfle à quatre feuilles
+  ids:
+    imslp: Trèfle à quatre feuilles, Op.74 (Martucci, Giuseppe)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Tr%C3%A8fle_%C3%A0_quatre_feuilles%2C_Op.74_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

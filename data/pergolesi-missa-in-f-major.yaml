@@ -1,0 +1,15 @@
+id: pergolesi-missa-in-f-major
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Missa in F major
+  ids:
+    imslp: Missa in F major, P.47 (Pergolesi, Giovanni Battista)
+formula: ''
+instrumentation:
+  soloists:
+  - 5 voices
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Missa_in_F_major%2C_P.47_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: 5 voices, orchestra'

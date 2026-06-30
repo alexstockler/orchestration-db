@@ -1,0 +1,21 @@
+id: charpentier-pange-lingua
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Pange lingua
+  ids:
+    imslp: Pange lingua, H.58 (Charpentier, Marc-Antoine)
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  - tenor
+  - bass
+  solo_strings:
+    violin: 2
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pange_lingua%2C_H.58_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, tenor, bass, 2 violins, continuo'
+duration_minutes: 5

@@ -1,0 +1,13 @@
+id: adam-la-filleule-des-fees
+work:
+  composer: Adam, Adolphe
+  title: La filleule des Fées
+  ids:
+    imslp: La filleule des fées (Adam, Adolphe)
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/La_filleule_des_f%C3%A9es_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: orchestra'

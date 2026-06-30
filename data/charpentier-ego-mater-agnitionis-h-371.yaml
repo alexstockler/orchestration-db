@@ -1,0 +1,20 @@
+id: charpentier-ego-mater-agnitionis-h-371
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Ego mater agnitionis, H.371
+  ids:
+    imslp: Ego mater agnitionis, H.371 (Charpentier, Marc-Antoine)
+  year: 1696
+formula: ''
+instrumentation:
+  soloists:
+  - alto
+  - tenors
+  - bass
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ego_mater_agnitionis%2C_H.371_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: alto, 2 tenors, bass, continuo'
+duration_minutes: 5

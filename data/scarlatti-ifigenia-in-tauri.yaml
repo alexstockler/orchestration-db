@@ -1,0 +1,14 @@
+id: scarlatti-ifigenia-in-tauri
+work:
+  composer: Scarlatti, Domenico
+  title: Ifigenia in Tauri
+  ids:
+    imslp: Ifigenia in Tauri (Scarlatti, Domenico)
+formula: ''
+instrumentation:
+  additional_raw: undetermined
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Ifigenia_in_Tauri_%28Scarlatti%2C_Domenico%29
+  confidence: single_source
+  notes: 'Instrumentation: undetermined'

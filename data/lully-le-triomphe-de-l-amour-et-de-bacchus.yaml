@@ -1,0 +1,17 @@
+id: lully-le-triomphe-de-l-amour-et-de-bacchus
+work:
+  composer: Lully, Jean-Baptiste
+  title: Le triomphe de l'Amour et de Bacchus
+  ids:
+    imslp: Les fêtes de l'Amour et de Bacchus, LWV 47 (Lully, Jean-Baptiste)
+  year: 1672
+formula: ''
+instrumentation:
+  soloists:
+  - voices
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Les_f%C3%AAtes_de_l%27Amour_et_de_Bacchus%2C_LWV_47_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: voices, mixed chorus, orchestra'

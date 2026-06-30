@@ -1,0 +1,17 @@
+id: reger-2-spiritual-songs-op-105
+work:
+  composer: Reger, Max
+  title: 2 Spiritual Songs, Op.105
+  ids:
+    imslp: 2 Geistliche Lieder, Op.105 (Reger, Max)
+  year: 1907
+formula: ''
+instrumentation:
+  soloists:
+  - voice
+  additional_raw: organ (or harmonium or piano)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Geistliche_Lieder%2C_Op.105_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, organ (or harmonium or piano)'

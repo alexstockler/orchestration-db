@@ -1,0 +1,17 @@
+id: pergolesi-chi-non-ode-e-chi-non-vede-segreto-tormento
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Chi non ode e chi non vede ; Segreto tormento
+  ids:
+    imslp: Chi non ode e chi non vede, P.117 (Pergolesi, Giovanni Battista)
+formula: str
+instrumentation:
+  strings: str
+  soloists:
+  - mezzo-soprano
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Chi_non_ode_e_chi_non_vede%2C_P.117_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: mezzo-soprano, strings, continuo'

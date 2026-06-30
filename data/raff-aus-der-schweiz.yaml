@@ -1,0 +1,18 @@
+id: raff-aus-der-schweiz
+work:
+  composer: Raff, Joachim
+  title: Aus der Schweiz
+  ids:
+    imslp: Aus der Schweiz, Op.57 (Raff, Joachim)
+  year: 1848
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aus_der_Schweiz%2C_Op.57_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

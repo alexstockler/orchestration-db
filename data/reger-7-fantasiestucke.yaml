@@ -1,0 +1,15 @@
+id: reger-7-fantasiestucke
+work:
+  composer: Reger, Max
+  title: 7 Fantasiestücke
+  ids:
+    imslp: 7 Fantasiestücke, Op.26 (Reger, Max)
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/7_Fantasiest%C3%BCcke%2C_Op.26_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

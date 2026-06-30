@@ -1,0 +1,16 @@
+id: raff-12-pieces-for-piano-four-hands
+work:
+  composer: Raff, Joachim
+  title: 12 Pieces for Piano Four Hands
+  ids:
+    imslp: 12 Pieces for Piano 4 Hands, Op.82 (Raff, Joachim)
+  year: 1861
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Pieces_for_Piano_4_Hands%2C_Op.82_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano 4 hands'

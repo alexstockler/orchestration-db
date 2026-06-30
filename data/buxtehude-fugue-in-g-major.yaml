@@ -1,0 +1,17 @@
+id: buxtehude-fugue-in-g-major
+work:
+  composer: Buxtehude, Dietrich
+  title: Fugue in G major
+  ids:
+    imslp: Fugue in G major, BuxWV 175 (Buxtehude, Dietrich)
+  year: 1685
+formula: org
+instrumentation:
+  keyboards:
+  - instrument: organ
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fugue_in_G_major%2C_BuxWV_175_%28Buxtehude%2C_Dietrich%29
+  confidence: single_source
+  notes: 'Instrumentation: organ'
+duration_minutes: 4

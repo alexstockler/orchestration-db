@@ -1,0 +1,15 @@
+id: bellini-sinfonia-in-re
+work:
+  composer: Bellini, Vincenzo
+  title: Sinfonia in Re
+  ids:
+    imslp: Symphony in D major (Bellini, Vincenzo)
+  year: 1825
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Symphony_in_D_major_%28Bellini%2C_Vincenzo%29
+  confidence: single_source
+  notes: 'Instrumentation: Orchestra'
+duration_minutes: 8

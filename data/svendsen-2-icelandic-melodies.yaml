@@ -1,0 +1,15 @@
+id: svendsen-2-icelandic-melodies
+work:
+  composer: Svendsen, Johan
+  title: 2 Icelandic Melodies
+  ids:
+    imslp: 2 Icelandic Melodies, Op.30 (Svendsen, Johan)
+  year: 1877
+formula: str
+instrumentation:
+  strings: str
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/2_Icelandic_Melodies%2C_Op.30_%28Svendsen%2C_Johan%29
+  confidence: single_source
+  notes: 'Instrumentation: strings'

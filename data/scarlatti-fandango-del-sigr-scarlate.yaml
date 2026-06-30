@@ -1,0 +1,15 @@
+id: scarlatti-fandango-del-sigr-scarlate
+work:
+  composer: Scarlatti, Domenico
+  title: Fandango del Sigr. Scarlate
+  ids:
+    imslp: Fandango del Sigr. Scarlate (Scarlatti, Domenico)
+formula: hpd
+instrumentation:
+  keyboards:
+  - instrument: harpsichord
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Fandango_del_Sigr._Scarlate_%28Scarlatti%2C_Domenico%29
+  confidence: single_source
+  notes: 'Instrumentation: harpsichord'

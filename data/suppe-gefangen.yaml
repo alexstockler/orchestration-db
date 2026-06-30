@@ -1,0 +1,19 @@
+id: suppe-gefangen
+work:
+  composer: Suppé, Franz von
+  title: Gefangen
+  ids:
+    imslp: Gefangen (Suppé, Franz von)
+  year: 1890
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+  additional_raw: cello (or flute or horn or violin)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Gefangen_%28Supp%C3%A9%2C_Franz_von%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, cello (or flute or horn or violin), piano'

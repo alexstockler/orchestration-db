@@ -1,0 +1,16 @@
+id: raff-aus-der-adventzeit
+work:
+  composer: Raff, Joachim
+  title: Aus der Adventzeit
+  ids:
+    imslp: Aus der Adventzeit, Op.216 (Raff, Joachim)
+  year: 1879
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Aus_der_Adventzeit%2C_Op.216_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

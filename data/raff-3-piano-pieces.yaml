@@ -1,0 +1,16 @@
+id: raff-3-piano-pieces
+work:
+  composer: Raff, Joachim
+  title: 3 Piano Pieces
+  ids:
+    imslp: 3 Piano Pieces, Op.125 (Raff, Joachim)
+  year: 1865
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Piano_Pieces%2C_Op.125_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'

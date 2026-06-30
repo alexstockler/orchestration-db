@@ -1,0 +1,14 @@
+id: reger-lyric-andante
+work:
+  composer: Reger, Max
+  title: Lyric Andante
+  ids:
+    imslp: Lyrisches Andante, WoO III/7 (Reger, Max)
+  year: 1898
+formula: ''
+instrumentation: {}
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Lyrisches_Andante%2C_WoO_III/7_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: string orchestra'

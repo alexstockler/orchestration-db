@@ -1,0 +1,15 @@
+id: bruch-9-lieder
+work:
+  composer: Bruch, Max
+  title: 9 Lieder
+  ids:
+    imslp: 9 Lieder, Op.60 (Bruch, Max)
+  year: 1892
+formula: ''
+instrumentation:
+  chorus_raw: mixed chorus
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/9_Lieder%2C_Op.60_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: Mixed chorus (SATB)'

@@ -1,0 +1,19 @@
+id: lully-marche-de-savoye
+work:
+  composer: Lully, Jean-Baptiste
+  title: Marche de Savoye
+  ids:
+    imslp: Marche de Savoye (Lully, Jean-Baptiste)
+  year: 1685
+formula: ''
+instrumentation:
+  percussion:
+    instruments:
+    - drum
+  additional_raw: 3 parts (oboes) with a bass
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Marche_de_Savoye_%28Lully%2C_Jean-Baptiste%29
+  confidence: single_source
+  notes: 'Instrumentation: 3 parts (oboes) with a bass, drum'
+duration_minutes: 2

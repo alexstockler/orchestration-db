@@ -1,0 +1,18 @@
+id: bruch-12-schottische-volkslieder
+work:
+  composer: Bruch, Max
+  title: 12 Schottische Volkslieder
+  ids:
+    imslp: 12 Schottische Volkslieder (Bruch, Max)
+  year: 1864
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/12_Schottische_Volkslieder_%28Bruch%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

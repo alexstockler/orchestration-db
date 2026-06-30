@@ -1,0 +1,18 @@
+id: adam-sous-l-ormeau
+work:
+  composer: Adam, Adolphe
+  title: Sous l'ormeau
+  ids:
+    imslp: Sous l'ormeau (Adam, Adolphe)
+  year: 1841
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  soloists:
+  - voice
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Sous_l%27ormeau_%28Adam%2C_Adolphe%29
+  confidence: single_source
+  notes: 'Instrumentation: voice, piano'

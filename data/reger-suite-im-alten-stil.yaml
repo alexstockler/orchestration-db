@@ -1,0 +1,18 @@
+id: reger-suite-im-alten-stil
+work:
+  composer: Reger, Max
+  title: Suite im alten Stil
+  ids:
+    imslp: Suite im alten Stil, Op.93 (Reger, Max)
+  year: 1906
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  solo_strings:
+    violin: 1
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Suite_im_alten_Stil%2C_Op.93_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: violin, piano'

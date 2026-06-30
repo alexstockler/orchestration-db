@@ -1,0 +1,18 @@
+id: pergolesi-concertino-in-e-flat-major
+work:
+  composer: Pergolesi, Giovanni Battista
+  title: Concertino in E-flat major
+  ids:
+    imslp: Concertino in E-flat major, P.30 (Pergolesi, Giovanni Battista)
+formula: ''
+instrumentation:
+  solo_strings:
+    violin: 4
+    viola: 1
+    cello: 1
+  additional_raw: continuo
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Concertino_in_E-flat_major%2C_P.30_%28Pergolesi%2C_Giovanni_Battista%29
+  confidence: single_source
+  notes: 'Instrumentation: 4 violins, viola, cello, continuo'

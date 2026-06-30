@@ -1,0 +1,16 @@
+id: raff-am-giesbach
+work:
+  composer: Raff, Joachim
+  title: Am Gießsbach
+  ids:
+    imslp: Am Giessbach, Op.88 (Raff, Joachim)
+  year: 1858
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Am_Giessbach%2C_Op.88_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

@@ -1,0 +1,16 @@
+id: martucci-racconto-per-l-album-di-bellini
+work:
+  composer: Martucci, Giuseppe
+  title: Racconto (per l'Album di Bellini)
+  ids:
+    imslp: Racconto (per l'Album di Bellini), Op.37 (Martucci, Giuseppe)
+  year: 1877
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Racconto_%28per_l%27Album_di_Bellini%29%2C_Op.37_%28Martucci%2C_Giuseppe%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

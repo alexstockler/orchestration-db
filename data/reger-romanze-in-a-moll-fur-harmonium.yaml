@@ -1,0 +1,17 @@
+id: reger-romanze-in-a-moll-fur-harmonium
+work:
+  composer: Reger, Max
+  title: Romanze in A-Moll für Harmonium
+  ids:
+    imslp: Romanze, WoO IV/11 (Reger, Max)
+  year: 1904
+formula: harm
+instrumentation:
+  keyboards:
+  - instrument: harmonium
+  additional_raw: kunstharmonium (or organ)
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Romanze%2C_WoO_IV/11_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: harmonium, kunstharmonium (or organ)'

@@ -1,0 +1,16 @@
+id: raff-air-suisse
+work:
+  composer: Raff, Joachim
+  title: Air suisse
+  ids:
+    imslp: Air suisse, Op.11 (Raff, Joachim)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Air_suisse%2C_Op.11_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: piano'

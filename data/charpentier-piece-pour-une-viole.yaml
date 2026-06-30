@@ -1,0 +1,15 @@
+id: charpentier-piece-pour-une-viole
+work:
+  composer: Charpentier, Marc-Antoine
+  title: Pièce pour une viole
+  ids:
+    imslp: Pièce pour une viole, H.543 (Charpentier, Marc-Antoine)
+  year: 1679
+formula: ''
+instrumentation:
+  additional_raw: basse de viole
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Pi%C3%A8ce_pour_une_viole%2C_H.543_%28Charpentier%2C_Marc-Antoine%29
+  confidence: single_source
+  notes: 'Instrumentation: basse de viole'

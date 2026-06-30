@@ -1,0 +1,17 @@
+id: raff-grande-sonate
+work:
+  composer: Raff, Joachim
+  title: Grande sonate
+  ids:
+    imslp: Grande sonate, Op.14 (Raff, Joachim)
+  year: 1844
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/Grande_sonate%2C_Op.14_%28Raff%2C_Joachim%29
+  confidence: single_source
+  notes: 'Instrumentation: Piano'
+duration_minutes: 30

@@ -1,0 +1,17 @@
+id: reger-3-chore
+work:
+  composer: Reger, Max
+  title: 3 Chöre
+  ids:
+    imslp: 3 Chöre, Op.6 (Reger, Max)
+  year: 1892
+formula: pf
+instrumentation:
+  keyboards:
+  - instrument: piano
+  chorus_raw: choir
+provenance:
+  source: imslp
+  source_url: https://imslp.org/wiki/3_Ch%C3%B6re%2C_Op.6_%28Reger%2C_Max%29
+  confidence: single_source
+  notes: 'Instrumentation: choir (SATB), piano'
